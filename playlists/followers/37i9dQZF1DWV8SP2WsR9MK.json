@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 88388,
+  "2024-04-20": 88441,
   "date_first_scraped": "2022-06-20",
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
   "name": "Jazz Guitar Classics",
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266400,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/6XHlmJr4KbSTMucKnv1sRU"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266466,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 388546,
       "name": "Dexterity",
       "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 388546,
       "name": "Dexterity",
       "url": "https://open.spotify.com/track/60pccblu5wXPbh3H1WXrZP"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321866,
       "name": "Enjoy The Future !",
       "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321866,
       "name": "Enjoy The Future !",
       "url": "https://open.spotify.com/track/283vhU7Buz05DQpsgtkdKo"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286378,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/1hqQD9G2qUMq3iiDhqhetT"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287826,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/2gRJ1I0QWkU8E9ECZ6iZM6"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318840,
       "name": "For Toddlers Only",
       "url": "https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 318840,
       "name": "For Toddlers Only",
       "url": "https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3krZ5BbhXLJ67pGjkTnobD"
@@ -1077,6 +1077,24 @@
     {
       "album": {
         "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291640,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
+    },
+    {
+      "album": {
+        "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
       },
       "artists": [
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292093,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254160,
       "name": "It's a Blue World",
       "url": "https://open.spotify.com/track/2CXfxQY057JczwoKonH8dl"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253693,
       "name": "It's A Blue World - Original",
       "url": "https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 354373,
       "name": "Never Will I Marry",
       "url": "https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354373,
       "name": "Never Will I Marry",
       "url": "https://open.spotify.com/track/5U5dQkH5I16AkPx0OrR9JQ"
@@ -1649,9 +1667,9 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 412666,
-      "name": "Once Around The Park",
+      "name": "Once Around the Park",
       "url": "https://open.spotify.com/track/2kt141xiuDX8l0wPV61S9q"
     },
     {
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 412666,
       "name": "Once Around the Park",
       "url": "https://open.spotify.com/track/2zRSBy8MBIyuycGWeZ7fEl"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/7moyBSRfjuR0sKUver4dIq"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 324026,
       "name": "Straight No Chaser",
       "url": "https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324026,
       "name": "Straight No Chaser",
       "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 446493,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/5BBTrBMjyifggEYMgzojET"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 394560,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/3Kersuib3CNo2CzQZg52M3"

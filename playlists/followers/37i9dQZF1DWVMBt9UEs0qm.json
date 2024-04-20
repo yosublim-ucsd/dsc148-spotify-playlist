@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 83786,
+  "2024-04-20": 83780,
   "date_first_scraped": "2022-09-15",
   "description": "Classic pop, rock and folk for a pleasant drive.",
   "name": "Mellow Classics Drive",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 313320,
       "name": "Cool Change - Remastered 2010",
       "url": "https://open.spotify.com/track/1RaUxP6LHVAgbmLOn2naLl"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316218,
       "name": "Cool Change - Remastered 2022",
       "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
@@ -292,6 +292,24 @@
     },
     {
       "album": {
+        "name": "Dancing In The Moonlight",
+        "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178045,
+      "name": "Dancing In The Moonlight",
+      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+    },
+    {
+      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -303,7 +321,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
@@ -339,7 +357,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 455497,
       "name": "Deacon Blues",
       "url": "https://open.spotify.com/track/0xeBC6N81ZBYDtxuBFGSuO"
@@ -361,6 +379,24 @@
       "duration_ms": 456640,
       "name": "Deacon Blues",
       "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
+    },
+    {
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/7Hx2EA4wGaxtsiZCVVLV1i"
     },
     {
       "album": {
@@ -429,7 +465,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256426,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
@@ -451,6 +487,42 @@
       "duration_ms": 256545,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3unS9b2XonE6hT47qJhYpS"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of The Commodores",
+        "url": "https://open.spotify.com/album/7wexfT6sZsdsrKuMaoH7Mn"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0wtHjEAzLYYyGuk2WtpGwS"
+    },
+    {
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "album": {
@@ -483,7 +555,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
@@ -638,6 +710,24 @@
     },
     {
       "album": {
+        "name": "I Got A Name",
+        "url": "https://open.spotify.com/album/6QVn3X0VlX6XynvzgQVPi0"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "I Got A Name",
+      "url": "https://open.spotify.com/track/2sbF2F1fIKylqW79XFLbH8"
+    },
+    {
+      "album": {
         "name": "I Got a Name",
         "url": "https://open.spotify.com/album/64dufEP8npd2jYoPfdzWPJ"
       },
@@ -649,7 +739,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194493,
       "name": "I Got a Name (Stereo Version)",
       "url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK"
@@ -721,7 +811,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210726,
       "name": "If Not for You (2014 Remaster)",
       "url": "https://open.spotify.com/track/04meQOdHsGUMmlgLHmq0Is"
@@ -757,7 +847,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 210720,
       "name": "If Not For You - Remastered 2014",
       "url": "https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A"
@@ -793,7 +883,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 253866,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/2wBblZ0wyRVjSVKQrNwSFx"
@@ -811,7 +901,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258901,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug"
@@ -847,7 +937,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208026,
       "name": "Keep Me in Your Heart",
       "url": "https://open.spotify.com/track/1fRlDQzrpvWd4BlIzifUkJ"
@@ -869,6 +959,24 @@
       "duration_ms": 208026,
       "name": "Keep Me in Your Heart",
       "url": "https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt"
+    },
+    {
+      "album": {
+        "name": "The Wind",
+        "url": "https://open.spotify.com/album/2MdzSNkUMDfJNs2uEhxbbO"
+      },
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Keep Me in Your Heart",
+      "url": "https://open.spotify.com/track/6eceqMrRFKCnq7ksH2L7Wp"
     },
     {
       "album": {
@@ -1009,10 +1117,28 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187826,
       "name": "New York's Not My Home",
       "url": "https://open.spotify.com/track/5vFmEDQivD8FNOOushB70i"
+    },
+    {
+      "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "New York's Not My Home",
+      "url": "https://open.spotify.com/track/3kI53wyLSN0XwLntUcgCQ1"
     },
     {
       "album": {
@@ -1189,7 +1315,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
@@ -1211,6 +1337,42 @@
       "duration_ms": 212666,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/3WkS8UHF7rzEzJjxPKtX2v"
+    },
+    {
+      "album": {
+        "name": "The Best of Steve Forbert: What Kinda Guy?",
+        "url": "https://open.spotify.com/album/6MDxxE3rPApEFg1uADJvmw"
+      },
+      "artists": [
+        {
+          "name": "Steve Forbert",
+          "url": "https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Romeo's Tune",
+      "url": "https://open.spotify.com/track/6eCWvDQXTITW534IANR5n1"
+    },
+    {
+      "album": {
+        "name": "Easy Listening Pop: The '70s",
+        "url": "https://open.spotify.com/album/05uu70oRKeXHsqtnfRqctM"
+      },
+      "artists": [
+        {
+          "name": "Robert John",
+          "url": "https://open.spotify.com/artist/3pbKylceBTiUa0fZk4J4sJ"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Sad Eyes",
+      "url": "https://open.spotify.com/track/3RdzYSEDUAv7sjmliPyHZp"
     },
     {
       "album": {
@@ -1243,7 +1405,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214226,
       "name": "Sad Eyes - Sunset Sound Mix",
       "url": "https://open.spotify.com/track/00660AuYKix2Bt8rOnS9LH"
@@ -1315,10 +1477,28 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261440,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/1CM1wOqD2AIjt2MWd31LV2"
+    },
+    {
+      "album": {
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "url": "https://open.spotify.com/album/5BNKOIW23yM2I97OAMEEbv"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261560,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/5HKwWqd7FazykEv22mfMb7"
     },
     {
       "album": {

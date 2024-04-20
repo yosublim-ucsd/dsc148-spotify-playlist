@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 27367,
+  "2024-04-20": 27372,
   "date_first_scraped": "2023-10-03",
   "description": "Ya sea en la rampa o en la consola, as\u00ed sonaba montar en patineta.",
   "name": "Skater Nostalgia",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
@@ -71,10 +71,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168320,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
+    },
+    {
+      "album": {
+        "name": "Afraid of Heights",
+        "url": "https://open.spotify.com/album/6frG0tN5DQbV26LFKbjYTu"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "Afraid of Heights",
+      "url": "https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR"
     },
     {
       "album": {
@@ -89,7 +107,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225680,
       "name": "Afraid of Heights",
       "url": "https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw"
@@ -201,10 +219,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213733,
       "name": "Anarchy In the UK",
       "url": "https://open.spotify.com/track/17YNjZoMHOoS8BM1fcgiBk"
+    },
+    {
+      "album": {
+        "name": "The Sex Pistols",
+        "url": "https://open.spotify.com/album/5hv8m1pBKCMBf3kYNExaz4"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Anarchy In the UK",
+      "url": "https://open.spotify.com/track/6jx7pKjpXKuQdXXPI3H8qY"
     },
     {
       "album": {
@@ -235,7 +271,7 @@
     {
       "album": {
         "name": "Electric",
-        "url": "https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB"
+        "url": "https://open.spotify.com/album/6b36dzEUgqlYQ27RN3DdqE"
       },
       "artists": [
         {
@@ -246,6 +282,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214840,
+      "name": "Bad Fun",
+      "url": "https://open.spotify.com/track/1KxSzEDrlI8hLXlJlreEAN"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 214840,
       "name": "Bad Fun",
       "url": "https://open.spotify.com/track/4lZ0jJ18JHo9GR4SK5s0nZ"
@@ -263,10 +317,46 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175440,
       "name": "Beach Blanket Bongout (Jfa)",
       "url": "https://open.spotify.com/track/5PlUi2pY9gAVqD0nYnI1Ou"
+    },
+    {
+      "album": {
+        "name": "Let Them Eat Wood",
+        "url": "https://open.spotify.com/album/1YpzOU1uBHMvVHca7Jh3CD"
+      },
+      "artists": [
+        {
+          "name": "A.N.S.",
+          "url": "https://open.spotify.com/artist/7EQrnCUHtVg5uyIgSMxtpl"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "Beach Blanket Bongout (JFA)",
+      "url": "https://open.spotify.com/track/6d5egRGAqrrAoGpq3b3lMG"
+    },
+    {
+      "album": {
+        "name": "First Born",
+        "url": "https://open.spotify.com/album/17D4f75Efca3NNTmJGIZc1"
+      },
+      "artists": [
+        {
+          "name": "Eyedea & Abilities",
+          "url": "https://open.spotify.com/artist/4pxU0h86QnMOe6iNIy7pCU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Big Shots",
+      "url": "https://open.spotify.com/track/5IzQTd9Rm1plFKuZcWD6SQ"
     },
     {
       "album": {
@@ -289,7 +379,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230026,
       "name": "Big Shots",
       "url": "https://open.spotify.com/track/2e8EITiodyhvijf6inrM3j"
@@ -307,10 +397,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204173,
       "name": "Blackball",
       "url": "https://open.spotify.com/track/0Xd2QGTMxweKlplNrJ9jNx"
+    },
+    {
+      "album": {
+        "name": "The Offspring",
+        "url": "https://open.spotify.com/album/74FpMi5afZykegHPuVQL2g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Blackball",
+      "url": "https://open.spotify.com/track/6yBfgoEJsDGSZb1A6pekSl"
     },
     {
       "album": {
@@ -361,7 +469,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 129009,
       "name": "Bloodstains",
       "url": "https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn"
@@ -379,7 +487,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126989,
       "name": "Bloodstains - Re-Recorded",
       "url": "https://open.spotify.com/track/7LQyIbPLk22Qem2rNmitCL"
@@ -467,10 +575,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288666,
       "name": "By The Time I Get To Arizona",
       "url": "https://open.spotify.com/track/5Y7Tj2fh27PM08CgaaDwoF"
+    },
+    {
+      "album": {
+        "name": "25th Anniversary Collection",
+        "url": "https://open.spotify.com/album/62dTgSntFHwhx34YFEzJMd"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "By The Time I Get To Arizona",
+      "url": "https://open.spotify.com/track/7MAy72e8quAzhfesU4MMY5"
     },
     {
       "album": {
@@ -511,7 +637,7 @@
     {
       "album": {
         "name": "Occupational Hazard",
-        "url": "https://open.spotify.com/album/18WsSzvy8wk1phCQqmC9dg"
+        "url": "https://open.spotify.com/album/03NRIyZ1h26mmL4w4prMXw"
       },
       "artists": [
         {
@@ -522,6 +648,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Committed",
+      "url": "https://open.spotify.com/track/3bZRQNkuI4pztoAGmUeBu2"
+    },
+    {
+      "album": {
+        "name": "Occupational Hazard",
+        "url": "https://open.spotify.com/album/18WsSzvy8wk1phCQqmC9dg"
+      },
+      "artists": [
+        {
+          "name": "Unsane",
+          "url": "https://open.spotify.com/artist/2C3gpQ0UMPjrOQ4FYdylRS"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 162000,
       "name": "Committed",
       "url": "https://open.spotify.com/track/7144KnV7H7I0aCTA3t9Pw4"
@@ -539,10 +683,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194826,
       "name": "Connect To Consume",
       "url": "https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN"
+    },
+    {
+      "album": {
+        "name": "Connect To Consume",
+        "url": "https://open.spotify.com/album/595dcTaOC9sXOIfbutmwGr"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Connect To Consume",
+      "url": "https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp"
     },
     {
       "album": {
@@ -582,8 +744,8 @@
     },
     {
       "album": {
-        "name": "We're Mad! The Anthology",
-        "url": "https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy"
+        "name": "We're Mad - The Anthology",
+        "url": "https://open.spotify.com/album/1ylwIEzDsRNab1Z0lqnJ2c"
       },
       "artists": [
         {
@@ -596,7 +758,43 @@
       "date_removed": null,
       "duration_ms": 151426,
       "name": "Dig That Groove Baby",
+      "url": "https://open.spotify.com/track/55uBQHjRdaAzmc6hE8BYPI"
+    },
+    {
+      "album": {
+        "name": "We're Mad! The Anthology",
+        "url": "https://open.spotify.com/album/6ZQk8OSfWt6kzoU4Jqx8Sy"
+      },
+      "artists": [
+        {
+          "name": "The Toy Dolls",
+          "url": "https://open.spotify.com/artist/747P2pvOwW22iRcFS9zQDv"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 151426,
+      "name": "Dig That Groove Baby",
       "url": "https://open.spotify.com/track/6CF9Eua4NiiB0gmeObmZ8w"
+    },
+    {
+      "album": {
+        "name": "Drunken Lullabies",
+        "url": "https://open.spotify.com/album/5IA0awOYRHiyFFp8m5e8mK"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Drunken Lullabies",
+      "url": "https://open.spotify.com/track/0aE8nMLrrd2m6lTscFIbZw"
     },
     {
       "album": {
@@ -611,7 +809,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230640,
       "name": "Drunken Lullabies",
       "url": "https://open.spotify.com/track/7caiyAewYYoWu5rZZgQWgn"
@@ -683,10 +881,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265101,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8"
+    },
+    {
+      "album": {
+        "name": "N.W.A. And Their Family Reunion",
+        "url": "https://open.spotify.com/album/211cmD9AlnfpVTEjhrokzl"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263093,
+      "name": "Express Yourself - Remastered 2000",
+      "url": "https://open.spotify.com/track/0Qp37xG9JmIpYURi8xJl3E"
     },
     {
       "album": {
@@ -737,10 +953,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197666,
       "name": "Freightliner",
       "url": "https://open.spotify.com/track/3RQLI2IYRCkHhyW2WuRQlm"
+    },
+    {
+      "album": {
+        "name": "Fuel for the Hate Game",
+        "url": "https://open.spotify.com/album/1ECqsVdmpgQRtnxFNCdnuS"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "Freightliner",
+      "url": "https://open.spotify.com/track/3ass5xSh5ws3AyTF2l8cCq"
     },
     {
       "album": {
@@ -773,10 +1007,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235093,
       "name": "Giant",
       "url": "https://open.spotify.com/track/32inVNSf3i5F30rjEvwU4b"
+    },
+    {
+      "album": {
+        "name": "Charged",
+        "url": "https://open.spotify.com/album/64MnVT0m8w7SxqSSduvMdA"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/25ADEtXITg9hQKZdQv6qR6"
     },
     {
       "album": {
@@ -853,7 +1105,7 @@
     {
       "album": {
         "name": "Sneak Attack",
-        "url": "https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo"
+        "url": "https://open.spotify.com/album/2pwc00f5uTFXWwOBoEJ5jh"
       },
       "artists": [
         {
@@ -864,6 +1116,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235466,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/0AeWU0AgMsAgIrsjAhRxgW"
+    },
+    {
+      "album": {
+        "name": "Sneak Attack",
+        "url": "https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 235466,
       "name": "Hush",
       "url": "https://open.spotify.com/track/75PrH413lre392eFKHl3tw"
@@ -899,10 +1169,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161600,
       "name": "I Can't Surf",
       "url": "https://open.spotify.com/track/1qayBQRQNeZ2aqGoDLlPaw"
+    },
+    {
+      "album": {
+        "name": "Liquor In The Front",
+        "url": "https://open.spotify.com/album/1JDXLfwYeZ5xJMa8Oao9gX"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Horton Heat",
+          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "I Can't Surf",
+      "url": "https://open.spotify.com/track/6KGARNa3KrL72c7Cye75ES"
     },
     {
       "album": {
@@ -917,10 +1205,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223800,
       "name": "I'm A Swing It",
       "url": "https://open.spotify.com/track/1qB61CUkHHalhxapCrvMsE"
+    },
+    {
+      "album": {
+        "name": "Same As It Ever Was",
+        "url": "https://open.spotify.com/album/68CPMN8L6m8qeR5Knle4NP"
+      },
+      "artists": [
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223800,
+      "name": "I'm A Swing It",
+      "url": "https://open.spotify.com/track/5iiXWdrVYjxvwglo1zfryW"
     },
     {
       "album": {
@@ -971,10 +1277,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152826,
       "name": "Labor",
       "url": "https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT"
+    },
+    {
+      "album": {
+        "name": "Labor Days",
+        "url": "https://open.spotify.com/album/1EozNWj9YemnvgrpvqHpca"
+      },
+      "artists": [
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152826,
+      "name": "Labor",
+      "url": "https://open.spotify.com/track/6SZ9Tas1wuiFNdzwfddBi6"
     },
     {
       "album": {
@@ -997,7 +1321,7 @@
     {
       "album": {
         "name": "How I Spent My Summer Vacation",
-        "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
+        "url": "https://open.spotify.com/album/5k8oPlSwfuAaqD6JvKWWwK"
       },
       "artists": [
         {
@@ -1008,6 +1332,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Manthem",
+      "url": "https://open.spotify.com/track/5f2CbLQPpzs72W3YEJ2w3Y"
+    },
+    {
+      "album": {
+        "name": "How I Spent My Summer Vacation",
+        "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
+      },
+      "artists": [
+        {
+          "name": "The Bouncing Souls",
+          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 188973,
       "name": "Manthem",
       "url": "https://open.spotify.com/track/5pSjxUAwOol5e0TWp1ecHC"
@@ -1051,7 +1393,7 @@
     {
       "album": {
         "name": "The Best of Luck Club",
-        "url": "https://open.spotify.com/album/5YCf7fOpsfKgB5f3XFLjh8"
+        "url": "https://open.spotify.com/album/4tJrRPoZQsGRCmIrtFSqgV"
       },
       "artists": [
         {
@@ -1062,6 +1404,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Misery Guts",
+      "url": "https://open.spotify.com/track/3Tfq8Ba1jAFipLb4HLgt6x"
+    },
+    {
+      "album": {
+        "name": "The Best of Luck Club",
+        "url": "https://open.spotify.com/album/5YCf7fOpsfKgB5f3XFLjh8"
+      },
+      "artists": [
+        {
+          "name": "Alex Lahey",
+          "url": "https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 153400,
       "name": "Misery Guts",
       "url": "https://open.spotify.com/track/4nFEpqglSpknKNaGLT8jeX"
@@ -1079,10 +1439,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167880,
       "name": "My Adidas",
       "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6pJciZv8HMs7imWW9s9J6P"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/5qC0fuGzssqHvNQsHmOdnh"
     },
     {
       "album": {
@@ -1187,10 +1565,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227506,
       "name": "Pin the Tail on the Donkey",
       "url": "https://open.spotify.com/track/3z0i5xf1iiEoiuhkTPKp3w"
+    },
+    {
+      "album": {
+        "name": "Naughty By Nature",
+        "url": "https://open.spotify.com/album/7f2uv1aSmzTMlPXDFiZCra"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227506,
+      "name": "Pin the Tail on the Donkey",
+      "url": "https://open.spotify.com/track/5G1ExEKtOyNbF9pIzSR98C"
     },
     {
       "album": {
@@ -1213,7 +1609,7 @@
     {
       "album": {
         "name": "Group Sounds",
-        "url": "https://open.spotify.com/album/5pAQ8lYvdjbdS6VTj54s1c"
+        "url": "https://open.spotify.com/album/5KMKLS1L967YX3m08Pe9t3"
       },
       "artists": [
         {
@@ -1224,6 +1620,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 114493,
+      "name": "Savoir Faire",
+      "url": "https://open.spotify.com/track/2LDgOsDMMhOLbNfYPo7h86"
+    },
+    {
+      "album": {
+        "name": "Group Sounds",
+        "url": "https://open.spotify.com/album/5pAQ8lYvdjbdS6VTj54s1c"
+      },
+      "artists": [
+        {
+          "name": "Rocket From The Crypt",
+          "url": "https://open.spotify.com/artist/5GOJQ1HSMGp1rEnOhBeH1h"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 114493,
       "name": "Savoir Faire",
       "url": "https://open.spotify.com/track/4A78VjJRlgrAsi1dRTpXVT"
@@ -1259,10 +1673,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181533,
       "name": "Seneca Falls",
       "url": "https://open.spotify.com/track/1wDfhmlEvVEbQnEIdMRfvf"
+    },
+    {
+      "album": {
+        "name": "Sing Sing Death House",
+        "url": "https://open.spotify.com/album/0MQhAuIfU4XA2ujWwcYJqh"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Seneca Falls",
+      "url": "https://open.spotify.com/track/7heIfZlpyGITaZQ3qQIOZm"
     },
     {
       "album": {
@@ -1285,7 +1717,7 @@
     {
       "album": {
         "name": "4AM Friday",
-        "url": "https://open.spotify.com/album/47Bt2cQNVM9ymLf7ajGqCl"
+        "url": "https://open.spotify.com/album/5sMfD4Gq1xiShIfrH5EiU9"
       },
       "artists": [
         {
@@ -1296,6 +1728,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/497IaeglNGEly8hg2mfdAL"
+    },
+    {
+      "album": {
+        "name": "4AM Friday",
+        "url": "https://open.spotify.com/album/47Bt2cQNVM9ymLf7ajGqCl"
+      },
+      "artists": [
+        {
+          "name": "Avail",
+          "url": "https://open.spotify.com/artist/7sFxn461tPZ03UewykYgam"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 192853,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/7tAXcpfuwnnlPYgJU3H1lA"
@@ -1400,6 +1850,24 @@
     },
     {
       "album": {
+        "name": "The Number Of The Beast",
+        "url": "https://open.spotify.com/album/1eNQWWDcjDNy6cpUlv1gfK"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291546,
+      "name": "The Number Of The Beast",
+      "url": "https://open.spotify.com/track/24ktWNuEVPkLHyihuYGyui"
+    },
+    {
+      "album": {
         "name": "The Number of the Beast (2015 Remaster)",
         "url": "https://open.spotify.com/album/1GmhZDrn15PUncSANUoteo"
       },
@@ -1411,7 +1879,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290586,
       "name": "The Number of the Beast (2015 Remaster)",
       "url": "https://open.spotify.com/track/0EG9tDhr5rd931Ebj213nO"
@@ -1465,7 +1933,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 202573,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc"
@@ -1483,7 +1951,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202573,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys"
@@ -1519,10 +1987,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165693,
       "name": "Whenimondamic",
       "url": "https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41"
+    },
+    {
+      "album": {
+        "name": "Soundpieces: Da Antidote",
+        "url": "https://open.spotify.com/album/0BD2W0EO8W1WGDsgGLJt7A"
+      },
+      "artists": [
+        {
+          "name": "Lootpack",
+          "url": "https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165693,
+      "name": "Whenimondamic",
+      "url": "https://open.spotify.com/track/3uNt1Ct5V5d73Cwu4yQpcA"
     },
     {
       "album": {
@@ -1545,7 +2031,7 @@
     {
       "album": {
         "name": "Back At The Laundromat",
-        "url": "https://open.spotify.com/album/2xeGnqTytd1i3Y7QWjT89R"
+        "url": "https://open.spotify.com/album/1lYqc1zvv4qQWrt7NbRVEH"
       },
       "artists": [
         {
@@ -1556,6 +2042,24 @@
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 135626,
+      "name": "Yer Country",
+      "url": "https://open.spotify.com/track/18Jvfw20hhne8pnV9nqGC2"
+    },
+    {
+      "album": {
+        "name": "Back At The Laundromat",
+        "url": "https://open.spotify.com/album/2xeGnqTytd1i3Y7QWjT89R"
+      },
+      "artists": [
+        {
+          "name": "U.S. Bombs",
+          "url": "https://open.spotify.com/artist/2yu3SWTzbVW04uIxegRzkP"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 135626,
       "name": "Yer Country",
       "url": "https://open.spotify.com/track/6ZBWpoLTtw0tIE7Y6rJbSI"

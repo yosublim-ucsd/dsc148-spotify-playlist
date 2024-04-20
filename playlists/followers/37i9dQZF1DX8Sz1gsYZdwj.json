@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 572228,
+  "2024-04-20": 602075,
   "date_first_scraped": "2021-12-21",
   "description": "Drift off to these peaceful classical melodies.",
   "name": "Classical Sleep",
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
@@ -1573,7 +1573,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218132,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
@@ -1973,7 +1973,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137013,
       "name": "Nederlag",
       "url": "https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2022-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137013,
       "name": "Nederlag",
       "url": "https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt"
@@ -3269,7 +3269,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/0m8MYDal7eCEfjApR7hyUP"
@@ -3287,7 +3287,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211055,
       "name": "This Night",
       "url": "https://open.spotify.com/track/1MxO57a8Ttyb1izW1uKGVl"
@@ -3688,6 +3688,24 @@
     },
     {
       "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/66JvWa2FrAi03M673DXRc7"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/0TnTf6JpDE2tQoO83zZfD0"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh"
       },
@@ -3699,7 +3717,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"

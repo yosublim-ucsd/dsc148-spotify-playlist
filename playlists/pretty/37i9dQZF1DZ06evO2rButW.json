@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 659044,
+  "num_followers": 658866,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGYxNWNmZDY2OWJjMDA5M2ZmYzhlNWIwMjE3ODdkMjE3",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGIzZWZlMDk4Y2YzNGNiYzEyNmMwZGFkZjNiYWI2OGEz",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Que Nadie Sepa Mi Sufrir",
-      "url": "https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SEIS",
         "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 41880,
       "name": "El Canto de Todos - Bonus Track",
       "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Te Quiero Yo",
+        "url": "https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 231080,
+      "name": "Palabras Tristes",
+      "url": "https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI"
     }
   ],
   "unique_name": "This Is Mon Laferte",

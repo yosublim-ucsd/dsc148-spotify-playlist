@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 144561,
+  "2024-04-20": 144564,
   "date_first_scraped": "2021-12-21",
   "description": "Texas Blues at its best.",
   "name": "Lone Star Blues",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314493,
       "name": "A Blue Song",
       "url": "https://open.spotify.com/track/1YyHSGKbfEiI7xwwvSn5z5"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314493,
       "name": "A Blue Song",
       "url": "https://open.spotify.com/track/433G78x9000nRkf4flw6bs"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186586,
       "name": "Arrested for Driving While Blind",
       "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "Arrested for Driving While Blind",
       "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 319360,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/7sheAObhEOIqDY8YFu3HJf"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341933,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4AYRVOyxKM3meGvpY8nQnA"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 341933,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/5iJoZZBSFpVtRPUWdERzeb"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213586,
       "name": "Don't Lose My Number",
       "url": "https://open.spotify.com/track/4t7Nh53jliIn7NoFN36qJG"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213586,
       "name": "Don't Lose My Number",
       "url": "https://open.spotify.com/track/7gcjudElezAMCD28CxD8cr"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/5uQmSlxgnr19AMo2D5rBqX"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268160,
       "name": "Honey, Hush aka Talking Woman Blues",
       "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268466,
       "name": "Honey, Hush aka Talking Woman Blues",
       "url": "https://open.spotify.com/track/6Aqdo2NI0hsoom3UpEWuLT"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247506,
       "name": "I Ain't Drunk",
       "url": "https://open.spotify.com/track/6MsrmoeiVpoNUAc4FsNPPP"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247400,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/3GlWQKV9uiSui0AoOZ8PaM"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286960,
       "name": "I Got My Mojo Working",
       "url": "https://open.spotify.com/track/6WDP4QrxAU1vRM9zITElCg"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230480,
       "name": "La Grange (2005 Remaster)",
       "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "La Grange - 2005 Remaster",
       "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/3qXcnzcNx45bXlWJzD730w"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185693,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/5jrq9La3ynS3B9aizefueu"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293293,
       "name": "Mojo Boogie",
       "url": "https://open.spotify.com/track/0tsKu0o04uNgkXpP8mP6tQ"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293400,
       "name": "Mojo Boogie - Remastered",
       "url": "https://open.spotify.com/track/6VbxpZ55Xv2L1CVKIO7Bul"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/16UV31f3UunkFqMOsIMU5n"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293373,
       "name": "My Texas Home",
       "url": "https://open.spotify.com/track/78smBCdkaExMyjg81o3qh5"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Pay the Band",
       "url": "https://open.spotify.com/track/2PWSSJM09LYjt7o2sgyRsr"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273426,
       "name": "Pay the Band",
       "url": "https://open.spotify.com/track/7nVvyXdvMJ8Ocaravj5edN"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "Sugar Coated Love",
       "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236026,
       "name": "Sugar Coated Love",
       "url": "https://open.spotify.com/track/6pJQv11LYmeXs10OWg5MD4"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260200,
       "name": "We The People",
       "url": "https://open.spotify.com/track/3v4UHYq9uKonBnNZai2N8j"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260200,
       "name": "We The People",
       "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 273346,
       "name": "Whiskey Drinkin' Blues",
       "url": "https://open.spotify.com/track/6CsdPQAmXxGozOfUK4TJWp"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2016-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/5szczyB4hqLZyNroGU5Quv"

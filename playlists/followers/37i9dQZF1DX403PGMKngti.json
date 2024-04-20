@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 60358,
+  "2024-04-20": 60263,
   "date_first_scraped": "2024-01-25",
   "description": "\u00a1Los \u00e9xitos m\u00e1s champet\u00faos de ayer y hoy se vacilan en Spotify! Foto: Ovy On the Drums, Luister La Voz, Dekko",
   "name": "Champeta & Terapia",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263543,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/5F1aLmVpdvcEQ99gRCpeCi"
+    },
+    {
+      "album": {
+        "name": "6 AM",
+        "url": "https://open.spotify.com/album/64a4dFGFLv7BxOl6HcCsoo"
+      },
+      "artists": [
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263543,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/5QKqyRML9G7h75C4dADHfT"
     },
     {
       "album": {
@@ -43,7 +61,7 @@
     {
       "album": {
         "name": "15 A\u00f1os Maquinando",
-        "url": "https://open.spotify.com/album/6lSheRHavdGGTFpwYmca0v"
+        "url": "https://open.spotify.com/album/4EiJpcfvlTpCB3N6R6I8Kf"
       },
       "artists": [
         {
@@ -54,9 +72,49 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Apretaito al Pickup",
+      "url": "https://open.spotify.com/track/1WLHpbWDgZG21hQBI9pDQc"
+    },
+    {
+      "album": {
+        "name": "15 A\u00f1os Maquinando",
+        "url": "https://open.spotify.com/album/6lSheRHavdGGTFpwYmca0v"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 221000,
       "name": "Apretaito al Pickup",
       "url": "https://open.spotify.com/track/5A3dCPrg1suWtFZs6CHYe1"
+    },
+    {
+      "album": {
+        "name": "La Supremac\u00eda",
+        "url": "https://open.spotify.com/album/3xp7ThCCttw1tliBPWkqjA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "As\u00f3mate a la Ventana - Remix",
+      "url": "https://open.spotify.com/track/1MoXIcWrVK6LvUTW7tFMuf"
     },
     {
       "album": {
@@ -75,7 +133,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208468,
       "name": "As\u00f3mate a la Ventana - Remix",
       "url": "https://open.spotify.com/track/4Gm7anWU6jrLaaloWnyWcc"
@@ -97,7 +155,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 228158,
       "name": "Bala Perdida",
       "url": "https://open.spotify.com/track/5ndUSa5Cg9S25lvHDV5YQT"
@@ -119,10 +177,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228264,
       "name": "Bala Perdida",
       "url": "https://open.spotify.com/track/4aYVhTtBkulyIn2OOJkmst"
+    },
+    {
+      "album": {
+        "name": "Borracho Bailando Champeta",
+        "url": "https://open.spotify.com/album/5f6MzSlF9a3KjI3BNwqnOa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219677,
+      "name": "Borracho Bailando Champeta",
+      "url": "https://open.spotify.com/track/0YvLeotyvjHwoyDo7R7Fx9"
     },
     {
       "album": {
@@ -141,10 +221,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219677,
       "name": "Borracho Bailando Champeta",
       "url": "https://open.spotify.com/track/6MJjmHFqdjkzNqWAoydcdT"
+    },
+    {
+      "album": {
+        "name": "Se Peg\u00f3 la Champeta en Cartagena, Vol. 2",
+        "url": "https://open.spotify.com/album/0BKQRH2gMvlBcPbpNJpwOF"
+      },
+      "artists": [
+        {
+          "name": "El Afinaito",
+          "url": "https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Busco Alguien Que Me Quiera",
+      "url": "https://open.spotify.com/track/1IHSUlfPjNiixMcoG1P8f2"
     },
     {
       "album": {
@@ -159,7 +257,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267173,
       "name": "Busco Alguien Que Me Quiera",
       "url": "https://open.spotify.com/track/0rsbcvPse062LU0mgn2ZNq"
@@ -177,7 +275,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198019,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/3kjbxc3euQmgQT177qNWPa"
@@ -195,7 +293,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/46W0RhOuD4nUPCCc6Gjsg7"
@@ -213,10 +311,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238262,
       "name": "Champeta con Dancehall",
       "url": "https://open.spotify.com/track/5ALJKghizrQpTuCHXSQc5J"
+    },
+    {
+      "album": {
+        "name": "Champeta Con Dancehall",
+        "url": "https://open.spotify.com/album/1VtzrHDtOpNtC2kwJTzfcB"
+      },
+      "artists": [
+        {
+          "name": "Rey Three Latino",
+          "url": "https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238295,
+      "name": "Champeta Con Dancehall",
+      "url": "https://open.spotify.com/track/5gx4Wl6KSnZYnE8i1kyMF1"
     },
     {
       "album": {
@@ -247,6 +363,28 @@
     {
       "album": {
         "name": "Champetua",
+        "url": "https://open.spotify.com/album/1U3LfdYkbiI8ZqpfKHUioR"
+      },
+      "artists": [
+        {
+          "name": "Oscar Prince",
+          "url": "https://open.spotify.com/artist/5XnGhskwJJ0JdXASSM3OIp"
+        },
+        {
+          "name": "BIP",
+          "url": "https://open.spotify.com/artist/7wxIOUfiitxXo8IWJ1O7IR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Champetua",
+      "url": "https://open.spotify.com/track/4cdwkVSwjdM2NxIMLpfKJ4"
+    },
+    {
+      "album": {
+        "name": "Champetua",
         "url": "https://open.spotify.com/album/4joMs1H6WBYzUIv17uYN5N"
       },
       "artists": [
@@ -261,7 +399,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238066,
       "name": "Champetua",
       "url": "https://open.spotify.com/track/6qUVpuObKhwKiXeC5zBXz1"
@@ -309,7 +447,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240979,
       "name": "Cipriano - MIx",
       "url": "https://open.spotify.com/track/7cLwbh71QxRirkzuLQX05G"
@@ -349,7 +487,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261075,
       "name": "El Avion",
       "url": "https://open.spotify.com/track/4rwZNe3ZJZbOiFMcGpYEbX"
@@ -367,10 +505,68 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208040,
       "name": "El Avioncito",
       "url": "https://open.spotify.com/track/7HOlapPvYVls2Ei0L83eLn"
+    },
+    {
+      "album": {
+        "name": "El Avioncito",
+        "url": "https://open.spotify.com/album/0WxhnVh7PYSmNNe1b1BDWS"
+      },
+      "artists": [
+        {
+          "name": "Giblack",
+          "url": "https://open.spotify.com/artist/7gaPV9Yp3OkLFjFGSscAhI"
+        },
+        {
+          "name": "K7 Estudio E.U",
+          "url": "https://open.spotify.com/artist/44ee0eweF9HiByKHgMa8qc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "El Avioncito",
+      "url": "https://open.spotify.com/track/4LpLAy1TgTVg097hienIjS"
+    },
+    {
+      "album": {
+        "name": "El Avi\u00f3n",
+        "url": "https://open.spotify.com/album/1TiKbE5oz8Rjt20p1aY5h9"
+      },
+      "artists": [
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260918,
+      "name": "El Avi\u00f3n",
+      "url": "https://open.spotify.com/track/1P87zPclg6hbSDxsdlVwqr"
+    },
+    {
+      "album": {
+        "name": "La Revoluci\u00f3n de la Champeta",
+        "url": "https://open.spotify.com/album/5WcrUPKvvpzO6QAZmOfodj"
+      },
+      "artists": [
+        {
+          "name": "El Afinaito",
+          "url": "https://open.spotify.com/artist/2n3i5T3VD5GwwjlQCnT51Z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "El Barco Va Pa' Lante",
+      "url": "https://open.spotify.com/track/1etGmOePNniG4K7gZbFdKW"
     },
     {
       "album": {
@@ -385,10 +581,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214230,
       "name": "El Barco Va Pa' Lante",
       "url": "https://open.spotify.com/track/4jrZvUFImCYOHoj3IP1dVT"
+    },
+    {
+      "album": {
+        "name": "El Bololo",
+        "url": "https://open.spotify.com/album/5e22WcFEFmz4MOhoZYsHue"
+      },
+      "artists": [
+        {
+          "name": "Bazurto All Stars",
+          "url": "https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179893,
+      "name": "El Bololo",
+      "url": "https://open.spotify.com/track/2WlvAXYRoVuZq9ZHBXCqwa"
     },
     {
       "album": {
@@ -403,7 +617,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182173,
       "name": "El Bololo",
       "url": "https://open.spotify.com/track/5k9sIPVVC0OpPEGRVlf1iZ"
@@ -457,10 +671,46 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241640,
       "name": "El Chocho",
       "url": "https://open.spotify.com/track/0HGsmC9LI16XikFgHW02qD"
+    },
+    {
+      "album": {
+        "name": "Champeta Fever",
+        "url": "https://open.spotify.com/album/1Crhh8zo0qeCHTUYox3A9K"
+      },
+      "artists": [
+        {
+          "name": "Charles King",
+          "url": "https://open.spotify.com/artist/3oOresfoyogzToPBpLUWJL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "El Chocho",
+      "url": "https://open.spotify.com/track/2dozo5SnIQhPq4yZAP3cUB"
+    },
+    {
+      "album": {
+        "name": "Invasi\u00f3n de Champeta",
+        "url": "https://open.spotify.com/album/3DiiNyIZqZtPGVIM6rRB9L"
+      },
+      "artists": [
+        {
+          "name": "Mr. Black",
+          "url": "https://open.spotify.com/artist/4uPa6DgbBdiRdeYriStqzb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240953,
+      "name": "El Cipriano - Vacile",
+      "url": "https://open.spotify.com/track/2cevY3JvK65c8Ercq6Ou1P"
     },
     {
       "album": {
@@ -475,10 +725,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254381,
       "name": "El Clavo",
       "url": "https://open.spotify.com/track/4NPy4B3SkOBrE0uEgzdeIO"
+    },
+    {
+      "album": {
+        "name": "El Clavo",
+        "url": "https://open.spotify.com/album/2VVZimHGBcRMhX1NJ5P5Ga"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262750,
+      "name": "El Clavo",
+      "url": "https://open.spotify.com/track/0kne4EKKROzApSpiYo4hWo"
     },
     {
       "album": {
@@ -529,10 +797,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213026,
       "name": "El Culpable",
       "url": "https://open.spotify.com/track/5pO2zUSbA8MDjWeDfqXsEG"
+    },
+    {
+      "album": {
+        "name": "El Culpable",
+        "url": "https://open.spotify.com/album/12zWBRbH84l2tEhNTpvrtM"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213054,
+      "name": "El Culpable",
+      "url": "https://open.spotify.com/track/3uAVsWdtUQG5lt3PH6vUNT"
     },
     {
       "album": {
@@ -551,6 +837,24 @@
       "duration_ms": 211886,
       "name": "El Liso",
       "url": "https://open.spotify.com/track/6vVp9urFjBYdqXjHGBz7lM"
+    },
+    {
+      "album": {
+        "name": "El Matrimonio",
+        "url": "https://open.spotify.com/album/685Btgy6n6LMx6GLLuduDh"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217469,
+      "name": "El Matrimonio",
+      "url": "https://open.spotify.com/track/11Fcg8nncJBF4pq3QwpL64"
     },
     {
       "album": {
@@ -583,7 +887,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217512,
       "name": "El Matrimonio",
       "url": "https://open.spotify.com/track/0iGBSX7sqysQekNISkFIS0"
@@ -645,10 +949,54 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235495,
       "name": "El Ret\u00e9n - Remix",
       "url": "https://open.spotify.com/track/3iZArDlxJyb72KVWPmb3JW"
+    },
+    {
+      "album": {
+        "name": "El Ret\u00e9n (Remix)",
+        "url": "https://open.spotify.com/album/1gfxKgrG1HoLaDPrKewfFZ"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235495,
+      "name": "El Ret\u00e9n - Remix",
+      "url": "https://open.spotify.com/track/3pcqgbT0Ozp3XMykjL5ByZ"
+    },
+    {
+      "album": {
+        "name": "El Presidente de la Champeta",
+        "url": "https://open.spotify.com/album/0ZIfrtY7dovkdlcxXcbTJB"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199424,
+      "name": "El Serrucho",
+      "url": "https://open.spotify.com/track/3G0A071AKOi2877n9zTjXZ"
     },
     {
       "album": {
@@ -681,10 +1029,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203781,
       "name": "El Serrucho",
       "url": "https://open.spotify.com/track/7uv8kwqs2bBxuWrRVPxee6"
+    },
+    {
+      "album": {
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/49Ye0InzRedCMIBjvZ7JYy"
+      },
+      "artists": [
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235990,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/3b5svDehoHLGoQx2OMYa12"
     },
     {
       "album": {
@@ -699,7 +1065,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238000,
       "name": "El Tambor",
       "url": "https://open.spotify.com/track/6AOZZbWl4tzPlnpwqLY7EA"
@@ -761,10 +1127,50 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193377,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/168EU7feRNREFOSQzYmI7R"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5NoVv3b2tpau1rFWlTKt7y"
+      },
+      "artists": [
+        {
+          "name": "Wilfran Castillo",
+          "url": "https://open.spotify.com/artist/1KDd0gF0WMZeFeHV2JRj1L"
+        },
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193377,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1aadQdFA7TT7VKOxjkOHX7"
+    },
+    {
+      "album": {
+        "name": "Symbiose (The best of Paris)",
+        "url": "https://open.spotify.com/album/6egWPdXXFWdlf8RSD4H8p2"
+      },
+      "artists": [
+        {
+          "name": "Syran Mbenza",
+          "url": "https://open.spotify.com/artist/5mAdywAEm96qSCaIZPcKjx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318440,
+      "name": "Icha",
+      "url": "https://open.spotify.com/track/03StC3a18DP7jePXd2NLBX"
     },
     {
       "album": {
@@ -779,7 +1185,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320426,
       "name": "Icha",
       "url": "https://open.spotify.com/track/695gs0n4N3IPUbMIzNts93"
@@ -845,10 +1251,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180976,
       "name": "La Cama Floja",
       "url": "https://open.spotify.com/track/50tFfNkZx09vYePD4dIJ3H"
+    },
+    {
+      "album": {
+        "name": "La Cama Floja (Falta una Tabla en la Cama)",
+        "url": "https://open.spotify.com/album/4cLw0Pp74kOq2NY8pONbC6"
+      },
+      "artists": [
+        {
+          "name": "Jeivy Dance",
+          "url": "https://open.spotify.com/artist/03nNDIejwqix5PecP2i0rv"
+        },
+        {
+          "name": "G Black",
+          "url": "https://open.spotify.com/artist/6yp0Z6f6c0LhAZYfR3A4lt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180976,
+      "name": "La Cama Floja - Falta una Tabla en la Cama",
+      "url": "https://open.spotify.com/track/4hX3qOFRDpaFeYamv1qOfr"
     },
     {
       "album": {
@@ -867,10 +1295,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196595,
       "name": "La Chica Gucci",
       "url": "https://open.spotify.com/track/6HcUJlwTxlp4LRYXiADKEf"
+    },
+    {
+      "album": {
+        "name": "La Chica Guchi (Sin Placas)",
+        "url": "https://open.spotify.com/album/73DRxjKOrk0Hvr8qbcqrvm"
+      },
+      "artists": [
+        {
+          "name": "Big Deivis",
+          "url": "https://open.spotify.com/artist/1L1bWPM2pNBpTEEZLLRMbs"
+        },
+        {
+          "name": "Dandy Bway",
+          "url": "https://open.spotify.com/artist/5n9IfOk764XMPUoMQtk6Ue"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194208,
+      "name": "La Chica Guchi - Sin Placas",
+      "url": "https://open.spotify.com/track/2z45JhiXGGmlXZmene3iiO"
     },
     {
       "album": {
@@ -885,10 +1335,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262493,
       "name": "La Condena",
       "url": "https://open.spotify.com/track/1GzbeDWwCGc8jYGU3a6ixx"
+    },
+    {
+      "album": {
+        "name": "Champeta Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/3rca5yHcL2lh1eKhIDqlBz"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262493,
+      "name": "La Condena",
+      "url": "https://open.spotify.com/track/54ZY5mcqIhHFJEzo78CegT"
     },
     {
       "album": {
@@ -907,10 +1375,50 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244840,
       "name": "La Espeluc\u00e1",
       "url": "https://open.spotify.com/track/36d8uosAAyY4PNSEITEaVJ"
+    },
+    {
+      "album": {
+        "name": "La Espeluc\u00e1",
+        "url": "https://open.spotify.com/album/0HiT10T6wjoxHoYZ6jcv8D"
+      },
+      "artists": [
+        {
+          "name": "Twister el Rey",
+          "url": "https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx"
+        },
+        {
+          "name": "Mr Steve",
+          "url": "https://open.spotify.com/artist/0TgEaSmA1DuHClb6dblt3Z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245655,
+      "name": "La Espeluc\u00e1",
+      "url": "https://open.spotify.com/track/5hsooFA9KcUMCnfrDxJghI"
+    },
+    {
+      "album": {
+        "name": "El Rey de la Champeta Urbana",
+        "url": "https://open.spotify.com/album/6YSMVg5CsdVgSL2vjSgZNP"
+      },
+      "artists": [
+        {
+          "name": "Kevin Florez",
+          "url": "https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "La Invit\u00e9 a Bailar",
+      "url": "https://open.spotify.com/track/1KqbEgwOZrAI36yBnGkZ94"
     },
     {
       "album": {
@@ -925,10 +1433,36 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245202,
       "name": "La Invit\u00e9 a Bailar",
       "url": "https://open.spotify.com/track/4zhBHFZxYHpBKQX1lbWla1"
+    },
+    {
+      "album": {
+        "name": "La Marea",
+        "url": "https://open.spotify.com/album/7l8XfqvxEFHeOeGetnPyIB"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161759,
+      "name": "La Marea",
+      "url": "https://open.spotify.com/track/37BDKDev3cJeU8DK48kYFg"
     },
     {
       "album": {
@@ -951,7 +1485,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161759,
       "name": "La Marea",
       "url": "https://open.spotify.com/track/45hPuMm4eduF7RTRLNYVGZ"
@@ -969,10 +1503,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234187,
       "name": "La Propia Nube",
       "url": "https://open.spotify.com/track/2po4k3FIPA3pFsRaGUh5TC"
+    },
+    {
+      "album": {
+        "name": "El Mismo Saya, Vol. 1 (Desde Colombia a la USA)",
+        "url": "https://open.spotify.com/album/3AhwT0buFsjNmgp7AK23Uu"
+      },
+      "artists": [
+        {
+          "name": "El Sayay\u00edn",
+          "url": "https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234187,
+      "name": "La Propia Nube",
+      "url": "https://open.spotify.com/track/6jVtQ1jruUYPqQXpecxw3t"
     },
     {
       "album": {
@@ -1013,10 +1565,50 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197982,
       "name": "La Pupicole",
       "url": "https://open.spotify.com/track/2aYZ09EKXWTDODNLMcj9i4"
+    },
+    {
+      "album": {
+        "name": "La Pupicole",
+        "url": "https://open.spotify.com/album/2KvkTMyVYOSZTDXqEpPLQF"
+      },
+      "artists": [
+        {
+          "name": "Twister el Rey",
+          "url": "https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx"
+        },
+        {
+          "name": "Rey Three Latino",
+          "url": "https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202369,
+      "name": "La Pupicole",
+      "url": "https://open.spotify.com/track/2wIIVZkJohopVQMy0D5dMd"
+    },
+    {
+      "album": {
+        "name": "La Pupileta",
+        "url": "https://open.spotify.com/album/4IUHA6ngGd8EC90EXYQzw4"
+      },
+      "artists": [
+        {
+          "name": "Bazurto All Stars",
+          "url": "https://open.spotify.com/artist/0BhgcfRYexO5WqUGuqOgGF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181020,
+      "name": "La Pupileta",
+      "url": "https://open.spotify.com/track/4xk7GC0Icjs0bKXxl8PQoo"
     },
     {
       "album": {
@@ -1031,7 +1623,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181231,
       "name": "La Pupileta",
       "url": "https://open.spotify.com/track/1qjYRffHyqWQuf7Ul9d4of"
@@ -1049,10 +1641,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225746,
       "name": "La Turbina",
       "url": "https://open.spotify.com/track/1iVDedAz2eqb9Stt1OLaC8"
+    },
+    {
+      "album": {
+        "name": "Con Todo",
+        "url": "https://open.spotify.com/album/2ks0s4keRSfY5EJcRZ3UxL"
+      },
+      "artists": [
+        {
+          "name": "Elio Boom",
+          "url": "https://open.spotify.com/artist/6cVONVKx6F2JiQk89YWWgM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "La Turbina",
+      "url": "https://open.spotify.com/track/6yGyAuA2BChCXxlGysUkQZ"
     },
     {
       "album": {
@@ -1067,10 +1677,46 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257519,
       "name": "La Voladora",
       "url": "https://open.spotify.com/track/1ZDL7MxeENzeWqkN2YlZaY"
+    },
+    {
+      "album": {
+        "name": "Champetas de Colombia, Vol. 10",
+        "url": "https://open.spotify.com/album/4XXZg3DII7zoWFuYt9eh4n"
+      },
+      "artists": [
+        {
+          "name": "El Sayay\u00edn",
+          "url": "https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "La Voladora",
+      "url": "https://open.spotify.com/track/3GdI8kjM0x47HxkvoPhxzb"
+    },
+    {
+      "album": {
+        "name": "Loco de Amor",
+        "url": "https://open.spotify.com/album/1cDUDhA5aXeZ3W35BL6F57"
+      },
+      "artists": [
+        {
+          "name": "Papo Man",
+          "url": "https://open.spotify.com/artist/3oIFwa7ekCrHUcuFBb9WiF"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267128,
+      "name": "Loco de Amor",
+      "url": "https://open.spotify.com/track/0wsi2psSgqapg7qnLonSmr"
     },
     {
       "album": {
@@ -1089,7 +1735,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267180,
       "name": "Loco de Amor",
       "url": "https://open.spotify.com/track/2h0EJO4dvtAQlfqFeHLc7D"
@@ -1125,10 +1771,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214446,
       "name": "Los Papelitos",
       "url": "https://open.spotify.com/track/4kuBw7aBXjqN4CrBUw4yb5"
+    },
+    {
+      "album": {
+        "name": "Los Papelitos",
+        "url": "https://open.spotify.com/album/7bYxbQN9Cc7DJNgVlPKMxB"
+      },
+      "artists": [
+        {
+          "name": "Young F",
+          "url": "https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "Los Papelitos",
+      "url": "https://open.spotify.com/track/3YCUwsBf5vHnHcCyEhYfcE"
     },
     {
       "album": {
@@ -1143,7 +1807,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244728,
       "name": "Los Trapitos al Agua",
       "url": "https://open.spotify.com/track/7v5ZLaD5qY9IbNcFOapmi0"
@@ -1165,6 +1829,24 @@
       "duration_ms": 247693,
       "name": "Los Trapitos al Agua",
       "url": "https://open.spotify.com/track/5uY067t7HIaEfCmhgRaA7m"
+    },
+    {
+      "album": {
+        "name": "El Rey del Triqueteo",
+        "url": "https://open.spotify.com/album/6gFZeBC49Dqv1X9woMKEGp"
+      },
+      "artists": [
+        {
+          "name": "Mr.Black",
+          "url": "https://open.spotify.com/artist/61ILbtwJ8xiy4FG0cAYvvb"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247693,
+      "name": "Los Trapitos al Agua",
+      "url": "https://open.spotify.com/track/6o69gA3Vy2CH29MhgJftJk"
     },
     {
       "album": {
@@ -1201,10 +1883,46 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213315,
       "name": "Mami Ya pa' Qu\u00e9",
       "url": "https://open.spotify.com/track/6KCG5cKd1bkGmRU4cxJQ5W"
+    },
+    {
+      "album": {
+        "name": "Mami Ya pa' Qu\u00e9",
+        "url": "https://open.spotify.com/album/2PKqC2oFPeUmO9CGQ2Ugle"
+      },
+      "artists": [
+        {
+          "name": "Rey Three Latino",
+          "url": "https://open.spotify.com/artist/1rPEfTLbDVGyONtRnaFm50"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213354,
+      "name": "Mami Ya pa' Qu\u00e9",
+      "url": "https://open.spotify.com/track/2VcmZyAxTPjFCVkJMtrPn8"
+    },
+    {
+      "album": {
+        "name": "El M\u00e1s Grande de la Champeta",
+        "url": "https://open.spotify.com/album/6Z2cB8c4g9CwfyUvLh4lod"
+      },
+      "artists": [
+        {
+          "name": "Koffee el Kafetero",
+          "url": "https://open.spotify.com/artist/3O5Pcxr21PC5RMi3wU1Dkm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206001,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/0LTX2r35slMYBTaKv7Vy2I"
     },
     {
       "album": {
@@ -1219,10 +1937,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206053,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5iF0m6OjXmGMPiVH5MXfF5"
+    },
+    {
+      "album": {
+        "name": "Pa la Calle Me Voy",
+        "url": "https://open.spotify.com/album/53VS7laVyJPo9I73nUphiR"
+      },
+      "artists": [
+        {
+          "name": "Twister el Rey",
+          "url": "https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237923,
+      "name": "Pa la Calle Me Voy",
+      "url": "https://open.spotify.com/track/3FxYndV4m9ZmCBsNShINDE"
     },
     {
       "album": {
@@ -1237,10 +1973,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237949,
       "name": "Pa La Calle Me Voy",
       "url": "https://open.spotify.com/track/68GhT6KTdY3Ms1R8Ktxx7i"
+    },
+    {
+      "album": {
+        "name": "El Mismo Saya, Vol. 1 (Desde Colombia a la USA)",
+        "url": "https://open.spotify.com/album/3AhwT0buFsjNmgp7AK23Uu"
+      },
+      "artists": [
+        {
+          "name": "El Sayay\u00edn",
+          "url": "https://open.spotify.com/artist/1sZj8fq4nSJnPycjQ2i7sp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245577,
+      "name": "Paola",
+      "url": "https://open.spotify.com/track/07rzF2jiwidYzEX51mulN9"
     },
     {
       "album": {
@@ -1255,7 +2009,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245577,
       "name": "Paola",
       "url": "https://open.spotify.com/track/6hhmVKO6aqlna4kCYScaxx"
@@ -1273,7 +2027,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245211,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/7HKN6m2oRIVc3mcJvr7SLP"
@@ -1345,7 +2099,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 211164,
       "name": "PONLO AQUI - REMIX",
       "url": "https://open.spotify.com/track/0rNaWt1wSlDAJvUS1blz7w"
@@ -1399,10 +2153,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212071,
       "name": "PONLO AQU\u00cd (REMIX)",
       "url": "https://open.spotify.com/track/6KRmhAtwnA4a2RFinFkbqe"
+    },
+    {
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1WxgdKPijGngfv815ufM12"
+      },
+      "artists": [
+        {
+          "name": "Twister el Rey",
+          "url": "https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245179,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/0O6SnxYjmuUH5Pmhl22piH"
     },
     {
       "album": {
@@ -1433,7 +2205,7 @@
     {
       "album": {
         "name": "Gozando",
-        "url": "https://open.spotify.com/album/6MvseAqeMGJXzKr1dns0SN"
+        "url": "https://open.spotify.com/album/01JiSu67K5wUVNg1U1zdyS"
       },
       "artists": [
         {
@@ -1444,6 +2216,24 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 473626,
+      "name": "Tantina",
+      "url": "https://open.spotify.com/track/3ZR1sXeLOwxDuNshV8BKPu"
+    },
+    {
+      "album": {
+        "name": "Gozando",
+        "url": "https://open.spotify.com/album/6MvseAqeMGJXzKr1dns0SN"
+      },
+      "artists": [
+        {
+          "name": "Soukous Stars",
+          "url": "https://open.spotify.com/artist/7wcl2LtA0w6O3KveN0Nico"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 473626,
       "name": "Tantina",
       "url": "https://open.spotify.com/track/74yHwOKLit0jRwkbhGH3MG"
@@ -1461,10 +2251,54 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219200,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/3ymi9mdC1ChqpWC56p0Bd5"
+    },
+    {
+      "album": {
+        "name": "Champeta Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/3rca5yHcL2lh1eKhIDqlBz"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220775,
+      "name": "Te Va a Doler",
+      "url": "https://open.spotify.com/track/1tYGjkgelBuIlBzf5K6xU0"
+    },
+    {
+      "album": {
+        "name": "Toke Toke",
+        "url": "https://open.spotify.com/album/0fTS4j2JWm5jSuBcDahNFC"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Dandy Bway",
+          "url": "https://open.spotify.com/artist/5n9IfOk764XMPUoMQtk6Ue"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "Toke Toke",
+      "url": "https://open.spotify.com/track/4ONyGtRwgY93Pp7bIp28WQ"
     },
     {
       "album": {
@@ -1487,7 +2321,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180014,
       "name": "Toke Toke",
       "url": "https://open.spotify.com/track/78QDmQ1HqvhXnKuSVoKEmq"
@@ -1575,10 +2409,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197041,
       "name": "Tu Veras Si Me Crees",
       "url": "https://open.spotify.com/track/4szITb20lIWvgdlbBOsvT1"
+    },
+    {
+      "album": {
+        "name": "Tu Veras Si Me Crees",
+        "url": "https://open.spotify.com/album/02bmd3XonsfBvD8gCJ6mfd"
+      },
+      "artists": [
+        {
+          "name": "Young F",
+          "url": "https://open.spotify.com/artist/298Xp5GBq3SNngVmoSPQJM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205003,
+      "name": "Tu Veras Si Me Crees",
+      "url": "https://open.spotify.com/track/41LLFX3jfZfyTfbZIEJsCu"
     },
     {
       "album": {

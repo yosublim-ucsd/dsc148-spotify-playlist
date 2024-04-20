@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1817165,
+  "2024-04-20": 1815297,
   "date_first_scraped": "2021-12-21",
   "description": "The biggest Dance hits and the ones to come. Cover: Ella Henderson, Rudimental",
   "name": "Main Stage",
@@ -627,6 +627,32 @@
       "duration_ms": 164327,
       "name": "All The Things She Said - Teaboy Flip",
       "url": "https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J"
+    },
+    {
+      "album": {
+        "name": "Alle Haben Bock",
+        "url": "https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "PaSt",
+          "url": "https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w"
+        },
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154966,
+      "name": "Alle Haben Bock",
+      "url": "https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB"
     },
     {
       "album": {
@@ -2173,10 +2199,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/24T0bbOs2UMaoLtf30rxOz"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/4mfH9uYpQopEFMOFMeYGRK"
     },
     {
       "album": {
@@ -3255,6 +3299,32 @@
     {
       "album": {
         "name": "Ella Elle L'a",
+        "url": "https://open.spotify.com/album/7hEjLTID6224Fyuzkyd63o"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "Ambre Vallet",
+          "url": "https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ella Elle L'a",
+      "url": "https://open.spotify.com/track/3YNCyIpB2mwgmJwi3gRWhC"
+    },
+    {
+      "album": {
+        "name": "Ella Elle L'a",
         "url": "https://open.spotify.com/album/4RN7tJXpxyE5LaSIiiFueX"
       },
       "artists": [
@@ -3273,7 +3343,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Ella Elle L'a",
       "url": "https://open.spotify.com/track/7oCqUBYVTqWbN0M6aYD7O3"
@@ -3295,7 +3365,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/2jE1slTsgQePkYP5ekrG5h"
@@ -3317,7 +3387,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 151409,
       "name": "Erinner mich",
       "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
@@ -3537,6 +3607,28 @@
       "duration_ms": 158391,
       "name": "Family Affair (Dance For Me)",
       "url": "https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY"
+    },
+    {
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "album": {
@@ -5721,7 +5813,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
@@ -6773,7 +6865,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 155070,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/07nfBlhn6ZlIkPXSXb8SXJ"
@@ -6791,7 +6883,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155070,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
@@ -8175,7 +8267,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
@@ -8363,6 +8455,32 @@
     {
       "album": {
         "name": "Perfect (Exceeder)",
+        "url": "https://open.spotify.com/album/4goW2DyR21WbuI9rylXJtu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151929,
+      "name": "Perfect (Exceeder)",
+      "url": "https://open.spotify.com/track/6aytAfb9zenqKAvbVomkU8"
+    },
+    {
+      "album": {
+        "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
       "artists": [
@@ -8381,7 +8499,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
@@ -9190,6 +9308,32 @@
     },
     {
       "album": {
+        "name": "River Flows in You",
+        "url": "https://open.spotify.com/album/3zbS7TJuKN7mjm6EGQ5CCy"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Jasper Forks",
+          "url": "https://open.spotify.com/artist/5QCZ46GMAwu0DXQUC7n7DH"
+        },
+        {
+          "name": "Alex Christensen",
+          "url": "https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153176,
+      "name": "River Flows in You",
+      "url": "https://open.spotify.com/track/0GDbParfUau4PC7uFTNXyX"
+    },
+    {
+      "album": {
         "name": "River Flows In You",
         "url": "https://open.spotify.com/album/4SZQlKGTvdDcf4lQXqgJfu"
       },
@@ -9209,7 +9353,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153176,
       "name": "River Flows In You",
       "url": "https://open.spotify.com/track/3WHYi4RllFnCYGrMSJpuX3"
@@ -9598,6 +9742,40 @@
     },
     {
       "album": {
+        "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
+        "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Tazi",
+          "url": "https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF"
+        },
+        {
+          "name": "Samuele Sartini",
+          "url": "https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150869,
+      "name": "Seek Love (On The Beach)",
+      "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
+    },
+    {
+      "album": {
         "name": "Sektdusche",
         "url": "https://open.spotify.com/album/3PGIuP2wjDFYaLpH6vlckt"
       },
@@ -9823,6 +10001,40 @@
       "duration_ms": 170706,
       "name": "Smash My Heart",
       "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
+    },
+    {
+      "album": {
+        "name": "Somebody (2024)",
+        "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        },
+        {
+          "name": "Sante Sansone",
+          "url": "https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153518,
+      "name": "Somebody (2024)",
+      "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
     },
     {
       "album": {
@@ -10545,7 +10757,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135400,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/4BvBTmceA5V1pDuaC3RabS"
@@ -10899,10 +11111,36 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150736,
       "name": "Think About The Way",
       "url": "https://open.spotify.com/track/4lHacAc1D1roQi1tMvC8Na"
+    },
+    {
+      "album": {
+        "name": "Think About The Way",
+        "url": "https://open.spotify.com/album/1zk1LmKfreJ48IbZZdAje1"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        },
+        {
+          "name": "URBANO",
+          "url": "https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150736,
+      "name": "Think About The Way",
+      "url": "https://open.spotify.com/track/6ytFEsnazqki7XN2yXOev9"
     },
     {
       "album": {
@@ -11053,7 +11291,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144188,
       "name": "Torn",
       "url": "https://open.spotify.com/track/04nyFUuwYgLfrckvk0MIU9"
@@ -11767,10 +12005,32 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211058,
       "name": "What Took You So Long",
       "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+    },
+    {
+      "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/2EdaQH6Be2GHg1WdJGtYOY"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211058,
+      "name": "What Took You so Long",
+      "url": "https://open.spotify.com/track/5SpFKUNS16xxxQt6cSPaLh"
     },
     {
       "album": {

@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Freight Train",
+        "url": "https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139260,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea"
+    },
+    {
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp"
       },

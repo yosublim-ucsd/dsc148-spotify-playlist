@@ -1,9 +1,31 @@
 {
-  "2024-04-19": 638881,
+  "2024-04-20": 637903,
   "date_first_scraped": "2023-12-31",
   "description": "pra te causar arrepio #MeuSpotify por DUDA BEAT",
   "name": "arrepios de outono",
   "tracks": [
+    {
+      "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lazy Jay",
+          "url": "https://open.spotify.com/artist/4vUAD0POkGvO6J9c9hv6qR"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204956,
+      "name": "212",
+      "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
+    },
     {
       "album": {
         "name": "Broke with Expensive Taste",
@@ -21,10 +43,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204956,
       "name": "212",
       "url": "https://open.spotify.com/track/7mDKRYiqejoHzP7dQGxLys"
+    },
+    {
+      "album": {
+        "name": "Zii & Zie",
+        "url": "https://open.spotify.com/album/4lY4UkaAc61zBDzdvWmcDZ"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "A Cor Amarela",
+      "url": "https://open.spotify.com/track/27K4mdCjnU8KAXyAYur2UC"
     },
     {
       "album": {
@@ -39,7 +79,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134960,
       "name": "A Cor Amarela (The Color Yellow)",
       "url": "https://open.spotify.com/track/67M0LYW6Nc0EYVT3CX6Kdm"
@@ -533,7 +573,7 @@
     {
       "album": {
         "name": "99.9%",
-        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+        "url": "https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z"
       },
       "artists": [
         {
@@ -548,6 +588,28 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299000,
+      "name": "BULLETS",
+      "url": "https://open.spotify.com/track/3Il1ess0dinvEagLM3dTzG"
+    },
+    {
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 299000,
       "name": "BULLETS",
       "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
@@ -2015,10 +2077,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168096,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS"
+    },
+    {
+      "album": {
+        "name": "Broke with Expensive Taste",
+        "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws"
     },
     {
       "album": {
@@ -2243,10 +2323,32 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311692,
       "name": "Nasnusa",
       "url": "https://open.spotify.com/track/25VsX5GaM7gjWnbgjQXk7o"
+    },
+    {
+      "album": {
+        "name": "Tokyo Midnight",
+        "url": "https://open.spotify.com/album/5OjBItnjVl3wH2SWZl6w1w"
+      },
+      "artists": [
+        {
+          "name": "Sababa 5",
+          "url": "https://open.spotify.com/artist/4MAzZqdLNuFniumG9Sbjiu"
+        },
+        {
+          "name": "Yurika Hanashima",
+          "url": "https://open.spotify.com/artist/21MQvtynYHJvZ4kQSyCqPF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311692,
+      "name": "Nasnusa - \u30ca\u30b9\u30cc\u30fc\u30b5",
+      "url": "https://open.spotify.com/track/3h4Jsg0NAqAaRU106h1JYi"
     },
     {
       "album": {
@@ -3037,7 +3139,7 @@
     {
       "album": {
         "name": "Hallucinogen",
-        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
+        "url": "https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO"
       },
       "artists": [
         {
@@ -3048,6 +3150,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 238145,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0cjvRZVV217eDcZXXTHxBl"
+    },
+    {
+      "album": {
+        "name": "Hallucinogen",
+        "url": "https://open.spotify.com/album/0kbTEjztiBKiwDGqogecTy"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 238145,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/3gpTmtwDhuWAJhqzZnmmUT"
@@ -3949,10 +4069,32 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233497,
       "name": "where\u2019s my lighter",
       "url": "https://open.spotify.com/track/6bh9O5b4eHIjdwtcOVbSMe"
+    },
+    {
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "where\u2019s my lighter",
+      "url": "https://open.spotify.com/track/77pRtEdMOE9DpVJLjfmrwb"
     },
     {
       "album": {
@@ -3978,6 +4120,24 @@
     },
     {
       "album": {
+        "name": "The Kick Inside",
+        "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Wuthering Heights",
+      "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "album": {
         "name": "The Kick Inside (2018 Remaster)",
         "url": "https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc"
       },
@@ -3989,7 +4149,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"

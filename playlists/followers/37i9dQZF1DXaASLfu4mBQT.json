@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8873,
+  "2024-04-20": 8872,
   "date_first_scraped": "2022-02-06",
   "description": "Mellow pop favorites from 2023. Cover: Laufey #SpotifyWrapped",
   "name": "Best Mellow Pop of 2023",
@@ -1969,10 +1969,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207878,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/1aTjnWJwayQuxZwjaQ7i8N"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        },
+        {
+          "name": "Tatiana Marie Clark",
+          "url": "https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207878,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7wfrMpmDnJUKVztxhNrLvn"
     },
     {
       "album": {
@@ -2909,10 +2931,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204325,
       "name": "We Were Never Really Friends",
       "url": "https://open.spotify.com/track/2QZzngN7hEFac2yC6zxOGy"
+    },
+    {
+      "album": {
+        "name": "We Were Never Really Friends",
+        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
     },
     {
       "album": {

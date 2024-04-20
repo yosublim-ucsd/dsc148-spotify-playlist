@@ -2717,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Kahani Meri",
+        "url": "https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Kahani Meri",
+      "url": "https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv"
+    },
+    {
+      "album": {
         "name": "Kahani Suno 2.0",
         "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
       },
@@ -4100,6 +4122,24 @@
       "duration_ms": 277636,
       "name": "Raahein",
       "url": "https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur"
+    },
+    {
+      "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
       "album": {

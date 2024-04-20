@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 94684,
+  "num_followers": 94673,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDU0ODQ1OThiOGUyNDdlOTFhY2Q4MzRmNjU0OTM1ZDJm",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDI1NDJhYzI2N2MyNTZkNmU0ZTY1YTBjOTk2YzgxZTVh",
   "tracks": [
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Freshman List",
-      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
+      "duration_ms": 160666,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
     },
     {
       "added_at": null,
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 160666,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
+      "duration_ms": 186800,
+      "name": "Freshman List",
+      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
     },
     {
       "added_at": null,

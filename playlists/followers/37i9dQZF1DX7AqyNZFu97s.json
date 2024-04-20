@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 28168,
+  "2024-04-20": 28190,
   "date_first_scraped": "2022-01-09",
   "description": "The best new music by independent artists in the UK & Ireland. Cover: Amy Gadiaga. Artwork: Isu Kim",
   "name": "Fresh Finds UK & IE",
@@ -26465,6 +26465,24 @@
       "duration_ms": 201290,
       "name": "so sweet",
       "url": "https://open.spotify.com/track/04U2Kyn7PaUMQHO2xjtd8Z"
+    },
+    {
+      "album": {
+        "name": "So Tell Me",
+        "url": "https://open.spotify.com/album/7E4skOyFHoUVHPc73MKmIH"
+      },
+      "artists": [
+        {
+          "name": "Oniimukuu",
+          "url": "https://open.spotify.com/artist/1mOo1vAGtVrsd44Q2EORAp"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178582,
+      "name": "So Tell Me",
+      "url": "https://open.spotify.com/track/6Y5zGMIYGdbGrUsaIY4laN"
     },
     {
       "album": {

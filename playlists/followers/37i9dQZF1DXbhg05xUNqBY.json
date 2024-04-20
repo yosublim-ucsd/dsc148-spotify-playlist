@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 350335,
+  "2024-04-20": 350228,
   "date_first_scraped": "2022-09-15",
   "description": "Breathe deep, and relax with the softer side of Christian music.",
   "name": "Calming Christian",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 235360,
       "name": "Battle Is the Lord's",
       "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Be Thou My Vision",
       "url": "https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220760,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 254813,
       "name": "Dreaming of Eden",
       "url": "https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237684,
       "name": "Face to Face",
       "url": "https://open.spotify.com/track/09BRwLAwH6ebw0vuZPSv8q"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Heaven's Eyes",
       "url": "https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
@@ -586,6 +586,24 @@
     },
     {
       "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+    },
+    {
+      "album": {
         "name": "If I Had Stayed",
         "url": "https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J"
       },
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131641,
       "name": "If I Had Stayed",
       "url": "https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 287778,
       "name": "Kingdom of God",
       "url": "https://open.spotify.com/track/2jneHgyd1uUIfk7eVhqmDK"
@@ -767,10 +785,32 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 211760,
       "name": "Learning to Let You Go",
       "url": "https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3"
+    },
+    {
+      "album": {
+        "name": "LEAVE ME",
+        "url": "https://open.spotify.com/album/6hQEvFNvqBfzIViaE3HUL2"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210235,
+      "name": "LEAVE ME (feat. J Moss)",
+      "url": "https://open.spotify.com/track/1xgopTdaK6RUJ63vidUhz9"
     },
     {
       "album": {
@@ -789,7 +829,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210235,
       "name": "LEAVE ME (feat. J Moss)",
       "url": "https://open.spotify.com/track/7riV735cTp56roHAg7fN1v"
@@ -807,10 +847,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
+    },
+    {
+      "album": {
+        "name": "All Of My Best Friends (Acoustic)",
+        "url": "https://open.spotify.com/album/00lmUTOABE4CrkH6vNkijc"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293160,
+      "name": "Lord Send Revival - Acoustic",
+      "url": "https://open.spotify.com/track/3ceYEyDWAU10XMolE7bWYD"
     },
     {
       "album": {
@@ -843,7 +901,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292959,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/3Fw7SQbIfU68xPS0GEKRk7"
@@ -865,6 +923,24 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
+    },
+    {
+      "album": {
+        "name": "Mi Pastor (Salmo 23)",
+        "url": "https://open.spotify.com/album/0yfhwvxGjCon1Sc9MRrQ4w"
+      },
+      "artists": [
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441238,
+      "name": "Mi Pastor (Salmo 23)",
+      "url": "https://open.spotify.com/track/6KZRLdHJgcUmZoam21oZS5"
     },
     {
       "album": {
@@ -919,7 +995,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182000,
       "name": "No Better Day",
       "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
@@ -977,7 +1053,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
@@ -1075,7 +1151,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
@@ -1205,7 +1281,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 343245,
       "name": "Raise a Hallelujah",
       "url": "https://open.spotify.com/track/5i0a1Vdu2sIacKMNZZabRM"
@@ -1227,7 +1303,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/0ku3fg1KCU9wZBiSOHZ3Xb"
@@ -1253,6 +1329,32 @@
       "duration_ms": 209739,
       "name": "Rest On Us",
       "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+    },
+    {
+      "album": {
+        "name": "Revelation Song (Live)",
+        "url": "https://open.spotify.com/album/0lyBoS6KFAMvkRqxG24UrI"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        },
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280749,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/3SmrzlGlewpgvQHNTwrVOp"
     },
     {
       "album": {
@@ -1285,7 +1387,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190000,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/1R36cdLh7Km3McQxeY124h"
@@ -1303,7 +1405,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "Safe Place - Acoustic",
       "url": "https://open.spotify.com/track/7Kz7ZQwo3NAGjGsdlc9rkQ"
@@ -1339,7 +1441,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 224333,
       "name": "Same God - Acoustic",
       "url": "https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW"
@@ -1465,7 +1567,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254115,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
@@ -1487,7 +1589,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269314,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk"
@@ -1545,7 +1647,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
@@ -1574,6 +1676,28 @@
     },
     {
       "album": {
+        "name": "This Is My Father's World",
+        "url": "https://open.spotify.com/album/3ro1HG56YOlRvFrua1vRPy"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        },
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/5gDmH6DbtzajiPTSuR7L6y"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/7hJQplsQxxoHC2qzD0Q3S7"
+    },
+    {
+      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
@@ -1585,7 +1709,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156270,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
@@ -1607,7 +1731,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305562,
       "name": "Transparente",
       "url": "https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy"
@@ -1679,7 +1803,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 253378,
       "name": "Way Maker - Acoustic",
       "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
@@ -1722,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "A King & His Kindness",
+        "url": "https://open.spotify.com/album/0IRJOZdtvLrek403fb6Skm"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248633,
+      "name": "Who is This Jesus?",
+      "url": "https://open.spotify.com/track/4dErkQsniqyeTwsei3bCqs"
+    },
+    {
+      "album": {
         "name": "Why Should I (feat. Quinten Coblentz)",
         "url": "https://open.spotify.com/album/0dtKfjyzBU8w3a0Lzzqisb"
       },
@@ -1755,10 +1897,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "Wings",
       "url": "https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6p56fflyWLspRsipBqZabq"
     },
     {
       "album": {
@@ -1799,10 +1959,32 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194753,
       "name": "Yahweh Elyon",
       "url": "https://open.spotify.com/track/6ac4RGv1zUsmklvuMlzH50"
+    },
+    {
+      "album": {
+        "name": "You Are My Salvation",
+        "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182437,
+      "name": "You Are My Salvation",
+      "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
     },
     {
       "album": {
@@ -1817,7 +1999,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/2Ycuoq1f8APFihfIK7qTzu"
@@ -1835,7 +2017,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 292272,
       "name": "You Didn't Break It",
       "url": "https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN"

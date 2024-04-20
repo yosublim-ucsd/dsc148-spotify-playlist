@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6174,
+  "2024-04-20": 6174,
   "date_first_scraped": "2022-06-15",
   "description": "Check out Jennifer Lopez's Official Halftime playlist. ",
   "name": "Halftime Official Playlist",
@@ -139,7 +139,7 @@
     {
       "album": {
         "name": "Dance Again...The Hits",
-        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
       },
       "artists": [
         {
@@ -153,15 +153,15 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": "2024-04-19",
       "duration_ms": 237266,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
     },
     {
       "album": {
         "name": "Dance Again...The Hits",
-        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
       },
       "artists": [
         {
@@ -178,7 +178,7 @@
       "date_removed": null,
       "duration_ms": 237266,
       "name": "Dance Again (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+      "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
     },
     {
       "album": {
@@ -329,9 +329,9 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 258946,
-      "name": "I'm Real",
+      "name": "I'm Real (feat. Ja Rule)",
       "url": "https://open.spotify.com/track/0O4Ub1IHsHkDABK6LKHHWK"
     },
     {
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252933,
       "name": "I'm Real - Murder Remix",
       "url": "https://open.spotify.com/track/4onVfPBjiLokGWsGRdPH7v"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170285,
       "name": "Medicine - Steve Aoki from the Block Remix",
       "url": "https://open.spotify.com/track/0q4JbreE13Hz9sfS5kIuuW"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 170285,
       "name": "Medicine - Steve Aoki from the Block Remix",
       "url": "https://open.spotify.com/track/5OPrQhuX6OP06gGtYS1S0f"

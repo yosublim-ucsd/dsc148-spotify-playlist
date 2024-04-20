@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Angel Blessings",
+        "url": "https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200624,
+      "name": "Angel Blessings",
+      "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
+    },
+    {
+      "album": {
         "name": "ANGEL FANGS",
         "url": "https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs"
       },

@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gesaffelstein
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Gordo
 
-567 songs - 1 day 5 hr 30 min
+569 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Didn't Know Lonely](https://open.spotify.com/track/1TVRKXD6RkBNTE7F11Pexm) | [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Didn't Know Lonely](https://open.spotify.com/album/64iN3YbIdjSCLIimrNAdHZ) | 3:10 | 2022-06-10 | 2023-07-29 |
 | [Differences](https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Differences](https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy) | 2:20 | 2023-01-27 | 2023-02-05 |
 | [Different Worlds](https://open.spotify.com/track/0gn9MeXvXeCW9XjaUoRPO9) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Different Worlds](https://open.spotify.com/album/68X6n6zNWQtHzJfSmMb64k) | 3:35 | 2024-03-15 |  |
-| [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 |  |
+| [Digital Slaves](https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Gamma](https://open.spotify.com/album/5XinwAQBhLsp1NrFjfqzLO) | 1:54 | 2024-03-29 | 2024-04-20 |
 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 | 2022-10-28 | 2022-11-19 |
 | [Diva \- Ninajirachi Remix](https://open.spotify.com/track/4NfXNOil3k5Foo948cVNqF) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Diva \(Ninajirachi Remix\)](https://open.spotify.com/album/1V4tD6UwnvWMyponaetidr) | 3:00 | 2022-10-28 | 2022-11-19 |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 |  |
@@ -153,6 +153,7 @@
 | [Face](https://open.spotify.com/track/2ARzBgGU6S3F9Dhm59dVn8) | [BELLMAN](https://open.spotify.com/artist/7GVF8DDjYLdmf5Y4oJHsaC), [LVSN](https://open.spotify.com/artist/6FU8aRDlZ8zAMjmi5PvT35), [Kxne](https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD) | [Face](https://open.spotify.com/album/1semThNRoxCeYqerwMftAQ) | 2:25 | 2023-06-09 | 2023-12-14 |
 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 | 2023-05-12 | 2023-12-14 |
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-18 |  |
+| [Fallin Luv](https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Jeria](https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL) | [Fallin Luv](https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf) | 2:32 | 2024-04-19 |  |
 | [Falling Down](https://open.spotify.com/track/4TUIOnuuDYARJcRnuo5kQI) | [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Falling Down](https://open.spotify.com/album/1G6fyhY9jUW7RVsOrM6BOH) | 2:38 | 2023-01-20 | 2023-02-05 |
 | [Falling Water](https://open.spotify.com/track/75MC4sxH4yELz4ji8P7LCc) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Water](https://open.spotify.com/album/3V9PaTsr7dfhF550S9jSWW) | 2:32 | 2022-06-03 | 2022-10-29 |
 | [Fanfare](https://open.spotify.com/track/2R9xh729jril8QBHZlFJrI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Fanfare](https://open.spotify.com/album/2ErQw1shqi01uGpZuuThQx) | 4:03 | 2022-06-03 | 2023-02-05 |
@@ -280,6 +281,7 @@
 | [Let Me In](https://open.spotify.com/track/5YrzUzJvEV2nsZ9d2q9s8G) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Let Me In](https://open.spotify.com/album/45mSRVs0LHBWnFWlKnCbW7) | 3:28 | 2022-06-03 | 2022-10-29 |
 | [Let You Go](https://open.spotify.com/track/5B2r60dvkWJ2CDPTWj4JgF) | [ADRIMAARD](https://open.spotify.com/artist/37s9l3CiGkBeeKh1SjZWSY) | [Let You Go](https://open.spotify.com/album/29OIRAHneNyaxabTcmtmSC) | 3:16 | 2023-01-06 | 2023-07-29 |
 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-12-08 |  |
+| [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-19 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
 | [Little Tokyo \- Cosmonection Remix](https://open.spotify.com/track/3jSxsPKF6isTIw5vjwRvDk) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Cosmonection](https://open.spotify.com/artist/752ZwPUx0lcLZyxgSQTL3D) | [Little Tokyo \(Cosmonection Remix\)](https://open.spotify.com/album/2MaqGCPkmztarlVRG7Azhw) | 5:02 | 2023-08-25 | 2023-12-14 |
 | [Living Without You](https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Living Without You](https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA) | 3:04 | 2022-09-02 | 2022-11-19 |

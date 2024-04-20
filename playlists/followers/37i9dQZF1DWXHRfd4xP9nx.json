@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 50210,
+  "2024-04-20": 50215,
   "date_first_scraped": "2023-10-23",
   "description": "Uma chuva calma e tranquila para te fazer companhia.",
   "name": "Chuva Leve",
@@ -2645,7 +2645,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156038,
       "name": "moonlit patter",
       "url": "https://open.spotify.com/track/0HFz1abbtEE5mTRsRkMdou"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Morning Rain",
       "url": "https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf"
@@ -3174,6 +3174,24 @@
     },
     {
       "album": {
+        "name": "Pouring Summer Rain",
+        "url": "https://open.spotify.com/album/6zm8aa1RJ2lCTvwwUHlyGp"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6e",
+          "url": "https://open.spotify.com/artist/0OZxzIeQtg2hGlRD4B5gLQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Pouring Summer Rain",
+      "url": "https://open.spotify.com/track/0TuQu9Ox1Nnws4Eppapz4L"
+    },
+    {
+      "album": {
         "name": "Magical Rain",
         "url": "https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY"
       },
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 157304,
       "name": "Rain For Relaxation",
       "url": "https://open.spotify.com/track/5WAqDgplhuoFBG4IUdEP4J"
@@ -4755,7 +4773,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154124,
       "name": "rumbling rainfall",
       "url": "https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff"
@@ -5187,7 +5205,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176000,
       "name": "Spring of Joy (Rain)",
       "url": "https://open.spotify.com/track/7grC61DzacrapcFjK6bqc5"
@@ -5259,7 +5277,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161000,
       "name": "starlit rainfall",
       "url": "https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf"
@@ -5749,6 +5767,24 @@
       "duration_ms": 180000,
       "name": "Tranquil Paradise (Rain)",
       "url": "https://open.spotify.com/track/57NwiOoENYGkilePs3H9xY"
+    },
+    {
+      "album": {
+        "name": "Showers and Serenity",
+        "url": "https://open.spotify.com/album/72MDd5JHeWwPs71wliSB3X"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Trickling Pour",
+      "url": "https://open.spotify.com/track/4NCJhY1HyoGw3lRDSEyrgJ"
     },
     {
       "album": {

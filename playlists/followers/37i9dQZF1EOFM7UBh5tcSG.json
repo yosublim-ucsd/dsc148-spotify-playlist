@@ -1,9 +1,45 @@
 {
-  "2024-04-19": 0,
+  "2024-04-20": 0,
   "date_first_scraped": "2023-05-12",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
   "name": "On Record (2)",
   "tracks": [
+    {
+      "album": {
+        "name": "A Waste Of Time with ItsTheReal",
+        "url": "https://open.spotify.com/album/71nQRFNji9FnmeGnT2iMtc"
+      },
+      "artists": [
+        {
+          "name": "A Waste Of Time with ItsTheReal",
+          "url": "https://open.spotify.com/show/71nQRFNji9FnmeGnT2iMtc"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4895373,
+      "name": "#149: Lizzo",
+      "url": "https://open.spotify.com/episode/27qjbMWXrjrkcqcP6QyXTZ"
+    },
+    {
+      "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1523539,
+      "name": "Best Of: Ariana Grande",
+      "url": "https://open.spotify.com/episode/56X4Ilxun39RQ5EwfLKGZS"
+    },
     {
       "album": {
         "name": "Reflection (Deluxe)",
@@ -61,6 +97,42 @@
       "duration_ms": 260640,
       "name": "Dark Times",
       "url": "https://open.spotify.com/track/6J7PIkhtHwmFjPLq0SyuPj"
+    },
+    {
+      "album": {
+        "name": "Switched on Pop",
+        "url": "https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J"
+      },
+      "artists": [
+        {
+          "name": "Switched on Pop",
+          "url": "https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2225293,
+      "name": "Demi Lovato is Not Sorry",
+      "url": "https://open.spotify.com/episode/1u8LZkvizAkmqdExv1oWOO"
+    },
+    {
+      "album": {
+        "name": "Big Fendi Podcast",
+        "url": "https://open.spotify.com/album/112EVXIsGkRTysrFnqiReg"
+      },
+      "artists": [
+        {
+          "name": "Big Fendi Podcast",
+          "url": "https://open.spotify.com/show/112EVXIsGkRTysrFnqiReg"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1680427,
+      "name": "Episode 1 - Nicki Minaj Interview",
+      "url": "https://open.spotify.com/episode/2SYw6KFlPdAMIhaoyZ1ySd"
     },
     {
       "album": {
@@ -181,6 +253,24 @@
       "duration_ms": 220589,
       "name": "Rare",
       "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+    },
+    {
+      "album": {
+        "name": "Zach Sang Show",
+        "url": "https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL"
+      },
+      "artists": [
+        {
+          "name": "Zach Sang Show",
+          "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        }
+      ],
+      "date_added": "2020-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2448718,
+      "name": "Selena Gomez Talks New Music, Mental Health, and Finding Happiness",
+      "url": "https://open.spotify.com/episode/4rExuEytJinOwXavkeAr4k"
     },
     {
       "album": {

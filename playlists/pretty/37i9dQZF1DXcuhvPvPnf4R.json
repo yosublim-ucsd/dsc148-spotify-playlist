@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 8856,
+  "num_followers": 8861,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Southern Hummingbird",
-        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Oops (Oh My) [feat. Missy Elliott]",
-      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 284000,
       "name": "Hate Me Now (feat. Diddy)",
       "url": "https://open.spotify.com/track/158DIbrVt4YbqNnWyRCS3P"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
       "added_at": "2022-10-01 16:43:03",
@@ -631,30 +631,6 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
-        "name": "Rum & Redbull",
-        "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        },
-        {
-          "name": "Future Fambo",
-          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
-        },
-        {
-          "name": "Seanizzle",
-          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Rum & Redbull",
-      "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
         "name": "Ravers Gas - Single",
         "url": "https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 276208,
       "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
+        "name": "Rum & Redbull",
+        "url": "https://open.spotify.com/album/3og1VflDWwrGfXysXRzdcR"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Future Fambo",
+          "url": "https://open.spotify.com/artist/6iGnMrpoPy3fPn2JwawcUI"
+        },
+        {
+          "name": "Seanizzle",
+          "url": "https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Rum & Redbull",
+      "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
     },
     {
       "added_at": "2022-10-01 16:43:03",

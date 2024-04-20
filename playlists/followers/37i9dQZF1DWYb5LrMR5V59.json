@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 25960,
+  "2024-04-20": 25951,
   "date_first_scraped": "2023-09-27",
   "description": "Guitarras relajantes para descansar y recuperar fuerzas.",
   "name": "Siesta Ac\u00fastica",
@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "A Groovy Kind of Love",
+        "url": "https://open.spotify.com/album/3UhJH4ihVNAS5KsnSzyUWw"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Amig\u00f3",
+          "url": "https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158025,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/0KzNGBTE29879BbLgLK70R"
+    },
+    {
+      "album": {
         "name": "A Groovy Kind of Love (Guitar Solo)",
         "url": "https://open.spotify.com/album/6SlUCdOCUE2vG49R6hTgXQ"
       },
@@ -35,7 +53,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158997,
       "name": "A Groovy Kind of Love - Guitar Solo",
       "url": "https://open.spotify.com/track/5p7kurFWJoHUi0SGhBX97f"
@@ -75,10 +93,32 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108053,
       "name": "Adelita",
       "url": "https://open.spotify.com/track/3VgpE8AfuyJZAg8oe8Squk"
+    },
+    {
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/59wykB5aKaXRudvU8VTo6h"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108053,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/62Boz6NDFyOT3tKkSWis2E"
     },
     {
       "album": {
@@ -137,7 +177,7 @@
     {
       "album": {
         "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/5pPYV0D20Yzzug66AMXPpv"
+        "url": "https://open.spotify.com/album/6OGhscjILcUiZ4DMQDIBHS"
       },
       "artists": [
         {
@@ -148,6 +188,24 @@
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 129110,
+      "name": "Bathe",
+      "url": "https://open.spotify.com/track/3OUwnWv1e52hBlFAvRcvUB"
+    },
+    {
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/5pPYV0D20Yzzug66AMXPpv"
+      },
+      "artists": [
+        {
+          "name": "Realizer",
+          "url": "https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 129110,
       "name": "Bathe",
       "url": "https://open.spotify.com/track/3xsAiIdL95TYmfCodZ8gom"
@@ -339,7 +397,7 @@
     {
       "album": {
         "name": "Dust In The Sun",
-        "url": "https://open.spotify.com/album/6ePar6rJz8XwXyzqGXW6IM"
+        "url": "https://open.spotify.com/album/0Y99NKzCAxITMRGQs4P4Te"
       },
       "artists": [
         {
@@ -350,6 +408,24 @@
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168317,
+      "name": "Dust In The Sun",
+      "url": "https://open.spotify.com/track/1F1Syi0r7qSSqFJFK9Tx6P"
+    },
+    {
+      "album": {
+        "name": "Dust In The Sun",
+        "url": "https://open.spotify.com/album/6ePar6rJz8XwXyzqGXW6IM"
+      },
+      "artists": [
+        {
+          "name": "Kim Aspen",
+          "url": "https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 168317,
       "name": "Dust In The Sun",
       "url": "https://open.spotify.com/track/5j7ijYlzhk6JoZjGeDPQxK"
@@ -511,10 +587,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146499,
       "name": "Hibernia Sleep",
       "url": "https://open.spotify.com/track/1V25se6ClL3pPrvVlufMCp"
+    },
+    {
+      "album": {
+        "name": "For What Awaits",
+        "url": "https://open.spotify.com/album/2Tn3i33LXduCGay6j3ksLK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146499,
+      "name": "Hibernia Sleep",
+      "url": "https://open.spotify.com/track/35dy7TPuGURTSYJcTZIa1u"
     },
     {
       "album": {
@@ -645,7 +739,7 @@
     {
       "album": {
         "name": "Labyrinths",
-        "url": "https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43"
+        "url": "https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP"
       },
       "artists": [
         {
@@ -656,6 +750,24 @@
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184659,
+      "name": "Labyrinths",
+      "url": "https://open.spotify.com/track/6CrDH1mMoA9muB0Y0uGlif"
+    },
+    {
+      "album": {
+        "name": "Labyrinths",
+        "url": "https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Delany",
+          "url": "https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 184659,
       "name": "Labyrinths",
       "url": "https://open.spotify.com/track/6ZFVQrqQtkcES9uWov88FV"
@@ -817,10 +929,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163976,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/23by5iJIUM83cS3lHAPGgX"
+    },
+    {
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/5mC5yDM3BqyuLjPpIQb6l6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163976,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/4X7fW4opz287E8BXBMjVJI"
     },
     {
       "album": {
@@ -1199,10 +1329,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199831,
       "name": "Svalbard",
       "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
+    },
+    {
+      "album": {
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r"
     },
     {
       "album": {
@@ -1379,10 +1527,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135878,
       "name": "Until The Mourning",
       "url": "https://open.spotify.com/track/0G5nSd1DWUTYlMY6IKgju8"
+    },
+    {
+      "album": {
+        "name": "You Know It Too",
+        "url": "https://open.spotify.com/album/7cdrbZOk5L3Bf6KDd91f4H"
+      },
+      "artists": [
+        {
+          "name": "Da Sein",
+          "url": "https://open.spotify.com/artist/5WiqOd22Q3insT1PEC9aL5"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135878,
+      "name": "Until The Mourning",
+      "url": "https://open.spotify.com/track/0nMLLxoBfFJiB4hlV6ormQ"
     },
     {
       "album": {

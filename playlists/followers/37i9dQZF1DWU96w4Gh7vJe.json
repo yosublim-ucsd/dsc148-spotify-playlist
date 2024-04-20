@@ -1,9 +1,31 @@
 {
-  "2024-04-19": 582644,
+  "2024-04-20": 581224,
   "date_first_scraped": "2023-10-25",
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
   "name": "Relax Tayo",
   "tracks": [
+    {
+      "album": {
+        "name": "Abot Langit (Ricovered)",
+        "url": "https://open.spotify.com/album/23EBcDqjGPESxImYjrbJak"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        },
+        {
+          "name": "Maris Racal",
+          "url": "https://open.spotify.com/artist/4bOVj4CTZ1WzSIiWRG9b3n"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Abot Langit - Ricovered",
+      "url": "https://open.spotify.com/track/17FlJCEmLjIEHIfdhP960V"
+    },
     {
       "album": {
         "name": "Aking Pahinga",
@@ -65,10 +87,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 259569,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
+    },
+    {
+      "album": {
+        "name": "Bagong Tradisyon",
+        "url": "https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Bagong Tradisyon",
+      "url": "https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o"
     },
     {
       "album": {
@@ -83,7 +123,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245586,
       "name": "Bakit Ba Ikaw",
       "url": "https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq"
@@ -101,7 +141,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 194442,
       "name": "Bakit?",
       "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
@@ -119,10 +159,46 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288207,
       "name": "Balang Araw - Single Version",
       "url": "https://open.spotify.com/track/2f0Z6I0fDfgDI3htl2RoTd"
+    },
+    {
+      "album": {
+        "name": "Baliw",
+        "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218983,
+      "name": "Baliw",
+      "url": "https://open.spotify.com/track/7cHycXGo5HnVQ5NkI3dLWK"
+    },
+    {
+      "album": {
+        "name": "CLAPCLAPCLAP!",
+        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238571,
+      "name": "Bawat Kaluluwa",
+      "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
     },
     {
       "album": {
@@ -137,7 +213,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
@@ -159,6 +235,24 @@
       "duration_ms": 350142,
       "name": "Bituin",
       "url": "https://open.spotify.com/track/014ZhS6LpxihZ1lW8hir4F"
+    },
+    {
+      "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312133,
+      "name": "Buko",
+      "url": "https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94"
     },
     {
       "album": {
@@ -191,7 +285,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270233,
       "name": "Bulong",
       "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
@@ -227,7 +321,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 204512,
       "name": "Catriona",
       "url": "https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2"
@@ -263,7 +357,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 196781,
       "name": "Could Be Something",
       "url": "https://open.spotify.com/track/3hrkISrdVUz0qJLeH2KI9r"
@@ -303,7 +397,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 167086,
       "name": "Don't Know What To Do (Don't Know What To Say)",
       "url": "https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt"
@@ -321,7 +415,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223013,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/55k3xZxEr3wIXxeL8dPtcR"
@@ -357,7 +451,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242826,
       "name": "Gitara",
       "url": "https://open.spotify.com/track/7nbIGbDitZIYoMrMsXunAu"
@@ -397,7 +491,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162000,
       "name": "Gusto With Ya",
       "url": "https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw"
@@ -415,10 +509,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
+    },
+    {
+      "album": {
+        "name": "Himala",
+        "url": "https://open.spotify.com/album/11Fm9RQJskICPrsWdIcNaL"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261375,
+      "name": "Himala",
+      "url": "https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi"
     },
     {
       "album": {
@@ -517,7 +629,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211040,
       "name": "Huwag Na Lang Kaya",
       "url": "https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD"
@@ -535,7 +647,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241682,
       "name": "Ikaw Lang",
       "url": "https://open.spotify.com/track/5y6BAZxYtjqyAz4AiuQxTp"
@@ -629,7 +741,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282094,
       "name": "Kahit Di Mo Alam",
       "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
@@ -673,10 +785,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267759,
       "name": "Kung 'Di Rin Lang Ikaw",
       "url": "https://open.spotify.com/track/2KjZEVkRS7wStfRygdRnso"
+    },
+    {
+      "album": {
+        "name": "Kung Wala Ka",
+        "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
     },
     {
       "album": {
@@ -691,7 +821,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242813,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
@@ -709,7 +839,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 179117,
       "name": "Kursunada",
       "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
@@ -806,6 +936,24 @@
     },
     {
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "Love Moves in Mysterious Ways - Live",
+      "url": "https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK"
+    },
+    {
+      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -897,7 +1045,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
@@ -915,7 +1063,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212840,
       "name": "Ngiti",
       "url": "https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx"
@@ -951,7 +1099,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336369,
       "name": "Oks Lang",
       "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
@@ -994,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Pagtingin",
+        "url": "https://open.spotify.com/album/4a0SAaOEW4bxKEvSqSDoQz"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227370,
+      "name": "Pagtingin",
+      "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
+    },
+    {
+      "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
       },
@@ -1027,7 +1193,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Para Sa Akin",
       "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
@@ -1045,7 +1211,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241029,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
@@ -1135,7 +1301,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342067,
       "name": "Sa Dulo Ng Walang Hanggan (Sa Ngalan Ng Pag-Ibig Piano Version)",
       "url": "https://open.spotify.com/track/76hY08tpF7iU5yffRwQWQs"
@@ -1179,7 +1345,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253360,
       "name": "Sa'yo",
       "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
@@ -1201,10 +1367,72 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
+    },
+    {
+      "album": {
+        "name": "Sakote",
+        "url": "https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy"
+      },
+      "artists": [
+        {
+          "name": "Awie",
+          "url": "https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm"
+        },
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289083,
+      "name": "Sakote",
+      "url": "https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d"
+    },
+    {
+      "album": {
+        "name": "Samahan Mo Ako",
+        "url": "https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL"
+      },
+      "artists": [
+        {
+          "name": "Hey Its Je",
+          "url": "https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212976,
+      "name": "Samahan Mo Ako",
+      "url": "https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k"
+    },
+    {
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
+      },
+      "artists": [
+        {
+          "name": "Side A",
+          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
+        },
+        {
+          "name": "Jun Reyes",
+          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
     },
     {
       "album": {
@@ -1226,6 +1454,24 @@
     },
     {
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV"
+      },
+      "artists": [
+        {
+          "name": "Leanne & Naara",
+          "url": "https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259665,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
+    },
+    {
+      "album": {
         "name": "Capacities",
         "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
       },
@@ -1237,7 +1483,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
@@ -1255,7 +1501,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260239,
       "name": "Tagpuan",
       "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
@@ -1273,7 +1519,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196582,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
@@ -1309,7 +1555,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256923,
       "name": "Till My Heartaches End - From \"The Significant Other\"",
       "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
@@ -1349,7 +1595,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264202,
       "name": "Torete",
       "url": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF"
@@ -1367,7 +1613,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240320,
       "name": "Tulog Na",
       "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"

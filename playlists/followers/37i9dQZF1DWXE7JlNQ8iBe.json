@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 36756,
+  "2024-04-20": 36768,
   "date_first_scraped": "2022-11-02",
   "description": "Silvana Estrada le dedica su canto a La Catrina, para mantener nuestra tradici\u00f3n viva.",
   "name": "La Catrina",
@@ -895,7 +895,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232523,
       "name": "Maldigo del alto cielo",
       "url": "https://open.spotify.com/track/2grnhzoN2ZpgYgtWaTbrgn"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 224070,
       "name": "Maldigo el alto cielo - Remastered",
       "url": "https://open.spotify.com/track/4w6AfPvVsRHdaJRGN2uhXj"
@@ -931,10 +931,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249399,
       "name": "Mama Says",
       "url": "https://open.spotify.com/track/1miw3aQw8mMvyUJnbbUXHb"
+    },
+    {
+      "album": {
+        "name": "Ibeyi",
+        "url": "https://open.spotify.com/album/38zqKJcP6QQYO9hNzZ7Usy"
+      },
+      "artists": [
+        {
+          "name": "Ibeyi",
+          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249399,
+      "name": "Mama Says",
+      "url": "https://open.spotify.com/track/7DTyq8GK9kTCV3N65gkMPG"
     },
     {
       "album": {
@@ -1023,6 +1041,24 @@
     {
       "album": {
         "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/24QEcWNmuCzYB7dcb1nUzl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf"
+    },
+    {
+      "album": {
+        "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
       "artists": [
@@ -1033,7 +1069,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
@@ -1181,10 +1217,32 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202106,
       "name": "Nave Sin Rumbo",
       "url": "https://open.spotify.com/track/1N1J2rGzghB0PW6Xvd6VG1"
+    },
+    {
+      "album": {
+        "name": "Sylvia Rexach Canta a Sylvia Rexach",
+        "url": "https://open.spotify.com/album/52pPwJAMpv8tnZv3zwooFJ"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Rexach",
+          "url": "https://open.spotify.com/artist/5x6f6nAwY1r9b9a5Qz6C4A"
+        },
+        {
+          "name": "Tuti Umpierre",
+          "url": "https://open.spotify.com/artist/4RwZSd5QUHsYOkFFNRrTPx"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Nave Sin Rumbo",
+      "url": "https://open.spotify.com/track/1R3gO04bKt4lCTZZFoFz6X"
     },
     {
       "album": {
@@ -1445,6 +1503,24 @@
     {
       "album": {
         "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+    },
+    {
+      "album": {
+        "name": "Abrazo",
         "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
       },
       "artists": [
@@ -1455,7 +1531,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250706,
       "name": "Si Me Matan",
       "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
@@ -1567,10 +1643,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143466,
       "name": "Un D\u00eda Cualquiera",
       "url": "https://open.spotify.com/track/3XPE0T6FvhNDHOBj1b5diH"
+    },
+    {
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Un D\u00eda Cualquiera",
+      "url": "https://open.spotify.com/track/63R9Bs9936d0w3aJdVQsLa"
     },
     {
       "album": {
@@ -1665,10 +1759,28 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159880,
       "name": "\u00bfQuie\u0301n? - Remastered",
       "url": "https://open.spotify.com/track/3vURZUnew6TH2mNnD257D6"
+    },
+    {
+      "album": {
+        "name": "Segundo (Remastered)",
+        "url": "https://open.spotify.com/album/4q59Ff2Rzka8bkw4OVFTfV"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "\u00bfQui\u00e9n? - Remastered",
+      "url": "https://open.spotify.com/track/03gnmduCrzhIm088jah9Vn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXE7JlNQ8iBe"

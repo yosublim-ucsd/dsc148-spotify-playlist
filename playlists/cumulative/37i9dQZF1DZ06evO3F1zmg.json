@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Saweetie. Wszystkie najwa\u017cniejsze utwory na jednej playli\u015bcie.",
+  "description": "This Is Saweetie. Kaikki olennaiset kappaleet yhdess\u00e4 soittolistassa.",
   "name": "This Is Saweetie",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 190428,
       "name": "Emotional (feat. Quavo)",
       "url": "https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 26425,
+  "2024-04-20": 26423,
   "date_first_scraped": "2024-01-04",
   "description": "Summer breeze, makes me feel fine...",
   "name": "Classic Summer",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
@@ -107,10 +107,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145706,
       "name": "Blister In The Sun",
       "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
+    },
+    {
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Blister in the Sun - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
     },
     {
       "album": {
@@ -132,6 +150,24 @@
     },
     {
       "album": {
+        "name": "Here You Are: The Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/5ciu3GM6WiMGBOSbQKgc5z"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "Caribbean Queen (No More Love On the Run)",
+      "url": "https://open.spotify.com/track/3TjlMH27nWbY3veJ8fHdaD"
+    },
+    {
+      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -143,7 +179,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244426,
       "name": "Caribbean Queen (No More Love On the Run)",
       "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
@@ -233,10 +269,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+    },
+    {
+      "album": {
+        "name": "Jackie - Long Hot Summer",
+        "url": "https://open.spotify.com/album/4Vop1SFWajjU2E3I0O5Lv6"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269240,
+      "name": "Dreadlock Holiday",
+      "url": "https://open.spotify.com/track/4UhEKu52dWEFhJvXaWW807"
     },
     {
       "album": {
@@ -258,6 +312,24 @@
     },
     {
       "album": {
+        "name": "'70s Pop #1's",
+        "url": "https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276413,
+      "name": "Escape (The Pina Colada Song)",
+      "url": "https://open.spotify.com/track/79Dl8iYn0PFQG2wqDxPlQU"
+    },
+    {
+      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -269,10 +341,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "album": {
+        "name": "Primitive Man (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/1ANl9HULwoe9HdJjg8bQRP"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/20cdfC6X43JiDZ8WlmkwSf"
     },
     {
       "album": {
@@ -287,7 +377,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317240,
       "name": "Great Southern Land",
       "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
@@ -312,6 +402,42 @@
     },
     {
       "album": {
+        "name": "Motown 50",
+        "url": "https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166213,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/7Duh6cQZ3O1xf9DrjKxonY"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered",
+      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
+    },
+    {
+      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
       },
@@ -323,7 +449,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered 2009",
       "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
@@ -377,10 +503,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219133,
       "name": "Hot In The City",
       "url": "https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG"
+    },
+    {
+      "album": {
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/3NqodgW3niaCkYZ5ol6hMN"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Hot In The City",
+      "url": "https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV"
     },
     {
       "album": {
@@ -395,10 +539,46 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314760,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
+    },
+    {
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/233CjjNDv5fzytZixjAKwe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/594FzPlCmqygQMoZAkGegM"
+    },
+    {
+      "album": {
+        "name": "After the Snow",
+        "url": "https://open.spotify.com/album/5npj803fI6x0fYa4sPavvL"
+      },
+      "artists": [
+        {
+          "name": "Modern English",
+          "url": "https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/5ObgLyp4ytTtnFLDhrmcOi"
     },
     {
       "album": {
@@ -413,7 +593,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251573,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ"
@@ -431,10 +611,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211880,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+    },
+    {
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd"
     },
     {
       "album": {
@@ -467,10 +665,46 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217692,
       "name": "Kokomo",
       "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
+    },
+    {
+      "album": {
+        "name": "80 Hits of the '80s",
+        "url": "https://open.spotify.com/album/4igZspBG3w3n9S3rw1KUKJ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Kokomo - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2WO0KCI8n5wNRHRzZXzmkU"
+    },
+    {
+      "album": {
+        "name": "The Greatest Hits (Remastered)",
+        "url": "https://open.spotify.com/album/0PO4cvpGuKcP1BwQyPhHpf"
+      },
+      "artists": [
+        {
+          "name": "Australian Crawl",
+          "url": "https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287647,
+      "name": "Lakeside - Remastered",
+      "url": "https://open.spotify.com/track/6ABhdHVVuBcaXnIvr6vgdv"
     },
     {
       "album": {
@@ -485,7 +719,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288920,
       "name": "Lakeside - Remastered",
       "url": "https://open.spotify.com/track/6rtRwGJPb5E2ZePtYNrd5A"
@@ -511,7 +745,7 @@
     {
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BdcX71kcnhTj4wGbGyw4B"
+        "url": "https://open.spotify.com/album/1fJOCKaWZLrglALU9yAH8T"
       },
       "artists": [
         {
@@ -522,6 +756,24 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Long Hot Summer - Single Edit",
+      "url": "https://open.spotify.com/track/3Flian08Kq8EunBTEsQxb4"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BdcX71kcnhTj4wGbGyw4B"
+      },
+      "artists": [
+        {
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 229333,
       "name": "Long Hot Summer - Single Version",
       "url": "https://open.spotify.com/track/62bUqzJCBwQekVyC3k6z2J"
@@ -557,10 +809,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258066,
       "name": "Nightswimming",
       "url": "https://open.spotify.com/track/6G0NzOx2jEPFsSmhr9N8Ys"
+    },
+    {
+      "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/3ImeTxETbPlg8S6cFNlova"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258066,
+      "name": "Nightswimming",
+      "url": "https://open.spotify.com/track/7vJFqIRurrylzPDNWcFAhc"
     },
     {
       "album": {
@@ -629,10 +899,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248560,
       "name": "Run To Paradise",
       "url": "https://open.spotify.com/track/0W6u4XTCiS2uDcmQJr6yWA"
+    },
+    {
+      "album": {
+        "name": "Big Bad Noise",
+        "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
+      },
+      "artists": [
+        {
+          "name": "Choirboys",
+          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "Run to Paradise",
+      "url": "https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs"
     },
     {
       "album": {
@@ -672,6 +960,24 @@
     },
     {
       "album": {
+        "name": "101 Summer Songs",
+        "url": "https://open.spotify.com/album/5W9qiJ201sWebNMgUEiQZq"
+      },
+      "artists": [
+        {
+          "name": "The Power Station",
+          "url": "https://open.spotify.com/artist/1EemADz12kjlGwkpY4EINv"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308600,
+      "name": "Some Like It Hot",
+      "url": "https://open.spotify.com/track/2CeMbmv4daxBWmTmEjZXSN"
+    },
+    {
+      "album": {
         "name": "The Power Station",
         "url": "https://open.spotify.com/album/4IpUyI6R1fyDtJF3cmJS4E"
       },
@@ -683,7 +989,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305466,
       "name": "Some Like It Hot - 2005 Remaster",
       "url": "https://open.spotify.com/track/3QyxB6fNUFNSLyjiwkycOY"
@@ -701,10 +1007,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231991,
       "name": "Sounds Of Then (This Is Australia)",
       "url": "https://open.spotify.com/track/4yLvWkiGacPp3BAOSxiiHf"
+    },
+    {
+      "album": {
+        "name": "GANGgajang",
+        "url": "https://open.spotify.com/album/4WMAkJDilQHHsBEwZ3TIis"
+      },
+      "artists": [
+        {
+          "name": "GANGgajang",
+          "url": "https://open.spotify.com/artist/3CDzOX9D1buMRHeTNFHXMm"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233733,
+      "name": "Sounds of Then (This Is Australia)",
+      "url": "https://open.spotify.com/track/5hC6zj0AL4iwOBm7eepgEj"
     },
     {
       "album": {
@@ -744,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5zkK9olctrQZL4mu363row"
+      },
+      "artists": [
+        {
+          "name": "Sherbet",
+          "url": "https://open.spotify.com/artist/45NevEaV0GyRopWoADDPr2"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0HihhK0L7qhDuTZq1r2RTf"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/7b8vBwWtR8P1VEJ0YMGPfx"
       },
@@ -755,7 +1097,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216400,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/4sRI9flGFXzpA8YvzFllFM"
@@ -777,10 +1119,32 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
+    },
+    {
+      "album": {
+        "name": "Grease (Limited Edition)",
+        "url": "https://open.spotify.com/album/1Dswj6aSRPvC7auzJYJzY7"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Summer Nights - From \u201cGrease\u201d Soundtrack",
+      "url": "https://open.spotify.com/track/1CPCDaur2BxlCW0BVsf6rH"
     },
     {
       "album": {
@@ -795,10 +1159,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DCI0mQQdf0LYoXheONDXi"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/3bYCGWnZdLQjndiKogqA3G"
     },
     {
       "album": {
@@ -813,10 +1195,46 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237040,
       "name": "Summer Of '81 - Digitally Remastered",
       "url": "https://open.spotify.com/track/2A7uvYaZvWz4FVjbOcA2Oy"
+    },
+    {
+      "album": {
+        "name": "The Complete Anthology",
+        "url": "https://open.spotify.com/album/1FsCx85W1MtYvGWtrZ3k0n"
+      },
+      "artists": [
+        {
+          "name": "Mondo Rock",
+          "url": "https://open.spotify.com/artist/0f7ChwXkRvmj2ViLbEQwYK"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Summer of 81 - Digitally Remastered",
+      "url": "https://open.spotify.com/track/5E7A2xDBOuGonmPbScN4Sx"
+    },
+    {
+      "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328813,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/6epXs8efGlsdbMIfX8Olra"
     },
     {
       "album": {
@@ -831,7 +1249,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332653,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/16QRHjDGxLEN36KoyJz95A"
@@ -857,7 +1275,7 @@
     {
       "album": {
         "name": "Begin Here",
-        "url": "https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ"
+        "url": "https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4"
       },
       "artists": [
         {
@@ -868,9 +1286,45 @@
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137733,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7egTKPYxbWaaV1jEzb1rHu"
+    },
+    {
+      "album": {
+        "name": "Begin Here",
+        "url": "https://open.spotify.com/album/2tJfEX4O0mNPax2wR0q0DQ"
+      },
+      "artists": [
+        {
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 137760,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/3TFyvBYEHq7cfdmIYD6RMG"
+    },
+    {
+      "album": {
+        "name": "Kaya - Deluxe Edition",
+        "url": "https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297653,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/1YksP2PZxd9364agEHV30b"
     },
     {
       "album": {
@@ -885,7 +1339,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298506,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ"
@@ -921,10 +1375,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212946,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/09Plbz3Ja2gxU9xCsqA5KY"
+    },
+    {
+      "album": {
+        "name": "Face to Face (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/4MX4LC8Cqur4D5OPEYjV6J"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Sunny Afternoon - Mono Mix",
+      "url": "https://open.spotify.com/track/5NTH2uKOrXuNTrVKZwArwM"
     },
     {
       "album": {
@@ -983,7 +1455,7 @@
     {
       "album": {
         "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+        "url": "https://open.spotify.com/album/41IMzY1fwSwZHYxHnoF3jN"
       },
       "artists": [
         {
@@ -996,7 +1468,43 @@
       "date_removed": null,
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/0p7T2DoRUeLX47sa3Ar2Ny"
+    },
+    {
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "album": {
+        "name": "Solo Collection",
+        "url": "https://open.spotify.com/album/1VIBf6mV4sFmVVYEzesspS"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225506,
+      "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
+      "url": "https://open.spotify.com/track/60EtAySYm0qBlPj3LSXil6"
     },
     {
       "album": {
@@ -1011,10 +1519,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227800,
       "name": "The Heat Is On - From \"Beverly Hills Cop\" Soundtrack",
       "url": "https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc"
+    },
+    {
+      "album": {
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "The Tide Is High",
+      "url": "https://open.spotify.com/track/52Rp3xBJFYYdmpgzDy0Quf"
     },
     {
       "album": {
@@ -1029,10 +1555,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233893,
       "name": "The Tide Is High - Edit",
       "url": "https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Too Hot",
+      "url": "https://open.spotify.com/track/2hqgb3IcjI1AGTO7jKOJ8w"
     },
     {
       "album": {
@@ -1047,10 +1591,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "album": {
+        "name": "Sultans Of Swing - The Very Best Of Dire Straits",
+        "url": "https://open.spotify.com/album/2BPgOlvV3aTHJ7av8LhGn5"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "Twisting By The Pool",
+      "url": "https://open.spotify.com/track/0Uvj2JI5aQnueft9MJdNbw"
     },
     {
       "album": {
@@ -1065,10 +1627,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216066,
       "name": "Twisting By the Pool",
       "url": "https://open.spotify.com/track/3LvReQ0qT9l7TeoXOLX50V"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: The Drifters [Vol. 2]",
+        "url": "https://open.spotify.com/album/0kpCNsTP70YRdSd54YtXxy"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/2AOrIMPHEw0IUUQrOY28CQ"
     },
     {
       "album": {
@@ -1083,7 +1663,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161960,
       "name": "Under the Boardwalk",
       "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"

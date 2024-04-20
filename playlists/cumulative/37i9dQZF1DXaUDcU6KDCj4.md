@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Cassandra Jenkins
 
-2,040 songs - 5 day 4 hr 12 min
+2,041 songs - 5 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-04-07 | 2023-06-24 |
 | [God in Everything](https://open.spotify.com/track/4WQ62VYzVa7oEllqXE8vse) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 3:07 | 2023-06-09 | 2023-08-19 |
 | [God\(less\)](https://open.spotify.com/track/1zzyxKMgYoUSJZm5OmBZSF) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [God\(less\)](https://open.spotify.com/album/18zJ2FRhEVUmVhuM1QlzRV) | 3:17 | 2022-05-27 | 2022-06-25 |
+| [Going to Georgia](https://open.spotify.com/track/16GSIUPxdWdKytVQmq5sYD) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Going to Georgia](https://open.spotify.com/album/6gO4qL0SySfVTGfCMTBKfQ) | 5:04 | 2024-04-19 |  |
 | [Gold](https://open.spotify.com/track/1qVdsZKhWVOTtnn0Gyh0oH) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Gold](https://open.spotify.com/album/0UoERozz72RxpR2oZXYpfN) | 3:11 | 2024-03-22 |  |
 | [Gold](https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [ÁTTA](https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v) | 5:13 | 2023-06-16 | 2023-08-26 |
 | [Gold](https://open.spotify.com/track/2U8SVTHjyYK4nPofvO2Ncw) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Gold](https://open.spotify.com/album/4LGfwNskwBGfE6Ca3ekioV) | 3:22 | 2022-07-22 | 2022-11-19 |
@@ -732,7 +733,7 @@
 | [Here We Are](https://open.spotify.com/track/5sNoC9OJEPwWTh8fvUi99x) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur), [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Here We Are](https://open.spotify.com/album/6F4qTjhtfCoOgu9CdBMNph) | 4:02 | 2024-01-05 | 2024-03-02 |
 | [Hermosa Drive](https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hermosa Drive](https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7) | 3:54 | 2022-10-14 | 2023-03-18 |
 | [Hey Honey](https://open.spotify.com/track/3b6wfWCEwHRRhtop1sWcci) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [Hey Honey](https://open.spotify.com/album/4lXLBLgRaNcTKr62Zt67UZ) | 3:41 | 2023-05-12 | 2023-07-29 |
-| [hey, honey](https://open.spotify.com/track/3FLwV0IrH5PsMB1LW4HHAC) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX), [Hey‚ Nothing](https://open.spotify.com/artist/5OXnmrYjOXhjj7eL5bUgHk) | [The 502s](https://open.spotify.com/album/3uNdSCudRJ4aagWtWh839E) | 3:16 | 2024-04-12 |  |
+| [hey, honey](https://open.spotify.com/track/3FLwV0IrH5PsMB1LW4HHAC) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX), [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [The 502s](https://open.spotify.com/album/3uNdSCudRJ4aagWtWh839E) | 3:16 | 2024-04-12 |  |
 | [Hiding Out In The Open](https://open.spotify.com/track/3S8fsWbSzwTAbyRXWnLugk) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/2uDbIwcvfGsMEbzeU3iyoU) | 3:21 | 2023-03-24 | 2023-04-15 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-17 | 2023-03-26 |
 | [High and Lonesome](https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [High and Lonesome](https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K) | 4:33 | 2021-11-12 | 2022-01-22 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 7880,
+  "2024-04-20": 7879,
   "date_first_scraped": "2022-05-30",
-  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: CotaBoii",
+  "description": "2024 RADAR\u767b\u5834\uff01\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff01Cover: Dessy",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1631,6 +1631,28 @@
       "duration_ms": 213563,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6A6s2WwK6M1gZlba94ZlGY"
+    },
+    {
+      "album": {
+        "name": "Souffl\u00e9",
+        "url": "https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        },
+        {
+          "name": "PLAYGROUND",
+          "url": "https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182119,
+      "name": "Souffl\u00e9",
+      "url": "https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2"
     },
     {
       "album": {

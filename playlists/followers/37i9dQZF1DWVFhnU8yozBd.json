@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 26555,
+  "2024-04-20": 26565,
   "date_first_scraped": "2023-02-20",
   "description": "<a href=\"spotify:artist:7wXTWO45lqpUejDkike0Gf\">Sofia Kourtesis</a>'s favorite tracks. Updated regularly. Curated by Sofia Kourtesis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Sofia Kourtesis track IDs",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 359852,
       "name": "A83",
       "url": "https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359852,
       "name": "A83",
       "url": "https://open.spotify.com/track/3TDgqF6U3BohIWi84ylOBi"
@@ -169,10 +169,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315306,
       "name": "Amor en el Cielo",
       "url": "https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa"
+    },
+    {
+      "album": {
+        "name": "Ritmo Fantas\u00eda: Balearic Spanish Synth-Pop, Boogie And House (1982-1992)",
+        "url": "https://open.spotify.com/album/259xflhgPOhk2ZTaKuL4dT"
+      },
+      "artists": [
+        {
+          "name": "Beni Life",
+          "url": "https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315306,
+      "name": "Amor en el Cielo",
+      "url": "https://open.spotify.com/track/4bxGEbhnt955VXIHWX30Qn"
     },
     {
       "album": {
@@ -281,10 +299,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247741,
       "name": "Balance - Dj Floor Remix",
       "url": "https://open.spotify.com/track/0zKxARvuFIfUMx1MiuZaMR"
+    },
+    {
+      "album": {
+        "name": "Balance (Remixes)",
+        "url": "https://open.spotify.com/album/09Ld58uI3F0wLzs0pkgDx4"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        },
+        {
+          "name": "DJ Floor",
+          "url": "https://open.spotify.com/artist/6BuZRXj92YFV1pm7G8ZEyY"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Balance - Dj Floor Remix",
+      "url": "https://open.spotify.com/track/51nxiI2Onk3evp6088fsB3"
     },
     {
       "album": {
@@ -317,7 +357,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 518945,
       "name": "Blackwater - 128 full strings vocal mix",
       "url": "https://open.spotify.com/track/3829oHimRwuUHePcD2Jj7S"
@@ -335,7 +375,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 518945,
       "name": "Blackwater - 128 full strings vocal mix",
       "url": "https://open.spotify.com/track/3etLHAzGr30F9G4bnUpdxw"
@@ -497,7 +537,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338162,
       "name": "Can't Help It",
       "url": "https://open.spotify.com/track/1LwvkpRU07Ch1nSGVvNSc0"
@@ -515,7 +555,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 338162,
       "name": "Can't Help It",
       "url": "https://open.spotify.com/track/7z2oL4N6nkOY39PXLASCpO"
@@ -591,7 +631,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348291,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/58JrbATX4NH6fJOI49SwhQ"
@@ -609,7 +649,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 348291,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/69cIyKwlCoQhgz2qzy279L"
@@ -671,7 +711,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351370,
       "name": "Cotton",
       "url": "https://open.spotify.com/track/1k5Qm9EzP0mM0wedIgevwi"
@@ -689,7 +729,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 351370,
       "name": "Cotton",
       "url": "https://open.spotify.com/track/5O2YyBz2E0xVgSng44UTnV"
@@ -707,7 +747,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149540,
       "name": "Currency Low (Bonus Track)",
       "url": "https://open.spotify.com/track/5YBlB9eYbPJqM9CzLjOKcL"
@@ -725,7 +765,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 149540,
       "name": "Currency Low - Bonus Track",
       "url": "https://open.spotify.com/track/0CfWZ0Zy1LCzOeViunbk43"
@@ -750,6 +790,28 @@
     },
     {
       "album": {
+        "name": "El Invento EP",
+        "url": "https://open.spotify.com/album/5hvdCkg5ETqfh9ZJlqWkOh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "El Invento - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P"
+    },
+    {
+      "album": {
         "name": "Local Valley (Deluxe)",
         "url": "https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o"
       },
@@ -765,7 +827,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264186,
       "name": "El Invento - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S"
@@ -853,7 +915,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 552788,
       "name": "Eyes Of My Mind",
       "url": "https://open.spotify.com/track/6YJTp8v1HisYQO19gej6eb"
@@ -871,7 +933,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 552788,
       "name": "Eyes Of My Mind",
       "url": "https://open.spotify.com/track/6eLNnJwSlwEStbIAZVAYzd"
@@ -929,7 +991,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336460,
       "name": "Gone",
       "url": "https://open.spotify.com/track/76DBGyR69bKbLdt7mhsUPy"
@@ -951,7 +1013,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 336460,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7gD34yrgA8gFLsMtPCNWMm"
@@ -1071,7 +1133,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377597,
       "name": "Heaven Is Where You Are (Dave DK Remix)",
       "url": "https://open.spotify.com/track/0QEPupo0hvgEOOqb8e7R2H"
@@ -1093,7 +1155,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 375597,
       "name": "Heaven Is Where You Are - Dave DK Remix",
       "url": "https://open.spotify.com/track/3FcpUNFDBMv27FYwkznStL"
@@ -1111,7 +1173,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 387401,
       "name": "Hessingen",
       "url": "https://open.spotify.com/track/2yCbHFZ2spf22BHacJKiED"
@@ -1129,7 +1191,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387401,
       "name": "Hessingen",
       "url": "https://open.spotify.com/track/4lgw73z34KT0lXMkOkhiiz"
@@ -1165,10 +1227,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177786,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/0UY6ggZPalSXs3ue8tVcts"
+    },
+    {
+      "album": {
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/4Fd7lUvMzc0HFeaseDZaO3"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/192bA6Tgzd1e0FIaik5f2g"
     },
     {
       "album": {
@@ -1205,7 +1285,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT"
@@ -1227,7 +1307,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329996,
       "name": "I Go - DJ Koze Remix",
       "url": "https://open.spotify.com/track/75yKhfvUFlPi8niVVmlnHt"
@@ -1503,10 +1583,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404500,
       "name": "Matrix - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/5hjiRNGMYjihPgvNl12W0A"
+    },
+    {
+      "album": {
+        "name": "Matrix (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/25KrXRNfR1Ywn1cFHrlRjc"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404500,
+      "name": "Matrix - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/6D1299tqesRwbKZ5NfL8Wh"
     },
     {
       "album": {
@@ -1543,10 +1645,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339146,
       "name": "Memory Lake",
       "url": "https://open.spotify.com/track/27wL9Cip8cgvtNRFNpkvcV"
+    },
+    {
+      "album": {
+        "name": "VORTEX",
+        "url": "https://open.spotify.com/album/4FQ6GnH0Oc09ADYHxhptul"
+      },
+      "artists": [
+        {
+          "name": "Special Request",
+          "url": "https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339146,
+      "name": "Memory Lake",
+      "url": "https://open.spotify.com/track/2rmTQp48eMk59ItD8ZdeAT"
     },
     {
       "album": {
@@ -1597,7 +1717,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295305,
       "name": "Moninga",
       "url": "https://open.spotify.com/track/3jlygH5CHIUsQQwos8F9th"
@@ -1615,7 +1735,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 295305,
       "name": "Moninga",
       "url": "https://open.spotify.com/track/4P79noXrKGHrYUrsZioxjv"
@@ -1669,7 +1789,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278400,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3OVmGYpjfsy2nhzYmjsXxE"
@@ -1687,7 +1807,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3mWw5uzVNZiuoJx2VsiLdp"
@@ -1757,10 +1877,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145122,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/5WVsD7Wl54laFoAVk78Ciz"
+    },
+    {
+      "album": {
+        "name": "Ag\u00fcita",
+        "url": "https://open.spotify.com/album/0EYeCdEufuv5e94Vxd75rn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Garz\u00f3n-Montano",
+          "url": "https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145122,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/7uttmnV8rJ2Nv4Zsxvo54N"
     },
     {
       "album": {
@@ -1775,7 +1913,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 337716,
       "name": "Narcos.Is",
       "url": "https://open.spotify.com/track/2K4LQf66hzw9G3d8A0lZry"
@@ -1793,7 +1931,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337716,
       "name": "Narcos.Is",
       "url": "https://open.spotify.com/track/3fWggU2Bp2qETvK54k103J"
@@ -1815,10 +1953,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239240,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0kGkvqy8ne40PwxNWZ01XL"
+    },
+    {
+      "album": {
+        "name": "Natural (feat. Big Ever)",
+        "url": "https://open.spotify.com/album/04iCbI7QFhcTtzRAvNBBQM"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Big Ever",
+          "url": "https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Natural (feat. Big Ever)",
+      "url": "https://open.spotify.com/track/0Coblp9s0SdXoU5XoILgt9"
     },
     {
       "album": {
@@ -1845,6 +2005,24 @@
     {
       "album": {
         "name": "Suddenly",
+        "url": "https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305480,
+      "name": "Never Come Back",
+      "url": "https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd"
+    },
+    {
+      "album": {
+        "name": "Suddenly",
         "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
       },
       "artists": [
@@ -1855,7 +2033,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305480,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/2xxKJgIpgiancRpSup5dHU"
@@ -1917,7 +2095,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 674377,
       "name": "OAR003-B",
       "url": "https://open.spotify.com/track/7qnDy4qBwsPkTeoVv06BYS"
@@ -1935,7 +2113,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 674377,
       "name": "OAR003-B - Original Mix",
       "url": "https://open.spotify.com/track/0t5Rr3zaALBh7yI2kGhYyl"
@@ -2111,7 +2289,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Pax - Four Tet Remix",
       "url": "https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3"
@@ -2137,7 +2315,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320000,
       "name": "Pax - Four Tet Remix",
       "url": "https://open.spotify.com/track/58nf4EoJi4a6G2fSIlEwiX"
@@ -2191,10 +2369,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282424,
       "name": "places faces",
       "url": "https://open.spotify.com/track/4sEijthvXQuwOMn06lpxCH"
+    },
+    {
+      "album": {
+        "name": "places faces",
+        "url": "https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d"
+      },
+      "artists": [
+        {
+          "name": "altrice",
+          "url": "https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282424,
+      "name": "places faces",
+      "url": "https://open.spotify.com/track/74liBteAnKWOl7xPc9ZWfJ"
     },
     {
       "album": {
@@ -2401,7 +2597,7 @@
     {
       "album": {
         "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
-        "url": "https://open.spotify.com/album/5lDEJQDkYqDwowD9ENcPG8"
+        "url": "https://open.spotify.com/album/4lioRA8d9ZI6qDScfAnKwd"
       },
       "artists": [
         {
@@ -2420,6 +2616,32 @@
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275121,
+      "name": "Sirens (feat. Caroline Polachek) - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/1cWLRywZKy8jowqSywSSqQ"
+    },
+    {
+      "album": {
+        "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
+        "url": "https://open.spotify.com/album/5lDEJQDkYqDwowD9ENcPG8"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 275121,
       "name": "Sirens (feat. Caroline Polachek) [Sofia Kourtesis Remix]",
       "url": "https://open.spotify.com/track/6ef8fMWzwo7UItuHeJ98ql"
@@ -2597,10 +2819,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282091,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6ARmIHYy1T3zQ2QckNsbj3"
+    },
+    {
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282091,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
     },
     {
       "album": {
@@ -2615,7 +2855,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 411371,
       "name": "The Hours",
       "url": "https://open.spotify.com/track/5pDMx1xOnhSomxKkJmez4p"
@@ -2633,7 +2873,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411371,
       "name": "The Hours",
       "url": "https://open.spotify.com/track/60JlcjrNUHMOCrqHyvlevq"
@@ -2651,10 +2891,50 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "album": {
+        "name": "Tienat\u00e9",
+        "url": "https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278749,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
+    },
+    {
+      "album": {
+        "name": "Tjomme (DJ Koze Remix)",
+        "url": "https://open.spotify.com/album/1iFqVaX3nil4bBBl7oxEVv"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362481,
+      "name": "Tjomme - DJ Koze Remix",
+      "url": "https://open.spotify.com/track/01EWHtr2PejHSQMwh3Z4G9"
     },
     {
       "album": {
@@ -2695,7 +2975,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362481,
       "name": "Tjomme - DJ Koze Remix",
       "url": "https://open.spotify.com/track/7lyaMqYrciQPhxH5wJYhL3"
@@ -2775,7 +3055,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/16a08DG2rAjlpaFoWqRPkd"
@@ -2793,10 +3073,28 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 230748,
       "name": "True Romance (Maja Edit)",
       "url": "https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu"
+    },
+    {
+      "album": {
+        "name": "Backwater",
+        "url": "https://open.spotify.com/album/3RfcHBYnQoRKuA6ez1VUUF"
+      },
+      "artists": [
+        {
+          "name": "Kllo",
+          "url": "https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Virtue",
+      "url": "https://open.spotify.com/track/0SyMK2z60yrbb5O6E2aAVB"
     },
     {
       "album": {
@@ -2811,7 +3109,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220264,
       "name": "Virtue",
       "url": "https://open.spotify.com/track/6dMIr5DaRF3qZ2fKOEJXgx"
@@ -2945,7 +3243,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 295890,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/37QHi7TjXoienoLyIpBFZK"
@@ -2967,7 +3265,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295890,
       "name": "Xtasis",
       "url": "https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf"

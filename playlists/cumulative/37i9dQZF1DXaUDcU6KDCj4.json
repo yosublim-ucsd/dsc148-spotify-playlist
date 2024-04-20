@@ -11863,6 +11863,24 @@
     },
     {
       "album": {
+        "name": "Going to Georgia",
+        "url": "https://open.spotify.com/album/6gO4qL0SySfVTGfCMTBKfQ"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304661,
+      "name": "Going to Georgia",
+      "url": "https://open.spotify.com/track/16GSIUPxdWdKytVQmq5sYD"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0UoERozz72RxpR2oZXYpfN"
       },
@@ -13562,8 +13580,8 @@
           "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         },
         {
-          "name": "Hey\u201a Nothing",
-          "url": "https://open.spotify.com/artist/5OXnmrYjOXhjj7eL5bUgHk"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
       "date_added": "2024-04-12",

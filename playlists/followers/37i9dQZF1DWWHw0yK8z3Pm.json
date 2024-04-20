@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 61738,
+  "2024-04-20": 61735,
   "date_first_scraped": "2022-05-14",
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Orville Peck",
   "name": "Renegades",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208955,
       "name": "68 - Live",
       "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140808,
       "name": "A Heart Of Gold Is Hard To Find",
       "url": "https://open.spotify.com/track/5yFs9fL1eIVT034HV8282J"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 250257,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 238473,
       "name": "Bequest",
       "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245466,
       "name": "Broadview",
       "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
@@ -1236,6 +1236,24 @@
     },
     {
       "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf"
+      },
+      "artists": [
+        {
+          "name": "Elliott BROOD",
+          "url": "https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "C'mon Let's Go",
+      "url": "https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/2hD5r1M47yZkRtBwlgzegB"
       },
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "CAMPFIRE",
       "url": "https://open.spotify.com/track/5LzJ0hTz5LBYjSKT7YUQLU"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/100W6o9qJYr3qlQ62vsCs8"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/2SeDdNjPvN3uwkolnG2ODi"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199734,
       "name": "Damn Darlin'",
       "url": "https://open.spotify.com/track/05BCDYfufm00iGfNKp9xss"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 199734,
       "name": "Damn Darlin'",
       "url": "https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 238143,
       "name": "Days Can Turn Around",
       "url": "https://open.spotify.com/track/2d69jnkYE4Yey8HJPHXfxz"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
@@ -2465,6 +2483,24 @@
     {
       "album": {
         "name": "Down Rounder",
+        "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
+    },
+    {
+      "album": {
+        "name": "Down Rounder",
         "url": "https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8"
       },
       "artists": [
@@ -2475,7 +2511,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw"
@@ -2835,7 +2871,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285786,
       "name": "Golden Embers",
       "url": "https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs"
@@ -2907,7 +2943,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
@@ -3159,7 +3195,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
@@ -3329,7 +3365,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 234248,
       "name": "Honest Love",
       "url": "https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1"
@@ -3463,7 +3499,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1"
@@ -3485,7 +3521,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
@@ -3683,7 +3719,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 210465,
       "name": "In Emerald",
       "url": "https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy"
@@ -4047,10 +4083,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
+    },
+    {
+      "album": {
+        "name": "And You Are Me",
+        "url": "https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "Keep The Wolves Away",
+      "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"
     },
     {
       "album": {
@@ -4101,7 +4155,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208053,
       "name": "Kingdom For A Fool",
       "url": "https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62"
@@ -4837,7 +4891,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 215661,
       "name": "Mountain Road",
       "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
@@ -4855,7 +4909,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22"
@@ -4873,7 +4927,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
@@ -5723,7 +5777,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 169570,
       "name": "Resurrection Day",
       "url": "https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U"
@@ -5817,7 +5871,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf"
@@ -5839,7 +5893,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
@@ -5915,7 +5969,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 183785,
       "name": "River of Tears",
       "url": "https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn"
@@ -6323,7 +6377,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242254,
       "name": "Snakes and Waterfalls",
       "url": "https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC"
@@ -6341,7 +6395,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 213248,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
@@ -6417,7 +6471,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 203480,
       "name": "South Dakota Wild One",
       "url": "https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb"
@@ -7051,7 +7105,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11"
@@ -7069,7 +7123,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 160053,
       "name": "Too Good to be True",
       "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
@@ -7211,7 +7265,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244108,
       "name": "Two Wolves",
       "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
@@ -7665,7 +7719,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172868,
       "name": "Witness",
       "url": "https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo"

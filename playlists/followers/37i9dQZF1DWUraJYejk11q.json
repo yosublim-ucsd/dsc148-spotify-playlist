@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 460117,
+  "2024-04-20": 460040,
   "date_first_scraped": "2021-12-21",
   "description": "Instrumental bliss beyond genre classification.",
   "name": "Genre Glitch",
@@ -449,7 +449,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243664,
       "name": "Bermondsey Bender",
       "url": "https://open.spotify.com/track/0vW7OH6FgumkWUgyHPFeRR"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 243664,
       "name": "Bermondsey Bender",
       "url": "https://open.spotify.com/track/2GOjnXqV31xkDYPSQrvLkT"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
@@ -595,6 +595,24 @@
       "duration_ms": 200044,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4uxW8xGvAHT2lOCFLG7gUg"
+    },
+    {
+      "album": {
+        "name": "More Truth",
+        "url": "https://open.spotify.com/album/47KjErxlfKd7C4KO7Xhtg4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200044,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
     },
     {
       "album": {
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246696,
       "name": "Closer - Daniel Avery Edit",
       "url": "https://open.spotify.com/track/6n3bL5mXJ9iD3W8lB55PiA"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
@@ -1939,7 +1957,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357131,
       "name": "Hoss It",
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 357131,
       "name": "Hoss It",
       "url": "https://open.spotify.com/track/2KvwQPtFlShXLTEWJreQqx"
@@ -2891,10 +2909,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337194,
       "name": "Opak",
       "url": "https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7"
+    },
+    {
+      "album": {
+        "name": "Verve EP",
+        "url": "https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337194,
+      "name": "Opak",
+      "url": "https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh"
     },
     {
       "album": {
@@ -3065,7 +3101,7 @@
     {
       "album": {
         "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+        "url": "https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN"
       },
       "artists": [
         {
@@ -3076,6 +3112,24 @@
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/26z2GUYW7mlJAeAWcy4vlA"
+    },
+    {
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 399240,
       "name": "Pigeon Barron",
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
@@ -3861,7 +3915,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
@@ -3879,7 +3933,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/6yZhFRgrAPLMXkxOcD6Za7"
@@ -4167,7 +4221,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
@@ -4185,7 +4239,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
@@ -4257,7 +4311,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
@@ -4275,7 +4329,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/3GAEFblFG0ZzSKx5ilOWeW"
@@ -4531,7 +4585,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206657,
       "name": "Warm Fuzzies: The Glory",
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
@@ -4675,7 +4729,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 323919,
       "name": "World Turns",
       "url": "https://open.spotify.com/track/4JHtCJCbj7RcxfMQtCGOF4"
@@ -4693,7 +4747,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323919,
       "name": "World Turns",
       "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
@@ -4801,7 +4855,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP"
@@ -4819,7 +4873,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242784,
       "name": "Yesterday Faded - Edit",
       "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"

@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-126 songs - 6 hr 44 min
+127 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Manda Áudio](https://open.spotify.com/track/0in6Rc29qdyOkhKyYw4A84) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Manda Áudio](https://open.spotify.com/album/13Yr9s9OwQb0FqeBo1tlKa) | 2:42 | 2023-01-03 | 2024-04-19 |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 | 2023-11-17 |  |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 | 2023-01-03 | 2024-04-19 |
-| [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 |  |
+| [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 | 2024-04-20 |
 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 | 2023-01-03 | 2024-04-19 |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 | 2023-01-03 | 2024-04-19 |
 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 | 2023-01-03 |  |
@@ -96,6 +96,7 @@
 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 | 2023-01-03 |  |
 | [Pot\-Pourri: Melhor Eu Ir / Ligando Os Fatos / Sonho de Amor / Deixa Eu Te Querer \- Ao Vivo](https://open.spotify.com/track/5r9CZJMoMmxio2AnJdxuDS) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Churrasquinho Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v) | 8:41 | 2023-01-03 | 2024-04-19 |
 | [Pot\-Pourri: Tempo de Aprender / Energia Surreal / Não Pedi Pra Me Apaixonar / Deixa Acontecer \- Ao Vivo](https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Vou Zuar](https://open.spotify.com/artist/5x2zeeLVXEDaMHRaRmH3FD) | [Churrasquinho Menos É Mais \(Ao Vivo\)](https://open.spotify.com/album/7s2MXOVpIWBNcfnHGCDh3v) | 6:55 | 2023-01-03 | 2024-04-19 |
+| [Pot\-Pourri: Teu Segredo / Já Tentei](https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 6:22 | 2023-11-17 |  |
 | [Pouco a Pouco \(Ao Vivo\) \(feat\. Sorriso Maroto\)](https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:16 | 2023-01-03 |  |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2023-01-03 |  |
 | [Pupila](https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor \| Ep\. 3](https://open.spotify.com/album/5nHhClkNG3oL9aIJKgzwgx) | 3:25 | 2023-11-17 |  |

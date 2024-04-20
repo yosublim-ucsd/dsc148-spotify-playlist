@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,560 songs - 3 day 13 hr 28 min
+1,561 songs - 3 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 4:12 | 2021-09-12 | 2021-09-18 |
 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2024-02-13 | 2024-02-15 |
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-22 |
-| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-06 |  |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-06 | 2024-04-20 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 |  |
 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 | 2021-05-25 | 2022-06-11 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-10 |
@@ -675,6 +675,7 @@
 | [Koja](https://open.spotify.com/track/4wg8kBqDlfJF1GXcwrnnxX) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [ŽVĖRYNĖ](https://open.spotify.com/album/0HQUjiRWR7bIQIEiBRYIfr) | 3:12 | 2022-02-02 | 2022-02-05 |
 | [Kraujo!](https://open.spotify.com/track/2I4ZZesohrpMWYmOgPEhVG) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [DĖMESIO! \(Deluxe\)](https://open.spotify.com/album/4eSMe59X7Gj42Pk53iMFaf) | 2:15 | 2022-04-27 | 2022-04-29 |
 | [Krenta Sniegas](https://open.spotify.com/track/5MXf6hB1eOdTNGX5Irv8yn) | [Egidijus Sipavičius](https://open.spotify.com/artist/6clePhZnpQ2NgBBFuobXfs) | [Krenta Sniegas](https://open.spotify.com/album/5FLAEjORZbNalqfM1Cbgv0) | 3:40 | 2022-12-26 | 2023-12-30 |
+| [KRVSH!](https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [KRVSH!](https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt) | 1:43 | 2024-04-19 |  |
 | [Kunigunda](https://open.spotify.com/track/4y8aCoEUWXCHAgKo0cDcNy) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Kunigunda](https://open.spotify.com/album/0YaZMbEP3ATgr76tqoHReG) | 2:59 | 2021-06-14 | 2022-09-13 |
 | [Kunigunda](https://open.spotify.com/track/4Kt624sTGjRZ3hFBvlQaWC) | [Vaidas Baumila](https://open.spotify.com/artist/7AczdBjiNUjo4pxVVucvw1) | [Apžavai](https://open.spotify.com/album/5q4RJ00dwxSEh7tM3XrRy0) | 3:02 | 2023-01-29 | 2023-07-04 |
 | [Kupranugaris](https://open.spotify.com/track/0DxtfzzTxMsTSU6771s7y1) | [Vidas Bareikis](https://open.spotify.com/artist/2hpPSRCFwK2dKOMqW4M95u), [8 Kambarys](https://open.spotify.com/artist/0T5UNkhytLQkUMkkAqhDzf) | [Kupranugaris](https://open.spotify.com/album/7af8p6SHtFPiJ1dqZL9753) | 3:20 | 2022-01-30 | 2022-02-11 |

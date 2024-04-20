@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 466875,
+  "2024-04-20": 466838,
   "date_first_scraped": "2022-07-17",
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
   "name": "Festa na Praia",
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206759,
       "name": "A Tal Can\u00e7\u00e3o Pra Lua - Madism Remix",
       "url": "https://open.spotify.com/track/1Wrw9FAuxbM3mb0kkH2M2c"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214435,
       "name": "Adrenalizou - Gabriel Boni Remix",
       "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162073,
       "name": "Alto Mar - Woak & Rigon Remix",
       "url": "https://open.spotify.com/track/4eRdqHpdfJxJcUdzhoYBSq"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181500,
       "name": "Certeza - Zabot Remix",
       "url": "https://open.spotify.com/track/5QmITZMc3kLAY6trGa9ohA"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251612,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/3o6D9gHkSumEECclUt0tCN"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187428,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 220125,
       "name": "E Depois (Que Sorte A Minha)",
       "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
@@ -1666,6 +1666,28 @@
     },
     {
       "album": {
+        "name": "Frevo Mulher (Remixes)",
+        "url": "https://open.spotify.com/album/5MuVLg9WRgDmDo14nGJwS4"
+      },
+      "artists": [
+        {
+          "name": "FLAR",
+          "url": "https://open.spotify.com/artist/3TmTT72nBrAzHsQ1KkBppa"
+        },
+        {
+          "name": "Z\u00e9 Ramalho",
+          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Frevo Mulher (Remix) - Radio Mix",
+      "url": "https://open.spotify.com/track/2pd4ZghZfqaFpp5d3kBrW8"
+    },
+    {
+      "album": {
         "name": "F\u00e9 (feat. Rael e Fmartins) [Remix]",
         "url": "https://open.spotify.com/album/15JhJRTs4tVLxjac7AzopT"
       },
@@ -1951,10 +1973,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/4EWdGKmUbO3bCTrVfXMzZB"
+    },
+    {
+      "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/4wFTM9WLwSSq8nM30ckDYb"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/37CObm6PbDabgHBNK4Z65X"
     },
     {
       "album": {
@@ -2051,7 +2091,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 215806,
       "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
       "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
@@ -2121,7 +2161,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
@@ -2305,7 +2345,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 173114,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
@@ -2343,21 +2383,21 @@
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
           "name": "Zuffo",
           "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
         },
         {
           "name": "3030",
           "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Manh\u00e3 de Sol - Zuffo Remix",
       "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
@@ -2641,7 +2681,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168572,
       "name": "O Amor \u00e9 o Segredo - Dre Guazelli Remix Radio Edit",
       "url": "https://open.spotify.com/track/3AUwUpkVKa1gQ74gxxV49z"
@@ -2685,7 +2725,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 189451,
       "name": "O Xote Das Meninas - Pontifexx Remix",
       "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"
@@ -2848,6 +2888,36 @@
     },
     {
       "album": {
+        "name": "EletroTribalistas",
+        "url": "https://open.spotify.com/album/1LVeI6iW6g7RvgQBLoSLpb"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "name": "Deeplick",
+          "url": "https://open.spotify.com/artist/7bitILn8c1VCsYwoT2ZQmY"
+        },
+        {
+          "name": "Tribalistas",
+          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
+        },
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "date_added": "2024-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226745,
+      "name": "Passe em Casa (feat. Margareth Menezes) - Eletr\u00f4nica",
+      "url": "https://open.spotify.com/track/3lnPNtiKdNG5kLhQD4A7XV"
+    },
+    {
+      "album": {
         "name": "Pa\u00eds do Futebol (No Flow)",
         "url": "https://open.spotify.com/album/0OemWawwWXiabUo6rWUQbF"
       },
@@ -2893,7 +2963,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
       "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
@@ -2949,7 +3019,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218770,
       "name": "Pontos de Exclama\u00e7\u00e3o - Vintage Culture & Future Class Remix",
       "url": "https://open.spotify.com/track/25usEf5iGk9HL0LM9VTxue"
@@ -3351,7 +3421,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 178328,
       "name": "Roda Gigante",
       "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
@@ -3665,7 +3735,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 172876,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/3I5Xmqmng3glL1DtRYb4pD"
@@ -4217,7 +4287,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123142,
       "name": "V\u00e1rias Queixas - Remix",
       "url": "https://open.spotify.com/track/1ciV9nuPokiQzNVpuLoTQV"
@@ -4283,7 +4353,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"

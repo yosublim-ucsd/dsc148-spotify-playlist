@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-220 songs - 13 hr 20 min
+221 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All To Me](https://open.spotify.com/track/28TJ1DLGBJ9BddLpWwwuXQ) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [All To Me](https://open.spotify.com/album/5KgrT8AuRSZ202tqBdvrPW) | 3:26 | 2023-01-25 | 2023-04-02 |
 | [Anthem 2](https://open.spotify.com/track/4vh6MJHySvRYelpdOraohY) | [Floorfilla](https://open.spotify.com/artist/1dOIq90LX5SUTW8c784Xeb) | [United Beatz Of Floorfilla](https://open.spotify.com/album/4qCjSKxAMqpANIZJ1hMP6S) | 3:26 | 2023-12-27 | 2024-01-12 |
 | [Are You All Ready \- Spektre Remix](https://open.spotify.com/track/1CF65Or9IKv4hWLQjKEVSi) | [Tony De Vit](https://open.spotify.com/artist/17acmoMCDxCeLPYv4T5sV1), [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT) | [Are You All Ready \(Spektre Remix\)](https://open.spotify.com/album/1B8MCRyfqk7Dmsa5R37bu6) | 4:10 | 2023-12-27 | 2024-01-12 |
+| [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 | 2024-03-29 |  |
 | [Baby G](https://open.spotify.com/track/0Xk5A0SC7dvPPcR1XlDjK5) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Baby G](https://open.spotify.com/album/2lnd0ppKdrXSCdaiAVe2EY) | 2:56 | 2023-12-27 | 2024-01-12 |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-09-22 |  |
 | [Badda \- Sinais VIP](https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Badda \(Sinais VIP\)](https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz) | 2:34 | 2023-12-04 |  |
@@ -151,7 +152,7 @@
 | [Pearl River \- Karney Remix](https://open.spotify.com/track/0vdmdIWO128POiECtp1ekv) | [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0), [Johnny Shaker](https://open.spotify.com/artist/5yOo6QU2tfEj7C8jPoMMTk), [Karney](https://open.spotify.com/artist/4IYtlYqi3daKiscEqovUTG) | [Pearl River \(Karney Remix\)](https://open.spotify.com/album/6osgX9tHLWrPo8pDIn34JK) | 3:46 | 2023-12-27 | 2024-01-12 |
 | [Perfect \(Exceeder\) \- 1991 Remix](https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Perfect \(Exceeder\) \[1991 Remix\]](https://open.spotify.com/album/32pP9IByNHcFzL4Hlr6cob) | 3:20 | 2024-01-26 |  |
 | [Pictures In My Head \- High Contrast Remix](https://open.spotify.com/track/4nTWlJcs3S1cxnXTTnWu2n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Pictures In My Head](https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm) | 4:18 | 2022-09-30 | 2024-02-23 |
-| [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 | 2023-04-13 |  |
+| [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 | 2023-04-13 | 2024-04-20 |
 | [Playing Games](https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Playing Games](https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL) | 3:08 | 2022-09-30 | 2023-08-08 |
 | [Point Em Up](https://open.spotify.com/track/1GzeZBt9GXs9hAuopZGacR) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Point Em Up](https://open.spotify.com/album/4yd5nyBknTlyWv06KOyaRa) | 3:32 | 2022-09-30 | 2023-01-21 |
 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 | 2022-09-30 | 2023-05-20 |

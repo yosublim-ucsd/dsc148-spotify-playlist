@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Una selezione speciale in occasione del <a href="https://dice.fm/event/vx5pd\-rb\-takeover\-fest\-21st\-apr\-monk\-sala\-teatro\-roma\-tickets?lng=en">primo Festival R&B italiano il 21 aprile</a>! Cover: Nico Kyni
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,719 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,727 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 100253,
+  "2024-04-20": 100318,
   "date_first_scraped": "2023-01-20",
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
   "name": "Melodia & Nostalgia",
@@ -25,6 +25,24 @@
     {
       "album": {
         "name": "Shadow Dancing",
+        "url": "https://open.spotify.com/album/1A8ZxoWwWbn9Ak2k8p3DTn"
+      },
+      "artists": [
+        {
+          "name": "Andy Gibb",
+          "url": "https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "(Our Love) Don't Throw It All Away",
+      "url": "https://open.spotify.com/track/1Rj2vKjzAVzsnmofZzYFWh"
+    },
+    {
+      "album": {
+        "name": "Shadow Dancing",
         "url": "https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8"
       },
       "artists": [
@@ -35,7 +53,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250200,
       "name": "(Our Love) Don't Throw It All Away",
       "url": "https://open.spotify.com/track/1RsxUuB1Q5OdseLpHMBkEN"
@@ -61,6 +79,24 @@
     {
       "album": {
         "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/1FTTvj9l6mTje8JVg1Tthk"
+      },
+      "artists": [
+        {
+          "name": "Average White Band",
+          "url": "https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334106,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/3twKIMBTTDFT9ETkUxYtgX"
+    },
+    {
+      "album": {
+        "name": "Soul Searching",
         "url": "https://open.spotify.com/album/76IzhBKiaMSqNO0NDWWO7q"
       },
       "artists": [
@@ -71,7 +107,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336038,
       "name": "A Love of Your Own",
       "url": "https://open.spotify.com/track/3pbAV1Q2j1mNW78wqegBGt"
@@ -143,10 +179,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286973,
       "name": "Always",
       "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
+    },
+    {
+      "album": {
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/5gK0fkRx9h3OP8opU2sFpr"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2TQaMcc3BEAF5Srn7FCipl"
     },
     {
       "album": {
@@ -197,10 +251,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300706,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0UwwFTc4nTDEkxSKJBP4xY"
+    },
+    {
+      "album": {
+        "name": "The Songstress",
+        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
     },
     {
       "album": {
@@ -215,10 +287,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346746,
       "name": "Anticipation",
       "url": "https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ"
+    },
+    {
+      "album": {
+        "name": "Propositions",
+        "url": "https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347560,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ"
     },
     {
       "album": {
@@ -241,6 +331,24 @@
     {
       "album": {
         "name": "Ben",
+        "url": "https://open.spotify.com/album/3ptDrRzgad76DCVrxtC555"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165160,
+      "name": "Ben",
+      "url": "https://open.spotify.com/track/3DUNaBEHqpXsrY7sXWlWpX"
+    },
+    {
+      "album": {
+        "name": "Ben",
         "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
       },
       "artists": [
@@ -251,10 +359,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167386,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4Vx3zpym2018sqfXlZrotJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Betcha By Golly Wow",
+      "url": "https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8"
     },
     {
       "album": {
@@ -269,7 +395,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
@@ -378,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
+    },
+    {
+      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -389,7 +533,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
@@ -414,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Cuban Soul: 18 Kilates",
+        "url": "https://open.spotify.com/album/2DTcOvJhcTPDoI0LU7zE18"
+      },
+      "artists": [
+        {
+          "name": "Cassiano",
+          "url": "https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Cole\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1cie8Kh2zfvvOcstv5gly2"
+    },
+    {
+      "album": {
         "name": "Cole\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1Fz6Y2FBqDcOW89ZYH5xCN"
       },
@@ -425,7 +587,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191294,
       "name": "Cole\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4Ho7ViB4ip3yPLzfCTxfQD"
@@ -443,10 +605,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332741,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
+    },
+    {
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332840,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/5EBWCGlCn65HM8Hglrc5V1"
     },
     {
       "album": {
@@ -656,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
+    },
+    {
+      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -667,7 +865,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333533,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z"
@@ -685,7 +883,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
@@ -703,7 +901,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257920,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
@@ -729,6 +927,24 @@
     {
       "album": {
         "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383493,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/0xh1nbm202VvLOlpp7JjPA"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
       "artists": [
@@ -739,7 +955,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383502,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
@@ -800,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Barry White - Universal Masters Collection",
+        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428240,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
+    },
+    {
+      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -811,7 +1045,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
@@ -894,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "The Essential Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/6yTiY5jSYTygHkG4PkSIMv"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357186,
+      "name": "It's Time for Love",
+      "url": "https://open.spotify.com/track/2TQ4ar2L7ILV0MM8SnUcq8"
+    },
+    {
+      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -905,7 +1157,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357333,
       "name": "It's Time for Love",
       "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
@@ -923,10 +1175,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289106,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/3CEqEdl8uZkcsQA3GQSgk3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/5Bw084vIrm2VpxH7btsqZH"
     },
     {
       "album": {
@@ -959,7 +1229,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
@@ -995,7 +1265,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291360,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
@@ -1129,6 +1399,24 @@
     {
       "album": {
         "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
+    },
+    {
+      "album": {
+        "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
       },
       "artists": [
@@ -1139,10 +1427,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179773,
       "name": "Never Can Say Goodbye",
       "url": "https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i"
+    },
+    {
+      "album": {
+        "name": "The Best Of Stephanie Mills",
+        "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
     },
     {
       "album": {
@@ -1157,7 +1463,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326586,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
@@ -1298,6 +1604,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Barry White 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/0BTmpW0Of2rQ10Xr8IoMNk"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Playing Your Game, Baby - Single Version",
+      "url": "https://open.spotify.com/track/2mqKNTdxl7eyKyfTNl0gw4"
+    },
+    {
+      "album": {
         "name": "All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
@@ -1309,7 +1633,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219866,
       "name": "Playing Your Game, Baby - Single Version",
       "url": "https://open.spotify.com/track/5gMPyXsnILxJJn59G2cxpN"
@@ -1381,10 +1705,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337066,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
+    },
+    {
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/6qErkWYP1Xs5BR6cxyMrFF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337133,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/1aXzEVoWEr1bfZbUINnkv1"
     },
     {
       "album": {
@@ -1424,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315440,
+      "name": "Settle For My Love",
+      "url": "https://open.spotify.com/track/2xRgzDEtR2eBz5dTgMvIpx"
+    },
+    {
+      "album": {
         "name": "Forget Me Nots",
         "url": "https://open.spotify.com/album/0nmo06KvlBGr2ypKt38IId"
       },
@@ -1435,7 +1795,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313986,
       "name": "Settle for My Love - Remastered Version",
       "url": "https://open.spotify.com/track/22R71ZKypKapgaFnsIE99Z"
@@ -1587,10 +1947,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
     },
     {
       "album": {
@@ -1609,10 +1987,32 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
+      },
+      "artists": [
+        {
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
     },
     {
       "album": {
@@ -1822,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
+    },
+    {
+      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -1833,7 +2251,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
@@ -1899,6 +2317,24 @@
     {
       "album": {
         "name": "Rockin' Roll Baby",
+        "url": "https://open.spotify.com/album/3eIZzW0fCXzec7TkcJ23Mq"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288440,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/00CCi9yHJh7NjXcNT565Ja"
+    },
+    {
+      "album": {
+        "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
       "artists": [
@@ -1909,7 +2345,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"

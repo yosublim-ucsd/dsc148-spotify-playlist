@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,923 likes - 170 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,646 likes - 170 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

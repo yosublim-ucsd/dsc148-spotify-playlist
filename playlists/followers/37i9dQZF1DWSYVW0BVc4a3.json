@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 133634,
+  "2024-04-20": 133771,
   "date_first_scraped": "2022-08-19",
   "description": "that's how we do it",
   "name": "Open Air",
@@ -221,7 +221,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 180952,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180952,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
@@ -1249,6 +1249,28 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/34TVyZ6ihx9yJHwXhlKAGc"
+      },
+      "artists": [
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "Makasi",
+          "url": "https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175081,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/47EKiH3Bda9wUpROLd3MD7"
     },
     {
       "album": {
@@ -2217,7 +2239,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
@@ -2239,7 +2261,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -3105,7 +3127,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338179,
       "name": "Como",
       "url": "https://open.spotify.com/track/2ajDXhl2wdbHhJUK0qaU8V"
@@ -3123,7 +3145,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 338179,
       "name": "Como",
       "url": "https://open.spotify.com/track/2jWqS0gbqMeDmEAxFLaftX"
@@ -4102,6 +4124,28 @@
     },
     {
       "album": {
+        "name": "Don't Understand",
+        "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Don't Understand",
+      "url": "https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq"
+    },
+    {
+      "album": {
         "name": "Don't You Know",
         "url": "https://open.spotify.com/album/45nc2W02MspKjeAIGwIvz8"
       },
@@ -4855,7 +4899,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
@@ -4873,7 +4917,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE"
@@ -6771,10 +6815,28 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "album": {
@@ -7207,7 +7269,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4Z0OyS2aO8BXWY5sXSTwQc"
@@ -7229,7 +7291,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
@@ -8099,7 +8161,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 434000,
       "name": "Kelly - Denis Horvat Remix",
       "url": "https://open.spotify.com/track/30DlzbvhRl1rC1lRJsqLkk"
@@ -8143,7 +8205,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 434000,
       "name": "Kelly - Extended Mix",
       "url": "https://open.spotify.com/track/69QzgiBrRf26ecAgxDKUPP"
@@ -8725,7 +8787,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Light For Me",
       "url": "https://open.spotify.com/track/0fF0kx1BThS5oiiSmJSSCm"
@@ -8743,7 +8805,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "Light For Me",
       "url": "https://open.spotify.com/track/7eHwRUMCk1dR8jk6DOMBTD"
@@ -8947,7 +9009,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213953,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL"
@@ -8965,7 +9027,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 213953,
       "name": "Look The Other Way",
       "url": "https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I"
@@ -9626,6 +9688,24 @@
     },
     {
       "album": {
+        "name": "MIC Check",
+        "url": "https://open.spotify.com/album/7nU1rSNna6cv6WgmpJRrMw"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355717,
+      "name": "MIC CHECK - Original mix",
+      "url": "https://open.spotify.com/track/6LiI6AI9LH22wfa0Frs708"
+    },
+    {
+      "album": {
         "name": "Midtown Playground",
         "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
       },
@@ -9677,7 +9757,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176949,
       "name": "Milkshake 20 (Alex Wann Remix)",
       "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
@@ -9699,7 +9779,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 176949,
       "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
@@ -10229,7 +10309,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153750,
       "name": "Mwaki - Duke Dumont & Kiko Franco Remix",
       "url": "https://open.spotify.com/track/3rONCYbd5sc60wqbNXU4sO"
@@ -10259,7 +10339,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 153750,
       "name": "Mwaki - Duke Dumont & Kiko Franco Remix",
       "url": "https://open.spotify.com/track/7f3b3OIY81qiZUpsmGMSpZ"
@@ -11913,7 +11993,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f"
@@ -11931,7 +12011,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
@@ -13723,6 +13803,28 @@
       "duration_ms": 216937,
       "name": "Sidewindah (feat. Flirta D) - Interplanetary Criminal Remix",
       "url": "https://open.spotify.com/track/40jqUyfGoCQaZnUMIGdHSD"
+    },
+    {
+      "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
       "album": {
@@ -15599,7 +15701,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332068,
       "name": "The Fight Goes On",
       "url": "https://open.spotify.com/track/5bXXNTlYJtwB4fYPPp4UCE"
@@ -15617,7 +15719,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 332068,
       "name": "The Fight Goes On",
       "url": "https://open.spotify.com/track/79MiPqQ3hKFXUHSur45kOI"
@@ -17416,6 +17518,24 @@
     },
     {
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "album": {
         "name": "Via Infinita",
         "url": "https://open.spotify.com/album/7wTrTjh9DD2YkHSABS6f8k"
       },
@@ -17815,6 +17935,28 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI"
+    },
+    {
+      "album": {
+        "name": "What EP",
+        "url": "https://open.spotify.com/album/3MoBLdw08HUFji9FDx58l2"
+      },
+      "artists": [
+        {
+          "name": "Yet More",
+          "url": "https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C"
+        },
+        {
+          "name": "Assayag",
+          "url": "https://open.spotify.com/artist/4QzEBswkEOjPlHiVmaF2Nm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380041,
+      "name": "What",
+      "url": "https://open.spotify.com/track/61C9tQQXOfUSwmaKyHBuap"
     },
     {
       "album": {
@@ -18304,6 +18446,28 @@
     },
     {
       "album": {
+        "name": "Yo Yo Get Funky (Andre Zimmer Remix)",
+        "url": "https://open.spotify.com/album/20wZYUzsZfPHscp0kiPzZY"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Yo Yo Get Funky - Andre Zimmer Remix",
+      "url": "https://open.spotify.com/track/5j1y2im0leY3lJlcxLFx1B"
+    },
+    {
+      "album": {
         "name": "FaCet, Vol. 1.2",
         "url": "https://open.spotify.com/album/7lXi6JZdVWFzDI8OPyiFM8"
       },
@@ -18449,6 +18613,28 @@
       "duration_ms": 180480,
       "name": "Young Money",
       "url": "https://open.spotify.com/track/0xlZeaB8bFiFKpTKIcTOIq"
+    },
+    {
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "album": {

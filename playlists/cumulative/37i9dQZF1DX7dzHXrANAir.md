@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-304 songs - 22 hr 8 min
+305 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Abandoned Places](https://open.spotify.com/track/3zP5jZNeK9VgCkd4tNPKib) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Abandoned Places](https://open.spotify.com/album/7J6pXQPzUoFW2GozOiD6fq) | 5:43 | 2022-02-11 | 2022-07-29 |
 | [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-22 | 2024-04-19 |
 | [Abu Simbel \- Hania Rani Invalides Version](https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Abu Simbel \(Hania Rani Invalides Version\)](https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900) | 5:39 | 2022-07-22 |  |
+| [All of It, Subatomic](https://open.spotify.com/track/60f736bY4JFznb2dVD4twn) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [All of It, Subatomic](https://open.spotify.com/album/3bX4thw1bJ2bp6mk6zSXCO) | 3:45 | 2024-03-29 |  |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 |  |
 | [And Then It Rained](https://open.spotify.com/track/6uXVIBmojLA2TiNLp9tLjm) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [City Lake](https://open.spotify.com/album/1YXP2GYpNBLrXBWD5j9iM1) | 4:52 | 2022-03-25 | 2022-04-02 |
 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 | 2023-03-24 |  |
@@ -113,7 +114,7 @@
 | [Haendel \(and 2 friends\)](https://open.spotify.com/track/6Hz32TkgNnk9uttM2FYX1Y) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [and 74 musicians](https://open.spotify.com/album/3kH3y6hyAkxB0PMqH2o2MB) | 3:33 | 2024-02-23 |  |
 | [Hafursey \(Yfir\)](https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Hafursey \(Yfir\)](https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J) | 4:59 | 2023-07-07 |  |
 | [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/2WNPAOq1ZbF7wX1ljnwuCx) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/4LhVE93AJq8K51Gm4PBTCt) | 3:36 | 2024-03-01 | 2024-04-19 |
-| [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP) | 3:36 | 2021-12-10 |  |
+| [Hallonlandet \(Reimagined by Manu Delago\)](https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP), [Manu Delago](https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF) | [Reimagined](https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP) | 3:36 | 2021-12-10 | 2024-04-20 |
 | [Harvester of Sorrow](https://open.spotify.com/track/1K11KPcUynDLD0b0Ds1zpQ) | [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe), [Jenn Mundia](https://open.spotify.com/artist/23Cb4TkNrKVdjShbEnyHQq) | [Justice](https://open.spotify.com/album/7cYJR3GwWpo1sMvNkyNBJH) | 3:47 | 2021-12-10 | 2022-04-02 |
 | [Hazy Day](https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO) | [Venceslas Catz](https://open.spotify.com/artist/3wIgEya8AysFHG4ZF0mA7E) | [Hazy Day](https://open.spotify.com/album/6n1pAvuKmfKQL3HHeFTZHD) | 4:17 | 2022-03-18 | 2022-08-14 |
 | [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 | 2021-12-10 |  |

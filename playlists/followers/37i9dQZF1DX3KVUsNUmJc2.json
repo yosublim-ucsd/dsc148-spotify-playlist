@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 32241,
+  "2024-04-20": 32303,
   "date_first_scraped": "2023-03-18",
   "description": "Long live the king. Listen to music from and inspired by Agent Elvis, now streaming on Netflix. ",
   "name": "Agent Elvis Official Playlist",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157546,
+      "name": "(Now and Then There's) A Fool Such as I",
+      "url": "https://open.spotify.com/track/2xWdVn8SF0ZZso33t6xsYM"
+    },
+    {
+      "album": {
         "name": "Elvis 30 #1 Hits (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159360,
       "name": "(Now and Then There's) A Fool Such as I",
       "url": "https://open.spotify.com/track/6aKzxns1rGMjLSij4PuWhh"
@@ -223,10 +241,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271813,
       "name": "American Trilogy - Live",
       "url": "https://open.spotify.com/track/6CT7j3vaqT3KlnZEetnQqW"
+    },
+    {
+      "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "An American Trilogy",
+      "url": "https://open.spotify.com/track/4t2Js2hedKONaWagU5dUQr"
     },
     {
       "album": {
@@ -897,10 +933,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136826,
       "name": "Mean Woman Blues",
       "url": "https://open.spotify.com/track/18eFeeErcRXRs7E173ZRWo"
+    },
+    {
+      "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137200,
+      "name": "Mean Woman Blues",
+      "url": "https://open.spotify.com/track/2BRwSZAX9xUnRQkBihhM5o"
     },
     {
       "album": {
@@ -1078,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/5KVmu1HZ7tBvqtMEVyv7dx"
+    },
+    {
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv"
       },
@@ -1089,7 +1161,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173786,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/0SSKHTfyUmL8JUQtfpKcfB"
@@ -1197,10 +1269,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178760,
       "name": "Such a Night",
       "url": "https://open.spotify.com/track/1vGfZYrNSxT72PdgToMubU"
+    },
+    {
+      "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Such a Night",
+      "url": "https://open.spotify.com/track/485WAZExinRcEtsKLSZVn2"
     },
     {
       "album": {
@@ -1215,10 +1305,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112226,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1aECQTfv5SO42lU4fvrdJJ"
+    },
+    {
+      "album": {
+        "name": "Elvis 75 - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114066,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4RpCu7aDROKxUKvgeqWZFb"
     },
     {
       "album": {

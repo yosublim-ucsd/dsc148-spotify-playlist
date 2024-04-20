@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 92037,
+  "2024-04-20": 92083,
   "date_first_scraped": "2023-07-10",
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
   "name": "P\u00f4r do sol na areia",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161000,
       "name": "15b",
       "url": "https://open.spotify.com/track/2w6VBGVuYOJe8oo4YXBEf4"
@@ -43,10 +43,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 163566,
       "name": "15b",
       "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
+    },
+    {
+      "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/16eU7wtX9pv2RPtIoDHVeO"
     },
     {
       "album": {
@@ -61,7 +79,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224466,
       "name": "Acalanto",
       "url": "https://open.spotify.com/track/5TTWOyGAjATPEuDiTIRd62"
@@ -131,6 +149,24 @@
     {
       "album": {
         "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1eQnp2hdYxu5iprEeZC5Kq"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3JwfgMmiaVQq7Dqv2hQKot"
+    },
+    {
+      "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
       },
       "artists": [
@@ -141,7 +177,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196743,
       "name": "Amanheceu - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 177343,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
@@ -207,7 +243,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177344,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x"
@@ -229,10 +265,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165408,
       "name": "Andar Leve",
       "url": "https://open.spotify.com/track/1k7JIu0DZnqZLFdyAX5M8Q"
+    },
+    {
+      "album": {
+        "name": "Andar Leve",
+        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165408,
+      "name": "Andar Leve",
+      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
     },
     {
       "album": {
@@ -251,7 +309,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6LDAUF7L1PhZh0utprIpe2"
@@ -273,7 +331,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244000,
       "name": "Apesar de Querer",
       "url": "https://open.spotify.com/track/6MbwzsouKfv44jkE6eA4j9"
@@ -321,6 +379,28 @@
     {
       "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
       },
       "artists": [
@@ -335,7 +415,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
@@ -667,10 +747,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152961,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL"
+    },
+    {
+      "album": {
+        "name": "Dan\u00e7a",
+        "url": "https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        },
+        {
+          "name": "Vitor Soltau",
+          "url": "https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152961,
+      "name": "Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd"
     },
     {
       "album": {
@@ -805,10 +907,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217241,
       "name": "Em Outro Lugar",
       "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
+    },
+    {
+      "album": {
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/6CvaSNTuutq8XmhNR74Wzg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "Em Outro Lugar",
+      "url": "https://open.spotify.com/track/64jPzmuoetfM7UDtXJVvJY"
     },
     {
       "album": {
@@ -823,10 +943,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179327,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/30DNaVhr36t9aUOGK4m2KV"
+    },
+    {
+      "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/5pFfBXvJWGPdRxxgaT8C9e"
+      },
+      "artists": [
+        {
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179327,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf"
     },
     {
       "album": {
@@ -1063,10 +1201,50 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171911,
       "name": "Louco de Amor - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5hGqmSotpJmMcZkyNYplZ6"
+    },
+    {
+      "album": {
+        "name": "Louco de Amor",
+        "url": "https://open.spotify.com/album/6HL0AK1xmdZyL5Kpqz1n3m"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        },
+        {
+          "name": "Romero Ferro",
+          "url": "https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171911,
+      "name": "Louco de Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7D9VaVp4SGCGhUHOxyrNrR"
+    },
+    {
+      "album": {
+        "name": "Gilsons",
+        "url": "https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "Love Love",
+      "url": "https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si"
     },
     {
       "album": {
@@ -1081,7 +1259,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205984,
       "name": "Love Love",
       "url": "https://open.spotify.com/track/7nSataGo54Le0IfcFQCFLN"
@@ -1103,10 +1281,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161250,
       "name": "Lua Nova",
       "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
+    },
+    {
+      "album": {
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/77HrVoVJjktmHBy9XRfBIc"
+      },
+      "artists": [
+        {
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/7gob58REjZ8OLz3sXwYKg4"
     },
     {
       "album": {
@@ -1161,10 +1361,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189882,
       "name": "Mais Perto",
       "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+    },
+    {
+      "album": {
+        "name": "Mais Perto",
+        "url": "https://open.spotify.com/album/6ueqxBAa5wYjO9dvjcxsjP"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/4Z5l9Xdxs5GJZxSd5GEz33"
     },
     {
       "album": {
@@ -1277,10 +1495,28 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238253,
       "name": "Minha Menina Bonita",
       "url": "https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU"
+    },
+    {
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/63Hzw93das0WzYgvR1gP8A"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/6TqFaqEYI3byZNAcm8lOXl"
     },
     {
       "album": {
@@ -1335,10 +1571,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188995,
       "name": "No Mundo",
       "url": "https://open.spotify.com/track/2mEALl4EcbiqffyP7fkNTH"
+    },
+    {
+      "album": {
+        "name": "No Mundo",
+        "url": "https://open.spotify.com/album/5YNgJg4RP2rjVJnaL2YWmI"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Lucas Mayer",
+          "url": "https://open.spotify.com/artist/724jACjbdJB5S18AqUAOQw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188995,
+      "name": "No Mundo",
+      "url": "https://open.spotify.com/track/6nz3aJMFQugXnZbWID6pBX"
     },
     {
       "album": {
@@ -1695,10 +1953,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197090,
       "name": "samba do mo\u00e7o bonito",
       "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
+    },
+    {
+      "album": {
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/1m7YxyY5M89ksdvOwuKc0e"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/4eskR9gFtgYA2lY09lgqly"
     },
     {
       "album": {
@@ -1757,7 +2033,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/06bUzFuTRlBuFz8QvkgAY6"
@@ -1779,7 +2055,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg"
@@ -1877,10 +2153,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "album": {
+        "name": "Bloco do Silva #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Sozinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe"
     },
     {
       "album": {
@@ -2124,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "Gilsons",
+        "url": "https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170109,
+      "name": "V\u00e1rias Queixas",
+      "url": "https://open.spotify.com/track/18TXfDzDZptWGoim29fDry"
+    },
+    {
+      "album": {
         "name": "V\u00e1rias Queixas",
         "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
@@ -2135,7 +2451,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170109,
       "name": "V\u00e1rias Queixas",
       "url": "https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 218377,
+  "2024-04-20": 218435,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1M\u00e1rquele secci\u00f3n! Los corridones tronando en vivo. Marca MP en portada.",
   "name": "Corridos en Vivo",
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 237700,
       "name": "A Punta De Balazos - En Vivo",
       "url": "https://open.spotify.com/track/0o26lY9phEuhqZvSKTfGcb"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
@@ -717,24 +717,6 @@
     {
       "album": {
         "name": "El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/4sk54ruefcyjuX60ds1zLR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "date_added": "2022-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 245098,
-      "name": "El Chavo - En Vivo",
-      "url": "https://open.spotify.com/track/12GpSqj0PWHs6LuBVsiliK"
-    },
-    {
-      "album": {
-        "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7"
       },
       "artists": [
@@ -745,10 +727,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
+      "duration_ms": 245098,
+      "name": "El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu"
+    },
+    {
+      "album": {
+        "name": "El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/4sk54ruefcyjuX60ds1zLR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
-      "url": "https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu"
+      "url": "https://open.spotify.com/track/12GpSqj0PWHs6LuBVsiliK"
     },
     {
       "album": {
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "El Fugitivo (En Vivo)",
       "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178050,
       "name": "El Fugitivo (En Vivo)",
       "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
@@ -1617,7 +1617,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-19",
+      "date_removed": null,
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/0kT6qpxBfns68h0W6iXH63"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194253,
       "name": "F\u00e1cil Criticar - En Vivo",
       "url": "https://open.spotify.com/track/27kahSjGZip81TcB4rN2Oe"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208783,
       "name": "La Siembra En El Cerro",
       "url": "https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG"
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208783,
       "name": "La Siembra en el Cerro",
       "url": "https://open.spotify.com/track/7CEPPI1NDFFkt1rI8uPFSg"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 285570,
       "name": "Las Pisteadas Del Vago",
       "url": "https://open.spotify.com/track/4reO4BbymoLHYJxrWw9ciu"
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285570,
       "name": "Las Pisteadas del Vago",
       "url": "https://open.spotify.com/track/5dHdsHTnQuiiUm9lbRpdKy"
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164778,
       "name": "Los Chiquinarcos (En Vivo)",
       "url": "https://open.spotify.com/track/3rkhp7UAh2C8jcB90OTtQm"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 164778,
       "name": "Los Chiquinarcos - En Vivo",
       "url": "https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk"
@@ -2265,7 +2265,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189314,
       "name": "Los Mitotes (En Vivo)",
       "url": "https://open.spotify.com/track/2gEAaPn7Hl1qlfn7NIkgOX"
@@ -2283,9 +2283,9 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 189315,
-      "name": "Los Mitotes - En Vivo",
+      "name": "Los Mitotes (En Vivo)",
       "url": "https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH"
     },
     {
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/0js27m6Zy7oJDWfJ4f2hJ5"
@@ -2411,7 +2411,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
@@ -2771,7 +2771,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144917,
       "name": "Seguimos Bateando (En Vivo)",
       "url": "https://open.spotify.com/track/1zE5vlYuew17I26BH5IXjz"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 144917,
       "name": "Seguimos Bateando - En Vivo",
       "url": "https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw"
@@ -2957,7 +2957,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190575,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
@@ -2975,7 +2975,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 190720,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"

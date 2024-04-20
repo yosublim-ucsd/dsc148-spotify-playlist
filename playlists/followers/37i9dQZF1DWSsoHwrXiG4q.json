@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 31138,
+  "2024-04-20": 31192,
   "date_first_scraped": "2023-02-08",
   "description": "Deep sounds of liquid drum & bass to keep you in the flow.",
   "name": "Rapid Rhythm Focus",
@@ -257,7 +257,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313736,
       "name": "Circle",
       "url": "https://open.spotify.com/track/3wKz8Z3wmbmx6reF7Cr2gb"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 313736,
       "name": "Circle",
       "url": "https://open.spotify.com/track/66GMztxOitMz2i16xt1iU6"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332360,
       "name": "Crooklyn",
       "url": "https://open.spotify.com/track/0ue4HOqrSVjccth8VEgosn"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 332372,
       "name": "Crooklyn",
       "url": "https://open.spotify.com/track/3SKUO0YU5CSQUQVs3E1jJo"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259415,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7FnLPevtUlNVQaa90BHMxA"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 259415,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7uBmGSQI5GHoxGQ3CPzCfy"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273112,
       "name": "Early in the Morning",
       "url": "https://open.spotify.com/track/1N5FqOZsQ7dXHtl7zibPgw"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 273112,
       "name": "Early in the Morning - Original Mix",
       "url": "https://open.spotify.com/track/4XoGAJLZBvDg8IlnDyJGHE"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331034,
       "name": "Into the Motion",
       "url": "https://open.spotify.com/track/5tNE96eG01TDmBBlorv6gh"
@@ -1137,6 +1137,24 @@
     {
       "album": {
         "name": "Keeping On / Heating Up",
+        "url": "https://open.spotify.com/album/2O4IMZ3unmuMspgAm8PmFP"
+      },
+      "artists": [
+        {
+          "name": "Malaky",
+          "url": "https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321199,
+      "name": "Keeping On",
+      "url": "https://open.spotify.com/track/4Y1YCidV4N5B0CFQgDeB73"
+    },
+    {
+      "album": {
+        "name": "Keeping On / Heating Up",
         "url": "https://open.spotify.com/album/65pNzjNfPSJxpOtuqCa2wq"
       },
       "artists": [
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321199,
       "name": "Keeping On",
       "url": "https://open.spotify.com/track/7oLM7QZNto4TvOzyVXI44v"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 328003,
       "name": "Land, Sea and Sky",
       "url": "https://open.spotify.com/track/0lKz06k1SJmOXwxL2HhV2N"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328003,
       "name": "Land, Sea and Sky",
       "url": "https://open.spotify.com/track/5IPt7Letf5gCtOzk8D5XiS"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 298435,
       "name": "Only Ever Kind",
       "url": "https://open.spotify.com/track/03hCREcMFPPTcEUE8slTUX"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298435,
       "name": "Only Ever Kind",
       "url": "https://open.spotify.com/track/17DkbezyxnABF5YBMUR4xW"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/6Pkfvv0wWmKjL4k6WCVIDu"

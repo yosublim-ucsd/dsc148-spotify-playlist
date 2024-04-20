@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-259 songs - 16 hr 7 min
+260 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 | 2022-09-02 | 2023-12-30 |
 | [Passion \- Fred Falke Remix](https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(Fred Falke Remix\)](https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9) | 3:53 | 2022-09-02 |  |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-02-10 | 2023-04-15 |
+| [Played](https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Played](https://open.spotify.com/album/7AgcYxLZhGK2j5R8OfXiNX) | 2:15 | 2024-04-19 |  |
 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 | 2022-01-28 | 2024-03-16 |
 | [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 | 2022-01-28 | 2022-10-31 |
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 | 2023-03-18 |

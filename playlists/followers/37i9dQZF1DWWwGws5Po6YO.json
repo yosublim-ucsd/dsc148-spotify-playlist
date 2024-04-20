@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35273,
+  "2024-04-20": 35289,
   "date_first_scraped": "2022-03-09",
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
   "name": "EQUAL Ambient",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78373,
       "name": "A Cereus Night",
       "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399346,
       "name": "Aralkum",
       "url": "https://open.spotify.com/track/1UxvmCbr25autV1szbE9MV"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 399346,
       "name": "Aralkum",
       "url": "https://open.spotify.com/track/5WTL2dxPPRTdKZrrFOvHiD"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 174758,
       "name": "As We Record the Disappearing Ice",
       "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/1mlWczs0BKHpvzVbM5Kbco"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281202,
       "name": "Blue Shit",
       "url": "https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 339053,
       "name": "Ce\u00f2",
       "url": "https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/3Oi3oW4U2QRnc7Gt0VNnQB"
@@ -711,10 +711,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
+    },
+    {
+      "album": {
+        "name": "Midnight Dancing",
+        "url": "https://open.spotify.com/album/5K5XHxnHKJCJmEQizLQqyq"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344500,
+      "name": "Depths Emerging",
+      "url": "https://open.spotify.com/track/2DSMSR9CVyoI45cYwbCMMX"
     },
     {
       "album": {
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/0Zo1Fja4huhQ3fAMVuyCUx"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184973,
       "name": "Fur & Feather",
       "url": "https://open.spotify.com/track/70QhYy1IM2lzMfsprIQ8nJ"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231731,
       "name": "How to build an automaton",
       "url": "https://open.spotify.com/track/1yOj6SKeaEpGYwVbhMN9a7"
@@ -1117,6 +1135,24 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "album": {
+        "name": "Unlocking Rituals",
+        "url": "https://open.spotify.com/album/6cJ02bcD0uf7QUn4c35hEQ"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285973,
+      "name": "In a Falling Shadow",
+      "url": "https://open.spotify.com/track/3LTZg6CSuvQiRiDjg9GYgV"
     },
     {
       "album": {
@@ -1239,7 +1275,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Kantubek",
       "url": "https://open.spotify.com/track/33JnKsodqouVc4032CmMpY"
@@ -1315,7 +1351,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 434141,
       "name": "Lazuli",
       "url": "https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4"
@@ -1471,7 +1507,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
@@ -1489,7 +1525,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 298061,
       "name": "Mary, You Were Wrong",
       "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
@@ -1565,7 +1601,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347680,
       "name": "Moon View",
       "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0"
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "My People Have Deep Roots",
       "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
@@ -1857,7 +1893,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 868000,
       "name": "Pipe Inversions",
       "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
@@ -1911,7 +1947,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394863,
       "name": "Rushes Recede",
       "url": "https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N"
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
@@ -2001,7 +2037,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
@@ -2059,7 +2095,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 557973,
       "name": "Sleep Cycle",
       "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
@@ -2089,7 +2125,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 465107,
       "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
       "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
@@ -2107,7 +2143,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343594,
       "name": "Sonnet",
       "url": "https://open.spotify.com/track/19829GO0Ckd7czgPIoSoVb"
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/2FlB3fJcGaohJORO93cNWv"
@@ -2161,7 +2197,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7"
@@ -2179,7 +2215,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/2BqFBCxmlTAYLklSuyWi7y"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 81373,
       "name": "Strand of Life (\"Viroid\")",
       "url": "https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG"
@@ -2323,7 +2359,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
@@ -2543,7 +2579,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "The Light That's Left",
       "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
@@ -2561,7 +2597,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251887,
       "name": "The North Wind",
       "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
@@ -2641,7 +2677,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
@@ -2659,7 +2695,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/68Dw3MZNu16CrSYROJAvge"
@@ -2695,7 +2731,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
@@ -2713,7 +2749,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou"
@@ -2905,7 +2941,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
@@ -2923,7 +2959,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 230051,
       "name": "We Wave From Our Boats",
       "url": "https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN"
@@ -2941,7 +2977,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 218505,
       "name": "Winter into Spring",
       "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"

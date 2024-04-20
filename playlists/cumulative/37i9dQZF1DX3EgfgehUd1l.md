@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-274 songs - 12 hr 2 min
+275 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [April Love](https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:41 | 2020-07-08 | 2023-09-18 |
 | [April Love](https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone Sings](https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW) | 2:43 | 2020-07-08 | 2024-04-19 |
 | [April Love](https://open.spotify.com/track/6ENruU27Q3nu1z3RaN9mfM) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Ultimate Collection](https://open.spotify.com/album/5VGsOFbjwg9hOxwIPvyKIY) | 2:43 | 2020-07-08 | 2022-07-29 |
-| [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 | 2020-07-08 |  |
+| [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 | 2020-07-08 | 2024-04-20 |
 | [Auf Wiederseh'n Sweetheart \- 2017 Version](https://open.spotify.com/track/2G5JMxVzmyWegACgF9oPuK) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/7JjLxpLEneo0xR443K9gUf) | 2:40 | 2020-07-08 | 2022-06-20 |
 | [Auf Wiederseh'n Sweetheart \- 2017 Version](https://open.spotify.com/track/3rIhZKroSQQjNcgGQsdaJF) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn 100](https://open.spotify.com/album/2DWg5EgpevBgYN4lwSyBXU) | 2:40 | 2020-07-08 | 2023-10-09 |
 | [Banana Boat Song](https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Banana Boat Song](https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA) | 3:04 | 2020-07-08 |  |
@@ -85,6 +85,7 @@
 | [Folsom Prison Blues](https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings Hank Williams](https://open.spotify.com/album/0X7AlTPtEDf0Kv1QqYQwlU) | 2:48 | 2020-07-08 | 2024-03-29 |
 | [Forget Me Not](https://open.spotify.com/track/1W6qRXlZYO13iMTuFedW7B) | [Vera Lynn](https://open.spotify.com/artist/2rJkmlVHePMo2gk0InTZRS) | [Vera Lynn \- We'll Meet Again](https://open.spotify.com/album/5aVvj7TjxWSwkrqBHK7bbX) | 3:11 | 2020-07-08 | 2022-06-16 |
 | [Got You On My Mind](https://open.spotify.com/track/4Cv55nP96KLXXDbeAqAs7A) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [Must Have](https://open.spotify.com/album/5tS3mnciRSD6nPw2HPqLny) | 3:06 | 2020-07-08 | 2022-01-01 |
+| [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Essential \- Easy Listening](https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY) | 2:45 | 2023-10-17 |  |
 | [Half As Much \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5vIe5BmOlPXarqRxJh9FNE) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:46 | 2020-07-08 | 2022-11-12 |
 | [Heartbeat](https://open.spotify.com/track/40zE8BJltSPhknro4M7BYO) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:09 | 2020-07-08 | 2022-06-27 |
 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 | 2020-07-08 | 2024-04-07 |

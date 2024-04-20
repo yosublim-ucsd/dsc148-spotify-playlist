@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-351 songs - 20 hr 32 min
+352 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Highlight](https://open.spotify.com/track/4UOwkSAq6Ox2Wl3kUecHcH) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before](https://open.spotify.com/album/7EIQYctuyetizGcVclCMcg) | 2:02 | 2021-10-16 | 2022-07-29 |
 | [Highlight](https://open.spotify.com/track/7edlbffSl8CmIp3fqM6Mcd) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 2:02 | 2021-10-16 | 2024-04-19 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2022-01-12 |  |
+| [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 | 2024-04-19 |  |
 | [Horo](https://open.spotify.com/track/6z0jUF4tN2400ybr30TP1g) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 1:58 | 2023-01-12 | 2023-11-18 |
 | [Horo](https://open.spotify.com/track/2dPNIrQEWiNkX0iyg3PwIo) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 1:58 | 2023-01-12 | 2024-04-19 |
 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 | 2023-10-23 |  |
@@ -234,7 +235,7 @@
 | [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 | 2023-02-15 |  |
 | [Physics](https://open.spotify.com/track/6AgoCGY6nXLJkfAReV5D95) | [Chweazy](https://open.spotify.com/artist/6rxQFuMl8R0thvnI8XKa79), [Idepen](https://open.spotify.com/artist/52kTvSXed7Y3NB4X6MyXGf) | [Physics Project](https://open.spotify.com/album/5y4Bxkhyk9pLI7fTrL16JG) | 1:49 | 2022-08-13 | 2022-09-16 |
 | [Pietre Roventi](https://open.spotify.com/track/06gTI0BANI1z0HkiKPkM7t) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/2ujVgmWjfYJHYYmDeiWjeh) | 5:24 | 2021-10-16 | 2024-04-19 |
-| [Pinot Noir](https://open.spotify.com/track/5XAl1yLZanqffdvyfDUip2) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 2:37 | 2021-10-16 |  |
+| [Pinot Noir](https://open.spotify.com/track/5XAl1yLZanqffdvyfDUip2) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 2:37 | 2021-10-16 | 2024-04-20 |
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-16 | 2022-08-12 |
 | [PMA](https://open.spotify.com/track/6XpsLtaW35rrpeOyJN7O5b) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [PMA](https://open.spotify.com/album/41AtCfNn8gpQlgZ6OqO9ZX) | 2:13 | 2023-01-04 | 2023-12-08 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-10-16 | 2022-07-29 |

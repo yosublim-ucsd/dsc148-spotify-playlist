@@ -1,12 +1,12 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 549820,
+  "num_followers": 549783,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ0ODgwMCwwMDAwMDAwMDI2OGFjNzZmOTE3NzEwYzgyOGNhNTE3ZWViZDNmZTYy",
+  "snapshot_id": "MTcxMzUxOTk3OCwwMDAwMDAwMGI5NzE2MGE1MGE3ZjI3YzUyMjBhYTliMTc5ZTUxMjI2",
   "tracks": [
     {
       "added_at": "2024-04-02 03:58:02",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-04-02 03:58:02",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Crimes of the Heart",
-      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
-    },
-    {
-      "added_at": "2024-04-02 03:58:02",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/0ViaFGRXDdTIzIEtTNELs2"
       },
@@ -103,6 +87,38 @@
       "duration_ms": 226740,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ"
+    },
+    {
+      "added_at": "2024-04-19 09:46:18",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 238857,
+      "name": "The Black Dog",
+      "url": "https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7"
+    },
+    {
+      "added_at": "2024-04-02 03:58:02",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Crimes of the Heart",
+      "url": "https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F"
     },
     {
       "added_at": "2024-04-02 03:58:02",

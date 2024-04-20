@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 475562,
+  "2024-04-20": 475532,
   "date_first_scraped": "2022-08-18",
   "description": "Relax to the roaring sound of crashing waves.",
   "name": "Sounds of the Ocean",
@@ -421,6 +421,24 @@
     {
       "album": {
         "name": "Ocean Walk",
+        "url": "https://open.spotify.com/album/6jKTQZxWAm7RuQdBbz4TaN"
+      },
+      "artists": [
+        {
+          "name": "Organic Nature Sounds",
+          "url": "https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122854,
+      "name": "Big Waves Surf's Up",
+      "url": "https://open.spotify.com/track/14amoYGOt8VoGCXos3RUtd"
+    },
+    {
+      "album": {
+        "name": "Ocean Walk",
         "url": "https://open.spotify.com/album/0cxRpFqh1zwxqEIoLu0dYw"
       },
       "artists": [
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122854,
       "name": "Big Waves Surf's Up",
       "url": "https://open.spotify.com/track/7tZgdyZBW2UtIbbXA6iq8Y"
@@ -914,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Ocean HD Vol. 4",
+        "url": "https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163785,
+      "name": "Dark Winds And Stormy Ocean",
+      "url": "https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J"
+    },
+    {
+      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -943,7 +979,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163785,
       "name": "Distan Winds And Wave Sounds",
       "url": "https://open.spotify.com/track/2gGxWhcOJ40DncuogOXdmh"

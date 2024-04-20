@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33846,
+  "num_followers": 33849,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Ich liebe dich nicht",
-        "url": "https://open.spotify.com/album/6ZBmRYtK2zBhUDLGaSGHY0"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 158709,
-      "name": "Ich liebe dich nicht",
-      "url": "https://open.spotify.com/track/12rGjQA0PGmVV0Y6LMFWr5"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
+        "name": "Ich liebe dich nicht",
+        "url": "https://open.spotify.com/album/6ZBmRYtK2zBhUDLGaSGHY0"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Ich liebe dich nicht",
+      "url": "https://open.spotify.com/track/12rGjQA0PGmVV0Y6LMFWr5"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
         "name": "viele",
         "url": "https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 219142,
       "name": "viele",
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "eBay",
-        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
-      },
-      "artists": [
-        {
-          "name": "LEEPA",
-          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
-        }
-      ],
-      "duration_ms": 142100,
-      "name": "eBay",
-      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Alles Pink",
         "url": "https://open.spotify.com/album/06vJa6oYmkWypD4iKoYU2c"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 137880,
       "name": "Alles Pink",
       "url": "https://open.spotify.com/track/5wgDtqsAmtHqHF6WPwSuYY"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "eBay",
+        "url": "https://open.spotify.com/album/5cCcOdexGrZGWzmcsC3lkU"
+      },
+      "artists": [
+        {
+          "name": "LEEPA",
+          "url": "https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD"
+        }
+      ],
+      "duration_ms": 142100,
+      "name": "eBay",
+      "url": "https://open.spotify.com/track/3k7g0xHFCX2ezCVCHaikIf"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Her (Unafraid)",
-        "url": "https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 213120,
-      "name": "Her (Unafraid)",
-      "url": "https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Love Myself Instead",
         "url": "https://open.spotify.com/album/1RBPuehtgS8FzuqVuk18qN"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 216562,
       "name": "Love Myself Instead",
       "url": "https://open.spotify.com/track/5bCcGYOhitThd1TcVzLI04"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Her (Unafraid)",
+        "url": "https://open.spotify.com/album/0Q6YFpV525tWaT18vjXdWC"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 213120,
+      "name": "Her (Unafraid)",
+      "url": "https://open.spotify.com/track/1YRXzUuxmMwP0AakokidBb"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Drauf gehen",
-        "url": "https://open.spotify.com/album/1eQU69kN2uaYANJvazkJTC"
-      },
-      "artists": [
-        {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "Drauf gehen",
-      "url": "https://open.spotify.com/track/4dylKyyR3x397NUEWO0KCh"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "SASHA (wake up!)",
         "url": "https://open.spotify.com/album/2RJqFG8kAXrJ8A85ZBYU6B"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Egal was es braucht",
-        "url": "https://open.spotify.com/album/0xgkP01xqDn9LsmNb2NgzP"
+        "name": "Drauf gehen",
+        "url": "https://open.spotify.com/album/1eQU69kN2uaYANJvazkJTC"
       },
       "artists": [
         {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/1SURHwqN7bc8HNveYwPEiu"
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
         }
       ],
-      "duration_ms": 137871,
-      "name": "Egal was es braucht",
-      "url": "https://open.spotify.com/track/5bZy9jxz4iyjJDALcRxUVj"
+      "duration_ms": 150937,
+      "name": "Drauf gehen",
+      "url": "https://open.spotify.com/track/4dylKyyR3x397NUEWO0KCh"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -491,6 +475,22 @@
       "duration_ms": 135731,
       "name": "Mother, did I make you proud?",
       "url": "https://open.spotify.com/track/6RLzZhFyHgMKYRAAKn3WUv"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Egal was es braucht",
+        "url": "https://open.spotify.com/album/0xgkP01xqDn9LsmNb2NgzP"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/1SURHwqN7bc8HNveYwPEiu"
+        }
+      ],
+      "duration_ms": 137871,
+      "name": "Egal was es braucht",
+      "url": "https://open.spotify.com/track/5bZy9jxz4iyjJDALcRxUVj"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -527,38 +527,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Vorbei",
-        "url": "https://open.spotify.com/album/6qG4oiy1KLIZXr4ZKwJb7k"
-      },
-      "artists": [
-        {
-          "name": "Anna Tr\u00fcmner",
-          "url": "https://open.spotify.com/artist/3IIBqtZVfCcYzVJljAevLq"
-        }
-      ],
-      "duration_ms": 138191,
-      "name": "Vorbei",
-      "url": "https://open.spotify.com/track/7HzLOTVnwJQpX0kHETT9FY"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
-        "name": "Loca Loca",
-        "url": "https://open.spotify.com/album/2YauLDg0W5QcaFYQLfUQGQ"
-      },
-      "artists": [
-        {
-          "name": "ANDIJOLA JULI",
-          "url": "https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Loca Loca",
-      "url": "https://open.spotify.com/track/5wsU5dYShpPNfMfqiMr6Wb"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 153440,
       "name": "viertel nach vier",
       "url": "https://open.spotify.com/track/5xQeAKWejvXRNW666BaoOh"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/6qG4oiy1KLIZXr4ZKwJb7k"
+      },
+      "artists": [
+        {
+          "name": "Anna Tr\u00fcmner",
+          "url": "https://open.spotify.com/artist/3IIBqtZVfCcYzVJljAevLq"
+        }
+      ],
+      "duration_ms": 138191,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/7HzLOTVnwJQpX0kHETT9FY"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Loca Loca",
+        "url": "https://open.spotify.com/album/2YauLDg0W5QcaFYQLfUQGQ"
+      },
+      "artists": [
+        {
+          "name": "ANDIJOLA JULI",
+          "url": "https://open.spotify.com/artist/3qp3Rd31EDGEitYZKIRpMB"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Loca Loca",
+      "url": "https://open.spotify.com/track/5wsU5dYShpPNfMfqiMr6Wb"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Flieder",
-        "url": "https://open.spotify.com/album/5B217z8wFFri2T3T3jw8AV"
-      },
-      "artists": [
-        {
-          "name": "LARYSSA",
-          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
-        }
-      ],
-      "duration_ms": 190749,
-      "name": "Flieder",
-      "url": "https://open.spotify.com/track/2jndsmE4ei7ZT6D2W14Lv1"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6CAbpfbvE7WOaGPQJiJVK0"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 158680,
       "name": "quarter life crisis",
       "url": "https://open.spotify.com/track/7rgsossU7btG3nszAezxVI"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Flieder",
+        "url": "https://open.spotify.com/album/5B217z8wFFri2T3T3jw8AV"
+      },
+      "artists": [
+        {
+          "name": "LARYSSA",
+          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
+        }
+      ],
+      "duration_ms": 190749,
+      "name": "Flieder",
+      "url": "https://open.spotify.com/track/2jndsmE4ei7ZT6D2W14Lv1"
     },
     {
       "added_at": "2024-04-02 22:00:00",

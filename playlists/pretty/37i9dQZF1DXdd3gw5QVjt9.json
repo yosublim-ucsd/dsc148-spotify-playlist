@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1179895,
+  "num_followers": 1177590,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lonelier Together",
-        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105300,
-      "name": "Lonelier Together",
-      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Lonelier Together",
+        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105300,
+      "name": "Lonelier Together",
+      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -569,22 +569,6 @@
       "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Find Our Way",
-        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
-      },
-      "artists": [
-        {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
-        }
-      ],
-      "duration_ms": 211145,
-      "name": "Find Our Way",
-      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Jenny Jenkins (Acoustic)",
@@ -615,6 +599,22 @@
       "duration_ms": 223883,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/0IcYIjsfFEOIY1GI4t7dLu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Find Our Way",
+        "url": "https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 211145,
+      "name": "Find Our Way",
+      "url": "https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Joy Alchemy",
+        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 225378,
+      "name": "Southern Facing Room",
+      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/6YAskEqEAleYox1Vv8ISME"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 226497,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Northern Winds (Live at the Elmwood Hall)",
-        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Northern Winds - Live at the Elmwood Hall",
-      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Joy Alchemy",
-        "url": "https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ"
+        "name": "Northern Winds (Live at the Elmwood Hall)",
+        "url": "https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ"
       },
       "artists": [
         {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
         }
       ],
-      "duration_ms": 225378,
-      "name": "Southern Facing Room",
-      "url": "https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP"
+      "duration_ms": 309000,
+      "name": "Northern Winds - Live at the Elmwood Hall",
+      "url": "https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "baby, get your ticket",
-        "url": "https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs"
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
       },
       "artists": [
         {
-          "name": "Tarune",
-          "url": "https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq"
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
         }
       ],
-      "duration_ms": 155431,
-      "name": "baby, get your ticket",
-      "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
+      "duration_ms": 224986,
+      "name": "Is There Something Wrong With Me?",
+      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
     }
   ],
   "unique_name": "Morning Acoustic",

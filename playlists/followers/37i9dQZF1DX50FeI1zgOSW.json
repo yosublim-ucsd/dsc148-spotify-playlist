@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 9899,
+  "2024-04-20": 9931,
   "date_first_scraped": "2023-05-19",
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
   "name": "RADAR Tamil",
@@ -355,7 +355,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241787,
       "name": "BABY",
       "url": "https://open.spotify.com/track/1eoGNzdH9PaRwcQzUpzg2N"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 241787,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/2b1GmT7aQW5ZfO0KO4VrZz"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 222375,
       "name": "Boomer Uncle",
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
@@ -1414,6 +1414,32 @@
     },
     {
       "album": {
+        "name": "Kaadal Sollava",
+        "url": "https://open.spotify.com/album/5IHlTtqNG4CAYGCur3BKcc"
+      },
+      "artists": [
+        {
+          "name": "Gagan Baderiya",
+          "url": "https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq"
+        },
+        {
+          "name": "Vignesh Jeyapal",
+          "url": "https://open.spotify.com/artist/2R0GcZMKYrKEXyriXaGANA"
+        },
+        {
+          "name": "Sruthy Sasidharan",
+          "url": "https://open.spotify.com/artist/25yRkdjW9bHSoEQhHMAsT8"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Kaadal Sollava",
+      "url": "https://open.spotify.com/track/2FarOeJIgevJf3XLK4AYOG"
+    },
+    {
+      "album": {
         "name": "Kaadale",
         "url": "https://open.spotify.com/album/5kpXYu6mR7mY8ZeOmg9vJ6"
       },
@@ -1976,6 +2002,28 @@
     },
     {
       "album": {
+        "name": "Kanmaniye",
+        "url": "https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp"
+      },
+      "artists": [
+        {
+          "name": "A.R Sai Shravanya",
+          "url": "https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116842,
+      "name": "Kanmaniye",
+      "url": "https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1"
+    },
+    {
+      "album": {
         "name": "Kanmoodiye",
         "url": "https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb"
       },
@@ -2349,7 +2397,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167571,
       "name": "Love Aala",
       "url": "https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ"
@@ -2415,7 +2463,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192017,
       "name": "Love Rocket",
       "url": "https://open.spotify.com/track/62ciz7tjMbFcJ362IvYkIq"
@@ -2437,7 +2485,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 192017,
       "name": "Love Rocket",
       "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
@@ -2909,7 +2957,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176000,
       "name": "Mudhal Murai Remix",
       "url": "https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M"
@@ -3181,7 +3229,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182732,
       "name": "Neethaano",
       "url": "https://open.spotify.com/track/26aVYGxWYPmwFnM5xY4ZO2"
@@ -4871,7 +4919,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 184821,
       "name": "Thoongaadha",
       "url": "https://open.spotify.com/track/4LQA5c88VBjFmsLy4RRD0x"
@@ -4889,7 +4937,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184821,
       "name": "Thoongaadha",
       "url": "https://open.spotify.com/track/4usPQ4dAROA0WhIU5h3HYR"
@@ -5055,6 +5103,28 @@
       "duration_ms": 181894,
       "name": "Unnai Arindhen",
       "url": "https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE"
+    },
+    {
+      "album": {
+        "name": "Unnodu Mattum",
+        "url": "https://open.spotify.com/album/28CXiWmKxQAnKhQvUoryzD"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Mirun Pradhap",
+          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168549,
+      "name": "Unnodu Mattum",
+      "url": "https://open.spotify.com/track/1mXQEOOevGsu0xg7J2PiDT"
     },
     {
       "album": {
@@ -5233,7 +5303,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 207588,
       "name": "Valapodum Kannala",
       "url": "https://open.spotify.com/track/0RfaSAx3yNsRglSucB3mIT"
@@ -5259,7 +5329,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207588,
       "name": "Valapodum Kannala",
       "url": "https://open.spotify.com/track/5wRRwkGsIfywmvFzgF4YN2"
@@ -5457,7 +5527,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 236284,
       "name": "Vittu Pogathae",
       "url": "https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT"
@@ -5475,7 +5545,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236284,
       "name": "Vittu Pogathae",
       "url": "https://open.spotify.com/track/6pu4KNePO0edNqetGR8AEb"

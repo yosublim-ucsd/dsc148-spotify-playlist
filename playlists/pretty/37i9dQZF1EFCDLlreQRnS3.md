@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain](/playlists/plain/37i9dQZF1EFCDLlreQRnS3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFCDLlreQRnS3)
 
-### [Written By Molly Irvine](https://open.spotify.com/playlist/37i9dQZF1EFCDLlreQRnS3)
+### [Written By Moli](https://open.spotify.com/playlist/37i9dQZF1EFCDLlreQRnS3)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 [Spotify](https://open.spotify.com/user/spotify) - 34 likes - 99 songs - 5 hr 9 min
 
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 65 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
 | 66 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 67 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
-| 68 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
-| 69 | [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 |
-| 70 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 68 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
+| 69 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
+| 70 | [Bilder im Kopf](https://open.spotify.com/track/0jnWKcMaaYsfOFsoIbRejw) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/1RlQoggEumFTF6bXkEzNwb) | 3:10 |
 | 71 | [Fine Without You](https://open.spotify.com/track/2ADQwsjzZIEJYi2QtfAvqc) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Fine Without You](https://open.spotify.com/album/2cgbaxqFkFGzx1gHzQN9zW) | 3:04 |
 | 72 | [The Point in Loving You](https://open.spotify.com/track/2yqvG9Izoq4CNPEgL1Ek41) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 2:55 |
-| 73 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 |
-| 74 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 73 | [Memories](https://open.spotify.com/track/2YyAfOVKSMDiWXnKMuHdFI) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Memories](https://open.spotify.com/album/5o53jTcQgHqjjtQaSPo8Rh) | 2:43 |
+| 74 | [Take What You Want](https://open.spotify.com/track/2kmfbNQKqmiWDUEf1oPeBi) | [Miles & Miles](https://open.spotify.com/artist/00hQm1Gj5PmmqpQPfKVP0U), [Babet](https://open.spotify.com/artist/6HFzq45VLbD7rHb67YQwZz) | [Take What You Want](https://open.spotify.com/album/5LvJLeuk1vxEh3AxlulLm8) | 2:57 |
 | 75 | [You Can Cry](https://open.spotify.com/track/0fHdkxqOPO0N7GRPhSpWoQ) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:05 |
 | 76 | [Insomnia](https://open.spotify.com/track/0EN4byNEi2vJ0VKyn9pXRS) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:04 |
 | 77 | [Bring on the Rain](https://open.spotify.com/track/6MfzUY9AQHe3PBSnB1Xg0O) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Bring on the Rain](https://open.spotify.com/album/7rIeLvwWsNfIUzwWPO1wlX) | 3:12 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 89 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
 | 90 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 |
 | 91 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
-| 92 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
-| 93 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
+| 92 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
+| 93 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
 | 94 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
 | 95 | [Bouncer](https://open.spotify.com/track/4jz0SpzwGvN6a8tS6uoIBp) | [GWYLO](https://open.spotify.com/artist/0hu2omZelWmBofGVWt7cAH), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Bouncer](https://open.spotify.com/album/6yh2bWHfWr6s0wRdXBZA75) | 2:29 |
 | 96 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 98 | [Touchdown](https://open.spotify.com/track/6mxyJwExRllxWVEYZJl3C8) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:22 |
 | 99 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 
-Snapshot ID: `Mjg1NTg1NjAsMDAwMDAwMDAwOGU0NjMwOWJlMzU2MGRhNzUwYmNlMDBiMzNmOGZkNA==`
+Snapshot ID: `Mjg1NTk3MDAsMDAwMDAwMDBhNWRiYjI3YTRiYjE2NTQ1YjM4ZjQ0ZjRlOWJiNDA4Mw==`

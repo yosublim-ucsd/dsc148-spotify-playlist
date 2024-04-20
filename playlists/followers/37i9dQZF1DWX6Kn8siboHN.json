@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 693113,
+  "2024-04-20": 693422,
   "date_first_scraped": "2022-05-23",
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
   "name": "Cl\u00e1sicas Norte\u00f1as",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225973,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/7cmdmDyKZDgK92uPlTBg6m"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/1ZsR2xBtTRG1y9Xu2TLgDn"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172512,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141160,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/0F9rCRUV6oHrFh0JQHnOLO"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141493,
       "name": "Arboles De La Barranca",
       "url": "https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q"
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
+    },
+    {
+      "album": {
         "name": "Casas De Madera (Remasterizado)",
         "url": "https://open.spotify.com/album/6axSGbcNWfp6TJUJNZuOEo"
       },
@@ -659,7 +677,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264373,
       "name": "Casas De Madera",
       "url": "https://open.spotify.com/track/2iKtCnQnLVuYyrqhhz15Uz"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255111,
       "name": "Celos De Ti",
       "url": "https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255111,
       "name": "Celos De Ti",
       "url": "https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/2iximC5NXwVzV9mgDQCUsk"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190080,
       "name": "Chiquilla Cari\u00f1osa - Live At Nuevo Le\u00f3n M\u00e9xico / 2009",
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
@@ -1081,10 +1099,28 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151210,
       "name": "Cu\u00e1nto Me Cuesta",
       "url": "https://open.spotify.com/track/3tspSMZdOZ0ST8Zelcw54I"
+    },
+    {
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Cu\u00e1nto Me Cuesta",
+      "url": "https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK"
     },
     {
       "album": {
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198200,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
@@ -1315,7 +1351,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199640,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181200,
       "name": "Eslab\u00f3n Por Eslab\u00f3n",
       "url": "https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum"
@@ -1513,7 +1549,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182786,
       "name": "Eslab\u00f3n Por Eslab\u00f3n",
       "url": "https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0"
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186146,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189493,
       "name": "Esta Noche Tu Vendr\u00e1s",
       "url": "https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
@@ -1639,7 +1675,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168973,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/0yJPBuuvvstUhx4gfjAFTr"
@@ -1873,7 +1909,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191813,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192440,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS"
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
@@ -2007,7 +2043,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S"
@@ -2079,7 +2115,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170333,
       "name": "Mi Casa Nueva",
       "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
@@ -2205,7 +2241,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178586,
       "name": "Mi Golondrina",
       "url": "https://open.spotify.com/track/0U1HpcV2UChQzOIQGLZv7T"
@@ -2223,7 +2259,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Mi Golondrina - En Vivo",
       "url": "https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR"
@@ -2533,7 +2569,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183373,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
@@ -2569,7 +2605,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184746,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu"
@@ -2605,7 +2641,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222266,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/4IxWQz0RvilCRyUQxnInHF"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222920,
       "name": "No Me Conoces A\u00fan",
       "url": "https://open.spotify.com/track/0SEBeqUfnoYzadZbejyypI"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140133,
       "name": "Nunca Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
@@ -2767,7 +2803,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140493,
       "name": "Nunca Voy A Olvidarte",
       "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
@@ -2785,7 +2821,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145575,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/0IaCGBaevs1R7EMagCf8d5"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 145575,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/1arDOknKkwCh1eE5niENAK"
@@ -2875,10 +2911,28 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155466,
       "name": "Por Las Calles De Chihuahua - En Vivo",
       "url": "https://open.spotify.com/track/0oH9BvTBasSw2Uqc16INwz"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n - Mexico (Disc 2)",
+        "url": "https://open.spotify.com/album/1XYrp5zF2JR45KOO83uJZj"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Por Las Calles De Chihuahua - En Vivo",
+      "url": "https://open.spotify.com/track/6BYPMlys5yt6pJlYZIGRtU"
     },
     {
       "album": {
@@ -2911,7 +2965,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196998,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
@@ -2955,7 +3009,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2H83T51ahRk16QOyjsLxvx"
@@ -2973,10 +3027,28 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
+    },
+    {
+      "album": {
+        "name": "15 Exitos Originales",
+        "url": "https://open.spotify.com/album/69v2wJSvgM28Ig46Lp8Z2f"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Prenda Querida",
+      "url": "https://open.spotify.com/track/3sikapYYTO6zbne0G9MjNF"
     },
     {
       "album": {
@@ -3045,7 +3117,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145400,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK"
@@ -3081,7 +3153,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147373,
       "name": "Que La Dejen Ir Al Baile",
       "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
@@ -3189,7 +3261,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 145449,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/50eC1NgzmF43M5tqAcbNz6"
@@ -3261,7 +3333,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145449,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/6ZUtg3ihWxuWGFVrEaPzRd"
@@ -3351,7 +3423,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202517,
       "name": "Recu\u00e9rdame Y Ven A Mi",
       "url": "https://open.spotify.com/track/3XkxD7D3eBwDsKrxjY5vjL"
@@ -3369,7 +3441,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203689,
       "name": "Recu\u00e9rdame Y Ven A M\u00ed",
       "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
@@ -3387,7 +3459,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176200,
       "name": "Respeta Mi Dolor",
       "url": "https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV"
@@ -3405,7 +3477,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267426,
       "name": "Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/2d5QYDvueydmhQPJSD3BzY"
@@ -3423,7 +3495,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "Rinconcito en el Cielo - En Vivo",
       "url": "https://open.spotify.com/track/070uqooJOFRYi5wXWVCkQK"
@@ -3531,7 +3603,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165922,
       "name": "Solo Una Patada",
       "url": "https://open.spotify.com/track/6k5zdQsyk5yHD2vzKgKDBU"
@@ -3549,7 +3621,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191026,
       "name": "Solo Una Patada",
       "url": "https://open.spotify.com/track/60yeJAQhq9pWqnA61CbdoJ"
@@ -3567,7 +3639,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Solo Una Patada - (En Vivo)",
       "url": "https://open.spotify.com/track/3tZ2NGxYBttK0ZYqSDQ9UH"
@@ -3607,6 +3679,24 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "S\u00f3lo una Patada",
+      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
     },
     {
       "album": {
@@ -3711,7 +3801,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149884,
       "name": "Traficante De Besos",
       "url": "https://open.spotify.com/track/5H4RlQDQWnvRBSI8C6WVlg"
@@ -3729,7 +3819,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149884,
       "name": "Traficante De Besos",
       "url": "https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i"
@@ -3909,7 +3999,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167933,
       "name": "Una Lagrima y un Recuerdo",
       "url": "https://open.spotify.com/track/3JzSkU7ccRZhYSJ4xkm1OE"
@@ -3927,7 +4017,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169769,
       "name": "Una Lagrima y Un Recuerdo",
       "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
@@ -3963,7 +4053,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159059,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
@@ -3981,7 +4071,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162560,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0A1NzTr3YtJEZTOdcqNRBn"
@@ -4017,7 +4107,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159373,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/5iCcDXbsM7Sj0kP7h9g60b"
@@ -4035,7 +4125,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
@@ -4089,7 +4179,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140813,
       "name": "Ven a Buscarme",
       "url": "https://open.spotify.com/track/2d6mgfqjZ9IfuWd5rp4oiM"
@@ -4107,7 +4197,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140813,
       "name": "Ven a Buscarme",
       "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"

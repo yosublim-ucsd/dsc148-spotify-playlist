@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35905,
+  "2024-04-20": 35910,
   "date_first_scraped": "2022-03-28",
   "description": "Top English songs from Asia. Cover: Frizzell D'souza",
   "name": "IndiEnglish",
@@ -533,7 +533,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 221005,
       "name": "Bloom (feat. Raveena)",
       "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201724,
       "name": "Cold Cold Night",
       "url": "https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195421,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/1oryjvmYyzYBvxPNX4z5mj"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172584,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/0pnEDzL1zut4qdMYikDix7"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203374,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 208535,
       "name": "Halfway",
       "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
@@ -2056,6 +2056,24 @@
     },
     {
       "album": {
+        "name": "Hope this song finds you",
+        "url": "https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr"
+      },
+      "artists": [
+        {
+          "name": "Arham Fulfagar",
+          "url": "https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Hope this song finds you",
+      "url": "https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ"
+    },
+    {
+      "album": {
         "name": "Hopelessly",
         "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
       },
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 180013,
       "name": "Hopelessly",
       "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 208250,
       "name": "I'm Just Like That",
       "url": "https://open.spotify.com/track/5UGjhJC4d0xSkrQlnqmpR4"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 200724,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208250,
       "name": "I\u2019m Just Like That",
       "url": "https://open.spotify.com/track/1CPnlfYU1dAQSLb6w5jt7I"
@@ -2621,7 +2639,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180013,
       "name": "Just A Word",
       "url": "https://open.spotify.com/track/3XWRc74od1pT7MUkGiJmoW"
@@ -2657,7 +2675,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Just As Easily",
       "url": "https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150401,
       "name": "Love Drunk",
       "url": "https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172721,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/6WOsXP6xYpm6KI1oHGiFo0"
@@ -2897,7 +2915,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "Love Is Not A Fucking Game",
       "url": "https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg"
@@ -3277,7 +3295,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 202605,
       "name": "Model",
       "url": "https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP"
@@ -3447,7 +3465,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199293,
       "name": "Nobody Else But You",
       "url": "https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB"
@@ -4223,7 +4241,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 178339,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/57mB16Xs06a7xpmtazYuLi"
@@ -4375,7 +4393,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179085,
       "name": "So Good",
       "url": "https://open.spotify.com/track/76m6sl66prgKWBHlLcWioe"
@@ -4705,7 +4723,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205046,
       "name": "Sucks to Be Human",
       "url": "https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y"
@@ -4821,7 +4839,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 178594,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi"
@@ -5105,7 +5123,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
@@ -5171,10 +5189,28 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151282,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7"
+    },
+    {
+      "album": {
+        "name": "VANILLA VILLA",
+        "url": "https://open.spotify.com/album/6umnLc21Qu1sxkAjBJSqkd"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151282,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/3xOamKZiMpyZA54aaiDXiz"
     },
     {
       "album": {
@@ -5391,7 +5427,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266393,
       "name": "When We Feel Young",
       "url": "https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm"
@@ -5409,7 +5445,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 266393,
       "name": "When We Feel Young",
       "url": "https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4"

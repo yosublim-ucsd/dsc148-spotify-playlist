@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-195 songs - 11 hr 29 min
+196 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Dance In The Game](https://open.spotify.com/track/5deMG1Ko0ycpPVYPwW0yi8) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Dance In The Game](https://open.spotify.com/album/1a2xSbvHc69UpRhx5MO2Nk) | 3:28 | 2023-01-13 |  |
 | [Devilman No Uta](https://open.spotify.com/track/4d9L9pBJNGmHMKs36RgP4e) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 3:05 | 2022-12-09 | 2024-02-03 |
 | [Distortion!!](https://open.spotify.com/track/5FwVziw6iZr778zD5e5HmK) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Distortion!!](https://open.spotify.com/album/3DbTDCUaGiepFrImJjsRse) | 3:22 | 2023-01-13 |  |
+| [Dragon Smasher](https://open.spotify.com/track/61CW0S1pvauDA5V8hLzo0n) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \(Original Soundtrack\)](https://open.spotify.com/album/4fgJZhpksYeOUtddVplxWS) | 1:58 | 2024-04-19 |  |
 | [DROPPED OUTTA COLLEGE](https://open.spotify.com/track/2aV5ZEAvHwvL332EsJ1gWc) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [DROPPED OUTTA COLLEGE](https://open.spotify.com/album/2eLpj5EDUhyAoTks8sxcKR) | 2:07 | 2022-02-18 | 2022-12-10 |
 | [Everybody Hates Me \- Khrebto Remix](https://open.spotify.com/track/4hJolpt4ZqzoZuET5l3rzV) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Khrebto](https://open.spotify.com/artist/0fLTK12xF2IMaNmKMSue6g) | [Everybody Hates Me \(Remixes\)](https://open.spotify.com/album/4L8Nq5w4vVuoC1AY9i2MDZ) | 3:15 | 2022-02-18 | 2022-12-10 |
 | [Face My Fears \(English Version\)](https://open.spotify.com/track/0CALOqrkXAE7WB2nyIATLk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Face My Fears](https://open.spotify.com/album/78yYCNxcHTH0Ugsekj8kbQ) | 3:42 | 2022-02-18 | 2022-12-10 |

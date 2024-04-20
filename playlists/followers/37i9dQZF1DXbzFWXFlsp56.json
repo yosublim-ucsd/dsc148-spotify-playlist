@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 16607,
+  "2024-04-20": 16602,
   "date_first_scraped": "2022-01-02",
   "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Loyal Lobos.",
   "name": "RADAR Andinos",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/1k94CNfVliqDs0qYhkG8iV"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 206315,
       "name": "COMO TE VEO",
       "url": "https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206315,
       "name": "COMO TE VEO",
       "url": "https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/55dvVIoys8Xq3VVA6df6Jx"
@@ -2171,7 +2171,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214738,
       "name": "Yo-Po-No-Po Prieto Riddiman Remixes - Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
       "url": "https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ"
@@ -2193,7 +2193,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214738,
       "name": "Yo-Po-No-Po, Versi\u00f3n 1 - Prieto Riddiman Remix",
       "url": "https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t"

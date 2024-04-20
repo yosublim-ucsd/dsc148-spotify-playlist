@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 23970,
+  "2024-04-20": 23978,
   "date_first_scraped": "2022-08-25",
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
   "name": "This Is Sibelius",
@@ -7,7 +7,7 @@
     {
       "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
-        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+        "url": "https://open.spotify.com/album/2Ba4pAgqmtEda6HGoGl7JZ"
       },
       "artists": [
         {
@@ -19,12 +19,12 @@
           "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
         }
       ],
-      "date_added": "2022-06-22",
+      "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 216133,
       "name": "4 Lyric Pieces, Op. 74: No. 1 Ekloge (Eclogue)",
-      "url": "https://open.spotify.com/track/7eH32zwmSXYKAwi3MnobRh"
+      "url": "https://open.spotify.com/track/2vDFaJez6jrd9BfMw6rXQX"
     },
     {
       "album": {
@@ -43,7 +43,51 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 216133,
+      "name": "4 Lyric Pieces, Op. 74: No. 1 Ekloge (Eclogue)",
+      "url": "https://open.spotify.com/track/7eH32zwmSXYKAwi3MnobRh"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/2Ba4pAgqmtEda6HGoGl7JZ"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218293,
+      "name": "5 Pieces, Op. 75, \"the Trees\": No. 5 Granen (the Spruce)",
+      "url": "https://open.spotify.com/track/4fU1mpvaRbTqRXZN6JNlRj"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 4",
+        "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 218293,
       "name": "5 Pieces, Op. 75, \"The Trees\": No. 5 Granen (The Spruce)",
       "url": "https://open.spotify.com/track/5gA69lYP3nCULBTdL3quJO"
@@ -87,10 +131,32 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75453,
       "name": "6 Bagatelles, Op. 97: No. 3: Kleiner Walzer",
       "url": "https://open.spotify.com/track/1cUYuXwM1aQH4chzco4eWV"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Piano Music, Vol. 5",
+        "url": "https://open.spotify.com/album/4MNkNicXg3gkLpkDWL3Idb"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75453,
+      "name": "6 Bagatelles, Op. 97: No. 3: Kleiner Walzer",
+      "url": "https://open.spotify.com/track/75CkUKgY7HlNK3Ng50Vndp"
     },
     {
       "album": {
@@ -161,7 +227,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228906,
       "name": "Belshazzar's Feast, JS 48: Act II: Prelude: Nocturno",
       "url": "https://open.spotify.com/track/2JV0bQLOFnLshEHppJamMB"
@@ -187,10 +253,62 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83760,
       "name": "Belshazzar's Feast, JS 48: Act IV: Dodens dans (Dance of Death)",
       "url": "https://open.spotify.com/track/1T2mIPO50bvefAutTue7rL"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/4TD7kIzYnWItyrslPKIvZL"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83760,
+      "name": "Belshazzar's Feast, JS 48: Dodens dans",
+      "url": "https://open.spotify.com/track/7FzEVTDHcgZZlSiIoN1iOg"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/4TD7kIzYnWItyrslPKIvZL"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228906,
+      "name": "Belshazzar's Feast, JS 48: Prelude. Nocturno",
+      "url": "https://open.spotify.com/track/76rjhDzGa8zrTpG8q7ip4e"
     },
     {
       "album": {
@@ -213,10 +331,62 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409693,
       "name": "Cortege, JS 54",
       "url": "https://open.spotify.com/track/6p5i4ij5SgCugZZtJgUfOQ"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/4TD7kIzYnWItyrslPKIvZL"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409693,
+      "name": "Cort\u00e8ge, JS 54",
+      "url": "https://open.spotify.com/track/3QcCHImHSvhhikoTM1kQ5a"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
+        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247493,
+      "name": "Karelia Suite, Op. 11: I. Intermezzo (Moderato)",
+      "url": "https://open.spotify.com/track/4MVrLDFVe9be8put1dshpc"
     },
     {
       "album": {
@@ -265,7 +435,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250426,
       "name": "Karelia Suite, Op. 11: I. Intermezzo (Moderato)",
       "url": "https://open.spotify.com/track/69FgqpXINP3pcBFk8DCZ0L"
@@ -298,6 +468,32 @@
     },
     {
       "album": {
+        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
+        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359293,
+      "name": "Karelia Suite, Op. 11: II. Ballade (Tempo di menuetto)",
+      "url": "https://open.spotify.com/track/1ZoPkeWYo5FGDHt9LldyDh"
+    },
+    {
+      "album": {
         "name": "Sibelius: Finlandia; Luonnotar; Karelia Suite",
         "url": "https://open.spotify.com/album/0nKRgooVdLKKd3NG2iPyWw"
       },
@@ -317,7 +513,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361000,
       "name": "Karelia Suite, Op. 11: II. Ballade (Tempo di menuetto)",
       "url": "https://open.spotify.com/track/27Q477d9q3XxEXE16EvXiz"
@@ -343,7 +539,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279000,
       "name": "Karelia Suite, Op. 11: III. Alla marcia (Moderato)",
       "url": "https://open.spotify.com/track/1VqjEgnHBTHogQrQhZ8dwe"
@@ -376,6 +572,32 @@
     },
     {
       "album": {
+        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
+        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283706,
+      "name": "Karelia Suite, Op. 11: III. Alla marcia (Moderato)",
+      "url": "https://open.spotify.com/track/2Hkv9ddozmlCmzTaIOVj6k"
+    },
+    {
+      "album": {
         "name": "Sibelius: Songs, Vol. 2",
         "url": "https://open.spotify.com/album/0XbpMsWFJH3shi39bLaEEC"
       },
@@ -395,10 +617,62 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133173,
       "name": "Kullervo, Op. 7: Kullervon valitus (Kullervo's Lament) (arr. for tenor solo and piano)",
       "url": "https://open.spotify.com/track/78vWIKRaiDU8yX75hZO1uM"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/2qxf2R5Yg1S9s3in0yRw5R"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133173,
+      "name": "Kullervo, Op. 7: Kullervon valitus (Kullervo's Lament) [arr. For tenor solo and piano]",
+      "url": "https://open.spotify.com/track/3DJyDtItBJVsRGL38qvHS1"
+    },
+    {
+      "album": {
+        "name": "Sibelius, J.: Night Ride and Sunrise / Belshazzar's Feast Suite / Kuolema",
+        "url": "https://open.spotify.com/album/7saUHI64XplER7PeYQtgAF"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Kuolema (Death), Additional Scenes, No. 2. Valse romantique, Op. 62b, Kuolema [Death], Additional Scenes: No. 2, Valse romantique, Op. 62b",
+      "url": "https://open.spotify.com/track/0fFlIglSyLMs3rXo3SgjNl"
     },
     {
       "album": {
@@ -421,7 +695,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248400,
       "name": "Kuolema (Death), Additional Scenes: No. 2. Valse romantique, Op. 62b",
       "url": "https://open.spotify.com/track/1Ez0qFk1IAGtxwXxBMnrf2"
@@ -477,7 +751,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1007866,
       "name": "Lemminkainen Suite, Op. 22: I. Lemminkainen and the Maidens of the Island",
       "url": "https://open.spotify.com/track/0BPyStqu7ksErQ6pCZx9OT"
@@ -545,7 +819,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 384693,
       "name": "Lemminkainen Suite, Op. 22: IV. Lemminkainen's Return",
       "url": "https://open.spotify.com/track/23yQvWxls9ZmO7fYX1mnuR"
@@ -586,6 +860,40 @@
     },
     {
       "album": {
+        "name": "Sibelius: Finlandia / Karelia Suite / Lemminkainen Suite",
+        "url": "https://open.spotify.com/album/5dDClMal8AHtQYj1XxvpU8"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Da\u00f0i Kolbeinsson",
+          "url": "https://open.spotify.com/artist/4uty3WRnBlHY88HZARji2p"
+        },
+        {
+          "name": "Richard Tchaikovsky",
+          "url": "https://open.spotify.com/artist/0FwOmu37s0op2sjxZBBPDf"
+        },
+        {
+          "name": "Iceland Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b"
+        },
+        {
+          "name": "Petri Sakari",
+          "url": "https://open.spotify.com/artist/4gI7F56dR6m2slYAMibRoa"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384693,
+      "name": "Lemmink\u00e4inen Suite, Op. 22: IV. Lemmink\u00e4inen's Return",
+      "url": "https://open.spotify.com/track/2LlzoqDxb8R6ORYcWyBY5G"
+    },
+    {
+      "album": {
         "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
         "url": "https://open.spotify.com/album/3YH2vnSkfWqTemRJqu6tkV"
       },
@@ -605,10 +913,36 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 703933,
       "name": "Overture in E Major, JS 145",
       "url": "https://open.spotify.com/track/4ekKhUgjNnqq5Yv5c1t99K"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Belshazzar's Feast & Other Orchestral Pieces",
+        "url": "https://open.spotify.com/album/4TD7kIzYnWItyrslPKIvZL"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703933,
+      "name": "Overture in E Major, JS 145",
+      "url": "https://open.spotify.com/track/4fJvLqwInSPAaKwQ80YBiH"
     },
     {
       "album": {
@@ -745,10 +1079,36 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186613,
       "name": "Scaramouche, Op. 71, Act I: Scene 6, Tempo di valse",
       "url": "https://open.spotify.com/track/1CMYcfca2jaDFTwLsUL4Tx"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Scaramouche, Op. 71",
+        "url": "https://open.spotify.com/album/37sSSIq3dgrodWcPTUOCvP"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Turku Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2yJX6ev7Io4KagCeNdXFBB"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Scaramouche, Op. 71, Act I: Scene 6, Tempo di valse",
+      "url": "https://open.spotify.com/track/4h2NVVWS6AMWAANX9LYpHX"
     },
     {
       "album": {
@@ -771,10 +1131,36 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108133,
       "name": "Segelfahrt (Under Sail)",
       "url": "https://open.spotify.com/track/5eKsS5r37LD1KudVJg4WBt"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Songs",
+        "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Tom Krause",
+          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
+        },
+        {
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108133,
+      "name": "Segelfahrt (Under Sail)",
+      "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
     },
     {
       "album": {
@@ -797,10 +1183,36 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181920,
       "name": "Serenad (Serenade), JS 167",
       "url": "https://open.spotify.com/track/2DC6Z2m4iEXtJ6hfibKfDa"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/0wV5ehd31PHdkKESOCX0Rv"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Serenad (Serenade), JS 167",
+      "url": "https://open.spotify.com/track/2pVILAm9QqepgyxJ7a6tTO"
     },
     {
       "album": {
@@ -831,6 +1243,36 @@
       "duration_ms": 314800,
       "name": "Sibelius: 5 Songs, Op. 38: No. 1, H\u00f6stkv\u00e4ll (Orchestral Version)",
       "url": "https://open.spotify.com/track/3E9xukbeX7vh4bwsAwaf8Z"
+    },
+    {
+      "album": {
+        "name": "Grieg & Sibelius : Orchestral Songs",
+        "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Karita Mattila",
+          "url": "https://open.spotify.com/artist/4M4iRyyLAlSbnDKOuldXIF"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314800,
+      "name": "Sibelius: 5 Songs, Op. 38: No. 1, H\u00f6stkv\u00e4ll (Orchestral Version)",
+      "url": "https://open.spotify.com/track/4yaGabbDEJ1f6i8qnyzoi0"
     },
     {
       "album": {
@@ -1109,10 +1551,36 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 94853,
       "name": "Sortunut aani (The broken voice), Op. 18, No. 1 (arr. for tenor solo and piano)",
       "url": "https://open.spotify.com/track/2YUIzCWlmEpsgLxPNxE2Em"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/2qxf2R5Yg1S9s3in0yRw5R"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hannu Jurmu",
+          "url": "https://open.spotify.com/artist/0zOmBly6oSntzYIPESc18g"
+        },
+        {
+          "name": "Jouni Somero",
+          "url": "https://open.spotify.com/artist/5JlGrd9qnFcht9MNyY5q7a"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94853,
+      "name": "Sortunut aani (the broken voice), Op. 18, No. 1 [arr. For tenor solo and piano]",
+      "url": "https://open.spotify.com/track/3lb9psI0EUbMhORdilK5qJ"
     },
     {
       "album": {
@@ -1309,6 +1777,32 @@
     {
       "album": {
         "name": "Sibelius: Symphony No. 2 - Karelia Suite",
+        "url": "https://open.spotify.com/album/1crrqMFd9VpQAQt6QeQVar"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588640,
+      "name": "Symphony No. 2 in D Major, Op. 43: I. Allegretto",
+      "url": "https://open.spotify.com/track/5Ofk68bcN3Jw9epIOsdFY1"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphony No. 2 - Karelia Suite",
         "url": "https://open.spotify.com/album/7AJU2aL3Q5rUuG0l8VSM0v"
       },
       "artists": [
@@ -1327,7 +1821,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 588640,
       "name": "Symphony No. 2 in D Major, Op. 43: I. Allegretto",
       "url": "https://open.spotify.com/track/6KpQcOoCexzZZhxICGOIqi"
@@ -1353,10 +1847,62 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373306,
       "name": "Symphony No. 2 in D Major, Op. 43: III. Vivacissimo -",
       "url": "https://open.spotify.com/track/193cfjyfDxmFdXSxn0Gjze"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphony No. 2 - Karelia Suite",
+        "url": "https://open.spotify.com/album/1crrqMFd9VpQAQt6QeQVar"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373306,
+      "name": "Symphony No. 2 in D Major, Op. 43: III. Vivacissimo -",
+      "url": "https://open.spotify.com/track/1ufrgZBR5Gei13GM7kmvQX"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphony No. 2 - Karelia Suite",
+        "url": "https://open.spotify.com/album/1crrqMFd9VpQAQt6QeQVar"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 819746,
+      "name": "Symphony No. 2 in D Major, Op. 43: IV. Finale. Allegro moderato",
+      "url": "https://open.spotify.com/track/18lRJlerQlpaM3KFnByNkd"
     },
     {
       "album": {
@@ -1379,7 +1925,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 819746,
       "name": "Symphony No. 2 in D Major, Op. 43: IV. Finale: Allegro moderato",
       "url": "https://open.spotify.com/track/0IjuTCUG7BKpaSBSd2eZML"
@@ -1483,7 +2029,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 522573,
       "name": "Symphony No. 6 in D Minor, Op. 104: I. Allegro molto moderato",
       "url": "https://open.spotify.com/track/65U1wBcAQ0h6HijSmElBqD"
@@ -1491,7 +2037,7 @@
     {
       "album": {
         "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
-        "url": "https://open.spotify.com/album/0BeAnV9lVflM51xlXdBiPM"
+        "url": "https://open.spotify.com/album/46mkRHszVtM8yuBZFJ5uWh"
       },
       "artists": [
         {
@@ -1507,12 +2053,12 @@
           "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
         }
       ],
-      "date_added": "2022-06-22",
+      "date_added": "2023-04-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 226293,
-      "name": "Symphony No. 6 in D Minor, Op. 104: III. Poco vivace -",
-      "url": "https://open.spotify.com/track/0s6MEdQkXgzfprNoZEwTTI"
+      "duration_ms": 522573,
+      "name": "Symphony No. 6 in D Minor, Op. 104: I. Allegro molto moderato",
+      "url": "https://open.spotify.com/track/6fqOtEzEaNdaNed2FoDGgC"
     },
     {
       "album": {
@@ -1535,10 +2081,88 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 226293,
+      "name": "Symphony No. 6 in D Minor, Op. 104: III. Poco vivace -",
+      "url": "https://open.spotify.com/track/0s6MEdQkXgzfprNoZEwTTI"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
+        "url": "https://open.spotify.com/album/46mkRHszVtM8yuBZFJ5uWh"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Symphony No. 6 in D Minor, Op. 104: III. Poco vivace -",
+      "url": "https://open.spotify.com/track/6DVGXPmyDF7t21n0hqd9HR"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
+        "url": "https://open.spotify.com/album/0BeAnV9lVflM51xlXdBiPM"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 620133,
       "name": "Symphony No. 6 in D Minor, Op. 104: IV. Allegro molto",
       "url": "https://open.spotify.com/track/1OHyNUrxD5YaTLnAOsMUTx"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Symphonies Nos. 6 & 7 - Finlandia",
+        "url": "https://open.spotify.com/album/46mkRHszVtM8yuBZFJ5uWh"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "New Zealand Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM"
+        },
+        {
+          "name": "Pietari Inkinen",
+          "url": "https://open.spotify.com/artist/7HSpdA66WWQUOz9ERNCvL1"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620133,
+      "name": "Symphony No. 6 in D Minor, Op. 104: IV. Allegro molto",
+      "url": "https://open.spotify.com/track/2bYjFff8zPBbbL88QGq4Fn"
     },
     {
       "album": {
@@ -1769,10 +2393,40 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 976760,
       "name": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1uWR7a8ko6EJfNEfhzCy8F"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Violin Concerto / Sinding: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/67izPULgZ2sABaVWdFozmV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 976760,
+      "name": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/3qbzpwx9lfUvkANpCDFyv3"
     },
     {
       "album": {
@@ -1799,7 +2453,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1039653,
       "name": "Violin Concerto in D Minor, Op. 47: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7fAFoIehXy4Aou20Z63k8y"
@@ -1837,6 +2491,36 @@
     {
       "album": {
         "name": "Sibelius: Violin Concerto / Sinding: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/67izPULgZ2sABaVWdFozmV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516906,
+      "name": "Violin Concerto in D Minor, Op. 47: II. Adagio di molto",
+      "url": "https://open.spotify.com/track/4A9FpOI7VA7IkXuNPs9CbO"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Violin Concerto / Sinding: Violin Concerto No. 1",
         "url": "https://open.spotify.com/album/7mKzF19FA7OVsWkT7hjk3K"
       },
       "artists": [
@@ -1859,7 +2543,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 516906,
       "name": "Violin Concerto in D Minor, Op. 47: II. Adagio di molto",
       "url": "https://open.spotify.com/track/53sF5AU0Merh53raAt4FHV"
@@ -1919,10 +2603,70 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 421666,
       "name": "Violin Concerto in D Minor, Op. 47: III. Allegro, ma non tanto",
       "url": "https://open.spotify.com/track/1hLvn5X5DG5eXA97XaK73o"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Violin Concerto / Sinding: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/67izPULgZ2sABaVWdFozmV"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Henning Kraggerud",
+          "url": "https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Bjarte Engeset",
+          "url": "https://open.spotify.com/artist/52qpSzpo16ijYC3yO2PK1d"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421666,
+      "name": "Violin Concerto in D Minor, Op. 47: III. Allegro, ma non tanto",
+      "url": "https://open.spotify.com/track/6Q28NMSb83tFhebscVqCwD"
+    },
+    {
+      "album": {
+        "name": "Schoenberg: Violin Concerto / Sibelius: Violin Concerto op.47",
+        "url": "https://open.spotify.com/album/0YjS1DLWV8VlmfmC4HhUrm"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1039653,
+      "name": "Violin Concerto In D Minor, Op.47: 1. Allegro moderato",
+      "url": "https://open.spotify.com/track/77IiA22OHQiOHx0Nzg0WU4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcetdKlCf0VE"

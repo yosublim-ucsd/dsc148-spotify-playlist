@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Danzones y Boleros",
+        "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
+      },
+      "artists": [
+        {
+          "name": "Marimba Orquesta Reyna Tuxtleca",
+          "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Mienteme",
+      "url": "https://open.spotify.com/track/7AJto9SjxrXkRYo0y145VR"
+    },
+    {
+      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 221346,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 405921,
+  "2024-04-20": 406059,
   "date_first_scraped": "2022-05-31",
   "description": "The perfect mix between old-school and modern Metalcore. Cover: Bullet For My Valentine",
   "name": "Metalcore Classics",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194066,
       "name": "A Port In Any Storm",
       "url": "https://open.spotify.com/track/46Zdq2HrcAtolMCkXUwsEu"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 194066,
       "name": "A Port In Any Storm",
       "url": "https://open.spotify.com/track/4wVXaAKzc6sh2jkcgOba1d"
@@ -71,10 +71,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225440,
       "name": "All These Things I Hate (Revolve Around Me)",
       "url": "https://open.spotify.com/track/0CbESIyx34Usxoy7emUEBd"
+    },
+    {
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "All These Things I Hate (Revolve Around Me)",
+      "url": "https://open.spotify.com/track/6XimI1O15wpfwUdrCnlrxo"
     },
     {
       "album": {
@@ -143,7 +161,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184773,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/4WsQCb1Atrhbb2I78hHCNG"
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/6clSq0mAWWyBxJ41J4fUnw"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/0IebF3yDXM6KJX1xhMkdoe"
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202493,
       "name": "Erased",
       "url": "https://open.spotify.com/track/4P2OiHcrk7j10MHFiVK3N3"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202493,
       "name": "Erased",
       "url": "https://open.spotify.com/track/6rkYJm6nFi6twitGUVECfK"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 307933,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/04np64OjIt01Z7KSYWwhcC"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307933,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/2xfA2dKr30aRz3YgfvM6PV"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248493,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4JFUKD0b2V6IiW1up71GqU"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250226,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0IjqvPyctsYf3ASQPHWBvB"
@@ -673,7 +691,7 @@
     {
       "album": {
         "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
-        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
+        "url": "https://open.spotify.com/album/5EKpPcmofMohESbDBZKRNf"
       },
       "artists": [
         {
@@ -684,6 +702,24 @@
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274133,
+      "name": "It Never Ends",
+      "url": "https://open.spotify.com/track/1pO3V16ovSm7kEqtT7ic3W"
+    },
+    {
+      "album": {
+        "name": "There is a Hell Believe Me I've Seen It. There is a Heaven Let's Keep it a Secret",
+        "url": "https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 274133,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh"
@@ -791,7 +827,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125360,
       "name": "Moral Eclipse",
       "url": "https://open.spotify.com/track/0pcOFA9Nw7QYW8G5sqGIWk"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 125360,
       "name": "Moral Eclipse",
       "url": "https://open.spotify.com/track/3PI1ctNyHbnmhUqttF59xa"
@@ -935,7 +971,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 279226,
       "name": "Not The American Average",
       "url": "https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs"
@@ -953,7 +989,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279226,
       "name": "Not The American Average",
       "url": "https://open.spotify.com/track/76LGCP0g9nVknR7HD2Jjyp"
@@ -989,7 +1025,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321013,
       "name": "On Wings of Lead",
       "url": "https://open.spotify.com/track/7MMc50k0I12cCeXS8503X9"
@@ -1007,7 +1043,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321506,
       "name": "On Wings Of Lead",
       "url": "https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU"
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 229120,
       "name": "SECOND & SEBRING",
       "url": "https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn"
@@ -1151,7 +1187,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229120,
       "name": "Second & Sebring",
       "url": "https://open.spotify.com/track/6RObeP8IVb4X4nCLUCJ9Dx"
@@ -1223,7 +1259,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
@@ -1241,7 +1277,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1"
@@ -1295,7 +1331,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 242066,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/4SAeLRKTvdvEKUvpYIoBzT"
@@ -1313,7 +1349,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242066,
       "name": "The Sinner",
       "url": "https://open.spotify.com/track/6tw3xex5JwBWxEQOn1bxRk"
@@ -1349,7 +1385,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 241386,
       "name": "These Colours Don't Run",
       "url": "https://open.spotify.com/track/1DaQfWfIHy7XWLTS8g6ptc"
@@ -1367,7 +1403,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241386,
       "name": "These Colours Don't Run",
       "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
@@ -1421,7 +1457,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 283826,
       "name": "Unholy Confessions",
       "url": "https://open.spotify.com/track/20g7z9R1wjE7EtVnB7XEjS"
@@ -1439,7 +1475,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283826,
       "name": "Unholy Confessions",
       "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
@@ -1457,10 +1493,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247693,
       "name": "Waking the Demon",
       "url": "https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT"
+    },
+    {
+      "album": {
+        "name": "Scream Aim Fire",
+        "url": "https://open.spotify.com/album/311FLOGT9CsxDwy86X9nyl"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247693,
+      "name": "Waking the Demon",
+      "url": "https://open.spotify.com/track/4RUmLxHGEoeyG3TU78OCLG"
     },
     {
       "album": {

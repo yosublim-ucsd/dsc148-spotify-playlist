@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 29568,
+  "2024-04-20": 29586,
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Monsieur Nov",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Charlotte Cardin",
   "name": "le miel",
   "tracks": [
     {
@@ -295,7 +295,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 65217,
       "name": "C'est Quoi L'Amour (Bonus Track)",
       "url": "https://open.spotify.com/track/4QtdyYeurYaa6cI2EgRAUh"
@@ -1232,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "amour b\u00e9ton",
+        "url": "https://open.spotify.com/album/0Ciyif3VgyLfXP7biH4Q7C"
+      },
+      "artists": [
+        {
+          "name": "Siy\u00e9",
+          "url": "https://open.spotify.com/artist/0l4sh43GlADH6WxFw2iPwn"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193422,
+      "name": "les autres",
+      "url": "https://open.spotify.com/track/1q84ggy0S6Lozil3NeRarh"
+    },
+    {
+      "album": {
         "name": "Les yeux ne mentent jamais",
         "url": "https://open.spotify.com/album/0CTvc2l6imOJGDlrrtNcJr"
       },
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235440,
       "name": "MAISON MARGIELA",
       "url": "https://open.spotify.com/track/1MggOUzXdsy6jhrhuWvuiD"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 235440,
       "name": "MAISON MARGIELA",
       "url": "https://open.spotify.com/track/31apVS91MZ1rj1gZ7DpBBB"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155596,
       "name": "Oublie-moi",
       "url": "https://open.spotify.com/track/6fLxzXS6PRXglMvu3eNpQJ"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 116435,
       "name": "quel type de vibe?",
       "url": "https://open.spotify.com/track/2aAgX2pC17FCFB9TtBKFwn"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116435,
       "name": "quel type de vibe?",
       "url": "https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y"
@@ -2181,6 +2199,42 @@
       "duration_ms": 223384,
       "name": "Sans dire au revoir",
       "url": "https://open.spotify.com/track/6jyQ5Rs6q5a0jUm2gRErE8"
+    },
+    {
+      "album": {
+        "name": "Sans r\u00e9ponse",
+        "url": "https://open.spotify.com/album/5abv7rk1YXCAbjC6dD45rO"
+      },
+      "artists": [
+        {
+          "name": "Brooxy",
+          "url": "https://open.spotify.com/artist/3Y9j4vjfKyjLdloNBW1S6S"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Sans r\u00e9ponse",
+      "url": "https://open.spotify.com/track/6MgTIxyaLffsfYrGeqloib"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2uU4hrAmslLUYUtKOevSZW"
+      },
+      "artists": [
+        {
+          "name": "AFFA",
+          "url": "https://open.spotify.com/artist/0owJTnrvYgiIYSXsvnsSQv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279533,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5JRbmX1uwh3ZgxqNo653qQ"
     },
     {
       "album": {
@@ -2408,6 +2462,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1NGUmMEG5UTdtfgia6RNmw"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcZLO",
+          "url": "https://open.spotify.com/artist/019ufnK32dBUQLEHa8CUv5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178001,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4mpfsfixDXudZSQN8rVjwq"
+    },
+    {
+      "album": {
         "name": "Tout essay\u00e9 (Acoustic version)",
         "url": "https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9"
       },
@@ -2531,7 +2603,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175425,
       "name": "T\u00e9l\u00e9commande",
       "url": "https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C"
@@ -2607,7 +2679,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170400,
       "name": "Venin",
       "url": "https://open.spotify.com/track/4ByBthTRGalb1uTx7YEgVM"

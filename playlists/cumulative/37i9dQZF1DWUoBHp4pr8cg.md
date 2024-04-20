@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Future & Metro Boomin'\(pictured\), Big Sean and more...
 
-275 songs - 14 hr 57 min
+276 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Butterflies & Bandaids](https://open.spotify.com/track/4mU0GgWkV6X1IEuIXtrAGe) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Butterflies & Bandaids](https://open.spotify.com/album/75mjArJOL2mVqNNhqMTh2A) | 2:05 | 2023-01-23 | 2023-02-24 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-13 | 2024-03-22 |
 | [Calm Down](https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Calm Down](https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB) | 2:42 | 2024-04-08 |  |
+| [Cheque](https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Cheque](https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr) | 2:24 | 2024-04-19 |  |
 | [Chocolate \(feat\. Young Thug and Gunna\)](https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:28 | 2022-10-13 | 2023-03-07 |
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-05-05 | 2022-11-04 |
 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 | 2022-08-25 | 2022-11-04 |

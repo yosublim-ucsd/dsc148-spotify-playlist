@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3321635,
+  "2024-04-20": 3320332,
   "date_first_scraped": "2022-10-25",
   "description": "This is The Beatles. The essential tracks, all in one playlist.",
   "name": "This Is The Beatles",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 163453,
       "name": "Back In The U.S.S.R. - Remastered 2009",
       "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117013,
       "name": "Do You Want To Know A Secret - Remastered 2009",
       "url": "https://open.spotify.com/track/7Aobt67JnaF7qN8jCCKvHq"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 117746,
       "name": "From Me To You - 2023 Mix",
       "url": "https://open.spotify.com/track/0mSENYfJHYpzPCKe0K1MTJ"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 140400,
       "name": "I Feel Fine - Remastered 2009",
       "url": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173946,
       "name": "I Saw Her Standing There - Remastered 2009",
       "url": "https://open.spotify.com/track/3KiexfmhxHvG5IgAElmTkd"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141693,
       "name": "Love Me Do - Remastered 2009",
       "url": "https://open.spotify.com/track/3VbGCXWRiouAq8VyMYN2MI"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 120853,
       "name": "Please Please Me - Remastered 2009",
       "url": "https://open.spotify.com/track/6EHuOufBeL6vk3TvVJB5qo"

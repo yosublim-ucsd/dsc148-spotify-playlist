@@ -2,7 +2,7 @@
 
 ### [This Is Bonobo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02Y0rS)
 
-> This is Bonobo\. Tutti i brani in un'unica playlist.
+> This is Bonobo\. The essential tracks, all in one playlist.
 
 87 songs - 6 hr 53 min
 

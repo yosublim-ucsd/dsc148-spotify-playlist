@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-52 songs - 3 hr 13 min
+53 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,8 +47,9 @@
 | [Plans We Make](https://open.spotify.com/track/3T8FCttEVrCkz69AMHReIU) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/5Tw9tdB9BkgwyPx2kQ135q) | 3:32 | 2024-01-12 |  |
 | [Procession](https://open.spotify.com/track/2rrdr7O92fV48GgHDrzJ75) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:52 | 2022-05-25 |  |
 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 | 2022-05-25 |  |
-| [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2023-12-13 |  |
+| [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2023-12-13 | 2024-04-20 |
 | [Someone Like You](https://open.spotify.com/track/1rfmeLSq9SHLInp1fEsgbg) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj) | 4:09 | 2022-05-25 | 2023-12-14 |
+| [Someone Like You](https://open.spotify.com/track/4K6UMrt38Y8OBhWWQ6gNmu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/6ES92uhTs5Mudx4XQKH3Z9) | 4:09 | 2024-04-19 |  |
 | [The Chase \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/48Y9pNe30o273HGYKyMKj9) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 3:23 | 2022-05-25 |  |
 | [The Hook Up](https://open.spotify.com/track/4FEuh8zuTv3IIO8BaCsQPc) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Not for Sale](https://open.spotify.com/album/2T0HxT77VAcbj0VHVdmUl0) | 3:02 | 2022-05-25 |  |
 | [The Visitor](https://open.spotify.com/track/6y0NaFU7hfgiWFNzRTl8dS) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 5:05 | 2022-05-25 |  |

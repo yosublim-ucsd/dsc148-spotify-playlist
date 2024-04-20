@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3849,
+  "2024-04-20": 3852,
   "date_first_scraped": "2023-09-02",
   "description": "Featuring Aleman, Trueno, Calle 13 & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #066",
@@ -105,7 +105,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 250933,
       "name": "CSIpher (audio latino)",
       "url": "https://open.spotify.com/track/2M6XdDkJ3zRDo9XTsFoBME"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250933,
       "name": "CSIpher (audio latino)",
       "url": "https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20"
@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/5jd3YfZ1JGR64cQdR2XdE9"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "Plaka Plaka",
+      "url": "https://open.spotify.com/track/7Fe0oiS5BdcaqGMrEXNWwc"
+    },
+    {
+      "album": {
         "name": "El Pr\u00edncipe [Ghost Edition]",
         "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200901,
       "name": "Plaka Plaka",
       "url": "https://open.spotify.com/track/3OFGkc8wKT3WIgB4DFiJS8"
@@ -481,10 +499,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348839,
       "name": "Rompiendo el Hielo",
       "url": "https://open.spotify.com/track/14R6HWKOkzOVbpUvFpdHSn"
+    },
+    {
+      "album": {
+        "name": "Ahora O Nunca",
+        "url": "https://open.spotify.com/album/2rR098FELBKjten7LKwYuL"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349626,
+      "name": "Rompiendo el Hielo",
+      "url": "https://open.spotify.com/track/0lSNVmXioF136MurBGtGUm"
     },
     {
       "album": {
@@ -524,6 +560,24 @@
     },
     {
       "album": {
+        "name": "emigrante",
+        "url": "https://open.spotify.com/album/7IiwG6cgejO8nONuFN0jof"
+      },
+      "artists": [
+        {
+          "name": "Orishas",
+          "url": "https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "\u00bfQu\u00e9 pasa?",
+      "url": "https://open.spotify.com/track/60ePcJqdI3eYuC4D6j2nDw"
+    },
+    {
+      "album": {
         "name": "Emigrante",
         "url": "https://open.spotify.com/album/4ADa1RmaO1KgUQxYqmCZjm"
       },
@@ -535,7 +589,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224496,
       "name": "\u00bfQu\u00e9 pasa?",
       "url": "https://open.spotify.com/track/68qLs1UE25gr5t8z8CTT6u"

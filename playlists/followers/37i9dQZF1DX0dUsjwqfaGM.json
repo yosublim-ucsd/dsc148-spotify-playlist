@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2667,
+  "2024-04-20": 2668,
   "date_first_scraped": "2022-09-17",
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: Teddie J",
   "name": "RADAR Vietnam",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 193949,
       "name": "7711 (b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) [Acoustic Ver]",
       "url": "https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193949,
       "name": "7711(b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) - Acoustic",
       "url": "https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/65cM1nyMf9pFDZVV8xmPX9"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204642,
       "name": "L\u1ea1i G\u1ea7n V\u00e0 \u0110\u1ec3 Anh \u00d4m Em L\u00e2u H\u01a1n - Acoustic Version",
       "url": "https://open.spotify.com/track/0YwdLjGal3u9hR5Ww1tWx7"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 204642,
       "name": "L\u1ea1i G\u1ea7n V\u00e0 \u0110\u1ec3 Anh \u00d4m Em L\u00e2u H\u01a1n - Acoustic Version",
       "url": "https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi"
@@ -1243,10 +1243,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv"
+    },
+    {
+      "album": {
+        "name": "L\u1ee1 Say Bye L\u00e0 Bye",
+        "url": "https://open.spotify.com/album/7oZP3YD6tt4RAreNqTsjGv"
+      },
+      "artists": [
+        {
+          "name": "Lemese",
+          "url": "https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214948,
+      "name": "L\u1ee1 Say Bye L\u00e0 Bye",
+      "url": "https://open.spotify.com/track/2EMbVMhUtYNfuAhTi9HvBk"
     },
     {
       "album": {
@@ -1330,6 +1348,32 @@
     },
     {
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/2Gjv7giZNiHRmD45yS6NId"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00ed Ph\u01b0\u01a1ng Anh",
+          "url": "https://open.spotify.com/artist/1OnnVNvbz0OsApDXHUX2bM"
+        },
+        {
+          "name": "RIN9",
+          "url": "https://open.spotify.com/artist/6InVt9jASvsJY7qA60AGzf"
+        },
+        {
+          "name": "DREAMeR",
+          "url": "https://open.spotify.com/artist/1f3aY4gX0O9B59iQyZXY0I"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225084,
+      "name": "M\u1eadp M\u1edd",
+      "url": "https://open.spotify.com/track/1VPZWsMQaGsYkR3fBakklP"
+    },
+    {
+      "album": {
         "name": "M\u1eadp M\u1edd (feat. RIN9)",
         "url": "https://open.spotify.com/album/0hQQ4AUaI7l5OPpdBDYm7T"
       },
@@ -1345,7 +1389,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231111,
       "name": "M\u1eadp M\u1edd (feat. RIN9)",
       "url": "https://open.spotify.com/track/3tKNOjg2saBDd76aOtr314"
@@ -1815,7 +1859,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
@@ -1837,7 +1881,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"

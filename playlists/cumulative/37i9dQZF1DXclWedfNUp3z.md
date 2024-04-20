@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-405 songs - 1 day 3 hr 40 min
+407 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [august 31st](https://open.spotify.com/track/52Fe6gIiBQlJSZChf85bCZ) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [august 31st](https://open.spotify.com/album/2aA9Uvevi3VkrpsVPnSkoU) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 | 2021-10-20 | 2022-07-22 |
 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 | 2021-12-08 |  |
-| [awake to see the city sleep](https://open.spotify.com/track/0iP87IcbebOlgA36ZkF6Tn) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [lovely currents](https://open.spotify.com/album/4GGxYcwekc1EFgTw9HlZS3) | 2:14 | 2021-10-20 |  |
+| [awake to see the city sleep](https://open.spotify.com/track/0iP87IcbebOlgA36ZkF6Tn) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [lovely currents](https://open.spotify.com/album/4GGxYcwekc1EFgTw9HlZS3) | 2:14 | 2021-10-20 | 2024-04-20 |
 | [Awakening](https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4) | [INFINITY](https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg) | [Breath](https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ) | 10:44 | 2021-10-20 |  |
 | [Aware of Everything](https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Observer](https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg) | 4:10 | 2021-10-20 |  |
 | [Balsamo](https://open.spotify.com/track/0nNFSkoWNaqYKTVx5V4AjE) | [Slowdonia](https://open.spotify.com/artist/5YItXypIuZXhnxRE7MRePn) | [Slowdonia EP](https://open.spotify.com/album/5umKaMh59FuSvZi2FFtK4s) | 4:25 | 2021-10-20 |  |
@@ -155,6 +155,7 @@
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-10-20 | 2022-07-29 |
 | [headache](https://open.spotify.com/track/10gRgHWz059OBF7xjihFzq) | [ilaywho](https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey) | [headache](https://open.spotify.com/album/7cPQClJ9zf05qEFdTAOxaU) | 1:57 | 2021-10-20 | 2022-04-20 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2022-01-12 |  |
+| [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 | 2024-04-19 |  |
 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 | 2023-10-23 |  |
 | [How Many Times](https://open.spotify.com/track/3AXTHpDrqTqzeMA1OAkQyI) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [How Many Times](https://open.spotify.com/album/4rXPtzL74BMWs7CDbBkafA) | 2:25 | 2021-12-17 | 2022-08-22 |
 | [Hypnos](https://open.spotify.com/track/6AcwRvuVN9FjROlyLIws2o) | [Thanatosu](https://open.spotify.com/artist/3rMs54wpvLXamcx1FA8zdO) | [Morpheus](https://open.spotify.com/album/3m5K6PDYB2Uh9pXIZDLwc9) | 2:17 | 2021-10-20 | 2023-03-16 |
@@ -247,6 +248,7 @@
 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 | 2021-10-20 | 2022-07-27 |
 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2021-10-20 |  |
 | [Only Love From Now On \(with Johanna Scheie Orellana\)](https://open.spotify.com/track/3Woi4fIAiktL6UwEcDFPfo) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l), [Johanna Scheie Orellana](https://open.spotify.com/artist/2XZZ4suNvaBBsxrHcRa7pG) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 8:13 | 2022-03-03 | 2022-07-25 |
+| [Orizzontale Verticale](https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02) | [Loris S\. Sarid](https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl) | [Music for Tomato Plants](https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb) | 4:26 | 2024-04-19 |  |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2022-07-03 |
 | [Pale Lavender](https://open.spotify.com/track/3FZqioWMlFemrJ1ZfElWDE) | [Phillip Norman Watson](https://open.spotify.com/artist/2l470mqKXM31vhpMnf3IGN) | [Mists](https://open.spotify.com/album/5jithCshUdK6yZd8oP4XMf) | 4:41 | 2021-10-20 | 2022-10-18 |
 | [Parallel 9](https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 7:15 | 2021-10-20 |  |
@@ -400,7 +402,7 @@
 | [when the leaves come falling down](https://open.spotify.com/track/0h8K825a2eDfiKBc2E60RB) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/0ujB62hPrIpRUbFdm9Ok8u) | 2:01 | 2021-10-20 | 2024-04-19 |
 | [when the leaves come falling down](https://open.spotify.com/track/1wtrm5eTeRfEXyJNF4Low1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [her](https://open.spotify.com/album/1vRcYipEq8fJeeHGldHiFa) | 2:01 | 2021-10-20 | 2024-01-30 |
 | [Where Birds Fly](https://open.spotify.com/track/2uvYzP9s0Yh5rEv0uxMiFL) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Where Birds Fly](https://open.spotify.com/album/6KR6fsSuffLvkwbZ9guyt5) | 2:15 | 2021-10-20 | 2022-04-17 |
-| [White Wall](https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:54 | 2021-10-20 |  |
+| [White Wall](https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:54 | 2021-10-20 | 2024-04-20 |
 | [Wind Tempos](https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 6:04 | 2021-10-20 | 2022-05-02 |
 | [Window Camping](https://open.spotify.com/track/5WexdSeiaYKjHkPy1lcos9) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [ROOM7](https://open.spotify.com/album/4v6m1ay44BiT0DBFBGljgu) | 2:03 | 2021-10-20 | 2022-04-21 |
 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 | 2022-07-15 |  |

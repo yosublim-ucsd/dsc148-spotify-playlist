@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 58290,
+  "2024-04-20": 58244,
   "date_first_scraped": "2023-07-23",
   "description": "Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA",
   "name": "Imp\u00e9rio do Metal",
@@ -161,10 +161,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172867,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9"
+    },
+    {
+      "album": {
+        "name": "Can You Hear Me / Cold / You'll Never Find Me",
+        "url": "https://open.spotify.com/album/2pV3LWeXJ6cMqNKvkzAXKf"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172867,
+      "name": "Can You Hear Me",
+      "url": "https://open.spotify.com/track/77CCfbJgFZvKYpL2GY6XN9"
     },
     {
       "album": {
@@ -179,10 +197,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270508,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/3xu91T5DMRDq72pDQU2tfN"
+    },
+    {
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/21ZwUKZLdZd2RCphygzbg5"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270508,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/6q72OHGM81Zs5q5jx7YZLR"
     },
     {
       "album": {
@@ -215,7 +251,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269214,
       "name": "Dance Of Ixtab (Psychopomp & Circumstance March No. 1)",
       "url": "https://open.spotify.com/track/3yPBHqSBVEyYKSujOWHyJ4"
@@ -233,7 +269,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 269214,
       "name": "Dance Of Ixtab (Psychopomp & Circumstance March No. 1)",
       "url": "https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf"
@@ -255,6 +291,24 @@
       "duration_ms": 326745,
       "name": "Dark Delight",
       "url": "https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Days Of Future Past",
+      "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
     },
     {
       "album": {
@@ -287,7 +341,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243760,
       "name": "Days of Future Past",
       "url": "https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX"
@@ -323,7 +377,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249648,
       "name": "Earth & Sky",
       "url": "https://open.spotify.com/track/2qDLrNb2xpbiNx7kjJVSFl"
@@ -341,7 +395,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 249648,
       "name": "Earth & Sky",
       "url": "https://open.spotify.com/track/5ZvbwDbhiFMbaywLJo6SmN"
@@ -366,6 +420,24 @@
     },
     {
       "album": {
+        "name": "VERA CRUZ",
+        "url": "https://open.spotify.com/album/4eVxhNkB9jK8JObWCRfpDN"
+      },
+      "artists": [
+        {
+          "name": "Edu Falaschi",
+          "url": "https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449080,
+      "name": "Face Of The Storm",
+      "url": "https://open.spotify.com/track/5Qrv0pQFjTX6iyEWaAKEXh"
+    },
+    {
+      "album": {
         "name": "Vera Cruz",
         "url": "https://open.spotify.com/album/0gdT0litKVAVcypvujGegm"
       },
@@ -381,10 +453,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 450826,
       "name": "Face of the Storm",
       "url": "https://open.spotify.com/track/4X8OFcU0z00WUHVV3n87u2"
+    },
+    {
+      "album": {
+        "name": "Dante XXI (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "False - 2021 - Remaster",
+      "url": "https://open.spotify.com/track/75rdMM7Tqq1P4mFrJGD5fc"
     },
     {
       "album": {
@@ -399,7 +489,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214346,
       "name": "False - 2021 Remaster",
       "url": "https://open.spotify.com/track/3YTHpaZDCCd8NXwQoRaZob"
@@ -447,10 +537,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296000,
       "name": "Fighting Gravity",
       "url": "https://open.spotify.com/track/0bLslvYS3YLWjzNarlieUn"
+    },
+    {
+      "album": {
+        "name": "Fighting Gravity",
+        "url": "https://open.spotify.com/album/0lPt244kh0WjCRgkSLBicz"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Fighting Gravity",
+      "url": "https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN"
     },
     {
       "album": {
@@ -537,10 +645,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242853,
       "name": "Hellbound",
       "url": "https://open.spotify.com/track/1qd22CNn9ik9JOM8EgCpaa"
+    },
+    {
+      "album": {
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/2xCWxGDjsBOghqdroWf0r8"
+      },
+      "artists": [
+        {
+          "name": "Buckcherry",
+          "url": "https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242853,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/6yv0RXKJmr0zXKr6athGJ4"
     },
     {
       "album": {
@@ -591,7 +717,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207310,
       "name": "I Don't Believe a Word (Single Edit)",
       "url": "https://open.spotify.com/track/1AIzcYOaBqj292futt9EQP"
@@ -609,10 +735,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 207310,
       "name": "I Don't Believe a Word - Single Edit",
       "url": "https://open.spotify.com/track/0DSJHuMJVbSuMC2IjpXMQD"
+    },
+    {
+      "album": {
+        "name": "If Darkness Had a Son",
+        "url": "https://open.spotify.com/album/4InfBU6v65fzQM6vpSdDJf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/1DrRFignz0xbQBSlBQrJL9"
     },
     {
       "album": {
@@ -627,7 +771,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396293,
       "name": "If Darkness Had a Son",
       "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
@@ -699,7 +843,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
@@ -717,7 +861,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
@@ -825,10 +969,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283235,
       "name": "Mysterious",
       "url": "https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/161RN2ydxC3AibzlpYziXx"
+      },
+      "artists": [
+        {
+          "name": "Noturnall",
+          "url": "https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283235,
+      "name": "Mysterious",
+      "url": "https://open.spotify.com/track/3AwKlhPkIsjPVQzjcNGTb5"
     },
     {
       "album": {
@@ -843,10 +1005,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405870,
       "name": "Nothing Else Matters (Orchestra/Clean Guitar/Vocal Mix - July 8th, 1991)",
       "url": "https://open.spotify.com/track/0GZ96dnp0Vpyk5CTElvDfI"
+    },
+    {
+      "album": {
+        "name": "Nothing Else Matters (Orchestra / Clean Guitar / Vocal Mix - July 8th, 1991)",
+        "url": "https://open.spotify.com/album/1WJUBGGo3oJqDqPSbPkDDP"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405870,
+      "name": "Nothing Else Matters - Orchestra / Clean Guitar / Vocal Mix - July 8th, 1991",
+      "url": "https://open.spotify.com/track/1gK0dwy4uZ9F1qiE7eCuI0"
     },
     {
       "album": {
@@ -905,10 +1085,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256913,
       "name": "Of Wolf and Man (Live at Maimarktgel\u00e4nde, Mannheim, Germany - May 22nd, 1993)",
       "url": "https://open.spotify.com/track/4qMHVSbGaLVmhluE6wig3Z"
+    },
+    {
+      "album": {
+        "name": "Of Wolf and Man (Live at Maimarktgel\u00e4nde, Mannheim, Germany / May 22nd, 1993)",
+        "url": "https://open.spotify.com/album/1xfWjgeLymB68lxzGZsU6q"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256913,
+      "name": "Of Wolf and Man - Live at Maimarktgel\u00e4nde, Mannheim, Germany / May 22nd, 1993",
+      "url": "https://open.spotify.com/track/6dtHSx0lnXicS3P6Mfy5sw"
     },
     {
       "album": {
@@ -967,7 +1165,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201692,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/4nxdJkLKOlsJQ1uQhxKiYk"
@@ -985,7 +1183,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 201692,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7w1MrjeuciJ1cV9cowRSum"
@@ -1003,7 +1201,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343120,
       "name": "Post Traumatic Blues",
       "url": "https://open.spotify.com/track/2MB80OIsIgVIQtQtXgzRNM"
@@ -1021,10 +1219,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 343120,
       "name": "Post Traumatic Blues",
       "url": "https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL"
+    },
+    {
+      "album": {
+        "name": "Repentless",
+        "url": "https://open.spotify.com/album/4w99bkmWwryeYvw2zFYt9M"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Repentless",
+      "url": "https://open.spotify.com/track/65POu6kUQdR33JxwN92afX"
     },
     {
       "album": {
@@ -1039,7 +1255,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
@@ -1219,10 +1435,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218442,
       "name": "Shaped by Fire",
       "url": "https://open.spotify.com/track/1I7yVk8T0iBMpQXWX71GPs"
+    },
+    {
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/331DnqgmsWDJqH5IEZwnXQ"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218442,
+      "name": "Shaped by Fire",
+      "url": "https://open.spotify.com/track/53x2Dean27JHy94loxcLV8"
     },
     {
       "album": {
@@ -1237,10 +1471,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "album": {
+        "name": "Shotgun Blues",
+        "url": "https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267899,
+      "name": "Shotgun Blues",
+      "url": "https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp"
     },
     {
       "album": {
@@ -1411,6 +1663,24 @@
     {
       "album": {
         "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "The Gang's All Here",
+      "url": "https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK"
+    },
+    {
+      "album": {
+        "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR"
       },
       "artists": [
@@ -1421,7 +1691,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218253,
       "name": "The Gang's All Here",
       "url": "https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc"
@@ -1446,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "The Other Side Of Anger",
+        "url": "https://open.spotify.com/album/5pznPcAEHaBZbCG8dLz04l"
+      },
+      "artists": [
+        {
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "The Other Side Of Anger",
+      "url": "https://open.spotify.com/track/363gIIVGtXzJriTcbn0Tsv"
+    },
+    {
+      "album": {
         "name": "Shades of Sorrow",
         "url": "https://open.spotify.com/album/0wT5vnIDu5sHz3zlIfvtQc"
       },
@@ -1457,7 +1745,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263733,
       "name": "The Other Side of Anger",
       "url": "https://open.spotify.com/track/3FVHPQg9dllT74BWHQoClE"
@@ -1486,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222817,
+      "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy"
+    },
+    {
+      "album": {
         "name": "4 (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/078ZH1xDl03nocG21ouCgV"
       },
@@ -1501,7 +1811,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222817,
       "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3LqWKbOdMK4jB3NPcMIvJt"
@@ -1577,7 +1887,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245160,
       "name": "The Trooper (Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador \u2013 Sunday 6th March 2016)",
       "url": "https://open.spotify.com/track/0dT91rAT0aio3v8RuSYmrT"
@@ -1602,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "The Book of Souls: Live Chapter",
+        "url": "https://open.spotify.com/album/3oFAX7PeOFbZnKiPmpUPv4"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "The Trooper - Live at Estadio Jorge Magico Gonzalez, San Salvador, El Salvador - 6th March 2016",
+      "url": "https://open.spotify.com/track/6nmc8EQo7XzWRX3P8csvBi"
+    },
+    {
+      "album": {
         "name": "The Writing on the Wall",
         "url": "https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N"
       },
@@ -1613,7 +1941,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 373898,
       "name": "The Writing on the Wall",
       "url": "https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9"
@@ -1631,7 +1959,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373906,
       "name": "The Writing on the Wall",
       "url": "https://open.spotify.com/track/1U8WGXzEz48BDAw8RxtRmu"
@@ -1675,10 +2003,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254508,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh"
+    },
+    {
+      "album": {
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254508,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7"
     },
     {
       "album": {
@@ -1737,6 +2083,24 @@
     {
       "album": {
         "name": "Cycles Of Pain",
+        "url": "https://open.spotify.com/album/5BlDBxBfAX0G78mrxCyWwB"
+      },
+      "artists": [
+        {
+          "name": "ANGRA",
+          "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312653,
+      "name": "Vida Seca",
+      "url": "https://open.spotify.com/track/0Q1Nbro0KYMNYJkZ99z6gB"
+    },
+    {
+      "album": {
+        "name": "Cycles Of Pain",
         "url": "https://open.spotify.com/album/2K7ita9oG7KIQZS3gWef09"
       },
       "artists": [
@@ -1751,7 +2115,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311172,
       "name": "Vida Seca",
       "url": "https://open.spotify.com/track/1oNEovE2cfpKcD6qq5moEK"
@@ -1787,7 +2151,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216720,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/04OvuoFBNK4eFlcHwE1bWV"
@@ -1809,6 +2173,42 @@
       "duration_ms": 216720,
       "name": "Welcome To The Show",
       "url": "https://open.spotify.com/track/4nzvHox9PXS9f09PnNdBLj"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Show",
+        "url": "https://open.spotify.com/album/17yIxFRdGF7Kt2NdupdPzh"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216720,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6d1s6hUquEKUml3y8tiG2q"
+    },
+    {
+      "album": {
+        "name": "Doom Crew Inc.",
+        "url": "https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271025,
+      "name": "You Made Me Want To Live",
+      "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
     },
     {
       "album": {
@@ -1841,7 +2241,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271026,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/682FkRplyBf13Q16aSgTkx"

@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 50236,
+  "2024-04-20": 50245,
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Jean Deaux",
+  "description": "R&B of the moment by the artists of the future. Cover: Flwr Chyld & Grimm Lynn",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -5683,7 +5683,7 @@
     {
       "album": {
         "name": "Gold",
-        "url": "https://open.spotify.com/album/0vOQpY2wc19PzJpCgXvcWo"
+        "url": "https://open.spotify.com/album/7dBQVQ6drTaBoL3H1v32Fq"
       },
       "artists": [
         {
@@ -5694,6 +5694,24 @@
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5dkTWuvnE2B4dOW0xo8mul"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0vOQpY2wc19PzJpCgXvcWo"
+      },
+      "artists": [
+        {
+          "name": "Forest Claudette",
+          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194285,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5dowGWYR5uTqaAtpofvZs6"
@@ -6371,6 +6389,28 @@
       "duration_ms": 116000,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ifD3sMzx0bi3qkJ10NqK1"
+      },
+      "artists": [
+        {
+          "name": "HMLT",
+          "url": "https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy"
+        },
+        {
+          "name": "Sir Travis Knight",
+          "url": "https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239712,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6G2qhOQ4FB7WdKIE2CJ4wd"
     },
     {
       "album": {
@@ -7331,7 +7371,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9"
@@ -7367,7 +7407,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ"
@@ -9510,6 +9550,28 @@
     },
     {
       "album": {
+        "name": "Ms. Ebony Brown",
+        "url": "https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198473,
+      "name": "Ms. Ebony Brown",
+      "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
+    },
+    {
+      "album": {
         "name": "The Chronicles of a Caterpillar: The Egg",
         "url": "https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8"
       },
@@ -9791,6 +9853,28 @@
       "duration_ms": 143543,
       "name": "NEXT CHAPTER",
       "url": "https://open.spotify.com/track/2bXMwqj4qwHU6dFc1lAuox"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
     },
     {
       "album": {
@@ -11340,6 +11424,24 @@
     },
     {
       "album": {
+        "name": "Wait, There's More",
+        "url": "https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209005,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5XeibBA25uruR2fj9SgCJk"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/10lqGyG2HYtsZr1R4FApdS"
       },
@@ -11709,7 +11811,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140288,
       "name": "Real",
       "url": "https://open.spotify.com/track/5hNcK0jMByYyD3cc6h9KmM"
@@ -11727,7 +11829,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 140288,
       "name": "Real",
       "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
@@ -13200,6 +13302,24 @@
     },
     {
       "album": {
+        "name": "Soul, Body & Mind",
+        "url": "https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175115,
+      "name": "Soul, Body & Mind",
+      "url": "https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi"
+    },
+    {
+      "album": {
         "name": "Southern Delicacy",
         "url": "https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2"
       },
@@ -14455,7 +14575,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209310,
-      "name": "Thinkin",
+      "name": "Thinkin ft. Destin Conrad",
       "url": "https://open.spotify.com/track/7wYlWR1wYGY6Yllrvrb1VA"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 138718,
+  "2024-04-20": 138478,
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: lilbubblegum",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Kobie Dee",
   "name": "Local Hype",
   "tracks": [
     {
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169307,
       "name": "Boys Light Up",
       "url": "https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117607,
       "name": "Bump",
       "url": "https://open.spotify.com/track/1CT6q5bHXEPIKJtThRaxnr"
@@ -2190,6 +2190,28 @@
     },
     {
       "album": {
+        "name": "CANADA (w/ jnhygs)",
+        "url": "https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110054,
+      "name": "CANADA (w/ jnhygs)",
+      "url": "https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK"
+    },
+    {
+      "album": {
         "name": "CAP",
         "url": "https://open.spotify.com/album/4Quv2pJfaLNE36O6BSzbmk"
       },
@@ -2297,7 +2319,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193243,
       "name": "Celine",
       "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
@@ -2647,7 +2669,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/3PQYu9trAZZUPWCZh4o2fi"
@@ -2669,7 +2691,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 198518,
       "name": "COMMA'S",
       "url": "https://open.spotify.com/track/74yRaIwxJyrrb6gl2KyF5H"
@@ -3937,7 +3959,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188025,
       "name": "Erling Haaland (Elet Adab)",
       "url": "https://open.spotify.com/track/1seUMfXwL0yzzRNk52hHZh"
@@ -4051,7 +4073,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132778,
       "name": "Everyone Dance",
       "url": "https://open.spotify.com/track/4Hoxzo01LKrtFtMeY5bSM9"
@@ -4196,6 +4218,24 @@
     },
     {
       "album": {
+        "name": "Fear No Man",
+        "url": "https://open.spotify.com/album/0BF5rWuYZpmdYubp9BczGI"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208968,
+      "name": "Fear No Man",
+      "url": "https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/4FwKSh8ITgVCqDyp8ch9Vr"
       },
@@ -4291,7 +4331,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162580,
       "name": "Finding My Way",
       "url": "https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7"
@@ -4637,6 +4677,28 @@
       "duration_ms": 221322,
       "name": "FRIDAY",
       "url": "https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7"
+    },
+    {
+      "album": {
+        "name": "FUCK A HATER",
+        "url": "https://open.spotify.com/album/6qyQdecDnavsZla5P7BGS6"
+      },
+      "artists": [
+        {
+          "name": "Stt Laurentt",
+          "url": "https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw"
+        },
+        {
+          "name": "ZUH",
+          "url": "https://open.spotify.com/artist/6sJLvWsP3mNiY8YbhS46ac"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178536,
+      "name": "FUCK A HATER",
+      "url": "https://open.spotify.com/track/68F0w1ve4vq03pp3USKYNP"
     },
     {
       "album": {
@@ -5264,6 +5326,24 @@
     },
     {
       "album": {
+        "name": "Griselda",
+        "url": "https://open.spotify.com/album/7DB8Corm5p7XfnKojphcmJ"
+      },
+      "artists": [
+        {
+          "name": "Sexton",
+          "url": "https://open.spotify.com/artist/0k4gmF1Uhpyb8uCHz2fGU2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169228,
+      "name": "Griselda",
+      "url": "https://open.spotify.com/track/4OCXpKzCgLMdEl5ib8os2J"
+    },
+    {
+      "album": {
         "name": "Guap 2",
         "url": "https://open.spotify.com/album/3MSWBG0Ib2V3Tz5DJlKzAX"
       },
@@ -5349,6 +5429,28 @@
       "duration_ms": 233354,
       "name": "Gutta",
       "url": "https://open.spotify.com/track/125SOhYMAdBGsLdjHBRgTF"
+    },
+    {
+      "album": {
+        "name": "Ha Ha Ha",
+        "url": "https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        },
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189886,
+      "name": "Ha Ha Ha",
+      "url": "https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU"
     },
     {
       "album": {
@@ -5439,7 +5541,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179568,
       "name": "Hardest Way",
       "url": "https://open.spotify.com/track/7dcPBuUygiTgwvOoRad7SE"
@@ -7156,6 +7258,24 @@
     },
     {
       "album": {
+        "name": "GEORGE",
+        "url": "https://open.spotify.com/album/5YYgmFU4aVssLNV0ISnZuv"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176797,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/49ELPGtwo435Zut6LkI3A3"
+    },
+    {
+      "album": {
         "name": "LIED TO MY FACE",
         "url": "https://open.spotify.com/album/6JGDi4vkRhBqZG8M8iTraE"
       },
@@ -8001,7 +8121,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160662,
       "name": "Meet Me at the Bottom (ft. Open Till L8)",
       "url": "https://open.spotify.com/track/0jco6ujuz4TmpWZXdvT54R"
@@ -8137,7 +8257,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124390,
       "name": "MISSY",
       "url": "https://open.spotify.com/track/0s1JX4cVN4jVNfFhBylUoc"
@@ -9951,7 +10071,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201235,
       "name": "Pinnacle Bitch",
       "url": "https://open.spotify.com/track/7zOHs1vpfnGnx2KFBjnNOE"
@@ -9973,7 +10093,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182093,
       "name": "Play for Keeps",
       "url": "https://open.spotify.com/track/1aD6KGgZ6duNKQJQVulwmT"
@@ -10503,7 +10623,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136666,
       "name": "Queenstown",
       "url": "https://open.spotify.com/track/6L0MbYJhGk4XoEaZwWGVVw"
@@ -11516,6 +11636,28 @@
     },
     {
       "album": {
+        "name": "SHININ' (Feat. Raf Receipt)",
+        "url": "https://open.spotify.com/album/5JOL0dZtr7PTxQx4G1oNRA"
+      },
+      "artists": [
+        {
+          "name": "DSP",
+          "url": "https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ"
+        },
+        {
+          "name": "Raf Receipt",
+          "url": "https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "SHININ' (Feat. Raf Receipt)",
+      "url": "https://open.spotify.com/track/3FrExUhyBL0p9qKL092BbA"
+    },
+    {
+      "album": {
         "name": "Shoodaz",
         "url": "https://open.spotify.com/album/7M5fm7vaTmgmT2PEz5y7xV"
       },
@@ -12286,6 +12428,32 @@
     },
     {
       "album": {
+        "name": "BY THE SLICE",
+        "url": "https://open.spotify.com/album/5WmA9XkYxDLON3MXq7Gu9v"
+      },
+      "artists": [
+        {
+          "name": "Benny Zenn",
+          "url": "https://open.spotify.com/artist/3r4uOauib9a7KcemiaxOiG"
+        },
+        {
+          "name": "Jeswon",
+          "url": "https://open.spotify.com/artist/7Kr5AzvWXiODJIdJG7uIK1"
+        },
+        {
+          "name": "Joe New",
+          "url": "https://open.spotify.com/artist/4Fbt7oQSs9acxOq8KrnyGS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/2lo9vb7M5LFUpryOFDJyYU"
+    },
+    {
+      "album": {
         "name": "Sydney Where It Started (Deluxe Version)",
         "url": "https://open.spotify.com/album/0h6zhXiLqZir1JCdZULpJh"
       },
@@ -12385,6 +12553,24 @@
       "duration_ms": 162797,
       "name": "Take Trips",
       "url": "https://open.spotify.com/track/2xjDgGgi5jvvkFzH4zJ5wd"
+    },
+    {
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/2KRWlyZxV4PFVaJBdqmQ20"
+      },
+      "artists": [
+        {
+          "name": "JessB",
+          "url": "https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/4jsJN2XFzPnXDtK781zHNT"
     },
     {
       "album": {
@@ -12825,6 +13011,32 @@
       "duration_ms": 146676,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3tmlUmwDwHgDgKxwCRHdqE"
+    },
+    {
+      "album": {
+        "name": "Tons of Drums",
+        "url": "https://open.spotify.com/album/0PeUL5wZkYr8ShF5IZ6nW2"
+      },
+      "artists": [
+        {
+          "name": "Dirty Hairy",
+          "url": "https://open.spotify.com/artist/6JmCKwast4Cw10HCcWo73x"
+        },
+        {
+          "name": "Nat Lover",
+          "url": "https://open.spotify.com/artist/5DOhRpvteacZrpw1XQkUr3"
+        },
+        {
+          "name": "Shuteyes",
+          "url": "https://open.spotify.com/artist/7qcD7Ub2XxPmVYeP493hLw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Tons of Drums",
+      "url": "https://open.spotify.com/track/4pOm7POX1leGmw5YIjhPVb"
     },
     {
       "album": {
@@ -13335,7 +13547,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126073,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr"
@@ -13717,6 +13929,24 @@
       "duration_ms": 157500,
       "name": "Want My Head",
       "url": "https://open.spotify.com/track/2PbJRpSFJntTwjwetR8uUI"
+    },
+    {
+      "album": {
+        "name": "Warriors & Storytellers",
+        "url": "https://open.spotify.com/album/1m0xrNgyNrmY45Xt5eDRIm"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192628,
+      "name": "Warriors & Storytellers",
+      "url": "https://open.spotify.com/track/7576a1TJ554JQGmvch8fzq"
     },
     {
       "album": {

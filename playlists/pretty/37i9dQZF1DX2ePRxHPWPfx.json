@@ -1,6 +1,6 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 6180,
+  "num_followers": 6181,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "rimas del verbo amar",
-      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 175333,
       "name": "Monumento",
       "url": "https://open.spotify.com/track/3BUOQHWgnm8l5KDkzujs26"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "rimas del verbo amar",
+      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
     },
     {
       "added_at": "2023-12-15 19:29:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
         "name": "Chilango Blues",
         "url": "https://open.spotify.com/album/1XqryMmgsJxFIfUHu8E2VQ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 227866,
       "name": "Chilango Blues",
       "url": "https://open.spotify.com/track/15GJ5u94ls3eciXNh6YDER"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
     },
     {
       "added_at": "2023-12-15 19:29:49",

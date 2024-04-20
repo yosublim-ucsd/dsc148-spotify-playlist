@@ -4,7 +4,7 @@
 
 > The latest pop hits in one playlist\. Cover: Chappell Roan
 
-1,439 songs - 3 day 0 hr 55 min
+1,440 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [because of u](https://open.spotify.com/track/5R1lYstY4ZwXqzClMi0u3s) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [because of u](https://open.spotify.com/album/5rl3lDl1t4gMpZclQmOWxg) | 3:30 | 2023-09-08 | 2023-09-30 |
 | [Been Like This](https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Been Like This](https://open.spotify.com/album/6z4pHWfbnVhZSu8uwKTTic) | 2:25 | 2024-03-15 |  |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-28 | 2023-02-25 |
+| [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-04-19 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-02-19 |
 | [Believe](https://open.spotify.com/track/2lzXyHdTRMYPZ59zFjk7SO) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Believe](https://open.spotify.com/album/2UxOpCmgruuWuuWcxfyMdw) | 2:23 | 2023-09-15 | 2023-11-25 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-07-08 | 2022-10-08 |
@@ -550,7 +551,7 @@
 | [Hey Beautiful \(from How I Met Your Father\)](https://open.spotify.com/track/6X1knSf0XM9UqgizvKtR0h) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Hey Beautiful \(from How I Met Your Father\)](https://open.spotify.com/album/0m3tGcG1l4cI2PbQqiq67r) | 3:43 | 2022-01-21 | 2022-02-05 |
 | [Hey Cowboy](https://open.spotify.com/track/5FfgLIooERZ7rcNcwxAcdF) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Hey Cowboy](https://open.spotify.com/album/17wY9BVWaZncYiZBleCcJX) | 3:07 | 2022-10-21 | 2023-06-03 |
 | [Hey Now \(Iko Iko\)](https://open.spotify.com/track/2wlfIduuDwZiAha3auaztw) | [Alx Veliz](https://open.spotify.com/artist/17rnpuu2LApoCL4x8fObZg), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb), [Altur Santos](https://open.spotify.com/artist/022RWmmEi2RWjL5RsOPOqR) | [Hey Now \(Iko Iko\)](https://open.spotify.com/album/2QxD1CV4r9sJmtO8ogFd5u) | 2:49 | 2021-12-31 | 2022-02-05 |
-| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-08 |  |
+| [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-08 | 2024-04-20 |
 | [High](https://open.spotify.com/track/0Dtv5iaqPWtftabQfjBvxh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:55 | 2022-05-13 | 2022-06-11 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-01-28 | 2022-04-23 |
 | [High In California](https://open.spotify.com/track/4arF67s3pUxVFuMlMLrJc3) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Faith In The Future \(Bonus Edition\)](https://open.spotify.com/album/5LPfYoKjoN8KHBXvnGjlyI) | 3:04 | 2023-05-26 | 2023-07-01 |

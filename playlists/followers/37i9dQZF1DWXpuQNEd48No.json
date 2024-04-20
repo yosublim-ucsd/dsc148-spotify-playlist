@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 32857,
+  "2024-04-20": 32915,
   "date_first_scraped": "2023-03-30",
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
   "name": "Hip-Hop Haryanvi",
@@ -991,7 +991,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178636,
       "name": "Chore Haryane Aale",
       "url": "https://open.spotify.com/track/4L1hMlypJ7QKJKGbK0sGJE"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 221590,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221590,
       "name": "Death Row",
       "url": "https://open.spotify.com/track/4hPYkpuhzgPA233YwHDCYz"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Dil",
       "url": "https://open.spotify.com/track/3CH2lqnViWcW8mZsSzHXtQ"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204658,
       "name": "Donali",
       "url": "https://open.spotify.com/track/2xeUqz1HUlow574wVq31VK"
@@ -1580,6 +1580,24 @@
     },
     {
       "album": {
+        "name": "Gadi 100 Pe",
+        "url": "https://open.spotify.com/album/3qCAkZI6R7guUB8ts7pF1J"
+      },
+      "artists": [
+        {
+          "name": "Devender Ahlawat",
+          "url": "https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179318,
+      "name": "Gadi 100 Pe",
+      "url": "https://open.spotify.com/track/3qnih6ckPKaxlNe2WYe0NK"
+    },
+    {
+      "album": {
         "name": "Game",
         "url": "https://open.spotify.com/album/5TxFY3lFpW98eErT56vUW0"
       },
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154285,
       "name": "Goli (feat. Khushi Verma)",
       "url": "https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221600,
       "name": "Handcuffs",
       "url": "https://open.spotify.com/track/1xwoD9H9i7UiBJt4gS1cbi"
@@ -2132,6 +2150,24 @@
     },
     {
       "album": {
+        "name": "Hurr Hurr",
+        "url": "https://open.spotify.com/album/6j74y3HMYrnuciMLDHzGvG"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Hurr Hurr",
+      "url": "https://open.spotify.com/track/7Iuwq0zr0MhXSHEX1LHypB"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/0earK0NiGvRyupxyoXpusg"
       },
@@ -2227,7 +2263,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193500,
       "name": "Jaat Warrior's 2",
       "url": "https://open.spotify.com/track/5BkaKLfWqHkeOVpnnis9aL"
@@ -2293,7 +2329,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163861,
       "name": "Jaat Warriors",
       "url": "https://open.spotify.com/track/34A6afqf198Tg75CSQ5csO"
@@ -2351,6 +2387,24 @@
       "duration_ms": 222439,
       "name": "Jalya Na Karo",
       "url": "https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV"
+    },
+    {
+      "album": {
+        "name": "Jalya Na Karo",
+        "url": "https://open.spotify.com/album/6jrKmnwQHKyoQKwAzNS378"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Jalya Na Karo",
+      "url": "https://open.spotify.com/track/6dnmxbneZ8CGw0p9St0uo1"
     },
     {
       "album": {
@@ -2431,7 +2485,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232421,
       "name": "Jigre",
       "url": "https://open.spotify.com/track/2GJKwk6Npj65gaKyrqTbxL"
@@ -2467,7 +2521,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 255857,
       "name": "Kaal",
       "url": "https://open.spotify.com/track/2yhtMM4qhk145z3U9SnUfX"
@@ -2537,7 +2591,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211000,
       "name": "KALESHI CHORI",
       "url": "https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e"
@@ -2581,6 +2635,28 @@
       "duration_ms": 152093,
       "name": "Kali Gadiyan",
       "url": "https://open.spotify.com/track/4tQCcLqpUjymKyF40Mea7S"
+    },
+    {
+      "album": {
+        "name": "Kalyug",
+        "url": "https://open.spotify.com/album/3RSgIg2SuGhUVe3TMi0I6o"
+      },
+      "artists": [
+        {
+          "name": "Shayam Sharma",
+          "url": "https://open.spotify.com/artist/61lpcC14tsSoXZyrjGXVEo"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "Kalyug",
+      "url": "https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R"
     },
     {
       "album": {
@@ -2778,6 +2854,28 @@
     },
     {
       "album": {
+        "name": "Lal Dabbi",
+        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
+      },
+      "artists": [
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        },
+        {
+          "name": "Bulbul",
+          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "Lal Dabbi",
+      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
+    },
+    {
+      "album": {
         "name": "MAHAKAAL",
         "url": "https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0"
       },
@@ -2807,7 +2905,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180713,
       "name": "Marji",
       "url": "https://open.spotify.com/track/3bUWnXRP05sA2UdKkj9wha"
@@ -3059,7 +3157,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208941,
       "name": "Nature",
       "url": "https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC"
@@ -3211,7 +3309,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225600,
       "name": "No Tension",
       "url": "https://open.spotify.com/track/6mXGWMfVqcDd1uvaPK3y7J"
@@ -3294,6 +3392,28 @@
     },
     {
       "album": {
+        "name": "On The Way",
+        "url": "https://open.spotify.com/album/6w2anhBM6gSig6lvPQncTc"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "KD DESIROCK",
+          "url": "https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/2iPHhqfqRUEDiHhBq5WICc"
+    },
+    {
+      "album": {
         "name": "Paggal",
         "url": "https://open.spotify.com/album/6Pd2su33BbrkX31z0bUUEa"
       },
@@ -3321,6 +3441,24 @@
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
+    },
+    {
+      "album": {
+        "name": "Papi Purane",
+        "url": "https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150688,
+      "name": "Papi Purane",
+      "url": "https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC"
     },
     {
       "album": {
@@ -3459,7 +3597,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209800,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6"
@@ -3559,6 +3697,28 @@
     {
       "album": {
         "name": "Rao Sahab Drill",
+        "url": "https://open.spotify.com/album/2ojtH1aQvxc6UEiDzlHejo"
+      },
+      "artists": [
+        {
+          "name": "Vkey",
+          "url": "https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss"
+        },
+        {
+          "name": "SDEE",
+          "url": "https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Rao Sahab Drill",
+      "url": "https://open.spotify.com/track/0iiX5o434i4xb49x4LluyR"
+    },
+    {
+      "album": {
+        "name": "Rao Sahab Drill",
         "url": "https://open.spotify.com/album/7rF3h3c0Eyj6xXMCZgQyvf"
       },
       "artists": [
@@ -3573,7 +3733,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211200,
       "name": "Rao Sahab Drill",
       "url": "https://open.spotify.com/track/1m5GbHeEUhvCgpuVb1q4Z4"
@@ -3733,7 +3893,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "Ruthless Jaat",
       "url": "https://open.spotify.com/track/4sgWquR4oC7v1Tm211qSMq"
@@ -3755,7 +3915,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 228182,
       "name": "Rx 100 Part-3",
       "url": "https://open.spotify.com/track/0KEjwwFOhI3l3bcenOvzjJ"
@@ -3829,6 +3989,28 @@
       "duration_ms": 210000,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/1pOc0yVstj8V2BvK5UYgqw"
+    },
+    {
+      "album": {
+        "name": "Scorpio",
+        "url": "https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        },
+        {
+          "name": "Khyati Sharma",
+          "url": "https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161320,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/3rXYmSlhnrbQRq6DmH63Zz"
     },
     {
       "album": {
@@ -4137,7 +4319,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244200,
       "name": "Tabahi",
       "url": "https://open.spotify.com/track/4jKJMH7LA1KqldCoczZZFe"
@@ -4203,7 +4385,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 196816,
       "name": "Tedhe Chaalak",
       "url": "https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL"
@@ -4310,6 +4492,32 @@
     },
     {
       "album": {
+        "name": "Tool",
+        "url": "https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        },
+        {
+          "name": "Laath Saab",
+          "url": "https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7"
+        },
+        {
+          "name": "PRNCE SIDHU",
+          "url": "https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Tool",
+      "url": "https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV"
+    },
+    {
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D"
       },
@@ -4357,7 +4565,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188652,
       "name": "Up To U",
       "url": "https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT"
@@ -4375,7 +4583,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 188652,
       "name": "Up To U",
       "url": "https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg"
@@ -4463,6 +4671,24 @@
       "duration_ms": 177272,
       "name": "Vehem",
       "url": "https://open.spotify.com/track/6ZvrPAj3CE6yEi6IPP5Vjh"
+    },
+    {
+      "album": {
+        "name": "Waah Meri Jaan",
+        "url": "https://open.spotify.com/album/3UJwH0iYlNLwvUuVjXCiOm"
+      },
+      "artists": [
+        {
+          "name": "Raj Mawer",
+          "url": "https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139859,
+      "name": "Waah Meri Jaan",
+      "url": "https://open.spotify.com/track/55ysXJbDMFiNSHY9fX9LY7"
     },
     {
       "album": {

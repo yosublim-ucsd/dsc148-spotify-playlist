@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1266,
+  "2024-04-20": 1266,
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate playlist to get you ready for a fun night out with your girlfriends.",
   "name": "Girls Night Out",
@@ -11,7 +11,7 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],

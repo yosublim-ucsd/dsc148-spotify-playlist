@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 290198,
+  "2024-04-20": 289606,
   "date_first_scraped": "2022-03-28",
   "description": "Nuevos hallazgos de m\u00fasica indie latina. Girl Ultra en portada.",
   "name": "Novedades Indie",
@@ -2345,10 +2345,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227778,
       "name": "Aeronostalgia",
       "url": "https://open.spotify.com/track/5r7q1ilvnK3MSjXVJ5x4a5"
+    },
+    {
+      "album": {
+        "name": "Aeronostalgia (feat. J)",
+        "url": "https://open.spotify.com/album/0qTiWQtWepKSaNCLfFxccp"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        },
+        {
+          "name": "J",
+          "url": "https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227778,
+      "name": "Aeronostalgia (feat. J)",
+      "url": "https://open.spotify.com/track/3RGdkhavDsgwonblfcKrcm"
     },
     {
       "album": {

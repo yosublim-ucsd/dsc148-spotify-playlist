@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1877619,
+  "2024-04-20": 1876995,
   "date_first_scraped": "2021-12-21",
   "description": "It's just one of those days...",
   "name": "Nu Metal Era",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240880,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/5yrGsJoG4FsTg6luHlNGK2"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189706,
       "name": "Brackish",
       "url": "https://open.spotify.com/track/5znZ4aN1j49w2Oel8tdmgG"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
@@ -525,6 +525,24 @@
       "duration_ms": 216733,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
+    {
+      "album": {
+        "name": "Blue-Sky Research (U.S. Version)",
+        "url": "https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO"
+      },
+      "artists": [
+        {
+          "name": "Taproot",
+          "url": "https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1"
     },
     {
       "album": {
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252400,
       "name": "Click Click Boom",
       "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175226,
       "name": "Crawling In The Dark",
       "url": "https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258426,
       "name": "Denial",
       "url": "https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191373,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/76xddM2irVQCbuBoVbaElZ"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236493,
       "name": "From This Day",
       "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176600,
       "name": "Get Up Again",
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 274733,
       "name": "Giving In",
       "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214946,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196853,
       "name": "How Can I Live",
       "url": "https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175880,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 176160,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199893,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199906,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254693,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1aiHmIlCiiHUTqS1CYzuTM"
@@ -1873,10 +1891,28 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 194733,
       "name": "New Disease",
       "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
+    },
+    {
+      "album": {
+        "name": "S.C.I.E.N.C.E.",
+        "url": "https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "New Skin",
+      "url": "https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M"
     },
     {
       "album": {
@@ -1963,7 +1999,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -1988,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Proud Like a God",
+        "url": "https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187560,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT"
+    },
+    {
+      "album": {
         "name": "The Reason (20th Anniversary)",
         "url": "https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8"
       },
@@ -1999,7 +2053,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162106,
       "name": "Out Of Control",
       "url": "https://open.spotify.com/track/166u1Cs46FmXoOaTGxh8aB"
@@ -2125,7 +2179,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
@@ -2143,7 +2197,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Pitiful",
       "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
@@ -2183,6 +2237,24 @@
       "duration_ms": 218933,
       "name": "Praise",
       "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+    },
+    {
+      "album": {
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Price to Play",
+      "url": "https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI"
     },
     {
       "album": {
@@ -2309,7 +2381,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 272266,
       "name": "Rot",
       "url": "https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK"
@@ -2399,7 +2471,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201933,
       "name": "Snot",
       "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
@@ -2435,7 +2507,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
@@ -2453,7 +2525,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "South Texas Deathride",
       "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
@@ -2507,7 +2579,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142866,
       "name": "Spit",
       "url": "https://open.spotify.com/track/6zd772F94reUnGHulNeEFm"
@@ -2525,7 +2597,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 198560,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/5Y76U25W2UAZF9AwfrFAoJ"
@@ -2543,7 +2615,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 232426,
       "name": "Stoopid",
       "url": "https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU"
@@ -2597,7 +2669,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153800,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
@@ -2615,7 +2687,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153800,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
@@ -2651,7 +2723,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193813,
       "name": "Sun Doesn't Rise",
       "url": "https://open.spotify.com/track/24CeaRaJHiMKFAVZTCu8Y0"
@@ -2669,7 +2741,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 215133,
       "name": "Sway",
       "url": "https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH"
@@ -2961,7 +3033,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177960,
       "name": "When Worlds Collide",
       "url": "https://open.spotify.com/track/6aF5JtQSrh7wNrkDE9B0My"

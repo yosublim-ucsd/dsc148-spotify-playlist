@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 74060,
+  "2024-04-20": 74080,
   "date_first_scraped": "2022-01-02",
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
   "name": "Folklore Rom\u00e1ntico ",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203333,
       "name": "Al So\u00f1arte",
       "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 211410,
       "name": "Amarte Sin Piedad",
       "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 263993,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209293,
       "name": "Aventura (feat. Marcela Morelo)",
       "url": "https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236612,
       "name": "Bellasombra",
       "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 210818,
       "name": "Bien o Mal",
       "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217680,
       "name": "Corazon Sin Tiempo",
       "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221986,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/4fhQ48hixjThGi2za030We"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242840,
       "name": "Fabula De Amor",
       "url": "https://open.spotify.com/track/0lww1e8bH0k8JUXB2rPvIp"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242840,
       "name": "Fabula De Amor",
       "url": "https://open.spotify.com/track/7KAX0hjF1ieKr0k5rSPDNH"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 241477,
       "name": "La Desamorada",
       "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
@@ -1059,10 +1059,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162093,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+    },
+    {
+      "album": {
+        "name": "La Forma Perfecta",
+        "url": "https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF"
+      },
+      "artists": [
+        {
+          "name": "La Macha",
+          "url": "https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193886,
+      "name": "La Forma Perfecta",
+      "url": "https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh"
     },
     {
       "album": {
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168840,
       "name": "La Ley Y La Trampa",
       "url": "https://open.spotify.com/track/0L5wghl5RSXbOInxDhHAUU"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168840,
       "name": "La Ley Y La Trampa",
       "url": "https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222565,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/5m3SdNod7s5n2vFkQiJqYF"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195059,
       "name": "La So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260040,
       "name": "Me Duele Todav\u00eda",
       "url": "https://open.spotify.com/track/2vFUcGJIhcGnNS8Gnu135v"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 215672,
       "name": "Mil Momentos - En Vivo",
       "url": "https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248240,
       "name": "No Dejare de Amarte",
       "url": "https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 214466,
       "name": "No Me Canso de Amar",
       "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234866,
       "name": "No Me Olvides",
       "url": "https://open.spotify.com/track/5OJAOB8Pe0IZOeGGjerPkE"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 250201,
       "name": "No me quiero ir",
       "url": "https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 224573,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Que Tiene de Malo Eso",
       "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 184659,
       "name": "Quiero Saber Si Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 208410,
       "name": "Quiz\u00e1s Me Perd\u00ed",
       "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Respuesta",
       "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213533,
       "name": "Rubia Morena",
       "url": "https://open.spotify.com/track/0GSSBaK28YDe6Gq7Yo963f"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 758954,
       "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
       "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226750,
       "name": "Si La Vieras",
       "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313080,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/5OHJKDaqEWl4t5aCilj3aQ"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180362,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 239365,
       "name": "Todo Ser\u00e1 Mejor",
       "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 195746,
       "name": "Un Adi\u00f3s",
       "url": "https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174888,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g"
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
@@ -2551,7 +2569,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234347,
       "name": "Zamba para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272240,
       "name": "Zamba y Acuarela",
       "url": "https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK"
@@ -2659,7 +2677,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272240,
       "name": "Zamba y Acuarela",
       "url": "https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX"

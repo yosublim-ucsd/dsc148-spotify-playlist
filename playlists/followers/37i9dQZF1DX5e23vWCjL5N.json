@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 83379,
+  "2024-04-20": 83404,
   "date_first_scraped": "2022-05-12",
   "description": "Tra storytelling e barre affilate, il meglio del rap game italiano. Cover: Kid Yugi",
   "name": "Liricisti",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131777,
       "name": "64 BARRE DI PAURA",
       "url": "https://open.spotify.com/track/3xhovobvcDab7lEV2MGKMh"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131777,
       "name": "64 BARRE DI PAURA",
       "url": "https://open.spotify.com/track/6JPEGmxZ9pTBNDCyf4PMbf"
@@ -217,6 +217,24 @@
     {
       "album": {
         "name": "Scialla Semper",
+        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
+      },
+      "artists": [
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180950,
+      "name": "Amici",
+      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
+    },
+    {
+      "album": {
+        "name": "Scialla Semper",
         "url": "https://open.spotify.com/album/4HzX5H3PFVQk1nAlzLG29r"
       },
       "artists": [
@@ -235,36 +253,10 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180950,
       "name": "Amici",
       "url": "https://open.spotify.com/track/24LOH9TdyAsSqASnyfY3Xn"
-    },
-    {
-      "album": {
-        "name": "Scialla Semper",
-        "url": "https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX"
-      },
-      "artists": [
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "Nic Sarno",
-          "url": "https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo"
-        }
-      ],
-      "date_added": "2022-04-15",
-      "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
-      "duration_ms": 180950,
-      "name": "Amici",
-      "url": "https://open.spotify.com/track/7aVX95NjONZszSeb8vJZF3"
     },
     {
       "album": {
@@ -455,7 +447,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156714,
       "name": "BODY PARTS - I denti",
       "url": "https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx"
@@ -473,7 +465,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156714,
       "name": "BODY PARTS - I denti",
       "url": "https://open.spotify.com/track/4WOXQYfq3fYVRMcaXuHBAD"
@@ -745,7 +737,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/05Wr6HJmrXiK42rE7Gu8FB"
@@ -775,7 +767,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "BUONANOTTE \u2748 (con NOYZ NARCOS, FRANCO126 & SIDE BABY)",
       "url": "https://open.spotify.com/track/70im6fWHD1m7VQve5I6Yim"
@@ -1125,7 +1117,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234446,
       "name": "DUBBI",
       "url": "https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO"
@@ -1143,7 +1135,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234446,
       "name": "DUBBI",
       "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
@@ -1981,7 +1973,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299061,
       "name": "Le Pietre Non Volano (feat. Marracash)",
       "url": "https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP"
@@ -2025,7 +2017,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299061,
       "name": "Le Pietre Non Volano (feat. Marracash)",
       "url": "https://open.spotify.com/track/5hjMhdi5EBlwpcthmhUgOD"
@@ -2273,7 +2265,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "LORO",
       "url": "https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV"
@@ -2291,7 +2283,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198186,
       "name": "LORO",
       "url": "https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA"
@@ -2603,7 +2595,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272003,
       "name": "NOI",
       "url": "https://open.spotify.com/track/0FvYrmmPglHGBKJ3AtZovH"
@@ -2621,7 +2613,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272003,
       "name": "NOI",
       "url": "https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ"
@@ -2893,7 +2885,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212316,
       "name": "QUALCOSA IN CUI CREDERE - Lo scheletro",
       "url": "https://open.spotify.com/track/5mZhdcP4Cexz1kWqGobJF6"
@@ -2915,7 +2907,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212316,
       "name": "QUALCOSA IN CUI CREDERE - Lo scheletro (feat. Gu\u00e8 Pequeno)",
       "url": "https://open.spotify.com/track/39hRcGieqFaKfZ7LN91Vy5"
@@ -3025,7 +3017,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235920,
       "name": "S.A.L.M.O.",
       "url": "https://open.spotify.com/track/2YZkw3wc0uDMSOnJaIXykX"
@@ -3043,7 +3035,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235920,
       "name": "S.A.L.M.O.",
       "url": "https://open.spotify.com/track/4kpAz34vx3pPPGaKdD3j6Q"
@@ -3661,7 +3653,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180480,
       "name": "WEEKEND (feat. Lazza, Madame & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/6xOC20CkoRKAwGWh32nPHL"
@@ -3699,7 +3691,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180480,
       "name": "WEEKEND (feat. Lazza, Madame & Massimo Pericolo)",
       "url": "https://open.spotify.com/track/1FVZhwZiab6cEAxAOS9j5v"

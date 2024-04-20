@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 37133,
+  "2024-04-20": 37102,
   "date_first_scraped": "2021-12-28",
   "description": "Featuring today's dopest MCs.\nCover : Paal  Dabba",
   "name": "Tamil Indie : Hip Hop",
@@ -235,7 +235,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 167052,
       "name": "Anjaana",
       "url": "https://open.spotify.com/track/758vno0xytbJNhfE8d2kbw"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167052,
       "name": "Anjaana",
       "url": "https://open.spotify.com/track/35UCL83cog754eqxXRLVeX"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203716,
       "name": "Black Panther",
       "url": "https://open.spotify.com/track/3QiZXSYjbkVE2xGfX7Kx4I"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211245,
       "name": "Black Panther",
       "url": "https://open.spotify.com/track/2UY5fYuiUs8KzNxvVdW5Zq"
@@ -620,6 +620,32 @@
     },
     {
       "album": {
+        "name": "Dhoni The Champ - Single",
+        "url": "https://open.spotify.com/album/7g24TAsZkM03qVxpIE2sSy"
+      },
+      "artists": [
+        {
+          "name": "Cymbol",
+          "url": "https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w"
+        },
+        {
+          "name": "Cronyg",
+          "url": "https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ"
+        },
+        {
+          "name": "Seize Me",
+          "url": "https://open.spotify.com/artist/1zHAfoK6387FV8pU0QZbil"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153136,
+      "name": "Dhoni The Champ",
+      "url": "https://open.spotify.com/track/2ZbGBX2X84XvvVgY1lpoEz"
+    },
+    {
+      "album": {
         "name": "Dhrogam",
         "url": "https://open.spotify.com/album/4tvT4BIYHQDZOKZD4rrm1W"
       },
@@ -697,7 +723,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "Dope",
       "url": "https://open.spotify.com/track/2XOd9q0WTWFemw9YOPp6UA"
@@ -719,7 +745,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141333,
       "name": "Dope",
       "url": "https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k"
@@ -1225,7 +1251,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368000,
       "name": "Ilangai Thamizhan",
       "url": "https://open.spotify.com/track/1yLpFaYwRRMWo3YwvihVPR"
@@ -1247,7 +1273,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Ilangai Thamizhan",
       "url": "https://open.spotify.com/track/4qw2gnVZZNBR9TcmhiN7Yy"
@@ -1719,7 +1745,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 339692,
       "name": "KGF Monster",
       "url": "https://open.spotify.com/track/0QsxHp0eiG7gtF6FojQkLO"
@@ -1779,7 +1805,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339692,
       "name": "KGF Monster",
       "url": "https://open.spotify.com/track/4LcHathc26VrJzXK4WJJDk"
@@ -1805,7 +1831,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263111,
       "name": "Koduththathellam Koduththaan - Reprise Version",
       "url": "https://open.spotify.com/track/4YtASlOiS3AMnQz22evhun"
@@ -2277,7 +2303,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R"
@@ -2295,7 +2321,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185500,
       "name": "Naan Yaar",
       "url": "https://open.spotify.com/track/4MDli7VJ9RiKhngv4eFeFN"
@@ -2383,7 +2409,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195624,
       "name": "Nagaram (Bcb2 Remix)",
       "url": "https://open.spotify.com/track/4BEo25pBzNWC06bzadSkAd"
@@ -2409,7 +2435,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195687,
       "name": "Nagaram Bcb2 (Remix) [feat. tha Q & Ruff Jana]",
       "url": "https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM"
@@ -2443,7 +2469,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228347,
       "name": "Namma Stories",
       "url": "https://open.spotify.com/track/3RcS3P11j5PL7ttgEG5viZ"
@@ -2477,7 +2503,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 228347,
       "name": "Namma Stories",
       "url": "https://open.spotify.com/track/3TmyH58VMepcWFbtPRNlUC"
@@ -3245,7 +3271,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219500,
       "name": "Rebelution",
       "url": "https://open.spotify.com/track/5Og3Y9UvWmdmGq9OQAARA3"
@@ -3263,7 +3289,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224250,
       "name": "Rebelution",
       "url": "https://open.spotify.com/track/1LcFq1jFKAJ10SqeJsqM7m"
@@ -3427,7 +3453,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 140799,
       "name": "SAAVADI",
       "url": "https://open.spotify.com/track/27KTobvwJ3wqbKNQ4m1dPt"
@@ -3453,7 +3479,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140799,
       "name": "SAAVADI - From \"Black Air Force Activity!\"",
       "url": "https://open.spotify.com/track/24UEpVOML1TOhNkFmItc0Z"
@@ -3475,7 +3501,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199283,
       "name": "Samaneedhi",
       "url": "https://open.spotify.com/track/6jpAkJT8wUd0GzDPznkegG"
@@ -3501,7 +3527,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199283,
       "name": "Samaneedhi",
       "url": "https://open.spotify.com/track/5xcyZcXh1uFZJtrlq1XMuA"
@@ -3729,7 +3755,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184711,
       "name": "Sound of Pain",
       "url": "https://open.spotify.com/track/4tSC1rkB4RRHmaz3G5skEa"
@@ -3751,7 +3777,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 184711,
       "name": "Sound of Pain",
       "url": "https://open.spotify.com/track/6HHpALzzMNphaUcKuHZoJR"
@@ -3787,7 +3813,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 203588,
       "name": "Stable In The Game",
       "url": "https://open.spotify.com/track/3f2ItBv79rxtFovyBeGn2c"
@@ -3805,7 +3831,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203588,
       "name": "Stable In The Game",
       "url": "https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB"
@@ -4207,7 +4233,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 376354,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/4JqF7JsvHJsYp9YpxiJnhe"
@@ -4237,7 +4263,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376354,
       "name": "The Gym",
       "url": "https://open.spotify.com/track/3hkcM59FqUTvqx9TRDQuDR"
@@ -4723,7 +4749,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 179399,
       "name": "Vyaadhi Vyaadhi",
       "url": "https://open.spotify.com/track/3GXj1FhrmbLOqHYsveMrvb"
@@ -4741,7 +4767,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179399,
       "name": "Vyaadhi Vyaadhi",
       "url": "https://open.spotify.com/track/7q7O2BV02JZEcdMt3uh4vu"

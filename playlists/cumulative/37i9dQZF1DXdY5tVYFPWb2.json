@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 164479,
       "name": "FUTURE STORY",
       "url": "https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc"
@@ -4604,6 +4604,24 @@
       "duration_ms": 198660,
       "name": "long island iced tea",
       "url": "https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ"
+    },
+    {
+      "album": {
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305760,
+      "name": "LOOP",
+      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
     },
     {
       "album": {
@@ -12112,7 +12130,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 220240,
       "name": "\u30b7\u30e9\u30d5",
       "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
@@ -15190,7 +15208,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 234288,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"

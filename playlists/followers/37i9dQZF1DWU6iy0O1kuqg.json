@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 168994,
+  "2024-04-20": 169077,
   "date_first_scraped": "2023-03-11",
   "description": "\u00a1Lo mejor de dos mundos! Qu\u00e9 retumbe la tuba y arremangue el acorde\u00f3n. Calibre 50 en portada.",
   "name": "Norte\u00f1o-Banda",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S"
+    },
+    {
+      "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Amor Limosnero",
+      "url": "https://open.spotify.com/track/4wLdvcHJg7cb1EN8Q6iQJs"
     },
     {
       "album": {
@@ -186,6 +204,24 @@
     },
     {
       "album": {
+        "name": "El Primer Ministro (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5wnETFg1tLNipXe6a3Li80"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165946,
+      "name": "De Parranda",
+      "url": "https://open.spotify.com/track/5nmGF8XfCRXzAep5KVfik9"
+    },
+    {
+      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -197,7 +233,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167306,
       "name": "De Parranda",
       "url": "https://open.spotify.com/track/7kQyFmVGVNWifBXuq1r1TA"
@@ -276,6 +312,24 @@
     },
     {
       "album": {
+        "name": "El Jami",
+        "url": "https://open.spotify.com/album/511TVSxb1rXXuTfUHWdTXO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179610,
+      "name": "El Jami",
+      "url": "https://open.spotify.com/track/05DOiyiRvyed2Kd5Z1sV7S"
+    },
+    {
+      "album": {
         "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
@@ -287,7 +341,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179610,
       "name": "El Jami",
       "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
@@ -395,10 +449,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190480,
       "name": "Eso Es Quererte",
       "url": "https://open.spotify.com/track/4h3ac8GoccTuwLNBuzDDJp"
+    },
+    {
+      "album": {
+        "name": "Y T\u00fa Qu\u00e9 Har\u00edas",
+        "url": "https://open.spotify.com/album/25bUkc3LXfjpfSI87o33tr"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/5dIjXZZOeEpkXFaDikIBtJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Eso Es Quererte",
+      "url": "https://open.spotify.com/track/6ggmwlNVlZH7zdy74LXVgw"
     },
     {
       "album": {
@@ -439,6 +511,24 @@
     {
       "album": {
         "name": "Bien Servida",
+        "url": "https://open.spotify.com/album/3lTpVrs96jPer7Q9CLWYfr"
+      },
+      "artists": [
+        {
+          "name": "Los Gfez",
+          "url": "https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "La Canelera",
+      "url": "https://open.spotify.com/track/3PzzOKzjFrTSP2DREIfgQm"
+    },
+    {
+      "album": {
+        "name": "Bien Servida",
         "url": "https://open.spotify.com/album/1O3O4TeDqMIJe44arc3ePQ"
       },
       "artists": [
@@ -449,7 +539,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241733,
       "name": "La Canelera",
       "url": "https://open.spotify.com/track/7iAZRDACuQWUMoLff58NIU"
@@ -475,7 +565,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277460,
       "name": "La Fuga Del Dorian",
       "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
@@ -501,7 +591,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 277421,
       "name": "La Fuga del Dorian (feat. Ariel Camacho & Regulo Caro)",
       "url": "https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK"
@@ -537,7 +627,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 165041,
       "name": "La Plebada Belica",
       "url": "https://open.spotify.com/track/0Liq4rybSdxhZ5oCeVZWup"
@@ -555,7 +645,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165041,
       "name": "La Plebada Belica",
       "url": "https://open.spotify.com/track/1I05Oi3owEMe0nu9oG6bkF"
@@ -645,10 +735,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156453,
       "name": "No Eres Tu Ahora Soy Yo",
       "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
+    },
+    {
+      "album": {
+        "name": "20 Canciones Banda y Norteno",
+        "url": "https://open.spotify.com/album/6zFlPbgZKZFN5t40RMg065"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "No Eres Tu Ahora Soy Yo",
+      "url": "https://open.spotify.com/track/755mDnwiqFcX1OOATeglOC"
     },
     {
       "album": {
@@ -717,7 +825,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 458442,
       "name": "Popurri Boleros Cadetes - En Vivo",
       "url": "https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG"
@@ -735,7 +843,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 458442,
       "name": "Popurri Boleros Cadetes - En Vivo",
       "url": "https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S"
@@ -955,10 +1063,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174773,
       "name": "Suena La Banda",
       "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
+    },
+    {
+      "album": {
+        "name": "Perd\u00f3name Mi Amor",
+        "url": "https://open.spotify.com/album/1GOJbuPNFe5zufCE2jEJkp"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "Suena La Banda",
+      "url": "https://open.spotify.com/track/1C0kA4UNIUJSVXPiYp0qEf"
     },
     {
       "album": {
@@ -1117,10 +1247,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196240,
       "name": "\u00bfY T\u00fa Qu\u00e9 Har\u00edas?",
       "url": "https://open.spotify.com/track/4xxDywBunbTG9U1yTCtIht"
+    },
+    {
+      "album": {
+        "name": "Y T\u00fa Qu\u00e9 Har\u00edas",
+        "url": "https://open.spotify.com/album/25bUkc3LXfjpfSI87o33tr"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/5dIjXZZOeEpkXFaDikIBtJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "\u00bfY T\u00fa Qu\u00e9 Har\u00edas?",
+      "url": "https://open.spotify.com/track/799ZNQl00fXQlOCo4ForXa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg"

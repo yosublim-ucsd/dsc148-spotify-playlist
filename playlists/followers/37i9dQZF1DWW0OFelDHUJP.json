@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 97686,
+  "2024-04-20": 97692,
   "date_first_scraped": "2023-05-19",
   "description": "Chai, Baarish and some Indie tunes to accompany you!",
   "name": "Rain On Indie",
@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "Papon - The Story So Far",
+        "url": "https://open.spotify.com/album/6eDaAOoQQB6Cz1yrgdMkfA"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358217,
+      "name": "Baarish Ki Boondein",
+      "url": "https://open.spotify.com/track/2G0d6N3es1AeG5GZVPndKA"
+    },
+    {
+      "album": {
         "name": "Papon the Story So Far",
         "url": "https://open.spotify.com/album/3cjwBxyFUkiGPtlkVZ168k"
       },
@@ -151,7 +169,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359907,
       "name": "Baarish Ki Boondein",
       "url": "https://open.spotify.com/track/4EfSRHhktOOws6orxZIx9g"
@@ -281,10 +299,32 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
+    },
+    {
+      "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261631,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
     },
     {
       "album": {
@@ -419,10 +459,46 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225123,
       "name": "Chandni Raat",
       "url": "https://open.spotify.com/track/15aFp4GkPuHOhRBeHgU2ix"
+    },
+    {
+      "album": {
+        "name": "Chandni Raat - Single",
+        "url": "https://open.spotify.com/album/1b59XFrQss5t9UIEDRiRoo"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225256,
+      "name": "Chandni Raat",
+      "url": "https://open.spotify.com/track/1Se9TChEPEDrIKkfKqKNR6"
+    },
+    {
+      "album": {
+        "name": "cold / mess",
+        "url": "https://open.spotify.com/album/46skxGEaSS4gb8HrJUFGOL"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/4Psh3fEnAMftNPOTsAHPgG"
     },
     {
       "album": {
@@ -437,7 +513,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281218,
       "name": "cold/mess",
       "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
@@ -581,7 +657,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365624,
       "name": "Ja Tujhko",
       "url": "https://open.spotify.com/track/15F47A5MFuevUXeK2OHnZj"
@@ -606,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Ja Tujhko",
+        "url": "https://open.spotify.com/album/7x7egjskigZhb8AkhxB3t0"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365812,
+      "name": "Ja Tujhko",
+      "url": "https://open.spotify.com/track/4oZyNzIZYJ6EpKDqfXdIL9"
+    },
+    {
+      "album": {
         "name": "Kaari",
         "url": "https://open.spotify.com/album/2rxawqueJ4wDhh0WDNSO8j"
       },
@@ -624,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Girgit Damroo and the Good Trip",
+        "url": "https://open.spotify.com/album/0RERx51vrkv7qLomGMm1Jt"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Kahan Woh Din Gaye",
+      "url": "https://open.spotify.com/track/5E4psGMoiLKgzpVey1ImCM"
+    },
+    {
+      "album": {
         "name": "Girgit Damroo And The Good Trip",
         "url": "https://open.spotify.com/album/3fFaEakmRC9kp7UxSz7VMQ"
       },
@@ -635,7 +747,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Kahan Woh Din Gaye",
       "url": "https://open.spotify.com/track/5udGjYNG57hYIUD61rfcGL"
@@ -729,7 +841,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 256285,
       "name": "Koi Jaane Na",
       "url": "https://open.spotify.com/track/1qJEPAY2PNphzM8o1VFEtt"
@@ -747,7 +859,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256285,
       "name": "Koi Jaane Na",
       "url": "https://open.spotify.com/track/3g572Upfd1UZat0EBLGtns"
@@ -893,7 +1005,7 @@
     {
       "album": {
         "name": "Milon Chala",
-        "url": "https://open.spotify.com/album/3QB6YFuijp7nT2F1i75Eia"
+        "url": "https://open.spotify.com/album/1ORhB6Qy0t3uSwPFpCMYUh"
       },
       "artists": [
         {
@@ -904,6 +1016,24 @@
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 190270,
+      "name": "Milon Chala",
+      "url": "https://open.spotify.com/track/3EZRMX38CXvegTt5cMbRNR"
+    },
+    {
+      "album": {
+        "name": "Milon Chala",
+        "url": "https://open.spotify.com/album/3QB6YFuijp7nT2F1i75Eia"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 190270,
       "name": "Milon Chala",
       "url": "https://open.spotify.com/track/5ecd1P14qnv5ulQZgfwlSA"
@@ -921,7 +1051,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254216,
       "name": "Muddat",
       "url": "https://open.spotify.com/track/6gDvlfH71sjBtvRjolLX2Q"
@@ -939,7 +1069,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 254216,
       "name": "Muddat",
       "url": "https://open.spotify.com/track/7rgQx9d0qj0tgRGuhq4Fca"
@@ -1019,6 +1149,24 @@
     {
       "album": {
         "name": "Urooj",
+        "url": "https://open.spotify.com/album/0N0gibm8oNYXGgMlGYLDWa"
+      },
+      "artists": [
+        {
+          "name": "Samar Mehdi",
+          "url": "https://open.spotify.com/artist/0kn5e77RPjL0jdsLYcN4rN"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405175,
+      "name": "Parey",
+      "url": "https://open.spotify.com/track/1BObV7e3Lh1Rq4sDB40SFc"
+    },
+    {
+      "album": {
+        "name": "Urooj",
         "url": "https://open.spotify.com/album/6AQcoEJ3NH4ugF5DVagnGD"
       },
       "artists": [
@@ -1029,7 +1177,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405175,
       "name": "Parey",
       "url": "https://open.spotify.com/track/5QvGIGxLUuqziDY1vjMFB2"
@@ -1047,7 +1195,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157103,
       "name": "Pehli Baarish",
       "url": "https://open.spotify.com/track/7LjntjLognntHjSRC6B9rc"
@@ -1065,7 +1213,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Pehli Baarish",
       "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
@@ -1233,7 +1381,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 182482,
       "name": "Rihaee",
       "url": "https://open.spotify.com/track/4y2QEmnp3DRgXjdbZfUs3X"
@@ -1251,7 +1399,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182482,
       "name": "Rihaee",
       "url": "https://open.spotify.com/track/5lyJgRJwhK9SD7F444LPtW"
@@ -1269,7 +1417,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
@@ -1287,7 +1435,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
@@ -1353,7 +1501,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262036,
       "name": "Sawan",
       "url": "https://open.spotify.com/track/2BGq73e6KVjOfMHMTyNSvG"
@@ -1371,7 +1519,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 262036,
       "name": "Sawan",
       "url": "https://open.spotify.com/track/2EYExMxUzn2FapSlnxDjTn"
@@ -1425,7 +1573,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209952,
       "name": "Tu Bata",
       "url": "https://open.spotify.com/track/0WKbEabKVKaGHAULfbAOas"
@@ -1447,6 +1595,24 @@
       "duration_ms": 209952,
       "name": "Tu Bata",
       "url": "https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj"
+    },
+    {
+      "album": {
+        "name": "Tu Bata",
+        "url": "https://open.spotify.com/album/6RdKELZRjvmMjdBKHzx1VN"
+      },
+      "artists": [
+        {
+          "name": "Roney Guha",
+          "url": "https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tu Bata",
+      "url": "https://open.spotify.com/track/6jlwgIaV4hQTf92LS2pWk1"
     },
     {
       "album": {

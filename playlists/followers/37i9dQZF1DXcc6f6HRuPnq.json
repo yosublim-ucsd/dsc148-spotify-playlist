@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 155814,
+  "2024-04-20": 155867,
   "date_first_scraped": "2022-04-20",
   "description": "Late night cool and the sound of smooth blues.",
   "name": "Midnight Blues",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241493,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE"
@@ -199,6 +199,24 @@
     {
       "album": {
         "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
+    },
+    {
+      "album": {
+        "name": "Bad Spell (Acoustic)",
         "url": "https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK"
       },
       "artists": [
@@ -209,7 +227,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194970,
       "name": "Bad Spell - Acoustic",
       "url": "https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0"
@@ -263,7 +281,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216546,
       "name": "Becky Ann (feat. Mitch Kaxhmar & Ronnie Shellist)",
       "url": "https://open.spotify.com/track/11nL3Z9zd6uZWnVP51SCkC"
@@ -281,7 +299,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 216546,
       "name": "Becky Ann (feat. Mitch Kaxhmar & Ronnie Shellist)",
       "url": "https://open.spotify.com/track/27wfSUGbv33dSWJ3y2tZQ2"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 151533,
       "name": "Blue Because Of You",
       "url": "https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb"
@@ -371,7 +389,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279840,
       "name": "Blue Jean Blues (2005 Remaster)",
       "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 282626,
       "name": "Blue Jean Blues - 2005 Remaster",
       "url": "https://open.spotify.com/track/6Gyk7ZHfFWo3d8U7poUEPs"
@@ -443,7 +461,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293851,
       "name": "Blues For Lonnie Johnson",
       "url": "https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293851,
       "name": "Blues for Lonnie Johnson",
       "url": "https://open.spotify.com/track/7g1PbjHp6Ezwqt9ygfqR3J"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313840,
       "name": "Ghetto Woman",
       "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 315973,
       "name": "Ghetto Woman",
       "url": "https://open.spotify.com/track/1ol9HfVFSKwbVVnzc1vzY2"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/0YO5SB9ZBMEsIpVzXZNrE0"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349893,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/04pD7a7jfQjpQDsP3VgYDy"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 223800,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/5KbTAN3GgXJCvBySnOZrih"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 294595,
       "name": "Hoodoo Man",
       "url": "https://open.spotify.com/track/2BjtzMioX7p1F7yiIMQn1B"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294595,
       "name": "Hoodoo Man",
       "url": "https://open.spotify.com/track/5S06MjT5dOy7nLDmHqnqic"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 335826,
       "name": "It Don't Make Sense (feat. Charlie Musselwhite)",
       "url": "https://open.spotify.com/track/2GIRnzs5MPRzUkJFJF2gTw"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335826,
       "name": "It Don\u2019t Make Sense (feat. Charlie Musselwhite)",
       "url": "https://open.spotify.com/track/0txqnDmfzvIjD2c7XjuEFx"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246493,
       "name": "Kind Hearted Woman Blues",
       "url": "https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 246493,
       "name": "Kind Hearted Woman Blues",
       "url": "https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 380493,
       "name": "Luther's Blues",
       "url": "https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/4rEUWLQh9vofv3x9377uUR"
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268800,
       "name": "Personal Manager",
       "url": "https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270293,
       "name": "Personal Manager",
       "url": "https://open.spotify.com/track/3rdggOvseyMgqFFbWLLp8W"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 373920,
       "name": "Same Old Blues Again",
       "url": "https://open.spotify.com/track/4iDihtKlKU9RgCnRkn0tmM"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373933,
       "name": "Same Old Blues Again (2007 - Remaster)",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249626,
       "name": "Ships On The Ocean",
       "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 247269,
       "name": "Ships on the Ocean",
       "url": "https://open.spotify.com/track/5qZkTvK2yktEtZ1BxJeGCr"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170320,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170493,
       "name": "Since I Fell For You",
       "url": "https://open.spotify.com/track/1OuJhCr6p1n5XYbaUNScvl"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/0vUyPyd5cuIZIxTrvrtbR1"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330733,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 244346,
       "name": "That's Why I Play the Blues",
       "url": "https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244346,
       "name": "That's Why I Play the Blues",
       "url": "https://open.spotify.com/track/3wOblrCpqJoMd38NW9qF8i"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 133133,
       "name": "The Moon Is Rising",
       "url": "https://open.spotify.com/track/4rbTBEdi2X7UpEbUnINsEX"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133293,
       "name": "The Moon is Rising",
       "url": "https://open.spotify.com/track/736frSQjibzIkMg2byvPoW"
@@ -1904,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "The Blues Collective - Percy Mayfield",
+        "url": "https://open.spotify.com/album/3DLOUqLCKBmsZcZi7JVDLU"
+      },
+      "artists": [
+        {
+          "name": "Percy Mayfield",
+          "url": "https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173688,
+      "name": "The Rivers Invitation",
+      "url": "https://open.spotify.com/track/5Wbt7b75gnewC8UELV8003"
+    },
+    {
+      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J"
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
@@ -2031,7 +2067,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270666,
       "name": "Without You",
       "url": "https://open.spotify.com/track/78WaOAO3xm45gOXqMhI09d"
@@ -2049,7 +2085,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"

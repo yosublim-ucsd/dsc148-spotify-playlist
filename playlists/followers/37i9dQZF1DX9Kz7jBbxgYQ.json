@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 151480,
+  "2024-04-20": 151560,
   "date_first_scraped": "2022-05-30",
   "description": "Home to the best of South Asian Indie scene. Cover: KhoslaRaghu",
   "name": "Desi Indie",
@@ -71,10 +71,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233471,
       "name": "Aaftaab",
       "url": "https://open.spotify.com/track/0bNkrxGqyFNYuXfj9HBV4r"
+    },
+    {
+      "album": {
+        "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z"
+      },
+      "artists": [
+        {
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233471,
+      "name": "Aaftaab",
+      "url": "https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM"
     },
     {
       "album": {
@@ -303,7 +321,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212750,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/3bQsp4Vr9Rg4fNCx6HPOgX"
@@ -321,7 +339,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 212773,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 207309,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207312,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159795,
       "name": "Dhanak",
       "url": "https://open.spotify.com/track/31hn1KbiHz1WZkkWhsc7dQ"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 159795,
       "name": "Dhanak",
       "url": "https://open.spotify.com/track/6nYwm1jreRtbgDsGwWFdK5"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211290,
       "name": "Dil Mere",
       "url": "https://open.spotify.com/track/0XF0D8HL9gk2sr9tlFOee3"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 211290,
       "name": "Dil Mere",
       "url": "https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 217241,
       "name": "Gul",
       "url": "https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217250,
       "name": "Gul",
       "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs"
@@ -2817,6 +2835,28 @@
     {
       "album": {
         "name": "Khaare Raste",
+        "url": "https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Khaare Raste",
+      "url": "https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3"
+    },
+    {
+      "album": {
+        "name": "Khaare Raste",
         "url": "https://open.spotify.com/album/5QQ7MFhhD8E4AhcynAFsfY"
       },
       "artists": [
@@ -2831,7 +2871,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246857,
       "name": "Khaare Raste",
       "url": "https://open.spotify.com/track/5gQJZ484gEcVHD2OCuquik"
@@ -3379,7 +3419,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 212054,
       "name": "Mazaak",
       "url": "https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0"
@@ -3397,7 +3437,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212062,
       "name": "Mazaak",
       "url": "https://open.spotify.com/track/0uBo93xl23O60oErtKvSAg"
@@ -4837,7 +4877,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/0hOqMsscursarJjpcMgGgu"
@@ -4859,7 +4899,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
@@ -5545,10 +5585,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243310,
       "name": "Waqt Ki Baatein",
       "url": "https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db"
+    },
+    {
+      "album": {
+        "name": "Waqt Ki Baatein - Single",
+        "url": "https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243310,
+      "name": "Waqt Ki Baatein",
+      "url": "https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV"
     },
     {
       "album": {
@@ -5623,6 +5681,24 @@
     {
       "album": {
         "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL"
+    },
+    {
+      "album": {
+        "name": "Woh Raat",
         "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
       },
       "artists": [
@@ -5637,7 +5713,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191460,
       "name": "Woh Raat",
       "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
@@ -5783,7 +5859,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221666,
       "name": "Zakir",
       "url": "https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO"
@@ -5801,7 +5877,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Zakir",
       "url": "https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX"
@@ -5827,7 +5903,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162857,
       "name": "Zamanay",
       "url": "https://open.spotify.com/track/1KD6tWKf9z3mx8n8E9eYle"
@@ -5853,7 +5929,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "Zamanay",
       "url": "https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35309,
+  "2024-04-20": 35286,
   "date_first_scraped": "2022-06-02",
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
   "name": "Navidad Cristiana",
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175661,
       "name": "Al mundo paz",
       "url": "https://open.spotify.com/track/5rwDCjAAaUSqCs5IjYIaid"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "Alabanzas Al Rey",
       "url": "https://open.spotify.com/track/6xPQCiesZvH1jIi78UGo4p"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209626,
       "name": "Alabanzas Al Rey",
       "url": "https://open.spotify.com/track/6EMDqqZkq4CTs0OwpxipNN"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184346,
       "name": "All\u00e1 En Bel\u00e9n - Pista",
       "url": "https://open.spotify.com/track/4tzeOvyRwaQYTLra810GPU"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247811,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/0miF4ilQcJzrdZaiME4DZj"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 29106,
       "name": "Campanas",
       "url": "https://open.spotify.com/track/4fzSIKWnFWN7stZaFf1vE4"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423173,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
@@ -537,10 +537,28 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 227705,
       "name": "Cristianos Vayamos",
       "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
+    },
+    {
+      "album": {
+        "name": "Folky Navidad",
+        "url": "https://open.spotify.com/album/5vFb6MeUukVCeRcRyp6fi3"
+      },
+      "artists": [
+        {
+          "name": "Papel Mach\u00e9",
+          "url": "https://open.spotify.com/artist/4HHusE5bmlEPr8TodXqV1Q"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216811,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/52HoxkjHTmMLDbItFbQt7e"
     },
     {
       "album": {
@@ -555,7 +573,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249374,
       "name": "De Belen a Jerusalen - Live",
       "url": "https://open.spotify.com/track/1TL6HZnlFaAZH7AtjqTroZ"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 249375,
       "name": "De Bel\u00e9n a Jerusal\u00e9n",
       "url": "https://open.spotify.com/track/3EZasVLqN6bkIp4xDkUXpT"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263133,
       "name": "Dios Con Nosotros",
       "url": "https://open.spotify.com/track/6ouy9GxN9kxSMGtWbCSEbn"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 192386,
       "name": "El Burrito De Bel\u00e9n",
       "url": "https://open.spotify.com/track/4kG2fsqmS4AGEkjg5Cb1oj"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 333170,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
@@ -781,7 +799,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333217,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/7sS0PbgE6pUsaCXuaDpKIM"
@@ -842,6 +860,24 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Dios Travieso",
+        "url": "https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo"
+      },
+      "artists": [
+        {
+          "name": "Ana Bolivar",
+          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180010,
+      "name": "El Ni\u00f1o Dios Travieso",
+      "url": "https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb"
+    },
+    {
+      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
       },
@@ -857,7 +893,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas",
       "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
@@ -879,7 +915,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
       "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
@@ -897,7 +933,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 190253,
       "name": "El Primer Noel",
       "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
@@ -915,7 +951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184760,
       "name": "El Regalo Celestial",
       "url": "https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2"
@@ -933,7 +969,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184760,
       "name": "El Regalo Celestial",
       "url": "https://open.spotify.com/track/7hLD9HiwV1lkeqQGfyANPW"
@@ -1025,7 +1061,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 220544,
       "name": "En esta navidad",
       "url": "https://open.spotify.com/track/7cpeaa1fqbSNK9K6GQY8nO"
@@ -1043,7 +1079,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213040,
       "name": "En Un Establo",
       "url": "https://open.spotify.com/track/0JbV0FiWpMwRywvnhSv9cb"
@@ -1113,7 +1149,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287093,
       "name": "Es Hora De Brillar",
       "url": "https://open.spotify.com/track/2uKAZ2Uw0Q6bDE1GBa4LLX"
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193282,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 290089,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/4E7S8GDdXMxqtJbxG4fEjZ"
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290089,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/6GCvzp8XtG6dCMYcnve8r5"
@@ -1207,7 +1243,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263120,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/2NTMwpuulVcqgRlfsWfXk6"
@@ -1247,7 +1283,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193282,
       "name": "Es Navidad (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/6Gz8X07dOszrxiPoTVmKnk"
@@ -1302,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Happy Birthday Jesus (Merry Christmas)",
+        "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
+      },
+      "artists": [
+        {
+          "name": "Lily Marie Antonini",
+          "url": "https://open.spotify.com/artist/1x8FFUkHOebTcWv9L7KJnt"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219798,
+      "name": "Espiritu Santo",
+      "url": "https://open.spotify.com/track/2mIOrzmVSD9V3RdsBk1Qgb"
+    },
+    {
+      "album": {
         "name": "Esta Navidad",
         "url": "https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt"
       },
@@ -1313,7 +1367,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 181690,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy"
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197877,
       "name": "Este Es Mi A\u00f1o",
       "url": "https://open.spotify.com/track/7iCUX9L2e5kIo0TvOkbeRb"
@@ -1429,7 +1483,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183533,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7jqWEJ1ntANspPX7rgUObr"
@@ -1447,7 +1501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 198276,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0mbKemvmkBi8AmG3pMUbFv"
@@ -1465,7 +1519,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198276,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/23yXE7auYQ93grOZn0PHn9"
@@ -1501,7 +1555,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180066,
       "name": "Gloria En Las Alturas",
       "url": "https://open.spotify.com/track/1NJv6N1KYgXqEdigbltaQl"
@@ -1519,7 +1573,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Gloria En Las Alturas",
       "url": "https://open.spotify.com/track/3lNc3Z1Lei2yQ1NMzFARMi"
@@ -1577,7 +1631,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228866,
       "name": "Hoy Es Navidad",
       "url": "https://open.spotify.com/track/5GTAhTQ8vZUGVrdsDsIAjv"
@@ -1599,6 +1653,24 @@
       "duration_ms": 228866,
       "name": "Hoy Es Navidad",
       "url": "https://open.spotify.com/track/5bIR6Pu8jPNNZfCOg8hOpI"
+    },
+    {
+      "album": {
+        "name": "Hoy Ha Nacido el Salvador",
+        "url": "https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm"
+      },
+      "artists": [
+        {
+          "name": "Ivan Diaz",
+          "url": "https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329640,
+      "name": "Hoy Ha Nacido el Salvador",
+      "url": "https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH"
     },
     {
       "album": {
@@ -1643,7 +1715,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 328045,
       "name": "Hoy Puede Ser Navidad",
       "url": "https://open.spotify.com/track/1WTqYoiusgeMYeOeGz4xSi"
@@ -1683,6 +1755,32 @@
       "duration_ms": 228454,
       "name": "Jes\u00fas Naci\u00f3",
       "url": "https://open.spotify.com/track/4bGhYDGtVzHne6aabXsEWC"
+    },
+    {
+      "album": {
+        "name": "Villancicos de Navidad y Canciones de Navidad",
+        "url": "https://open.spotify.com/album/0ZlxVLjxem18Yk5WkiYswK"
+      },
+      "artists": [
+        {
+          "name": "R\u00edos de Vida",
+          "url": "https://open.spotify.com/artist/3IGeqLLvzpZyCpjWshL46h"
+        },
+        {
+          "name": "Villancicos de Navidad y Canciones de Navidad",
+          "url": "https://open.spotify.com/artist/2FHN0lFkoif5aZHW55PNKD"
+        },
+        {
+          "name": "Villancicos",
+          "url": "https://open.spotify.com/artist/49iliMsEPTb3WSr1ZjQPdq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400343,
+      "name": "Jes\u00fas Naci\u00f3",
+      "url": "https://open.spotify.com/track/1HKw8juIvBsEZfZ15YK1dG"
     },
     {
       "album": {
@@ -1795,7 +1893,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 242806,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/1aT75kNTZEWVez8EbVSM18"
@@ -1813,7 +1911,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246800,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/6u5Uau6qr8FIIPHKyWJ763"
@@ -1831,7 +1929,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190645,
       "name": "Lucecitas",
       "url": "https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh"
@@ -1849,7 +1947,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190645,
       "name": "Lucecitas",
       "url": "https://open.spotify.com/track/6WFoSWIYFSIdgFqeRPPAZg"
@@ -1871,7 +1969,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206606,
       "name": "Luces De Colores",
       "url": "https://open.spotify.com/track/0Ya6G4t0lUmq8XcpDTryGf"
@@ -1893,7 +1991,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208600,
       "name": "Luces De Colores",
       "url": "https://open.spotify.com/track/4mxI2rhPv3NiahgN0DGOxW"
@@ -1945,7 +2043,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214229,
       "name": "Luces de Colores - En Vivo",
       "url": "https://open.spotify.com/track/6Yn3gyLn43DDGY5VAuWY5J"
@@ -1999,7 +2097,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272327,
       "name": "Medley de Coritos",
       "url": "https://open.spotify.com/track/68XTSxhJjqYLNrn6vqol1e"
@@ -2035,7 +2133,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265640,
       "name": "Medley: Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad",
       "url": "https://open.spotify.com/track/5wXK9uS1x7FWSnXYACa23s"
@@ -2053,7 +2151,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 263640,
       "name": "Medley:Que Bueno Llego La Navidad/Que Bonito Es/De Cristo Es La Navidad",
       "url": "https://open.spotify.com/track/4Sc2oDapkEzWluxUuSZo7n"
@@ -2071,7 +2169,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 187204,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
@@ -2097,7 +2195,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177578,
       "name": "Mi Mejor Regalo",
       "url": "https://open.spotify.com/track/04KZnB9Gb8WCHF1AMaGzwj"
@@ -2123,7 +2221,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 177578,
       "name": "Mi Mejor Regalo",
       "url": "https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa"
@@ -2159,7 +2257,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 247330,
       "name": "Mi Salvador",
       "url": "https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ"
@@ -2177,7 +2275,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283742,
       "name": "Mi Trabajo Es Creer",
       "url": "https://open.spotify.com/track/3xTHbxcvbj7xLHOuTqDAdF"
@@ -2195,7 +2293,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 283742,
       "name": "Mi Trabajo Es Creer",
       "url": "https://open.spotify.com/track/5wg85JowhiX0RWRfYcmUGh"
@@ -2249,7 +2347,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313002,
       "name": "Naci\u00f3 El Perd\u00f3n",
       "url": "https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW"
@@ -2267,7 +2365,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313002,
       "name": "Naci\u00f3 El Perd\u00f3n",
       "url": "https://open.spotify.com/track/5NCrHgbPj4HbAwUhtVp1X5"
@@ -2285,7 +2383,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203440,
       "name": "Nadie Se Lo Imagin\u00f3",
       "url": "https://open.spotify.com/track/1hjpA2QecgiBKX8JB8I38V"
@@ -2339,7 +2437,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-11",
+      "date_removed": null,
       "duration_ms": 187665,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/25bGGqQUGbY6odUbPYtoZ7"
@@ -2357,7 +2455,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 228253,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
@@ -2393,7 +2491,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Navidad en Miami",
       "url": "https://open.spotify.com/track/1Ba9dnSKcLKyeHrnUIut90"
@@ -2415,7 +2513,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326611,
       "name": "Navidad es Jes\u00fas",
       "url": "https://open.spotify.com/track/6Bpreva8hza5SyW0Ob3kbl"
@@ -2441,7 +2539,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326611,
       "name": "Navidad Es Jes\u00fas - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/4uHZzqsTVrcs1Ob47Q5pr2"
@@ -2513,10 +2611,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328463,
       "name": "Ni\u00f1o de Bel\u00e9n",
       "url": "https://open.spotify.com/track/6SG8XoBgrR5Q9qEuIxTpbR"
+    },
+    {
+      "album": {
+        "name": "No Hay Navidades Como las de Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5W3M9XcDUp4eGLkkEK991d"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186272,
+      "name": "No Hay Navidades Como las de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6DMXASMDKkJ2AeJbhroH2r"
     },
     {
       "album": {
@@ -2531,7 +2647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301125,
       "name": "No Me Soltar\u00e1s",
       "url": "https://open.spotify.com/track/48lwAoNI4cQZ9YOizzTPL8"
@@ -2549,7 +2665,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301760,
       "name": "No Me Soltar\u00e1s",
       "url": "https://open.spotify.com/track/27gBMppFLRjY0B0xmAYyIY"
@@ -2603,7 +2719,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186375,
       "name": "Noche de paz",
       "url": "https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0"
@@ -2643,7 +2759,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 186613,
       "name": "Noche De Paz (feat. Betsy)",
       "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
@@ -2661,7 +2777,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 185546,
       "name": "Oh Pueblecito De Belen",
       "url": "https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J"
@@ -2697,7 +2813,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254891,
       "name": "Oh ven, Emanuel",
       "url": "https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC"
@@ -2762,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Navidad en Casa Vol. 2",
+        "url": "https://open.spotify.com/album/0ok1Vx2si7w2oqZCXFEHZG"
+      },
+      "artists": [
+        {
+          "name": "Juan Santoy",
+          "url": "https://open.spotify.com/artist/0FKVUSUlnABFRlNkIEELOO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223376,
+      "name": "Pa\u2019 Regalarme Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/14WUmiYvMXlMIakfhjMUlA"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Cristiana Juvenil",
         "url": "https://open.spotify.com/album/45wgdYyohZ9DpOLCsjFlDh"
       },
@@ -2791,7 +2925,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310200,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/5cS1TaKqN5z5brcTnG2Ory"
@@ -2809,7 +2943,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
@@ -2885,7 +3019,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 380316,
       "name": "Precioso Jes\u00fas",
       "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
@@ -2903,7 +3037,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 380316,
       "name": "Precioso Jes\u00fas",
       "url": "https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2"
@@ -3027,7 +3161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/1VSIMVn192zKDOoRKFYIan"
@@ -3052,6 +3186,24 @@
     },
     {
       "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "Santa la Noche",
+      "url": "https://open.spotify.com/track/3dCHDETB0ddcWtRDMRqiM7"
+    },
+    {
+      "album": {
         "name": "Santa la noche",
         "url": "https://open.spotify.com/album/6EN18F6GNtsquD1rjzAeSK"
       },
@@ -3063,7 +3215,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-01",
+      "date_removed": null,
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/1XL17qoSvIflYQ45uU2Xjc"
@@ -3081,7 +3233,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1"
@@ -3117,7 +3269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258390,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/0UVctJP9Ts6HwuW5jtYqao"
@@ -3139,6 +3291,24 @@
       "duration_ms": 222375,
       "name": "Se Oye el Anuncio",
       "url": "https://open.spotify.com/track/29594ifiUuBPTaifiqgOLO"
+    },
+    {
+      "album": {
+        "name": "Navidad: El Proyecto de Paz",
+        "url": "https://open.spotify.com/album/1cKq1KpQfMR5T9dn3SNhkG"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Se Oye Un Canto En Alta Esfera",
+      "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
     },
     {
       "album": {
@@ -3189,7 +3359,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221493,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/2g5V0AzN97VdlSEjavoru4"
@@ -3295,7 +3465,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217040,
       "name": "Un Cuento De Navidad",
       "url": "https://open.spotify.com/track/5xbCClguvpKvtwp03NIIsh"
@@ -3363,7 +3533,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230552,
       "name": "Un Cuento de Navidad - En Vivo",
       "url": "https://open.spotify.com/track/4Fxwa5lintvgv0OgGhLOre"
@@ -3417,7 +3587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294220,
       "name": "Ven A Mi Coraz\u00f3n Oh Cristo (Soundtrack) - Remasterizado",
       "url": "https://open.spotify.com/track/33Hs4PhuhfNUYlxlJxOztt"
@@ -3479,10 +3649,32 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99632,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/2iOTC85KkWjQG6HwEr7fCh"
+    },
+    {
+      "album": {
+        "name": "Venid Adoremos",
+        "url": "https://open.spotify.com/album/6objfRsdAqrz25bbaiDnhF"
+      },
+      "artists": [
+        {
+          "name": "In Christ Kids",
+          "url": "https://open.spotify.com/artist/2gb7Y0cqEcAofKviKJWHtp"
+        },
+        {
+          "name": "In Christ",
+          "url": "https://open.spotify.com/artist/4Az4DwZLXVPAJS9ABa83b7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99632,
+      "name": "Venid Adoremos",
+      "url": "https://open.spotify.com/track/6ySZuXcrBuqtaDOTZmt5lB"
     },
     {
       "album": {
@@ -3601,7 +3793,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227671,
       "name": "Venid y Adoremos",
       "url": "https://open.spotify.com/track/1lKX9IpaC0ntowPrpX8Nk0"
@@ -3655,7 +3847,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236146,
       "name": "Venid y Adoremos",
       "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
@@ -3691,7 +3883,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159609,
       "name": "Venid, fieles todos",
       "url": "https://open.spotify.com/track/40kSjDYwLZgeh4r4myUj0X"
@@ -3709,7 +3901,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252376,
       "name": "Vives t\u00fa y vivo yo",
       "url": "https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c"
@@ -3727,7 +3919,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252376,
       "name": "Vives t\u00fa y vivo yo",
       "url": "https://open.spotify.com/track/6uxOAF2PW2Smg8g6wooYR5"
@@ -3821,7 +4013,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 240641,
       "name": "Ya naci\u00f3",
       "url": "https://open.spotify.com/track/3vhw8P4IYNfTV8zVpGSyvm"
@@ -3875,7 +4067,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238640,
       "name": "\u00bfQu\u00e9 Dir\u00edas?",
       "url": "https://open.spotify.com/track/76aOlMuddV95fkblGbs6nv"

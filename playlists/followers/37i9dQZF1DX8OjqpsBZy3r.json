@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6345,
+  "2024-04-20": 6348,
   "date_first_scraped": "2022-01-02",
   "description": "The trending country songs and viral hits you need to know. Cover: Hailey Whitters",
   "name": "Viral Country",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 176371,
       "name": "Ain't Missin' You",
       "url": "https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176371,
       "name": "Ain't Missin' You",
       "url": "https://open.spotify.com/track/7tthSTXf5hvLdzW8fb2Kzy"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180628,
       "name": "Call Your Sister",
       "url": "https://open.spotify.com/track/4ZhULfF8Sto8LKYUgx1yU3"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180628,
       "name": "Call Your Sister",
       "url": "https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/2LgmOV0Stq52Y25zJBhnd9"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 155206,
       "name": "Carrying Your Love",
       "url": "https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 201350,
       "name": "Dicked Down in Dallas",
       "url": "https://open.spotify.com/track/1yhft6ZqYadd4GOrKrmK3a"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201350,
       "name": "Dicked Down in Dallas",
       "url": "https://open.spotify.com/track/3R0l4ivVzkajiNAYH07ZKl"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194666,
       "name": "Dirty Looks",
       "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Dirty Looks",
       "url": "https://open.spotify.com/track/612qCFbMeFIeDupbFY38Ve"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/0uWopULW6vBRuPoi7EjKMR"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143787,
       "name": "Dutton Ranch Freestyle",
       "url": "https://open.spotify.com/track/13F5i1GqcozCFrZX9CpWi3"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/25jS5o9ZalzGgOvHUSRi7Y"
@@ -1179,6 +1179,24 @@
     {
       "album": {
         "name": "Hell's Comin' with Me",
+        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212996,
+      "name": "Hell's Comin' with Me",
+      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
+    },
+    {
+      "album": {
+        "name": "Hell's Comin' with Me",
         "url": "https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI"
       },
       "artists": [
@@ -1189,28 +1207,10 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT"
-    },
-    {
-      "album": {
-        "name": "Hell's Comin' with Me",
-        "url": "https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg"
-      },
-      "artists": [
-        {
-          "name": "Poor Mans Poison",
-          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
-        }
-      ],
-      "date_added": "2022-06-14",
-      "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
-      "duration_ms": 212996,
-      "name": "Hell's Comin' with Me",
-      "url": "https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO"
     },
     {
       "album": {
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 228653,
       "name": "International Harvester",
       "url": "https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228653,
       "name": "International Harvester",
       "url": "https://open.spotify.com/track/43Z2NVNkX2TuDymLQ89pI2"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 171537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/5xl3kGoK3namYGZX46Vt0S"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255921,
       "name": "Liquor & Pills",
       "url": "https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255921,
       "name": "Liquor & Pills",
       "url": "https://open.spotify.com/track/3aFLplWuvf4IqbtE9KcgKf"
@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195459,
       "name": "Made",
       "url": "https://open.spotify.com/track/2S9s6QYCdmSmXQDKpCtK6I"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 195459,
       "name": "Made",
       "url": "https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
@@ -1729,7 +1729,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN"
@@ -1783,7 +1783,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203381,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/63QiiGGFUbVJMIG9Pw7Dna"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "My Person",
       "url": "https://open.spotify.com/track/1MOOJuxUu9QiQE9GgkYYPb"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177000,
       "name": "My Person",
       "url": "https://open.spotify.com/track/3RJsMHcQkcAG4tFC6ceawk"
@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB"
@@ -1927,7 +1927,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179189,
       "name": "Never Been in Love",
       "url": "https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30"
@@ -1963,7 +1963,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/2wHsq6qPFshjGPNiGjQv0D"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194270,
       "name": "Never Comin' Home",
       "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161632,
       "name": "Not Supposed To Know Each Other",
       "url": "https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161632,
       "name": "Not Supposed To Know Each Other",
       "url": "https://open.spotify.com/track/5B5ToRmXjXYXdShfi8Yx0s"
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155425,
       "name": "on God.",
       "url": "https://open.spotify.com/track/0Q11qvNGDVX0GInBQO9Fdy"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155425,
       "name": "on God.",
       "url": "https://open.spotify.com/track/286IkzujSOdZYf5xaZ1LVp"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223344,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7Ic12BgSrOcE8TNiyBMDV7"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 223351,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh"
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186458,
       "name": "Ride the Lightning (717 Tapes)",
       "url": "https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU"
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186458,
       "name": "Ride the Lightning - 717 Tapes",
       "url": "https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
@@ -2381,7 +2381,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 207540,
       "name": "Rock and A Hard Place",
       "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175699,
       "name": "Salt, Lime & Tequila",
       "url": "https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf"
@@ -2435,7 +2435,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175900,
       "name": "Salt, Lime & Tequila",
       "url": "https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8"
@@ -2637,7 +2637,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
@@ -2655,7 +2655,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7KgpoK5WCefGCvjMl635Nh"
@@ -2709,7 +2709,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
@@ -2727,7 +2727,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
@@ -2781,7 +2781,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182742,
       "name": "Tell Your Mom",
       "url": "https://open.spotify.com/track/6hZ7an4nKAiqBkgM5fSCAa"
@@ -2799,7 +2799,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182742,
       "name": "Tell Your Mom",
       "url": "https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU"
@@ -2817,7 +2817,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"
@@ -2907,7 +2907,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm"
@@ -2925,7 +2925,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 200593,
       "name": "The Git Up",
       "url": "https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh"
@@ -3037,7 +3037,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
@@ -3055,7 +3055,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/7s9bJQK8sr8yDyOAHn8miR"
@@ -3113,7 +3113,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3"
@@ -3131,7 +3131,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8"
@@ -3239,7 +3239,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190740,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/3S8GtlosdFNEjcNlkTHmr7"
@@ -3257,7 +3257,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 190740,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/6y6lk4rc1xsuBYWJwB8QYv"
@@ -3347,10 +3347,28 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
     },
     {
       "album": {
@@ -3383,7 +3401,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211893,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/38puMH41SYytv1i38GWEM0"

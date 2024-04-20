@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 205689,
+  "2024-04-20": 205671,
   "date_first_scraped": "2023-12-19",
-  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
   "name": "This Is Julieta Venegas",
   "tracks": [
     {
@@ -283,7 +283,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 158946,
       "name": "Debajo de Mi Lengua",
       "url": "https://open.spotify.com/track/6Pwr82B3aqLM850IH1oc1z"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183520,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/369rWMvwPJ1qm5GQ0ilNp2"

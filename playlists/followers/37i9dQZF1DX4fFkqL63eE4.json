@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1411,
+  "2024-04-20": 1413,
   "date_first_scraped": "2023-11-23",
   "description": "Baseball star Fernando Tatis Jr. takes over Fuego! Featuring Eladio Carrion, Rochy RD, Feid & more. Find this week's Fuego mixtape  <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #076 - Fernando Tatis Jr.'s Mixtape",
@@ -46,6 +46,28 @@
     },
     {
       "album": {
+        "name": "DUMMY BOY",
+        "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217822,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/3eqOaTqnyb0GEgv6JInG6W"
+    },
+    {
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -61,7 +83,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217822,
       "name": "BEBE (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/4jCodMLVA5tV5MhPrspTfV"

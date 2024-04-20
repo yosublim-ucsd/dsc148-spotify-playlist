@@ -5569,6 +5569,24 @@
     },
     {
       "album": {
+        "name": "Gold and Fire",
+        "url": "https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO"
+      },
+      "artists": [
+        {
+          "name": "Mide Fash",
+          "url": "https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Gold and Fire",
+      "url": "https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp"
+    },
+    {
+      "album": {
         "name": "Gone Back",
         "url": "https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo"
       },

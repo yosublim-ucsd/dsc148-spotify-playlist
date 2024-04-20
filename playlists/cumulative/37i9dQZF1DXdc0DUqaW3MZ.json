@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138304,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1"
+    },
+    {
+      "album": {
         "name": "Real",
         "url": "https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT"
       },
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 242637,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"

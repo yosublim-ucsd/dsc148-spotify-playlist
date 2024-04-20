@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 310292,
+  "num_followers": 310575,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Diamonds On My Mind",
-        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
         }
       ],
-      "duration_ms": 168529,
-      "name": "Diamonds On My Mind",
-      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+      "duration_ms": 181333,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -135,26 +143,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
+        "name": "Diamonds On My Mind",
+        "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
         }
       ],
-      "duration_ms": 181333,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+      "duration_ms": 168529,
+      "name": "Diamonds On My Mind",
+      "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -195,30 +195,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "When I Push (Edit)",
-        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 213582,
-      "name": "When I Push - Edit",
-      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A"
       },
@@ -251,6 +227,30 @@
       "duration_ms": 409000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "When I Push (Edit)",
+        "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 213582,
+      "name": "When I Push - Edit",
+      "url": "https://open.spotify.com/track/5poZz8srlh8P5XjKsHKXj7"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -611,8 +611,8 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Twisted",
-        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
       "artists": [
         {
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -711,8 +711,8 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
       "artists": [
         {
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+      "duration_ms": 184888,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -891,22 +891,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Alle meine Raver",
-        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F"
       },
       "artists": [
         {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+          "name": "Nusha",
+          "url": "https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q"
         },
         {
-          "name": "Ben Dust",
-          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
         }
       ],
-      "duration_ms": 314666,
-      "name": "Alle meine Raver",
-      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
+      "duration_ms": 390447,
+      "name": "Addiction - Original Mix",
+      "url": "https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI"
     }
   ],
   "unique_name": "Techno Workout",

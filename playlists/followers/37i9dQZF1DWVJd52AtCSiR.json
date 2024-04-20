@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 337226,
+  "2024-04-20": 337259,
   "date_first_scraped": "2021-12-28",
   "description": "Discover the classical side of your favourite Disney soundtracks.",
   "name": "Disney Classical",
@@ -212,6 +212,32 @@
     },
     {
       "album": {
+        "name": "The Disney Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/54Hs4q30gaGKCznUPPRI0I"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249342,
+      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
+      "url": "https://open.spotify.com/track/1kb2eVg63lTZrjxZGyfQAe"
+    },
+    {
+      "album": {
         "name": "The Disney Book",
         "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
       },
@@ -231,7 +257,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249342,
       "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
@@ -485,7 +511,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74880,
       "name": "Coronation Day - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/1nm4vrhyOvwJX5MJRlLAps"
@@ -521,7 +547,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 74880,
       "name": "Coronation Day - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/5aZR1xKXqOw72KQ8kW6rw1"
@@ -557,7 +583,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143373,
       "name": "Define Dancing",
       "url": "https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj"
@@ -575,7 +601,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143373,
       "name": "Define Dancing",
       "url": "https://open.spotify.com/track/5zeaIcBVA0Ta8JVp1S5zDM"
@@ -633,7 +659,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 288519,
       "name": "Dos Oruguitas - de \"Encanto\" (Feat. Sebasti\u00e1n Yatra)",
       "url": "https://open.spotify.com/track/0aL8KKimOD4FxGlAaDwbz2"
@@ -677,7 +703,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288519,
       "name": "Dos Oruguitas - From \"Encanto\" (Feat. Sebasti\u00e1n Yatra)",
       "url": "https://open.spotify.com/track/1WP1kqcMfydoTyEIzVZlWG"
@@ -767,7 +793,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Epilogue - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/0EUodO4zn5fiWhADyOxiC9"
@@ -785,7 +811,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186200,
       "name": "Epilogue - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/3awivj0Q2xo4YNZeUaFUpB"
@@ -821,7 +847,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287973,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/0O81GMQ8IBB1ZDjVHyNYQp"
@@ -839,7 +865,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288200,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW"
@@ -929,7 +955,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 79133,
       "name": "Finding Nemo",
       "url": "https://open.spotify.com/track/2JpsSmsRTBeE2v4D55HVCT"
@@ -947,7 +973,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 79200,
       "name": "Finding Nemo",
       "url": "https://open.spotify.com/track/4MrXuZ2T6CMD0V5VURGBwx"
@@ -1019,7 +1045,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 87293,
       "name": "Grandmother Willow",
       "url": "https://open.spotify.com/track/5IIa9sbsg29OcGXRhdAph0"
@@ -1037,7 +1063,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87520,
       "name": "Grandmother Willow",
       "url": "https://open.spotify.com/track/0YlqJkfuox9LpJ5uW3NPM8"
@@ -1117,7 +1143,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 85600,
       "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/0BVJL3uKlVSjTF6dclucdt"
@@ -1135,7 +1161,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85600,
       "name": "Heimr \u00c0rnadalr - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/38J7vmkCIvTtnP6Zd5bnuU"
@@ -1337,7 +1363,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167183,
       "name": "Magical House Cleaning / Blue or Pink",
       "url": "https://open.spotify.com/track/2GjXiKa4X7OBTpHjzO5nzc"
@@ -1373,7 +1399,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167746,
       "name": "Magical House Cleaning / Blue or Pink - From \"Sleeping Beauty\"/Score",
       "url": "https://open.spotify.com/track/6Md96tT6iCTnFuiQGe7hHO"
@@ -1467,7 +1493,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 74493,
       "name": "Meg's Garden",
       "url": "https://open.spotify.com/track/1OkdPo7U61GS697VFzmXTI"
@@ -1511,7 +1537,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74493,
       "name": "Meg's Garden",
       "url": "https://open.spotify.com/track/3CZ6dewgB5uzSfIgj05xe8"
@@ -1707,7 +1733,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149480,
       "name": "Prologue: Beauty and the Beast",
       "url": "https://open.spotify.com/track/3SUTburdrAafJMHbCHxl9q"
@@ -1729,7 +1755,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149480,
       "name": "Prologue: Beauty and the Beast",
       "url": "https://open.spotify.com/track/4xrravITYOGqfLkAg7re5K"
@@ -1987,7 +2013,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P"
@@ -2023,7 +2049,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
       "url": "https://open.spotify.com/track/6aDmy1Tf35ee4rr6VTRbV1"
@@ -2059,7 +2085,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184133,
       "name": "The Bell Tower",
       "url": "https://open.spotify.com/track/5xlq7bxuhPDUEI5GQFS4zQ"
@@ -2077,7 +2103,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185160,
       "name": "The Bell Tower",
       "url": "https://open.spotify.com/track/1Dc6Mb9u2az5sQOvqfOqX7"
@@ -2095,7 +2121,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 67133,
       "name": "The Big Olive",
       "url": "https://open.spotify.com/track/0tll8bK3dI5vXQSdIf1v8y"
@@ -2117,7 +2143,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 67133,
       "name": "The Big Olive",
       "url": "https://open.spotify.com/track/7sdUj7OKzvHH9OsYRIXDXn"
@@ -2305,7 +2331,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198000,
       "name": "This Is Gonna Be Good",
       "url": "https://open.spotify.com/track/2z8kyR7LJc6F157UCv6zb9"
@@ -2323,7 +2349,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200053,
       "name": "This Is Gonna Be Good",
       "url": "https://open.spotify.com/track/4aLwn0jWTr8TKhzypCToNF"
@@ -2367,7 +2393,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 349960,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/1nkgAW12p2f0rCC5GkmmHO"
@@ -2389,7 +2415,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349960,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3CrxJkMU9wINmIM4Dl9CEP"
@@ -2407,7 +2433,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3twDjDttBE9tkFJclBlVp7"
@@ -2447,7 +2473,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148933,
       "name": "Transformation - From \"Brother Bear\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3oEllCjRbaRJrZKtZVLsDJ"
@@ -2491,7 +2517,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224520,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/7Lnd4du5ZNl0K82p5QFi5H"
@@ -2513,7 +2539,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225266,
       "name": "Under the Stars",
       "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
@@ -2565,7 +2591,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 95986,
       "name": "Vuelie - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/0qnj9ufJJM6Xk4xuoyvHZp"
@@ -2591,7 +2617,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 95986,
       "name": "Vuelie - From \"Frozen\"/Score",
       "url": "https://open.spotify.com/track/7tHKjzBYfMZvprnfyHcOK0"

@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Grandioso \u00c9s Tu",
+        "url": "https://open.spotify.com/album/41ki8G4JJZXRcjEBu12XM3"
+      },
+      "artists": [
+        {
+          "name": "Padre Jairo Silva",
+          "url": "https://open.spotify.com/artist/4eo5bx5qx5h1RyVuQiBEQr"
+        },
+        {
+          "name": "Padre Ant\u00f4nio Maria",
+          "url": "https://open.spotify.com/artist/5fffowYi9eGg1NsC89N4D1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346073,
+      "name": "Grandioso \u00c9s Tu",
+      "url": "https://open.spotify.com/track/5LkIMhyTEFyxpmfgWM2Qsf"
+    },
+    {
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G"
       },
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 225152,
       "name": "Maria, M\u00e3e e Rainha",
       "url": "https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX"

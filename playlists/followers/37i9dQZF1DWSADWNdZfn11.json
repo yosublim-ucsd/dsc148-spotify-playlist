@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 134498,
+  "2024-04-20": 134570,
   "date_first_scraped": "2022-08-09",
   "description": "Relax and unwind with gentle piano covers.",
   "name": "Relaxing Piano Covers ",
@@ -633,7 +633,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Bad Habits - Piano",
       "url": "https://open.spotify.com/track/10TorwCh3S92S6AvYCRhlj"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Bad Habits - Piano",
       "url": "https://open.spotify.com/track/377j3AdjXdy6LAqyyEfjGb"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158694,
       "name": "Golden Hour - Piano",
       "url": "https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO"
@@ -2207,10 +2207,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 158694,
       "name": "Golden Hour - Piano",
       "url": "https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7"
+    },
+    {
+      "album": {
+        "name": "good 4 u",
+        "url": "https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6"
+      },
+      "artists": [
+        {
+          "name": "Bea Westphal",
+          "url": "https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz"
     },
     {
       "album": {
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201600,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs"
@@ -3719,7 +3737,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Lift Me Up - Piano Version",
       "url": "https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL"
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148000,
       "name": "Lift Me Up - Piano Version",
       "url": "https://open.spotify.com/track/3x8MGNhdm5VUVQD7ynpf8F"
@@ -4061,7 +4079,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 176982,
       "name": "Middle of the Night - Piano",
       "url": "https://open.spotify.com/track/2K97GriUyHINnzuDsmTfkP"
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176982,
       "name": "Middle of the Night - Piano",
       "url": "https://open.spotify.com/track/7F3DCWB2PsadGC0iE1btUU"
@@ -5685,7 +5703,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Sunroof - Piano",
       "url": "https://open.spotify.com/track/2hNUsP1vEQ5E5qx5QefQ71"
@@ -5703,7 +5721,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152000,
       "name": "Sunroof - Piano",
       "url": "https://open.spotify.com/track/7FtESnSNTkKTJWxdCrp53D"
@@ -6989,7 +7007,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Without You - Piano",
       "url": "https://open.spotify.com/track/6uec8Q21Q85N9lj0fDLiYA"
@@ -7007,7 +7025,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142000,
       "name": "Without You - Piano",
       "url": "https://open.spotify.com/track/6uhQBsYdVTJGTCYYnAwpTt"

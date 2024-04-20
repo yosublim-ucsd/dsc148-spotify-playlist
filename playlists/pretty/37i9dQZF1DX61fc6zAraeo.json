@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98404,
+  "num_followers": 98387,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "24k Heart Of Gold",
         "url": "https://open.spotify.com/album/0632qm5oTzinzWBDiS4O3n"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 136642,
       "name": "24k Heart Of Gold",
       "url": "https://open.spotify.com/track/5knJFCWGryxZkFyYtUSCzH"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Midnight Lover",
         "url": "https://open.spotify.com/album/2idGqa3Qj3PMa1thq4lYZQ"
       },
@@ -375,22 +359,18 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Lost My Mind (Wake Up)",
-        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
         }
       ],
-      "duration_ms": 147673,
-      "name": "Lost My Mind (Wake Up)",
-      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -411,6 +391,26 @@
       "duration_ms": 147000,
       "name": "Talk To My Body",
       "url": "https://open.spotify.com/track/1PwN9ebjpov7iwTLHSov7V"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Lost My Mind (Wake Up)",
+        "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 147673,
+      "name": "Lost My Mind (Wake Up)",
+      "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Misbehave",
         "url": "https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 174220,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Could It Be Love",
-        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
       },
       "artists": [
         {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
         }
       ],
-      "duration_ms": 141714,
-      "name": "Could It Be Love",
-      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Could It Be Love",
+        "url": "https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Could It Be Love",
+      "url": "https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/3GaRGIbg3kk7GnvpJRxsFS"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 188809,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Guiding Light",
-        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/5MkfidCcFwwTDaZ0qVqsf8"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 199107,
       "name": "Out Of The Dark",
       "url": "https://open.spotify.com/track/7hdSpU6G5jyA7lmBVqHMwr"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/58sgLN9OAebaaf0J1ntW8E"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 163155,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/4Arnh7J9U6YzysVBUNZcR0"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
       },
       "artists": [
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "Mahalo",
+          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
         },
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Guillaume Gordon",
+          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
         }
       ],
-      "duration_ms": 153024,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
+      "duration_ms": 162712,
+      "name": "Got a Friend",
+      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/2rfaWwbzTb380DNEpLWQRy"
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY"
       },
       "artists": [
         {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         },
         {
-          "name": "Guillaume Gordon",
-          "url": "https://open.spotify.com/artist/3TfKErb0eKYPcZbuA32oPj"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 162712,
-      "name": "Got a Friend",
-      "url": "https://open.spotify.com/track/0fdpoQFH8s3viiqy42p1f5"
+      "duration_ms": 153024,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Ripped",
+        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
+      },
+      "artists": [
+        {
+          "name": "BODYWORX",
+          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Ripped",
+      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "No Air",
         "url": "https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 182769,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Don\u2019t Lead Anywhere",
-        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
-      },
-      "artists": [
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 127413,
-      "name": "Don\u2019t Lead Anywhere",
-      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Ripped",
-        "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
+        "name": "Don\u2019t Lead Anywhere",
+        "url": "https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9"
       },
       "artists": [
         {
-          "name": "BODYWORX",
-          "url": "https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM"
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
         }
       ],
-      "duration_ms": 184761,
-      "name": "Ripped",
-      "url": "https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK"
+      "duration_ms": 127413,
+      "name": "Don\u2019t Lead Anywhere",
+      "url": "https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
+      },
+      "artists": [
+        {
+          "name": "Gaudini",
+          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
+        },
+        {
+          "name": "KVKI",
+          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/0CQfmsk7BSYwG9OvBN2eaA"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 178800,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0LbJ4vV5xlLp6asZJDtqqH"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "A Little Bit More",
-        "url": "https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo"
-      },
-      "artists": [
-        {
-          "name": "Gaudini",
-          "url": "https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX"
-        },
-        {
-          "name": "KVKI",
-          "url": "https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms"
-        }
-      ],
-      "duration_ms": 145161,
-      "name": "A Little Bit More",
-      "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
     },
     {
       "added_at": "2024-04-18 11:31:03",

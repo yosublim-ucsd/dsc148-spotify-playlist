@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 617245,
+  "2024-04-20": 617265,
   "date_first_scraped": "2021-12-21",
   "description": "Tech house technicians, featuring John Summit. 50% techno, 50% house",
   "name": "Tech House Operator",
@@ -443,6 +443,28 @@
       "duration_ms": 153690,
       "name": "Acid (All Night Long)",
       "url": "https://open.spotify.com/track/1s7j77CrfpOhXf5V3P9gp7"
+    },
+    {
+      "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
     },
     {
       "album": {
@@ -933,7 +955,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150937,
       "name": "All Day, All Night",
       "url": "https://open.spotify.com/track/4PSq1vPPpzEpVfwLCadN9j"
@@ -3929,7 +3951,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
@@ -3951,7 +3973,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -5522,6 +5544,24 @@
     },
     {
       "album": {
+        "name": "Coquetilla",
+        "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129957,
+      "name": "Coquetilla",
+      "url": "https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn"
+    },
+    {
+      "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/5GJEHZyJuZaAIAoLQscX99"
       },
@@ -5911,7 +5951,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196875,
       "name": "Dale",
       "url": "https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo"
@@ -5959,6 +5999,32 @@
       "duration_ms": 202877,
       "name": "Dance All Night (feat. Sara Sukkha)",
       "url": "https://open.spotify.com/track/4zGKAfTBKPFEbuiRJkcod9"
+    },
+    {
+      "album": {
+        "name": "Dance Away",
+        "url": "https://open.spotify.com/album/0bWyA01Gr0qMOc9IAgi19Z"
+      },
+      "artists": [
+        {
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+        },
+        {
+          "name": "Raphi",
+          "url": "https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Dance Away",
+      "url": "https://open.spotify.com/track/5PwhoZfQJR7uZeL1EAO65q"
     },
     {
       "album": {
@@ -7009,7 +7075,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210967,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/0JvzedR9RXOOMcNEAYjWZP"
@@ -10101,7 +10167,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
@@ -10799,7 +10865,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155076,
       "name": "Give You",
       "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
@@ -12807,7 +12873,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177160,
       "name": "I Got 5 On It",
       "url": "https://open.spotify.com/track/1Jbpfpf8ao084qOrbBbE1J"
@@ -13609,6 +13675,46 @@
       "duration_ms": 193809,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/1LX0J6oKsraPm6kWwRObzR"
+    },
+    {
+      "album": {
+        "name": "In The Music",
+        "url": "https://open.spotify.com/album/2OW4GlXl9B0NcmCoSx8rZa"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "In The Music",
+      "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
+    },
+    {
+      "album": {
+        "name": "In The Streets",
+        "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129843,
+      "name": "In The Streets",
+      "url": "https://open.spotify.com/track/7iACUyBFiz6Opfy0hZKIH5"
     },
     {
       "album": {
@@ -15351,7 +15457,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202440,
       "name": "Let's Get Jack",
       "url": "https://open.spotify.com/track/1yB2wsHFZfeMHoD5GclFAq"
@@ -18323,7 +18429,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/63eRXDiU4N4RsJ9vN2vgIx"
@@ -21661,7 +21767,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
@@ -22683,6 +22789,32 @@
       "duration_ms": 186365,
       "name": "Records U Play",
       "url": "https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh"
+    },
+    {
+      "album": {
+        "name": "Release Me (CID Remix)",
+        "url": "https://open.spotify.com/album/2YZfuumyamhue8qP9CL7IW"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Release Me - CID Remix",
+      "url": "https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6"
     },
     {
       "album": {
@@ -24374,6 +24506,28 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        },
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/79hpiOdyCGHTJmkourQNYN"
+    },
+    {
+      "album": {
         "name": "Shake N Drop",
         "url": "https://open.spotify.com/album/639uEs2Qa0D7wvbciZWmSj"
       },
@@ -25169,7 +25323,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180952,
       "name": "Snare Thing",
       "url": "https://open.spotify.com/track/6uIY9dQQQQmuxZheorszyW"
@@ -25999,7 +26153,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132187,
       "name": "Stoppin",
       "url": "https://open.spotify.com/track/0t8npNizgWoIJaSPEwayoy"
@@ -26695,6 +26849,28 @@
       "duration_ms": 174960,
       "name": "Taka Doom",
       "url": "https://open.spotify.com/track/5Ukd9BLEG6Ae9hedwZY0PX"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/0hsDFkEFaI2UK6R0iatreB"
+      },
+      "artists": [
+        {
+          "name": "Jake Shore",
+          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169783,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
     },
     {
       "album": {
@@ -28223,6 +28399,28 @@
       "duration_ms": 202500,
       "name": "The Treble",
       "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/527W5Y119gWLehXWUhpKWo"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Jake Tarry",
+          "url": "https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124724,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/0jOwACbG0qQ7RsTf6LMic4"
     },
     {
       "album": {
@@ -30901,7 +31099,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215091,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
@@ -31327,7 +31525,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169875,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj"

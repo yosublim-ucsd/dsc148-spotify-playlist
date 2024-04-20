@@ -225,6 +225,32 @@
     },
     {
       "album": {
+        "name": "762",
+        "url": "https://open.spotify.com/album/4wj9nyzdc2lkeJb1RNIMs9"
+      },
+      "artists": [
+        {
+          "name": "Ryan.4l",
+          "url": "https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        },
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147519,
+      "name": "762",
+      "url": "https://open.spotify.com/track/0JM6FI0rlkhIUIctTgpsAy"
+    },
+    {
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },

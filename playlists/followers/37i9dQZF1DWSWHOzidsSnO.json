@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 54183,
+  "2024-04-20": 54187,
   "date_first_scraped": "2022-01-21",
   "description": "\u00a1Mujeres de los Andes, a todo volumen! Con una selecci\u00f3n especial de Joaquina.",
   "name": "EQUAL Andes",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/0Xrzd6jUgpqfyjWjMBwZ7Q"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Curarte",
       "url": "https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4"
@@ -3517,7 +3517,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI"
@@ -3535,7 +3535,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
@@ -4481,7 +4481,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222300,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP"
@@ -4499,7 +4499,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223133,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD"
@@ -4615,6 +4615,24 @@
     {
       "album": {
         "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269231,
+      "name": "Se\u00f1or Mentira",
+      "url": "https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE"
+    },
+    {
+      "album": {
+        "name": "Esa Soy Yo",
         "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
       },
       "artists": [
@@ -4625,7 +4643,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269231,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
@@ -4687,7 +4705,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 207375,
       "name": "Si Quieres Tenerme",
       "url": "https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z"
@@ -4705,7 +4723,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207375,
       "name": "Si Quieres Tenerme",
       "url": "https://open.spotify.com/track/5caEzP9gGdBdZ0cubtw3Sk"
@@ -5205,7 +5223,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 154276,
       "name": "T\u00c9",
       "url": "https://open.spotify.com/track/3qXG5PejI9Z8ZFdfjrtZOQ"
@@ -5223,7 +5241,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154276,
       "name": "T\u00c9",
       "url": "https://open.spotify.com/track/4HfR5xGm0NWW4UnJCPivNq"

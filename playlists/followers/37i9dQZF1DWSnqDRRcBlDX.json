@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 132383,
+  "2024-04-20": 132432,
   "date_first_scraped": "2023-01-15",
   "description": "<a href=\"spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf\">Amelie Lens</a>' favorite tracks. Updated regularly. Curated by Amelie Lens. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Amelie Lens' track IDs",
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 435000,
       "name": "Kollera",
       "url": "https://open.spotify.com/track/0ZrXNuryJ6FYjww6jU6RUm"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435000,
       "name": "Kollera",
       "url": "https://open.spotify.com/track/5TbAMnzA5rN0Tzxd6qCenj"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 180821,
       "name": "Konje",
       "url": "https://open.spotify.com/track/0NcJtoYG0F9OuJwvcN0URG"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180821,
       "name": "Konje",
       "url": "https://open.spotify.com/track/6k1S6jARx5BYb0uAH7Fn6m"
@@ -2831,6 +2831,24 @@
     {
       "album": {
         "name": "SO\u00d1AR",
+        "url": "https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w"
+      },
+      "artists": [
+        {
+          "name": "EARGASM GOD",
+          "url": "https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337671,
+      "name": "SO\u00d1AR",
+      "url": "https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN"
+    },
+    {
+      "album": {
+        "name": "SO\u00d1AR",
         "url": "https://open.spotify.com/album/7c2mVUfEPlbId3x4xAuydg"
       },
       "artists": [
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337671,
       "name": "SO\u00d1AR",
       "url": "https://open.spotify.com/track/50nexV89Lzk96Nw2WYCpXj"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 326500,
       "name": "TRANCENDER",
       "url": "https://open.spotify.com/track/0GFFzdCEiAYeMcArunq4zn"
@@ -3195,7 +3213,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326500,
       "name": "TRANCENDER",
       "url": "https://open.spotify.com/track/2XfWQYWoucp9NWscTuQ9UK"

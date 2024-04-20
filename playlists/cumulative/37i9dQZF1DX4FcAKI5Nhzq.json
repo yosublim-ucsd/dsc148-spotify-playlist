@@ -17553,6 +17553,32 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Ugly - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
+    },
+    {
+      "album": {
         "name": "CITY OF ONF",
         "url": "https://open.spotify.com/album/63O0HEANLojQMAIM4czm3P"
       },

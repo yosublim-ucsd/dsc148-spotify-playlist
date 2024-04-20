@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Elaine\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,425 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 64 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 65 | [Can't Find Me](https://open.spotify.com/track/1q6WBM2eCetMnrz6LMMM16) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Can't Find Me](https://open.spotify.com/album/1bZO1PXSiQmIPwcaJWQAqJ) | 2:30 |
 | 66 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 |
-| 67 | [In My Head \- Journal Sarahaeyo OST](https://open.spotify.com/track/3g71szrAvU2dj31nHh51Se) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Arena Wan](https://open.spotify.com/artist/3Um1pus2tvJ9cOSti2nURR) | [In My Head \(Journal Sarahaeyo OST\)](https://open.spotify.com/album/0R1gxriO6uKGL4GIrFF6av) | 3:09 |
+| 67 | [In My Head \- Original Soundtrack from Journal Sarahaeyo](https://open.spotify.com/track/3g71szrAvU2dj31nHh51Se) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [Arena Wan](https://open.spotify.com/artist/3Um1pus2tvJ9cOSti2nURR) | [In My Head \(Original Soundtrack from Journal Sarahaeyo\)](https://open.spotify.com/album/0R1gxriO6uKGL4GIrFF6av) | 3:09 |
 | 68 | [Without You \(By Myself\)](https://open.spotify.com/track/6OokdIqA1Zi5t7GH2bUJDo) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [Without You \(By Myself\)](https://open.spotify.com/album/1LIFo5YXgpk7w1bEQdfINa) | 3:21 |
 | 69 | [room](https://open.spotify.com/track/0apFaskFTjOtbJ2RquwMpZ) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N) | [room](https://open.spotify.com/album/7dXf3mDlGxiS2jLc8KmqlO) | 2:47 |
 | 70 | [ashes in the wind](https://open.spotify.com/track/1JVqrrKlbh3WJItt1ulLsb) | [Yongkytown](https://open.spotify.com/artist/0oLvq0E0XQT55lYZprrobg) | [ashes in the wind](https://open.spotify.com/album/33N9oTr3wYCUpteMMD1mWi) | 2:31 |

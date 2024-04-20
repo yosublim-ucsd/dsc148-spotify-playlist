@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 3025666,
+  "num_followers": 3024458,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 191066,
       "name": "acting like that (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/1Pv3rDsjRl98xEQC56p8A0"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 205752,
-      "name": "But It's Better If You Do",
-      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "All Killer No Filler",
         "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Box Car Racer",
-        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },
       "artists": [
         {
-          "name": "Box Car Racer",
-          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 196600,
-      "name": "There Is",
-      "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
+      "duration_ms": 205752,
+      "name": "But It's Better If You Do",
+      "url": "https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1555,6 +1539,38 @@
       "duration_ms": 258266,
       "name": "The Best Of Me",
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Box Car Racer",
+        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
+      },
+      "artists": [
+        {
+          "name": "Box Car Racer",
+          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "There Is",
+      "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 206999,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1603,22 +1619,6 @@
       "duration_ms": 143080,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "All Killer No Filler",
-        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
     },
     {
       "added_at": "2023-01-25 14:57:38",

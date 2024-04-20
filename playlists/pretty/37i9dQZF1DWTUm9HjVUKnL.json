@@ -1,13 +1,37 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 219594,
+  "num_followers": 219510,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQ2MCwwMDAwMDAwMGIwNTZlYTdmNjEwN2UwOWVkMDEwODI4MWQ0N2FjODY1",
+  "snapshot_id": "MTcxMzUzNjkzMywwMDAwMDAwMDBjOGYyYzZjZDU0ZWNkZWYzY2E1OWMzMWRlYjU4Mjgx",
   "tracks": [
+    {
+      "added_at": "2024-04-19 14:28:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Ugly - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {

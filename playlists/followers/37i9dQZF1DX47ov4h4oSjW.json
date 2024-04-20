@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 102813,
+  "2024-04-20": 102771,
   "date_first_scraped": "2023-02-08",
   "description": "Music to help you concentrate during your homework.",
   "name": "Piano Study",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182435,
       "name": "African Violet",
       "url": "https://open.spotify.com/track/5vIug0SecVlX2XcfsZnJ3B"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227184,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309106,
       "name": "Amore",
       "url": "https://open.spotify.com/track/5sqHOvj1wi2xCwFvAlM2cA"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 206369,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 122500,
       "name": "Dunmore",
       "url": "https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219549,
       "name": "Eyes Closed And Traveling",
       "url": "https://open.spotify.com/track/6zYHwIlDPraiG9UTg4y0oe"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 254500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Hearts of Us",
       "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130000,
       "name": "Her Eyes the Stars",
       "url": "https://open.spotify.com/track/6nwqhRmNfARpidQFUEwjeB"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 344693,
       "name": "I Loves You Porgy",
       "url": "https://open.spotify.com/track/6f5c2TrHJxscSjX1CVFlfR"
@@ -1168,6 +1168,24 @@
     },
     {
       "album": {
+        "name": "Kj\u00e6reste",
+        "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
+      },
+      "artists": [
+        {
+          "name": "Alida S\u00f8rby",
+          "url": "https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143812,
+      "name": "Kj\u00e6reste",
+      "url": "https://open.spotify.com/track/5b8dvbC8nIGMmagzqXbaTD"
+    },
+    {
+      "album": {
         "name": "Selected Works",
         "url": "https://open.spotify.com/album/7jGTiiAlQ3YJtdXYswXm0m"
       },
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 146569,
       "name": "Lizards play",
       "url": "https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345800,
       "name": "Midwayer",
       "url": "https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128766,
       "name": "Nocturnal Waltz",
       "url": "https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 89918,
       "name": "Ready Set Love",
       "url": "https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100946,
       "name": "Small Memory",
       "url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216625,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164999,
       "name": "The Greek",
       "url": "https://open.spotify.com/track/2f9FdNRn2uDnNUxJ7JWXMf"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 126229,
       "name": "Unrequited",
       "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 145075,
       "name": "Valse pour Johann",
       "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
@@ -2516,6 +2534,24 @@
     },
     {
       "album": {
+        "name": "Secrets of the Earth",
+        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149156,
+      "name": "Wish of the Progeny",
+      "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"
+    },
+    {
+      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -2527,7 +2563,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100013,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 192023,
+  "2024-04-20": 192044,
   "date_first_scraped": "2022-12-01",
   "description": "Our editor\u2019s picks for best metal and hard rock songs of the year. Cover: Spiritbox\n",
   "name": "Kickass Metal presents: Best Heavy Songs of 2023",
@@ -393,10 +393,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257969,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
     },
     {
       "album": {
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78733,
       "name": "Fakin' Tha Funk (You Get Did)",
       "url": "https://open.spotify.com/track/1mk1pZUBRho4s3JlxebcZX"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 78733,
       "name": "Fakin\u2019 Tha Funk (You Get Did)",
       "url": "https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 283293,
       "name": "Goddamn White Trash",
       "url": "https://open.spotify.com/track/1sU2FDD8Wk3woT3w5COU7p"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283293,
       "name": "Goddamn White Trash",
       "url": "https://open.spotify.com/track/5Pw0WYcFMkMnnQsII5nMOe"
@@ -1919,7 +1937,7 @@
     {
       "album": {
         "name": "Not Without My Ghosts",
-        "url": "https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7"
+        "url": "https://open.spotify.com/album/1DJMBstIfRxwwJlgoJjRq8"
       },
       "artists": [
         {
@@ -1930,6 +1948,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240082,
+      "name": "It's Hell Down Here",
+      "url": "https://open.spotify.com/track/104bgE8KEOuiv6eilkzprf"
+    },
+    {
+      "album": {
+        "name": "Not Without My Ghosts",
+        "url": "https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 240082,
       "name": "It's Hell Down Here",
       "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
@@ -1965,10 +2001,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6UtIHnoagMCBVZCo5PKKYu"
     },
     {
       "album": {
@@ -2019,7 +2073,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206924,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK"
@@ -2055,7 +2109,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 206924,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/1maPvmbIAUUw5StegWvnnb"
@@ -2153,7 +2207,7 @@
     {
       "album": {
         "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
       "artists": [
         {
@@ -2164,6 +2218,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201760,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 205679,
       "name": "Lux \u00c6terna",
       "url": "https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP"
@@ -2525,7 +2597,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223800,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/2Os6Vp6QlErl2E5hwfdrUh"
@@ -2547,7 +2619,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 223800,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/33jSdWZrZmhQt2MYQBJgm9"
@@ -3855,10 +3927,46 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
+    },
+    {
+      "album": {
+        "name": "Wake The Dead",
+        "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187629,
+      "name": "Wake The Dead",
+      "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
+    },
+    {
+      "album": {
+        "name": "War Against All",
+        "url": "https://open.spotify.com/album/42itntO9qiIkUewMznm08m"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206678,
+      "name": "War Against All",
+      "url": "https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD"
     },
     {
       "album": {
@@ -3873,7 +3981,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206678,
       "name": "War Against All",
       "url": "https://open.spotify.com/track/4IQ6qp5TsASmn2BIT42sy1"

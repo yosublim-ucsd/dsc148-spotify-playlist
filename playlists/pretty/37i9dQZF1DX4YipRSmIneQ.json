@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 turn anywhere into a sexy club \ud83d\ude08",
-  "num_followers": 2697,
+  "num_followers": 2739,
   "original_name": "Sweat.",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "BUBBLEGUM",
+        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "BUBBLEGUM",
+      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 225325,
       "name": "Sour Candy (with BLACKPINK) - Shygirl & Mura Masa Remix",
       "url": "https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "BUBBLEGUM",
-        "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "BUBBLEGUM",
-      "url": "https://open.spotify.com/track/3VQWkf0zg6397V3ql6mwMq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Level up My Skills",
-        "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
-      },
-      "artists": [
-        {
-          "name": "Kiddy.Wav",
-          "url": "https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW"
-        },
-        {
-          "name": "YTP",
-          "url": "https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S"
-        }
-      ],
-      "duration_ms": 269793,
-      "name": "Grab Dat Ass All Night",
-      "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "ELASTIC",
         "url": "https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 219508,
       "name": "ELASTIC",
       "url": "https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Level up My Skills",
+        "url": "https://open.spotify.com/album/3hO7708tej9BhxYRzcsj4x"
+      },
+      "artists": [
+        {
+          "name": "Kiddy.Wav",
+          "url": "https://open.spotify.com/artist/4a0aeeAMBaJthFkE2A5QBW"
+        },
+        {
+          "name": "YTP",
+          "url": "https://open.spotify.com/artist/1Y7DmQJicuaVo1OeQOWn6S"
+        }
+      ],
+      "duration_ms": 269793,
+      "name": "Grab Dat Ass All Night",
+      "url": "https://open.spotify.com/track/6SKDs0q95ZpmiVot0UYPVC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Taste My Body",
-        "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
-      },
-      "artists": [
-        {
-          "name": "James Indigo",
-          "url": "https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1"
-        },
-        {
-          "name": "TAAHLIAH",
-          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Taste My Body",
-      "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/2RjhHJoNeRTYm3LTWvR8Xb"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 162461,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/3rupdmlpYVeQ2l2qn7V2ja"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Taste My Body",
+        "url": "https://open.spotify.com/album/34yCNBM4QzFbr6tIF4hZDO"
+      },
+      "artists": [
+        {
+          "name": "James Indigo",
+          "url": "https://open.spotify.com/artist/4RRL9qwT5AUFLz7Pe2ode1"
+        },
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "Taste My Body",
+      "url": "https://open.spotify.com/track/4mbkDcR6qnklqWPtd4X3q6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Transexual Rave Hymns",
-        "url": "https://open.spotify.com/album/7G4TOrvFiCrLBqXwGNmkvn"
+        "name": "No Sex",
+        "url": "https://open.spotify.com/album/4LdT8nawi1MIzKBRDivG4S"
       },
       "artists": [
         {
-          "name": "Bored Lord",
-          "url": "https://open.spotify.com/artist/651d6TuQaZF6XaRONhiS2n"
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Spit in Your Mouth",
-      "url": "https://open.spotify.com/track/5enT8fCyx6l5CJkd4YCT6M"
+      "duration_ms": 127483,
+      "name": "No Sex",
+      "url": "https://open.spotify.com/track/1wricrtTvU9SBzETY5pThD"
     }
   ],
   "unique_name": "Sweat.",

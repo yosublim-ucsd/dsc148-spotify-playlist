@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 440180,
+  "2024-04-20": 439901,
   "date_first_scraped": "2022-07-19",
   "description": "La sutileza del piano para enriquecer tu espacio.",
   "name": "Piano de Fondo",
@@ -2331,7 +2331,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141097,
       "name": "Dagr\u00f8m",
       "url": "https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm"
@@ -3865,6 +3865,24 @@
       "duration_ms": 162352,
       "name": "Finito",
       "url": "https://open.spotify.com/track/6iWBMo4Cc2yAqwqkAUzLSN"
+    },
+    {
+      "album": {
+        "name": "Fino Mornasco",
+        "url": "https://open.spotify.com/album/2D7NIYeCrKz1yvvJFZj2Kv"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Gallo",
+          "url": "https://open.spotify.com/artist/1ovHYNNkFg5hndltHBhMCd"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133916,
+      "name": "Fino Mornasco",
+      "url": "https://open.spotify.com/track/32pMHDcSZA6xD4cp9lk1aF"
     },
     {
       "album": {
@@ -5737,7 +5755,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 136045,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f"
@@ -6709,7 +6727,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135903,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF"
@@ -8799,7 +8817,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 131932,
       "name": "One Last Question",
       "url": "https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f"
@@ -12065,7 +12083,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145500,
       "name": "The letter",
       "url": "https://open.spotify.com/track/2DTroZVuzZfdKJJg9gG7G6"

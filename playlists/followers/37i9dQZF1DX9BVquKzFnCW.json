@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 26445,
+  "2024-04-20": 26477,
   "date_first_scraped": "2022-03-12",
   "description": "Set the perfect brunch mood with instrumental and vocal Jazz.",
   "name": "Brunch Jazz",
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 319000,
       "name": "Blue Monk",
       "url": "https://open.spotify.com/track/1nkyovFpEVgNnHWXrnuGun"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322560,
       "name": "Blue Monk",
       "url": "https://open.spotify.com/track/56XCdW9tzLtnbtupTLoBVJ"
@@ -381,10 +381,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335173,
       "name": "Bohemia After Dark",
       "url": "https://open.spotify.com/track/3TcD9Hcy9DpU58J4IXagMA"
+    },
+    {
+      "album": {
+        "name": "Nonet & Octet",
+        "url": "https://open.spotify.com/album/7yj2yUdGp3zR0JXazG7I7U"
+      },
+      "artists": [
+        {
+          "name": "Oscar Pettiford",
+          "url": "https://open.spotify.com/artist/3DuKJapiJ2AUvoIJq1ZJFb"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335733,
+      "name": "Bohemia After Dark",
+      "url": "https://open.spotify.com/track/0tkw2G7XqUNux7tFVWZ4wT"
     },
     {
       "album": {
@@ -678,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323853,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/3MYHx9zvj9NVXNEGXpBcXT"
+    },
+    {
+      "album": {
         "name": "The Jazz 100",
         "url": "https://open.spotify.com/album/5dSukFZWRnMA6KwYrV2qvu"
       },
@@ -707,7 +743,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325800,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/7kvMRfMrGjY0AgzgaBtkDf"
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 569880,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 575173,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/5w2gihx0xSbmWIxauR35nK"
@@ -1561,7 +1597,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331266,
       "name": "Life Is a Ball",
       "url": "https://open.spotify.com/track/5knIQIYX3uLKECQH6n9DJg"
@@ -1579,7 +1615,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 331441,
       "name": "Life Is a Ball",
       "url": "https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr"
@@ -1741,7 +1777,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145573,
       "name": "Lullaby Of Birdland - Remastered",
       "url": "https://open.spotify.com/track/4xNmp33QoI68gC99564ypR"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141653,
       "name": "Lullaby or Birdland",
       "url": "https://open.spotify.com/track/0Ns8uYlmSWKXBoKx6JsXEb"
@@ -1824,20 +1860,20 @@
     },
     {
       "album": {
-        "name": "Down With It",
+        "name": "Down With It!",
         "url": "https://open.spotify.com/album/1iuAU2WlRUkQzNd7iquQBG"
       },
       "artists": [
         {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+          "name": "The Blue Mitchell Quintet",
+          "url": "https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj"
         }
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 375933,
-      "name": "March On Selma - Digitally Remastered",
+      "name": "March On Selma - Remastered 2005",
       "url": "https://open.spotify.com/track/2hLe29doIBzGuNI0uTyAHV"
     },
     {
@@ -1853,7 +1889,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376333,
       "name": "March On Selma - Remastered 2005/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5"
@@ -1991,7 +2027,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 452306,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/2B6rVd3WE2rTrN2GSzHDLd"
@@ -2009,7 +2045,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 452893,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/0fuCS40F0K9iirOzSfyNH8"
@@ -2335,7 +2371,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 400373,
       "name": "Ralph J. Gleason Blues",
       "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
@@ -2353,7 +2389,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 403266,
       "name": "Ralph J. Gleason Blues",
       "url": "https://open.spotify.com/track/0Dg8zEmH6R1l67u1bsNKr0"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/6RHr4ChhpvM4XKRy31xS5W"
@@ -2511,7 +2547,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287000,
       "name": "Sandino",
       "url": "https://open.spotify.com/track/1BYDZ6y1kfTEIj0OizAll6"
@@ -2785,7 +2821,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374840,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/4nslzINuZ9ZU5jhIj2xSNO"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 374840,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/79Jl7eZTa96MDDlOF92A4t"
@@ -3021,7 +3057,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 514896,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/7ALB9gGYQPsnyC3wlfYrgA"
@@ -3039,7 +3075,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 514897,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1"
@@ -3195,7 +3231,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 328240,
       "name": "Twelve More Bars To Go",
       "url": "https://open.spotify.com/track/64zWqacsqNgPPYtjunGYxj"
@@ -3213,7 +3249,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331306,
       "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"

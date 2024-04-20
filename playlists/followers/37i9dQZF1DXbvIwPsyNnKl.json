@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1121151,
+  "2024-04-20": 1119743,
   "date_first_scraped": "2023-09-23",
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Juan Caoile, Kyleswish, Jawz",
   "name": "Kalye Hip-Hop",
@@ -641,7 +641,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188976,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218650,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7g0PwcVq4qNuum1ex9OO0N"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238285,
       "name": "Kagome",
       "url": "https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE"
@@ -1665,6 +1665,36 @@
     {
       "album": {
         "name": "LWKY",
+        "url": "https://open.spotify.com/album/2WxToasDkI0DOskvErULto"
+      },
+      "artists": [
+        {
+          "name": "Teys",
+          "url": "https://open.spotify.com/artist/3X0zRsFy2Mbq10BTmhLjun"
+        },
+        {
+          "name": "SwKeith",
+          "url": "https://open.spotify.com/artist/0s8uFxWdTUo0PbN39e20kS"
+        },
+        {
+          "name": "Jthekidd",
+          "url": "https://open.spotify.com/artist/1lMjH9ZFEMm5ypVd1NJD8b"
+        },
+        {
+          "name": "YP",
+          "url": "https://open.spotify.com/artist/317sYdaoNPU4HAZMiUArvF"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194911,
+      "name": "LWKY",
+      "url": "https://open.spotify.com/track/0k4oIMUqetHzgMTLw7vxJe"
+    },
+    {
+      "album": {
+        "name": "LWKY",
         "url": "https://open.spotify.com/album/6DzQl3sVnvW7QlNwmQDlWE"
       },
       "artists": [
@@ -1687,7 +1717,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194911,
       "name": "LWKY",
       "url": "https://open.spotify.com/track/1v8KGf0DdZKIuS0GexqPZC"
@@ -1735,7 +1765,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
@@ -1757,7 +1787,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121660,
       "name": "Makasarili Malambing (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
@@ -2000,6 +2030,24 @@
     },
     {
       "album": {
+        "name": "Oh Yeah",
+        "url": "https://open.spotify.com/album/1HAXe1xCvQUNvRJ3vcVPdT"
+      },
+      "artists": [
+        {
+          "name": "Lo ki",
+          "url": "https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX"
+    },
+    {
+      "album": {
         "name": "ON LY",
         "url": "https://open.spotify.com/album/1dTBjVhAh2CVzVGmeXUqQv"
       },
@@ -2081,6 +2129,24 @@
       "duration_ms": 313780,
       "name": "Pamanggulo",
       "url": "https://open.spotify.com/track/0gkyfpDYooQV9dYzNlkyft"
+    },
+    {
+      "album": {
+        "name": "Panauhin",
+        "url": "https://open.spotify.com/album/1YaZmMd8dmIrxeEAdNlzwJ"
+      },
+      "artists": [
+        {
+          "name": "Juan Caoile",
+          "url": "https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Panauhin",
+      "url": "https://open.spotify.com/track/756k320jmGzGneEyIs8LwX"
     },
     {
       "album": {
@@ -2837,6 +2903,48 @@
       "duration_ms": 179115,
       "name": "WELCOME2DTQ",
       "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"
+    },
+    {
+      "album": {
+        "name": "Where Ya' From, Pt. 3",
+        "url": "https://open.spotify.com/album/4TY4K3s9ow1Q6zEVsbfhvn"
+      },
+      "artists": [
+        {
+          "name": "Tiny Montana",
+          "url": "https://open.spotify.com/artist/6rGNCux8LjUx3OdwEPXx7E"
+        },
+        {
+          "name": "Lanzeta",
+          "url": "https://open.spotify.com/artist/3KSsd7q2gnKFs74J4BEH6p"
+        },
+        {
+          "name": "Juanthugs",
+          "url": "https://open.spotify.com/artist/7I2XVii6SUoqzzexBeJSv0"
+        },
+        {
+          "name": "Range",
+          "url": "https://open.spotify.com/artist/5VzinqtVARXxCvxn0qjSdj"
+        },
+        {
+          "name": "Sinio",
+          "url": "https://open.spotify.com/artist/6jMIvO5BgALaLasFxwNn3B"
+        },
+        {
+          "name": "Kris Delano",
+          "url": "https://open.spotify.com/artist/4MX8TDXjG2zLcfaaYtDMJC"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389439,
+      "name": "Where Ya' From, Pt. 3",
+      "url": "https://open.spotify.com/track/5J6jcHB78I1lBK6CSN6ZkF"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6334,
+  "2024-04-20": 6350,
   "date_first_scraped": "2021-12-28",
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ italiana. Gianna Nannini in cover! \u2728",
   "name": "GLOW Italia",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi)",
       "url": "https://open.spotify.com/track/7cbyPy16QbkxPfcLZsT5TV"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200986,
       "name": "ACAB (Amami Come Ameresti Bambi) (feat. Willie Peyote)",
       "url": "https://open.spotify.com/track/7wPnxFMOuItwcb7HpwuRNQ"
@@ -236,6 +236,24 @@
     },
     {
       "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/21UjMSBBaKpk8CwsUWnoBa"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "All Over This Party - salute Remix",
+      "url": "https://open.spotify.com/track/1snBbWjy3WGD0M2r8WDjxS"
+    },
+    {
+      "album": {
         "name": "All Over This Party (salute Remix)",
         "url": "https://open.spotify.com/album/53GjjALiKKreMQoAwPz9ZY"
       },
@@ -251,7 +269,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188000,
       "name": "All Over This Party - salute Remix",
       "url": "https://open.spotify.com/track/74y9q95NblVSvnurtU62WR"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7gbtsFZWeMQLGYA6zwMfY2"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 208894,
       "name": "BODY",
       "url": "https://open.spotify.com/track/1AVxwEGZupwnrxX9KjnovY"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208894,
       "name": "Body",
       "url": "https://open.spotify.com/track/1Fi8lmYNVvP7BgoH4ACytK"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199242,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1rLTQU5BoWukljTqDMnONZ"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199242,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2Y199dcM6W8zYWxLZ1BXpq"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142852,
       "name": "Flauta Magica",
       "url": "https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 142852,
       "name": "Flauta Magica",
       "url": "https://open.spotify.com/track/4SZskM7pn7z0gAL7onqeI7"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 493760,
       "name": "Flores no Mar",
       "url": "https://open.spotify.com/track/7eNSgICl11uh6hzLfDXV6d"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 493760,
       "name": "Flores No Mar - Album Edit",
       "url": "https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux"
@@ -2705,7 +2723,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3CD3Ymds6yWnVHBNDYfZTA"
@@ -2723,7 +2741,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229743,
       "name": "I Know Your Present",
       "url": "https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 238074,
       "name": "Insegnami la vita",
       "url": "https://open.spotify.com/track/2hzsb9bskRD3XOZP2eMUUC"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238074,
       "name": "Insegnami la vita",
       "url": "https://open.spotify.com/track/2yGUjCGNdrRzL2vmtaISZT"
@@ -3533,10 +3551,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174000,
       "name": "Lost When I'm Around You",
       "url": "https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd"
+    },
+    {
+      "album": {
+        "name": "Lost When I\u2019m Around You",
+        "url": "https://open.spotify.com/album/4KbgO217hNdZpoFVHBpQNR"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Lost When I\u2019m Around You",
+      "url": "https://open.spotify.com/track/2YU2Okyrp71yPLh666VbKR"
     },
     {
       "album": {
@@ -4009,7 +4045,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 160105,
       "name": "Nei",
       "url": "https://open.spotify.com/track/1TeDjzY6QWMS6kYw0gE9dz"
@@ -4027,7 +4063,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160105,
       "name": "Nei",
       "url": "https://open.spotify.com/track/3t7k2We7bIjP0EQkgETjGF"
@@ -4477,7 +4513,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264571,
       "name": "Parigi (mi manchi) - Hey Cabrera! Remix",
       "url": "https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB"
@@ -4499,7 +4535,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 264571,
       "name": "Parigi (mi manchi) - Hey Cabrera! Remix",
       "url": "https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9"
@@ -4771,7 +4807,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 143229,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/0znJt9mv0fI2DKSkJ8TfTY"
@@ -4793,7 +4829,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143229,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/5OPERNndxIm6JL4Qmdfm5S"

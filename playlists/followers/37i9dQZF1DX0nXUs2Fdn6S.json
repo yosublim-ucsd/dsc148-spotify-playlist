@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 33898,
+  "2024-04-20": 33893,
   "date_first_scraped": "2023-12-01",
   "description": "Best of the EDM scene in India. Cover- Ritviz",
   "name": "EDM in India",
@@ -137,10 +137,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210300,
       "name": "Bhayanak Atma",
       "url": "https://open.spotify.com/track/3niyBBBg3177KzOKDwxVzH"
+    },
+    {
+      "album": {
+        "name": "Raja Baja",
+        "url": "https://open.spotify.com/album/73FHD2aQaTd9ksekm6tD4S"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Gagan Mudgal",
+          "url": "https://open.spotify.com/artist/4faYoMlqyHUk7oGpbK2nNo"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210309,
+      "name": "Bhayanak Atma",
+      "url": "https://open.spotify.com/track/3IgxCj017H9u8VFHa1U0vk"
     },
     {
       "album": {
@@ -197,6 +219,32 @@
     {
       "album": {
         "name": "Castles (Bomb Bay Remix)",
+        "url": "https://open.spotify.com/album/4bZy5z0O8qFP0B2E5QST2P"
+      },
+      "artists": [
+        {
+          "name": "Anish Sood",
+          "url": "https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Bomb Bay",
+          "url": "https://open.spotify.com/artist/7xsYqVqZED2jeOTZESZ6Q8"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217968,
+      "name": "Castles - Bomb Bay Remix",
+      "url": "https://open.spotify.com/track/1O3JyvdH3vAg1zB3UyE0Ui"
+    },
+    {
+      "album": {
+        "name": "Castles (Bomb Bay Remix)",
         "url": "https://open.spotify.com/album/0EcQPZjTUdW0Ta8sa18l8j"
       },
       "artists": [
@@ -215,7 +263,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217968,
       "name": "Castles - Bomb Bay Remix",
       "url": "https://open.spotify.com/track/7xasn2JEKs7Qf36NeK1Ztu"
@@ -259,7 +307,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 230645,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL"
@@ -281,7 +329,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230645,
       "name": "Desire",
       "url": "https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e"
@@ -299,7 +347,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175480,
       "name": "Easy to Say",
       "url": "https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp"
@@ -317,7 +365,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 175480,
       "name": "Easy To Say",
       "url": "https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A"
@@ -335,10 +383,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161758,
       "name": "Flash",
       "url": "https://open.spotify.com/track/216RNiFj3BXXJZeYdCuUUr"
+    },
+    {
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/02sAO2mY4vylQKdXjPxlIT"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161758,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/5Qf9xsjIGRXnltWynliPv2"
     },
     {
       "album": {
@@ -453,6 +519,24 @@
     {
       "album": {
         "name": "HOP",
+        "url": "https://open.spotify.com/album/7LMT5UtFEtAAgCOGiof49o"
+      },
+      "artists": [
+        {
+          "name": "Argenil",
+          "url": "https://open.spotify.com/artist/2A6Fi9fm0poTuwBWpIzVw2"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "HOP",
+      "url": "https://open.spotify.com/track/0Y5m1N5YRyyyMNanVj7EQv"
+    },
+    {
+      "album": {
+        "name": "HOP",
         "url": "https://open.spotify.com/album/6Dq97FD6m3ScPDeMKvXE5E"
       },
       "artists": [
@@ -463,7 +547,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171600,
       "name": "HOP",
       "url": "https://open.spotify.com/track/2WSzafKM01pHgIoEyxEiwm"
@@ -515,10 +599,36 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163846,
       "name": "Jadi Buti",
       "url": "https://open.spotify.com/track/1kGL1Mt8kNNhZDZwCocBBF"
+    },
+    {
+      "album": {
+        "name": "Music Is The Weapon",
+        "url": "https://open.spotify.com/album/0B0YAftqQVpzUD7K12wDVg"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "Jadi Buti",
+      "url": "https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM"
     },
     {
       "album": {
@@ -549,32 +659,6 @@
       "duration_ms": 163846,
       "name": "Jadi Buti (feat. Rashmeet Kaur)",
       "url": "https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ"
-    },
-    {
-      "album": {
-        "name": "Jadi Buti (feat. Rashmeet Kaur) [Nucleya VIP Remix]",
-        "url": "https://open.spotify.com/album/17KJVovZM17SCiM8mX7cxi"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
-        }
-      ],
-      "date_added": "2023-10-20",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
-      "duration_ms": 161538,
-      "name": "Jadi Buti (feat. Rashmeet Kaur) - Nucleya VIP Remix",
-      "url": "https://open.spotify.com/track/5R6SwiLR2VWDD2vtAORuoQ"
     },
     {
       "album": {
@@ -623,10 +707,36 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161538,
       "name": "Jadi Buti (Nucleya VIP Remix)",
       "url": "https://open.spotify.com/track/2y03eCRUXcs6uH7SNWY60b"
+    },
+    {
+      "album": {
+        "name": "Jadi Buti (Nucleya VIP Remix)",
+        "url": "https://open.spotify.com/album/17KJVovZM17SCiM8mX7cxi"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Jadi Buti - Nucleya VIP Remix",
+      "url": "https://open.spotify.com/track/5R6SwiLR2VWDD2vtAORuoQ"
     },
     {
       "album": {
@@ -653,6 +763,32 @@
     {
       "album": {
         "name": "Jogan",
+        "url": "https://open.spotify.com/album/7DB6iy5YqwOMDcpMrw33wu"
+      },
+      "artists": [
+        {
+          "name": "Gurbax",
+          "url": "https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG"
+        },
+        {
+          "name": "Chitralekha Sen",
+          "url": "https://open.spotify.com/artist/2tlmHkQ7X88wSU0flHNy6w"
+        },
+        {
+          "name": "GNDHI",
+          "url": "https://open.spotify.com/artist/3JCQBfcQu5347GddKkbKlo"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180863,
+      "name": "Jogan",
+      "url": "https://open.spotify.com/track/5eaTl8F4WUIzLKG3URlz8X"
+    },
+    {
+      "album": {
+        "name": "Jogan",
         "url": "https://open.spotify.com/album/54Pd2Eg7lW2GHtXWjSSoza"
       },
       "artists": [
@@ -671,7 +807,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180863,
       "name": "Jogan",
       "url": "https://open.spotify.com/track/71zyIZd2ICR7S5ymc6JYgi"
@@ -755,10 +891,32 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213913,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/11j7AtNPZNq6BUQhAYrWvC"
+    },
+    {
+      "album": {
+        "name": "Bass Rani",
+        "url": "https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Avneet Khurmi",
+          "url": "https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "Laung Gawacha",
+      "url": "https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx"
     },
     {
       "album": {
@@ -777,7 +935,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198058,
       "name": "Leja",
       "url": "https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX"
@@ -799,7 +957,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Leja",
       "url": "https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp"
@@ -953,6 +1111,32 @@
     {
       "album": {
         "name": "Noor",
+        "url": "https://open.spotify.com/album/6FsuMwzuqjWhy9OIA3pY5R"
+      },
+      "artists": [
+        {
+          "name": "Lost Stories",
+          "url": "https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi"
+        },
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        },
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
+    },
+    {
+      "album": {
+        "name": "Noor",
         "url": "https://open.spotify.com/album/6lMrZq8CQ1Ew02OXQ7vmkt"
       },
       "artists": [
@@ -971,7 +1155,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL"
@@ -1023,10 +1207,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207413,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/31X4uDq2h3d9eFrrNrfEfX"
+    },
+    {
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/55i9ltEv9tYG8Zs0OnHoJy"
+      },
+      "artists": [
+        {
+          "name": "2NATURAL",
+          "url": "https://open.spotify.com/artist/2FdAwKcNkxtdpTyA9rnmoF"
+        },
+        {
+          "name": "lama",
+          "url": "https://open.spotify.com/artist/01M9LokQdmZvlAuwBLsYYH"
+        },
+        {
+          "name": "Wendy Wang",
+          "url": "https://open.spotify.com/artist/7znQY25vppSqJD7K9OjRqv"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/4Mbh15WsUfOuAOZt7a6CrW"
     },
     {
       "album": {
@@ -1089,7 +1299,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204486,
       "name": "Room",
       "url": "https://open.spotify.com/track/3D0jsZ1OTPQIijtYHVrGWz"
@@ -1107,7 +1317,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 204486,
       "name": "Room",
       "url": "https://open.spotify.com/track/4U2SX7G1ROWGlzZAClKrXu"
@@ -1133,10 +1343,36 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174000,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/0MZ6NFEV7oQSDMzuXBVS5E"
+    },
+    {
+      "album": {
+        "name": "Roshni (Original)",
+        "url": "https://open.spotify.com/album/26jHMmi20bpDLq4iCimtD5"
+      },
+      "artists": [
+        {
+          "name": "Sickflip",
+          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+        },
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Roshni",
+      "url": "https://open.spotify.com/track/1XCQhYPVUB51Aiau9EoPo6"
     },
     {
       "album": {
@@ -1151,10 +1387,50 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203538,
       "name": "Samhaar",
       "url": "https://open.spotify.com/track/2TY1R9ntXEF772pSGlRthG"
+    },
+    {
+      "album": {
+        "name": "Samhaar",
+        "url": "https://open.spotify.com/album/59qbCBCMdRKx9gFovyYYnN"
+      },
+      "artists": [
+        {
+          "name": "Gurnani",
+          "url": "https://open.spotify.com/artist/3K748gear2PIQP1M8o7gkN"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203538,
+      "name": "Samhaar",
+      "url": "https://open.spotify.com/track/6xg83DQcwNfk62fwwN9zBW"
+    },
+    {
+      "album": {
+        "name": "Sathi",
+        "url": "https://open.spotify.com/album/5SVJr4rIkhquC1Wqv0olmM"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216219,
+      "name": "Sathi",
+      "url": "https://open.spotify.com/track/2XBSkMQueeB4p24omMj7m7"
     },
     {
       "album": {
@@ -1173,7 +1449,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216219,
       "name": "Sathi",
       "url": "https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA"
@@ -1369,10 +1645,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166601,
       "name": "Turiya Turiya",
       "url": "https://open.spotify.com/track/1F6QRDyVmsTu3rBdeo78mY"
+    },
+    {
+      "album": {
+        "name": "Kahani",
+        "url": "https://open.spotify.com/album/05LTuIO7jVTdhVCM6NWH8k"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166601,
+      "name": "Turiya Turiya",
+      "url": "https://open.spotify.com/track/7xQRYmgjuC8rAJ8nf8IZV8"
     },
     {
       "album": {
@@ -1387,10 +1681,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180413,
       "name": "Udd Gaye",
       "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
+    },
+    {
+      "album": {
+        "name": "Udd Gaye (Bacardi House Party Sessions)",
+        "url": "https://open.spotify.com/album/3w4IGs3MgYRrHrVuC6QGAu"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Udd Gaye - Bacardi House Party Sessions",
+      "url": "https://open.spotify.com/track/6wZJsut8fjiWiMPaccRAOX"
     },
     {
       "album": {

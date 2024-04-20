@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Yawanawa Saiti Kaya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,287 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,972 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 5 | [Nobody's Perfect \(feat\. Dana Williams\)](https://open.spotify.com/track/6YmGoncnyDLR0nTgCLihyE) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Nobody's Perfect \(feat\. Dana Williams\)](https://open.spotify.com/album/45MTITXwCkGEPiPWL9BtND) | 5:00 |
 | 6 | [Surrender](https://open.spotify.com/track/43ToMXtNYOn20zIRRldBbI) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Surrender](https://open.spotify.com/album/45QiiAqRNPVoDOazhSYRr8) | 5:01 |
 | 7 | [Inside \- Edit](https://open.spotify.com/track/0tLyDJaFJchA95KqqHcCZ9) | [Sharam Jey](https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Amazondas](https://open.spotify.com/artist/0kCVx9wT8OVupc7rvLzo3Y) | [Inside](https://open.spotify.com/album/1Mss70p4SsVGvj6N4bkkwM) | 3:38 |
-| 8 | [For Life \(feat\. Zak Abel & Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Zak Abel & Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
+| 8 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 9 | [How I Feel](https://open.spotify.com/track/4jkeFaDXwcsdv39cXL2wf1) | [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [How I Feel](https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq) | 3:36 |
 | 10 | [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 5:40 |
 | 11 | [My Mind](https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Avsten](https://open.spotify.com/artist/3Q7ITfAujief9tMSciw9rq) | [My Mind](https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI) | 3:44 |

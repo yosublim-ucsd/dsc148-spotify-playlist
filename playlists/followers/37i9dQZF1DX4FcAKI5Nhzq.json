@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 807691,
+  "2024-04-20": 806939,
   "date_first_scraped": "2020-10-13",
   "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
   "name": "K-Pop Rising",
@@ -1441,6 +1441,24 @@
       "duration_ms": 167853,
       "name": "BEAM BEAM",
       "url": "https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00"
+    },
+    {
+      "album": {
+        "name": "Planet Nine : ISOTROPY",
+        "url": "https://open.spotify.com/album/7gwFXZUmeGXQhMimYtujWN"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Beautiful Ashes",
+      "url": "https://open.spotify.com/track/3SLhntsE0KgkioZHs7l4ol"
     },
     {
       "album": {
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203953,
       "name": "Chi-Ka",
       "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
@@ -4629,7 +4647,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214226,
       "name": "Do or Die (ft. DPR IAN)",
       "url": "https://open.spotify.com/track/1S5cUvGZsueP6xGMeVFHSo"
@@ -6570,6 +6588,24 @@
     },
     {
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Girls\u2019 Night",
+      "url": "https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG"
+    },
+    {
+      "album": {
         "name": "give me head",
         "url": "https://open.spotify.com/album/3DwvuuF6sJeNz95L2LrypG"
       },
@@ -7513,10 +7549,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184053,
       "name": "His Car Isn't Yours",
       "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+    },
+    {
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "His Car Isn\u2019t Yours",
+      "url": "https://open.spotify.com/track/6i5SuCCAmy2wx6SDhsyCP5"
     },
     {
       "album": {
@@ -10069,6 +10123,24 @@
     {
       "album": {
         "name": "EVERSHINE",
+        "url": "https://open.spotify.com/album/53kViNtJ9LUKWA2mJU9EsN"
+      },
+      "artists": [
+        {
+          "name": "CRAVITY",
+          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "Love or Die",
+      "url": "https://open.spotify.com/track/0UvOdAvaTOZAaUHkYN592J"
+    },
+    {
+      "album": {
+        "name": "EVERSHINE",
         "url": "https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ"
       },
       "artists": [
@@ -10079,7 +10151,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167386,
       "name": "Love or Die",
       "url": "https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF"
@@ -14941,6 +15013,24 @@
     {
       "album": {
         "name": "Siren",
+        "url": "https://open.spotify.com/album/13eyoNteqwQJmUqhUcWuQt"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147961,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0lCT7dZovwscmIRIltborh"
+    },
+    {
+      "album": {
+        "name": "Siren",
         "url": "https://open.spotify.com/album/7J5utMSMvsvlTzqeF1TfQO"
       },
       "artists": [
@@ -14951,7 +15041,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147961,
       "name": "Siren",
       "url": "https://open.spotify.com/track/3lc6BSosCqVoNddw1izHXj"

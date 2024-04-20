@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 418245,
+  "2024-04-20": 418412,
   "date_first_scraped": "2022-06-26",
   "description": "When you're a 19th century villain with excellent taste in music.",
   "name": "Dramatic Classical",
@@ -525,7 +525,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85827,
       "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",
       "url": "https://open.spotify.com/track/1D59AEzo3sTxaY0Ulg6fGq"
@@ -551,9 +551,9 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 85827,
-      "name": "Orchestral Suite No. 2, BWV 1067: VII. Badinerie",
+      "name": "Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",
       "url": "https://open.spotify.com/track/6xQebhVzO7KWFgzoXtywAc"
     },
     {
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285640,
       "name": "String Quartet No. 8 in C Minor, Op. 110: IV. Largo - Live",
       "url": "https://open.spotify.com/track/5374X528TCE8gSgM6Y90WH"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 285640,
       "name": "String Quartet No.8 In C Minor, Op.110: 4. Largo - Live",
       "url": "https://open.spotify.com/track/0QTrE9uq3vtFbEAUfBcL7A"
@@ -957,10 +957,32 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179666,
       "name": "Symphonic Studies, Op. 13 - Version 1852 with Etudes from 1837 version: Variation II. Marcato il canto",
       "url": "https://open.spotify.com/track/1yxfsbowmJcg2Lm82AzpG4"
+    },
+    {
+      "album": {
+        "name": "Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Bl\u00e4tter; Arabeske",
+        "url": "https://open.spotify.com/album/6w9nCuNPnwzEfnd25Ou6kJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Symphonic Studies, Op.13 - Version 1852 with Etudes from 1837 version: Variation II. Marcato il canto",
+      "url": "https://open.spotify.com/track/3zbDdZWImX6dYDZkqdsHe7"
     },
     {
       "album": {
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1245797,
       "name": "Symphony No. 2 \"Resurrection\": I. Allegro maestoso - Live",
       "url": "https://open.spotify.com/track/0tyAPWDcNSPFqpwqQCneF8"
@@ -1061,7 +1083,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 576653,
       "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/0dYaZeUGUgjmRnjyvR1RWg"
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 576653,
       "name": "Symphony No. 3 In A Minor, Op. 56, MWV N 18 - \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
       "url": "https://open.spotify.com/track/4I024wasuUj1tEm6t7Uz5x"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 444866,
       "name": "Symphony No. 9 in E Minor, Op. 95, B.178: 3. Scherzo (Molto vivace)",
       "url": "https://open.spotify.com/track/60n5VI7dvJb5U9YRcCmSrn"
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1245106,
       "name": "Symphony No.2 In C Minor - \"Resurrection\": 1. Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck - Live At Lucerne / 2003",
       "url": "https://open.spotify.com/track/6IJHHhOD3WFHOqDywPHa3F"
@@ -1295,7 +1317,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 444053,
       "name": "Symphony No.9 in E Minor, Op.95, B.178: 3. Scherzo (Molto vivace)",
       "url": "https://open.spotify.com/track/2UofhTxrKOGfifNYKOH8sO"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 429600,
       "name": "The Planets, Op. 32: I. Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/0dXrZ47LxK2PHm4mjSlwgt"
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 429600,
       "name": "The Planets, op.32: 1. Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/0PJlGHCDmZNOaQKxlG904u"
@@ -1641,7 +1663,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 438533,
       "name": "Violin Concerto No. 3: III. Vivo",
       "url": "https://open.spotify.com/track/6q9l2LlJN4mKEqOKVB89AF"
@@ -1671,7 +1693,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438533,
       "name": "Violin Concerto No. 3: III. Vivo",
       "url": "https://open.spotify.com/track/4z3ywmuYl4pyHWdQEmusXn"

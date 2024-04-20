@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 677495,
+  "2024-04-20": 676828,
   "date_first_scraped": "2022-05-01",
   "description": "Great food, good company and some soft music. ",
   "name": "Dinner Music",
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1yJZwBqTyGTB7mz8nZyiel"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268663,
       "name": "Change the Whole Thing",
       "url": "https://open.spotify.com/track/41SYWf4AZzsVbPakCgdXJg"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268663,
       "name": "Change the Whole Thing",
       "url": "https://open.spotify.com/track/6Z5k237LIQek8rPlaSUas5"
@@ -3649,10 +3649,32 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Home Movies",
       "url": "https://open.spotify.com/track/7InQwxswyvUtAxfV8KsCrz"
+    },
+    {
+      "album": {
+        "name": "Home Movies (feat. Mickey Guyton)",
+        "url": "https://open.spotify.com/album/5fUvvo0Ky766TGy6yXdqde"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Home Movies (feat. Mickey Guyton)",
+      "url": "https://open.spotify.com/track/4HlnwNkzF0Va8H5G2U0Xrn"
     },
     {
       "album": {
@@ -3707,7 +3729,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201400,
       "name": "Hope Is a Heartache",
       "url": "https://open.spotify.com/track/04GQPGMmAm06AFtVgrhWxE"
@@ -3725,7 +3747,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "Hope Is A Heartache",
       "url": "https://open.spotify.com/track/3w1P8nwsVi9vxrGvxYLzAC"
@@ -4003,7 +4025,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238066,
       "name": "I Try",
       "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
@@ -4021,7 +4043,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
@@ -4415,7 +4437,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201391,
       "name": "In a Stranger's Arms",
       "url": "https://open.spotify.com/track/00K0B8nvfmTif7poYsk378"
@@ -4433,7 +4455,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 201391,
       "name": "In a Stranger's Arms",
       "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
@@ -5103,7 +5125,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 294422,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/5p6rWdZ3VjGUXiY6qd7MmI"
@@ -5121,7 +5143,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294422,
       "name": "Little Time",
       "url": "https://open.spotify.com/track/6LipdO1S75XaPSa1ejQfeJ"
@@ -6661,7 +6683,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/0xKGPkn1RLsVifjDs4183v"
@@ -6679,7 +6701,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185274,
       "name": "Place We Were Made",
       "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
@@ -6773,7 +6795,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213538,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/5f5YqZZe34nsabun39eqo8"
@@ -6791,7 +6813,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215360,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
@@ -7441,7 +7463,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1JgSGfLxgwJ76ht70nWNuu"
@@ -7459,7 +7481,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
@@ -8907,7 +8929,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233480,
       "name": "These Streets",
       "url": "https://open.spotify.com/track/1Dk4gyzTFoCD3ThE7rs6IC"
@@ -8925,7 +8947,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233480,
       "name": "These Streets",
       "url": "https://open.spotify.com/track/28esDV44p70LGwdPKxGZZ1"
@@ -9037,7 +9059,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232600,
       "name": "This Town",
       "url": "https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7"
@@ -9055,7 +9077,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
@@ -9073,7 +9095,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY"
@@ -9091,7 +9113,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
@@ -9279,7 +9301,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 224546,
       "name": "Try",
       "url": "https://open.spotify.com/track/27zVrE9dDN2Ij8rlHw0XHm"
@@ -9297,7 +9319,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224573,
       "name": "Try",
       "url": "https://open.spotify.com/track/6buXDkw3Gv4fQC1OZKUhnR"
@@ -9463,7 +9485,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
@@ -9481,7 +9503,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226386,
       "name": "Warwick Avenue",
       "url": "https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx"
@@ -9885,7 +9907,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 244106,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/1C0bWhNWIF3yBdjNh4GlCT"
@@ -9903,7 +9925,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247706,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/2IAzLFdULtSCi4lLCLG8xh"

@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 241316,
+  "num_followers": 241065,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,18 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Dilwale Dulhania Le Jayenge",
-        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
       },
       "artists": [
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         }
       ],
-      "duration_ms": 353693,
-      "name": "Zara Sa Jhoom Loon Main",
-      "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
       },
       "artists": [
         {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
         }
       ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
+      "duration_ms": 353693,
+      "name": "Zara Sa Jhoom Loon Main",
+      "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
     },
     {
       "added_at": "2023-12-21 04:47:58",
@@ -1132,26 +1132,6 @@
       },
       "artists": [
         {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        }
-      ],
-      "duration_ms": 389386,
-      "name": "Kitaben Bahut Si",
-      "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
-    },
-    {
-      "added_at": "2023-12-21 04:47:58",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
           "name": "Kumar Sanu",
           "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
         },
@@ -1199,6 +1179,26 @@
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
+    },
+    {
+      "added_at": "2023-12-21 04:47:58",
+      "album": {
+        "name": "Baazigar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        }
+      ],
+      "duration_ms": 389386,
+      "name": "Kitaben Bahut Si",
+      "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

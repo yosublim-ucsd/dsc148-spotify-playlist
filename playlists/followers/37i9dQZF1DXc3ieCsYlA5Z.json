@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 30294,
+  "2024-04-20": 30370,
   "date_first_scraped": "2023-08-04",
   "description": "Los mejores del Reggaeton de todos los tiempos! \ud83d\udc10 Cover: Don Omar",
   "name": "Reggaeton GOATs",
@@ -217,7 +217,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6W19gzjtJOUi2lykSByW9a"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212739,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
@@ -935,6 +935,10 @@
         {
           "name": "De La Ghetto",
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/6J4e8oWHITp1msfeyZg66B"
         }
       ],
       "date_added": "2023-08-02",
@@ -983,7 +987,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192040,
       "name": "Siente El Boom (feat. Randy & Tito El Bambino)",
       "url": "https://open.spotify.com/track/57zpFPybSWc4aNwDHV0kBo"
@@ -1005,7 +1009,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 188824,
       "name": "Siente El Boom (feat. Randy)",
       "url": "https://open.spotify.com/track/5v0jVSPTspMrhweCCEfh5b"
@@ -1157,7 +1161,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247026,
       "name": "Welcome To My Crib",
       "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
@@ -1175,7 +1179,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 247092,
       "name": "Welcome to My Crib",
       "url": "https://open.spotify.com/track/7t9HOF1ECGA6AOQABMugpK"

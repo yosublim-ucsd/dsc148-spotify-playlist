@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10765,
+  "2024-04-20": 10762,
   "date_first_scraped": "2022-09-09",
   "description": "Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz-helmi\u00e4.",
   "name": "Jazzia Suomesta",
@@ -1318,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/0FXmXOtp6aZMs5iYDdDTw6"
+      },
+      "artists": [
+        {
+          "name": "Olli Ahvenlahti",
+          "url": "https://open.spotify.com/artist/67Ab9p2xTxwNzuTZJfAO48"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291738,
+      "name": "For Dizzy and Lionel",
+      "url": "https://open.spotify.com/track/5ITwIIHYSu2lGOe2EtkoAS"
+    },
+    {
+      "album": {
         "name": "For Toninho",
         "url": "https://open.spotify.com/album/55bZqTk45ivqPKEb0chRgH"
       },
@@ -1643,7 +1661,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 411893,
       "name": "It Goes On.",
       "url": "https://open.spotify.com/track/0klGXE46DplZMqL8gD3z96"
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411893,
       "name": "It Goes On.",
       "url": "https://open.spotify.com/track/35zjnluB33xZytg09SnG2I"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 246084,
       "name": "Parade",
       "url": "https://open.spotify.com/track/2Ut23DFEzsvCywpleGYDXv"
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246084,
       "name": "Parade",
       "url": "https://open.spotify.com/track/3NI3SPBGKE1rOzIm28ory0"
@@ -2999,6 +3017,24 @@
       "duration_ms": 171253,
       "name": "Pilkun paikka",
       "url": "https://open.spotify.com/track/0rlKeYldBS2IqO3oulrcdK"
+    },
+    {
+      "album": {
+        "name": "Pime\u00e4 y\u00f6",
+        "url": "https://open.spotify.com/album/4OPwZ2Nv69ZiCsNBXiSESZ"
+      },
+      "artists": [
+        {
+          "name": "Samanna",
+          "url": "https://open.spotify.com/artist/0AGujmhfw2tnGACMtdpKl7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307200,
+      "name": "Pime\u00e4 y\u00f6",
+      "url": "https://open.spotify.com/track/1lVEOnb7PTmoqH4AHnIY7g"
     },
     {
       "album": {
@@ -3830,6 +3866,28 @@
     },
     {
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/27wboIjtRGzIL9GaBbeI93"
+      },
+      "artists": [
+        {
+          "name": "Soft Knees",
+          "url": "https://open.spotify.com/artist/1aptlgHcuEk33BXJPwKMwM"
+        },
+        {
+          "name": "Aki Himanen",
+          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387541,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/3BZDxoFoqUqh5E7iyqdgLH"
+    },
+    {
+      "album": {
         "name": "The Complete Loft Sessions",
         "url": "https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE"
       },
@@ -3915,7 +3973,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 261079,
       "name": "The Moment Came",
       "url": "https://open.spotify.com/track/0otzA9Phtpsq04L9ZNUdAG"
@@ -3949,7 +4007,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261079,
       "name": "The Moment Came",
       "url": "https://open.spotify.com/track/0wTpJvzSYYdDMLmTF4AN9W"

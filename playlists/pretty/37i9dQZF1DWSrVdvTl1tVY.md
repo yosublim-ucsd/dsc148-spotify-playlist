@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Maur
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,377 likes - 108 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,433 likes - 108 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 12 | [PASSION](https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Guy Mac](https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk) | [PASSION](https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI) | 2:50 |
 | 13 | [Easy Baby](https://open.spotify.com/track/6x9zA8ibdDsEJtxEeeMNor) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mo Selleck](https://open.spotify.com/artist/2TmLgEfzFDJ2afLTxXd2Aa) | [Easy Baby](https://open.spotify.com/album/7qEDuTjre2FiyLzwj7eIlw) | 2:43 |
 | 14 | [Say Yeah](https://open.spotify.com/track/4b4ZjULhiyx7xmMlNhmRld) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Mahalia Fontaine](https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il) | [Say Yeah](https://open.spotify.com/album/59BzHU0mtma193dlbdgdVF) | 3:09 |
-| 15 | [Dance Away](https://open.spotify.com/track/5PwhoZfQJR7uZeL1EAO65q) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX) | [Dance Away](https://open.spotify.com/album/0bWyA01Gr0qMOc9IAgi19Z) | 3:16 |
+| 15 | [Dance Away](https://open.spotify.com/track/5PwhoZfQJR7uZeL1EAO65q) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Dance Away](https://open.spotify.com/album/0bWyA01Gr0qMOc9IAgi19Z) | 3:16 |
 | 16 | [Reason](https://open.spotify.com/track/6f1Zxmu7RduHlYmRjjVMAo) | [Toyboy & Robin](https://open.spotify.com/artist/5vJKpAzRCVrkjgTYKy1fDG) | [Reason](https://open.spotify.com/album/3NG60sV7y2HQEtJB2ZJVvC) | 2:31 |
 | 17 | [When I Close My Eyes](https://open.spotify.com/track/3KrpHx7OQimSAaFwvAKx8R) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [When I Close My Eyes](https://open.spotify.com/album/3GuGgqIhptQEHVVFAzqSb9) | 2:16 |
 | 18 | [Energy \- '05 Remix](https://open.spotify.com/track/3f6u2nwY2wgW8yq9Ith9P0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Energy \('05 Remix\)](https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R) | 4:39 |

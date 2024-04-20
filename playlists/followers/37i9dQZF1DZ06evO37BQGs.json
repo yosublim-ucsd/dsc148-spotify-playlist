@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 625,
+  "2024-04-20": 625,
   "date_first_scraped": "2022-11-18",
   "description": "This is Hundred Reasons. The essential tracks, all in one playlist.",
   "name": "This Is Hundred Reasons",
@@ -593,7 +593,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190306,
       "name": "Makeshift",
       "url": "https://open.spotify.com/track/3SWn0ZgWROzFaP98QcPZyl"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 190160,
       "name": "Pop",
       "url": "https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh"

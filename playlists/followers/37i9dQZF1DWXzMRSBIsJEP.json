@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 31884,
+  "2024-04-20": 6385,
   "date_first_scraped": "2023-10-23",
   "description": "Descanse ao som dessas melodias cl\u00e1ssicas e relaxantes.",
   "name": "M\u00fasica Cl\u00e1ssica para Dormir",
@@ -61,10 +61,32 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354988,
       "name": "20:17",
       "url": "https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr"
+    },
+    {
+      "album": {
+        "name": "Trance Frendz",
+        "url": "https://open.spotify.com/album/6VxUTTXNiD2fpKfsTznD3L"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355228,
+      "name": "20:17",
+      "url": "https://open.spotify.com/track/2V539MV3mX2iNjpaalJeqH"
     },
     {
       "album": {
@@ -87,10 +109,36 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227426,
       "name": "3 Compositions, Op. 40: No. 2, Berceuse",
       "url": "https://open.spotify.com/track/2fDLC30XLnXwVtASMgsD1b"
+    },
+    {
+      "album": {
+        "name": "Clifford / Bainton: Orchestral Works, Vol. 2",
+        "url": "https://open.spotify.com/album/4jRJdX2ZqLMDIm4vihROsz"
+      },
+      "artists": [
+        {
+          "name": "Hubert Clifford",
+          "url": "https://open.spotify.com/artist/0mjpvNyRMwDM8QRULI5v5j"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Martyn Brabbins",
+          "url": "https://open.spotify.com/artist/0HVBIS5X7c4Pxa7KnabPMN"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "5 English Nursery Tunes: IV. Curly Locks: Andantino",
+      "url": "https://open.spotify.com/track/7MAE52QGDf9UmlPg3uHNwx"
     },
     {
       "album": {
@@ -113,10 +161,36 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142600,
       "name": "8 Russian Folk Songs: 6. Cradle Song",
       "url": "https://open.spotify.com/track/08QKQLlz3rkjvYMHiCci7A"
+    },
+    {
+      "album": {
+        "name": "Paganini: Violin Concerto No. 1 / Rimsky-Korsakov: Flight of the Bumble-Bee / Kabalevsky: Galop from",
+        "url": "https://open.spotify.com/album/5Q8mCu4IXZ5ruf67OWuvaL"
+      },
+      "artists": [
+        {
+          "name": "Anatoly Lyadov",
+          "url": "https://open.spotify.com/artist/7t5qhn89RAzTepqZBB4uob"
+        },
+        {
+          "name": "Tasmanian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
+        },
+        {
+          "name": "Shalom Ronly-Riklis",
+          "url": "https://open.spotify.com/artist/1dMjzf9NXcjACteeizYeDk"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "8 Russian Folk Songs: 6. Cradle Song",
+      "url": "https://open.spotify.com/track/4tfa5xQ53yjHP84RZvdF6d"
     },
     {
       "album": {
@@ -207,10 +281,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/6XJGpirOP4Bgurcvkdanxb"
+    },
+    {
+      "album": {
+        "name": "American Beauty (Soundtrack)",
+        "url": "https://open.spotify.com/album/7vC1yfNXcURh42ZN70x0Oj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187360,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/1Hc9rfFRsUE8nyKDnyXg7f"
     },
     {
       "album": {
@@ -284,6 +376,32 @@
     },
     {
       "album": {
+        "name": "Violin Lullabies",
+        "url": "https://open.spotify.com/album/5gisUMAH2lkd2pUVIxn3Cl"
+      },
+      "artists": [
+        {
+          "name": "Amy Beach",
+          "url": "https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB"
+        },
+        {
+          "name": "Rachel Barton Pine",
+          "url": "https://open.spotify.com/artist/4st8QHJeSvWO1D4OPUgFaf"
+        },
+        {
+          "name": "Matthew Hagle",
+          "url": "https://open.spotify.com/artist/1eqPXlE2sSBqKF50vw7YvE"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Berceuse (Lullaby), No. 2 from Three Compositions, Op. 40",
+      "url": "https://open.spotify.com/track/6IjoiTqAOtMNOA2KOEm2b9"
+    },
+    {
+      "album": {
         "name": "Berceuses (Lullabies) [Wiegenlieder]",
         "url": "https://open.spotify.com/album/3tx0Z9jPFmtGtSDNkiv2Vb"
       },
@@ -347,7 +465,7 @@
     {
       "album": {
         "name": "Ten Sails",
-        "url": "https://open.spotify.com/album/7k6LMeVKzWrL9XHzNTPkXu"
+        "url": "https://open.spotify.com/album/1Xyzz5OMNSJu5Cbsg3QIwr"
       },
       "artists": [
         {
@@ -362,6 +480,28 @@
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2cMKDJZB6xU3GUXNXiDLFq"
+    },
+    {
+      "album": {
+        "name": "Ten Sails",
+        "url": "https://open.spotify.com/album/7k6LMeVKzWrL9XHzNTPkXu"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        },
+        {
+          "name": "Nadje Noordhuis",
+          "url": "https://open.spotify.com/artist/2gMxxfDcVbNcJH5VG2FCmY"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 165000,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/65MPEpsaymKA7SQSZxQ0hV"
@@ -485,7 +625,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257599,
       "name": "Five English Nursery Tunes: IV. Curly Locks",
       "url": "https://open.spotify.com/track/4Tw4RHNQxVrUQPZRUfTPj1"
@@ -547,10 +687,54 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 647973,
       "name": "F\u00fcr Alina",
       "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
+    },
+    {
+      "album": {
+        "name": "Alina",
+        "url": "https://open.spotify.com/album/6izeFpshJ8WMesj4FSqEzC"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 647973,
+      "name": "F\u00fcr Alina: 1. F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/6BscH5dTMuYFnEZnI2GaQL"
+    },
+    {
+      "album": {
+        "name": "Lumieres",
+        "url": "https://open.spotify.com/album/7GIAL3pGtPIIOYKFgfAP5h"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Kaori Muraji",
+          "url": "https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220560,
+      "name": "Gnossienne No. 1 (Arr. Kleynjans)",
+      "url": "https://open.spotify.com/track/6q5co1XdRmnMeWlL1RWXPK"
     },
     {
       "album": {
@@ -569,7 +753,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220773,
       "name": "Gnossienne No. 1 (Arr. Kleynjans)",
       "url": "https://open.spotify.com/track/3Xwbz4459WLtFKWNQSzHqh"
@@ -587,10 +771,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274218,
       "name": "Grey Cloud Lullaby",
       "url": "https://open.spotify.com/track/4iFiFqYJpZWBMn98i7sC4d"
+    },
+    {
+      "album": {
+        "name": "Slow Meadow",
+        "url": "https://open.spotify.com/album/0GX9uyTZ3BWNFMooi9J50Y"
+      },
+      "artists": [
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274218,
+      "name": "Grey Cloud Lullaby",
+      "url": "https://open.spotify.com/track/6BZJrLiwv4p3uKHgXaSg5q"
     },
     {
       "album": {
@@ -613,7 +815,7 @@
     {
       "album": {
         "name": "Two Impromptus",
-        "url": "https://open.spotify.com/album/1eqxBf1MFDne5hXminE9Hr"
+        "url": "https://open.spotify.com/album/4B3xYFlGSx7Bp9PAIgYdfc"
       },
       "artists": [
         {
@@ -624,6 +826,24 @@
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206749,
+      "name": "Impromptu, No. 1",
+      "url": "https://open.spotify.com/track/0n64jayPuTWrRP8EewJ6bJ"
+    },
+    {
+      "album": {
+        "name": "Two Impromptus",
+        "url": "https://open.spotify.com/album/1eqxBf1MFDne5hXminE9Hr"
+      },
+      "artists": [
+        {
+          "name": "Thomas Farnon",
+          "url": "https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 206749,
       "name": "Impromptu, No. 1",
       "url": "https://open.spotify.com/track/6cr9fqIk3nNuayAmHJ5WPO"
@@ -649,10 +869,36 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141786,
       "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
       "url": "https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM"
+    },
+    {
+      "album": {
+        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
+      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
     },
     {
       "album": {
@@ -671,10 +917,58 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186840,
       "name": "Kinderszenen, Op. 15: No. 7 in F Major, Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/18QVbIw5S0MJHGWF2qLX75"
+    },
+    {
+      "album": {
+        "name": "Schumann: Piano Concerto, Franck: Symphonic Variations",
+        "url": "https://open.spotify.com/album/7uPHJJRca9UAjViepO1iTx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Ivan Moravec",
+          "url": "https://open.spotify.com/artist/0ErTQOJGOd7prKFdmsLxh7"
+        },
+        {
+          "name": "V\u00e1clav Neumann",
+          "url": "https://open.spotify.com/artist/5tQs2q4OYuqqHL2a5u4B61"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Kinderszenen, Op. 15: VII. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/50VVlZROGaROAwNqAMxA6B"
+    },
+    {
+      "album": {
+        "name": "Look Inside Yourself",
+        "url": "https://open.spotify.com/album/6S0jnsTpJ5qoskAUyjXIm5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218132,
+      "name": "Look Inside Yourself",
+      "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
     },
     {
       "album": {
@@ -689,7 +983,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
@@ -714,6 +1008,28 @@
     },
     {
       "album": {
+        "name": "Butterflying: Piano Music By Elena Kats-Chernin",
+        "url": "https://open.spotify.com/album/5VDfSISCsDgMMOIBvoKLRp"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "Tamara Anna Cislowska",
+          "url": "https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Lullaby For Nick",
+      "url": "https://open.spotify.com/track/3WA6G5I5pfVR2NG7xvngZu"
+    },
+    {
+      "album": {
         "name": "Butterflying: Piano Music of Elena Kats-Chernin",
         "url": "https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9"
       },
@@ -729,7 +1045,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203160,
       "name": "Lullaby for Nick",
       "url": "https://open.spotify.com/track/3sSGalPwfFt0XiNnYx7fBB"
@@ -802,6 +1118,32 @@
     },
     {
       "album": {
+        "name": "Ravel: Works for 2 Pianos & Piano Duet",
+        "url": "https://open.spotify.com/album/1eSyakZFx5a2eAjRibvBvQ"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Louis Lortie",
+          "url": "https://open.spotify.com/artist/2uLLmndNOXyB4XqMH3auYK"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Mercier",
+          "url": "https://open.spotify.com/artist/2bjMZJv3PurMW5EIbn5t2T"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93240,
+      "name": "Ma M\u00e8re l'Oye, M. 60: I. Pavane de la belle au bois dormant",
+      "url": "https://open.spotify.com/track/3M7dYsUVdr66ztv5yXqOFm"
+    },
+    {
+      "album": {
         "name": "Ravel: Piano Music For 4 Hands",
         "url": "https://open.spotify.com/album/2lO3FswVsOC8qRaUkkSofO"
       },
@@ -821,7 +1163,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93160,
       "name": "Ma m\u00e8re l'Oye, M. 60: I. Pavane de la belle au bois dormant - Lent",
       "url": "https://open.spotify.com/track/2Ylyh5pD08wtz54XfELtak"
@@ -901,10 +1243,32 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181546,
       "name": "Orfeo ed Euridice, Wq. 30 (Arranged by Sgambati): Melodie dell'Orfeo",
       "url": "https://open.spotify.com/track/24cgBBhZD1cWekUqaYuqTB"
+    },
+    {
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/242VIaJT3FuMNlN6XRmn1c"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Orfeo ed Euridice, Wq. 30 - Arranged Sgambati / Act 2: Melodie dell'Orfeo",
+      "url": "https://open.spotify.com/track/41g83Usxjh9TRoxNGGqTTU"
     },
     {
       "album": {
@@ -923,10 +1287,32 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401760,
       "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/1QJMj7aZPABjqB86zucpzB"
+    },
+    {
+      "album": {
+        "name": "Mozart: Piano Sonatas, Vol. 3 (Piano Sonatas Nos. 1, 4, 5 and 6)",
+        "url": "https://open.spotify.com/album/2cizQW3h8qP1PLCfAIY9jg"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401760,
+      "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
+      "url": "https://open.spotify.com/track/4VQ6AvYNUoKL7Tj2pQnoNz"
     },
     {
       "album": {
@@ -984,6 +1370,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Rodolphe Kars",
+          "url": "https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK"
+    },
+    {
+      "album": {
         "name": "Debussy",
         "url": "https://open.spotify.com/album/2hp2fmMa8Av2CKnTx8B5yS"
       },
@@ -999,7 +1407,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150440,
       "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
       "url": "https://open.spotify.com/track/51P3NaXFY36BR7d52fh03Y"
@@ -1086,6 +1494,36 @@
     },
     {
       "album": {
+        "name": "Intuition - Le Cygne (The Swan)",
+        "url": "https://open.spotify.com/album/2NU5I6GALggaxdO3fJDKeJ"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208040,
+      "name": "Saint-Sa\u00ebns / Transcr. Vidal: Le carnaval des animaux, R. 125: XIII. Le cygne",
+      "url": "https://open.spotify.com/track/08h8ICqh9extUqzotddLRQ"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -1109,7 +1547,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208040,
       "name": "Saint-Sa\u00ebns / Transcr. Vidal: Le carnaval des animaux: XIII. Le cygne",
       "url": "https://open.spotify.com/track/40IvETLq2Y1Su1Z0GWumRF"
@@ -1203,10 +1641,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255319,
       "name": "Strange Light in Her Eyes",
       "url": "https://open.spotify.com/track/3edfxj68V3PJsbLwofk9M7"
+    },
+    {
+      "album": {
+        "name": "Strange Light in Her Eyes",
+        "url": "https://open.spotify.com/album/3wj0o4bEOsAoZkyW2qdda3"
+      },
+      "artists": [
+        {
+          "name": "Ever So So Deep",
+          "url": "https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255319,
+      "name": "Strange Light in Her Eyes",
+      "url": "https://open.spotify.com/track/6ukWzLZrSZvgbmSDmojZrM"
     },
     {
       "album": {
@@ -1345,10 +1801,32 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165000,
       "name": "Trois Romances sans paroles, Op. 17: 3. Andante moderato",
       "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
+    },
+    {
+      "album": {
+        "name": "Soft Classical Music",
+        "url": "https://open.spotify.com/album/0NYS5GHjc4D3eYspS14Zf2"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163843,
+      "name": "Trois Romances sans paroles, Op.17 : 3. Andante moderato",
+      "url": "https://open.spotify.com/track/16huMJ9VNs9HZYelFI10FE"
     },
     {
       "album": {
@@ -1423,10 +1901,48 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232333,
       "name": "Wind Quintet in E-Flat Major, Hess 19: II. Adagio maestoso",
       "url": "https://open.spotify.com/track/5TGCJDjLkKg05iT1ajUE1w"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Chamber Music for Horns, Winds and Strings",
+        "url": "https://open.spotify.com/album/6Qhwxyn4jJHRtcUBQ7Fz0x"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Ott\u00f3 R\u00e1cz",
+          "url": "https://open.spotify.com/artist/29K3KFah5KwkXAXgFUxz8o"
+        },
+        {
+          "name": "Jozsef Vajda",
+          "url": "https://open.spotify.com/artist/2mpsEiXmTZrdtqHR5pEOwQ"
+        },
+        {
+          "name": "S\u00e1ndor Berki",
+          "url": "https://open.spotify.com/artist/67AxY6bRRMB32PxGkObf3Y"
+        },
+        {
+          "name": "J\u00e1nos Keveh\u00e1zi",
+          "url": "https://open.spotify.com/artist/6osnx8WSs1oNzaUArgf8Vn"
+        },
+        {
+          "name": "Jeno Kevehazi",
+          "url": "https://open.spotify.com/artist/69zER0tBs3f1AvOeAJSveN"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Wind Quintet in E-Flat Major, WoO 208, Hess 19: II. Adagio maestoso",
+      "url": "https://open.spotify.com/track/0c11dbNvZuY1pXL6VybKBh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXzMRSBIsJEP"

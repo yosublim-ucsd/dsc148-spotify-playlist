@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,331 songs - 3 day 0 hr 12 min
+1,332 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [All We Got \(feat\. KIDDO\) \- Ofenbach Remix](https://open.spotify.com/track/2rUsJXt4NeeDiIU6sBvrxo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [All We Got \(feat\. KIDDO\) \[Ofenbach Remix\]](https://open.spotify.com/album/4ZnfL03JMiQpMpWZ7e6YXY) | 2:09 | 2020-12-08 | 2022-11-19 |
 | [All You Need To Know \(feat\. Calle Lehmann\)](https://open.spotify.com/track/4Gcv5SsxnQWpmOnUI19EJk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [All You Need To Know \(feat\. Calle Lehmann\)](https://open.spotify.com/album/0xLM3GiU0ZSstvhmeV0hmf) | 3:58 | 2019-06-01 | 2019-07-16 |
 | [Amarillo](https://open.spotify.com/track/6zEgnpM0qYmHLDnh8WPejL) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:37 | 2020-06-02 | 2021-10-16 |
-| [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2022-09-09 |  |
+| [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2022-09-09 | 2024-04-20 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-07-21 |  |
 | [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2020-04-22 | 2021-02-02 |
 | [Another Day](https://open.spotify.com/track/66R7rPKr6cODnizNJMCL5P) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Lights Out](https://open.spotify.com/album/32LkH1jXB0Vu6Fx7IGs153) | 3:30 | 2019-09-12 | 2019-10-23 |
@@ -1222,6 +1222,7 @@
 | [Used to Be \(Rasster Remix\)](https://open.spotify.com/track/1G7ByVLXg8GLq9bbCkuPyi) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rasster](https://open.spotify.com/artist/3LVYHgfHgCTy3QSRt5kKQg) | [Used to Be \(Rasster Remix\)](https://open.spotify.com/album/5y1vHv5p4cSXWUj8TGPWQ0) | 2:32 | 2020-09-15 | 2022-07-26 |
 | [Value](https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Value](https://open.spotify.com/album/5k4FGcPa9XZN2IqSPBYICI) | 2:47 | 2020-02-01 | 2021-05-28 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-09-09 |  |
+| [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 |  |
 | [Vibe \(If I Back It Up\) \- Majestic Remix](https://open.spotify.com/track/1NkZiKrhiBeqGrTeYz3QGs) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Vibe \(If I Back It Up\) \[Majestic Remix\]](https://open.spotify.com/album/29gbZxe1JARSl91Bz7s3db) | 4:08 | 2020-09-15 | 2022-01-04 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-03-16 | 2022-07-23 |
 | [Vibin](https://open.spotify.com/track/0tnFKjEEsjD3AVShRgtIun) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Vibin](https://open.spotify.com/album/4OQqxllqlZ5I3LuMByAMvO) | 3:14 | 2019-06-23 | 2019-10-23 |

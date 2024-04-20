@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: ero808
 
-727 songs - 1 day 13 hr 49 min
+728 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Get Back](https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt) | [Get Back](https://open.spotify.com/album/2SvCL6QsVaFiRiEKwwLAas) | 2:24 | 2022-03-04 | 2023-04-01 |
 | [Get Crunk](https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Get Crunk](https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1) | 3:08 | 2022-03-18 | 2022-11-19 |
 | [Get Down](https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Night Bass](https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw) | [Night Bass Freshmen Vol 7](https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9) | 3:33 | 2022-05-06 | 2022-09-10 |
+| [Get Hype](https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq) | [Rob Vice](https://open.spotify.com/artist/5tNZTnlOQlotUEmpag5hcv), [MNRVA](https://open.spotify.com/artist/6OtfcWbHjh6ad25qN4MBt1) | [Get Hype](https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX) | 2:35 | 2024-04-19 |  |
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/34ExSjW2JsqM9V88quCH9Z) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Get It](https://open.spotify.com/album/1aew5ugGnswbfbubJMSfm9) | 2:19 | 2023-05-19 | 2023-08-23 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 | 2023-04-24 |
@@ -599,7 +600,7 @@
 | [Spinnin'](https://open.spotify.com/track/3EuGZpuNdeAIK5Tosi2XTb) | [Holy Goof](https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU), [Amy Grace](https://open.spotify.com/artist/3LtXWr3HVgI37alYryJ4Io) | [Spinnin'](https://open.spotify.com/album/4QKGpE4b21hOsDGJ6yW8JS) | 4:16 | 2023-08-18 | 2024-01-13 |
 | [Spirit Animal](https://open.spotify.com/track/6Z6cXN7K3qjHNJe1Qy31Ar) | [Fox'd](https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS) | [Spirit Animal EP](https://open.spotify.com/album/6K1hRfRYYYaH7KlxLGAqM1) | 4:05 | 2022-01-21 | 2022-08-31 |
 | [Stack](https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Stack](https://open.spotify.com/album/26QimsgTITriH6TD286J4d) | 2:34 | 2023-06-02 | 2023-08-18 |
-| [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 |  |
+| [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 | 2024-04-20 |
 | [Step One](https://open.spotify.com/track/0VSo5Y6SW2yvw1MBphgrVv) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Vedenzo](https://open.spotify.com/artist/468FRhhQbF6gF7kznCIZFE) | [Step One](https://open.spotify.com/album/06GpaRIT956xAC8iggPpSB) | 2:27 | 2023-07-07 | 2023-07-22 |
 | [Stereo Function](https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Stereo Function](https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts) | 3:26 | 2023-08-25 |  |
 | [Still Here](https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [Still Here](https://open.spotify.com/album/1efpvOFvmtOKiNTLh3xKmx) | 2:39 | 2023-03-31 | 2023-07-31 |

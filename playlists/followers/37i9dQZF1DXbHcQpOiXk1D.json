@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 310106,
+  "2024-04-20": 310131,
   "date_first_scraped": "2022-01-01",
   "description": "The best from Britain's vibrant scene. Cover: Shabaka",
   "name": "Jazz UK",
@@ -473,7 +473,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 149968,
       "name": "angel numbers",
       "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319040,
       "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
       "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 277026,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
@@ -6893,7 +6893,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312438,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
@@ -7743,10 +7743,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271826,
       "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
+    },
+    {
+      "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271826,
+      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W"
     },
     {
       "album": {
@@ -8039,7 +8061,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69000,
       "name": "Ruby Smiles",
       "url": "https://open.spotify.com/track/5ippVyDzVqQO0NjXGO7Pi2"
@@ -8141,10 +8163,32 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+    },
+    {
+      "album": {
+        "name": "Rust (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/60EqifwSuc3sGlo0ysgg3u"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh"
     },
     {
       "album": {
@@ -9035,6 +9079,28 @@
       "duration_ms": 309452,
       "name": "Spooki",
       "url": "https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ"
+    },
+    {
+      "album": {
+        "name": "Ugh (Bonus Edition)",
+        "url": "https://open.spotify.com/album/7vIReU8OLLlqfZ5fD1XtqE"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Ash Walker",
+          "url": "https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202119,
+      "name": "Spooki - Ash Walker Dub",
+      "url": "https://open.spotify.com/track/4kgqO6HU9XZbVsvucuzbbz"
     },
     {
       "album": {
@@ -10414,6 +10480,24 @@
     },
     {
       "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "Turquoise Galaxy",
+      "url": "https://open.spotify.com/track/71vcxMgWBvsUbwtRBzk2Vd"
+    },
+    {
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9"
       },
@@ -10559,7 +10643,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 167903,
       "name": "Unlikely",
       "url": "https://open.spotify.com/track/1wFgK8jcX27P6YUkxbeMBP"

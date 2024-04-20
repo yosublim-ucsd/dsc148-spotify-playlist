@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 9734,
+  "2024-04-20": 9748,
   "date_first_scraped": "2022-08-12",
   "description": "The best Ambient tracks from 2010 to 2019. ",
   "name": "Ambient 2010s",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 453700,
       "name": "A Field of Night",
       "url": "https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-12",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "Amethyst Deceiver",
       "url": "https://open.spotify.com/track/5sNqlkPf0m5Fa0Kum9JyAP"
@@ -199,10 +199,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 469213,
       "name": "Atomos VII",
       "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
+    },
+    {
+      "album": {
+        "name": "Atomos",
+        "url": "https://open.spotify.com/album/4zjPJ2EkqoqVw5rRJjNvoo"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471645,
+      "name": "Atomos VII",
+      "url": "https://open.spotify.com/track/1NO5mFfik5T0LLsoiJsbE7"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199517,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/6DYje8nscLyfBGXDyrF41C"
@@ -803,6 +821,44 @@
     {
       "album": {
         "name": "Infra",
+        "url": "https://open.spotify.com/album/2GBqqwiygrc0q5ElbFgDgA"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Nick Barr",
+          "url": "https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "Infra 1",
+      "url": "https://open.spotify.com/track/0oPLqfTar1dEiydXz1mnhq"
+    },
+    {
+      "album": {
+        "name": "Infra",
         "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
       },
       "artists": [
@@ -833,7 +889,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
@@ -959,7 +1015,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 296133,
       "name": "Living Lens",
       "url": "https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh"
@@ -995,7 +1051,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158950,
       "name": "Low Sudden",
       "url": "https://open.spotify.com/track/59t2d9JGOXxh3P9Hq7eoIl"
@@ -1017,7 +1073,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 158680,
       "name": "Low Sudden",
       "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
@@ -1053,7 +1109,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 490500,
       "name": "Luotasi",
       "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
@@ -1143,7 +1199,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 563427,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG"
@@ -1161,7 +1217,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 563427,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
@@ -1353,7 +1409,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336992,
       "name": "Origin of the World",
       "url": "https://open.spotify.com/track/7CIDv4jWLpY00nxzg4HivM"
@@ -1411,28 +1467,10 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 450509,
       "name": "Red Gate Drifting",
       "url": "https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq"
-    },
-    {
-      "album": {
-        "name": "Reflection (Excerpt)",
-        "url": "https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "date_added": "2022-08-11",
-      "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
-      "duration_ms": 260834,
-      "name": "Reflection (Excerpt)",
-      "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
     },
     {
       "album": {
@@ -1447,10 +1485,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260834,
       "name": "Reflection - Excerpt",
       "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
+    },
+    {
+      "album": {
+        "name": "Reflection (Excerpt)",
+        "url": "https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260834,
+      "name": "Reflection - Excerpt",
+      "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
     },
     {
       "album": {
@@ -1483,7 +1539,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 276636,
       "name": "Reminiscence (Spring has come)",
       "url": "https://open.spotify.com/track/37qs84hvGjeU7PegEaeFLd"
@@ -1573,7 +1629,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210118,
       "name": "Semena Mertvykh",
       "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
@@ -1609,7 +1665,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 188062,
       "name": "Simon & Anna",
       "url": "https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl"
@@ -1731,6 +1787,44 @@
     {
       "album": {
         "name": "From Sleep",
+        "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315720,
+      "name": "Space 11 (Invisible Pages Over)",
+      "url": "https://open.spotify.com/track/786FgaRDsjLgvViIu30sam"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
       "artists": [
@@ -1761,7 +1855,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
@@ -1833,10 +1927,48 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287786,
       "name": "Space 21 (petrichor)",
       "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/0NRiFdiO6WfhUnHiev18x3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287786,
+      "name": "Space 21 (petrichor)",
+      "url": "https://open.spotify.com/track/679TvUwIfLbD9lD0jX8DiR"
     },
     {
       "album": {
@@ -1887,7 +2019,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0VLHVVJ67LemumV38DDb5b"
@@ -1909,6 +2041,24 @@
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "album": {
+        "name": "Replica",
+        "url": "https://open.spotify.com/album/4Wq9kfnBR0npGfsuQl8kDW"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Submersible",
+      "url": "https://open.spotify.com/track/157hM4Kifc9ZeVR3IxOmKh"
     },
     {
       "album": {
@@ -1999,7 +2149,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204826,
       "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
       "url": "https://open.spotify.com/track/2oyd6bi7oVJlidyya5dHKQ"
@@ -2035,7 +2185,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 204826,
       "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
       "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
@@ -2339,6 +2489,24 @@
     {
       "album": {
         "name": "Xen",
+        "url": "https://open.spotify.com/album/0jBNrkszYqqnNVEyHWj3ih"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129552,
+      "name": "Wound",
+      "url": "https://open.spotify.com/track/0TWtRsjyOTGofe5TP8VCog"
+    },
+    {
+      "album": {
+        "name": "Xen",
         "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
       },
       "artists": [
@@ -2349,7 +2517,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129553,
       "name": "Wound",
       "url": "https://open.spotify.com/track/34kYtNP4JkeMHiNFi5OkTe"

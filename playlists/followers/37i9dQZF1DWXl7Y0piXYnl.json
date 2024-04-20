@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 15124,
+  "2024-04-20": 15151,
   "date_first_scraped": "2022-10-30",
   "description": "<a href=\"spotify:artist:2jYMYP2SVifgmzNRQJx3SJ\">Modeselektor</a>'s favorite tracks. Updated regularly. Curated by Modeselektor. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>. ",
   "name": "Modeselektor's track IDs",
@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "A Howl's A Howl",
+        "url": "https://open.spotify.com/album/41E6xyXC0qevSyTCbSEUV8"
+      },
+      "artists": [
+        {
+          "name": "Or:la",
+          "url": "https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "A Howl's A Howl - Edit",
+      "url": "https://open.spotify.com/track/6Pzu6OXQFazEB40LSKxJmt"
+    },
+    {
+      "album": {
         "name": "A New Love",
         "url": "https://open.spotify.com/album/2VEjBC4CS3bz3czXXsbXss"
       },
@@ -562,6 +580,24 @@
     },
     {
       "album": {
+        "name": "And You Feel",
+        "url": "https://open.spotify.com/album/1KiTU0BhF5FJmfyFTdXmVW"
+      },
+      "artists": [
+        {
+          "name": "FJAAK",
+          "url": "https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201712,
+      "name": "And You Feel",
+      "url": "https://open.spotify.com/track/0zLBD5Wgi4PPkN12q6pIb6"
+    },
+    {
+      "album": {
         "name": "Angels (The Bug Remix feat. Flowdan)",
         "url": "https://open.spotify.com/album/7mThMF2t1NkbETWkh6hLgg"
       },
@@ -589,6 +625,24 @@
     {
       "album": {
         "name": "Apricity",
+        "url": "https://open.spotify.com/album/5WXPZNtAZba0RtgshGVvxZ"
+      },
+      "artists": [
+        {
+          "name": "Throwing Snow",
+          "url": "https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168804,
+      "name": "Apricity",
+      "url": "https://open.spotify.com/track/39wyzSywzKw7opHDnbvOYq"
+    },
+    {
+      "album": {
+        "name": "Apricity",
         "url": "https://open.spotify.com/album/0paBFJ6xFIz42YmnrY3Mhd"
       },
       "artists": [
@@ -599,7 +653,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168804,
       "name": "Apricity",
       "url": "https://open.spotify.com/track/7b4ETGOkADvPTVVgOagZ93"
@@ -919,7 +973,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286511,
       "name": "Because",
       "url": "https://open.spotify.com/track/66hG5atvYEb11bXYtxMKVo"
@@ -1125,7 +1179,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155503,
       "name": "Bilbao",
       "url": "https://open.spotify.com/track/1PsoSsgINuEt7MiCk61NZb"
@@ -1183,6 +1237,24 @@
       "duration_ms": 122880,
       "name": "Bisho",
       "url": "https://open.spotify.com/track/5ekHa7G4JT4YxLVKLmOK78"
+    },
+    {
+      "album": {
+        "name": "If the Glove Fits EP",
+        "url": "https://open.spotify.com/album/0OFp3cSXSXP2hUd0PhGvhY"
+      },
+      "artists": [
+        {
+          "name": "DJ Polo",
+          "url": "https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227618,
+      "name": "Bloodhound",
+      "url": "https://open.spotify.com/track/2V1CdHp6fMJH2M2sRc0avO"
     },
     {
       "album": {
@@ -1399,7 +1471,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230164,
       "name": "Burndown",
       "url": "https://open.spotify.com/track/26YKQOvrXYr9zvcxzx7HJE"
@@ -2123,7 +2195,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312440,
       "name": "Delta Function",
       "url": "https://open.spotify.com/track/5BU2xQh5hTf2hvs3MF1vcD"
@@ -2331,6 +2403,28 @@
       "duration_ms": 262586,
       "name": "DOLO 20",
       "url": "https://open.spotify.com/track/6HDGvWWRuVroFCyhuIp5b3"
+    },
+    {
+      "album": {
+        "name": "Don't Be Stupid Day (Modeselektor Remix)",
+        "url": "https://open.spotify.com/album/0YAOxsKCcv4mtuigdR8eyf"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        },
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340452,
+      "name": "Don't Be Stupid Day - Modeselektor Remix",
+      "url": "https://open.spotify.com/track/1d8XQfo2fxkIRCW68KS6T6"
     },
     {
       "album": {
@@ -2958,6 +3052,24 @@
     },
     {
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/4XP6KUd1NFueLjtBmFPTwf"
+      },
+      "artists": [
+        {
+          "name": "Sylvere",
+          "url": "https://open.spotify.com/artist/6Uaezuj0rByRvQHRujnBcp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/3WImMeTIZTaiR97gWBpj9P"
+    },
+    {
+      "album": {
         "name": "Madvillainy",
         "url": "https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk"
       },
@@ -3527,7 +3639,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252029,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/1cIHj2iyp595Mu6uVHA8vF"
@@ -3937,10 +4049,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "album": {
@@ -4035,7 +4165,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167186,
       "name": "Hyendo Dancehall",
       "url": "https://open.spotify.com/track/1b9KeFwj3kztN1EC8lxDGt"
@@ -4061,6 +4191,24 @@
       "duration_ms": 155538,
       "name": "Hype Beast",
       "url": "https://open.spotify.com/track/6whBYdE8GepAR0X27SuYXo"
+    },
+    {
+      "album": {
+        "name": "Hyper Daddy",
+        "url": "https://open.spotify.com/album/1cTX8gvgZUheEKvA0ZLAlN"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334727,
+      "name": "Hyper Daddy",
+      "url": "https://open.spotify.com/track/0YAxRXw1CMuQxP58GsXm2P"
     },
     {
       "album": {
@@ -4324,6 +4472,24 @@
     },
     {
       "album": {
+        "name": "Multiplex",
+        "url": "https://open.spotify.com/album/4nIQLMbb7usCLzuSmPL2m0"
+      },
+      "artists": [
+        {
+          "name": "Atrice",
+          "url": "https://open.spotify.com/artist/66g7OuCatPNb4cqCHMOjHc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316718,
+      "name": "Is It Warm",
+      "url": "https://open.spotify.com/track/0d2OqVrIP233U3Vluyyb6C"
+    },
+    {
+      "album": {
         "name": "Is U",
         "url": "https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo"
       },
@@ -4397,7 +4563,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 344000,
       "name": "Joker",
       "url": "https://open.spotify.com/track/7tyle4iHBdXoCXnTtUe1Gs"
@@ -5717,7 +5883,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247651,
       "name": "No Dread!",
       "url": "https://open.spotify.com/track/5QWTMzgQmgURpbQM2vIQBB"
@@ -6927,7 +7093,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323829,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/5bVBdOVX77LPQLUKm8MPkj"
@@ -7513,7 +7679,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 496000,
       "name": "Silence Itself Is Noise - Nonstop Bass Version",
       "url": "https://open.spotify.com/track/5hFXoSjEg8dEnWM7Avdt7s"
@@ -8874,6 +9040,24 @@
     },
     {
       "album": {
+        "name": "Silence Itself Is Noise",
+        "url": "https://open.spotify.com/album/61XBCNhZNMm30akwax1Bfs"
+      },
+      "artists": [
+        {
+          "name": "NVST",
+          "url": "https://open.spotify.com/artist/2i6CfgugNAcdvTpowum8sU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473043,
+      "name": "Tiny Mistakes Feeling Hot - Hellisnotamyth Version",
+      "url": "https://open.spotify.com/track/00cFuKxKEudtZKV5MdgO1E"
+    },
+    {
+      "album": {
         "name": "Tiny Mistakes Feeling Hot (Hellisnotamyth Version)",
         "url": "https://open.spotify.com/album/0UNpGGaBs6zE42aXil46MA"
       },
@@ -9075,7 +9259,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241232,
       "name": "Toyota 2000 GT",
       "url": "https://open.spotify.com/track/4L47NZiIBFN7sOPYosRwM4"
@@ -9133,6 +9317,24 @@
       "duration_ms": 326003,
       "name": "Translation to Heaven",
       "url": "https://open.spotify.com/track/1zv7nMIgMYZoBjOpurzDK9"
+    },
+    {
+      "album": {
+        "name": "LIBEROSIS (ACT II)",
+        "url": "https://open.spotify.com/album/0uiCEFi6FM8LTWv6RsxnnC"
+      },
+      "artists": [
+        {
+          "name": "Canblaster",
+          "url": "https://open.spotify.com/artist/0IUKzbO8Ak6iMVUae225Wk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "TRANSMISSION",
+      "url": "https://open.spotify.com/track/74aCGPb3BPylVKgM3FXCWj"
     },
     {
       "album": {
@@ -9693,7 +9895,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 281143,
       "name": "Who",
       "url": "https://open.spotify.com/track/0SLrmN7eDfGrGQKKji1nKF"

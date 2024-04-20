@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,754 likes - 60 songs - 2 hr 57 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,736 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 59 | [I Got Paid Today](https://open.spotify.com/track/0e956pEKFmTCHO5fSwFXP8) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [I Got Paid Today](https://open.spotify.com/album/4DsaSDzXR06Zr1IBVFPa0i) | 3:32 |
 | 60 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 |
 
-Snapshot ID: `Nzc1Niw5MTE3OTBiMzNhMDlmYzdkNGU1YjQ4NmQ0OWRjNWI4MTJiNzc1YmFk`
+Snapshot ID: `Nzc1OCw1ZDI4MjMzMmQ3ODQzY2VkYzgwZTM3ZTRkNjlhMzJmZDc5NWEzZjIx`

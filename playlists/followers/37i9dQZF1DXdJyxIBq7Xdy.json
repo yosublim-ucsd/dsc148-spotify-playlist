@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 124575,
+  "2024-04-20": 124636,
   "date_first_scraped": "2021-12-28",
   "description": "The most definitive female voices in Disco. Cover: Chaka Khan",
   "name": "Queens of Disco",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185533,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/6frRCVVGa85JUPF4GOMXPz"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185533,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/70lxKQgs7U1W0IWPVs9NVv"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256665,
       "name": "Feels Like I'm in Love - 2022 Remaster",
       "url": "https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260746,
       "name": "Feels Like I'm In Love - Original Radio Mix",
       "url": "https://open.spotify.com/track/0MF3XV3L0oGokmU8qxYMba"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222800,
       "name": "Finally",
       "url": "https://open.spotify.com/track/59KZqNdwnWMV7xerB0ZsNZ"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239253,
       "name": "Funky Town",
       "url": "https://open.spotify.com/track/7723JnKU2R15Iv4T7OJrly"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234800,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/5Q6GRDSFdRwE7H37dQop9u"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197573,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5xqdvCH8vYWqk90X0HJ2z3"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198373,
       "name": "I Will Survive - Original 7\" Version",
       "url": "https://open.spotify.com/track/6fw12s3vAJQAt7lbICodwC"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180160,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0QjPiq9Wka9I1b4uzWETYI"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180586,
       "name": "If I Can't Have You - 2007 Remastered Version Saturday Night Fever",
       "url": "https://open.spotify.com/track/1tsWNtWxi7SVydMm2G1W6Z"
@@ -861,6 +861,24 @@
     {
       "album": {
         "name": "It's Raining Men",
+        "url": "https://open.spotify.com/album/6KrLqH25xsKvJwyiSRis5A"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "It's Raining Men - Single Version",
+      "url": "https://open.spotify.com/track/5kErKPSPv8EgdZ04R3el1K"
+    },
+    {
+      "album": {
+        "name": "It's Raining Men",
         "url": "https://open.spotify.com/album/29FzCeOr6UcJ1ilcbWwoyF"
       },
       "artists": [
@@ -871,7 +889,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214666,
       "name": "It's Raining Men - Single Version",
       "url": "https://open.spotify.com/track/1SfYqNab6yiVBKUHhEXGAD"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 250520,
       "name": "Knock On Wood",
       "url": "https://open.spotify.com/track/081prZUECLXcWgmg98FxDS"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248720,
       "name": "Knock on Wood (1985 7\" Remix)",
       "url": "https://open.spotify.com/track/0OUYuErgyc097NzSRff8UI"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217360,
       "name": "Love Come Down - Single Version",
       "url": "https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220626,
       "name": "Love Come Down - Single Version",
       "url": "https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366200,
       "name": "Love Sensation",
       "url": "https://open.spotify.com/track/3su8VunluUL4Oj7UTTEREt"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 366200,
       "name": "Love Sensation",
       "url": "https://open.spotify.com/track/4OmDRl8nlE1IkWkwS82nY3"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281693,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/3a5l5ngK3O7sprzL3FUoAs"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281693,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249293,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/5XMMIxXWNd0KswJpCEfibG"

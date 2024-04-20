@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,581 songs - 3 day 20 hr 32 min
+1,582 songs - 3 day 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Hóa Điên](https://open.spotify.com/track/1uqRi2xZxVSpg0q1gldbZE) | [LongDrae](https://open.spotify.com/artist/6wr5MFUyjHq8etSwa7Zlpw), [Juan](https://open.spotify.com/artist/33OL7ji9KqV0ZKL046GspG) | [Hóa Điên](https://open.spotify.com/album/3fgpJa4BSQR1RTappFKutz) | 3:47 | 2022-01-06 | 2022-01-15 |
 | [Hôm Nay Cuối Tuần \(feat\. LeWiuy\)](https://open.spotify.com/track/36tF4xpkndXKn7wpIbqmcZ) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY), [LeWiuy](https://open.spotify.com/artist/284Kopvh7L7NCkz00VFbqt) | [Hôm Nay Cuối Tuần \(feat\. LeWiuy\)](https://open.spotify.com/album/6we5ZOYE7pbvyU2b5Sm6zN) | 2:00 | 2023-05-15 | 2023-05-17 |
 | [Hôm Nay Ta Chia Tay](https://open.spotify.com/track/6Yw73JH1vRdSi7MJ5yE3uy) | [Summer Vee](https://open.spotify.com/artist/6gWEeFGU5pCS3WOabthYiI), [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Hôm Nay Ta Chia Tay](https://open.spotify.com/album/1qrNZHuHCshg4TcF5DtXr2) | 3:42 | 2023-10-26 | 2023-11-23 |
+| [Hôn Anh Mỗi Lúc Đôi Mình Gặp](https://open.spotify.com/track/2PxG0Q5ANvpc87tp34TdP7) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB) | [Hôn Anh Mỗi Lúc Đôi Mình Gặp](https://open.spotify.com/album/3fe12zSUbNPaqjjpgEkmko) | 3:47 | 2024-04-19 |  |
 | [hôn anh đi](https://open.spotify.com/track/3Yk8KUFgdyUm0KIMadZ94e) | [Hoāng](https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf) | [hôn anh đi](https://open.spotify.com/album/10ZV1R3K4BxsrZLT4UqEaz) | 2:28 | 2023-05-01 | 2023-12-30 |
 | [Hôn lên môi mềm](https://open.spotify.com/track/4s3wKZgNND9ZC74nn8ouiN) | [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI) | [Hôn lên môi mềm](https://open.spotify.com/album/5sbAghW66oWjnSfWy7LGqY) | 3:17 | 2023-01-06 | 2023-03-18 |
 | [Hương Tình Yêu](https://open.spotify.com/track/1ie16BdlU6DPT3rKjIYskG) | [Dâu Tây](https://open.spotify.com/artist/6nZiSrlrBjy8d3nfRDO1wp), [DXY](https://open.spotify.com/artist/0JkfirEBER65Ny2jL0540c) | [Hương Tình Yêu](https://open.spotify.com/album/2hd31pCXFROrst58vY8dyX) | 3:39 | 2023-07-18 | 2023-08-11 |

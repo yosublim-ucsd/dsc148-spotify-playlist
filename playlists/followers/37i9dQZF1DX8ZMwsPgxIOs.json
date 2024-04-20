@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 123330,
+  "2024-04-20": 123371,
   "date_first_scraped": "2022-04-20",
   "description": "Techno is a state of mind. Cover: Daniel Avery",
   "name": "Techno State",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
@@ -2035,7 +2035,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/0oExQ5XYiJ1Htipki2J7Hb"
@@ -2057,7 +2057,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217983,
       "name": "Faust",
       "url": "https://open.spotify.com/track/4nlH5jTAEsKrWYYVfUouRX"
@@ -2627,7 +2627,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208601,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/475r8pbikqtqehhc1qUIOf"
@@ -2653,7 +2653,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 208601,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7"
@@ -3125,10 +3125,32 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173378,
       "name": "Let's Begin",
       "url": "https://open.spotify.com/track/46Fsgmz1Zc5ZMmhqFGmjaF"
+    },
+    {
+      "album": {
+        "name": "Let's Begin",
+        "url": "https://open.spotify.com/album/4TvX73hXaxA2azDStbjK34"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180709,
+      "name": "Let's Begin",
+      "url": "https://open.spotify.com/track/5rQidhiVNp5BJe7gwwIS0p"
     },
     {
       "album": {
@@ -3935,6 +3957,28 @@
     {
       "album": {
         "name": "Loam / New Symbols",
+        "url": "https://open.spotify.com/album/768T6jfNag4j21bMUTfzFb"
+      },
+      "artists": [
+        {
+          "name": "SCALER",
+          "url": "https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252617,
+      "name": "New Symbols",
+      "url": "https://open.spotify.com/track/3dDJ9g1KRj0c4b0WEPSZwx"
+    },
+    {
+      "album": {
+        "name": "Loam / New Symbols",
         "url": "https://open.spotify.com/album/68iZNNrpkM91TSXbGmMAhL"
       },
       "artists": [
@@ -3971,7 +4015,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252617,
       "name": "New Symbols",
       "url": "https://open.spotify.com/track/6ScTdZWvz90T6EC7WQL2de"
@@ -4507,7 +4551,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f"
@@ -4525,7 +4569,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
@@ -4999,7 +5043,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 303845,
       "name": "Running",
       "url": "https://open.spotify.com/track/23a8sZQihpGchTB8ordsLP"
@@ -5017,7 +5061,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303845,
       "name": "Running",
       "url": "https://open.spotify.com/track/4zw3xwoXdGw50VKlHGDF6H"
@@ -6687,7 +6731,7 @@
     {
       "album": {
         "name": "Wonderland",
-        "url": "https://open.spotify.com/album/4ACOWpacKULoUqkTAw8DlL"
+        "url": "https://open.spotify.com/album/1hMa6QSJolhH3EYaX7siNR"
       },
       "artists": [
         {
@@ -6698,6 +6742,24 @@
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 344500,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/3IS0Tjx5Lp3XZVG2EOcxwW"
+    },
+    {
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/4ACOWpacKULoUqkTAw8DlL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 344500,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/6bEHsyiVaK9agrtndxqX7U"

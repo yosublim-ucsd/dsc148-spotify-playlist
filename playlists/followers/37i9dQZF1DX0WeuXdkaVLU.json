@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 43366,
+  "2024-04-20": 43382,
   "date_first_scraped": "2022-10-21",
   "description": "Music from and inspired by The School for Good and Evil. Watch now on Netflix.\n",
   "name": "The School For Good And Evil Official Playlist",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 151874,
       "name": "Gregor's Third Fail",
       "url": "https://open.spotify.com/track/3JoPiSoaCuCnSoSUhCYaSn"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151874,
       "name": "Gregor's Third Fail",
       "url": "https://open.spotify.com/track/7BL8e1cN2TQCFapJjtgryJ"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166013,
       "name": "mememe",
       "url": "https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169946,
       "name": "Rock & Roll Queen",
       "url": "https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 169946,
       "name": "Rock & Roll Queen",
       "url": "https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 263452,
       "name": "The Ever Ball",
       "url": "https://open.spotify.com/track/5BIUpHqrXFecyDzTAlbHp9"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263452,
       "name": "The Ever Ball",
       "url": "https://open.spotify.com/track/6UeG5ncu0OKMmf3MuBJ93H"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 182234,
       "name": "The Stymph",
       "url": "https://open.spotify.com/track/6neDaEkc7o1iJfCyr0kFpt"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182234,
       "name": "The Stymph",
       "url": "https://open.spotify.com/track/7nTFxjURswzKehFVNkzjcd"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/7BNTExktKvdHBU9yspah6H"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
@@ -514,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Sequels",
+        "url": "https://open.spotify.com/album/4PBhKayEcOZG2LXoWiiMEO"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5zj80ti5GGOgMwXHWyqaDm"
+    },
+    {
+      "album": {
         "name": "The School For Good And Evil (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/23miUXQGfu8FT8D8N0R398"
       },
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179505,
       "name": "True Love",
       "url": "https://open.spotify.com/track/4lCH00JMunFbuaySSm66HV"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 179505,
       "name": "True Love",
       "url": "https://open.spotify.com/track/59LlVNnNW1YV0MHtyziRfm"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 210942,
       "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
       "url": "https://open.spotify.com/track/4vNwP4hi3Ep76kQ4fTx7P6"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210942,
       "name": "Who Do You Think You Are (from the Netflix Film \"The School For Good And Evil\")",
       "url": "https://open.spotify.com/track/5FXxHdzu0WW1ArMWrvlgHt"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170226,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"

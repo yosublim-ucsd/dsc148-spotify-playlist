@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 293352,
+  "2024-04-20": 293563,
   "date_first_scraped": "2022-05-23",
   "description": "Seguimos arremangados, pariente. El Komander en portada.",
   "name": "Corridos Alterados",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212192,
       "name": "Asociacion Antrax",
       "url": "https://open.spotify.com/track/7DUmB7PmTyuEGUKZZb4eTo"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 212145,
       "name": "Asociacion Antrax",
       "url": "https://open.spotify.com/track/0Urvla5f7y5bAZFXJKOLzh"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215146,
       "name": "Carteles Unidos",
       "url": "https://open.spotify.com/track/2T94dCgIybiU2P37umlbuc"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215146,
       "name": "Carteles Unidos",
       "url": "https://open.spotify.com/track/5YPGbg0Yp83gTb4i7fCBad"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251746,
       "name": "Comando X (En Vivo)",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162306,
       "name": "Corrido Del Invalido",
       "url": "https://open.spotify.com/track/3JlnKdYKmLDestzbgPsSiJ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147278,
       "name": "Demonios Empecherados",
       "url": "https://open.spotify.com/track/0rJqRo2gZrY1ThBVrxINE5"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147346,
       "name": "Demonios Empecherados",
       "url": "https://open.spotify.com/track/5dF8rsyF2E8Izms8qpx1mn"
@@ -763,6 +763,24 @@
     {
       "album": {
         "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131626,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/4WVB9AmaahfQvqH3ofY6OU"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
       },
       "artists": [
@@ -773,7 +791,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133226,
       "name": "El Cholo",
       "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185133,
       "name": "El Costal Lleno de Piedras",
       "url": "https://open.spotify.com/track/16fL1etDVvRrk2iMUIIP9m"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "El Costal Lleno De Piedras",
       "url": "https://open.spotify.com/track/5GecewIYAkK4wn7CmXf56X"
@@ -1044,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "Te Amar\u00e9 M\u00e1s",
+        "url": "https://open.spotify.com/album/3SYJourvQ3NkIukGXfOYUe"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210546,
+      "name": "El G\u00fcero Rey Del Pop",
+      "url": "https://open.spotify.com/track/7dglAhtmAgzTUutDwM2zne"
+    },
+    {
+      "album": {
         "name": "Invasi\u00f3n Del Corrido 2014",
         "url": "https://open.spotify.com/album/4uhLECQ2IKp7Lpf5Lwst1R"
       },
@@ -1055,7 +1091,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210666,
       "name": "El G\u00fcero Rey Del Pop",
       "url": "https://open.spotify.com/track/5Y481yMqaljbPmJehun6YE"
@@ -1091,7 +1127,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164306,
       "name": "El Invalido",
       "url": "https://open.spotify.com/track/6slyAwU92H8O6OdknGDj6D"
@@ -1116,7 +1152,7 @@
     },
     {
       "album": {
-        "name": "Los Reyes del Movimiento Alterado",
+        "name": "Los Reyes Del Movimiento Alterado",
         "url": "https://open.spotify.com/album/643E8uNalA0RcrJWyT0WlU"
       },
       "artists": [
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 190694,
       "name": "El Mini 6",
       "url": "https://open.spotify.com/track/3jUfQmjqTE3VUcVESl0zXR"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188653,
       "name": "El Mini 6",
       "url": "https://open.spotify.com/track/7zb0RmTywqI6Y4ErGctRIw"
@@ -1199,7 +1235,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152760,
       "name": "El Mochomo",
       "url": "https://open.spotify.com/track/4I7UKv1Cg5Feote1cQHSEM"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 154786,
       "name": "El Mochomo",
       "url": "https://open.spotify.com/track/4I7v9Wht7b1MlHaTQA0fD3"
@@ -1307,7 +1343,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142933,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/0svJOFPsTekhRSUvMdiGPt"
@@ -1325,7 +1361,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149360,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT"
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145493,
       "name": "Estrategia De Escape",
       "url": "https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO"
@@ -1599,7 +1635,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 147540,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/58o5ZiVHfAvBmfUyG49Ff0"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174573,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch"
@@ -1653,7 +1689,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174586,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3g1GoAq0u4uDzrXFgvMII2"
@@ -1823,7 +1859,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277460,
       "name": "La Fuga Del Dorian",
       "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
@@ -1849,7 +1885,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 277421,
       "name": "La Fuga del Dorian (feat. Ariel Camacho & Regulo Caro)",
       "url": "https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK"
@@ -1874,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "'10 Exitazos \"A Cada Instante\"",
+        "url": "https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215920,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/2iBdXFIWdH4iTk4lYS5cl9"
+    },
+    {
+      "album": {
         "name": "\"14 Exitos\" A Cada Instante",
         "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
       },
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215920,
       "name": "La Hielera",
       "url": "https://open.spotify.com/track/7hIPNq6BMFEDJxfio5I1wz"
@@ -2027,6 +2081,24 @@
     {
       "album": {
         "name": "Cazador",
+        "url": "https://open.spotify.com/album/1NFegXo6SrRMFphOg6WD0Z"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "Leyenda M1",
+      "url": "https://open.spotify.com/track/1JH8qEJViTLeO0DI8rV2lc"
+    },
+    {
+      "album": {
+        "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
       "artists": [
@@ -2037,7 +2109,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170125,
       "name": "Leyenda M1",
       "url": "https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg"
@@ -2091,7 +2163,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163226,
       "name": "Locos Desde Ayer",
       "url": "https://open.spotify.com/track/0SB6IWsJ2Kh9A9yGCqKShK"
@@ -2109,7 +2181,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163226,
       "name": "Locos Desde Ayer",
       "url": "https://open.spotify.com/track/5kOerWLruDrwe8zA9HPglH"
@@ -2225,7 +2297,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146466,
       "name": "Mi Amigo el de Arriba",
       "url": "https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t"
@@ -2243,7 +2315,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146466,
       "name": "Mi Amigo el de Arriba",
       "url": "https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh"
@@ -2315,7 +2387,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 119560,
       "name": "Nomas Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/4U9eW3OUYu9OSSXDVAOzGH"
@@ -2333,7 +2405,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117560,
       "name": "Nom\u00e1s Por Ser Sinaloense",
       "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
@@ -2369,7 +2441,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173296,
       "name": "Pedron Antrax",
       "url": "https://open.spotify.com/track/0Ld7lnkuiJqBdp0gAHjfRB"
@@ -2387,7 +2459,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173348,
       "name": "Pedron Antraxx",
       "url": "https://open.spotify.com/track/2uy6QtsEoLpG1qxKfBWj8r"
@@ -2503,6 +2575,24 @@
     {
       "album": {
         "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154680,
+      "name": "Se Volvi\u00f3 a Pelar Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/3XbIdyZv6wDskRwcwsG1tE"
+    },
+    {
+      "album": {
+        "name": "Historias de la Calle",
         "url": "https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T"
       },
       "artists": [
@@ -2513,7 +2603,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154680,
       "name": "Se Volvi\u00f3 a Pelar Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy"
@@ -2629,7 +2719,7 @@
     {
       "album": {
         "name": "Ya No Soy El Mandadero",
-        "url": "https://open.spotify.com/album/0uvttypHOnDWBUHnVUTUnt"
+        "url": "https://open.spotify.com/album/4sD9anXMiowwm0b4BJWGb3"
       },
       "artists": [
         {
@@ -2640,6 +2730,24 @@
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 159312,
+      "name": "Ya No Soy El Mandadero",
+      "url": "https://open.spotify.com/track/08xODKn2QMuLP0EvEFql5F"
+    },
+    {
+      "album": {
+        "name": "Ya No Soy El Mandadero",
+        "url": "https://open.spotify.com/album/0uvttypHOnDWBUHnVUTUnt"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 159312,
       "name": "Ya No Soy El Mandadero",
       "url": "https://open.spotify.com/track/2y35fbHveQHSJjYPf4LPY0"

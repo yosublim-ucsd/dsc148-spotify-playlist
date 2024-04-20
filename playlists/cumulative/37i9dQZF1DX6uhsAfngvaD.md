@@ -4,7 +4,7 @@
 
 > Blissful indie for dreamers.
 
-399 songs - 1 day 1 hr 12 min
+400 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,9 @@
 | [In Manchester](https://open.spotify.com/track/3uXzuLlEEdMzlxKtXGRnzI) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [In Manchester](https://open.spotify.com/album/0LJd6B1C9qbUTBOq7wmkTU) | 2:53 | 2022-07-06 | 2023-03-25 |
 | [In My Dreams](https://open.spotify.com/track/2dDzrUEDCKXaLViMPa1jo5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:21 | 2020-12-22 | 2021-02-26 |
 | [In my hand](https://open.spotify.com/track/3cjTqH0FJghhtaheWNkNv7) | [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Violet Sun](https://open.spotify.com/album/5yfMZ1JBzHx1Nt4VYb824M) | 4:21 | 2021-02-06 | 2022-04-21 |
+| [In Our Own Way](https://open.spotify.com/track/6fU43kp4WjcxAyqNGj9JUQ) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [So Long Babylon](https://open.spotify.com/album/6wDOrVYuEDl0I7ejxnV0ty) | 3:42 | 2023-09-29 |  |
 | [In Reference To](https://open.spotify.com/track/4soIPMs2XqUFu9roKupZ8I) | [Foliage](https://open.spotify.com/artist/6GO4Noo5C7TXVHxGNClp2w) | [In Reference To](https://open.spotify.com/album/4Ut9MpqwYYcIS8iSIy1iAA) | 2:29 | 2019-11-19\* | 2022-07-15 |
-| [Inhibitions](https://open.spotify.com/track/5pNuuqyMYUBBmPCkmACAUZ) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Inhibitions](https://open.spotify.com/album/2SsBHM9H3H6OV0tHP8nEXB) | 3:47 | 2024-01-26 |  |
+| [Inhibitions](https://open.spotify.com/track/5pNuuqyMYUBBmPCkmACAUZ) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Inhibitions](https://open.spotify.com/album/2SsBHM9H3H6OV0tHP8nEXB) | 3:47 | 2024-01-26 | 2024-04-20 |
 | [Inside Illumination](https://open.spotify.com/track/5KXPhIqiXPUBCxH3jyc10U) | [Hibou](https://open.spotify.com/artist/60S3PHPmmVaBxa0zrcAiHq) | [Halve](https://open.spotify.com/album/3oVHdKhjUrU1D7B3pTTosX) | 3:53 | 2019-11-19\* | 2021-02-06 |
 | [Into You](https://open.spotify.com/track/3mFiltbUQfGVJdNcOVlT2U) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Into You](https://open.spotify.com/album/1FWYeLDbM2L5ZoM9X1GS9M) | 3:01 | 2021-10-09 | 2022-04-25 |
 | [Invierno](https://open.spotify.com/track/7DhCa1BLOVHTYwfZfL1TnQ) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Invierno](https://open.spotify.com/album/4l0iug24BEXMXEy4xci7VR) | 4:16 | 2020-09-19 | 2020-12-22 |
@@ -199,7 +200,7 @@
 | [Jennifer](https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv) | 4:00 | 2020-09-19 | 2022-07-28 |
 | [Jeune](https://open.spotify.com/track/3HV9YnoYACjlrJ5CiZ3hLj) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Jeune](https://open.spotify.com/album/0ra3Nkh7kqEUEtReZ6rbEY) | 4:18 | 2019-11-19\* | 2022-07-29 |
 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 | 2022-07-06 | 2024-04-19 |
-| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 | 2023-03-25 |
+| [Just Like Fireflies](https://open.spotify.com/track/5X632JMfT1LF7P1RtVHV9Q) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Ethernity](https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8) | 2:40 | 2021-02-26 |  |
 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 | 2020-12-22 |  |
 | [Keep You Warm](https://open.spotify.com/track/4GjWZDfWw5ZnW9vmioJwY0) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [This Empty Town](https://open.spotify.com/album/4BOldAGooVBHr4LZsyVjAL) | 4:16 | 2020-08-09 |  |
 | [Kid](https://open.spotify.com/track/3JZHzeKukmftdMKUoI87Jj) | [lostboy](https://open.spotify.com/artist/04f7oedbbC2KFDfqt8tGX5) | [Kid](https://open.spotify.com/album/7EY8Lrp6ttJuhUDMpJTdkz) | 3:13 | 2020-12-11 | 2021-03-06 |
@@ -338,7 +339,7 @@
 | [Stay And Rest For A While](https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Stay And Rest For A While](https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL) | 2:53 | 2020-09-19 |  |
 | [Studio 54](https://open.spotify.com/track/3mxvUliPDlHWk9kCVRjwNJ) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Studio 54](https://open.spotify.com/album/0eP9LS0GwxgVtSuJBkEf67) | 3:14 | 2024-02-09 |  |
 | [Suddenly](https://open.spotify.com/track/14IN2apSi57uPG9hAC8kfL) | [Kevin Krauter](https://open.spotify.com/artist/66N2tY3w6pwH2otV7Yj1AI) | [Suddenly](https://open.spotify.com/album/5FIsJmUeD5KVcc4aMOqkEh) | 4:10 | 2019-11-19\* | 2020-12-22 |
-| [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 |  |
+| [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 | 2024-04-20 |
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-07-21 | 2024-04-19 |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-10 |  |
 | [summer bruises](https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [summer bruises](https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI) | 2:54 | 2021-07-30 | 2023-10-07 |

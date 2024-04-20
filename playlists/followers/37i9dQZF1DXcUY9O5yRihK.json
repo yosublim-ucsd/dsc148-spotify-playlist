@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 110419,
+  "2024-04-20": 110467,
   "date_first_scraped": "2023-01-18",
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
   "name": "bossa pop",
@@ -337,7 +337,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 246693,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 258713,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 179110,
       "name": "Entre nous",
       "url": "https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179110,
       "name": "Entre nous",
       "url": "https://open.spotify.com/track/7bmtlgtRezmSH5vgDGzQig"
@@ -743,6 +743,28 @@
     {
       "album": {
         "name": "Falling for U",
+        "url": "https://open.spotify.com/album/1XcWosLrZX4QBLJCkVR3dm"
+      },
+      "artists": [
+        {
+          "name": "Peachy!",
+          "url": "https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Falling for U",
+      "url": "https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ"
+    },
+    {
+      "album": {
+        "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
       "artists": [
@@ -757,7 +779,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
@@ -949,6 +971,24 @@
     {
       "album": {
         "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0MgXt3BuZIRMEGaVI3uOU8"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "I'll Play the Fool",
+      "url": "https://open.spotify.com/track/0ypsakEytTz70C7OgZjfbf"
+    },
+    {
+      "album": {
+        "name": "Claude Fontaine",
         "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
       },
       "artists": [
@@ -959,7 +999,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168333,
       "name": "I'll Play the Fool",
       "url": "https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5"
@@ -1013,7 +1053,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 164444,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ"
@@ -1031,7 +1071,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164444,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6qU4WFDcW9ENITjPMdY3bC"
@@ -1483,7 +1523,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
@@ -1505,7 +1545,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa"
@@ -1599,7 +1639,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 167777,
       "name": "Seaside Adventures",
       "url": "https://open.spotify.com/track/3W4aAUuDXMCS6QgZR7cTur"
@@ -1621,7 +1661,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167777,
       "name": "Seaside Adventures",
       "url": "https://open.spotify.com/track/5deQ46BnmgeUzCeuFfVINX"
@@ -1729,7 +1769,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
@@ -1747,7 +1787,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"
@@ -1892,6 +1932,24 @@
     },
     {
       "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Those Eyes",
+      "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "album": {
         "name": "Based On A True Story...",
         "url": "https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz"
       },
@@ -1903,7 +1961,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
@@ -2037,7 +2095,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168146,
       "name": "Vanilla Tobacco",
       "url": "https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7"
@@ -2055,7 +2113,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 168146,
       "name": "Vanilla Tobacco",
       "url": "https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G"
@@ -2121,10 +2179,32 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150375,
       "name": "When I Look Into Your Eyes",
       "url": "https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL"
+    },
+    {
+      "album": {
+        "name": "When I Look Into Your Eyes",
+        "url": "https://open.spotify.com/album/3xqyYyzPoVUHCx47Z3DKXL"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        },
+        {
+          "name": "Lanie",
+          "url": "https://open.spotify.com/artist/2pBj0UUyoiPMnsHb21cI3X"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150375,
+      "name": "When I Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/7miWgY1Pa5qXOEwtNC5scT"
     },
     {
       "album": {

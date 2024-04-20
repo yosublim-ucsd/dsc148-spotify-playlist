@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 18341,
+  "2024-04-20": 4048,
   "date_first_scraped": "2023-05-28",
   "description": "La m\u00fasica de ayer, el party de hoy.",
   "name": "TBT Party",
@@ -123,10 +123,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170493,
       "name": "Ai Se Eu Te Pego - Ao Vivo",
       "url": "https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5"
+    },
+    {
+      "album": {
+        "name": "Na Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170493,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd"
     },
     {
       "album": {
@@ -289,10 +307,36 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243413,
       "name": "Bailando - Spanish Version",
       "url": "https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E"
+    },
+    {
+      "album": {
+        "name": "SEX AND LOVE",
+        "url": "https://open.spotify.com/album/0D9UgUqXsk2d36GTMjlDHx"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243413,
+      "name": "Bailando - Spanish Version",
+      "url": "https://open.spotify.com/track/75EveQXAVJzwuEO9gjfyGZ"
     },
     {
       "album": {
@@ -466,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/3c4X405pSWuBiJBN3xzPjd"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207528,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/2YAQa5dl4GWo0GuVliWvdR"
+    },
+    {
+      "album": {
         "name": "Love And Sex",
         "url": "https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE"
       },
@@ -477,7 +539,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
@@ -575,7 +637,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221768,
       "name": "Como Yo Le Doy",
       "url": "https://open.spotify.com/track/3a0nKMqmHDoX1fYdY8ioJ3"
@@ -597,6 +659,24 @@
       "duration_ms": 221768,
       "name": "Como Yo Le Doy",
       "url": "https://open.spotify.com/track/4sUvL7D0XXsxWxHsIB3Cmj"
+    },
+    {
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/42RU6umN39He1k4je9NuXr"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222376,
+      "name": "Como Yo le Doy",
+      "url": "https://open.spotify.com/track/7mgzOfPPygzCNdnxZBkxns"
     },
     {
       "album": {
@@ -637,10 +717,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186976,
       "name": "Corazon De Seda (feat. Ozuna)",
       "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+    },
+    {
+      "album": {
+        "name": "Obligao un Klasico",
+        "url": "https://open.spotify.com/album/46xuHwsgnUBsgXZiZRcEVm"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187115,
+      "name": "Coraz\u00f3n de Seda",
+      "url": "https://open.spotify.com/track/4DBGR3IYH4ev89MfJbrs3j"
     },
     {
       "album": {
@@ -754,6 +852,24 @@
     },
     {
       "album": {
+        "name": "Soy el Mismo (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1j4eaaKBHBV6msIWyy4a3W"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/3DNU9JryXVYwIevvBaQDCq"
+    },
+    {
+      "album": {
         "name": "Soy el Mismo",
         "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
       },
@@ -765,7 +881,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
@@ -875,6 +991,28 @@
     {
       "album": {
         "name": "Don Omar Presents MTO2: New Generation",
+        "url": "https://open.spotify.com/album/24j7U1hm7C8WDr8cMdKcxt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Dutty Love",
+      "url": "https://open.spotify.com/track/2U4kPiipwfc2oHmd0nGoj5"
+    },
+    {
+      "album": {
+        "name": "Don Omar Presents MTO2: New Generation",
         "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
       },
       "artists": [
@@ -889,7 +1027,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285333,
       "name": "Dutty Love",
       "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
@@ -968,6 +1106,32 @@
     },
     {
       "album": {
+        "name": "El Taxi 2016 - Compilation (Reggaeton Dembow Urbano Latin Hits)",
+        "url": "https://open.spotify.com/album/7dDxCFhoOSdaoSZsobAJr6"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Osmani Garcia \"La Voz\"",
+          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
+        },
+        {
+          "name": "Sensato",
+          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "El Taxi",
+      "url": "https://open.spotify.com/track/5wTOtQJquKIQmazH73kCCZ"
+    },
+    {
+      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm"
       },
@@ -987,7 +1151,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249800,
       "name": "El Taxi",
       "url": "https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd"
@@ -1045,10 +1209,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232786,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/5uWJP1QRmJemAFD3JH2LOG"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/2cnKEkpVUSV4wnjQiTWfH6"
     },
     {
       "album": {
@@ -1071,7 +1257,7 @@
     {
       "album": {
         "name": "Esto No Es una Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/47fmtvoExKkyofMruJytsP"
+        "url": "https://open.spotify.com/album/5o7uOzGbKbiWQ4cW6siJKD"
       },
       "artists": [
         {
@@ -1090,6 +1276,32 @@
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234684,
+      "name": "Esto No Es una Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/69VysevcIIxfwAZ6JcggfN"
+    },
+    {
+      "album": {
+        "name": "Esto No Es una Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/47fmtvoExKkyofMruJytsP"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Gianluca",
+          "url": "https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 238636,
       "name": "Esto No Es una Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/1DdM2wd04Ti5U5UC5Zt3cp"
@@ -1154,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Ginza",
+        "url": "https://open.spotify.com/album/3uapVjkraqBHrquMsumHQE"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170186,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/4rrkKXxlsrze8bVEzRaTFV"
+    },
+    {
+      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -1165,7 +1395,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
@@ -1190,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Hasta el Amanecer",
+        "url": "https://open.spotify.com/album/6gbIsqkDWDqgsIVz4dZZlV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/6xBUgkSnLyvrh480YSMiMu"
+    },
+    {
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -1201,7 +1449,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198706,
       "name": "Hasta el Amanecer",
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
@@ -1359,10 +1607,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202826,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
+    },
+    {
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3g09ln1DeyjtPhlITh8DzT"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6XE2V2icEranw5YpS4WMDD"
     },
     {
       "album": {
@@ -1568,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "SIE7E",
+        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
+    },
+    {
+      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -1579,7 +1863,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182600,
       "name": "Mala Fama",
       "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
@@ -1860,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "Olha a Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QKoUnOfhE67ZxyCPVSnrY"
+      },
+      "artists": [
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161593,
+      "name": "Olha a Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6m2LNopVJKsvBB9l7Z1rwn"
+    },
+    {
+      "album": {
         "name": "Olha A Explos\u00e3o",
         "url": "https://open.spotify.com/album/4QEhWb117FJJ8HowEyn6pg"
       },
@@ -1871,7 +2173,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162053,
       "name": "Olha A Explos\u00e3o",
       "url": "https://open.spotify.com/track/6Q4foUefrAyCt8VxJFML56"
@@ -2026,6 +2328,24 @@
     },
     {
       "album": {
+        "name": "El Principe (Ghost Edition)",
+        "url": "https://open.spotify.com/album/2xewTv2y5yrMwA36X2Vxzs"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238475,
+      "name": "Prrrum",
+      "url": "https://open.spotify.com/track/23YEpFgAVvr0w3cDm7EQ1Q"
+    },
+    {
+      "album": {
         "name": "El Pr\u00edncipe [Ghost Edition]",
         "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
       },
@@ -2037,7 +2357,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238564,
       "name": "Prrrum",
       "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
@@ -2121,10 +2441,40 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/2LYwooMTH1iJeBvWyXXWUf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6rQSrBHf7HlZjtcMZ4S4bO"
     },
     {
       "album": {
@@ -2173,6 +2523,28 @@
     {
       "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/1FvTfT61pqrVLvT0G6SZrI"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat. DrefQuila)",
+      "url": "https://open.spotify.com/track/3dLiBBKbeUIhzGNeuo5JGS"
+    },
+    {
+      "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
       "artists": [
@@ -2187,7 +2559,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
@@ -2417,10 +2789,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195369,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
+    },
+    {
+      "album": {
+        "name": "Travesuras",
+        "url": "https://open.spotify.com/album/72tA3bfUAeM6RXl05ZXVll"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/3UrkxirgVX8fMjsS8YHC9z"
     },
     {
       "album": {
@@ -2585,10 +2975,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3TTyacjW1uj2N4dfQIeguS"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173627,
+      "name": "X",
+      "url": "https://open.spotify.com/track/2zKhN4gBTln4QgDo2KYuML"
     },
     {
       "album": {
@@ -2643,10 +3055,50 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263973,
       "name": "Zumba",
       "url": "https://open.spotify.com/track/2xcHJ5YpRL7wgSfsBnIktB"
+    },
+    {
+      "album": {
+        "name": "Don Omar Presents MTO2: New Generation",
+        "url": "https://open.spotify.com/album/24j7U1hm7C8WDr8cMdKcxt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263973,
+      "name": "Zumba",
+      "url": "https://open.spotify.com/track/43CL49bukqUMNxontuQtR2"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame La Culpa",
+        "url": "https://open.spotify.com/album/2wRRkEL20LRmLg64NI2Ru2"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173720,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/1zsG4eaZmkA1dvjDDsAGLK"
     },
     {
       "album": {
@@ -2665,7 +3117,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173800,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"

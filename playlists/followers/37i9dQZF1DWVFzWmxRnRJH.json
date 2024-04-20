@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 258523,
+  "2024-04-20": 258662,
   "date_first_scraped": "2022-01-02",
   "description": "A fun library of country hits to pass on to the next generation!",
   "name": "Raised on Country",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204200,
       "name": "Big Green Tractor",
       "url": "https://open.spotify.com/track/0Ajm7DFmbGEURySKm7G2jf"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238146,
       "name": "Chicken Fried",
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 225626,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201600,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/15jhnquhNS1IZMlM493UBW"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202786,
       "name": "Fishin' in the Dark",
       "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214863,
       "name": "Honey, I'm Home",
       "url": "https://open.spotify.com/track/6wVQwC2P8K4e3poaJ6ieRh"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197533,
       "name": "I've Been Everywhere",
       "url": "https://open.spotify.com/track/2vLPGv0TAzbY68zYBbRCD3"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228653,
       "name": "International Harvester",
       "url": "https://open.spotify.com/track/43Z2NVNkX2TuDymLQ89pI2"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 272066,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
@@ -1817,7 +1817,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187000,
       "name": "Make It Sweet",
       "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 134453,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230373,
       "name": "Redneck Yacht Club",
       "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 180160,
       "name": "T-R-O-U-B-L-E",
       "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "This One's for the Girls",
       "url": "https://open.spotify.com/track/01CnYyPXMFRzOFVQBU8WMb"
@@ -3265,7 +3265,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"

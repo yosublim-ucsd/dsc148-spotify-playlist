@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 504382,
+  "2024-04-20": 504461,
   "date_first_scraped": "2024-01-30",
   "description": "Celebrate Frozen's 10th anniversary and listen to all of your Frozen favorites in this official playlist. Stream the Frozen Collection on Disney+!",
   "name": "Frozen Official Playlist",
@@ -119,10 +119,36 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7Ctju5iILqGbvMKG6CgTl9"
     },
     {
       "album": {
@@ -198,8 +224,8 @@
     },
     {
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
       "artists": [
         {
@@ -216,12 +242,34 @@
       "date_removed": null,
       "duration_ms": 182106,
       "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14"
+      "url": "https://open.spotify.com/track/3JOfOrmLwNGMyEKyXqVW4w"
     },
     {
       "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Maia Wilson",
+          "url": "https://open.spotify.com/artist/5FghcZFWriEQFftyizgKEU"
+        },
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 182106,
+      "name": "Fixer Upper - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5covTs92HnHJwAWrXF7l14"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
       "artists": [
         {
@@ -238,7 +286,7 @@
       "date_removed": null,
       "duration_ms": 149640,
       "name": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/65GjU6KDPzF5IO143vvTgn"
+      "url": "https://open.spotify.com/track/2fKpTXKdpvi5BqH7leAUEU"
     },
     {
       "album": {
@@ -257,10 +305,72 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 149640,
+      "name": "For the First Time in Forever (Reprise) - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/65GjU6KDPzF5IO143vvTgn"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225080,
       "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1SCw7GSw06Fpk5vQilILui"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Frozen Heart - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0pLvr6YsKHnu8HmHKfrKOa"
     },
     {
       "album": {
@@ -275,7 +385,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105293,
       "name": "Frozen Heart - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3xDVJcvcKedshWlT3qGSHk"
@@ -495,10 +605,28 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110986,
       "name": "In Summer - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/285xiuxDq0tEg2RuISS3Eu"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110986,
+      "name": "In Summer - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6p6AMtWxEt4W2jc3HmpqdB"
     },
     {
       "album": {
@@ -614,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Let It Go - From \"Frozen / Single Version",
+      "url": "https://open.spotify.com/track/0bTnB8YDYijhQbSWwpQYDU"
+    },
+    {
+      "album": {
         "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
         "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
       },
@@ -625,7 +771,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224386,
       "name": "Let It Go - From \"Frozen / Single Version",
       "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
@@ -643,10 +789,28 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
     },
     {
       "album": {
@@ -701,10 +865,32 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124733,
       "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5ufE60D3rxtqP7xLrL4AEL"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124733,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6PlHaDiKonFXoKz1Lbdn53"
     },
     {
       "album": {
@@ -821,10 +1007,28 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 50960,
       "name": "Reindeer(s) Are Better Than People - From \"Frozen\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/4C463MZrXGxq3t7A3wlGuV"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50960,
+      "name": "Reindeer(s) Are Better Than People - From \"Frozen\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/7mIZGbjgcqU917Ob9Cc0E5"
     },
     {
       "album": {

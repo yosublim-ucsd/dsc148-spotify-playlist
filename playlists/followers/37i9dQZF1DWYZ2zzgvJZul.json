@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 134933,
+  "2024-04-20": 134890,
   "date_first_scraped": "2022-01-02",
   "description": "\u00c9xitos del momento y lo \u00faltimo de artistas nuevos y consagrados. En portada: Hinds",
   "name": "Nuevo Rock Latino",
@@ -577,7 +577,7 @@
     {
       "album": {
         "name": "Coffee",
-        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+        "url": "https://open.spotify.com/album/2XAhGSAp42H2jDQDENR1km"
       },
       "artists": [
         {
@@ -588,6 +588,24 @@
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149940,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/1kGqlaGvaha8qOMIVO1VIX"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/7yfpuKRPyz3BRm9fAPjGqp"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 149940,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/29GLlaeW4vqFR1JXymZX7d"
@@ -1413,10 +1431,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "album": {
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/4hNCyXh4Bd1V9gzKskIK15"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/25BJFkN0hSzlwDfVphh6rV"
     },
     {
       "album": {
@@ -2625,10 +2661,28 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188543,
       "name": "Luces",
       "url": "https://open.spotify.com/track/1iwoIyo9Q96VMkhRW8aQse"
+    },
+    {
+      "album": {
+        "name": "Tiempo Futuro",
+        "url": "https://open.spotify.com/album/5SqflSLiaHb6VerrflWWSS"
+      },
+      "artists": [
+        {
+          "name": "Bengala",
+          "url": "https://open.spotify.com/artist/3kcSMbcEv5nxio3oIF42HJ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188543,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/3AzoWTwL4q3RiFMTkxBWzz"
     },
     {
       "album": {
@@ -2881,10 +2935,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340200,
       "name": "Medalla de Oro",
       "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
+    },
+    {
+      "album": {
+        "name": "Medalla de Oro",
+        "url": "https://open.spotify.com/album/3nwloOc33MQQ7meysq3KNU"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/6AYJMjeqTFhpdZA7vhm1Wd"
     },
     {
       "album": {
@@ -3055,6 +3127,24 @@
     {
       "album": {
         "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
         "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
       },
       "artists": [
@@ -3065,7 +3155,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205719,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2"
@@ -4125,7 +4215,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 169677,
       "name": "ROCK BARRIAL TIPO COUNTRY",
       "url": "https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk"
@@ -4143,7 +4233,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169677,
       "name": "ROCK BARRIAL TIPO COUNTRY",
       "url": "https://open.spotify.com/track/6YpJwech17LNB280HUnaWr"

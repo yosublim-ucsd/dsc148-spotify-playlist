@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 136063,
+  "2024-04-20": 136202,
   "date_first_scraped": "2022-12-16",
   "description": "Party like it's the early 2000s. \u2728  ",
   "name": "Bling Era",
@@ -409,10 +409,32 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278573,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/6FTJuZtQZvmPPRFmrcno9J"
+    },
+    {
+      "album": {
+        "name": "Pandemonium!",
+        "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "Bump, Bump, Bump (feat. P. Diddy)",
+      "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
     },
     {
       "album": {
@@ -705,10 +727,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
+    },
+    {
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285906,
+      "name": "E.I.",
+      "url": "https://open.spotify.com/track/703b51gh4ah7GYTYwKphj5"
     },
     {
       "album": {
@@ -821,7 +861,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr"
@@ -839,7 +879,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211666,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/6bK9BH9Ts8Gj5JFvnQkzak"
@@ -1310,6 +1350,32 @@
     },
     {
       "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ"
+    },
+    {
+      "album": {
         "name": "Jenny From The Block - The Remixes",
         "url": "https://open.spotify.com/album/7pJj6tOX5HCBaYfLPiHfDn"
       },
@@ -1329,7 +1395,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189764,
       "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
       "url": "https://open.spotify.com/track/0jiBVBJkLrlGLgrIVmd3VK"
@@ -1475,7 +1541,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 257066,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/52gqeRlrBE7hqMlRxEsi6y"
@@ -1497,7 +1563,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257133,
       "name": "Livin' It Up",
       "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
@@ -1805,7 +1871,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
@@ -1817,7 +1883,7 @@
       },
       "artists": [
         {
-          "name": "Cam\u2019ron",
+          "name": "Cam'ron",
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
@@ -1827,7 +1893,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
@@ -2196,6 +2262,32 @@
     },
     {
       "album": {
+        "name": "Bad Boys II",
+        "url": "https://open.spotify.com/album/4DXLSy0XusV4o9ZhDfY0Ow"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Murphy Lee",
+          "url": "https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293666,
+      "name": "Shake Ya Tailfeather (feat. Nelly & Murphy Lee)",
+      "url": "https://open.spotify.com/track/6EtkH6EfTfNLjUHKDylEym"
+    },
+    {
+      "album": {
         "name": "Murphy's Law",
         "url": "https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F"
       },
@@ -2215,7 +2307,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295173,
       "name": "Shake Ya Tailfeather - Radio Edit",
       "url": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"

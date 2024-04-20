@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 61133,
+  "2024-04-20": 61142,
   "date_first_scraped": "2023-03-19",
   "description": "\u3010STAY\u304c\u9078\u3076\u30b9\u30ad\u30ba\u697d\u66f2\u30d9\u30b9\u30c8\u3011\u30c8\u30c3\u30d732\u66f2\uff01\u3055\u3089\u306b\u9032\u5316\u3059\u308b\u306e\u3067My Library\u306b\u8ffd\u52a0\u3057\u3066\u304a\u697d\u3057\u307f\u304f\u3060\u3055\u3044\uff01",
   "name": "Stray Kids STAY\u2019s SELECTION",
@@ -89,10 +89,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189286,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
+    },
+    {
+      "album": {
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/3KUGAgxo3b81X5bWoOp0U8"
     },
     {
       "album": {
@@ -295,7 +313,7 @@
     {
       "album": {
         "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
       },
       "artists": [
         {
@@ -306,6 +324,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3JANGirqYxKdxjh55Lj1a9"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 191013,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/5dUjBnP5zrWpWA5RGrr73g"
@@ -547,6 +583,24 @@
     {
       "album": {
         "name": "5-STAR",
+        "url": "https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/5MgUrkWwWmG88ZJoekItxo"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
       "artists": [
@@ -557,7 +611,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171026,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
@@ -575,10 +629,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199671,
       "name": "Haven",
       "url": "https://open.spotify.com/track/1B960zmIFgde0TflN2q8Au"
+    },
+    {
+      "album": {
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/0Kp2UZGWRQHa3B5e8t93rI"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199671,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/2rvrEiO3OFHxjfnVYNVG0y"
     },
     {
       "album": {
@@ -665,10 +737,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr"
     },
     {
       "album": {
@@ -683,10 +773,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219093,
       "name": "Leave",
       "url": "https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/6fZLf0RxpJ9TS3xk7U7woI"
     },
     {
       "album": {
@@ -845,10 +953,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189149,
       "name": "My Pace -Japanese ver.-",
       "url": "https://open.spotify.com/track/0fREGqFdul0GnsIuxU7aEh"
+    },
+    {
+      "album": {
+        "name": "SKZ2020",
+        "url": "https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "My Pace Japanese version",
+      "url": "https://open.spotify.com/track/3YQGUxwD2OvuiMhnoiIamL"
     },
     {
       "album": {
@@ -1149,7 +1275,7 @@
     {
       "album": {
         "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+        "url": "https://open.spotify.com/album/0UNe68TUKuA57Xo0QrHliu"
       },
       "artists": [
         {
@@ -1160,6 +1286,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208657,
+      "name": "TA",
+      "url": "https://open.spotify.com/track/0crMI2xH2ka3r5MoPcmFlr"
+    },
+    {
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 208657,
       "name": "TA",
       "url": "https://open.spotify.com/track/1DOBBWtkabIjo955KkMLuQ"
@@ -1231,10 +1375,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
+    },
+    {
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
     },
     {
       "album": {
@@ -1415,10 +1577,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209280,
       "name": "Youtiful",
       "url": "https://open.spotify.com/track/5sSv2lotkWeHZ9YSTQrdbf"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Youtiful",
+      "url": "https://open.spotify.com/track/7K878qO3J0kUkaU5NnuIjF"
     },
     {
       "album": {

@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 220800,
       "name": "500 GRAMS",
       "url": "https://open.spotify.com/track/215PAiPALqLo3YAby27eGX"
@@ -894,6 +894,24 @@
       "duration_ms": 174193,
       "name": "Ice",
       "url": "https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z"
+    },
+    {
+      "album": {
+        "name": "Infamous",
+        "url": "https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0"
+      },
+      "artists": [
+        {
+          "name": "Lakhi Ghuman",
+          "url": "https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140092,
+      "name": "Infamous",
+      "url": "https://open.spotify.com/track/4OUI0zhbSb2nGsHARHpXHF"
     },
     {
       "album": {
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 188560,
       "name": "Westside",
       "url": "https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1"

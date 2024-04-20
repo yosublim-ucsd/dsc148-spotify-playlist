@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Gary Clark Jr.
 
-284 songs - 16 hr 38 min
+285 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Po'Boy](https://open.spotify.com/track/04ibCVdEfOcScBSwmAWAAN) | [Downsyde](https://open.spotify.com/artist/5IYhAFrGFVMdr7KONm9dy4), [Flewnt](https://open.spotify.com/artist/1Z7NTJcWCg7WUuVLVxK9SW), [Harts](https://open.spotify.com/artist/59l7wEof90AF2qIrpuQlLp) | [Po'Boy](https://open.spotify.com/album/3fsDoBxHUFylgxmNNNtzC3) | 3:55 | 2022-03-25 | 2022-06-19 |
 | [Practice What You Preach](https://open.spotify.com/track/1daAFUaK1bU26fuRSyQfs3) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Practice What You Preach](https://open.spotify.com/album/5FtVDZRzGwWzBqcsC0bmXf) | 2:45 | 2022-02-25 | 2022-09-03 |
 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 | 2022-02-25 | 2024-01-27 |
+| [Queen Of The Road](https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Queen Of The Road](https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA) | 3:45 | 2024-04-19 |  |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-15 |  |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 | 2022-03-26 |
 | [Reconcile](https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Charles Morgan](https://open.spotify.com/artist/49wXybwwvthf1zYBangQ0k) | [Reconcile](https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4) | 3:39 | 2023-01-13 |  |

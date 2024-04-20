@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 20627,
+  "2024-04-20": 20635,
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Banzy Banero ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Yaw tog ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -135,7 +135,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "4LYFE",
       "url": "https://open.spotify.com/track/2TSyn5AUP4XKlx2DULEPvs"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167142,
       "name": "4LYFE",
       "url": "https://open.spotify.com/track/3E82zcjEqhMyr65katLaBN"
@@ -1282,6 +1282,28 @@
     },
     {
       "album": {
+        "name": "Young & Matured",
+        "url": "https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202896,
+      "name": "Can't Stop (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym"
+    },
+    {
+      "album": {
         "name": "Canopy",
         "url": "https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV"
       },
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197522,
       "name": "Danc\u00e9",
       "url": "https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a"
@@ -1940,6 +1962,24 @@
     },
     {
       "album": {
+        "name": "Effiakuma Broken Heart",
+        "url": "https://open.spotify.com/album/4lpN5pNVf6HDWpIrBFd3aC"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189729,
+      "name": "Effiakuma Broken Heart",
+      "url": "https://open.spotify.com/track/3ebcYH7mX3q6muQUBiWhNT"
+    },
+    {
+      "album": {
         "name": "Efie Nsem (Kwahu)",
         "url": "https://open.spotify.com/album/26wvRavO5UoCMqk5IoKMvD"
       },
@@ -1955,7 +1995,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191556,
       "name": "Efie Nsem - Kwahu",
       "url": "https://open.spotify.com/track/5Dx57lE6nNVjLBmO8Iny1I"
@@ -2119,7 +2159,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
@@ -2141,7 +2181,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/7LBytJhdE0ntt1eAXEiehP"
@@ -2749,7 +2789,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 140339,
       "name": "GoodSin",
       "url": "https://open.spotify.com/track/5tlvXfI4aqoSh0oRghr7UT"
@@ -2767,7 +2807,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140339,
       "name": "GoodSin",
       "url": "https://open.spotify.com/track/6JTpnAzRctuyc6qhUimpMW"
@@ -2899,6 +2939,24 @@
       "duration_ms": 180000,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2HNTbsyt01LxsNYt4KT34x"
+    },
+    {
+      "album": {
+        "name": "Her Story - One Minute Man , Pt.1",
+        "url": "https://open.spotify.com/album/6zOicTF9ZmKrpbLB7Bd6Zs"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76138,
+      "name": "Her Story - One Minute Man , Pt.1",
+      "url": "https://open.spotify.com/track/5vNtN6OVMBtR7XjYv8Uafa"
     },
     {
       "album": {
@@ -4523,7 +4581,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196257,
       "name": "Obrempong",
       "url": "https://open.spotify.com/track/6vk0AipLoEac7RZIWkW4ZV"
@@ -4677,7 +4735,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
@@ -4707,7 +4765,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
@@ -5185,7 +5243,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189771,
       "name": "Plenty Evil",
       "url": "https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER"
@@ -5319,6 +5377,28 @@
       "duration_ms": 205531,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY"
+    },
+    {
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/4w559CTP4QThWmWZUKJ8gI"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183298,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/3MZroQuOzlxZpVYWvWGHHz"
     },
     {
       "album": {
@@ -5588,6 +5668,32 @@
     },
     {
       "album": {
+        "name": "Sexual Healing",
+        "url": "https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm"
+      },
+      "artists": [
+        {
+          "name": "Ohene PD",
+          "url": "https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Dikoo",
+          "url": "https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190816,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ"
+    },
+    {
+      "album": {
         "name": "Her Vibe Is Right Vol. 2",
         "url": "https://open.spotify.com/album/2fart2DIpvQa4mvk9ecxfy"
       },
@@ -5741,7 +5847,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214453,
       "name": "Slay Queen",
       "url": "https://open.spotify.com/track/58hvxoqFo5vDqR5NmvORsh"
@@ -6675,10 +6781,32 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165720,
       "name": "Whats Up",
       "url": "https://open.spotify.com/track/5RlU3YgPw5lVgSBdyKwXtC"
+    },
+    {
+      "album": {
+        "name": "Young & Matured",
+        "url": "https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170342,
+      "name": "Where We From (feat. Fameye)",
+      "url": "https://open.spotify.com/track/02Bidj32WF50xWYJHBVoxz"
     },
     {
       "album": {

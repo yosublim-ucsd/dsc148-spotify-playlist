@@ -2,7 +2,7 @@
 
 ### [This Is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
 
-> This Is Amy Grant\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This Is Amy Grant\. Los temas esenciales, todos en una lista.
 
 67 songs - 4 hr 20 min
 

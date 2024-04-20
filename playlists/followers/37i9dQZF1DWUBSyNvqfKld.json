@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3690,
+  "2024-04-20": 3698,
   "date_first_scraped": "2022-07-27",
   "description": "<a href=\"spotify:artist:3sgVVFFM7mom04OAR0eNCL\">DEAS</a>'s favorite tracks. Updated regularly. Curated by DEAS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "DEAS' track IDs",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369230,
       "name": "AF 97",
       "url": "https://open.spotify.com/track/3NCTe6dLVEfn5PW23isz4b"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 369230,
       "name": "AF 97",
       "url": "https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f"
@@ -409,10 +409,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277796,
       "name": "Flash",
       "url": "https://open.spotify.com/track/3JRyCCHuf4UEjgoXC4qaOf"
+    },
+    {
+      "album": {
+        "name": "Function 88",
+        "url": "https://open.spotify.com/album/2QbE89pYkrACtGyYaYN97Y"
+      },
+      "artists": [
+        {
+          "name": "Arjun Vagale",
+          "url": "https://open.spotify.com/artist/5VL3jFaGca1I18S1a9N6cs"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277796,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/6SkD3wXWrEnX9g1yzL3vAk"
     },
     {
       "album": {
@@ -871,7 +889,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292235,
       "name": "Protective Custody (2023 Remaster)",
       "url": "https://open.spotify.com/track/71Cl53qgwQbbKIkSTK6Sia"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 292235,
       "name": "Protective Custody - 2023 Remaster",
       "url": "https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx"

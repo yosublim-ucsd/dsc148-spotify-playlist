@@ -1,6 +1,6 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5729,
+  "num_followers": 5735,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Betances Suena Asi (#Bandasonoraelantillano)",
-        "url": "https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la Cresta",
-          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        }
-      ],
-      "duration_ms": 332200,
-      "name": "El Hijo de Boriken",
-      "url": "https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bombazo",
         "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 152266,
       "name": "El Doctor Guenaga",
       "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Betances Suena Asi (#Bandasonoraelantillano)",
+        "url": "https://open.spotify.com/album/0f0dDxJkIezZTNqcC235aB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "duration_ms": 332200,
+      "name": "El Hijo de Boriken",
+      "url": "https://open.spotify.com/track/0Yrhhd8QFsVNvukduMMH0X"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
-      },
-      "artists": [
-        {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
-        }
-      ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bombazo",
         "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 135840,
       "name": "El Conde De Loiza",
       "url": "https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+      },
+      "artists": [
+        {
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+        }
+      ],
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 157720,
-      "name": "Meli Ton Ton Be",
-      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Bombazo",
         "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 338933,
       "name": "Afro Boricua",
       "url": "https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Meli Ton Ton Be",
+      "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "Meliton Tombe",
+      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Para Todos Ustedes",
         "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 454466,
       "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
       "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 154240,
-      "name": "Meliton Tombe",
-      "url": "https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD"
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "El Galo Canta",
+      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 350346,
       "name": "Sirenas, Sangueo y San Mill\u00e1n",
       "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "La Negra Pancha",
-      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
       "artists": [
         {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
         }
       ],
-      "duration_ms": 270226,
-      "name": "El Galo Canta",
-      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+      "duration_ms": 243586,
+      "name": "La Negra Pancha",
+      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
     },
     {
       "added_at": "2023-06-13 22:15:19",

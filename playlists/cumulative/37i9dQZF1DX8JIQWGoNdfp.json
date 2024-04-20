@@ -474,7 +474,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 337466,
       "name": "If You",
       "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
@@ -698,6 +698,24 @@
       "duration_ms": 281511,
       "name": "Permission",
       "url": "https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2"
+    },
+    {
+      "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251120,
+      "name": "Player's Prayer",
+      "url": "https://open.spotify.com/track/2rAuR0YXkWfg1lWI1g0n5j"
     },
     {
       "album": {

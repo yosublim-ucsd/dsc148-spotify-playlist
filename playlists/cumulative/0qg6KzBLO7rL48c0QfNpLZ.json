@@ -861,6 +861,32 @@
     },
     {
       "album": {
+        "name": "California Sun",
+        "url": "https://open.spotify.com/album/7rhpN6p8fIZ5DfpJhMT6Rj"
+      },
+      "artists": [
+        {
+          "name": "Zusebi",
+          "url": "https://open.spotify.com/artist/22tU9RAG5HZ9BatYWY66UH"
+        },
+        {
+          "name": "Vic Roz",
+          "url": "https://open.spotify.com/artist/71CGmn7JPqjfNVZMOjCDDh"
+        },
+        {
+          "name": "Lukas Larsson",
+          "url": "https://open.spotify.com/artist/3oiT7YsN5cdWj1DppuZ4SA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121090,
+      "name": "California Sun",
+      "url": "https://open.spotify.com/track/2oPgfyd5RpS7I9f3t27mVo"
+    },
+    {
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -1731,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Feeling The Same",
+        "url": "https://open.spotify.com/album/6LqkAJv4UW2NuMxsRs54EC"
+      },
+      "artists": [
+        {
+          "name": "Nyday",
+          "url": "https://open.spotify.com/artist/0L8JYDELi85NGgYy30MbRa"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "Feeling The Same",
+      "url": "https://open.spotify.com/track/4a9WGmpSTpy2C7mYixenDq"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/4MNRe35Re0XIVUUHXwc5dh"
       },
@@ -2263,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0zC4NlW4Qyktfr1J7JvYCn"
+      },
+      "artists": [
+        {
+          "name": "Homem",
+          "url": "https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w"
+        },
+        {
+          "name": "G!nger",
+          "url": "https://open.spotify.com/artist/3MpVhYbcTO7Hy9RgAMWAT7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0o4VV9OPG5YOBoE7BwKxIp"
+    },
+    {
+      "album": {
         "name": "Hold This Memory",
         "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
@@ -2304,6 +2370,24 @@
       "duration_ms": 168937,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
+    },
+    {
+      "album": {
+        "name": "Hold You Right",
+        "url": "https://open.spotify.com/album/7BjUTDBE7qcJdx6pYd5Njj"
+      },
+      "artists": [
+        {
+          "name": "CUBY",
+          "url": "https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "Hold You Right",
+      "url": "https://open.spotify.com/track/28y1M9jyAiSMhCHT6SZj8U"
     },
     {
       "album": {
@@ -2524,6 +2608,24 @@
       "duration_ms": 116785,
       "name": "i let you",
       "url": "https://open.spotify.com/track/7Iwc8sxR4SRiwMfitkuR85"
+    },
+    {
+      "album": {
+        "name": "I like me better",
+        "url": "https://open.spotify.com/album/0QY2Y1rFqtLuIfCU6VkRlS"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171262,
+      "name": "I like me better",
+      "url": "https://open.spotify.com/track/7A9ZQjsSb4GkdwepqnTFgZ"
     },
     {
       "album": {
@@ -2930,7 +3032,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 200635,
       "name": "Kendall Park",
       "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
@@ -3150,6 +3252,24 @@
       "duration_ms": 218446,
       "name": "Lighthouse - Andrelli Remix",
       "url": "https://open.spotify.com/track/04CttTezSnv71USiiG9mIo"
+    },
+    {
+      "album": {
+        "name": "Like I Do",
+        "url": "https://open.spotify.com/album/61h7NkJQwPVYg2kv3NJPiu"
+      },
+      "artists": [
+        {
+          "name": "Conner Fox",
+          "url": "https://open.spotify.com/artist/5pzmyLQtEyHVHfz9snWDmn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134331,
+      "name": "Like I Do",
+      "url": "https://open.spotify.com/track/3JSCR3Zj2u7AoPMeJ7jFMs"
     },
     {
       "album": {
@@ -3586,6 +3706,28 @@
       "duration_ms": 214956,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/0qSq3cOECG9x2xGDAXs4n2"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/6IsXyknYmI1dQE1n92VcAJ"
+      },
+      "artists": [
+        {
+          "name": "Altero",
+          "url": "https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG"
     },
     {
       "album": {
@@ -4887,6 +5029,24 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/3gLNL0N7lPKfFWVGWyQc9D"
+      },
+      "artists": [
+        {
+          "name": "Lake Matisse",
+          "url": "https://open.spotify.com/artist/4UNdUzuLNX9a47ElW0Xb0O"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129768,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/77BERr0CZ1eJwXemtjOGnx"
+    },
+    {
+      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/3Y3ZLsJplnOimXcUFCqMhx"
       },
@@ -4978,6 +5138,24 @@
       "duration_ms": 132004,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1mrnWxqlr5ynXWTS0L0Bcp"
+    },
+    {
+      "album": {
+        "name": "Tell Me About",
+        "url": "https://open.spotify.com/album/0QLL8ykx4wLMpYJU84QhEF"
+      },
+      "artists": [
+        {
+          "name": "terro",
+          "url": "https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Tell Me About",
+      "url": "https://open.spotify.com/track/1YlkdOga1GfwWrgKaQUfMl"
     },
     {
       "album": {
@@ -5801,6 +5979,28 @@
     },
     {
       "album": {
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/2wnToIZpxqYWIBscgjvlIO"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Mayn\u00f8rr",
+          "url": "https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170604,
+      "name": "Wilder Woods",
+      "url": "https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl"
+    },
+    {
+      "album": {
         "name": "Wish You All the Best",
         "url": "https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j"
       },
@@ -5996,6 +6196,24 @@
       "duration_ms": 145985,
       "name": "Young",
       "url": "https://open.spotify.com/track/7bEehgFqPxoJVOydF1zAZ2"
+    },
+    {
+      "album": {
+        "name": "Your Melody",
+        "url": "https://open.spotify.com/album/0E9SnhN53OUseOvBZXrjw2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137435,
+      "name": "Your Melody",
+      "url": "https://open.spotify.com/track/1JLiefQuFxwTqpF5kSkFof"
     }
   ],
   "url": "https://open.spotify.com/playlist/0qg6KzBLO7rL48c0QfNpLZ"

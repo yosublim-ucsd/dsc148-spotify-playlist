@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
-  "num_followers": 1077106,
+  "num_followers": 1077044,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MjkwNiw5MGQxOWY3NDY5YTI0MmZiM2FjNzBjMjc5ZTZlN2JiMDQ4N2NlZDk4",
+  "snapshot_id": "MjkwNyw0YTA5MmMzODkzZmU2ZTYxZTMzNWY5MWIzMjk3MWZkYTQwMDRmMjFh",
   "tracks": [
     {
       "added_at": "2024-04-01 10:16:20",
@@ -543,6 +543,22 @@
       "duration_ms": 83220,
       "name": "STRIKE",
       "url": "https://open.spotify.com/track/72tZaH7eaItGJsAG7s9yM0"
+    },
+    {
+      "added_at": "2024-04-19 19:46:07",
+      "album": {
+        "name": "King of the Void",
+        "url": "https://open.spotify.com/album/1JWjJN17jrxsmzLbji8Ghr"
+      },
+      "artists": [
+        {
+          "name": "Ezediel",
+          "url": "https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY"
+        }
+      ],
+      "duration_ms": 158098,
+      "name": "King of the Void",
+      "url": "https://open.spotify.com/track/0EduJ8lt4T2jYCwnO8FVLa"
     },
     {
       "added_at": "2024-04-01 10:16:20",

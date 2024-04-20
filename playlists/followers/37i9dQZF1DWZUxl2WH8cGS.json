@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 7255,
+  "2024-04-20": 7259,
   "date_first_scraped": "2022-08-06",
   "description": "Dance to the tunes from your favorite Netflix family-friendly series and movies!",
   "name": "Netflix Family Dance Party Official Playlist",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 121136,
       "name": "Action Pack Theme Song (Music from the Netflix Series)",
       "url": "https://open.spotify.com/track/0cVykhtY5lkIZh4RlOQVdV"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121136,
       "name": "Action Pack Theme Song (Music from the Netflix Series)",
       "url": "https://open.spotify.com/track/2gDV2v7pECv2jEApJnrjXf"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 111155,
       "name": "Banana Rainbow",
       "url": "https://open.spotify.com/track/54rh3VLzdaYRvyE90mlfsg"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111155,
       "name": "Banana Rainbow",
       "url": "https://open.spotify.com/track/5wcJvkD0l9CebyIDydj4pa"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148489,
       "name": "Don't Embarrass Me (Music from the Netflix Series \"Dad Stop Embarrassing Me\")",
       "url": "https://open.spotify.com/track/5HyDYHYtuvLIuTPltVH55D"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 148489,
       "name": "Don't Embarrass Me (Music from the Netflix Series Dad Stop Embarrassing Me)",
       "url": "https://open.spotify.com/track/748ZvzGrX7hQapr3qXDkxO"
@@ -267,28 +267,6 @@
     {
       "album": {
         "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
-        "url": "https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        },
-        {
-          "name": "My Little Pony",
-          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191094,
-      "name": "Glowin' Up",
-      "url": "https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm"
-    },
-    {
-      "album": {
-        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
         "url": "https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X"
       },
       "artists": [
@@ -303,10 +281,32 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 191094,
-      "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
+      "name": "Glowin' Up",
       "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+    },
+    {
+      "album": {
+        "name": "Glowin' Up (from the Netflix film \"My Little Pony: A New Generation\")",
+        "url": "https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 191094,
+      "name": "Glowin' Up",
+      "url": "https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm"
     },
     {
       "album": {
@@ -325,7 +325,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 86575,
       "name": "If You Like Cheese Full",
       "url": "https://open.spotify.com/track/1Vy0lCn8TQUhWAKpQeR9LA"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86575,
       "name": "If You Like Cheese Full",
       "url": "https://open.spotify.com/track/1zND1XoU3dRynHWCpGJ3eD"
@@ -591,6 +591,24 @@
     {
       "album": {
         "name": "Netflix Jr. Jams: Vol. 2",
+        "url": "https://open.spotify.com/album/4vDKqx4kvhz1d1t7JiEIov"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Let\u2019s Move! Dance Party",
+      "url": "https://open.spotify.com/track/2qPEiuO3w4iho9YY8B0KMW"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 2",
         "url": "https://open.spotify.com/album/5VWaxL5HVnuFPpwb3qpZL9"
       },
       "artists": [
@@ -601,7 +619,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203773,
       "name": "Let\u2019s Move! Dance Party",
       "url": "https://open.spotify.com/track/650aoBbV9X5ioWPIaclzIK"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149112,
       "name": "Life Is Better Loud",
       "url": "https://open.spotify.com/track/0r3ievO1pRR6TCxw1Qmgqh"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 149112,
       "name": "Life Is Better Loud",
       "url": "https://open.spotify.com/track/5dN9uSVeEa8zcqBNHO41h9"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133240,
       "name": "Party Back At My House",
       "url": "https://open.spotify.com/track/1jMARy7JnEGDqWwpdqNKhm"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 133240,
       "name": "Party Back At My House",
       "url": "https://open.spotify.com/track/2H3u88hUpwcBoUiuNxDVBp"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 195067,
       "name": "Together",
       "url": "https://open.spotify.com/track/1o0B1aKCfpPC3rUpSh8XLT"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195067,
       "name": "Together",
       "url": "https://open.spotify.com/track/6qpuUCk2uRuE9jFbGchLqO"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 175840,
       "name": "Vacation Boogie",
       "url": "https://open.spotify.com/track/4GJmtcFGBktZqGDRNg116X"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175840,
       "name": "Vacation Boogie",
       "url": "https://open.spotify.com/track/6ATmgAdbPFYV7vlj0qmwOk"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166968,
       "name": "You're A Star",
       "url": "https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt"
@@ -1143,6 +1161,24 @@
       "duration_ms": 166968,
       "name": "You're A Star",
       "url": "https://open.spotify.com/track/5XKxjgX5qFGH8fzWe2rWfW"
+    },
+    {
+      "album": {
+        "name": "Netflix Jr. Jams: Vol. 1",
+        "url": "https://open.spotify.com/album/64Vj7Dola6M4HsOieRb3QO"
+      },
+      "artists": [
+        {
+          "name": "Netflix Jr.",
+          "url": "https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166968,
+      "name": "You're A Star",
+      "url": "https://open.spotify.com/track/61ddRTKxzbfM5GT9BGwQk1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZUxl2WH8cGS"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 241293,
+  "2024-04-20": 241261,
   "date_first_scraped": "2021-12-28",
   "description": "'Tis the season! All new holiday releases. Cover: Cher",
   "name": "New Music Holiday",
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2IChCRHxRCVbo8i2zP4NVF"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
@@ -2813,10 +2813,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124000,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/29Pf9AzgYQnVPKyz5bU6K3"
+    },
+    {
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "album": {
@@ -2962,6 +2980,24 @@
     },
     {
       "album": {
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/3dmFw9Zq6zpD3vLDCS0K6b"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169663,
+      "name": "Driving Home For Christmas",
+      "url": "https://open.spotify.com/track/0925QFUNbnMnKAxJYvrA1g"
+    },
+    {
+      "album": {
         "name": "Driving Home for Christmas",
         "url": "https://open.spotify.com/album/3Z026KO8xFIfhoEzF6kXnk"
       },
@@ -2973,7 +3009,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169663,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/2UWue1FkfTYOohUiSUcOQu"
@@ -3467,7 +3503,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186414,
       "name": "Give Love This Year",
       "url": "https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd"
@@ -3485,7 +3521,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 186414,
       "name": "Give Love This Year",
       "url": "https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr"
@@ -4403,7 +4439,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 107307,
       "name": "Here Comes Santa Claus (feat. Tom Gaebel)",
       "url": "https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG"
@@ -4425,7 +4461,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107307,
       "name": "Here Comes Santa Claus (with The Tenors)",
       "url": "https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf"
@@ -5091,7 +5127,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 151875,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2JtqKRJSuLZ7pb1eik1vJE"
@@ -5109,7 +5145,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151875,
       "name": "I've Got My Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY"
@@ -5993,10 +6029,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221411,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2OzSyKZBBVvFcZ7Ddr3VKU"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6xf6YJSlWE1BDebyCnmhKK"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221411,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4ZXqNyS3RmoRoUJwRIgUgu"
     },
     {
       "album": {
@@ -8199,6 +8253,24 @@
     {
       "album": {
         "name": "fruitcake",
+        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
         "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
       "artists": [
@@ -8209,7 +8281,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
@@ -8953,7 +9025,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 229833,
       "name": "Thank You Bruce",
       "url": "https://open.spotify.com/track/3EBawrYqLkRHQXVtOqngwa"
@@ -8971,7 +9043,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229833,
       "name": "Thank You Bruce",
       "url": "https://open.spotify.com/track/5jXd88IeWJblVvf9FHbPYc"
@@ -9083,10 +9155,28 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173086,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2VAITp078MLx0m5imRy3L5"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/3LLVEZMq34Eat6aodgk0KP"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173086,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/7MnnPpXxcfNn6PCt9mepOC"
     },
     {
       "album": {
@@ -10027,7 +10117,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 120928,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/2AUC52roPNq9PkoCcp8tUP"
@@ -10045,7 +10135,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120928,
       "name": "Under The Tree",
       "url": "https://open.spotify.com/track/3IYPdd7uyMcFtBHO2uefId"
@@ -10755,7 +10845,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131666,
       "name": "wish \u272e\u22c6\u02d9",
       "url": "https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB"
@@ -10773,7 +10863,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 131666,
       "name": "wish \u272e\u22c6\u02d9",
       "url": "https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd"

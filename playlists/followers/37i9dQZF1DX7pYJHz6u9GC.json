@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 148600,
+  "2024-04-20": 148584,
   "date_first_scraped": "2021-12-28",
   "description": "Enjoy the sweet Christmas time in the company of the biggest crooners. Cover: Nat King Cole",
   "name": "Christmas Crooners",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162426,
       "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
       "url": "https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih"
@@ -245,6 +245,24 @@
     {
       "album": {
         "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/0GxP8b87h0PhNnvVTMRCQ1"
+    },
+    {
+      "album": {
+        "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
       "artists": [
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163173,
       "name": "Christmas Bells",
       "url": "https://open.spotify.com/track/1es9yJEFoaY0ndi3AaesDx"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/6YqRfia7aKIg8VhOI2nzmz"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200516,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143080,
       "name": "Christmasland",
       "url": "https://open.spotify.com/track/0xUiru9yWM0IRcwyeiJa9d"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143506,
       "name": "Christmasland",
       "url": "https://open.spotify.com/track/4uem1XCcsG4rCk4wl2Why7"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194706,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/2NkKDtph6GZ0ZL0dnJSRpX"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194706,
       "name": "It's Christmas",
       "url": "https://open.spotify.com/track/2zs2Ck470VmBFTwUp4NFdv"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198906,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/6xMKRbvVJK44TFem9h22oB"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198746,
       "name": "Let It Snow (with Michel Legrand)",
       "url": "https://open.spotify.com/track/5tRAaJn5XtjQbIcrkHligQ"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261653,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/2q242OlHQxPpUGBlkLfOgm"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262218,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/6UaWS7qkml4e420gFC59sw"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176226,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/4c4LylLvTh91IhwQgSXPRc"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176906,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/6lrYOVAU67C67rllaO8rNR"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 339973,
       "name": "Silent Night/A Cradle In Bethlehem",
       "url": "https://open.spotify.com/track/0jjP0NGV05mHeJpnRzHqRs"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339973,
       "name": "Silent Night/A Cradle In Bethlehem",
       "url": "https://open.spotify.com/track/2jehRp9PIjWX27OFgguSuN"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174149,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5CaBRn7C7jttA1wWd8eBaH"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167586,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1z3WlkUJyytQOt15Dzck3H"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170106,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/32axcV9zBkJKmh1cq7Yka7"
@@ -2292,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "Presenting Kay Starr",
+        "url": "https://open.spotify.com/album/2xfrdIN0BL6kylZgPClYzX"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "The Man with the Bag",
+      "url": "https://open.spotify.com/track/2n1xrggQtAGEV1AgzvooGB"
+    },
+    {
+      "album": {
         "name": "Jukebox Ella: The Complete Verve Singles (Vol. 1)",
         "url": "https://open.spotify.com/album/5sOz9iMqXQbWonZKSHf4wT"
       },
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/23e53JCxxqZBTz5AO6SjTS"
@@ -2339,7 +2375,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165813,
       "name": "The Secret Of Christmas",
       "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
@@ -2387,7 +2423,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe"
@@ -2417,7 +2453,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
@@ -2461,6 +2497,24 @@
     {
       "album": {
         "name": "What A Night! A Christmas Album",
+        "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+    },
+    {
+      "album": {
+        "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
       "artists": [
@@ -2471,7 +2525,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
@@ -2587,7 +2641,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135333,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0z8aYfRIIvNibAccZRYu8x"
@@ -2605,7 +2659,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135333,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/5yfvRLEwGII97pYJEByx4y"

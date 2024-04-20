@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "No me Arrepiento de este Amor",
+        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "No me Arrepiento de este Amor",
+      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 161930,
       "name": "Persiguiendo el Sol",
       "url": "https://open.spotify.com/track/7ocJwuDpZhx748AUlXT30W"

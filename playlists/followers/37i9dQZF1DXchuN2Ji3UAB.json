@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 770,
+  "2024-04-20": 772,
   "date_first_scraped": "2023-09-29",
   "description": "Les classiques de la Motown \u00e0 faire d\u00e9couvrir \u00e0 vos enfants",
   "name": "Motown kids",
@@ -249,6 +249,24 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "album": {
+        "name": "Hitsville USA, The Motown Collection 1972-1992",
+        "url": "https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Don't Leave Me This Way - Single Version",
+      "url": "https://open.spotify.com/track/6OYlE1SrosD9Swah1Rxkdt"
     },
     {
       "album": {
@@ -803,10 +821,28 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267733,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/1TV9qMgIML1eyznrB1d4eB"
     },
     {
       "album": {
@@ -947,10 +983,28 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/1xKvdXVMW2J6HAAyjLYbJo"
     },
     {
       "album": {

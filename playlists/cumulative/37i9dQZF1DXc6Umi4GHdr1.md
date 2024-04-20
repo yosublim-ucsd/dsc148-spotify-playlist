@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-350 songs - 15 hr 35 min
+353 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [La Taverne](https://open.spotify.com/track/3mnqApvGyVFEqgFr77X9ij) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [La Taverne](https://open.spotify.com/album/1OuYr9HD5X4SIlzfuRALlo) | 2:35 | 2023-11-24 |  |
 | [La Vida Toma Su Tiempo](https://open.spotify.com/track/504WEMo59nRahLl5NShft9) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 4:02 | 2021-12-10 | 2022-05-27 |
 | [La Vigie](https://open.spotify.com/track/0rZm326H0WhDCntVeZkoWa) | [Duo Torrnatorés](https://open.spotify.com/artist/42LtbhP12SfMhVRjtJIW5z) | [La Vigie](https://open.spotify.com/album/2LZMJpmMgVUSdp9mK6nHlG) | 2:43 | 2021-12-10 | 2022-04-06 |
-| [Laguna Colorada](https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Laguna Colorada](https://open.spotify.com/album/04OjNl78J3in8FrCedTKun) | 2:34 | 2023-10-27 |  |
+| [Laguna Colorada](https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Laguna Colorada](https://open.spotify.com/album/04OjNl78J3in8FrCedTKun) | 2:34 | 2023-10-27 | 2024-04-20 |
 | [Lake Victoria](https://open.spotify.com/track/7CMWRzySrY0N4lUTpJ3PzP) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Lake Victoria](https://open.spotify.com/album/5lbFPaIgO2T8jmVz5qwTMS) | 2:17 | 2023-10-27 |  |
 | [Lamento](https://open.spotify.com/track/5Mtm03KO4lvM4qmVEeRYaY) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Lamento](https://open.spotify.com/album/6G8qzns0DWKeqOcbpGwl9s) | 2:10 | 2023-11-24 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-07 |  |
@@ -185,6 +185,7 @@
 | [Mailand](https://open.spotify.com/track/01OhsWPqUqCAU9fOhfNvyc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:25 | 2022-05-27 | 2022-07-22 |
 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 | 2023-09-29 |  |
 | [Mar en Calma](https://open.spotify.com/track/3ixw6dc0jP30Vw8WmV36tT) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Mar en Calma](https://open.spotify.com/album/2w5M7NjPdfKtcNjknLwHuV) | 2:15 | 2021-12-10 | 2023-06-10 |
+| [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 | 2024-04-19 |  |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-04-06 |
 | [Meliora](https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Meliora](https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR) | 2:21 | 2023-10-13 | 2024-04-06 |
 | [Meraki](https://open.spotify.com/track/4TYDbviDxgS0N3i5gSL2IK) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Meraki](https://open.spotify.com/album/4SxFfugdIKHtRTrRPrMANS) | 2:25 | 2023-10-27 |  |
@@ -237,6 +238,7 @@
 | [Pure](https://open.spotify.com/track/30ewiyV6LGLIZGTnc7Qp6x) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Pure](https://open.spotify.com/album/0Jmejo26ly5NAcFf65B8Kj) | 2:38 | 2023-05-26 | 2023-06-16 |
 | [Purungeo](https://open.spotify.com/track/602kc4KIpZZ0D3wHRgfhEt) | [Moon Guitar](https://open.spotify.com/artist/2nvKK4Tioprvfztd0hbEQz) | [El Potrero](https://open.spotify.com/album/72dgfdG0wp3V71Tp15Mx5E) | 2:29 | 2021-12-10 | 2023-05-27 |
 | [Quadratus](https://open.spotify.com/track/4fLFwoT3vSS0T91CoM3ret) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Quadratus](https://open.spotify.com/album/3grqGdMjTua4nwiGXKc7GB) | 2:43 | 2021-12-10 | 2022-07-29 |
+| [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 |  |
 | [Quietude](https://open.spotify.com/track/0z4GTxxdYujL32uYYLjWoT) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Quietude](https://open.spotify.com/album/1IfBfNQBcRUKm52sspE319) | 2:40 | 2024-03-08 |  |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-03-10 | 2023-08-26 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-05-27 |  |
@@ -261,6 +263,7 @@
 | [Sense of narrative](https://open.spotify.com/track/0KDz1JWVTq6oKKflHHlmZD) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Sense of narrative](https://open.spotify.com/album/2nAHczJyLyaoAZEMxqqwVj) | 2:00 | 2023-12-15 |  |
 | [Sensibilita](https://open.spotify.com/track/4vS8BQGwgPbweNJLLHC9kE) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Sensibilita](https://open.spotify.com/album/6K384fMAEjg7xCsSvWwoP2) | 2:21 | 2022-09-23 |  |
 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 | 2024-03-29 |  |
+| [Siena Dreamin'](https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Siena Dreamin'](https://open.spotify.com/album/22Ru9VDOPhOkxGFYWdR6au) | 4:09 | 2024-04-19 |  |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2022-06-17 | 2023-04-28 |
 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |
 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 | 2024-02-02 |  |
@@ -313,7 +316,7 @@
 | [Tiffany Falls](https://open.spotify.com/track/64DGZauPKihie7TgNccWD3) | [Emilio Bonito](https://open.spotify.com/artist/2IfsWJpQDkbX21LUME6KvO) | [Tiffany Falls](https://open.spotify.com/album/7uwReBkPLCXlsRQW4XD9yz) | 3:32 | 2021-12-10 | 2022-05-27 |
 | [Timeless](https://open.spotify.com/track/21Av8NmwEwc6uYIjjeUm54) | [Parascope](https://open.spotify.com/artist/3HL4rODpP9DHDgCUlsJnvG) | [Timeless](https://open.spotify.com/album/37Ffg43nlbeDlocMD3VtPj) | 2:28 | 2021-12-10 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-16 |
-| [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 |  |
+| [To Be Loved](https://open.spotify.com/track/3nrcRpG5QBCXITQMs2i5FL) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Better Days](https://open.spotify.com/album/78Sv1TPZppB1jXVbmc2In3) | 2:30 | 2021-12-10 | 2024-04-20 |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-08 |  |
 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 | 2024-01-12 |  |
 | [Treasure Hunt](https://open.spotify.com/track/4gbVPKc38sBEMUUyhnO9JU) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Treasure Hunt](https://open.spotify.com/album/1KK15fZl2o3TzAUC0Q5wf0) | 2:46 | 2022-11-18 |  |

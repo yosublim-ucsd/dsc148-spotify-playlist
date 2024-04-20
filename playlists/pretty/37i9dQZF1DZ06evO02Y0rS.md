@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 ### [This Is Bonobo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02Y0rS)
 
-> This is Bonobo\. Tutti i brani in un'unica playlist.
+> This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,374 likes - 48 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,361 likes - 48 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 47 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 |
 | 48 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
 
-Snapshot ID: `MTcxMzMxMjAwMCwwMDAwMDAwMDc1YmQ5ZmNiZThiNThjMzNlYTM1Y2YxMjJiYmU2MmRk`
+Snapshot ID: `MTcxMzM5ODQwMCwwMDAwMDAwMDhkMDg1ZGFkNjA5NDVmOTRlMGViMGQyMjQzMjFjOTNl`

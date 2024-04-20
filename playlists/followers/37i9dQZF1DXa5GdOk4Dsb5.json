@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 131906,
+  "2024-04-20": 131955,
   "date_first_scraped": "2022-07-24",
   "description": "Para ahogar las penas en el fondo de una botella.",
   "name": "Rancheras, Despecho & Licor",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 213180,
       "name": "10 PM - Popular",
       "url": "https://open.spotify.com/track/5Wa3cRSjVUeQm5zhwAFUao"
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 173093,
       "name": "2 O 3 Botellas",
       "url": "https://open.spotify.com/track/346bfJqsooK4mXr2SLT3t3"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211121,
       "name": "Ahora Que Puedo",
       "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 187720,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203816,
       "name": "Amorcito Mio - En Vivo",
       "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190961,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 151267,
       "name": "Borrachera",
       "url": "https://open.spotify.com/track/2KVKplB0WPQhg27jhTpS3T"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 148542,
       "name": "Borracho Te Llamo",
       "url": "https://open.spotify.com/track/0QTy8NYyHUheegmH0ndfMK"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios (En Vivo)",
       "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 151968,
       "name": "Desarmada - Spotify Singles",
       "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175456,
       "name": "Dulce Pecado",
       "url": "https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 188567,
       "name": "El Alumno",
       "url": "https://open.spotify.com/track/7yy3yQQ9oKCilGJtreLcSe"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209867,
       "name": "El Precio de Tu Error",
       "url": "https://open.spotify.com/track/6hQkxhWRLgNRwqMmbuDxSN"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194754,
       "name": "Empecemos de Cero (Nueva Versi\u00f3n)",
       "url": "https://open.spotify.com/track/0Wf3yEjUOKzdxMeOlxGfzC"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190026,
       "name": "Entre Comillas",
       "url": "https://open.spotify.com/track/6HhOgGZWmN5DqqsdJGfhUK"
@@ -2297,7 +2297,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196884,
       "name": "Entre Comillas",
       "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
@@ -2340,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/0ivu9BBPUy5YLLeOLKAHUb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/3n4DLwgE37rcLYmrzFAPGI"
+    },
+    {
+      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -2373,6 +2391,28 @@
       "duration_ms": 213333,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
+    },
+    {
+      "album": {
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "album": {
@@ -2521,7 +2561,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222285,
       "name": "Guaro - Remix",
       "url": "https://open.spotify.com/track/3PmqejsYxlhII2zo7zXtQ8"
@@ -2927,7 +2967,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
@@ -2971,7 +3011,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225039,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/67g1jCRgOH1jiEqpZ97dXv"
@@ -3047,6 +3087,24 @@
       "duration_ms": 257266,
       "name": "L\u00e1stima Que Seas Ajena",
       "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+    },
+    {
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "album": {
@@ -3187,7 +3245,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 175760,
       "name": "Me Ca\u00ed de la Nube",
       "url": "https://open.spotify.com/track/0mfb8sbASYjzvo2FDopyzl"
@@ -3339,7 +3397,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 163561,
       "name": "Me Tir\u00e9 Al Alcohol",
       "url": "https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu"
@@ -3397,7 +3455,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 210586,
       "name": "Mejor Ni Me La Nombren",
       "url": "https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN"
@@ -3451,7 +3509,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
@@ -3567,7 +3625,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191634,
       "name": "Mi Venganza",
       "url": "https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL"
@@ -3589,7 +3647,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191634,
       "name": "Mi Venganza",
       "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
@@ -3715,7 +3773,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI"
@@ -3733,7 +3791,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180165,
       "name": "Muri\u00f3 El Amor",
       "url": "https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n"
@@ -3787,7 +3845,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208169,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/5CdoDsEbox20TjnmyGpZmF"
@@ -3859,7 +3917,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 140016,
       "name": "Ni Por Mil Pu\u00f1ados De Oro",
       "url": "https://open.spotify.com/track/4VEBNcqsygMc4VOJyR6MuN"
@@ -3881,6 +3939,32 @@
       "duration_ms": 201693,
       "name": "Ni Tengo Ni Necesito",
       "url": "https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV"
+    },
+    {
+      "album": {
+        "name": "No Copio de Nada",
+        "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        },
+        {
+          "name": "King Daga",
+          "url": "https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3"
+        },
+        {
+          "name": "JHONA",
+          "url": "https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167449,
+      "name": "No Copio de Nada",
+      "url": "https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0"
     },
     {
       "album": {
@@ -3913,7 +3997,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
@@ -3931,7 +4015,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/6fplYq951Ltp6nIiTFcnCY"
@@ -3989,7 +4073,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
@@ -4007,7 +4091,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 174062,
       "name": "No Me Hace Bien",
       "url": "https://open.spotify.com/track/4BCplEwn32Y3nQeeBsbsj9"
@@ -4115,7 +4199,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211487,
       "name": "No Voy a Morir",
       "url": "https://open.spotify.com/track/065oNRBiRGIAm6nSYuWtNQ"
@@ -4205,7 +4289,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141336,
       "name": "OK",
       "url": "https://open.spotify.com/track/6ZpPLJ3wck4X1eOhUGCWPx"
@@ -4277,7 +4361,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216040,
       "name": "Olvido Intencional",
       "url": "https://open.spotify.com/track/0JzYkEJXG3GhIHI6pJ32aS"
@@ -4317,7 +4401,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259004,
       "name": "Pa' las Que Sea",
       "url": "https://open.spotify.com/track/52tnYQ8WVvTAfSE14QfP26"
@@ -4620,6 +4704,24 @@
     },
     {
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA"
+    },
+    {
+      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -4649,7 +4751,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200384,
       "name": "Que Te Lo Crea Tu Madre",
       "url": "https://open.spotify.com/track/0Z0pPhqm32Caybjnozf0Vk"
@@ -4667,7 +4769,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 200384,
       "name": "Que Te Lo Crea Tu Madre",
       "url": "https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag"
@@ -4801,7 +4903,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199653,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I"
@@ -5039,7 +5141,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214306,
       "name": "Si Se Fue, Se Fue",
       "url": "https://open.spotify.com/track/6WTF798e9hxNDWj95ISu5e"
@@ -5147,7 +5249,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263800,
       "name": "Si Te Pudiera Mentir - Live Version",
       "url": "https://open.spotify.com/track/239yEYlZWG7PYuUojNywXZ"
@@ -5241,7 +5343,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219559,
       "name": "Sobrevivir\u00e9",
       "url": "https://open.spotify.com/track/7q5aOEf299r3G9Xj27UE0H"
@@ -5335,7 +5437,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231916,
       "name": "Soltero Feliz",
       "url": "https://open.spotify.com/track/2om0MQWST4Dt67seH9vKwN"
@@ -5515,7 +5617,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Te Parece Poco",
       "url": "https://open.spotify.com/track/3nARaHTIpxGyqfvDuRvzui"
@@ -5537,7 +5639,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 145500,
       "name": "Te Quedaste Casi A Nada (En Vivo)",
       "url": "https://open.spotify.com/track/5S7aouHg7cUJf97oxMZzLk"
@@ -5645,7 +5747,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246131,
       "name": "Tu - En Vivo",
       "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
@@ -5913,7 +6015,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193137,
       "name": "Usted No Me Olvida",
       "url": "https://open.spotify.com/track/6JoOLSvi28lnoos5JVjsqC"
@@ -5931,7 +6033,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193137,
       "name": "Usted No Me Olvida",
       "url": "https://open.spotify.com/track/6adK8xCmHfwko5N1FEDqoT"
@@ -5961,7 +6063,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193175,
       "name": "Usted No Me Olvida - Remix",
       "url": "https://open.spotify.com/track/32rbG1BymfjSBFASdLzxem"
@@ -6039,7 +6141,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 181693,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au"
@@ -6057,7 +6159,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181947,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/1t67fCJnJsszjnCSpY8gfs"
@@ -6101,6 +6203,28 @@
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "album": {
+        "name": "Volviste Tarde",
+        "url": "https://open.spotify.com/album/5PmEyL1R6hETTJERszjbFe"
+      },
+      "artists": [
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259314,
+      "name": "Volviste Tarde",
+      "url": "https://open.spotify.com/track/1N0DeNbKI2PjESx1xUIvbM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-104 songs - 8 hr 0 min
+105 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 | 2020-06-05 |  |
 | [Aymelesem](https://open.spotify.com/track/5E1nojcspbVe6yrHVpiHz9) | [Lastarock](https://open.spotify.com/artist/2p1llRTtQY8IJPaTwPwW1x) | [Aymelesem](https://open.spotify.com/album/0aW55aqypy7Q01Ecorl9BZ) | 2:56 | 2023-08-14 |  |
 | [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 |  |
-| [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 | 2023-03-17 |  |
+| [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 | 2023-03-17 | 2024-04-20 |
 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 | 2018-10-04 |  |
 | [Balgeru, Vol\. 3](https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA) | [Ephrem Tamiru](https://open.spotify.com/artist/2R863D7ulLA8AJRllmiW60), [Gosayie Tesfaye](https://open.spotify.com/artist/5nUICzCLIY5eYGqvpttE9J) | [Nahom's Favorite, Vol\. 16](https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL) | 6:37 | 2018-10-04 |  |
 | [Bayish](https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Bayish](https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA) | 4:05 | 2022-12-12 |  |
@@ -30,6 +30,7 @@
 | [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 | 2018-10-04 | 2022-12-13 |
 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 | 2020-07-21 |  |
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 | 2023-06-24 |
+| [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 | 2024-04-19 |  |
 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 |  |
 | [Chaw Tilina](https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Chaw Tilina](https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ) | 3:31 | 2023-03-17 |  |
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 | 2023-03-18 |

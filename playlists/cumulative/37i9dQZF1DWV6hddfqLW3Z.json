@@ -1801,6 +1801,40 @@
     },
     {
       "album": {
+        "name": "Porvir",
+        "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232576,
+      "name": "Porvir",
+      "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
+    },
+    {
+      "album": {
         "name": "Pra Me Refazer",
         "url": "https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5"
       },
@@ -2332,7 +2366,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"

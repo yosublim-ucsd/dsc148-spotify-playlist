@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Digitalism
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,639 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,608 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 69 | [Big Bay](https://open.spotify.com/track/1GZya3i6MkugOEHseA9iBW) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu), [Sunic](https://open.spotify.com/artist/603HO3e6j4B8KFTKqvpDsA) | [Big Bay](https://open.spotify.com/album/0mzgYCEIuky0IxPhXbKocZ) | 3:23 |
 | 70 | [Longlife](https://open.spotify.com/track/0ZIUQD7upKZ3chsel2YIud) | [Andrewboy](https://open.spotify.com/artist/3VIlnIBGA1XKLBk1vPLYkz), [SHAZZE](https://open.spotify.com/artist/21T2YTin3U2nqyJrAZkzl8) | [Longlife](https://open.spotify.com/album/14j1V122tlxVep8OIdQGCe) | 4:42 |
 | 71 | [It's a House Day](https://open.spotify.com/track/3qr9mjcyxo5Jt0DdVlRaXl) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [It's a House Day](https://open.spotify.com/album/3G9Y3zlfRziv94DHMZXVP6) | 5:58 |
-| 72 | [L'Esperanza \- Hardspace Mix](https://open.spotify.com/track/6xwiTbE15WhxHCt59YY0Ni) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [L'Esperanza \(Revisited\)](https://open.spotify.com/album/6jRnX0LQz4zoIXu4hjTd4R) | 5:56 |
+| 72 | [L'Esperanza \- Hardspace Mix](https://open.spotify.com/track/6xwiTbE15WhxHCt59YY0Ni) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F), [Ralf Hildenbeutel](https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [L'Esperanza \(Revisited\)](https://open.spotify.com/album/6jRnX0LQz4zoIXu4hjTd4R) | 5:56 |
 | 73 | [Airwalk](https://open.spotify.com/track/6dMiXJpEIc4uTXiWDJBZcy) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Airwalk EP](https://open.spotify.com/album/4smFtStyTPvmmTXIoIouMi) | 6:25 |
 | 74 | [My Definition of Groove](https://open.spotify.com/track/6QKazs5rq74TzX6ThtjrE0) | [Quenum](https://open.spotify.com/artist/0eHglGsy8W3uW5fimUYTF2), [Paris The Black Fu](https://open.spotify.com/artist/3bsJXn63LV5QV6qs6jYobp) | [My Definition of Groove](https://open.spotify.com/album/3XfhrAHpL22z3HWjyGacNY) | 6:03 |
 | 75 | [Falling in Yøur Eyes](https://open.spotify.com/track/2ZJoEnWdNGIRt67sDAIPEE) | [birø](https://open.spotify.com/artist/4hKPAbYSJKUQtFMSjCOXcO) | [Falling in Yøur Eyes](https://open.spotify.com/album/5S7kz10Q5bFBEg1tuzMGlM) | 2:30 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 64545,
+  "2024-04-20": 64555,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:3NKVm2Jedcf6ibJr6pMUVx\">Jayda G</a>'s favorite tracks. Updated regularly. Curated by Jayda G. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jayda G's track IDs",
@@ -24,6 +24,24 @@
     },
     {
       "album": {
+        "name": "Bang That Beat \"The Best Of\"",
+        "url": "https://open.spotify.com/album/5nMmnZzj9k9P2ltDSFW0hG"
+      },
+      "artists": [
+        {
+          "name": "Clivill\u00e9s & Cole",
+          "url": "https://open.spotify.com/artist/1Pr4kwH4jQuyc6pZ83VsC0"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "A Deeper Love",
+      "url": "https://open.spotify.com/track/7CVMGgNjOiyp0PMCxCHnPN"
+    },
+    {
+      "album": {
         "name": "Greatest Remixes Vol. 1",
         "url": "https://open.spotify.com/album/5oHsMwFAvV5PhlhVuq97xm"
       },
@@ -35,7 +53,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337400,
       "name": "A Deeper Love",
       "url": "https://open.spotify.com/track/02VLaPjDwW5iCQOj9P7vMn"
@@ -399,6 +417,24 @@
     {
       "album": {
         "name": "Release",
+        "url": "https://open.spotify.com/album/2MikTvhXISsHxX4Lr8xroL"
+      },
+      "artists": [
+        {
+          "name": "Ananda Project",
+          "url": "https://open.spotify.com/artist/5SMPsvWbnxL1B6SRIAn37c"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402933,
+      "name": "Cascades Of Colour",
+      "url": "https://open.spotify.com/track/1XD7jLGDvGptKEfeHH6bM3"
+    },
+    {
+      "album": {
+        "name": "Release",
         "url": "https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq"
       },
       "artists": [
@@ -435,7 +471,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402800,
       "name": "Cascades of Colour - Extended Mix",
       "url": "https://open.spotify.com/track/2hvPAweFTgcAn9caYJh564"
@@ -1798,6 +1834,40 @@
     },
     {
       "album": {
+        "name": "Ngibambe (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/1tlAS0lyLBMa2QOkOMVpFL"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Gaba Cannal",
+          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Ngibambe (feat. Gaba Cannal & Russell Zuma) - Jayda G Remix",
+      "url": "https://open.spotify.com/track/3Dcp6EgDwBl8Op8H1nwoxy"
+    },
+    {
+      "album": {
         "name": "Piano Republik (Remixes)",
         "url": "https://open.spotify.com/album/6Vihx5XSpcO4Y9FVfM4ywh"
       },
@@ -1825,7 +1895,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214000,
       "name": "Ngibambe - Jayda G Remix",
       "url": "https://open.spotify.com/track/6JPdWNBabN94cU7ISjxO76"
@@ -2769,7 +2839,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 491746,
       "name": "Who Dares to Believe in Me?",
       "url": "https://open.spotify.com/track/0kj7OHPi09gnUKek4o3ZHD"
@@ -2787,7 +2857,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 491746,
       "name": "Who Dares To Believe In Me?",
       "url": "https://open.spotify.com/track/2orxZZBLXF40hyBDSqqEGb"
@@ -2997,10 +3067,28 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 474560,
       "name": "Zulu (Change Mix)",
       "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474560,
+      "name": "Zulu - Change Mix",
+      "url": "https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0F8FtqyAjxC"

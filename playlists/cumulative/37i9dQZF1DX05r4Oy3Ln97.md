@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-313 songs - 16 hr 18 min
+314 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-06-16 |  |
 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 | 2024-04-12 |  |
 | [7 AM](https://open.spotify.com/track/5FFKnBx45in04E98mqtfaN) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [7 AM](https://open.spotify.com/album/2lrYnl0JdDRvlpmFzN84nl) | 3:31 | 2021-10-29 | 2022-01-20 |
+| [A Fire Inside Of Me](https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms) | [Lucas Dekker](https://open.spotify.com/artist/2FppznzSJ4gkN86gxuNeIF) | [A Fire Inside Of Me](https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu) | 3:58 | 2024-04-19 |  |
 | [Adore](https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Adore](https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ) | 3:29 | 2023-01-27 | 2024-03-26 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-24 |  |
 | [All I Need](https://open.spotify.com/track/5uMCXikeX6Z8p10rtYgop8) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [All I Need](https://open.spotify.com/album/3eGLkWKJMU6PFxE6eEq6W5) | 2:18 | 2021-10-29 | 2022-03-19 |
@@ -147,7 +148,7 @@
 | [Ibiza](https://open.spotify.com/track/61CG5urc3Viv08uJeBOPxs) | [Sole Sole](https://open.spotify.com/artist/4yXtr3OVVcpDlFomRRVM7Z) | [Ibiza](https://open.spotify.com/album/1S0e7Dxz8E9mBUAnOjIhxx) | 2:48 | 2021-10-29 | 2022-03-26 |
 | [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-31 | 2023-07-03 |
 | [If You Wanna](https://open.spotify.com/track/3U8zXNz1x6QRo8N6KYv9ZR) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [If You Wanna](https://open.spotify.com/album/6xdH62cWsnkSNb1KrstnEA) | 2:39 | 2023-03-31 |  |
-| [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 | 2023-05-12 |  |
+| [In Too Deep](https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU) | [WEEKLESS](https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF), [WEDONT](https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [In Too Deep](https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z) | 2:45 | 2023-05-12 | 2024-04-20 |
 | [Jaguwawa](https://open.spotify.com/track/3BP4lwzKXSJNwiPaffklWE) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD) | [Jaguwawa](https://open.spotify.com/album/3rV60ADTCBj0XfttpbpmTT) | 2:59 | 2022-03-11 | 2022-07-26 |
 | [Jamming \- FISHER Rework](https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Jamming \(FISHER Rework\)](https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk) | 3:21 | 2024-03-15 |  |
 | [Juno Love](https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy) | [Nico Morano](https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz), [Mewhy](https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31) | [Juno Love](https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38) | 7:26 | 2023-03-31 | 2023-04-29 |

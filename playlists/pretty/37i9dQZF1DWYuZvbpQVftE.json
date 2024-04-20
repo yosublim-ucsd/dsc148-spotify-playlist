@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 25058,
+  "num_followers": 25073,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
+        "name": "The Steamer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz Quartet",
+          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -419,18 +435,22 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "The Steamer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
         {
-          "name": "Stan Getz Quartet",
-          "url": "https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
         }
       ],
-      "duration_ms": 379400,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp"
+      "duration_ms": 210213,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -467,26 +487,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Four!",
         "url": "https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Jazz Impressions Of Eurasia",
-        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Son Of Gunn!!",
         "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 289360,
       "name": "Blue Steel",
       "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Jazz Impressions Of Eurasia",
+        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -675,26 +675,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Westward Bound! (Live)",
         "url": "https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 518000,
       "name": "Happily Dancing / Deep Harmonies Falling - Live",
       "url": "https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2024-03-20 14:55:42",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-03-20 14:55:42",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2024-03-20 14:55:42",
-      "album": {
         "name": "Swingin' (Remastered)",
         "url": "https://open.spotify.com/album/3BeRh2rV4kUxMwRFda9m2h"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 201213,
       "name": "Happiness Is a Thing Called Joe",
       "url": "https://open.spotify.com/track/0mOawytsrpaqfVMPkZopDA"
+    },
+    {
+      "added_at": "2024-03-20 14:55:42",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     }
   ],
   "unique_name": "West Coast Jazz",

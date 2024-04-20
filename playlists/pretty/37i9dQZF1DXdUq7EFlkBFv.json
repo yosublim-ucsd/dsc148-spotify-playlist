@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 17730,
+  "num_followers": 17748,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Clash (feat. Stormzy)",
-        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Clash (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "King Of Killbranch",
         "url": "https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 160000,
       "name": "Allegations (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Clash (feat. Stormzy)",
+        "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Don\u2019t Leave Me",
-      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+      "duration_ms": 156000,
+      "name": "Don\u2019t Leave Me",
+      "url": "https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Jail",
-      "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
+      "duration_ms": 339249,
+      "name": "Off The Grid",
+      "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 339249,
-      "name": "Off The Grid",
-      "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
+      "duration_ms": 297000,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK"
     },
     {
       "added_at": "2022-10-01 16:17:17",

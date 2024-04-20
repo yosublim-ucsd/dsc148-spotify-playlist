@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 150600,
+  "2024-04-20": 150548,
   "date_first_scraped": "2021-12-28",
   "description": "Dreaming of a white Christmas \u2728\u2744\ufe0f",
   "name": "White Christmas",
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256426,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/4u3p9G8NEyF37rfQ0OHS4T"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 256426,
       "name": "Christmas Eve",
       "url": "https://open.spotify.com/track/5XfVRHoVYasTImnbhjoq94"
@@ -1541,10 +1541,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219339,
       "name": "Counting Down Christmas",
       "url": "https://open.spotify.com/track/33f3uSgwn3G1HQUWOqFG4V"
+    },
+    {
+      "album": {
+        "name": "Counting Down Christmas",
+        "url": "https://open.spotify.com/album/3jt0p4HnfPJv3IXKs1APBj"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219339,
+      "name": "Counting Down Christmas",
+      "url": "https://open.spotify.com/track/7zrQbXbU5FHgN6mqIOpgcI"
     },
     {
       "album": {
@@ -1869,10 +1887,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
+    },
+    {
+      "album": {
+        "name": "The Definite Best",
+        "url": "https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
     },
     {
       "album": {
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208800,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn"
@@ -2541,7 +2577,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "How Can It Be Christmas",
       "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
@@ -2999,10 +3035,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172250,
       "name": "It's Not Christmas Till Somebody Cries",
       "url": "https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g"
+    },
+    {
+      "album": {
+        "name": "It's Not Christmas Till Somebody Cries",
+        "url": "https://open.spotify.com/album/677DoK1InjZA0D6zEeisw4"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "It's Not Christmas Till Somebody Cries",
+      "url": "https://open.spotify.com/track/72LocLBQn2IZVoiiP0F3o8"
     },
     {
       "album": {
@@ -3807,7 +3861,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/2VVbkcGQTRsnK2FYPqx5DK"
@@ -3825,7 +3879,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
@@ -4013,7 +4067,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 141972,
       "name": "Messed Up On Christmas",
       "url": "https://open.spotify.com/track/1hVFvOisGooNd8z9B2AMIp"
@@ -4981,6 +5035,24 @@
     {
       "album": {
         "name": "A Redhill Valley Christmas",
+        "url": "https://open.spotify.com/album/4kVGfnzFaPHeAg9dX4HloA"
+      },
+      "artists": [
+        {
+          "name": "The Redhill Valleys",
+          "url": "https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196269,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/3jamEnkqZJsEVOvfSNXMHw"
+    },
+    {
+      "album": {
+        "name": "A Redhill Valley Christmas",
         "url": "https://open.spotify.com/album/23mnKQI9vBQhMKhXW3KDR5"
       },
       "artists": [
@@ -4991,7 +5063,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196269,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/6zXErxTVDYkWizKbuULPlD"
@@ -5263,7 +5335,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168826,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
@@ -5961,10 +6033,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
     },
     {
       "album": {
@@ -6243,7 +6333,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
@@ -6287,7 +6377,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
@@ -6443,6 +6533,24 @@
     {
       "album": {
         "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Wrapped in Red",
+      "url": "https://open.spotify.com/track/2nMZx7QHerfo4Wv37xNUEC"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
       "artists": [
@@ -6453,7 +6561,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216906,
       "name": "Wrapped in Red",
       "url": "https://open.spotify.com/track/5fclVBnzaGrbucvVMC228o"

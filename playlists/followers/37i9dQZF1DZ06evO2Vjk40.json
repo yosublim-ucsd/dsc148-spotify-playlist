@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 603678,
+  "2024-04-20": 603819,
   "date_first_scraped": "2023-02-09",
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
   "name": "This Is Chris Stapleton",
@@ -622,6 +622,28 @@
     },
     {
       "album": {
+        "name": "Oh Well feat. Chris Stapleton",
+        "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well feat. Chris Stapleton",
+      "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
+    },
+    {
+      "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
       },
@@ -705,30 +727,6 @@
         {
           "name": "The Little Willies",
           "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
-        },
-        {
-          "name": "Ray Benson",
-          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
       "date_added": "2023-02-08",
@@ -863,30 +861,6 @@
         {
           "name": "Nathaniel Rateliff",
           "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "The Little Willies",
-          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
-        },
-        {
-          "name": "Ray Benson",
-          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
       "date_added": "2023-02-08",

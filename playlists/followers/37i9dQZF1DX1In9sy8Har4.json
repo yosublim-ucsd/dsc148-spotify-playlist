@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 7800,
+  "2024-04-20": 7803,
   "date_first_scraped": "2023-04-20",
   "description": "The Official Snabba Cash Playlist. Season 2 out now!",
   "name": "Snabba Cash Official Playlist",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 482471,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ"
+    },
+    {
+      "album": {
+        "name": "Call Of The Wild",
+        "url": "https://open.spotify.com/album/0NaI4pWUAreKiO74auGaD9"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482471,
+      "name": "Baby Teeth",
+      "url": "https://open.spotify.com/track/4kyY67o3mSnahxDA92OGk1"
     },
     {
       "album": {
@@ -75,7 +93,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "Driftig",
       "url": "https://open.spotify.com/track/1TmmfkscxUmzbGu628xvrT"
@@ -97,7 +115,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198693,
       "name": "Driftig (feat. Evin Ahmad)",
       "url": "https://open.spotify.com/track/454PxjaPn7yQGHO7bGqg1f"
@@ -131,7 +149,7 @@
     {
       "album": {
         "name": "Zebrapojken",
-        "url": "https://open.spotify.com/album/6qN77v4RYa49C6Q6NdtsMR"
+        "url": "https://open.spotify.com/album/60yJfXrhCuEsAqX7DCCr2S"
       },
       "artists": [
         {
@@ -142,6 +160,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184893,
+      "name": "Euro",
+      "url": "https://open.spotify.com/track/50HDUrr3Pnjz1WqytTRFtD"
+    },
+    {
+      "album": {
+        "name": "Zebrapojken",
+        "url": "https://open.spotify.com/album/6qN77v4RYa49C6Q6NdtsMR"
+      },
+      "artists": [
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 184893,
       "name": "Euro",
       "url": "https://open.spotify.com/track/73ATktpeAU9bXJbY5NJ5Xl"
@@ -304,6 +340,24 @@
     },
     {
       "album": {
+        "name": "OCH DU HETER?",
+        "url": "https://open.spotify.com/album/7CRGuS2wu8jgln4U3MRobe"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/0SiKXP7Ak60VxFUEcLFz8R"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204765,
+      "name": "PEDIGREE",
+      "url": "https://open.spotify.com/track/5ZoxbOd8nxtvzti0Ao7zSC"
+    },
+    {
+      "album": {
         "name": "Electric Techno",
         "url": "https://open.spotify.com/album/0eeb9JYFmLLX4U8n1KK8Ox"
       },
@@ -389,7 +443,7 @@
     {
       "album": {
         "name": "Bror Utan Sol (Bland R\u00f6k och Stearin)",
-        "url": "https://open.spotify.com/album/46igBKktXOYELtkdXUblEs"
+        "url": "https://open.spotify.com/album/4ijzqPfCS0CRdujzGqdNvp"
       },
       "artists": [
         {
@@ -400,6 +454,24 @@
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229045,
+      "name": "\u00c4lska Mig V\u00e4l",
+      "url": "https://open.spotify.com/track/00VyyU6HOuWM52WJdx5HtT"
+    },
+    {
+      "album": {
+        "name": "Bror Utan Sol (Bland R\u00f6k och Stearin)",
+        "url": "https://open.spotify.com/album/46igBKktXOYELtkdXUblEs"
+      },
+      "artists": [
+        {
+          "name": "Henok Achido",
+          "url": "https://open.spotify.com/artist/1SlDbVWZYjuIT8TkBOoBn6"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 229045,
       "name": "\u00c4lska Mig V\u00e4l",
       "url": "https://open.spotify.com/track/5SftqV6f4bNvc3p4VasngV"

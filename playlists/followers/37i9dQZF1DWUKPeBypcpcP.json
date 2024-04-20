@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 904008,
+  "2024-04-20": 902683,
   "date_first_scraped": "2021-12-21",
   "description": "Where nature and white noise meet.",
   "name": "Nature Noise",
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Forest By Night",
+        "url": "https://open.spotify.com/album/03r3zfeuL4HeuW2seWGeBr"
+      },
+      "artists": [
+        {
+          "name": "Michelle DuVal",
+          "url": "https://open.spotify.com/artist/4DP17jQOrkWxgjz0McI7xM"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "Dark Forest",
+      "url": "https://open.spotify.com/track/3bpJ9RaDEep0H2U9gtnDA2"
+    },
+    {
+      "album": {
         "name": "Natural Sound Makers",
         "url": "https://open.spotify.com/album/6tZho0aym2p3qnh7JOYVih"
       },
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ"

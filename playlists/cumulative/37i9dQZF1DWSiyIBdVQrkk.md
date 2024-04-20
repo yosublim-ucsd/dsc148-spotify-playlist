@@ -4,7 +4,7 @@
 
 > Celebrating the film Bob Marley: One Love.
 
-422 songs - 1 day 2 hr 59 min
+423 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 | 2021-10-18 | 2022-07-29 |
 | [Could You Be Loved \- Acoustic](https://open.spotify.com/track/5ONmWYosIGBFjAKPgozdO2) | [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Could You Be Loved \(Acoustic\)](https://open.spotify.com/album/5afbOG4U5ALo0wX5RF5pQS) | 4:27 | 2021-10-18 |  |
 | [Crazy in Love](https://open.spotify.com/track/3qiAxasIFurgBRkOfaALAU) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Crazy in Love](https://open.spotify.com/album/7bSFWh0r3DMb6ynhwqGJwO) | 3:56 | 2021-10-18 | 2022-07-22 |
-| [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 | 2021-10-18 |  |
+| [Cry Cry Blood](https://open.spotify.com/track/6B8Q0LnJePTTaRGCo2tdwG) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [Cry Cry Blood](https://open.spotify.com/album/4edF3F2lOg0H8ohjxfSAJC) | 3:49 | 2021-10-18 | 2024-04-20 |
 | [Dash Wata](https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:53 | 2021-10-18 |  |
 | [Days of Stone](https://open.spotify.com/track/3kJM6nB0qDeNjADOgFOQei) | [Dre Island](https://open.spotify.com/artist/0TS9FVfPz9X4ijxno3KBi8), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Now I Rise](https://open.spotify.com/album/2sQfxaIn395xqNkYH7VfAp) | 5:03 | 2021-10-18 | 2022-07-29 |
 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 | 2021-10-18 |  |
@@ -206,6 +206,7 @@
 | [Love Town](https://open.spotify.com/track/0OUWMVacRugPsCYoccZewJ) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:22 | 2021-10-18 | 2022-06-23 |
 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 | 2022-08-18 | 2022-09-10 |
 | [Ma'at \(Each Man\)](https://open.spotify.com/track/1QqhHG1fdZUG5slcMT4CNm) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH) | [Ma'at \(Each Man\)](https://open.spotify.com/album/1kHqeoj8k9pcvSNLuYBYwK) | 3:32 | 2021-10-18 | 2022-07-29 |
+| [Made In Africa](https://open.spotify.com/track/2mTCA7XFTaWaRA7ElzNaVc) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [The Cast of Fela](https://open.spotify.com/artist/2Y3qyd8WULPJ27KRJ1oZxo) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 5:36 | 2024-01-29 |  |
 | [Make Me Feel \(feat\. Rick Ross & Ari Lennox\)](https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Make Me Feel](https://open.spotify.com/album/5debgHMJNijFtEvXbR6LS0) | 3:12 | 2021-10-18 | 2022-06-30 |
 | [Make Things Work](https://open.spotify.com/track/7vDvRGAI64dvYTwR5yL19C) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Make Things Work](https://open.spotify.com/album/0hFKmKNNdOdQ8RUwkeh4fj) | 4:01 | 2022-06-20 | 2022-07-29 |
 | [Mama](https://open.spotify.com/track/1dTCwGjVspJIpA318cquIy) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Perfect Key Riddim](https://open.spotify.com/album/2qC5eoyN4hPlrNFZaEmyCr) | 3:25 | 2022-10-13 | 2022-11-12 |

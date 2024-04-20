@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 673205,
+  "2024-04-20": 671585,
   "date_first_scraped": "2022-01-18",
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Twenty One Pilots",
   "name": "Volume M\u00e1ximo",
@@ -47,6 +47,24 @@
     {
       "album": {
         "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
       "artists": [
@@ -57,7 +75,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215318,
       "name": "All Things Must Change",
       "url": "https://open.spotify.com/track/7oXl7mUZPi6YThjvtsk2q1"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190271,
       "name": "ARMY OF ME",
       "url": "https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 190271,
       "name": "ARMY OF ME",
       "url": "https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L"
@@ -527,7 +545,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
@@ -946,6 +964,42 @@
     },
     {
       "album": {
+        "name": "There Goes The Neighbourhood",
+        "url": "https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Can EU Hear Me?",
+      "url": "https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs"
+    },
+    {
+      "album": {
+        "name": "Carnivore",
+        "url": "https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Carnivore",
+      "url": "https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM"
+    },
+    {
+      "album": {
         "name": "Carnivore (Instrumental)",
         "url": "https://open.spotify.com/album/2RFDWSAOmutyKwFTvpQ4hH"
       },
@@ -975,7 +1029,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191957,
       "name": "Carnivore",
       "url": "https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09"
@@ -1047,7 +1101,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173931,
       "name": "City of the Dead",
       "url": "https://open.spotify.com/track/5bqnhwnHxcisxM8x7GLl3B"
@@ -1217,7 +1271,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
@@ -1235,7 +1289,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57"
@@ -1423,6 +1477,24 @@
       "duration_ms": 166892,
       "name": "DOGMA",
       "url": "https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw"
+    },
+    {
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "album": {
@@ -2114,6 +2186,24 @@
     },
     {
       "album": {
+        "name": "Dante XXI (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Fighting On - 2021 - Remaster",
+      "url": "https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R"
+    },
+    {
+      "album": {
         "name": "Dante XXI (2021 Remaster)",
         "url": "https://open.spotify.com/album/7rX8txeF5YyFsCbDvUxU3R"
       },
@@ -2125,7 +2215,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269333,
       "name": "Fighting On - 2021 Remaster",
       "url": "https://open.spotify.com/track/1T9xnCIWFjJUHkOlIIqHOb"
@@ -2183,7 +2273,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 270454,
       "name": "Foregone, Pt. 2",
       "url": "https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR"
@@ -2201,7 +2291,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270454,
       "name": "Foregone, Pt. 2",
       "url": "https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N"
@@ -2237,7 +2327,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
@@ -2255,7 +2345,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
@@ -2493,7 +2583,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY"
@@ -2511,7 +2601,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
@@ -2601,7 +2691,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/0FIfPxra2V11mDnQmzXtPD"
@@ -2619,7 +2709,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 163752,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
@@ -3403,7 +3493,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
@@ -3421,7 +3511,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201541,
       "name": "More Than Machines",
       "url": "https://open.spotify.com/track/3PiSJPOATPEo0XOnSUS9nv"
@@ -3497,7 +3587,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY"
@@ -3519,7 +3609,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
@@ -3653,7 +3743,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
@@ -3671,7 +3761,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/76uink7chpCLN5HjlDIMCA"
@@ -4285,7 +4375,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 215643,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/54VRGCpS5jUI4PXa5jAZFL"
@@ -4303,7 +4393,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215643,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/7lLjB1RVkIG3CangYngvtJ"
@@ -4447,7 +4537,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228119,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/31aVGAyU43vQYxYyCmfaQI"
@@ -4465,7 +4555,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 228119,
       "name": "Slow Me",
       "url": "https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa"
@@ -4519,7 +4609,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245099,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/1Pgd9JfKgEe1UkmlnR57hL"
@@ -4537,7 +4627,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 245099,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
@@ -4681,7 +4771,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220839,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/1HFXb1wpN8cGuTrRn1idRd"
@@ -4699,7 +4789,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 220839,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
@@ -4895,7 +4985,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 274437,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy"
@@ -4913,7 +5003,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274437,
       "name": "Talk Sick",
       "url": "https://open.spotify.com/track/5LEM1bxgQSlvUIw7VOe7hq"
@@ -5155,7 +5245,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv"
@@ -5173,7 +5263,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221148,
       "name": "The Saints Of Violence And Innuendo",
       "url": "https://open.spotify.com/track/62JTJvMA8yd5r8r788hK2Q"
@@ -5343,7 +5433,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
@@ -5361,10 +5451,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273693,
+      "name": "Too Far Gone?",
+      "url": "https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF"
     },
     {
       "album": {
@@ -5379,7 +5487,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
@@ -5703,7 +5811,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
@@ -5721,7 +5829,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/1c206nIhscBrNMXM2b5Jfw"
@@ -5973,7 +6081,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
@@ -6085,7 +6193,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
@@ -6121,7 +6229,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 119635,
+  "2024-04-20": 119641,
   "date_first_scraped": "2023-01-15",
   "description": "Boss music for boss people. Cover: Corella",
   "name": "Proper Belters",
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193426,
       "name": "Cavalryman",
       "url": "https://open.spotify.com/track/3JDeaSeCZi33RvPNZOTdIf"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195152,
       "name": "Chancer",
       "url": "https://open.spotify.com/track/6fGv6OOjC863PxU0a7selC"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 179750,
       "name": "Fred Perry Girl",
       "url": "https://open.spotify.com/track/3lcGMZrsd3fqWjcX8Nmkog"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179750,
       "name": "Fred Perry Girl",
       "url": "https://open.spotify.com/track/5bx306GGbhJpi2qMyCPSDz"
@@ -1635,6 +1635,24 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "album": {
+        "name": "Get Me Started",
+        "url": "https://open.spotify.com/album/4sn2Ucedh0ERO2flaG1KdB"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221669,
+      "name": "Get Me Started",
+      "url": "https://open.spotify.com/track/1hc98h2pyMvYo6MAS18aDN"
     },
     {
       "album": {
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293461,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1aZQC0ssvBO88MgjioVK8s"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 141265,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 138814,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160346,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284324,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/79SDr4AApLGjOUMXNSk8c8"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
@@ -3356,6 +3374,24 @@
     },
     {
       "album": {
+        "name": "Rational Man / Bringing it Back Home",
+        "url": "https://open.spotify.com/album/3PoBQuP2nHivNetzBgqDEN"
+      },
+      "artists": [
+        {
+          "name": "Kula Shaker",
+          "url": "https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189082,
+      "name": "Rational Man",
+      "url": "https://open.spotify.com/track/62a6bZawUDO1hj5P6bmwuB"
+    },
+    {
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/0O7gTxkYxNjD3gw9WSGHhb"
       },
@@ -3493,7 +3529,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 266140,
       "name": "Seven Bridge Road",
       "url": "https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p"
@@ -3515,6 +3551,24 @@
       "duration_ms": 297933,
       "name": "Seventeen Going Under",
       "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
+    },
+    {
+      "album": {
+        "name": "Panic Prevention",
+        "url": "https://open.spotify.com/album/15P0EFs78iLbc5rOLSkYYG"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "Sheila",
+      "url": "https://open.spotify.com/track/0FGtGmz8SVEywhUqNFYWsQ"
     },
     {
       "album": {
@@ -3551,6 +3605,24 @@
       "duration_ms": 280016,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO"
+    },
+    {
+      "album": {
+        "name": "SIMILE BLUES",
+        "url": "https://open.spotify.com/album/5Roz1zZpGoqjRRg8DN6fV7"
+      },
+      "artists": [
+        {
+          "name": "Thom Southern",
+          "url": "https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170545,
+      "name": "SIMILE BLUES",
+      "url": "https://open.spotify.com/track/0VPHkcfJylxPZ2BLd2TnYI"
     },
     {
       "album": {
@@ -3637,7 +3709,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 199513,
       "name": "somebody to talk about",
       "url": "https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz"
@@ -3673,10 +3745,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224040,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0xjNvmVnlOR8cfd0rWbVJH"
+    },
+    {
+      "album": {
+        "name": "Spirit Folio",
+        "url": "https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4"
+      },
+      "artists": [
+        {
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244838,
+      "name": "Spirit Folio",
+      "url": "https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH"
     },
     {
       "album": {
@@ -3785,7 +3875,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 252035,
       "name": "The Back Seat",
       "url": "https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ"
@@ -3883,6 +3973,24 @@
     {
       "album": {
         "name": "Ribbon Around The Bomb",
+        "url": "https://open.spotify.com/album/0bOTBOc1p5IbwQqjDXoC2C"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "The Sulking Poet",
+      "url": "https://open.spotify.com/track/1WxuWPQNbgeeGUgXk5Te8P"
+    },
+    {
+      "album": {
+        "name": "Ribbon Around The Bomb",
         "url": "https://open.spotify.com/album/3hf9qJwWDOOjfyNI1esiGG"
       },
       "artists": [
@@ -3947,7 +4055,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198647,
       "name": "These Days",
       "url": "https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2"
@@ -4199,7 +4307,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188744,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
@@ -4271,7 +4379,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196986,
       "name": "Weekend In Paradise",
       "url": "https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6"
@@ -4379,7 +4487,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240330,
       "name": "Where We're Going",
       "url": "https://open.spotify.com/track/19GiPFk1hng2JpuRf00Gno"
@@ -4455,6 +4563,24 @@
       "duration_ms": 196525,
       "name": "Yesterday Is Gone",
       "url": "https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By"
+    },
+    {
+      "album": {
+        "name": "Hombres",
+        "url": "https://open.spotify.com/album/1OUceI2NZdZbCOnSqpLX9g"
+      },
+      "artists": [
+        {
+          "name": "Gun",
+          "url": "https://open.spotify.com/artist/1dip2dCkBIylIFyDfZQfFu"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279213,
+      "name": "You Are What I Need",
+      "url": "https://open.spotify.com/track/5I1JmDBkM9Vi72Z4JkgYOk"
     },
     {
       "album": {

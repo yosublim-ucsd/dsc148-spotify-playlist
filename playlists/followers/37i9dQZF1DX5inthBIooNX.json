@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 174531,
+  "2024-04-20": 174550,
   "date_first_scraped": "2024-03-30",
   "description": "A playlist for the eclipse. Photo credits: NASA",
   "name": "sonder",
@@ -187,10 +187,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318378,
       "name": "Between All Things",
       "url": "https://open.spotify.com/track/3OPQDZohlsoElUKr7n0O54"
+    },
+    {
+      "album": {
+        "name": "Between All Things",
+        "url": "https://open.spotify.com/album/0vLJbkcXDXkSar4Hmzn7kX"
+      },
+      "artists": [
+        {
+          "name": "OHMA",
+          "url": "https://open.spotify.com/artist/7mbyocfSOEDLUpdGRyDVgx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318378,
+      "name": "Between All Things",
+      "url": "https://open.spotify.com/track/7jLjQEkCOJCULvabedRnCL"
     },
     {
       "album": {
@@ -313,10 +331,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280749,
       "name": "Escape",
       "url": "https://open.spotify.com/track/55xkIx5Zi0Lzf7QqF4LDUS"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ"
+      },
+      "artists": [
+        {
+          "name": "Lord Belphegor",
+          "url": "https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277800,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER"
     },
     {
       "album": {
@@ -443,10 +479,32 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258670,
       "name": "Gossamer - Vines version",
       "url": "https://open.spotify.com/track/1d18qBIoYuyDlnGKz6r3w2"
+    },
+    {
+      "album": {
+        "name": "Gossamer (Vines version)",
+        "url": "https://open.spotify.com/album/0zX3mC5NKgfiNUZ2vZfFkp"
+      },
+      "artists": [
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+        },
+        {
+          "name": "~Nois",
+          "url": "https://open.spotify.com/artist/5ipspmvMwUfwaTF9ad1xUF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258670,
+      "name": "Gossamer - Vines version",
+      "url": "https://open.spotify.com/track/26M1PubV7uOn4P30Kifvyf"
     },
     {
       "album": {
@@ -915,10 +973,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 517916,
       "name": "Marginalia #65",
       "url": "https://open.spotify.com/track/4fyG37Lmtb9qWH3Jk88kic"
+    },
+    {
+      "album": {
+        "name": "Marginalia III",
+        "url": "https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517916,
+      "name": "Marginalia #65",
+      "url": "https://open.spotify.com/track/5igSqLSqaDXH0aJtQ43FWY"
     },
     {
       "album": {

@@ -3151,6 +3151,32 @@
     },
     {
       "album": {
+        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208054,
+      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
+    },
+    {
+      "album": {
         "name": "Outlier",
         "url": "https://open.spotify.com/album/7HSNQl2xKaGTZF70H4QXIb"
       },

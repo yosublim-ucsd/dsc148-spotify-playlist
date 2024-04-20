@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 40483,
+  "2024-04-20": 40507,
   "date_first_scraped": "2024-01-30",
   "description": "Fresh takes - from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.",
   "name": "David Bowie: Covered",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 263493,
       "name": "Five Years",
       "url": "https://open.spotify.com/track/4FYxUrKzRFOy5mfG5NXVbx"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263493,
       "name": "Five Years",
       "url": "https://open.spotify.com/track/4lNkheST7MCjZflqM0jTrP"
@@ -581,10 +581,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284299,
       "name": "Rebel Rebel",
       "url": "https://open.spotify.com/track/1p4m5GhQwn8c7Vmx7iTTyK"
+    },
+    {
+      "album": {
+        "name": "Rebel Rebel",
+        "url": "https://open.spotify.com/album/3UvLydYL4S27nIw06QogSs"
+      },
+      "artists": [
+        {
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284299,
+      "name": "Rebel Rebel",
+      "url": "https://open.spotify.com/track/5sZ4zXVpvl8wdPLnn4nMz6"
     },
     {
       "album": {
@@ -707,10 +725,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249148,
       "name": "Starman",
       "url": "https://open.spotify.com/track/1ncYtemyDNYLz6aINyAUef"
+    },
+    {
+      "album": {
+        "name": "No Gods No Masters",
+        "url": "https://open.spotify.com/album/0Pr4iEMou8CPCeeN53DxGP"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249148,
+      "name": "Starman",
+      "url": "https://open.spotify.com/track/5i3lmM2SDMfftM2KkNV9Xl"
     },
     {
       "album": {
@@ -743,10 +779,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201200,
       "name": "Suffragette City",
       "url": "https://open.spotify.com/track/1L7PXeab9hfdnlyEHoyM8q"
+    },
+    {
+      "album": {
+        "name": "Eudora",
+        "url": "https://open.spotify.com/album/4VzFXlEdn1HaynezaXxBe9"
+      },
+      "artists": [
+        {
+          "name": "The Get Up Kids",
+          "url": "https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Suffragette City",
+      "url": "https://open.spotify.com/track/4vS26SNRpWzbYxr8pNt5P5"
     },
     {
       "album": {
@@ -819,10 +873,32 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295334,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/5gT1L2dgsaKT7O6hgEiM3y"
+    },
+    {
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/7GhS7SesozkzNAu4KUCOmX"
+      },
+      "artists": [
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295334,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/7rtNxSatiqmLKb4G71k1yn"
     },
     {
       "album": {
@@ -899,10 +975,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193266,
       "name": "Ziggy Stardust",
       "url": "https://open.spotify.com/track/2wBKNmYONrCxgmHc2HhQ8C"
+    },
+    {
+      "album": {
+        "name": "The Sky's Gone Out",
+        "url": "https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Ziggy Stardust",
+      "url": "https://open.spotify.com/track/36McsFnYUFvVmAHEjcBrya"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX58mGPDoDYN5"

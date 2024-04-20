@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 74864,
+  "2024-04-20": 74886,
   "date_first_scraped": "2023-05-19",
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
   "name": "Folk in India",
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 293500,
       "name": "Divine Krishna",
       "url": "https://open.spotify.com/track/5XAY3PGTV5bbBv5cd6cVQk"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175929,
       "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
       "url": "https://open.spotify.com/track/3QmeA8spViA3XNsOW0mQMQ"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246822,
       "name": "Hukus Bukus",
       "url": "https://open.spotify.com/track/7jo5tmRMOKlfBg1LLzodB5"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 268615,
       "name": "Jaag Uthi Usha - From \"Songs Of The River - Ganga\"",
       "url": "https://open.spotify.com/track/4IMOTtavuplugtakpEyTVU"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 249827,
       "name": "Jogiya",
       "url": "https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 238433,
       "name": "Kon Halave Limdi - Reprise",
       "url": "https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310146,
       "name": "Purvayi (feat Papon)",
       "url": "https://open.spotify.com/track/72Aa8UNEYvnirWp8KaiKdp"
@@ -1319,10 +1319,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221661,
       "name": "Railgaadi",
       "url": "https://open.spotify.com/track/0usYBbHAMyaUXQWt6MPgRb"
+    },
+    {
+      "album": {
+        "name": "Railgaadi",
+        "url": "https://open.spotify.com/album/29gJEL9QzPvjrnbR9m9JN7"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221661,
+      "name": "Railgaadi",
+      "url": "https://open.spotify.com/track/5Va1KqvMNYYhkysivjg8Ta"
     },
     {
       "album": {
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 196027,
       "name": "Rain Dance (Barsan Laagi)",
       "url": "https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309347,
       "name": "Ram Darshan",
       "url": "https://open.spotify.com/track/4m1svY251GrG58AlTujyLy"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276030,
       "name": "Safar",
       "url": "https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL"

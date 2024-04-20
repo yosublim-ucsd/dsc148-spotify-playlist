@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 282686,
+  "2024-04-20": 282715,
   "date_first_scraped": "2022-01-18",
   "description": "Dance anthems from the club to your ears!",
   "name": "Warehouse Party",
@@ -147,6 +147,28 @@
     {
       "album": {
         "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
         "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
       },
       "artists": [
@@ -161,7 +183,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
@@ -251,7 +273,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228571,
       "name": "Be Sharp Say Nowt - Edit",
       "url": "https://open.spotify.com/track/0j7O38949INodwi5ppDvFe"
@@ -509,7 +531,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/1HrMWH5GUdK6Yi94rbANJA"
@@ -531,7 +553,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
@@ -757,7 +779,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 392293,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
@@ -998,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Get Stupid",
+        "url": "https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Get Stupid",
+      "url": "https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8"
+    },
+    {
+      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189070,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/2NaRHscQkcVbro7Ys4FP2k"
@@ -1187,7 +1227,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU"
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148571,
       "name": "House & Pressure",
       "url": "https://open.spotify.com/track/4BG03MHYQwuWENZ31vFlsV"
@@ -1267,7 +1307,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 406691,
       "name": "Hungry For The Power - Jamie Jones Ridge Street Mix",
       "url": "https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB"
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406691,
       "name": "Hungry For The Power - Jamie Jones Ridge Street Remix",
       "url": "https://open.spotify.com/track/2S5uhb50uFNVEQSeyo1w5H"
@@ -1515,7 +1555,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305386,
       "name": "In For The Kill - Skream's Let's Get Ravey Remix",
       "url": "https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr"
@@ -1533,7 +1573,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 400751,
       "name": "Inspector Norse",
       "url": "https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T"
@@ -3089,7 +3129,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 166472,
       "name": "That Sound (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn"
@@ -3183,7 +3223,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 181992,
       "name": "This Is My Life",
       "url": "https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB"
@@ -3423,7 +3463,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195737,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq"
@@ -3441,7 +3481,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 400115,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
@@ -3459,7 +3499,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 400115,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/7HlvFIJDmcQRRn45aRd46t"
@@ -3565,7 +3605,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238080,
       "name": "Ya Kidding",
       "url": "https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On"

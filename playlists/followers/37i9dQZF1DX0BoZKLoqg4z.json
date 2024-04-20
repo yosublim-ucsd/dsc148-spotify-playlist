@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8897,
+  "2024-04-20": 8898,
   "date_first_scraped": "2023-09-29",
   "description": "Les talents pr\u00e9f\u00e9r\u00e9s de vos enfants, d\u00e9couverts \u00e0 la t\u00e9l\u00e9!",
   "name": "Stars en herbe",
@@ -25,7 +25,7 @@
     {
       "album": {
         "name": "Danser sur tes mots (Version deluxe)",
-        "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
+        "url": "https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk"
       },
       "artists": [
         {
@@ -36,6 +36,24 @@
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Besoin d'air",
+      "url": "https://open.spotify.com/track/0BoDFNzTbDoNpr43QG1P4Q"
+    },
+    {
+      "album": {
+        "name": "Danser sur tes mots (Version deluxe)",
+        "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 199160,
       "name": "Besoin d'air",
       "url": "https://open.spotify.com/track/346O1QZHMDi4IhInkYJAWP"
@@ -78,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Ce mur qui nous s\u00e9pare (de la s\u00e9rie TV \"Miraculous\")",
+        "url": "https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "Ce mur qui nous s\u00e9pare - de la s\u00e9rie TV \"Miraculous\"",
+      "url": "https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN"
+    },
+    {
+      "album": {
         "name": "Danser sur tes mots (Version deluxe)",
         "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
       },
@@ -93,7 +129,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241880,
       "name": "Ce mur qui nous s\u00e9pare - de la s\u00e9rie TV \"Miraculous\"",
       "url": "https://open.spotify.com/track/6o4XEaMtm51Y21Aqp5xW9F"
@@ -180,6 +216,24 @@
     },
     {
       "album": {
+        "name": "Lou (Edition deluxe)",
+        "url": "https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Demain (g\u00e9n\u00e9rique de la s\u00e9rie TV \"Demain nous appartient\")",
+      "url": "https://open.spotify.com/track/457te4tq7ZOvJZopqiqRvw"
+    },
+    {
+      "album": {
         "name": "Lou (version deluxe)",
         "url": "https://open.spotify.com/album/6XPvowrtcBuSrhY1P1rkYF"
       },
@@ -191,7 +245,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215773,
       "name": "Demain (g\u00e9n\u00e9rique de la s\u00e9rie TV \"Demain nous appartient\")",
       "url": "https://open.spotify.com/track/5i6OwhEJy8hNLf9kF3tA3c"
@@ -239,10 +293,40 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215354,
       "name": "En chantant",
       "url": "https://open.spotify.com/track/0AqHSKqUcRsoe00vzIJnox"
+    },
+    {
+      "album": {
+        "name": "En chantant",
+        "url": "https://open.spotify.com/album/7Hc36qUwmQiFA8c5qXWl2e"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/3qRQ1vhDVjpWrSFdk9v212"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "Angie Robba",
+          "url": "https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4"
+        },
+        {
+          "name": "Nemo Schiffman",
+          "url": "https://open.spotify.com/artist/3IcHkMtsQkP9x0bGW8jaEW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/3r33RQeZykACrpAFHBjZ35"
     },
     {
       "album": {
@@ -344,6 +428,24 @@
     },
     {
       "album": {
+        "name": "J'imagine",
+        "url": "https://open.spotify.com/album/7p571QNYDv3pDEFVOC4hsx"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "J'imagine",
+      "url": "https://open.spotify.com/track/32Qu507RR1udtFZmrHfDij"
+    },
+    {
+      "album": {
         "name": "Plus loin qu'un r\u00eave",
         "url": "https://open.spotify.com/album/1QrTaItGnJv79BBNoaJthE"
       },
@@ -355,7 +457,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179980,
       "name": "J'imagine",
       "url": "https://open.spotify.com/track/6FdWlpgMHqLuRBuyQ4afX8"
@@ -381,7 +483,7 @@
     {
       "album": {
         "name": "Tout le bonheur du monde",
-        "url": "https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC"
+        "url": "https://open.spotify.com/album/2EP8Vum6V1W0BzLNmBR7t3"
       },
       "artists": [
         {
@@ -394,7 +496,43 @@
       "date_removed": null,
       "duration_ms": 182868,
       "name": "L'Oiseau et l'enfant",
+      "url": "https://open.spotify.com/track/5UUbAsd0HqHpedB2Ty1sCy"
+    },
+    {
+      "album": {
+        "name": "Tout le bonheur du monde",
+        "url": "https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 182868,
+      "name": "L'Oiseau et l'enfant",
       "url": "https://open.spotify.com/track/5Vtf9vPlytZ4e6JviqXqC5"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "La tribu de Dana",
+      "url": "https://open.spotify.com/track/7dtqGkkWFUOOPHuERA772V"
     },
     {
       "album": {
@@ -409,7 +547,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220400,
       "name": "La tribu de Dana",
       "url": "https://open.spotify.com/track/0tViJ9TMDUkK6lY0sdKdpu"
@@ -457,6 +595,24 @@
     {
       "album": {
         "name": "Les enfants du monde",
+        "url": "https://open.spotify.com/album/4T3dRBadkSpWn7RpfM3EaG"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230290,
+      "name": "Les enfants du monde",
+      "url": "https://open.spotify.com/track/7hZeebyLqtLNLLVai4pNgi"
+    },
+    {
+      "album": {
+        "name": "Les enfants du monde",
         "url": "https://open.spotify.com/album/6Jwm5fgoMYPgKxRx2YFJrM"
       },
       "artists": [
@@ -471,10 +627,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230290,
       "name": "Les enfants du monde",
       "url": "https://open.spotify.com/track/3Kbrdxgjg0Gj9WT34g6OFN"
+    },
+    {
+      "album": {
+        "name": "Les lacs du Connemara",
+        "url": "https://open.spotify.com/album/6sDpJDlJU88AOXM0f1Bxn8"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "Les lacs du Connemara",
+      "url": "https://open.spotify.com/track/5JPDJImOMheR8E9nHQQv1H"
     },
     {
       "album": {
@@ -489,7 +663,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273493,
       "name": "Les lacs du Connemara",
       "url": "https://open.spotify.com/track/4SQhHasryB0KLsXOHSvMGK"
@@ -559,10 +733,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214586,
       "name": "M'en aller",
       "url": "https://open.spotify.com/track/1gZG6DyQ5LyvltrU8jiAYw"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "M'en aller (feat. Lou)",
+      "url": "https://open.spotify.com/track/78DEUoZWrf37U5jSagDt0s"
     },
     {
       "album": {
@@ -625,10 +821,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159626,
       "name": "Miraculous (g\u00e9n\u00e9rique de la s\u00e9rie TV \"Miraculous\")",
       "url": "https://open.spotify.com/track/3iidUwUmjc1XfUPL4XFPnt"
+    },
+    {
+      "album": {
+        "name": "Lou (Edition deluxe)",
+        "url": "https://open.spotify.com/album/6iQwxvZGLZd9SoKkZfDo0C"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "Miraculous - G\u00e9n\u00e9rique de la s\u00e9rie TV",
+      "url": "https://open.spotify.com/track/08aC14ZGZUQ5pGkN8SzL3d"
     },
     {
       "album": {
@@ -650,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Ne me suis pas",
+        "url": "https://open.spotify.com/album/6zqdzfZXCUEZAImY9RKF8U"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192742,
+      "name": "Ne me suis pas",
+      "url": "https://open.spotify.com/track/226Te49l0AdckpszJd5RZg"
+    },
+    {
+      "album": {
         "name": "Papillons",
         "url": "https://open.spotify.com/album/7LZgaQuUbgssuCMOIiBTFl"
       },
@@ -661,10 +893,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196573,
       "name": "Ne me suis pas",
       "url": "https://open.spotify.com/track/08OXBelJOUefSYFtimI2bl"
+    },
+    {
+      "album": {
+        "name": "Un monde meilleur",
+        "url": "https://open.spotify.com/album/77wx0Wq7baLkRsaH5ilctF"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174417,
+      "name": "On \u00e9crit sur les murs",
+      "url": "https://open.spotify.com/track/3DHi3fz6yRG8Z3ssWotC0d"
     },
     {
       "album": {
@@ -679,7 +929,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174417,
       "name": "On \u00e9crit sur les murs",
       "url": "https://open.spotify.com/track/5LaNypZh0fQMMy70pClm8d"
@@ -835,10 +1085,46 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186240,
       "name": "Toi + moi",
       "url": "https://open.spotify.com/track/17C63t1Xd3jBW6On3Uo6tw"
+    },
+    {
+      "album": {
+        "name": "Un monde meilleur",
+        "url": "https://open.spotify.com/album/77wx0Wq7baLkRsaH5ilctF"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Toi + moi",
+      "url": "https://open.spotify.com/track/2zStoZThXC90730ct30J5Y"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Tomber amoureux (1er amour)",
+      "url": "https://open.spotify.com/track/12FXThgWF09GGq1WqdchhO"
     },
     {
       "album": {
@@ -853,7 +1139,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193826,
       "name": "Tomber amoureux (1er amour)",
       "url": "https://open.spotify.com/track/2GA10dVKn4c7yvDiyNsrXp"
@@ -909,6 +1195,36 @@
     {
       "album": {
         "name": "Trois petits pas",
+        "url": "https://open.spotify.com/album/1qD3qEnZyS5hbV9L6xCUFL"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/6FLqKeDxjLqbbEifG4oCuz"
+        },
+        {
+          "name": "Kids United Nouvelle Generation",
+          "url": "https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "YUN",
+          "url": "https://open.spotify.com/artist/3ubqH7KHuudR4dSQ8P2nmE"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "Trois petits pas",
+      "url": "https://open.spotify.com/track/4YXs7LCyMLx5vgWnT7x6ey"
+    },
+    {
+      "album": {
+        "name": "Trois petits pas",
         "url": "https://open.spotify.com/album/2ZVVEdYanYYDbK5JNhwJCn"
       },
       "artists": [
@@ -935,7 +1251,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153853,
       "name": "Trois petits pas",
       "url": "https://open.spotify.com/track/66K5KH8qTUzXgYN4Oj94ml"
@@ -960,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Week-end",
+        "url": "https://open.spotify.com/album/2RlnpnkpO6Ck2vgPvDYzIl"
+      },
+      "artists": [
+        {
+          "name": "Sydney",
+          "url": "https://open.spotify.com/artist/2OpjJkMJYIDzJbx9ZpjZ8E"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "Week-end",
+      "url": "https://open.spotify.com/track/2i7s2AJ0viF0YOAhsQbIic"
+    },
+    {
+      "album": {
         "name": "Week-End",
         "url": "https://open.spotify.com/album/0sterqVI6y3BUH8Nei8bGt"
       },
@@ -971,7 +1305,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197169,
       "name": "Week-End",
       "url": "https://open.spotify.com/track/3e6vVk48Xr7mVPWTr46612"

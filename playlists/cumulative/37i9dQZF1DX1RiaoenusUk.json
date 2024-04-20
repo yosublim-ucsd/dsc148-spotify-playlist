@@ -583,6 +583,28 @@
     },
     {
       "album": {
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+      },
+      "artists": [
+        {
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+        },
+        {
+          "name": "Mattiya",
+          "url": "https://open.spotify.com/artist/3GDQJxeKUXHH2Elkywhvm9"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279213,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/7uIOBQx4sQDmug4oMu4epL"
+    },
+    {
+      "album": {
         "name": "Impar",
         "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
       },
@@ -2072,7 +2094,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 210012,
       "name": "See you",
       "url": "https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ"

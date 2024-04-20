@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 544919,
+  "2024-04-20": 544670,
   "date_first_scraped": "2023-05-16",
   "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: TINI",
   "name": "POP FLOW",
@@ -189,7 +189,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159935,
       "name": "A Oscuras",
       "url": "https://open.spotify.com/track/0sf46dgA1e5uPj0uzwKCVn"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 178105,
       "name": "CARENCIAS DE CORDURA",
       "url": "https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178105,
       "name": "CARENCIAS DE CORDURA",
       "url": "https://open.spotify.com/track/6QCTo3BaEdkEp0BbbNCVIt"
@@ -1009,6 +1009,24 @@
       "duration_ms": 161000,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "album": {
+        "name": "IKIGAI",
+        "url": "https://open.spotify.com/album/0DBWop4JyhOTYP8QiedbDj"
+      },
+      "artists": [
+        {
+          "name": "Joelle Levy",
+          "url": "https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209555,
+      "name": "Corre el Sudor",
+      "url": "https://open.spotify.com/track/6eGBagVmhKpSE1LHlVmviB"
     },
     {
       "album": {
@@ -1506,6 +1524,32 @@
     },
     {
       "album": {
+        "name": "DUMBAI",
+        "url": "https://open.spotify.com/album/32jPIll7NE64gqohc6twQC"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "DUMBAI",
+      "url": "https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa"
+    },
+    {
+      "album": {
         "name": "Ego\u00edsta",
         "url": "https://open.spotify.com/album/4eSKN0zYDwRAS0ZN8BsPy4"
       },
@@ -1645,7 +1689,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250475,
       "name": "Emocionalmente Tuya",
       "url": "https://open.spotify.com/track/35CrkjLXB0ETjBkd90ACXC"
@@ -1829,7 +1873,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 200454,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
@@ -1865,7 +1909,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -2724,6 +2768,24 @@
     },
     {
       "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208813,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB"
+    },
+    {
+      "album": {
         "name": "LORO",
         "url": "https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo"
       },
@@ -2851,7 +2913,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217810,
       "name": "L\u00e1grimas y Flores (feat. Natalie Perez)",
       "url": "https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC"
@@ -2950,6 +3012,24 @@
     },
     {
       "album": {
+        "name": "Maldito Mio",
+        "url": "https://open.spotify.com/album/2MbtMw42B55nxIFipfgst7"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144120,
+      "name": "Maldito Mio",
+      "url": "https://open.spotify.com/track/6ExTuAZzEBJRqVDeOk52Jf"
+    },
+    {
+      "album": {
         "name": "Del Infierno Al Cielo",
         "url": "https://open.spotify.com/album/30kEwSfr0p2jC2QCreyC9I"
       },
@@ -3013,7 +3093,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218663,
       "name": "Maquillada en la Cama",
       "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
@@ -3745,7 +3825,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142200,
       "name": "Ojala Que",
       "url": "https://open.spotify.com/track/2NMlFUGOdHM6nyPVY9jn3J"
@@ -4305,6 +4385,24 @@
       "duration_ms": 164810,
       "name": "Rinc\u00f3n",
       "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "album": {
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/0lzlsc6JE3y8D8Ov8T23Lq"
+      },
+      "artists": [
+        {
+          "name": "Ambik",
+          "url": "https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106124,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/4SxSaGLmgyCCVDgbjZmKvV"
     },
     {
       "album": {

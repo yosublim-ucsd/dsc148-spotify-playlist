@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 686983,
+  "2024-04-20": 686247,
   "date_first_scraped": "2022-01-18",
   "description": "Aperte o play e dance com os maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Liu, Juicce",
   "name": "mint brasil",
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 141600,
       "name": "Focus (Double MZK Remix)",
       "url": "https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141600,
       "name": "Focus - Double Mzk Remix",
       "url": "https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155524,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/6f9NvJNgaJY5nBN1qkBt70"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 155524,
       "name": "Looking At You (feat. Kruizz)",
       "url": "https://open.spotify.com/track/16QrxDPNwSJM7oIj5xwZP9"
@@ -2691,10 +2691,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL"
+    },
+    {
+      "album": {
+        "name": "I Promise You - EP",
+        "url": "https://open.spotify.com/album/6tDT4XjiFW1OS2fD8BL0t4"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Piece of Mind",
+      "url": "https://open.spotify.com/track/6cLQl5lTr1TcLl2Gb4U8Od"
     },
     {
       "album": {
@@ -2727,7 +2745,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/5Yt6s7FCstom8doCNvDn0J"
@@ -2933,6 +2951,24 @@
     {
       "album": {
         "name": "May 23rd",
+        "url": "https://open.spotify.com/album/5oZpXApJNVoNg3V2nGxckQ"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/1VWwaVft6FRqqdsXRaWLnw"
+    },
+    {
+      "album": {
+        "name": "May 23rd",
         "url": "https://open.spotify.com/album/465uKcpgmFpMmcEAwIW8J1"
       },
       "artists": [
@@ -2943,7 +2979,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208615,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6WxTq95ZNZ58MVTHGIKsfV"

@@ -1,6 +1,6 @@
 {
   "description": "Country Music that rocks. Cover: Ole 60",
-  "num_followers": 592809,
+  "num_followers": 592669,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
-    },
-    {
-      "added_at": "2024-04-12 14:46:23",
-      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 198113,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u"
+    },
+    {
+      "added_at": "2024-04-12 14:46:23",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "Sin So Sweet",
-        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
+        "name": "Goin For Broke",
+        "url": "https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
         }
       ],
-      "duration_ms": 201053,
-      "name": "Sin So Sweet",
-      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
+      "duration_ms": 202789,
+      "name": "Goin For Broke",
+      "url": "https://open.spotify.com/track/5bu8p495FPdRySYSptdny2"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "Goin For Broke",
-        "url": "https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau"
+        "name": "Sin So Sweet",
+        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
       },
       "artists": [
         {
-          "name": "Bryan Martin",
-          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 202789,
-      "name": "Goin For Broke",
-      "url": "https://open.spotify.com/track/5bu8p495FPdRySYSptdny2"
+      "duration_ms": 201053,
+      "name": "Sin So Sweet",
+      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "Something's Gonna Kill Me",
-        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 183680,
-      "name": "Something's Gonna Kill Me",
-      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
-    },
-    {
-      "added_at": "2024-04-12 14:46:23",
-      "album": {
         "name": "SOLD OUT",
         "url": "https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 202912,
       "name": "SOLD OUT",
       "url": "https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois"
+    },
+    {
+      "added_at": "2024-04-12 14:46:23",
+      "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
-    },
-    {
-      "added_at": "2024-04-12 14:46:23",
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": "2024-04-12 14:46:23",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "No Reservations",
-        "url": "https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq"
+        "name": "World On Fire",
+        "url": "https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7"
       },
       "artists": [
         {
-          "name": "Alex Williams",
-          "url": "https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 224733,
-      "name": "No Reservations",
-      "url": "https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy"
+      "duration_ms": 261269,
+      "name": "World On Fire",
+      "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
     },
     {
       "added_at": "2024-04-12 14:46:23",
@@ -1647,30 +1647,6 @@
     {
       "added_at": "2024-04-12 14:46:23",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "(I Can\u2019t Get No) Satisfaction",
-      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
-    },
-    {
-      "added_at": "2024-04-12 14:46:23",
-      "album": {
         "name": "What Do I Know (feat. HARDY)",
         "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
@@ -1687,6 +1663,22 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+    },
+    {
+      "added_at": "2024-04-12 14:46:23",
+      "album": {
+        "name": "Meat and Candy",
+        "url": "https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Wrong Turns",
+      "url": "https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK"
     }
   ],
   "unique_name": "Country Rocks",

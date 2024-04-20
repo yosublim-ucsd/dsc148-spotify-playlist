@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 22965,
+  "2024-04-20": 23020,
   "date_first_scraped": "2023-05-12",
   "description": "Soft and cozy sounds of Bossa nova.",
   "name": "Bossa in the Background",
@@ -519,7 +519,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318080,
       "name": "Estate",
       "url": "https://open.spotify.com/track/4eHe8d0kXacI1bzQUMAepu"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 318080,
       "name": "Estate",
       "url": "https://open.spotify.com/track/29nsxzITJQJpaja7RvTupi"
@@ -596,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nova Soul Samba",
+        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
       },
@@ -607,7 +625,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240266,
       "name": "Favela - Remastered",
       "url": "https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd"
@@ -704,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nova Soul Samba",
+        "url": "https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341280,
+      "name": "Goin' Home",
+      "url": "https://open.spotify.com/track/1hvG8cR9V0XczIkL4SmuzN"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Soul Samba (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP"
       },
@@ -715,7 +751,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341280,
       "name": "Goin' Home - Rudy Van Gelder Edition/2007 Digital Remaster",
       "url": "https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6"
@@ -1172,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "O Morro Nao Tem Vez",
+      "url": "https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB"
+    },
+    {
+      "album": {
         "name": "The Composer Of Desafinado, Plays",
         "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
       },
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200866,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
@@ -1695,7 +1749,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 284786,
       "name": "Tangeri",
       "url": "https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9"
@@ -1717,7 +1771,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284786,
       "name": "Tangeri",
       "url": "https://open.spotify.com/track/6ihB2dtJ91MxDE6sD13kty"

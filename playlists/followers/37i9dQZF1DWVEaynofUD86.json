@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 346232,
+  "2024-04-20": 346309,
   "date_first_scraped": "2023-07-15",
   "description": "It's not summer without you. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video. ",
   "name": "The Summer I Turned Pretty Official Playlist",
@@ -425,10 +425,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
     },
     {
       "album": {
@@ -515,7 +533,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 163902,
       "name": "Coffee Breath",
       "url": "https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163907,
       "name": "Coffee Breath",
       "url": "https://open.spotify.com/track/4jsVLYWHeoEt8UxxFWrWCH"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184231,
       "name": "Dream About You",
       "url": "https://open.spotify.com/track/0HrQUJIhZ8vXxuiAGCM9iF"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 184231,
       "name": "Dream About You (feat. Halima)",
       "url": "https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD"
@@ -913,14 +931,14 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133706,
       "name": "edamame",
       "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
     },
     {
       "album": {
-        "name": "edamame (feat. Rich Brian)",
+        "name": "edamame",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
       "artists": [
@@ -935,9 +953,9 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 133706,
-      "name": "edamame (feat. Rich Brian)",
+      "name": "edamame",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
     },
     {
@@ -1119,10 +1137,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225982,
       "name": "Go Higher",
       "url": "https://open.spotify.com/track/52mIMp37AZJSzQ0ScAZGk9"
+    },
+    {
+      "album": {
+        "name": "Darkest Light",
+        "url": "https://open.spotify.com/album/0QgZRbgLkICVCl9RsrqjqV"
+      },
+      "artists": [
+        {
+          "name": "Shana Falana",
+          "url": "https://open.spotify.com/artist/13P25bQQTM6pJf4i8yAJaS"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225982,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/7gJpqPOgDUiZ3klMhun1tM"
     },
     {
       "album": {
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140411,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/562I30eTR14zkJUpbhyJen"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/5lsqoAqRnzpkDze5iy3VxL"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178780,
       "name": "I Can't Help But Feel",
       "url": "https://open.spotify.com/track/4zgGNKt9YQGUQHRu9FgZPM"
@@ -1407,10 +1443,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158083,
       "name": "I Like That",
       "url": "https://open.spotify.com/track/0kWQn0wLok1lawHAkGSMW9"
+    },
+    {
+      "album": {
+        "name": "I Like That",
+        "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158083,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz"
     },
     {
       "album": {
@@ -1773,10 +1827,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3"
     },
     {
       "album": {
@@ -1791,10 +1863,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260398,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260399,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9"
     },
     {
       "album": {
@@ -2271,10 +2361,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169410,
       "name": "Places We Won't Walk",
       "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
+    },
+    {
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169410,
+      "name": "Places We Won't Walk",
+      "url": "https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1"
     },
     {
       "album": {
@@ -2501,10 +2609,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245055,
       "name": "Shadows Are Falling",
       "url": "https://open.spotify.com/track/6lgqVHg4SmHV5972rfl38V"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/1sDZywV7YP1WmWh8ovVyKX"
+      },
+      "artists": [
+        {
+          "name": "Gary McFarland",
+          "url": "https://open.spotify.com/artist/3S4rAFSqKIhnUJvl5ElbsE"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250680,
+      "name": "Shadows Are Falling",
+      "url": "https://open.spotify.com/track/6GzYWYf6YLTkIJRzvbPMZ3"
     },
     {
       "album": {
@@ -2921,10 +3047,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120308,
       "name": "this is what falling in love feels like",
       "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL"
+    },
+    {
+      "album": {
+        "name": "this is what falling in love feels like",
+        "url": "https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120308,
+      "name": "this is what falling in love feels like",
+      "url": "https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx"
     },
     {
       "album": {
@@ -3211,7 +3355,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199720,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/3UciYz88qyl3ZBW5c5TBMV"
@@ -3229,7 +3373,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 199720,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/6X9bzNEsiGl82OkEs0xR6X"

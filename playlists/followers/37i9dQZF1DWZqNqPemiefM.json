@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 66517,
+  "2024-04-20": 66521,
   "date_first_scraped": "2022-03-31",
   "description": "The artisanal ambient and alternative sounds make you float in the air.",
   "name": "Sora",
@@ -115,6 +115,24 @@
     {
       "album": {
         "name": "12",
+        "url": "https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413476,
+      "name": "20210310",
+      "url": "https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9"
+    },
+    {
+      "album": {
+        "name": "12",
         "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
@@ -125,7 +143,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 413476,
       "name": "20210310",
       "url": "https://open.spotify.com/track/4hMWShv7tRCNuekpPFiHgH"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183266,
       "name": "Corridors of Time",
       "url": "https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3"
@@ -2399,7 +2417,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 419762,
       "name": "Dream in the Mist",
       "url": "https://open.spotify.com/track/0BNXz3hTDmx2vtvzz2g9MB"
@@ -2756,6 +2774,24 @@
     },
     {
       "album": {
+        "name": "We Are The Times",
+        "url": "https://open.spotify.com/album/00TbymhTXa7qmcLoM97D08"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Daughter",
+          "url": "https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357893,
+      "name": "Everything Valley",
+      "url": "https://open.spotify.com/track/1Ne96Ev1xV7JCQwhFY0iQm"
+    },
+    {
+      "album": {
         "name": "We Are the Times",
         "url": "https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda"
       },
@@ -2767,7 +2803,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357893,
       "name": "Everything Valley",
       "url": "https://open.spotify.com/track/5uVkQzrRTFQ4FGWKBrj12Y"
@@ -3873,6 +3909,24 @@
     {
       "album": {
         "name": "Travel Guide",
+        "url": "https://open.spotify.com/album/2FovEaiAWYC4KtwpTiLg4C"
+      },
+      "artists": [
+        {
+          "name": "\u30ea\u30e7\u30a6\u30b32000",
+          "url": "https://open.spotify.com/artist/0gkebBA1I3f7BTYqaDDK48"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Humming Bird",
+      "url": "https://open.spotify.com/track/3uZDobGcvgPNlR5mXCYv5w"
+    },
+    {
+      "album": {
+        "name": "Travel Guide",
         "url": "https://open.spotify.com/album/7mN7vOCliNipOAJbqdkKRg"
       },
       "artists": [
@@ -3883,7 +3937,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160975,
       "name": "Humming Bird",
       "url": "https://open.spotify.com/track/4WuCCqk4xNioQiabdYGxr6"
@@ -4175,7 +4229,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153666,
       "name": "In the Sea of Corruption",
       "url": "https://open.spotify.com/track/58Xk781LOJMj3YCKht5hxZ"
@@ -4507,10 +4561,32 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 66061,
       "name": "Kintsugi",
       "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
+    },
+    {
+      "album": {
+        "name": "adaptations",
+        "url": "https://open.spotify.com/album/69omOCz2NGSLe7Tum2J4IS"
+      },
+      "artists": [
+        {
+          "name": "Melati ESP",
+          "url": "https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273568,
+      "name": "KITA VS MEREKA (Salamanda Remix)",
+      "url": "https://open.spotify.com/track/4nSN1JjvIndrFZu9fTAIIO"
     },
     {
       "album": {
@@ -4529,7 +4605,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273568,
       "name": "KITA VS MEREKA - Salamanda Remix",
       "url": "https://open.spotify.com/track/671pvgZBbIfiljHlA1Gpp3"
@@ -5121,10 +5197,40 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445733,
       "name": "Maha Rose North 102021, Breathwork",
       "url": "https://open.spotify.com/track/4xeZaQwDromjAF4IZK4K2R"
+    },
+    {
+      "album": {
+        "name": "(Im just) Chillin, on Fire",
+        "url": "https://open.spotify.com/album/3ZBBhHrjGOBMTMTnvBghc5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ni\u00f1o & Friends",
+          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Photay",
+          "url": "https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445733,
+      "name": "Maha Rose North 102021, Breathwork",
+      "url": "https://open.spotify.com/track/4V0XU8oWY7M1o5BGKcmml2"
     },
     {
       "album": {
@@ -5157,10 +5263,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369917,
       "name": "Marginalia #119",
       "url": "https://open.spotify.com/track/3gOEYrmxejidBqgxgeTpJ0"
+    },
+    {
+      "album": {
+        "name": "Marginalia #119",
+        "url": "https://open.spotify.com/album/5VMUvZggtYTArUGrcrlfCs"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369917,
+      "name": "Marginalia #119",
+      "url": "https://open.spotify.com/track/6Q45dXT0qsNHHnI8q0V5vx"
     },
     {
       "album": {
@@ -5539,7 +5663,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 117831,
       "name": "Modern Steps",
       "url": "https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G"
@@ -5763,7 +5887,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325185,
       "name": "Nausica\u00e4 of the Valley of the Wind - 2024 ver.",
       "url": "https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32"
@@ -6009,6 +6133,24 @@
     {
       "album": {
         "name": "Approach to Anima",
+        "url": "https://open.spotify.com/album/27iGaCh2JV907Q3rkHnJAE"
+      },
+      "artists": [
+        {
+          "name": "maya ongaku",
+          "url": "https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284125,
+      "name": "Nuska",
+      "url": "https://open.spotify.com/track/0VjNU6gmu3obqXJEaZdYi4"
+    },
+    {
+      "album": {
+        "name": "Approach to Anima",
         "url": "https://open.spotify.com/album/6306c8CVmaIrZRGHG8UP5O"
       },
       "artists": [
@@ -6019,7 +6161,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284125,
       "name": "Nuska",
       "url": "https://open.spotify.com/track/6O7OnCq0HzT08Msx088gxn"
@@ -7269,10 +7411,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "Sea",
       "url": "https://open.spotify.com/track/5nicqJi0k1oS9dKolZcwMH"
+    },
+    {
+      "album": {
+        "name": "IPSA Discover ME",
+        "url": "https://open.spotify.com/album/62Nj00HyEy4yudGW2qwcSI"
+      },
+      "artists": [
+        {
+          "name": "Licaxxx",
+          "url": "https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Sea",
+      "url": "https://open.spotify.com/track/7aheJ8w1GYkZogoMTigoAU"
     },
     {
       "album": {
@@ -7809,10 +7969,36 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260597,
       "name": "Slowly Diving",
       "url": "https://open.spotify.com/track/0tVNWvmuHs5ckILL56bboK"
+    },
+    {
+      "album": {
+        "name": "To Waters of Lethe",
+        "url": "https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g"
+      },
+      "artists": [
+        {
+          "name": "Takuro Okada",
+          "url": "https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm"
+        },
+        {
+          "name": "\u845b\u897f\u654f\u5f66",
+          "url": "https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y"
+        },
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260597,
+      "name": "Slowly Diving",
+      "url": "https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A"
     },
     {
       "album": {
@@ -7881,7 +8067,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232073,
       "name": "solari",
       "url": "https://open.spotify.com/track/2ZYyuqKe7T64UqWVuW7CkS"
@@ -8853,10 +9039,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367645,
       "name": "The Very Ears Of Morning",
       "url": "https://open.spotify.com/track/11VLHMjDk2AmFOzukkUTjX"
+    },
+    {
+      "album": {
+        "name": "Vertigo KO",
+        "url": "https://open.spotify.com/album/7FJkTqICRfNZs5HBrWEsf6"
+      },
+      "artists": [
+        {
+          "name": "Phew",
+          "url": "https://open.spotify.com/artist/7mTJBVGJmkgbjwvbzc0Bqb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367645,
+      "name": "The Very Ears Of Morning",
+      "url": "https://open.spotify.com/track/1DNn8Dbb4MBwMfefvG5m7O"
     },
     {
       "album": {
@@ -9945,7 +10149,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195681,
       "name": "You Are Cat",
       "url": "https://open.spotify.com/track/4xaIslOXb5HVDzCgQ4lBms"
@@ -10003,6 +10207,24 @@
       "duration_ms": 158120,
       "name": "Zzz",
       "url": "https://open.spotify.com/track/4Yl9WaP9IbAU3xxWn7cWrN"
+    },
+    {
+      "album": {
+        "name": "\u732b\u306f\u62b1\u304f\u3082\u306e (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/5inaGyoHpfa8ImmeriboUB"
+      },
+      "artists": [
+        {
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195681,
+      "name": "\u3042\u306a\u305f\u306f\u732b\u3067\u3059",
+      "url": "https://open.spotify.com/track/4B8y9ZGZeWoCV0KOIzFSoU"
     },
     {
       "album": {
@@ -10410,6 +10632,24 @@
     },
     {
       "album": {
+        "name": "\u3010DS\u7248\u3011\u30af\u30ed\u30ce\u30fb\u30c8\u30ea\u30ac\u30fc \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ"
+      },
+      "artists": [
+        {
+          "name": "Yasunori Mitsuda",
+          "url": "https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183266,
+      "name": "\u6642\u306e\u56de\u5eca",
+      "url": "https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp"
+    },
+    {
+      "album": {
         "name": "Sketch",
         "url": "https://open.spotify.com/album/1QKWVflSGIsITHgfChvOwp"
       },
@@ -10554,6 +10794,24 @@
     },
     {
       "album": {
+        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab \u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af ~\u306f\u308b\u304b\u306a\u5730\u3078\u30fb\u30fb\u30fb",
+        "url": "https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "\u8150\u6d77\u306b\u3066",
+      "url": "https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35"
+    },
+    {
+      "album": {
         "name": "Seventh Garden",
         "url": "https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi"
       },
@@ -10605,6 +10863,24 @@
       "duration_ms": 251146,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/2i9WlTQCT3Zta3NSnbYUhT"
+    },
+    {
+      "album": {
+        "name": "\u53e4\u98a8",
+        "url": "https://open.spotify.com/album/6up103j3F99vuOxqx9ye83"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66061,
+      "name": "\u91d1\u7d99\u304e",
+      "url": "https://open.spotify.com/track/7Idnc6G2UTAGANTgC4xLpX"
     },
     {
       "album": {
@@ -10680,6 +10956,24 @@
     },
     {
       "album": {
+        "name": "\u5922\u4e2d\u5922",
+        "url": "https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419762,
+      "name": "\u9727\u4e2d\u5922",
+      "url": "https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY"
+    },
+    {
+      "album": {
         "name": "\u3075\u308c\u3042\u3044",
         "url": "https://open.spotify.com/album/0ZCCs6urVebwf2rIeMyVLo"
       },
@@ -10695,6 +10989,28 @@
       "duration_ms": 345100,
       "name": "\u98a8\u306b\u821e\u3046\u30a8\u30f3\u30b8\u30a7\u30eb",
       "url": "https://open.spotify.com/track/1s5kQcQCD6mF6RKInHR44U"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
+        "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u7530\u6210\u7f8e",
+          "url": "https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs"
+        },
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325185,
+      "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
+      "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
     },
     {
       "album": {

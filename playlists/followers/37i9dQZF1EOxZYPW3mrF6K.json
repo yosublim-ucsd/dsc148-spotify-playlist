@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 0,
+  "2024-04-20": 0,
   "date_first_scraped": "2022-07-15",
   "description": "Dig deeper into some of your top artists of 2020 with a mix of talk and music.",
   "name": "On Record (17)",
@@ -7,7 +7,7 @@
     {
       "album": {
         "name": "Latin Connection Podcast",
-        "url": "https://open.spotify.com/show/22vMKx35xmUPgiJbJCSjyL"
+        "url": "https://open.spotify.com/album/22vMKx35xmUPgiJbJCSjyL"
       },
       "artists": [
         {
@@ -17,8 +17,8 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
-      "duration_ms": 1522286,
+      "date_removed": null,
+      "duration_ms": 1522285,
       "name": "A conversation with J Balvin",
       "url": "https://open.spotify.com/episode/6Q4qy0aVordSznuVRuZBwB"
     },
@@ -83,7 +83,7 @@
     {
       "album": {
         "name": "Good Music Podcast",
-        "url": "https://open.spotify.com/show/0hf8KoAvJZiiHuuZ6HQPkj"
+        "url": "https://open.spotify.com/album/0hf8KoAvJZiiHuuZ6HQPkj"
       },
       "artists": [
         {
@@ -93,7 +93,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 3547939,
       "name": "Coldplay",
       "url": "https://open.spotify.com/episode/5yynYrNxDj6x6gXpoXXIrG"
@@ -101,7 +101,7 @@
     {
       "album": {
         "name": "Switched on Pop",
-        "url": "https://open.spotify.com/show/1sgWaKtQxwfjUpZnnK8r7J"
+        "url": "https://open.spotify.com/album/1sgWaKtQxwfjUpZnnK8r7J"
       },
       "artists": [
         {
@@ -111,7 +111,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 2465149,
       "name": "Drake vs Drake",
       "url": "https://open.spotify.com/episode/0AhU9dUyG0Hi9VoI0WPFQO"
@@ -195,7 +195,7 @@
     {
       "album": {
         "name": "FreaKBeatS EDM podcast",
-        "url": "https://open.spotify.com/show/6nkFEdeDqxuXG1DPZqP7sf"
+        "url": "https://open.spotify.com/album/6nkFEdeDqxuXG1DPZqP7sf"
       },
       "artists": [
         {
@@ -205,8 +205,8 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
-      "duration_ms": 845813,
+      "date_removed": null,
+      "duration_ms": 845812,
       "name": "Marshmello going full sell out mode ! | Episode 102",
       "url": "https://open.spotify.com/episode/3fG5X0EI70EEoUtNOa0ryu"
     },
@@ -235,7 +235,7 @@
     {
       "album": {
         "name": "\u00a1Viva Latino!",
-        "url": "https://open.spotify.com/show/4KipqK7RBwdIhYmqGvCrEu"
+        "url": "https://open.spotify.com/album/4KipqK7RBwdIhYmqGvCrEu"
       },
       "artists": [
         {
@@ -245,7 +245,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1767784,
       "name": "Prince Royce",
       "url": "https://open.spotify.com/episode/1UQ4FMOqJ489CWgTWD9M28"
@@ -253,7 +253,7 @@
     {
       "album": {
         "name": "Zach Sang Show",
-        "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        "url": "https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL"
       },
       "artists": [
         {
@@ -263,7 +263,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 2448718,
       "name": "Selena Gomez Talks New Music, Mental Health, and Finding Happiness",
       "url": "https://open.spotify.com/episode/4rExuEytJinOwXavkeAr4k"
@@ -289,7 +289,7 @@
     {
       "album": {
         "name": "Zach Sang Show",
-        "url": "https://open.spotify.com/show/6QRSZ1xqP5uUMgmHw3gBPL"
+        "url": "https://open.spotify.com/album/6QRSZ1xqP5uUMgmHw3gBPL"
       },
       "artists": [
         {
@@ -299,8 +299,8 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
-      "duration_ms": 1781055,
+      "date_removed": null,
+      "duration_ms": 1781054,
       "name": "Trevor Daniel Talks Nicotine, Upcoming Music & The Heartbreak That Fueled It",
       "url": "https://open.spotify.com/episode/49W5PobJrrQn1ngM5906k6"
     },

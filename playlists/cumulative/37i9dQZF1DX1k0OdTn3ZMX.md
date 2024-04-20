@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with From Ashes To New.
 
-138 songs - 8 hr 0 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2023-09-13 | 2024-02-03 |
 | [KILLING ALCHEMY](https://open.spotify.com/track/6iBg24cfz07gnXYvHygmBo) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:44 | 2023-09-13 | 2023-09-23 |
 | [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 | 2024-01-19 |  |
+| [Kraken Down](https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be) | [FiveByFive](https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW) | [Phuck Around Phind Out](https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1) | 3:23 | 2024-04-19 |  |
 | [Last dAntz](https://open.spotify.com/track/2kXTWjuZgttmobEIVhuyto) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Last dAntz](https://open.spotify.com/album/0iZ9tCFBxudVzuY5HUwzAv) | 3:52 | 2024-04-12 |  |
 | [Learning How To Be Human](https://open.spotify.com/track/4ZOREvpqSJGmD61YAMNoJU) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Learning How To Be Human](https://open.spotify.com/album/5CUMwKLT0Ic6pRNCxtlWHS) | 3:14 | 2024-04-05 |  |
 | [Lights Out](https://open.spotify.com/track/5eJQLFJsYTIJ6g1mcEPQql) | [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Riot Music](https://open.spotify.com/album/22nPVkqtpPnQMXb9R2QUJ5) | 3:21 | 2023-09-13 | 2024-03-09 |

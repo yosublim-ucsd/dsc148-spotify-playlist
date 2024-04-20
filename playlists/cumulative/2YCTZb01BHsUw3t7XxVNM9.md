@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-476 songs - 1 day 9 hr 16 min
+477 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [DANZETSU 2.0](https://open.spotify.com/track/2IgrdIDE3nivykkcjZRRrg) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HIZUMI](https://open.spotify.com/album/5sQTUfTQO3Jmepzw0mA8u7) | 4:32 | 2022-04-29 |  |
 | [Dead Limit](https://open.spotify.com/track/71uMgri5RYcPAjuiHYYynh) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 7](https://open.spotify.com/album/5xOr34N3SqxVt3Yh8LjQ8D) | 6:11 | 2020-08-19 |  |
 | [Death Be Not Proud](https://open.spotify.com/track/6w3nYnY04mXcqDIwX4zyU5) | [NASHURI](https://open.spotify.com/artist/5WujPuYBzdrWtFJgHYWIp8) | [Invitation to the Fallen](https://open.spotify.com/album/3nMIykEoDIgjCN0pfcdKmH) | 4:39 | 2020-07-06 |  |
+| [Dekanchcore](https://open.spotify.com/track/7go5G1aRkybbFhEJwfwI90) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Joe Fight](https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u) | [Dekanchcore](https://open.spotify.com/album/61KFGVG1fX1lotNOeljBJZ) | 2:41 | 2024-04-19 |  |
 | [Demigod](https://open.spotify.com/track/4eRdOt1oDCDH0YRZpm5lLg) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SPEED BALL EVOLUTION](https://open.spotify.com/album/2PcHg9N9gZkUr3n97f1M8h) | 4:42 | 2019-02-25 |  |
 | [Desecration](https://open.spotify.com/track/64GSVfZglutFfBxsHtDPbt) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [MEGATON KICK](https://open.spotify.com/album/05yKunr4J0IrbOGluLC3ui) | 4:07 | 2020-01-17 |  |
 | [dEstruct oNE momENt](https://open.spotify.com/track/4EGMS3CZkNK2FBFvaa5o33) | [kenta\-v.ez.](https://open.spotify.com/artist/4cN1VW0tv2952s0ywPjQU6) | [SPEED BALL EVOLUTION](https://open.spotify.com/album/2PcHg9N9gZkUr3n97f1M8h) | 4:35 | 2019-02-25 |  |

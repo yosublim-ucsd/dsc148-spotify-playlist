@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 310817,
+  "2024-04-20": 310876,
   "date_first_scraped": "2022-04-20",
   "description": "Classic tunes that shaped and defined the 90s rave scene - a unique era for dance music.",
   "name": "Rave Classics",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213800,
       "name": "A Trip To Trumpton",
       "url": "https://open.spotify.com/track/3pxGMD0kIX25alO1EVFvdG"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 542939,
       "name": "Acperience 1",
       "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 334293,
       "name": "Activ-8 (Come with Me)",
       "url": "https://open.spotify.com/track/4ZeT5M0UGhXzJa2IJ41Rjb"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 273613,
       "name": "Anasthasia",
       "url": "https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397133,
       "name": "Beep Street",
       "url": "https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-10",
+      "date_removed": null,
       "duration_ms": 350973,
       "name": "Bunn the Sensi - Dub Hustlers Remix",
       "url": "https://open.spotify.com/track/5rwaFjD2ctbrsvh8tFP4cM"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294533,
       "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
       "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 271106,
       "name": "Code Red",
       "url": "https://open.spotify.com/track/4m3WUb2XPPaVgLBUc5SsNJ"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 245106,
       "name": "Cubes",
       "url": "https://open.spotify.com/track/6SWyIMaXdpLkhiItiS40yw"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431466,
       "name": "Digeridoo",
       "url": "https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU"
@@ -510,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Jungle Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/6HGdaWqz5J0Inr4AkPEZlX"
+      },
+      "artists": [
+        {
+          "name": "Studio 2",
+          "url": "https://open.spotify.com/artist/3y0Epqi7Oca2rKcMSClv1G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Dirty Games",
+      "url": "https://open.spotify.com/track/21X3WGIPMTDpZcjln2N2n3"
+    },
+    {
+      "album": {
         "name": "DJs Take Control",
         "url": "https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW"
       },
@@ -521,7 +539,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305613,
       "name": "DJs Take Control",
       "url": "https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311680,
       "name": "Don't Go - Original Mix",
       "url": "https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 311680,
       "name": "Don\u2019t Go (Original Mix)",
       "url": "https://open.spotify.com/track/3vvPzmRKwWXDosbNCkJ44P"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321226,
       "name": "E-Vapor-8",
       "url": "https://open.spotify.com/track/4iAKdClYxItZVrTrwzkIvA"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234786,
       "name": "Ebeneezer Goode - Beat Edit",
       "url": "https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt"
@@ -719,7 +737,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350813,
       "name": "Energy Flash",
       "url": "https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295720,
       "name": "Far out",
       "url": "https://open.spotify.com/track/2EdiQq1vN8sCZUEccfYB8P"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377960,
       "name": "Higher State of Consciousness (Tweekin Acid Funk)",
       "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 377960,
       "name": "Higher State of Consciousness - Tweekin Acid Funk",
       "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 360012,
       "name": "It's a Jazz Thing - Utah Jazz Remix",
       "url": "https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 412226,
       "name": "It's Just a Feeling - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6vC83pgcZz1mO8d2O9Ou9o"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 348523,
       "name": "Kinetic - Frank De Wulf Remix",
       "url": "https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 470506,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/1rQMmMklXi7k1HreHdD9Tj"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 470506,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 319266,
       "name": "LFO",
       "url": "https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319000,
       "name": "LFO - Leeds Warehouse Mix",
       "url": "https://open.spotify.com/track/5AMGYRhiqZoCYkJEK3yqgi"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 379906,
       "name": "No Good (Start the Dance)",
       "url": "https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309426,
       "name": "On a Ragga Tip '97 - Original Mix",
       "url": "https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309426,
       "name": "On A Ragga Tip \u201897 (original Mix)",
       "url": "https://open.spotify.com/track/7LzePPG7eWPV5TBefnwwvP"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319666,
       "name": "Only You (Original Mix) [2011 Remastered Version]",
       "url": "https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302106,
       "name": "Out of Space",
       "url": "https://open.spotify.com/track/5D6mTwP8jlAaLPbuHSZadz"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "Out Of Space (Remastered)",
       "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351400,
       "name": "Pacific State",
       "url": "https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 308600,
       "name": "Panic",
       "url": "https://open.spotify.com/track/12IgeOceRuMzBymb9zTAWr"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 370973,
       "name": "Pulp Fiction",
       "url": "https://open.spotify.com/track/6rdX0la76j3RGwtZ3id80o"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276263,
       "name": "R.I.P.",
       "url": "https://open.spotify.com/track/70TKASL1fqQKO7fOvuQ6ab"
@@ -1685,9 +1703,9 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 262191,
-      "name": "Raving I'm Raving - Remix.mp3",
+      "name": "Raving I'm Raving - Remix.Mp3",
       "url": "https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk"
     },
     {
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355880,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-09",
+      "date_removed": null,
       "duration_ms": 239462,
       "name": "Sonic Empire - Short Mix",
       "url": "https://open.spotify.com/track/4qAu9FbxaULlca8tvHI8Tl"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239462,
       "name": "Sonic Empire - Short Mix",
       "url": "https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262026,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx"
@@ -1847,7 +1865,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267306,
       "name": "Sweet Harmony (Original Mix)",
       "url": "https://open.spotify.com/track/2321L83MMqryXE2eHB6PQT"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238760,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2XdL95Ifg9gysRDpFWNYWt"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 237338,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2xLB66JLQaWkmDSvTlrNEl"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287276,
       "name": "Tell Me Why - M&M Full Vocal",
       "url": "https://open.spotify.com/track/272RmS2rS59JVBhlSR0cMv"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364000,
       "name": "The Bouncer - Housequake Mix",
       "url": "https://open.spotify.com/track/2bRpbDRSLdVHlTj926exHX"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 364000,
       "name": "The Bouncer - Housequake Mix",
       "url": "https://open.spotify.com/track/6OlygUNPF9IhPo7Zhri6sU"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280973,
       "name": "Valley of the Shadows",
       "url": "https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt"
@@ -2233,10 +2251,28 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387066,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
+    },
+    {
+      "album": {
+        "name": "For The Love Of Rave",
+        "url": "https://open.spotify.com/album/2ZK6fJi1Qbm8l2ujg9NMLj"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265103,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/4zQDitPz80YkzhK7gEKL0L"
     },
     {
       "album": {
@@ -2287,7 +2323,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267106,
       "name": "Voodoo Ray",
       "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
@@ -2359,7 +2395,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331266,
       "name": "Your Love - Remix",
       "url": "https://open.spotify.com/track/0sdml9f4KUs2SiV0hwv5rY"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 64629,
+  "2024-04-20": 64616,
   "date_first_scraped": "2021-12-28",
   "description": "Listen to women at full volume. Cover - Alka Yagnik",
   "name": "EQUAL India",
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/1bkU3lIlioHhMGQoeZASbv"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 261631,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
@@ -723,10 +723,36 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293052,
       "name": "Bolo Na",
       "url": "https://open.spotify.com/track/46iYi5V4J3LRFBDP4jF9Fo"
+    },
+    {
+      "album": {
+        "name": "12th Fail",
+        "url": "https://open.spotify.com/album/7o1YLR4zqPOEkv1IDfyTdn"
+      },
+      "artists": [
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293052,
+      "name": "Bolo Na",
+      "url": "https://open.spotify.com/track/4dDHrpThDMKYk3TqdrrSyq"
     },
     {
       "album": {
@@ -863,6 +889,28 @@
       "duration_ms": 215593,
       "name": "Chal Koi Na (Let it go)",
       "url": "https://open.spotify.com/track/6c3ZcsNxaJkCDkQehD5RhI"
+    },
+    {
+      "album": {
+        "name": "Challa",
+        "url": "https://open.spotify.com/album/3htujI0OcXqEHqHBIkiH6F"
+      },
+      "artists": [
+        {
+          "name": "Sankalp Srivastava",
+          "url": "https://open.spotify.com/artist/5xwqzE7HvcA0aqFKgZInSH"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280837,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/4ugGqXCu47dobEUGhAb6Yc"
     },
     {
       "album": {
@@ -2813,7 +2861,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216558,
       "name": "Kurchi Madathapetti",
       "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
@@ -2883,6 +2931,24 @@
     {
       "album": {
         "name": "Kyun?",
+        "url": "https://open.spotify.com/album/5oGe0Synfxpxuw9f5WrRht"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "Kyun?",
+      "url": "https://open.spotify.com/track/0Hjdq4jBfYonPpmuWZ6R5u"
+    },
+    {
+      "album": {
+        "name": "Kyun?",
         "url": "https://open.spotify.com/album/4RrtKiswDpPgLW76tXyhaW"
       },
       "artists": [
@@ -2901,7 +2967,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144666,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/7JBn7exshAhc7V4TI6SYqR"
@@ -3269,11 +3335,15 @@
         {
           "name": "Shashwat Sachdev",
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 332727,
       "name": "Main Tujhe Phir Miloongi",
       "url": "https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR"
@@ -3299,7 +3369,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332727,
       "name": "Main Tujhe Phir Miloongi",
       "url": "https://open.spotify.com/track/7qnflfkgOUMbVQ7YjlkOT7"
@@ -3775,7 +3845,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/080Snoc5O7MuKyu5TkH4TD"
@@ -3787,17 +3857,17 @@
       },
       "artists": [
         {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
           "name": "Sanjay Leela Bhansali",
           "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
         }
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238103,
       "name": "Meri Jaan",
       "url": "https://open.spotify.com/track/4iEGv5Ne6HuCkFCjzxdWQK"
@@ -4105,7 +4175,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307178,
       "name": "Naram Kaalja",
       "url": "https://open.spotify.com/track/3xlAxTbUzIf5BOcqLoD1El"
@@ -4147,6 +4217,44 @@
       "duration_ms": 307178,
       "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
       "url": "https://open.spotify.com/track/4NesN7Doft9RAVuLeFzWKX"
+    },
+    {
+      "album": {
+        "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
+        "url": "https://open.spotify.com/album/7CY8xqvfpEIZJAnsWJKLbC"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Richa Sharma",
+          "url": "https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W"
+        },
+        {
+          "name": "Pooja Tiwari",
+          "url": "https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf"
+        },
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307178,
+      "name": "Naram Kaalja (From \"Amar Singh Chamkila\")",
+      "url": "https://open.spotify.com/track/5NsZ8Yi8cPOkcns2WsHfnG"
     },
     {
       "album": {
@@ -4199,6 +4307,24 @@
     {
       "album": {
         "name": "Nayee Nazar",
+        "url": "https://open.spotify.com/album/0H1JR1Lmm7IxNH8IqK192x"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238157,
+      "name": "Nayee Nazar",
+      "url": "https://open.spotify.com/track/1rKee5PFhLdqaAFOLtc8xd"
+    },
+    {
+      "album": {
+        "name": "Nayee Nazar",
         "url": "https://open.spotify.com/album/0jvFIM8gENIZg3Rlj4ewVg"
       },
       "artists": [
@@ -4209,7 +4335,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238157,
       "name": "Nayee Nazar",
       "url": "https://open.spotify.com/track/7LdsTDp3eAzgc91qBULH2V"
@@ -4541,7 +4667,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247286,
       "name": "Pal",
       "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
@@ -4567,6 +4693,44 @@
       "duration_ms": 200218,
       "name": "Param Sundari",
       "url": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "album": {
+        "name": "Pari Hoon Main (From \"Thank You For Coming\")",
+        "url": "https://open.spotify.com/album/3Xdjd6F5JB9EFMXCDbrwLk"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Sushant Divgikar",
+          "url": "https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8"
+        },
+        {
+          "name": "Rahul Pais",
+          "url": "https://open.spotify.com/artist/0iByQOkheGQaW823yagplF"
+        },
+        {
+          "name": "Nariman Khambata",
+          "url": "https://open.spotify.com/artist/3kvPoJrBHkhNT8j7Pj8QZN"
+        },
+        {
+          "name": "Leslee Lewis",
+          "url": "https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV"
+        },
+        {
+          "name": "Rajesh Johri",
+          "url": "https://open.spotify.com/artist/4Jl8jq6OJfgIj896dVWVn2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199824,
+      "name": "Pari Hoon Main (From \"Thank You For Coming\")",
+      "url": "https://open.spotify.com/track/6ENW5H0OaRbNDESsXljuOb"
     },
     {
       "album": {
@@ -4601,7 +4765,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199824,
       "name": "Pari Hoon Main (From \"Thank You For Coming)",
       "url": "https://open.spotify.com/track/4351grftIjxdiHySLZYrvS"
@@ -4693,10 +4857,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238200,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Asees Version",
       "url": "https://open.spotify.com/track/4gf2NIBxRzUQCLBcG4WYPm"
+    },
+    {
+      "album": {
+        "name": "Phir Aur Kya Chahiye - Asees Version",
+        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Phir Aur Kya Chahiye - Asees Version",
+      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
     },
     {
       "album": {
@@ -5273,6 +5459,32 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
+    },
+    {
+      "album": {
+        "name": "Saath Tere",
+        "url": "https://open.spotify.com/album/1h8upXtYhz5JIKnQcIUAw0"
+      },
+      "artists": [
+        {
+          "name": "Sukriti Kakar",
+          "url": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        },
+        {
+          "name": "Abhijay Sharma",
+          "url": "https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190021,
+      "name": "Saath Tere",
+      "url": "https://open.spotify.com/track/4NUMMY9FHZZ66mPHdcoASO"
     },
     {
       "album": {
@@ -6165,7 +6377,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213743,
       "name": "Train Song (From \"Dukaan\")",
       "url": "https://open.spotify.com/track/06psrgHygRumglJoLWpwwp"
@@ -6191,6 +6403,32 @@
       "duration_ms": 209258,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/7dZU2M1wzwOixYS6OoSMfO"
+    },
+    {
+      "album": {
+        "name": "Tu Kya Jaane (From \"Amar Singh Chamkila\")",
+        "url": "https://open.spotify.com/album/5mSz0WBgCI7hnpRTGXGU2s"
+      },
+      "artists": [
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Tu Kya Jaane (From \"Amar Singh Chamkila\")",
+      "url": "https://open.spotify.com/track/0d3AAUuuQ3Br9J1krTWJnd"
     },
     {
       "album": {
@@ -6278,6 +6516,32 @@
     },
     {
       "album": {
+        "name": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7sEgs402Tly0Fvwyyqgzsr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237209,
+      "name": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/42tPERg9qp3EiwMId8Komc"
+    },
+    {
+      "album": {
         "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/1LsdbOwH1SPB0s5IkII3C1"
       },
@@ -6297,7 +6561,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237209,
       "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa"

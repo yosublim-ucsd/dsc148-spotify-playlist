@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 132598,
+  "2024-04-20": 132583,
   "date_first_scraped": "2021-12-21",
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
   "name": "Grass Roots",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 175128,
       "name": "All the Mornings Have an Echo",
       "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217453,
       "name": "Arkansas Bound",
       "url": "https://open.spotify.com/track/1R3sWcinAXhF6hPKrErYTz"
@@ -719,6 +719,24 @@
       "duration_ms": 143453,
       "name": "Banjo Guzheng Pickin' Girls (\u5929\u6daf\u6d77\u89d2\u8d70\u4e00\u904d)",
       "url": "https://open.spotify.com/track/64RnsxwHjAHHJQ1Dzm1de5"
+    },
+    {
+      "album": {
+        "name": "Behind the 8 Ball",
+        "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Behind the 8 Ball",
+      "url": "https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv"
     },
     {
       "album": {
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 239601,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
@@ -1490,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
+    },
+    {
+      "album": {
         "name": "Carolina Avenue",
         "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
       },
@@ -1591,7 +1627,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256506,
       "name": "Charlie Pickle",
       "url": "https://open.spotify.com/track/245S2fMRVAQCSZ9idjYvWV"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
@@ -2009,7 +2045,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68725,
       "name": "Cumberland Gap",
       "url": "https://open.spotify.com/track/3ZIl7Lmby6zGV9iAC4ZXMp"
@@ -2056,6 +2092,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177909,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
+    },
+    {
+      "album": {
         "name": "Delta Queen",
         "url": "https://open.spotify.com/album/1aqtpnB29kzr9bFD4XWHgm"
       },
@@ -2067,7 +2121,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 233946,
       "name": "Delta Queen",
       "url": "https://open.spotify.com/track/1neDKJYqYoDCNyiecOXBjy"
@@ -2150,6 +2204,24 @@
     },
     {
       "album": {
+        "name": "Mayhayley's House",
+        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217222,
+      "name": "Diggin'",
+      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
+    },
+    {
+      "album": {
         "name": "Dillsboro Blues",
         "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
       },
@@ -2161,7 +2233,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Dillsboro Blues",
       "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
@@ -2215,7 +2287,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 289388,
       "name": "Don't Let Your Deal Go Down",
       "url": "https://open.spotify.com/track/3PYlZPKBHqnEw9VOoK0glB"
@@ -2415,7 +2487,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
@@ -2477,7 +2549,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
@@ -2495,7 +2567,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 179080,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/7363fdEckvPjd6ThG23SWK"
@@ -2575,7 +2647,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
@@ -2791,7 +2863,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 208640,
       "name": "Far Away Again",
       "url": "https://open.spotify.com/track/4OnWVEvkYoFbEDWPwkvqLl"
@@ -2899,7 +2971,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
@@ -2979,7 +3051,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
@@ -3113,7 +3185,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292267,
       "name": "From My Mountain (Calling You)",
       "url": "https://open.spotify.com/track/0NK6iXMfQTJZr82z4zKiOm"
@@ -3269,7 +3341,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 216950,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
@@ -3291,6 +3363,36 @@
       "duration_ms": 143960,
       "name": "Gettin' Gone",
       "url": "https://open.spotify.com/track/07JhanX2lEKBgOm25AZ7xM"
+    },
+    {
+      "album": {
+        "name": "Ghost Of A Love",
+        "url": "https://open.spotify.com/album/5NXPD6eqbDqlCh1mB0aNTR"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        },
+        {
+          "name": "Missy Raines & Allegheny",
+          "url": "https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "Ghost Of A Love",
+      "url": "https://open.spotify.com/track/4mMx8bGptO5WiP83RF9z8J"
     },
     {
       "album": {
@@ -3485,7 +3587,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182293,
       "name": "Greener Grass",
       "url": "https://open.spotify.com/track/0gIqzwso96i6SafJqcbgxO"
@@ -3597,7 +3699,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229383,
       "name": "Grey Eagle",
       "url": "https://open.spotify.com/track/360q0eHUyinl6hByFYbm2t"
@@ -3633,7 +3735,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 420123,
       "name": "Grow Together",
       "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
@@ -3962,6 +4064,24 @@
     },
     {
       "album": {
+        "name": "Highs and Lows",
+        "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
+      },
+      "artists": [
+        {
+          "name": "Hogslop String Band",
+          "url": "https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256997,
+      "name": "Highs and Lows",
+      "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "album": {
         "name": "Highway of Love",
         "url": "https://open.spotify.com/album/6cW3x9AoHibtZFc1tGBwe5"
       },
@@ -4009,7 +4129,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-22",
+      "date_removed": null,
       "duration_ms": 281640,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1ySfSzGtiyRNgnMSe45mvk"
@@ -4103,7 +4223,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191918,
       "name": "Homemade Wine",
       "url": "https://open.spotify.com/track/6SKFHKROdE9wfAWlpdAD4j"
@@ -4157,7 +4277,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
@@ -4197,7 +4317,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152786,
       "name": "Honky Tonk Nights",
       "url": "https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp"
@@ -4295,7 +4415,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199840,
       "name": "How It Ends",
       "url": "https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf"
@@ -4697,7 +4817,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Idaho Mountain Song",
       "url": "https://open.spotify.com/track/1mj8ViehGEsL6qR385CD0W"
@@ -4861,7 +4981,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158779,
       "name": "Into the Fire",
       "url": "https://open.spotify.com/track/0RjqoAsp5jmUVliLaCWuvt"
@@ -5071,7 +5191,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206960,
       "name": "Just Like Leaving",
       "url": "https://open.spotify.com/track/1KtqnK25qwyUK17y19Aks9"
@@ -5129,7 +5249,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231269,
       "name": "Kentucky Morning",
       "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"
@@ -5507,7 +5627,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144536,
       "name": "Lonesome State Of Mind",
       "url": "https://open.spotify.com/track/69USQNPpvXAIuz26IiYLkC"
@@ -5645,7 +5765,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 209391,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh"
@@ -5753,7 +5873,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161333,
       "name": "Mary Ann is a Pistol",
       "url": "https://open.spotify.com/track/7A79xett0AOEe8NVpMC2bg"
@@ -6179,7 +6299,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
@@ -6237,7 +6357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
@@ -6941,7 +7061,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300676,
       "name": "Orphan Annie",
       "url": "https://open.spotify.com/track/7tsWLFSZ7HNUDDF5UxUSZE"
@@ -7176,6 +7296,24 @@
     },
     {
       "album": {
+        "name": "Rachel's Tea Party",
+        "url": "https://open.spotify.com/album/6uzhgvE6gEDtDBrgzaNydc"
+      },
+      "artists": [
+        {
+          "name": "Tim and James",
+          "url": "https://open.spotify.com/artist/1DFceeewfUdsmpFhhlAoQz"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83474,
+      "name": "Rachel's Tea Party",
+      "url": "https://open.spotify.com/track/3AeJjcBgpVzwxhcmET0aIO"
+    },
+    {
+      "album": {
         "name": "Radio John: Songs of John Hartford",
         "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
@@ -7267,6 +7405,24 @@
       "duration_ms": 197013,
       "name": "Real World",
       "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
+    },
+    {
+      "album": {
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173688,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
     },
     {
       "album": {
@@ -7575,7 +7731,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165600,
       "name": "Running Out Of Hope, Arkansas",
       "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
@@ -7696,6 +7852,24 @@
     },
     {
       "album": {
+        "name": "Saltbush Express",
+        "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171823,
+      "name": "Saltbush Express",
+      "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
+    },
+    {
+      "album": {
         "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
       },
@@ -7747,7 +7921,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
@@ -7819,7 +7993,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180546,
       "name": "Scrape Me Off The Ceiling",
       "url": "https://open.spotify.com/track/2MX0TBk4KwRHfF73E2xP0k"
@@ -8069,7 +8243,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225941,
       "name": "Smoky Mountain Girl",
       "url": "https://open.spotify.com/track/0m3U6lCkhaJr5OCK7RSkFP"
@@ -8123,7 +8297,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 173183,
       "name": "Something You Didn\u2019t Count On",
       "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
@@ -8307,7 +8481,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240773,
       "name": "Still Is Still Moving To Me",
       "url": "https://open.spotify.com/track/6wMnZNnO4oWJwivp0WvW2W"
@@ -8369,7 +8543,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 481641,
       "name": "Stress Dreams",
       "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
@@ -8427,6 +8601,32 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Sunny Days (Are Comin' Once Again)",
+      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
     },
     {
       "album": {
@@ -8495,7 +8695,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263662,
       "name": "Sweet Spot",
       "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
@@ -8839,7 +9039,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310845,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb"
@@ -9009,6 +9209,24 @@
       "duration_ms": 169868,
       "name": "The Little Mountain Church - Simply Bluegrass",
       "url": "https://open.spotify.com/track/0mCHgPVaDg33NKE1mv47nk"
+    },
+    {
+      "album": {
+        "name": "The Lives of the Innocent",
+        "url": "https://open.spotify.com/album/0E4nRRTROArGOcYoJsGz6J"
+      },
+      "artists": [
+        {
+          "name": "Sideline",
+          "url": "https://open.spotify.com/artist/3A5JW6yJ1Qh1pwGcTIlImf"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "The Lives of the Innocent",
+      "url": "https://open.spotify.com/track/74uMXgkmFPCj0YLMh39hhO"
     },
     {
       "album": {
@@ -9882,6 +10100,24 @@
     },
     {
       "album": {
+        "name": "We'll Meet Again Sweetheart",
+        "url": "https://open.spotify.com/album/6mz82bmJ8cyCTfsZmd8XEg"
+      },
+      "artists": [
+        {
+          "name": "Zoe & Cloyd",
+          "url": "https://open.spotify.com/artist/09Mifrze5fnPx2jhnJUgWz"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171541,
+      "name": "We'll Meet Again Sweetheart",
+      "url": "https://open.spotify.com/track/2zEnUshHOW1q1idC1zSfHV"
+    },
+    {
+      "album": {
         "name": "We're All Crazy",
         "url": "https://open.spotify.com/album/3tttoJ5KpRfw7pc2f8dTlF"
       },
@@ -9911,7 +10147,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/4TpYKbhwT9sgVptLBGqHkc"
@@ -10115,7 +10351,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255369,
       "name": "Wheels Up (feat. Sierra Hull & Molly Tuttle)",
       "url": "https://open.spotify.com/track/6Ws3pJjE9MeiR8WYEC4hPw"
@@ -10205,7 +10441,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 189086,
       "name": "When It All Falls Apart",
       "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
@@ -10431,7 +10667,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
@@ -10715,7 +10951,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219746,
       "name": "Yet to Be (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/6iHor3auKtisM4nmBmyGpE"
@@ -10769,7 +11005,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258812,
       "name": "You Left Me A Long, Long Time Ago",
       "url": "https://open.spotify.com/track/3qbcegQkwaklZ48d27DOti"

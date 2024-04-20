@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 123394,
+  "2024-04-20": 123184,
   "date_first_scraped": "2022-09-15",
   "description": "\u00a1Vamos a bailar con Dios!",
   "name": "Baila Con Dios",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 238080,
       "name": "#BendecidoAmen",
       "url": "https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250386,
       "name": "Agradecido Estoy",
       "url": "https://open.spotify.com/track/79AXaiRAYMxFEkMm0LDbT5"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175455,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/2y4Hu4zHZIvdfuRd5zdnRM"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 175456,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 222127,
       "name": "Cambio de Plan",
       "url": "https://open.spotify.com/track/0MXbtfy4B2DaUL6ol0ZkXO"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "Caminamos En La Luz",
       "url": "https://open.spotify.com/track/6ARRtBKk1fwEZpfAfsAbD0"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 222458,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223516,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/4OZcxfCkwY1em4aSG8RKOk"
@@ -329,10 +329,32 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195459,
       "name": "Dependo de Ti",
       "url": "https://open.spotify.com/track/0OTp7O27Oz1hpBAPpAJVTe"
+    },
+    {
+      "album": {
+        "name": "Dependo de Ti",
+        "url": "https://open.spotify.com/album/31rd8tqz4OcQPt6lG59CjT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Sierra",
+          "url": "https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Dependo de Ti",
+      "url": "https://open.spotify.com/track/5gbsTyMgtbGEkZwQbnfF90"
     },
     {
       "album": {
@@ -423,7 +445,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221544,
       "name": "El Barrio Lo Sabe",
       "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
@@ -445,6 +467,24 @@
       "duration_ms": 265453,
       "name": "El Cristiano No Se Enoja",
       "url": "https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE"
+    },
+    {
+      "album": {
+        "name": "David Y Abraham \"La Historia\"",
+        "url": "https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD"
+      },
+      "artists": [
+        {
+          "name": "David Y Abraham",
+          "url": "https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359000,
+      "name": "El Esta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY"
     },
     {
       "album": {
@@ -481,7 +521,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207966,
       "name": "El Que Reina",
       "url": "https://open.spotify.com/track/5EQtvJcs1972KsmMZDCCHR"
@@ -499,7 +539,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282760,
       "name": "En Tu Presencia",
       "url": "https://open.spotify.com/track/6ZedH7GdOealnGMGyWarWW"
@@ -575,7 +615,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 244400,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/0CN4D8I9yuu8HHkNAjDnQP"
@@ -593,7 +633,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 242244,
       "name": "Forever Endless Love",
       "url": "https://open.spotify.com/track/7yVuvjNmRKiml7JUAQkoDr"
@@ -629,7 +669,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321554,
       "name": "Ganarlos a Todos",
       "url": "https://open.spotify.com/track/0lbtoROQFkkyBda4nWE5vl"
@@ -647,7 +687,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 321803,
       "name": "Ganarlos a Todos",
       "url": "https://open.spotify.com/track/0XmNgMHkBTJHXY968aCLWF"
@@ -665,7 +705,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229087,
       "name": "Gravy",
       "url": "https://open.spotify.com/track/4iUDeFnfywaSOPG5fPaIb1"
@@ -737,7 +777,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212022,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3GZlpgiwHlh5Zw1Ptcw9h3"
@@ -759,7 +799,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 219559,
       "name": "Jesucristo Me Toco - En Vivo",
       "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
@@ -777,7 +817,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 274200,
       "name": "La Biblia",
       "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
@@ -795,7 +835,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209476,
       "name": "Largo Viaje",
       "url": "https://open.spotify.com/track/5RC9Wt1fdM8h1LzoHBeAZm"
@@ -885,7 +925,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "Mi Fe",
       "url": "https://open.spotify.com/track/6MgUmPLVK2yvNDSAcL0D1d"
@@ -989,7 +1029,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
@@ -1015,7 +1055,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196800,
       "name": "Party Love",
       "url": "https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI"
@@ -1077,7 +1117,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 258504,
       "name": "Poniendo el Estilo",
       "url": "https://open.spotify.com/track/2DlM2uGla4yP6PRfszVDI5"
@@ -1121,10 +1161,28 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227520,
       "name": "Por Un Minuto Tu Presencia",
       "url": "https://open.spotify.com/track/0JNl9KUHsxHJYPBIXxacf8"
+    },
+    {
+      "album": {
+        "name": "Que Tire La Piedra",
+        "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264533,
+      "name": "Que Tire La Piedra",
+      "url": "https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22"
     },
     {
       "album": {
@@ -1139,7 +1197,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210053,
       "name": "Rumbarengue",
       "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
@@ -1157,7 +1215,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255242,
       "name": "Salsa del Cielo",
       "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
@@ -1283,7 +1341,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272745,
       "name": "Todo Se Lo Debo a El",
       "url": "https://open.spotify.com/track/3954VWv51e6kVHKAupQj2m"
@@ -1352,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "Indescriptible",
+        "url": "https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Lizzie",
+          "url": "https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247353,
+      "name": "Unico Version Merengue",
+      "url": "https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp"
+    },
+    {
+      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -1381,7 +1457,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
@@ -1399,7 +1475,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm"

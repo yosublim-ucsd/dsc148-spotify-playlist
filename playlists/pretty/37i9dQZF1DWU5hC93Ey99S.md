@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels\. Cover: Killen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,377 likes - 230 songs - 12 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,467 likes - 230 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 2 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
 | 3 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
 | 4 | [Past Lives \- Ian Asher Remix](https://open.spotify.com/track/7wewclsl0Gez4hiGm9DQjs) | [sapientdream](https://open.spotify.com/artist/4wOqWyXZiVMLchDC2H9CyP), [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Past Lives \(Ian Asher Remix\)](https://open.spotify.com/album/1V4WlHIf6mJKgntuXgy1BR) | 3:12 |
-| 5 | [Maybe](https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [GRAHAM](https://open.spotify.com/artist/2j9CkiAihOT1rZz6dR7pwa) | [Maybe](https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo) | 2:50 |
+| 5 | [Maybe](https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Maybe](https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo) | 2:50 |
 | 6 | [Fallback](https://open.spotify.com/track/0DkqFVtEp6A5rZuYqkKKhJ) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Fallback](https://open.spotify.com/album/6wkJivPuzqrDhSOSoMTXQz) | 3:43 |
 | 7 | [Yet](https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Yet](https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy) | 3:26 |
 | 8 | [Spaceman \(ft\. RIZ LA VIE\)](https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Spaceman \(ft\. RIZ LA VIE\)](https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8) | 2:59 |

@@ -1,6 +1,6 @@
 {
   "description": "It's just one of those days...",
-  "num_followers": 1877619,
+  "num_followers": 1876995,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "To the Pain (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2qiWMIdE9TAxRAhPGX7aU7"
-      },
-      "artists": [
-        {
-          "name": "Nonpoint",
-          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
-        }
-      ],
-      "duration_ms": 206404,
-      "name": "Bullet With a Name",
-      "url": "https://open.spotify.com/track/50OsF8Rbv8VQS0WAP0uB3i"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 237360,
       "name": "Back to School (Mini Maggit)",
       "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "To the Pain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qiWMIdE9TAxRAhPGX7aU7"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "duration_ms": 206404,
+      "name": "Bullet With a Name",
+      "url": "https://open.spotify.com/track/50OsF8Rbv8VQS0WAP0uB3i"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Primitive (Special Edition)",
-        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Jumpdafuckup",
-      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "Digimortal",
         "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "Primitive (Special Edition)",
+        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Jumpdafuckup",
+      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
       },
       "artists": [
         {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
         }
       ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
+      "duration_ms": 189853,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
       },
       "artists": [
         {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "L.D. 50",
-        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 291933,
-      "name": "Death Blooms",
-      "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "Adema",
         "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219933,
       "name": "The Way You Like It",
       "url": "https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "L.D. 50",
+        "url": "https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 291933,
+      "name": "Death Blooms",
+      "url": "https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "Adema",
-        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
-      },
-      "artists": [
-        {
-          "name": "Adema",
-          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
-    },
-    {
-      "added_at": "2024-03-26 10:10:23",
-      "album": {
         "name": "The Darker Side of Nonsense",
         "url": "https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 272266,
       "name": "Rot",
       "url": "https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK"
+    },
+    {
+      "added_at": "2024-03-26 10:10:23",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
     },
     {
       "added_at": "2024-03-26 10:10:23",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-03-26 10:10:23",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+        "name": "Adema",
+        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Adema",
+          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
+      "duration_ms": 274733,
+      "name": "Giving In",
+      "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
     },
     {
       "added_at": "2024-03-26 10:10:23",

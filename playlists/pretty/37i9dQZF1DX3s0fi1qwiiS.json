@@ -1,6 +1,6 @@
 {
   "description": "Who order Azul?",
-  "num_followers": 3295,
+  "num_followers": 3294,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-12-08 08:55:17",
       "album": {
+        "name": "Chalice",
+        "url": "https://open.spotify.com/album/2rSg6SEnAxqaokg6egTGU6"
+      },
+      "artists": [
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        },
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        }
+      ],
+      "duration_ms": 234300,
+      "name": "Chalice",
+      "url": "https://open.spotify.com/track/189NJ59FgEoGzBnyKZzreG"
+    },
+    {
+      "added_at": "2023-12-08 08:55:17",
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 361528,
       "name": "Nkao Tempela",
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
-    },
-    {
-      "added_at": "2023-12-08 08:55:17",
-      "album": {
-        "name": "Chalice",
-        "url": "https://open.spotify.com/album/2rSg6SEnAxqaokg6egTGU6"
-      },
-      "artists": [
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        },
-        {
-          "name": "Belly",
-          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
-        }
-      ],
-      "duration_ms": 234300,
-      "name": "Chalice",
-      "url": "https://open.spotify.com/track/189NJ59FgEoGzBnyKZzreG"
     },
     {
       "added_at": "2023-12-08 08:55:17",

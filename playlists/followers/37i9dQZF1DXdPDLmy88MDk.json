@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 206995,
+  "2024-04-20": 207063,
   "date_first_scraped": "2021-12-28",
   "description": "Gentle instrumental tunes.",
   "name": "Soft Instrumental",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/5uYalrRxXbbK7N8vYlXWFO"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178973,
       "name": "Alicia",
       "url": "https://open.spotify.com/track/0viMyHxBFaOE0pHu6wtwzk"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178973,
       "name": "Alicia",
       "url": "https://open.spotify.com/track/7oWt2fCsyMjSflhyrdX29V"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 152586,
       "name": "Aria variata in A Minor, BWV 989: Var. 10, \u2014",
       "url": "https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152634,
       "name": "Aria variata, BWV 989: Var. 10",
       "url": "https://open.spotify.com/track/55yVBAj9RlTiZLtzjwJ79H"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/41VwA66JSS45VlgYtXLfEH"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3nH6WS1fzzejMwN502uCIQ"
+      },
+      "artists": [
+        {
+          "name": "Niklas Ahlstedt",
+          "url": "https://open.spotify.com/artist/06eCU6pu3toh2rtUXM9lgG"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225099,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7Fhkkq0KN7Of1sRAJvsUHf"
+    },
+    {
+      "album": {
         "name": "The Symphony Within",
         "url": "https://open.spotify.com/album/08Ds2AJ3k7XTK2tObrxx9F"
       },
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225099,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/28JzcoTAAC1XYY9HIXVJTD"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284853,
       "name": "DANCE: I. when you're broken open",
       "url": "https://open.spotify.com/track/3Y0EbmwdJNP7dgVqSD8vRW"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284853,
       "name": "DANCE: I. when you're broken up",
       "url": "https://open.spotify.com/track/7xUMMOKO7UrqKa7x4XqaKa"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202724,
       "name": "Dream 13 - Short Edit",
       "url": "https://open.spotify.com/track/7GwO8RkgIDNEVov1qgZ04S"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202724,
       "name": "Dream 13 - Short Edit",
       "url": "https://open.spotify.com/track/7jOQz0twc8MXAMib4iIy7u"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/4tiKvBdGo2KVVUazCIfWOE"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238333,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/5rmSiOcI7xPIOhMTakVxa0"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159500,
       "name": "Fonteyn",
       "url": "https://open.spotify.com/track/29Lh7uFWh8jAOSTlOtdrqh"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 159500,
       "name": "Fonteyn",
       "url": "https://open.spotify.com/track/42qcDdQ4VWeLCLjrF9BBRN"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183186,
       "name": "Future Love (Reimagined by P\u00eatr Aleks\u00e4nder) - Instrumental",
       "url": "https://open.spotify.com/track/3mug1SqX316NBMW9Gab4hv"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183186,
       "name": "Future Love - Reimagined by P\u00eatr Aleks\u00e4nder instrumental",
       "url": "https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196933,
       "name": "Guitar Suite No. 2: II. Serenata",
       "url": "https://open.spotify.com/track/0j7qoRp2gHdsehImg96cX7"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196933,
       "name": "Guitar Suite No. 2: II. Serenata",
       "url": "https://open.spotify.com/track/1IsKX8UHybts7ESOZUfdqL"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 365640,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/5w85BSnHc2eKHhYKrqaRYP"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365640,
       "name": "Hymn - 2001",
       "url": "https://open.spotify.com/track/7dcLnJpswFbVg7sPRVmgxS"
@@ -1344,32 +1362,6 @@
     },
     {
       "album": {
-        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma M\u00e8re l'oye",
-        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
-      },
-      "artists": [
-        {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
-        },
-        {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
-        }
-      ],
-      "date_added": "2021-11-19",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 142000,
-      "name": "Jeux d'enfants, Op. 22 WD 56: 3. La poup\u00e9e",
-      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
-    },
-    {
-      "album": {
         "name": "Classically Opera",
         "url": "https://open.spotify.com/album/5C7l9QMUAqZRlwBAzofEG1"
       },
@@ -1415,10 +1407,36 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141786,
       "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
       "url": "https://open.spotify.com/track/39bzKYAYfHRtK32nEnQilM"
+    },
+    {
+      "album": {
+        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
+      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
     },
     {
       "album": {
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323933,
       "name": "Le onde",
       "url": "https://open.spotify.com/track/6sEz1Cd0HVXRXuvIw9zAmK"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324015,
       "name": "Le Onde",
       "url": "https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226000,
       "name": "Loom - Sunrise Session II",
       "url": "https://open.spotify.com/track/3ZgOaxUgKP9gaN2xdRWrEM"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Loom - Sunrise Session II",
       "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399277,
       "name": "Lucida",
       "url": "https://open.spotify.com/track/1BWFgp352htOukWtjsD7B7"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 399277,
       "name": "Lucida",
       "url": "https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128693,
       "name": "Martyrdom (Movement 1)",
       "url": "https://open.spotify.com/track/0GRg28lwZ59kMh5oPEiJlO"
@@ -1810,7 +1828,7 @@
         },
         {
           "name": "Hugh Wilson",
-          "url": "https://open.spotify.com/artist/7ncGVIFxTwhKnirYwJ2E6a"
+          "url": "https://open.spotify.com/artist/553uGetov2nDsJ3nj67c2I"
         },
         {
           "name": "Cecilia Weston",
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 128693,
       "name": "Martyrdom - Movement 1",
       "url": "https://open.spotify.com/track/50LqUYIes3bfMQ7mSHrXzA"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223786,
       "name": "Moments musicaux, Op. 16: No. 5 in D-Flat Major. Adagio sostenuto",
       "url": "https://open.spotify.com/track/0bab37ruzDN54ax5SOFIlH"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223786,
       "name": "Moments musicaux, Op. 16: No. 5 in D-Flat Major. Adagio sostenuto",
       "url": "https://open.spotify.com/track/39BmKp8vRdEd1Do4BXhHsd"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166173,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/0GNEGCkJMiC6vxeoc0Qc4M"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166173,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/6bn2bf1DSSgePgIVm7O699"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251573,
       "name": "Nocturne Op.9 No.2",
       "url": "https://open.spotify.com/track/4ONQLG9voahaGGrKWWbKic"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251573,
       "name": "Nocturne Op.9 No.2 - Arranged by Francisco T\u00e1rrega/Mattias Schulstad",
       "url": "https://open.spotify.com/track/2gPbAlaGCuRAyWp0bJtJ9g"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169480,
       "name": "Nostalgie (Version for Cello & Piano)",
       "url": "https://open.spotify.com/track/1avrCd0iZnk13X9G2oDuXp"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169480,
       "name": "Nostalgie (Version for Cello & Piano)",
       "url": "https://open.spotify.com/track/44xfsV9BcAedtTkrLYj45A"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251733,
       "name": "Orfeo ed Euridice, Act II: Dance of the Blessed Spirits, \"M\u00e9lodie\" (arr. I. Friedman for piano)",
       "url": "https://open.spotify.com/track/3xIu6hYXz0gTjJtmGu60M8"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251733,
       "name": "Orfeo ed Euridice, Wq. 30: Danse des champs-elys\u00e9es \"M\u00e9lodie\" (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/0DG5cVgVt7821x2rAv0ny2"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231804,
       "name": "PAN",
       "url": "https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO"
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231804,
       "name": "PAN",
       "url": "https://open.spotify.com/track/7DnSEP7pBGcnxtkfRjv5m4"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/0R4HTYUjrBvDwxilINNwYZ"
@@ -2331,7 +2349,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 176457,
       "name": "Papillon - Solo Piano Version",
       "url": "https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo"
@@ -2392,6 +2410,28 @@
     },
     {
       "album": {
+        "name": "Camino - Spanish and French repertoire for guitar",
+        "url": "https://open.spotify.com/album/6I8hnIFkq6LIQ1so8TaF03"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390120,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19 (Arr. S. Shibe for Guitar)",
+      "url": "https://open.spotify.com/track/4RUHjk3j9Rwvlx8OGcPwn9"
+    },
+    {
+      "album": {
         "name": "The French Album",
         "url": "https://open.spotify.com/album/4QYFeRjBgVCv8Vrb3cK7wI"
       },
@@ -2407,7 +2447,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359463,
       "name": "Pavane, Op. 50 (Version for Piano)",
       "url": "https://open.spotify.com/track/2mNQl3DEWtkrwKllwYpxi0"
@@ -2469,7 +2509,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282400,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/2MA6EUDm6EYmeRbT9QP8cX"
@@ -2491,7 +2531,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282400,
       "name": "Piano Sonata No. 8 in C Minor, Op. 13 \"Path\u00e9tique\": II. Adagio cantabile (Featured in \"The Lost World: Jurassic Park\")",
       "url": "https://open.spotify.com/track/4JlmuGWtPY2McQsQq6MUmw"
@@ -2535,7 +2575,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248880,
       "name": "Piano Sonata No. 9: II. Lento",
       "url": "https://open.spotify.com/track/13N9Wd7JX346ZZqUwTxkwo"
@@ -2557,7 +2597,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248880,
       "name": "Piano Sonata No. 9: II. Lento",
       "url": "https://open.spotify.com/track/28E9jz4D9f3j4pkLo67ZFe"
@@ -2575,7 +2615,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364648,
       "name": "re:member",
       "url": "https://open.spotify.com/track/6wUU6ff7O1jlE4NOrv01gI"
@@ -2593,7 +2633,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 367185,
       "name": "re:member",
       "url": "https://open.spotify.com/track/6quyqbfWoWG9iXrtYl8yG2"
@@ -2681,7 +2721,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/419qlOGNXoyICx4jO0hqaj"
@@ -2741,7 +2781,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174653,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation No. 18 Andante cantabile",
       "url": "https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz"
@@ -2759,7 +2799,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 452160,
       "name": "Rust And Gold",
       "url": "https://open.spotify.com/track/3GfSSiY6GmnZNN6sx06sVh"
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 452160,
       "name": "Rust and Gold",
       "url": "https://open.spotify.com/track/78agvAPgzQVGyRvhfX6uEO"
@@ -2843,7 +2883,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170250,
       "name": "Saving Daylight",
       "url": "https://open.spotify.com/track/1PAqkhjrgQboGgUJILMuBv"
@@ -2865,7 +2905,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170250,
       "name": "Saving Daylight",
       "url": "https://open.spotify.com/track/7HxNsdmd735QOTD6tXKbBm"
@@ -2909,7 +2949,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289040,
       "name": "Shimmering Water",
       "url": "https://open.spotify.com/track/4Z4RbVmOpawdQSFLtTvZPB"
@@ -2939,7 +2979,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289040,
       "name": "Shimmering Water",
       "url": "https://open.spotify.com/track/5tDvK8nHGn490K4mokboKC"
@@ -2961,7 +3001,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 149413,
       "name": "Silence",
       "url": "https://open.spotify.com/track/4BZoYzYti7JySxL3yxZGfi"
@@ -2983,7 +3023,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149413,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6OmC1B1EOQSbhQL6HP1cPn"
@@ -3019,7 +3059,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229606,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/4tkzQ9Eg3OeuZuAH8O3aUl"
@@ -3037,7 +3077,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229877,
       "name": "Solitude I",
       "url": "https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU"
@@ -3125,7 +3165,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165026,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0Yhq08cXMbcH7tm89EIB2P"
@@ -3143,7 +3183,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165026,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4NOdC6e1AggrDGeSoX2l4n"
@@ -3179,7 +3219,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165611,
       "name": "Swells",
       "url": "https://open.spotify.com/track/3V11QUuUTJP23f6k9BZeGn"
@@ -3197,7 +3237,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165611,
       "name": "Swells",
       "url": "https://open.spotify.com/track/6OAmwif2egghTp0U2YOE6t"
@@ -3237,7 +3277,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 141267,
       "name": "The Ballad of the Lake of Tears",
       "url": "https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ"
@@ -3255,7 +3295,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141267,
       "name": "The Ballad of the Lake of Tears",
       "url": "https://open.spotify.com/track/11PefLDQvs8jWcF5LO5e0l"
@@ -3327,7 +3367,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179482,
       "name": "Transience",
       "url": "https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y"
@@ -3345,7 +3385,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179482,
       "name": "Transience",
       "url": "https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC"

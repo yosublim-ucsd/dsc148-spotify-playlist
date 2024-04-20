@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3805,
+  "2024-04-20": 3804,
   "date_first_scraped": "2022-06-05",
   "description": "Sing along to these tunes about everything you can find on the farm.",
   "name": "On The Farm",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 63942,
       "name": "Chicken Bop",
       "url": "https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72875,
       "name": "Cow",
       "url": "https://open.spotify.com/track/2iCCve95J9Z9EGXZgDTU7N"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 72875,
       "name": "Cow",
       "url": "https://open.spotify.com/track/3CxS8PnW6GtamJwQ6igupR"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68571,
       "name": "Farmer",
       "url": "https://open.spotify.com/track/2gKwJ8pyCVmn3YgafdTnk4"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 68571,
       "name": "Farmer",
       "url": "https://open.spotify.com/track/6bKwFJeAmA4qjarjx4dSB0"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148573,
       "name": "Grandad's Farm",
       "url": "https://open.spotify.com/track/04Crad2n7Dkix287Qm8XcH"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 148573,
       "name": "Grandad's Farm",
       "url": "https://open.spotify.com/track/1q0M0S7deKtkgNn1FzrkR8"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194853,
       "name": "I Know A Chicken",
       "url": "https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194853,
       "name": "I Know A Chicken",
       "url": "https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160248,
       "name": "Mary Had a Little Lamb Nursery Rhyme",
       "url": "https://open.spotify.com/track/7r3lfD2MIPjkBv8EDQukOF"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Mary Had a Little Lamb Song",
       "url": "https://open.spotify.com/track/1eLgThRQFLPLIP0nEMMrY4"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 72099,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/5gaZDZblHuR6dc2Ioq5MyX"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72099,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/5qgg8TwfbEYLqBqfhGmDFd"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 148823,
       "name": "Thank You Farmers",
       "url": "https://open.spotify.com/track/1cPngJrgocZABWRooLfdgH"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148823,
       "name": "Thank You Farmers",
       "url": "https://open.spotify.com/track/4d3uDgCLjZhaHOc4p7Usrm"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201173,
       "name": "Working on the Farm",
       "url": "https://open.spotify.com/track/4BfoIFogAKmdWLFkV6ZEoJ"
@@ -1277,13 +1277,13 @@
       },
       "artists": [
         {
-          "name": "The MikMaks",
+          "name": "The Mik Maks",
           "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
         }
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 201176,
       "name": "Working on the Farm",
       "url": "https://open.spotify.com/track/06HgOwvBfxzUC0VVyNaOMO"

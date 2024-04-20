@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 6424,
+  "num_followers": 6427,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGM4MGM4YWE3M2QwY2Y3MmMyMTY5MzI5MWRhMWE2Yjkz",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDU3ZDVkMWRmNGJmZDA3ZTI4M2U0YmE3NTEyNmU0ODVj",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 542106,
-      "name": "Eggshell",
-      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
+      "duration_ms": 323960,
+      "name": "Basscadet",
+      "url": "https://open.spotify.com/track/6CWyYev3BrO0wcENVX1Asw"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 323960,
-      "name": "Basscadet",
-      "url": "https://open.spotify.com/track/6CWyYev3BrO0wcENVX1Asw"
+      "duration_ms": 542106,
+      "name": "Eggshell",
+      "url": "https://open.spotify.com/track/7a0T0GR5b2RUHQcGIUEKYw"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 529702,
-      "name": "M4 Lema",
-      "url": "https://open.spotify.com/track/2FzoRj6pWI0JFBlBE67dfk"
+      "duration_ms": 428131,
+      "name": "Pen Expers",
+      "url": "https://open.spotify.com/track/1ApkioB2tH12mouyXF4rXJ"
     }
   ],
   "unique_name": "This Is Autechre",

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5069,
+  "2024-04-20": 5082,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -2285,7 +2285,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117333,
       "name": "\u0423\u043d\u0438\u0432\u0435\u0440",
       "url": "https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3"

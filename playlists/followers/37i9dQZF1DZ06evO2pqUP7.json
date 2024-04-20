@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 66538,
+  "2024-04-20": 66518,
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
+  "description": "This is Lunay. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Lunay",
   "tracks": [
     {
@@ -495,7 +495,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 151562,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145777,
       "name": "Ronca",
       "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"

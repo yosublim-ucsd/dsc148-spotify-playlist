@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 195690,
+  "2024-04-20": 195708,
   "date_first_scraped": "2022-05-30",
   "description": "Elle and Tao's mixtape. Watch <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033\">Heartstopper</a> now on Netflix.",
   "name": "Heartstopper: Elle and Tao",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217618,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/1RLCci3EUAH9t1spVptRWQ"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217626,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/6PLazKHpb8YMtGh1J2C5qe"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224720,
       "name": "Bros",
       "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 278769,
       "name": "Can I Call You Tonight?",
       "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/78sdhV2qA9aFFzwhPdEQh5"
@@ -453,10 +453,28 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252818,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
     },
     {
       "album": {
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 57120,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/2N4I8oPqSNA5MgGrLIyU5A"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 57120,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/5vaQ0fdW1o39wGP43osjJO"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 60293,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/2mchaeoq35BUYXiOFLWD7i"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 60293,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/3uaW8TR5dvn4iripeYPw5t"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2IgtWhc0W0cbhYqpolqeKh"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207320,
       "name": "I Belong In Your Arms",
       "url": "https://open.spotify.com/track/0MOPdmOiCKChZjLzJHJAXi"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 157373,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/5FYDm4Ty6x0Ep2ttByYm6r"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157373,
       "name": "My Best Friend",
       "url": "https://open.spotify.com/track/7q893CNDWAkTCtzxM5xdO8"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 158909,
       "name": "She Likes Me",
       "url": "https://open.spotify.com/track/0Hz2naBG1RX3ihb69nQFwX"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158909,
       "name": "She Likes Me",
       "url": "https://open.spotify.com/track/2yU99PjB6Nd5Ml0WYiTIsA"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/0MIiqne6YsbsDz4z9MGA2K"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 190357,
       "name": "UrbanAngel1999",
       "url": "https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190357,
       "name": "UrbanAngel1999",
       "url": "https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v"

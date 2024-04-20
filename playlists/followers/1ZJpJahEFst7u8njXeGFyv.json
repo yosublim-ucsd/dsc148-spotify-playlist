@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 309687,
+  "2024-04-20": 309682,
   "date_first_scraped": "2022-09-28",
   "description": "Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Yo-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.",
   "name": "Relaxing Classical",
@@ -2842,6 +2842,24 @@
     },
     {
       "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344880,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd"
       },
@@ -2861,28 +2879,6 @@
       "duration_ms": 349705,
       "name": "Experience",
       "url": "https://open.spotify.com/track/3FUw3zUo4bmETWb15jk3oY"
-    },
-    {
-      "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "date_added": "2024-04-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 344880,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj"
     },
     {
       "album": {

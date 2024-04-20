@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1290,
+  "2024-04-20": 1288,
   "date_first_scraped": "2023-09-29",
   "description": "Des chansons qui vous feront rire, vous et vos enfants",
   "name": "Juste pour rire",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Inoubliable",
+        "url": "https://open.spotify.com/album/5dmDXur0mV57yriIkx5Zjf"
+      },
+      "artists": [
+        {
+          "name": "Annie Cordy",
+          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180053,
+      "name": "Cho ka ka o",
+      "url": "https://open.spotify.com/track/6Re4EMlUbAS4dQq4iKNiM6"
+    },
+    {
+      "album": {
         "name": "Tata yoyo",
         "url": "https://open.spotify.com/album/3eMAg9LwfpmO0lVr2Dl74E"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180693,
       "name": "Cho ka ka o",
       "url": "https://open.spotify.com/track/1WH5Sl6SytHCcSjbQSWJj4"
@@ -114,6 +132,24 @@
     },
     {
       "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/6PjtMUreqr5TRxvt9onUUf"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215431,
+      "name": "Dragostea Din Tei",
+      "url": "https://open.spotify.com/track/2c3sKqWYVJ0NsE3elgRhKH"
+    },
+    {
+      "album": {
         "name": "Ma Ya Hi (Dragostea Din Tei) [English Mixes]",
         "url": "https://open.spotify.com/album/4NcEOn1YRrJIothAIuanTF"
       },
@@ -143,7 +179,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214560,
       "name": "Dragostea Din Tei - Original Romanian Version",
       "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
@@ -168,6 +204,24 @@
     },
     {
       "album": {
+        "name": "T'as Vu",
+        "url": "https://open.spotify.com/album/2eNobAGC5Cc92aL5lXlmwf"
+      },
+      "artists": [
+        {
+          "name": "Fatal Bazooka",
+          "url": "https://open.spotify.com/artist/5oDxGfxYaJkfp6xZlXQnr8"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "Fous ta cagoule - Radio Edit",
+      "url": "https://open.spotify.com/track/3WFP6beklK0c62PrsBp2Mc"
+    },
+    {
+      "album": {
         "name": "Fous ta cagoule (Radio Edit)",
         "url": "https://open.spotify.com/album/0qOrYJgX0rvjShwJRxTD5E"
       },
@@ -179,7 +233,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212266,
       "name": "Fous ta cagoule - Radio Edit",
       "url": "https://open.spotify.com/track/5IXh97bXm3Xf04REp19HqK"
@@ -305,10 +359,46 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187973,
       "name": "Le Papa Pingouin",
       "url": "https://open.spotify.com/track/18sK4fcZvpKWM3Ytn1EOwV"
+    },
+    {
+      "album": {
+        "name": "La banquise (Pigloo)",
+        "url": "https://open.spotify.com/album/7bgPikZ5FWo7rbNvLsK9U5"
+      },
+      "artists": [
+        {
+          "name": "Pigloo",
+          "url": "https://open.spotify.com/artist/37QZVMta82rMyyEZN5ZOeP"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Le papa pingouin",
+      "url": "https://open.spotify.com/track/1qt5AVI6Hfh4NVHExzf4R2"
+    },
+    {
+      "album": {
+        "name": "Le poussin Piou",
+        "url": "https://open.spotify.com/album/3dWqSTQgGbJ8sajM4dnupj"
+      },
+      "artists": [
+        {
+          "name": "Pulcino Pio",
+          "url": "https://open.spotify.com/artist/6UDcrf1HpHFwqX3toofvd0"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Le poussin Piou - French Version",
+      "url": "https://open.spotify.com/track/3wUuMs3tFxIPghPH63dE0R"
     },
     {
       "album": {
@@ -323,7 +413,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160052,
       "name": "Le poussin piou - Radio Edit",
       "url": "https://open.spotify.com/track/1Z8CayyOS8fxRuxlfgUiMH"
@@ -525,10 +615,28 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152613,
       "name": "Tata Yoyo",
       "url": "https://open.spotify.com/track/09Jsup6YqSLxnWeqJsA2ht"
+    },
+    {
+      "album": {
+        "name": "Inoubliable",
+        "url": "https://open.spotify.com/album/5dmDXur0mV57yriIkx5Zjf"
+      },
+      "artists": [
+        {
+          "name": "Annie Cordy",
+          "url": "https://open.spotify.com/artist/3qkV6gvoRmKLMuRFuBd2Ot"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152813,
+      "name": "Tata yoyo",
+      "url": "https://open.spotify.com/track/5rBts8nNWTbtwAMBiY6wUt"
     },
     {
       "album": {
@@ -550,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Un Monde Parfait",
+        "url": "https://open.spotify.com/album/7sbRzF9UWBWJxKzwsjRnSx"
+      },
+      "artists": [
+        {
+          "name": "Ilona",
+          "url": "https://open.spotify.com/artist/7hrz1an870QhmhXsIsj7VV"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187399,
+      "name": "Un Monde Parfait",
+      "url": "https://open.spotify.com/track/1bv4IL20JbSfmIVrNo2tLw"
+    },
+    {
+      "album": {
         "name": "Un monde parfait",
         "url": "https://open.spotify.com/album/5IZz0EpqHjb1gZ9IcQK0ct"
       },
@@ -561,7 +687,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187399,
       "name": "Un monde parfait",
       "url": "https://open.spotify.com/track/4Dd8r3d1Tu2mvvjn2Vj4Sg"

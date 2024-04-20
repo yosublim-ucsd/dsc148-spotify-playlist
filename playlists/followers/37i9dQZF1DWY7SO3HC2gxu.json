@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5312,
+  "2024-04-20": 5317,
   "date_first_scraped": "2022-10-01",
   "description": "Best blends of Electronic music Across East Africa",
   "name": "Oontz",
@@ -435,7 +435,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141069,
       "name": "Flames",
       "url": "https://open.spotify.com/track/6S1mY4W4ZXK17myBKwoXp4"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 141069,
       "name": "Flames",
       "url": "https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Heart & Home",
       "url": "https://open.spotify.com/track/2CCeJrNHjfCPPbAgbxfZeG"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Heart & Home",
       "url": "https://open.spotify.com/track/1mDRLUIvYEHpJoLkC29jPu"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/6jJPEJMMbtAubg5ro9b6QV"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 492175,
       "name": "Let's Pretend - Tube & Berger Remix",
       "url": "https://open.spotify.com/track/7I5hO1FqD2GyscnY3cQZpC"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 493770,
       "name": "Mzuzi Park",
       "url": "https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 493770,
       "name": "Mzuzi Park",
       "url": "https://open.spotify.com/track/1CtmlLBB4dAzTdBXNAt4d2"
@@ -2831,7 +2831,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 372625,
       "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
       "url": "https://open.spotify.com/track/0AZY6dQC8KDdTHReXHzeEm"
@@ -2865,7 +2865,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 372625,
       "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
       "url": "https://open.spotify.com/track/1Wusyq8vwzJMaaKhN82c2z"
@@ -2891,10 +2891,36 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217298,
       "name": "Weche - Radio Edit",
       "url": "https://open.spotify.com/track/1Auk0gMNtlgOlw6MiI5u6m"
+    },
+    {
+      "album": {
+        "name": "Weche",
+        "url": "https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29"
+      },
+      "artists": [
+        {
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
+        },
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Akoth Jumadi",
+          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217298,
+      "name": "Weche - Radio Edit",
+      "url": "https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM"
     },
     {
       "album": {

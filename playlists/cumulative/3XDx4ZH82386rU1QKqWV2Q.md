@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-547 songs - 23 hr 8 min
+548 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [KickeR](https://open.spotify.com/track/6CunnKbNLM61RSfAyMO7bd) | [Processor](https://open.spotify.com/artist/3PsLxyLABzuf3dUMpS05Mp), [Keep The Weak](https://open.spotify.com/artist/2P3qSSjzQtpfpcBSZmdvJT) | [KickeR](https://open.spotify.com/album/7waVPlDxkcNbKfzwpcztry) | 2:51 | 2023-12-08 | 2024-01-09 |
 | [KILLKA \- Slowed](https://open.spotify.com/track/2hDTUZE4vna0jJFehaddfN) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [KILLKA \(Slowed & Sped Up\)](https://open.spotify.com/album/05awX7x1jO8EdTa4KgdLPA) | 2:50 | 2023-07-13 | 2023-08-20 |
 | [KING](https://open.spotify.com/track/3GEOarLqJFWD6GHcPhmB5a) | [SXL1D](https://open.spotify.com/artist/6D282eBXQJhuKhgikbRhde), [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [KING](https://open.spotify.com/album/25SRrFDnT0s6jXJed66zZz) | 1:43 | 2023-06-12 | 2023-06-26 |
+| [King of the Void](https://open.spotify.com/track/0EduJ8lt4T2jYCwnO8FVLa) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [King of the Void](https://open.spotify.com/album/1JWjJN17jrxsmzLbji8Ghr) | 2:38 | 2024-04-19 |  |
 | [knockin'](https://open.spotify.com/track/0OF8RxZPP7HZwkaPHoRqj8) | [kooba](https://open.spotify.com/artist/4LgMUG6tdalEspH0lYS3Rt) | [knockin'](https://open.spotify.com/album/0vyNt5OveaDoZ0i9eI4o6b) | 2:24 | 2023-07-12 | 2023-07-24 |
 | [Kreepin \(feat\. Denzel Curry\)](https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Safe House](https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm) | 2:40 | 2023-07-20 | 2023-09-26 |
 | [KRUSH ALERT](https://open.spotify.com/track/0judPVBRMBl8dqxm2C4Ogi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [HR](https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX) | [KRUSH ALERT](https://open.spotify.com/album/2ogWjO54oEYCWHDTHACQga) | 1:50 | 2024-03-01 | 2024-04-12 |

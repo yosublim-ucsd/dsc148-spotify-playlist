@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: リーガルリリー \(Regallily\)
 
-1,584 songs - 4 day 2 hr 39 min
+1,585 songs - 4 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Burn Out](https://open.spotify.com/track/2VWFENMWsS4dJNbzto8DB8) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/3eqM4QbVALwcN9CXr0pBHp) | 2:05 | 2023-05-16 | 2023-05-18 |
 | [Burn Out](https://open.spotify.com/track/6y3rK3sNUy5jCaJ6UogkU4) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 | 2023-05-16 | 2023-06-21 |
 | [Burn The Fire](https://open.spotify.com/track/6FqxaTZhLuGWc89hc9ZOMe) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Burn The Fire](https://open.spotify.com/album/01F2KOw5jXOkJDBAeDLAWs) | 3:55 | 2023-10-17 | 2023-11-22 |
-| [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 |  |
+| [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2024-04-20 |
 | [Candy Candy Candy](https://open.spotify.com/track/3TrebEANXJrI2pB2MlNY46) | [李鳳](https://open.spotify.com/artist/2LkxO2dowN9uLUMWlGe7Mj) | [Candy Candy Candy](https://open.spotify.com/album/4mnboCYgJLVXRY1MdQwhLC) | 3:02 | 2022-06-23 | 2022-06-27 |
 | [CANDY FLIP](https://open.spotify.com/track/26qsvP1phIVnLpaDzREHBO) | [Hysteric Panic](https://open.spotify.com/artist/5gcxdZ3ZghD2XNc8ptMLZq) | [CANDY FLIP](https://open.spotify.com/album/05IjjYHW7LI1UgAxwo2QBt) | 3:55 | 2023-08-29 | 2023-09-06 |
 | [CANDY MOON](https://open.spotify.com/track/2zqbFeCXeON4VggxeAatGd) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Beautiful](https://open.spotify.com/album/4BFKguk68XmcaazFf6GU9S) | 3:51 | 2022-06-14 | 2022-06-29 |
@@ -1109,6 +1109,7 @@
 | [フェイバリットボーイ](https://open.spotify.com/track/4S5zxn5xMQsNjnDNLGIWuD) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:29 | 2023-02-03 | 2023-03-03 |
 | [フランボワーズ・パルフェのために \- For Tracy Hyde ver.](https://open.spotify.com/track/4l262bR6NZZNI85OoL2sBL) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7dYn1Qg44ssT772rhVjlKz) | 3:31 | 2022-06-14 | 2022-06-29 |
 | [フランボワーズ・パルフェのために \- RAY ver.](https://open.spotify.com/track/02Tws9cin3ysmqFNzERZvQ) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy), [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [フランボワーズ・パルフェのために](https://open.spotify.com/album/7coHxqWdl3yZsAwxWworPL) | 3:31 | 2022-06-30 | 2022-07-02 |
+| [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 | 2024-04-16 |  |
 | [ブルー](https://open.spotify.com/track/797vLBTS5VWXKbqz3LLTcA) | [mukeikaku](https://open.spotify.com/artist/13EKu7UHAU6sAqlIoRFQJw) | [ブルー](https://open.spotify.com/album/5AzlrPPAqQAkrmhtRGq2I9) | 4:21 | 2024-03-19 | 2024-03-21 |
 | [ブルーボネット](https://open.spotify.com/track/6TY5b9l9HaUGgfJhtTwQWR) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [ブルーボネット](https://open.spotify.com/album/1VOZ1mcQ6aSlyAZeetVhgA) | 3:45 | 2023-12-19 | 2024-01-10 |
 | [ブーツを鳴らして](https://open.spotify.com/track/4W2KhLs5rhIbo73x1hw48L) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ブーツを鳴らして \- EP](https://open.spotify.com/album/7jdLRIgpAKYnDJjuR6vkFX) | 5:57 | 2022-05-26 | 2022-07-11 |

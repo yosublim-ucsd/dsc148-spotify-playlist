@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 37779,
+  "num_followers": 37786,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -197,10 +197,10 @@
       "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Thunderbird",
-      "url": "https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty"
+      "duration_ms": 181745,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -277,6 +277,26 @@
       "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
     },
     {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Dream of You",
+        "url": "https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR"
+      },
+      "artists": [
+        {
+          "name": "Lionlimb",
+          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
+        },
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 237727,
+      "name": "Dream of You",
+      "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Highway Queen",
@@ -291,6 +311,22 @@
       "duration_ms": 177573,
       "name": "Send The Sun",
       "url": "https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Thunderbird",
+      "url": "https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -315,42 +351,6 @@
       "duration_ms": 235617,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2rhkDqUHN8qheTE1vZf7T9"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Until We Meet Again",
-        "url": "https://open.spotify.com/album/0rTbmVftdBHOiEvRyjEuub"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 181745,
-      "name": "Until We Meet Again",
-      "url": "https://open.spotify.com/track/66ttkjHJsfNXTot9SgIere"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Dream of You",
-        "url": "https://open.spotify.com/album/4OU061WzwjHr9KUBJnLEMR"
-      },
-      "artists": [
-        {
-          "name": "Lionlimb",
-          "url": "https://open.spotify.com/artist/06wmOEVNWtAOfLxNVcnz0V"
-        },
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 237727,
-      "name": "Dream of You",
-      "url": "https://open.spotify.com/track/6pVYBR8WJdwUwMkdSTensd"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Hermosa Drive",
-        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 234040,
-      "name": "Hermosa Drive",
-      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Singing for My Supper",
         "url": "https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 394520,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/15ABFJbl41BsIKFWGKfmZ7"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Hermosa Drive",
+        "url": "https://open.spotify.com/album/1W9chSfuRIMlDR9h1KLeO7"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 234040,
+      "name": "Hermosa Drive",
+      "url": "https://open.spotify.com/track/6WysaBBSPIpoVPCbF4Rys4"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "American Love Song",
-        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "America",
-      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Murmur of Yearning",
         "url": "https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
+        "name": "American Love Song",
+        "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "America",
+      "url": "https://open.spotify.com/track/5GOdN3y1m0pjoMC4OKifIp"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/6zaVaNAjvlN583TtOJIpZu"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 171053,
       "name": "Highways",
       "url": "https://open.spotify.com/track/0lv8vzoworXjrezBYz912U"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Cocaine Country Dancing",
-        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 256281,
-      "name": "Cocaine Country Dancing",
-      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 204000,
       "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
       "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Cocaine Country Dancing",
+        "url": "https://open.spotify.com/album/2Pex98kXgvEKVRROOTONZL"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 256281,
+      "name": "Cocaine Country Dancing",
+      "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -884,8 +884,8 @@
       },
       "artists": [
         {
-          "name": "Bria",
-          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
         }
       ],
       "duration_ms": 201985,
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Sam Doores",
-        "url": "https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt"
-      },
-      "artists": [
-        {
-          "name": "Sam Doores",
-          "url": "https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "Let it Roll",
-      "url": "https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Southern Galactic",
         "url": "https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 198500,
       "name": "Things to Burn",
       "url": "https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Sam Doores",
+        "url": "https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt"
+      },
+      "artists": [
+        {
+          "name": "Sam Doores",
+          "url": "https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "Let it Roll",
+      "url": "https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1136,8 +1136,8 @@
       },
       "artists": [
         {
-          "name": "Bria",
-          "url": "https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3"
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
         }
       ],
       "duration_ms": 284138,

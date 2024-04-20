@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
 
-372 songs - 20 hr 0 min
+375 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Fill Me Up](https://open.spotify.com/track/2x1Dcdn6dgzuLopYDPfIcd) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [Fill Me Up](https://open.spotify.com/album/15wEQBEIZ9X8LABzjFc1M6) | 2:57 | 2023-02-15 | 2023-08-24 |
 | [Fire Saturday](https://open.spotify.com/track/2mKl38xBfLznqODvyaNQPq) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Fire Saturday](https://open.spotify.com/album/51cLLBwum2814O6R3iEtyq) | 3:21 | 2021-12-30 | 2023-01-12 |
 | [Fix Me](https://open.spotify.com/track/6zRh1dXMxFn2WyeobMagJd) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Fix Me](https://open.spotify.com/album/2jzxhDFOZmjtk6JIi4pKd1) | 2:29 | 2021-12-30 | 2022-01-28 |
+| [Flower Rhythm](https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 2 : Flower Rhythm>](https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg) | 2:39 | 2024-04-19 |  |
 | [FLY UP HIGH](https://open.spotify.com/track/5fMBzRMDEqh4pWmUdmfbi8) | [SKYLE](https://open.spotify.com/artist/6P3aSKZZtsDE8GTMJVeobh) | [FLY UP HIGH](https://open.spotify.com/album/1Ye6LoYpqWLNeEqk1v6BbX) | 3:47 | 2021-12-30 | 2022-01-07 |
 | [For you](https://open.spotify.com/track/672b3tJg6ekHfqE7pxzSaF) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [MIRACLE \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3GRFs5rLXU1H3NndGSscGT) | 3:50 | 2022-05-26 | 2022-12-01 |
 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 | 2022-05-05 | 2022-09-06 |
@@ -151,6 +152,7 @@
 | [I NEED](https://open.spotify.com/track/0B6Q7MLbnu2DiGOIZQvjZc) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [I NEED](https://open.spotify.com/album/73iCuuT8EGry8oXrEamIfJ) | 1:57 | 2023-11-15 | 2024-03-29 |
 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-12-30 | 2023-01-12 |
 | [IDIOT](https://open.spotify.com/track/7Hbwi6sIkVdyLGUII5lySS) | [PULLIK](https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z) | [NOMINATE](https://open.spotify.com/album/0Wuc3nyECbctfSVlH2eK6p) | 2:09 | 2024-01-05 |  |
+| [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-04-19 |  |
 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 | 2023-05-01 | 2024-01-03 |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-08-23 | 2023-10-30 |
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-09-14 | 2023-11-16 |
@@ -340,6 +342,7 @@
 | [Truth or Dare](https://open.spotify.com/track/1KE1eG1NQ5uPRcvthP6eEZ) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [The Voice](https://open.spotify.com/album/2hRXn9IPc6ZdTRck0ODI0N) | 3:11 | 2023-10-29 | 2024-03-22 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-01-11 | 2023-05-02 |
 | [UGLY](https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Un: SEEN](https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ) | 3:21 | 2024-01-26 |  |
+| [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 |  |
 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2023-02-01 |
 | [UNBELIEVABLE](https://open.spotify.com/track/1DWPQVnwUJg75OxoV2JH5v) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [UNBELIEVABLE](https://open.spotify.com/album/5D3Qk2qFw5pM6E2uCZ15Ke) | 2:45 | 2022-04-20 | 2022-05-12 |
 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 | 2023-06-07 | 2024-01-27 |

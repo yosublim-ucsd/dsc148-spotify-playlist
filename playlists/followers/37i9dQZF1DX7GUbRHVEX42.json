@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1125030,
+  "2024-04-20": 1123314,
   "date_first_scraped": "2021-12-29",
   "description": "The best of current & contemporary Reggae. Welcome To Jamrock Reggae Cruise. Cover: Kabaka Pyramid",
   "name": "Irie",
@@ -21,6 +21,24 @@
       "duration_ms": 188853,
       "name": "(To Be) Young Gifted and Black",
       "url": "https://open.spotify.com/track/21YtaaAivXcpcFaYbTjgKP"
+    },
+    {
+      "album": {
+        "name": "1865 (96 Degrees In The Shade) [Re-Recorded] [Acapella] - Single",
+        "url": "https://open.spotify.com/album/7MU0ZWUVRON6MvGzA3sHMb"
+      },
+      "artists": [
+        {
+          "name": "Third World",
+          "url": "https://open.spotify.com/artist/6qfKnsgz1CwyqA7lTdieRJ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258545,
+      "name": "1865 (96 Degrees In The Shade) [Re-Recorded]",
+      "url": "https://open.spotify.com/track/4tI7IW2L7UfI052FOwgS5N"
     },
     {
       "album": {
@@ -259,7 +277,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183409,
       "name": "Allow Me to Live",
       "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 227112,
       "name": "How Could You",
       "url": "https://open.spotify.com/track/3Sag8mEE8Kh22DQs9jaraT"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 231838,
       "name": "If You Know",
       "url": "https://open.spotify.com/track/1BGk2pZMRXI9T3tTPgKKtf"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 231543,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/2z5cwp5bP6Ee0OkqZIMhUO"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 194455,
       "name": "Mama's Prayer",
       "url": "https://open.spotify.com/track/12zOHhw84rjzStFU9EJDgs"
@@ -2767,6 +2785,28 @@
       "duration_ms": 236400,
       "name": "Misery",
       "url": "https://open.spotify.com/track/0KJChSs3U02uhCfb7RBy5K"
+    },
+    {
+      "album": {
+        "name": "Moonage Daydream",
+        "url": "https://open.spotify.com/album/7B4rzkIjVtGyxPEGYUgizu"
+      },
+      "artists": [
+        {
+          "name": "Easy Star All-Stars",
+          "url": "https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ"
+        },
+        {
+          "name": "Naomi Cowan",
+          "url": "https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273106,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/01jTcKw2oL7Ho0J3wvkR7e"
     },
     {
       "album": {
@@ -3135,7 +3175,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201250,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS"
@@ -3327,7 +3367,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238576,
       "name": "Pressure (Remix)",
       "url": "https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs"
@@ -4041,7 +4081,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U"
@@ -4063,7 +4103,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194406,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
@@ -4151,7 +4191,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
@@ -4481,7 +4521,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 133981,
       "name": "Thankful (with Chronic Law)",
       "url": "https://open.spotify.com/track/2jDpWZDhwfWyJjGWLN43MB"
@@ -4679,7 +4719,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 198948,
       "name": "Time Is of Essence",
       "url": "https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH"
@@ -4959,7 +4999,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160172,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"
@@ -5127,7 +5167,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 198912,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6N37hPucYSTkj59pOnOkuW"
@@ -5243,7 +5283,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166053,
       "name": "Zulu Gang",
       "url": "https://open.spotify.com/track/1wNRSCOeKbLJrmYAmJqx0O"

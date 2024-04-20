@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO32laA8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO32laA8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO32laA8)
 
-### [This is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
+### [This Is Isabel LaRosa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO32laA8)
 
-> This is Isabel LaRosa\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Isabel LaRosa\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 20 songs - 48 min 4 sec
 

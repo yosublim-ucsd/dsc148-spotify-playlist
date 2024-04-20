@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 25960,
+  "2024-04-20": 25979,
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/album/0O86y1QkJj0HZU5mYdnKgH?si=r16DGPO_T_WsK-A7UzwYxA\"> Boutross </a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=YVI_3KbXR369PO6GCDNA3A\"> Breeder LW </a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -979,7 +979,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184980,
       "name": "Body Count",
       "url": "https://open.spotify.com/track/6SNFzvJzeA0FFBm94l1CfR"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 185279,
       "name": "Body Count",
       "url": "https://open.spotify.com/track/1pBVsYNb3NiijlRyy1JxD3"
@@ -1717,6 +1717,24 @@
       "duration_ms": 197537,
       "name": "Danshie",
       "url": "https://open.spotify.com/track/2cy5jKcaRg831XEwEyxSR8"
+    },
+    {
+      "album": {
+        "name": "Dedi Dedilee",
+        "url": "https://open.spotify.com/album/1KnlYboasv4DR1BsksHBv3"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189890,
+      "name": "Dedi Dedilee",
+      "url": "https://open.spotify.com/track/2TyeNaKpRKsQzQYP5D5i9i"
     },
     {
       "album": {
@@ -2653,7 +2671,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185077,
       "name": "How Come?",
       "url": "https://open.spotify.com/track/37ix17VbIhu9HgozklYdYE"
@@ -3517,6 +3535,40 @@
       "duration_ms": 177600,
       "name": "Kitu Mature",
       "url": "https://open.spotify.com/track/0FR0LXiwgRGn65ELqU81HX"
+    },
+    {
+      "album": {
+        "name": "Kudonjo Kudunda",
+        "url": "https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9"
+      },
+      "artists": [
+        {
+          "name": "Gadafee",
+          "url": "https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA"
+        },
+        {
+          "name": "Zzero Sufuri",
+          "url": "https://open.spotify.com/artist/0uSb41cfaaEXtKDd9ZR4uO"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        },
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/6Lx5bYAVSVhCdwnCEgdadB"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200028,
+      "name": "Kudonjo Kudunda",
+      "url": "https://open.spotify.com/track/4aJyHRdr4OyjVlkIalyG2T"
     },
     {
       "album": {
@@ -4827,7 +4879,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217959,
       "name": "Napenda Wote",
       "url": "https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje"
@@ -7203,7 +7255,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237593,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
@@ -7221,7 +7273,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 237593,
       "name": "Tic Tac",
       "url": "https://open.spotify.com/track/5ozgizyjmZws6tF5VAO9iG"

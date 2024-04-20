@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 170918,
+  "2024-04-20": 170895,
   "date_first_scraped": "2021-12-21",
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
   "name": "Blues Live & Loud",
@@ -61,6 +61,24 @@
     {
       "album": {
         "name": "Another Ten Years Gone (Live)",
+        "url": "https://open.spotify.com/album/6aXeAQUsyXUKzpIbDZqYkD"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410413,
+      "name": "Another Ten Years Gone - Live",
+      "url": "https://open.spotify.com/track/1VRIqZPeT8am357EyPsP8N"
+    },
+    {
+      "album": {
+        "name": "Another Ten Years Gone (Live)",
         "url": "https://open.spotify.com/album/6DmKvEZjN2xLFLsnWCGmXr"
       },
       "artists": [
@@ -89,7 +107,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410413,
       "name": "Another Ten Years Gone - Live",
       "url": "https://open.spotify.com/track/4mtWq6vMaknARnGo1R52bd"
@@ -111,6 +129,24 @@
       "duration_ms": 277666,
       "name": "Backwater Blues - Live",
       "url": "https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7"
+    },
+    {
+      "album": {
+        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
     },
     {
       "album": {
@@ -143,7 +179,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299826,
       "name": "Blue On Black - Live",
       "url": "https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ"
@@ -161,7 +197,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299826,
       "name": "Blue On Black - Live",
       "url": "https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL"
@@ -215,7 +251,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 528120,
       "name": "Broke Down On The Brazos (Live)",
       "url": "https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ"
@@ -233,7 +269,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 528120,
       "name": "Broke Down On The Brazos - Live",
       "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
@@ -269,7 +305,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 454000,
       "name": "Camp Washington Chile/If You Have To Know",
       "url": "https://open.spotify.com/track/0pCcV5CRp8mqlEXZIOnk2X"
@@ -287,7 +323,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 454000,
       "name": "Camp Washington Chile/If You Have To Know",
       "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
@@ -323,7 +359,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
@@ -341,7 +377,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W"
@@ -381,7 +417,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 410520,
       "name": "Chills & Thrills",
       "url": "https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq"
@@ -399,7 +435,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410520,
       "name": "Chills & Thrills - Live",
       "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
@@ -417,7 +453,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245400,
       "name": "Cold Black Night (Live at VH1)",
       "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
@@ -435,7 +471,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 245400,
       "name": "Cold Black Night - Live at VH1",
       "url": "https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs"
@@ -460,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Cotton Candy (Live)",
+        "url": "https://open.spotify.com/album/5h65XYlUahg1cjp5qJRPt1"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "Cotton Candy (Live)",
+      "url": "https://open.spotify.com/track/3BEFNKCaaa6nlUgkGlBXMK"
+    },
+    {
+      "album": {
         "name": "Night In The City (Live)",
         "url": "https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb"
       },
@@ -471,7 +525,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260146,
       "name": "Cotton Candy - Live",
       "url": "https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX"
@@ -525,7 +579,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 256986,
       "name": "Cry a Little - Live",
       "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
@@ -543,7 +597,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256986,
       "name": "Cry a Little - Live",
       "url": "https://open.spotify.com/track/61iTGJ7XEsfUmWU0LVWUP5"
@@ -561,7 +615,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7"
@@ -579,7 +633,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
@@ -633,7 +687,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 387346,
       "name": "Diamonds & Gold - Live",
       "url": "https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis"
@@ -651,7 +705,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387346,
       "name": "Diamonds & Gold - Live",
       "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
@@ -795,7 +849,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232388,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/3315kMG6PdeNdwKMGxNTxn"
@@ -813,7 +867,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898"
@@ -849,7 +903,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 352213,
       "name": "Frosty (Live)",
       "url": "https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4"
@@ -867,7 +921,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354013,
       "name": "Frosty - Live",
       "url": "https://open.spotify.com/track/69Vo5KVrgmyq3pqqjBpF6c"
@@ -947,7 +1001,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
@@ -973,7 +1027,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290693,
       "name": "Hideaway - Live",
       "url": "https://open.spotify.com/track/2ITCE00HMJT7FzThIwpJkg"
@@ -1193,7 +1247,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 650746,
       "name": "Keep On Growing - Live",
       "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
@@ -1211,7 +1265,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 650746,
       "name": "Keep On Growing - Live",
       "url": "https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR"
@@ -1319,7 +1373,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335955,
       "name": "Let Me Love You Baby - Live",
       "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
@@ -1439,7 +1493,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 312824,
       "name": "Mad As A Hatter (Live In Concert)",
       "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312824,
       "name": "Mad As A Hatter - Live in Concert",
       "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
@@ -1497,7 +1551,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324016,
       "name": "Midnight Heat - Live",
       "url": "https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N"
@@ -1515,7 +1569,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 324016,
       "name": "Midnight Heat - Live",
       "url": "https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY"
@@ -1613,7 +1667,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 426835,
       "name": "Mr Luck (feat. Mick Taylor) (Live)",
       "url": "https://open.spotify.com/track/447HYxWqQYLaezoibi274B"
@@ -1639,7 +1693,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 426835,
       "name": "Mr Luck (feat. Mick Taylor) - Live",
       "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
@@ -1701,7 +1755,7 @@
     {
       "album": {
         "name": "Blood Brothers: Live in Canada",
-        "url": "https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A"
+        "url": "https://open.spotify.com/album/3WWiNFpep5WNPLpC7in1OE"
       },
       "artists": [
         {
@@ -1716,6 +1770,28 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 318899,
+      "name": "No Good Woman - Live",
+      "url": "https://open.spotify.com/track/0qgWudtSTMXo7YhQCGRAdK"
+    },
+    {
+      "album": {
+        "name": "Blood Brothers: Live in Canada",
+        "url": "https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 318899,
       "name": "No Good Woman - Live",
       "url": "https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8"
@@ -1751,7 +1827,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 322022,
       "name": "No Time For Cryin' - Live",
       "url": "https://open.spotify.com/track/656eVNjToos4nqR0ZzUyUB"
@@ -1769,7 +1845,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322022,
       "name": "No Time For Cryin' - Live",
       "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
@@ -1791,7 +1867,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299863,
       "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
       "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
@@ -1813,7 +1889,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299863,
       "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
       "url": "https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ"
@@ -1831,7 +1907,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308093,
       "name": "One of These Days - Live",
       "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
@@ -1849,7 +1925,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308093,
       "name": "One Of These Days - live",
       "url": "https://open.spotify.com/track/73IqopuSeWo7YOUdVZHIVA"
@@ -1885,7 +1961,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 509607,
       "name": "Pallet Soft and Low (Live)",
       "url": "https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK"
@@ -1903,7 +1979,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-18",
+      "date_removed": null,
       "duration_ms": 509607,
       "name": "Pallet Soft and Low (Live)",
       "url": "https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk"
@@ -1981,8 +2057,8 @@
           "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
         },
         {
-          "name": "Billy Gibbons",
-          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         },
         {
           "name": "Steven Tyler",
@@ -1991,7 +2067,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l"
@@ -2009,7 +2085,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289800,
       "name": "Rattlesnake Shake (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)",
       "url": "https://open.spotify.com/track/2cw1cZG9T3goqZOOqjkrqI"
@@ -2063,7 +2139,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 539293,
       "name": "River of Tears - Live",
       "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
@@ -2081,7 +2157,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 539293,
       "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
       "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
@@ -2171,7 +2247,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw"
@@ -2189,7 +2265,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
@@ -2283,7 +2359,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350573,
       "name": "Stoop Down Baby - Live",
       "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
@@ -2301,7 +2377,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 350573,
       "name": "Stoop Down Baby - Live",
       "url": "https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF"
@@ -2319,7 +2395,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 410133,
       "name": "Stop Breakin' Down - Live",
       "url": "https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4"
@@ -2337,7 +2413,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410960,
       "name": "Stop Breakin' Down - Live",
       "url": "https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui"
@@ -2377,7 +2453,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me (Live)",
       "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
@@ -2395,7 +2471,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396682,
       "name": "Tell Her You Belong To Me - Live",
       "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
@@ -2475,7 +2551,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 338226,
       "name": "The Healing - Live",
       "url": "https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY"
@@ -2493,7 +2569,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338226,
       "name": "The Healing - Live",
       "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
@@ -2709,7 +2785,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -2727,7 +2803,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354880,
       "name": "True Lies - Live",
       "url": "https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ"
@@ -2799,7 +2875,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 383306,
       "name": "Wait On Time - Live",
       "url": "https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb"
@@ -2817,7 +2893,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 386853,
       "name": "Wait on Time - Live",
       "url": "https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk"
@@ -2853,7 +2929,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 329840,
       "name": "Watchagonnado (Live)",
       "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
@@ -2871,7 +2947,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329840,
       "name": "Watchagonnado - Live",
       "url": "https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81"
@@ -2889,7 +2965,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
@@ -2915,7 +2991,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/2CEXOlk2cd8CRErc5mDpHU"
@@ -2973,7 +3049,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252106,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/3ELWEa23WwNkAHrosWjy8d"
@@ -2995,7 +3071,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 252106,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
@@ -3049,7 +3125,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260133,
       "name": "Woman Like You - Live",
       "url": "https://open.spotify.com/track/0T6JNuBGbmRWizQ6Vdcchz"
@@ -3067,7 +3143,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260133,
       "name": "Woman Like You - Live",
       "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"

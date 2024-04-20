@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1588981,
+  "2024-04-20": 1588654,
   "date_first_scraped": "2020-12-13",
   "description": "Emo feels for the misunderstood. Cover: mgk & Trippie Redd",
   "name": "tear drop",
@@ -2345,7 +2345,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137783,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 138311,
       "name": "Cherry Blossoms",
       "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/22is613WTMG267eVdACLDK"
@@ -3117,7 +3117,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 89624,
       "name": "Dead and Cold",
       "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
@@ -5179,7 +5179,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "fml",
       "url": "https://open.spotify.com/track/0r8WywH5D8rL7mxhMyHzN1"
@@ -5197,7 +5197,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163538,
       "name": "Fml",
       "url": "https://open.spotify.com/track/13Por6lNrLjkqJfdCbcCSr"
@@ -5575,7 +5575,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "FWM2",
       "url": "https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v"
@@ -5593,7 +5593,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124000,
       "name": "FWM2",
       "url": "https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq"
@@ -7563,7 +7563,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
@@ -7581,7 +7581,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145634,
       "name": "i walk this earth all by myself",
       "url": "https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd"
@@ -9501,10 +9501,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115657,
       "name": "Mangata",
       "url": "https://open.spotify.com/track/1P2j9yx7MgYSd3HKKR6D8n"
+    },
+    {
+      "album": {
+        "name": "DEVILS PLAYGROUND",
+        "url": "https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE"
+      },
+      "artists": [
+        {
+          "name": "KIETH MONTANA",
+          "url": "https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115657,
+      "name": "MANGATA",
+      "url": "https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB"
     },
     {
       "album": {
@@ -9537,7 +9555,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166666,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/0YJDzkmiyRQbgzlV4fo02m"
@@ -9555,7 +9573,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "MANIC MAN",
       "url": "https://open.spotify.com/track/26rijl9dFrPmT2mIB7BAE2"
@@ -9737,7 +9755,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 172137,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
@@ -9755,7 +9773,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
@@ -9773,7 +9791,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74"
@@ -9791,7 +9809,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174548,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv"
@@ -10841,7 +10859,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169010,
       "name": "not a home",
       "url": "https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ"
@@ -10859,7 +10877,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169010,
       "name": "Not a Home",
       "url": "https://open.spotify.com/track/7tJVCaozXs7hZ112trfQwR"
@@ -12377,7 +12395,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109800,
       "name": "Proud Of Myself",
       "url": "https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL"
@@ -12395,7 +12413,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 109800,
       "name": "Proud of Myself",
       "url": "https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc"
@@ -13221,7 +13239,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 202222,
       "name": "Same Room",
       "url": "https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2"
@@ -13239,7 +13257,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202222,
       "name": "Same Room",
       "url": "https://open.spotify.com/track/7JKcsNXSjFVKtA6YT7BNGZ"
@@ -13315,7 +13333,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 127934,
       "name": "Save Me, Please",
       "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
@@ -13333,7 +13351,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127934,
       "name": "Save Me, Please",
       "url": "https://open.spotify.com/track/0vtydnn50fuaO8li7usmlo"
@@ -13645,7 +13663,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
@@ -13663,7 +13681,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
@@ -14557,7 +14575,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
@@ -15257,7 +15275,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164878,
       "name": "Table For One",
       "url": "https://open.spotify.com/track/1DwpGCzzpIRuIJ1Xuk9gar"
@@ -15275,7 +15293,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164878,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/3NyGlrlfpTKK9J07N1BGud"
@@ -16337,7 +16355,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v"
@@ -16355,7 +16373,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138461,
       "name": "UDNTLUVME",
       "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
@@ -16663,13 +16681,13 @@
       },
       "artists": [
         {
-          "name": "Josh Golden",
+          "name": "Joshua Golden",
           "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
         }
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/25ndwd0OLtkQLkFBaS9RjT"
@@ -16687,7 +16705,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/3Ukt7NkeA9noJ8b0vU8sNO"
@@ -17383,7 +17401,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 167441,
       "name": "why am i here, i feel so alone",
       "url": "https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM"
@@ -17401,7 +17419,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167441,
       "name": "why am i here, i feel so alone",
       "url": "https://open.spotify.com/track/55UNnoJxklGUHG0TVXtEKv"
@@ -17831,7 +17849,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180062,
       "name": "Worlds a Fuck",
       "url": "https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV"
@@ -17853,7 +17871,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 180001,
       "name": "Worlds A Fuck",
       "url": "https://open.spotify.com/track/6KOgmHp7R9ZXIemshIs1J5"
@@ -18119,7 +18137,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 103400,
       "name": "You Broke My Heart Again",
       "url": "https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE"
@@ -18141,7 +18159,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 103400,
       "name": "You Broke My Heart Again",
       "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
@@ -18385,7 +18403,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 190188,
       "name": "\u2022NOTDEAD!\u2022",
       "url": "https://open.spotify.com/track/1c30r2e9SgkvjikuJBR7ms"
@@ -18403,7 +18421,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190188,
       "name": "\u2022NOTDEAD!\u2022",
       "url": "https://open.spotify.com/track/6fRVwblLIfC5DrVH8swfFs"

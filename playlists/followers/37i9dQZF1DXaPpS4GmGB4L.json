@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 60601,
+  "2024-04-20": 60635,
   "date_first_scraped": "2021-12-21",
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
   "name": "Upbeat Blues",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157813,
       "name": "All Your Love (I Miss Loving)",
       "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236543,
       "name": "Baby We're Through",
       "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241678,
       "name": "Break Em' Down",
       "url": "https://open.spotify.com/track/1YziwYBC0cVkWQ9JWcji5Q"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 244386,
       "name": "Choose Wisely",
       "url": "https://open.spotify.com/track/3e8FtZefLisPiLXh6MCSS6"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245400,
       "name": "Cold Black Night (Live at VH1)",
       "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 222733,
       "name": "Dirty Dog",
       "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
@@ -523,6 +523,24 @@
     {
       "album": {
         "name": "Badlands",
+        "url": "https://open.spotify.com/album/3Kpo3OugEvrW7jtLIPXcYA"
+      },
+      "artists": [
+        {
+          "name": "Trampled Under Foot",
+          "url": "https://open.spotify.com/artist/1IR09fnMJMFbwX7py3VHkY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260771,
+      "name": "Don't Want No Woman",
+      "url": "https://open.spotify.com/track/3jBWNd8x0yl2MX9xdqjR9S"
+    },
+    {
+      "album": {
+        "name": "Badlands",
         "url": "https://open.spotify.com/album/1zJAyAnj2LQRbdTfH8DUbN"
       },
       "artists": [
@@ -533,7 +551,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260773,
       "name": "Don't Want No Woman",
       "url": "https://open.spotify.com/track/33j44avBvB6ybyhtOYxK7u"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 177831,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210946,
       "name": "Feels Good Doin' Bad",
       "url": "https://open.spotify.com/track/3xtSEgKwfAwuHLyEGmmgHX"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 221489,
       "name": "Footprints on My Floor",
       "url": "https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172059,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 173040,
       "name": "Got My Mojo Working",
       "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 249840,
       "name": "Hello Little Girl",
       "url": "https://open.spotify.com/track/2nof4LgSAxUeJPiwLAvkND"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247400,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 173164,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172440,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6P7KVBsfow2UkcFgc7Et51"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154200,
       "name": "I've Been Walkin'",
       "url": "https://open.spotify.com/track/38YR42D9VzKtA29ah7eetq"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 241641,
       "name": "ILa-View",
       "url": "https://open.spotify.com/track/3FA6NLfuZ76xGTuQ8WR7BR"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217213,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236693,
       "name": "Leavin Trunk",
       "url": "https://open.spotify.com/track/7vnF7vAWro4Cw8qizqsVxU"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/2VudfnNeGZVGd2BG5PYJpt"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 213250,
       "name": "Lovesick Blues",
       "url": "https://open.spotify.com/track/6orPIRUBKPWsi7awg7UPTY"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142813,
       "name": "Madison Blues",
       "url": "https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304938,
       "name": "Mean Town Blues",
       "url": "https://open.spotify.com/track/2WGah7utjcgaErfNVGWYVz"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304938,
       "name": "Mean Town Blues",
       "url": "https://open.spotify.com/track/3CCmfKQwQicHhHwvlZbeAm"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 329000,
       "name": "Miss Annie Lou - Live",
       "url": "https://open.spotify.com/track/6ym1xcoQquPca3o7T4nleN"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260426,
       "name": "Move It On Over",
       "url": "https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE"
@@ -2119,7 +2137,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 195790,
       "name": "My Baby Is a Good 'Un",
       "url": "https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 268121,
       "name": "Old School Blues",
       "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 274146,
       "name": "One Day You're Gonna Get Lucky",
       "url": "https://open.spotify.com/track/5NjibvR60eqc5vyU6Zd3bW"
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 207255,
       "name": "Proud Man's Blues (Radio Mix)",
       "url": "https://open.spotify.com/track/0wrFuYDRBrcx4BHqLsnIcH"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 147160,
       "name": "Red Hot",
       "url": "https://open.spotify.com/track/5sz4rMisEqqLDkObDfNeKq"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250711,
       "name": "Reverse Engineer",
       "url": "https://open.spotify.com/track/07PQv121zSIpQRlUqZZdRO"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169613,
       "name": "Rocket 88",
       "url": "https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Rocket 88 - Remastered",
       "url": "https://open.spotify.com/track/4DNlJnFb2AFE0GiZPW5t5O"
@@ -2805,7 +2823,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 196570,
       "name": "She's a Twister",
       "url": "https://open.spotify.com/track/3KQHzgBg8a5B5uVKnghe1K"
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 210827,
       "name": "Short Dressed Woman",
       "url": "https://open.spotify.com/track/65GenukKzAktEWBMDRhxkD"
@@ -2895,7 +2913,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238573,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250970,
       "name": "Sounds Like The Road",
       "url": "https://open.spotify.com/track/3Q2fXEwlK6x4nNPlGAZuzn"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217800,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/1mZnYPZKrIzS5AEjXa5fzC"
@@ -3083,7 +3101,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-28",
+      "date_removed": null,
       "duration_ms": 173984,
       "name": "Sweet Like Sugar",
       "url": "https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H"
@@ -3247,7 +3265,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 266640,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/22I0XpzDVsVTdaJ6KiOh8e"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217361,
       "name": "Time to Get Movin'",
       "url": "https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R"
@@ -3319,7 +3337,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217361,
       "name": "Time to Get Movin'",
       "url": "https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv"
@@ -3337,7 +3355,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201237,
       "name": "Too Old To Grow Up",
       "url": "https://open.spotify.com/track/2V3azyKH2p0Y95rhTO78U8"
@@ -3373,7 +3391,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 130866,
       "name": "Trouble in Mind",
       "url": "https://open.spotify.com/track/3aQg5uOkMfakHOcxrUsMf1"
@@ -3409,10 +3427,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161226,
       "name": "Two Headed Woman",
       "url": "https://open.spotify.com/track/1EHqKdXyX3tGEZl1eHvECc"
+    },
+    {
+      "album": {
+        "name": "Black Gypsy Blues",
+        "url": "https://open.spotify.com/album/4dm4M7W7RH1HH6vPwsONUH"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162089,
+      "name": "Two-Headed Woman",
+      "url": "https://open.spotify.com/track/4hBWkeToVYWUUnXIBKY6te"
     },
     {
       "album": {
@@ -3539,7 +3575,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146653,
       "name": "West Texas",
       "url": "https://open.spotify.com/track/2kuzkVRpOyQntaeTR2OOPG"
@@ -3677,7 +3713,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166975,
       "name": "You're Gonna Be Sorry",
       "url": "https://open.spotify.com/track/66lsfUDfroN998Sau6OkIp"

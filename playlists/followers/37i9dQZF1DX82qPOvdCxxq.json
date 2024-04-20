@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 40951,
+  "2024-04-20": 40933,
   "date_first_scraped": "2021-12-28",
   "description": "Go deep in discovery for great new songs of faith and inspiration. Cover:  Abby Robertson",
   "name": "Faith Finds",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221452,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/1GRcZ66VWTuCWHfENuebh9"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221452,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/6vu0tUKye63v9xsyN3v9jL"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191682,
       "name": "Control of My Life",
       "url": "https://open.spotify.com/track/2kKKS3ZjdTbrYAWHq4SMBL"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191682,
       "name": "Control of My Life",
       "url": "https://open.spotify.com/track/0jtyxlvOUJuxXsEnZ8ZYJi"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 419555,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/4fUuSGIcSWgBLCzp3ZGmLx"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 419555,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/6PtRI1CWQ9iYOSI3l9ZiNC"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287323,
       "name": "Great Is The Hope",
       "url": "https://open.spotify.com/track/3SWztLvYi5bQbDe9TC4mgf"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287323,
       "name": "Great Is the Hope",
       "url": "https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242267,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/2oBjArqKH9SxMVsWsVbCAy"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242267,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/6hPlQuK6U4XBudaLrvT4Ya"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 240313,
       "name": "It Is Well (My Soul Sings)",
       "url": "https://open.spotify.com/track/6fMDLbc40h9bEsCAUVdEgP"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240466,
       "name": "It Is Well (My Soul Sings)",
       "url": "https://open.spotify.com/track/3rkGSQ3DLY9aNXNscTepQU"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213853,
       "name": "Jesus Is Coming Back",
       "url": "https://open.spotify.com/track/7Dxh2X3k565qoBEnNyqZoa"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213853,
       "name": "Jesus Is Coming Back",
       "url": "https://open.spotify.com/track/7G6rmcvQU7oloMv4X8ppBJ"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286133,
       "name": "Take This Slowly // Autumn Sessions",
       "url": "https://open.spotify.com/track/4b6UfKgoBxBLyJBkyHbAvj"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 286133,
       "name": "Take This Slowly // Autumn Sessions",
       "url": "https://open.spotify.com/track/4iaf7Xg99DoMVEIQIE27gs"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/0HOPZn0IFpZS142x0uClQ0"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192873,
       "name": "Together (Soundtrack from Year in Search)",
       "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"

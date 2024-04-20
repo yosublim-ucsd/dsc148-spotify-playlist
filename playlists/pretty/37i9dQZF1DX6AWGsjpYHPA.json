@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 145011,
+  "num_followers": 145055,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
         }
       ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -751,42 +751,6 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
-      },
-      "artists": [
-        {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
         "name": "Along the Lethe",
         "url": "https://open.spotify.com/album/3cwJeTW8Fcv5zvJ180UBaP"
       },
@@ -827,6 +791,26 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "Remix",
         "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 384986,
       "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
       "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1135,6 +1135,34 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
+        "name": "Back to Mine: Horse Meat Disco (DJ Mix)",
+        "url": "https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon"
+      },
+      "artists": [
+        {
+          "name": "Alien Alien",
+          "url": "https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf"
+        },
+        {
+          "name": "Igino",
+          "url": "https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR"
+        },
+        {
+          "name": "Ray Mang",
+          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
+        },
+        {
+          "name": "Severino Panzetta",
+          "url": "https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m"
+        }
+      ],
+      "duration_ms": 227991,
+      "name": "Perfidia (feat. Igino) (Severino Panzetta & Ray Mang Remix) - Mixed",
+      "url": "https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq"
+    },
+    {
+      "added_at": "2024-01-03 14:56:32",
+      "album": {
         "name": "YUNIK\u014dN",
         "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
@@ -1203,30 +1231,22 @@
     {
       "added_at": "2024-01-03 14:56:32",
       "album": {
-        "name": "Back to Mine: Horse Meat Disco (DJ Mix)",
-        "url": "https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon"
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/6sk0HqPJwTGhBglyfXVmjH"
       },
       "artists": [
         {
-          "name": "Alien Alien",
-          "url": "https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf"
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
         },
         {
-          "name": "Igino",
-          "url": "https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR"
-        },
-        {
-          "name": "Ray Mang",
-          "url": "https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2"
-        },
-        {
-          "name": "Severino Panzetta",
-          "url": "https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m"
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
         }
       ],
-      "duration_ms": 227991,
-      "name": "Perfidia (feat. Igino) (Severino Panzetta & Ray Mang Remix) - Mixed",
-      "url": "https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq"
+      "duration_ms": 169002,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/49YdSfNFhK1emSgD2e7Mhx"
     },
     {
       "added_at": "2024-01-03 14:56:32",
@@ -1279,34 +1299,6 @@
       "duration_ms": 237586,
       "name": "Try Repeat",
       "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
-    },
-    {
-      "added_at": "2024-01-03 14:56:32",
-      "album": {
-        "name": "Fair Chance (Floating Points Remix)",
-        "url": "https://open.spotify.com/album/69ImoNYaQSjY2RmQsaZ9DB"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Lil B",
-          "url": "https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 308214,
-      "name": "Fair Chance - Floating Points Remix",
-      "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
     }
   ],
   "unique_name": "Turntable",

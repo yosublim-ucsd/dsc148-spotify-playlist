@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13256,
+  "2024-04-20": 13266,
   "date_first_scraped": "2022-10-28",
   "description": "Still yachting. Cover: Young Gun Silver Fox",
   "name": "Yacht Rock Revival",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207226,
       "name": "Back On The Music!",
       "url": "https://open.spotify.com/track/5QALJWWpHnigY6CRPdQqhu"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 207226,
       "name": "Back On The Music!",
       "url": "https://open.spotify.com/track/68PHkOQpABqaKdxRMhbzMg"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 236188,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/5PXPE3omLz44P8p6o0HNI1"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236188,
       "name": "Better Than Ever",
       "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19"
@@ -257,13 +257,13 @@
       },
       "artists": [
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229442,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 229442,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5OKT7iKJqQAjTK2Q3BLxHY"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/4V9DevlYomf95xOhfYqBlI"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 300506,
       "name": "I Don't Think We Should Wait",
       "url": "https://open.spotify.com/track/59PWRSbpBHbeI5pw6llR5v"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195926,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 195926,
       "name": "Mango",
       "url": "https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200480,
       "name": "New Fascination",
       "url": "https://open.spotify.com/track/4wugx5UcJaefwqsrqfRmDK"
@@ -951,6 +951,24 @@
       "duration_ms": 200480,
       "name": "New Fascination",
       "url": "https://open.spotify.com/track/52iCnjPavObHl20sQ4t2Z6"
+    },
+    {
+      "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/5fUZ0iHwxTT4nYyDPiiTEj"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "New Fascination",
+      "url": "https://open.spotify.com/track/5auSIzYp6kfcROMlApuji6"
     },
     {
       "album": {
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216281,
       "name": "One Bedroom Apartment",
       "url": "https://open.spotify.com/track/3mObCivWwBNhjGn1lNqtk2"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 216281,
       "name": "One Bedroom Apartment",
       "url": "https://open.spotify.com/track/6XEuXtDnH3s42tXRYdowaA"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 215261,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215261,
       "name": "Somebody's Watching You",
       "url": "https://open.spotify.com/track/2zz7F5w83J4MySb9RX8WWY"
@@ -1803,10 +1821,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357087,
       "name": "Tip Of The Flame - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/6ywx4XD9UL3FrllzCjaU0T"
+    },
+    {
+      "album": {
+        "name": "Tip of the Flame (12\u201d Disco Mix)",
+        "url": "https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357087,
+      "name": "Tip of the Flame - 12\u201d Disco Mix",
+      "url": "https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh"
     },
     {
       "album": {
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279231,
       "name": "Why I Came To California",
       "url": "https://open.spotify.com/track/1uRf4FaOO13JB4GNUXBk4A"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 279231,
       "name": "Why I Came To California",
       "url": "https://open.spotify.com/track/6Cspj0PvUy7ItIGrmrun3u"

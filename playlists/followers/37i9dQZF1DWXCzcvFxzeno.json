@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11376,
+  "2024-04-20": 11772,
   "date_first_scraped": "2024-04-11",
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08 Cover: Sara Landry",
   "name": "Hard Techno",
@@ -460,6 +460,24 @@
     },
     {
       "album": {
+        "name": "Do You Like It Fast? EP",
+        "url": "https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO"
+      },
+      "artists": [
+        {
+          "name": "Doruksen",
+          "url": "https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307215,
+      "name": "Do You Like It Fast?",
+      "url": "https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7"
+    },
+    {
+      "album": {
         "name": "R007",
         "url": "https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390500,
       "name": "ESSEM!NJO",
       "url": "https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t"
@@ -581,6 +599,28 @@
       "duration_ms": 244299,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ"
+    },
+    {
+      "album": {
+        "name": "Feed Me",
+        "url": "https://open.spotify.com/album/6yOVonhNTBzGyA0NAqmYxM"
+      },
+      "artists": [
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        },
+        {
+          "name": "BELLADONNA+",
+          "url": "https://open.spotify.com/artist/0NU5js8LDGTh6b1baG2fjl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210957,
+      "name": "Feed Me",
+      "url": "https://open.spotify.com/track/3J77QHm3P3yqdxWiKfVFG3"
     },
     {
       "album": {
@@ -941,7 +981,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296160,
       "name": "Hold Ud, Skat!",
       "url": "https://open.spotify.com/track/2V93YUfHy7HdfM050NYjo8"
@@ -1680,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Surpressed",
+        "url": "https://open.spotify.com/album/1aS4DylxClt4R6OBImXrYA"
+      },
+      "artists": [
+        {
+          "name": "2FEL",
+          "url": "https://open.spotify.com/artist/2YjhWg5nfeR14eUXqonx3x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404474,
+      "name": "Surpressed",
+      "url": "https://open.spotify.com/track/20xymtXyIesn1RnCdV4u39"
+    },
+    {
+      "album": {
         "name": "Swords EP",
         "url": "https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s"
       },
@@ -1713,7 +1771,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383167,
       "name": "Synthetic Dreams - Anetha Remix",
       "url": "https://open.spotify.com/track/5dDOtrnF2JQrr4yrD5SRdV"

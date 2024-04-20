@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 22379,
+  "2024-04-20": 22388,
   "date_first_scraped": "2024-03-23",
   "description": "Exitos de Selena para tu hora de karaoke",
   "name": "Selena Fiesta Karaoke",
   "tracks": [
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
     {
       "album": {
         "name": "Amor Prohibido",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172626,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J"
@@ -133,7 +151,7 @@
     {
       "album": {
         "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
@@ -146,25 +164,7 @@
       "date_removed": null,
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X"
-    },
-    {
-      "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "date_added": "2023-01-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247040,
-      "name": "Enamorada De Ti",
-      "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "album": {
@@ -179,7 +179,79 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/43q0J3OPQvNq2UPU2Enu9X"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/1RlWOGZLeP8snaG6auIysG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 247040,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/3eHbKczzbh0zH5olpTgfW8"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 247040,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r"
@@ -277,7 +349,7 @@
     {
       "album": {
         "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
@@ -288,6 +360,24 @@
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8"
@@ -331,7 +421,7 @@
     {
       "album": {
         "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
@@ -344,7 +434,7 @@
       "date_removed": null,
       "duration_ms": 167000,
       "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "album": {
@@ -359,7 +449,43 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4oM7ClXSB9DNmq83thDmXj"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227440,
+      "name": "Techno Cumbia",
+      "url": "https://open.spotify.com/track/2ZQB09LvHaOuMJBgCfOKHp"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 227440,
       "name": "Techno Cumbia",
       "url": "https://open.spotify.com/track/2tS0iNc2QTb3ADhlAydiDa"
@@ -402,8 +528,44 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5JW3G3mtErjiNi4WnvPo8Y"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193080,
+      "name": "T\u00fa, Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2jIki8qlEE6h4wyTkN2ExB"
+    },
+    {
+      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 148026,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/3tellijkXPMAj8XTfMsqKu"
       },
       "artists": [
         {
@@ -416,7 +578,7 @@
       "date_removed": null,
       "duration_ms": 148026,
       "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/0R4TBAYYSq1gdEvwNe9aex"
+      "url": "https://open.spotify.com/track/7t85GZHOZsSz8FIr9Gc5NM"
     },
     {
       "album": {

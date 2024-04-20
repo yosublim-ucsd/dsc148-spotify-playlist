@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to current Pakistani Hits\. 🇵🇰 Cover: Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,043 likes - 57 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,099 likes - 57 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 56 | [Hungama](https://open.spotify.com/track/3v2vP8uet5H9VFbrvXPQWX) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Hungama](https://open.spotify.com/album/2kgPco3xRTPR1xAOWFt20q) | 2:59 |
 | 57 | [Dil Diyan Gallan](https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [YRF Top 10 \- Falling in Love](https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp) | 4:20 |
 
-Snapshot ID: `MTcxMzUxMjcyOSwwMDAwMDAwMDZlMTRhMmVhM2NjMWRjMjAyNGM0YjEyZjU5ZDM1ZmNk`
+Snapshot ID: `MTcxMzU3NDgwMCwwMDAwMDAwMDk2YjY4M2JmMTQ4YzBiZDg5YmYwNWFiOTM1ZjY5ZTVi`

@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 357059,
+  "2024-04-20": 356951,
   "date_first_scraped": "2021-12-21",
-  "description": "For full-volume lovers, new and recent favorites. Cover: NOTHING MORE",
+  "description": "For full-volume lovers, new and recent favorites. Cover: Billy Morrison",
   "name": "Hard Rock",
   "tracks": [
     {
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 204378,
       "name": "10,000 Volts",
       "url": "https://open.spotify.com/track/36LNprdUkpqTHWGw0P3OoQ"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204378,
       "name": "10,000 Volts",
       "url": "https://open.spotify.com/track/4Nwb0EtFLdTDD1LYlWFeza"
@@ -415,10 +415,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337346,
       "name": "Allergic to Food",
       "url": "https://open.spotify.com/track/4DbjEk5eLEEqblC2RkLmFr"
+    },
+    {
+      "album": {
+        "name": "Allergic To Food",
+        "url": "https://open.spotify.com/album/27p11yPM2T8Defgt39gM4D"
+      },
+      "artists": [
+        {
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337346,
+      "name": "Allergic To Food",
+      "url": "https://open.spotify.com/track/6PW0oztSFitYKVfDqzzG6q"
     },
     {
       "album": {
@@ -863,7 +881,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 257969,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
@@ -1167,6 +1185,28 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "album": {
+        "name": "BLACKOUT feat. Danny Worsnop",
+        "url": "https://open.spotify.com/album/3JN1uFR87CPDIt4u4HkwPh"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        },
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157495,
+      "name": "BLACKOUT feat. Danny Worsnop",
+      "url": "https://open.spotify.com/track/3YAz4V7u4izaT6GiI0PTU9"
     },
     {
       "album": {
@@ -2063,10 +2103,28 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211720,
       "name": "Dark Matter",
       "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
     },
     {
       "album": {
@@ -3433,7 +3491,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Final Battle",
       "url": "https://open.spotify.com/track/3xhDrR777N1cyTqhPqMu8U"
@@ -3469,7 +3527,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153250,
       "name": "Finger",
       "url": "https://open.spotify.com/track/7DdB9aa1MDBtP5JgYMzVRl"
@@ -4264,6 +4322,24 @@
     },
     {
       "album": {
+        "name": "Electric Sounds (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2EGSqVHSkerUaQZ0KkJODJ"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169998,
+      "name": "Haunting Me - Bonus Track",
+      "url": "https://open.spotify.com/track/1Wyqyr7nNKFIsO6OzMsxFA"
+    },
+    {
+      "album": {
         "name": "Heart Astray",
         "url": "https://open.spotify.com/album/3cFvjKlsWB4e8JAd12mKJg"
       },
@@ -4423,7 +4499,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237859,
       "name": "Here And Now",
       "url": "https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g"
@@ -5387,7 +5463,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
@@ -5405,7 +5481,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
@@ -5755,7 +5831,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177316,
       "name": "Lately",
       "url": "https://open.spotify.com/track/0AC1yTsq1EwkiGTr7x1c1W"
@@ -5831,6 +5907,24 @@
       "duration_ms": 177656,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy"
+    },
+    {
+      "album": {
+        "name": "Mirror's Edge",
+        "url": "https://open.spotify.com/album/6WvjCUGtv2HTtBRfVqVEyq"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220280,
+      "name": "Let Me Disappear",
+      "url": "https://open.spotify.com/track/73Lomnc1LsYSkjRBuk0jQd"
     },
     {
       "album": {
@@ -6567,7 +6661,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 255725,
       "name": "Minerva",
       "url": "https://open.spotify.com/track/6vkpZc0eS9J6h6MUIePdbu"
@@ -6621,7 +6715,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192176,
       "name": "Misery",
       "url": "https://open.spotify.com/track/6gfUOprNMeD8amncMOSFl0"
@@ -7480,6 +7574,28 @@
     },
     {
       "album": {
+        "name": "Oh Well",
+        "url": "https://open.spotify.com/album/3DDmCdqJLOiK1ak8Ks8axQ"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
+    },
+    {
+      "album": {
         "name": "Oh Well feat. Chris Stapleton",
         "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
       },
@@ -7495,7 +7611,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273520,
       "name": "Oh Well feat. Chris Stapleton",
       "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
@@ -8597,7 +8713,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139432,
       "name": "Running",
       "url": "https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1"
@@ -8655,7 +8771,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201402,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/12D1KLVjHdKiAckFi6ZEP1"
@@ -10285,7 +10401,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227067,
       "name": "The Last Imagination",
       "url": "https://open.spotify.com/track/70vbbwbAEaWokZlGta6R8g"
@@ -10619,6 +10735,24 @@
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "album": {
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
+      },
+      "artists": [
+        {
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "album": {
@@ -11913,7 +12047,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
@@ -11931,7 +12065,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 174283,
       "name": "War",
       "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
@@ -12003,7 +12137,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231911,
       "name": "waste",
       "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
@@ -12281,7 +12415,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 148623,
       "name": "Where Are the Punks?!?!",
       "url": "https://open.spotify.com/track/2BwNxXx1tDpcA2btA89i6X"
@@ -12458,6 +12592,24 @@
     },
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
+    },
+    {
+      "album": {
         "name": "XOXO (feat. From Ashes to New)",
         "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
       },
@@ -12498,6 +12650,24 @@
     },
     {
       "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/04xaiP8wI1ldzp1LrBcLek"
+      },
+      "artists": [
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230124,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1BRayrsxaSwsIGn43iUxgZ"
+    },
+    {
+      "album": {
         "name": "Maybe In Another Life",
         "url": "https://open.spotify.com/album/3VSUMjz2mL2kIrlLek00PL"
       },
@@ -12509,7 +12679,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230124,
       "name": "You & I",
       "url": "https://open.spotify.com/track/45MaH3A5xJUx3wIDRty2eV"
@@ -12545,10 +12715,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316979,
       "name": "You And I",
       "url": "https://open.spotify.com/track/3vbUfrHlvij1EiBW2CgFEs"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/3dvHcc24AqV8VPjQ4n7H4I"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316979,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/6eRAg49UCwHqoRbUG9IYzr"
     },
     {
       "album": {
@@ -12665,6 +12853,32 @@
       "duration_ms": 214815,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/0LfSlWOS4TXJHOBZ7fPiNy"
+    },
+    {
+      "album": {
+        "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
+        "url": "https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
+      "url": "https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n"
     },
     {
       "album": {

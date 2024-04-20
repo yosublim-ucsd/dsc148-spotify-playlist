@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 254892,
+  "num_followers": 254916,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDBmNTUxZThlNTgzM2E3Y2MyZWQ0Njc5NTg0NGI5MTQ5",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGI3YzI3YTlmMzQ0MDFhMmQ3NGVjZjI5ODExYWJkZTFi",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3zcccQe4KhGXRqRBUwGU3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 191200,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3zcccQe4KhGXRqRBUwGU3G"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Mr. Cab Driver",
-      "url": "https://open.spotify.com/track/29SkFrotMPQH88drC646sy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 242440,
       "name": "5 More Days 'Til Summer",
       "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/29SkFrotMPQH88drC646sy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,170 likes - 74 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,178 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,16 +71,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 61 | [CINTIA](https://open.spotify.com/track/1mdLEPnJKh8crryVeyMDeV) | [Cozzy 2x](https://open.spotify.com/artist/6ocUlI712W2RjglxqYkuCM) | [CINTIA](https://open.spotify.com/album/0IR6a4Wn1VGCnvgkQMoMfl) | 2:49 |
 | 62 | [O Que Nós Fomos](https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [O Que Nós Fomos](https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ) | 2:38 |
 | 63 | [batom rosa](https://open.spotify.com/track/2i5tZzooStnLGv5lL3DLpy) | [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ) | [batom rosa](https://open.spotify.com/album/3jiCnCWy1K80ufnrRIyboo) | 2:24 |
-| 64 | [Rosalia](https://open.spotify.com/track/0UohedXCHetZXOiz2nnKpT) | [Puto X](https://open.spotify.com/artist/4nqjLdvE92ONNAFE68jE2N) | [Rosalia](https://open.spotify.com/album/0HUYB1ScJcUarBVDOkGI1Y) | 2:47 |
-| 65 | [Não Me Escondas Nada](https://open.spotify.com/track/3yD60vja3cPmuOK96uEEa2) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP) | [Não Me Escondas Nada](https://open.spotify.com/album/19EJRwNe2yfMAC2eQKyV1q) | 3:38 |
-| 66 | [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 |
-| 67 | [Dado](https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Dado](https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG) | 2:21 |
+| 64 | [Não Me Escondas Nada](https://open.spotify.com/track/3yD60vja3cPmuOK96uEEa2) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP) | [Não Me Escondas Nada](https://open.spotify.com/album/19EJRwNe2yfMAC2eQKyV1q) | 3:38 |
+| 65 | [Rosalia](https://open.spotify.com/track/0UohedXCHetZXOiz2nnKpT) | [Puto X](https://open.spotify.com/artist/4nqjLdvE92ONNAFE68jE2N) | [Rosalia](https://open.spotify.com/album/0HUYB1ScJcUarBVDOkGI1Y) | 2:47 |
+| 66 | [Dado](https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA) | [Sali](https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb) | [Dado](https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG) | 2:21 |
+| 67 | [Sonhos](https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Sonhos](https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb) | 3:12 |
 | 68 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 |
-| 69 | [Quero Ouvir](https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi) | [Xadrek Tchama](https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku) | [Quero Ouvir](https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p) | 2:55 |
-| 70 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 |
-| 71 | [Saudade](https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/6sNUelgfRXdVV76YIOuGzY) | 5:06 |
-| 72 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
-| 73 | [Impala](https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [Impala](https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys) | 3:00 |
-| 74 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
+| 69 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
+| 70 | [Impala](https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I), [Alex D'Alva](https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne) | [Impala](https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys) | 3:00 |
+| 71 | [PESSOAS MUDAM](https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X) | [Carlos Kendrick](https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH), [Raptorxy](https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [PESSOAS MUDAM](https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3) | 2:27 |
+| 72 | [Quero Ouvir](https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi) | [Xadrek Tchama](https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku) | [Quero Ouvir](https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p) | 2:55 |
+| 73 | [Volkswagen Antigo](https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu) | [t\. Policarpo](https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K) | [Volkswagen Antigo](https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu) | 2:37 |
+| 74 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 |
+| 75 | [TOU NA MESMA](https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [TOU NA MESMA](https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg) | 3:25 |
 
 Snapshot ID: `MTcxMzQ4MTIwMCwwMDAwMDAwMDRjNTJjYTA3MjY1NTMyYzQ4NWY3ZjFiMTVhOTI2OTc2`

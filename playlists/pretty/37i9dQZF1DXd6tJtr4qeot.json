@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 912796,
+  "num_followers": 912510,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -743,8 +743,8 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+        "name": "White Crosses",
+        "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
       },
       "artists": [
         {
@@ -752,25 +752,9 @@
           "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "The Best Of Goldfinger",
-        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+      "duration_ms": 195160,
+      "name": "I Was a Teenage Anarchist",
+      "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "The Best Of Goldfinger",
+        "url": "https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "Dude Ranch",
         "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
       },
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0"
+        "name": "Destruction By Definition",
+        "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
         }
       ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB"
+      "duration_ms": 123000,
+      "name": "New Girl",
+      "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
     }
   ],
   "unique_name": "Punk Essentials",

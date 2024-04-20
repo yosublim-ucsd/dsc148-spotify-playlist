@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3649,
+  "2024-04-20": 3656,
   "date_first_scraped": "2023-09-14",
   "description": "Tag your location, we shall pass by as we go around Africa",
   "name": "Drop Pin",
@@ -46,6 +46,28 @@
     },
     {
       "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236904,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/6uGY5bjd4Gxu5hJDJRcrYn"
+    },
+    {
+      "album": {
         "name": "Mama Africa (The Diary of an African Woman)",
         "url": "https://open.spotify.com/album/6rDmHNtB73R2i7jEf0BAY8"
       },
@@ -57,7 +79,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236826,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1RRoBxDDWuIhIrZ7T3JZCG"
@@ -75,7 +97,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 446266,
       "name": "Angola",
       "url": "https://open.spotify.com/track/4ie2Gi47TfHrlan7gcL5Fd"
@@ -93,7 +115,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 446266,
       "name": "Angola",
       "url": "https://open.spotify.com/track/52s4ni6wnfdVhVPFZBpvQW"
@@ -163,6 +185,24 @@
     {
       "album": {
         "name": "Luv Is God",
+        "url": "https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Malela",
+          "url": "https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224444,
+      "name": "Congo",
+      "url": "https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod"
+    },
+    {
+      "album": {
+        "name": "Luv Is God",
         "url": "https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ"
       },
       "artists": [
@@ -173,7 +213,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224444,
       "name": "Congo",
       "url": "https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy"
@@ -403,7 +443,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8"
@@ -425,7 +465,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195030,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
@@ -737,6 +777,24 @@
     {
       "album": {
         "name": "Runtown Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5LCydiDsNtJH6oxI57oy7h"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "Lagos to Kampala",
+      "url": "https://open.spotify.com/track/5gVcAwtySmuwkaaFamFzTR"
+    },
+    {
+      "album": {
+        "name": "Runtown Hits, Vol. 1",
         "url": "https://open.spotify.com/album/1UwIe4k1b9dC8BQTE4bcE0"
       },
       "artists": [
@@ -747,7 +805,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214230,
       "name": "Lagos to Kampala",
       "url": "https://open.spotify.com/track/6cA5pAyBrXFr5BzCUkEPUS"
@@ -791,6 +849,24 @@
     {
       "album": {
         "name": "Resistance Is Defence",
+        "url": "https://open.spotify.com/album/39hP4HL2FKhNFy8YeR6SRz"
+      },
+      "artists": [
+        {
+          "name": "Mzwakhe Mbuli",
+          "url": "https://open.spotify.com/artist/7twu9bUEN6yXIHUn1tLCRP"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415173,
+      "name": "Lusaka",
+      "url": "https://open.spotify.com/track/1BELwoaSOmh6YGb1qgwmpk"
+    },
+    {
+      "album": {
+        "name": "Resistance Is Defence",
         "url": "https://open.spotify.com/album/1e3jEC6NHIu0RrLmZjVoMU"
       },
       "artists": [
@@ -801,7 +877,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416066,
       "name": "Lusaka",
       "url": "https://open.spotify.com/track/1BYefIW1aQuAHA7m3CHe8k"
@@ -823,10 +899,32 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178586,
       "name": "Lusaka By Night",
       "url": "https://open.spotify.com/track/0hMPIEHcy0SLQ6uuG17hxJ"
+    },
+    {
+      "album": {
+        "name": "John Wizards",
+        "url": "https://open.spotify.com/album/17RTAHouHJi9YHwbXWanJs"
+      },
+      "artists": [
+        {
+          "name": "John Wizards",
+          "url": "https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK"
+        },
+        {
+          "name": "Nzaramba Jean Thierry (ras magic)",
+          "url": "https://open.spotify.com/artist/3zwWyzXGp0AUsL8iGosRgt"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Lusaka By Night",
+      "url": "https://open.spotify.com/track/1skcULZDguUhHKbHBiFVfQ"
     },
     {
       "album": {
@@ -1039,7 +1137,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 220310,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm"
@@ -1105,7 +1203,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220310,
       "name": "Nairobi (feat. Mejja)",
       "url": "https://open.spotify.com/track/5spupseGpHQqN1mXCvJQwU"
@@ -1123,10 +1221,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
     },
     {
       "album": {
@@ -1319,7 +1435,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
@@ -1349,7 +1465,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376078,
       "name": "Tanzania (feat. Sino Msolo and Boibizza)",
       "url": "https://open.spotify.com/track/4qm0rzVQA3kqQ0yA7LkuFK"
@@ -1429,7 +1545,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 176280,
       "name": "Zimbabwe",
       "url": "https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv"
@@ -1447,7 +1563,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176280,
       "name": "Zimbabwe",
       "url": "https://open.spotify.com/track/3oerlR534UFui3TItBwvlo"

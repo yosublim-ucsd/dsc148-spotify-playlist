@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 332964,
+  "2024-04-20": 332864,
   "date_first_scraped": "2021-12-28",
   "description": "Groove it to the biggest bangers of the decade. Cover - Tashan",
   "name": "00's Dance Bollywood",
@@ -421,10 +421,32 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288173,
       "name": "Banthan Ke",
       "url": "https://open.spotify.com/track/31s46jm2eDIZedlN3LphjF"
+    },
+    {
+      "album": {
+        "name": "Kurukshetra",
+        "url": "https://open.spotify.com/album/5RGJB0WxEjiyVEC8uFqNWy"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288173,
+      "name": "Banthan Ke",
+      "url": "https://open.spotify.com/track/4wgR8jjv934KJhvGq8EpYR"
     },
     {
       "album": {
@@ -709,10 +731,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192213,
       "name": "BoroBoro - Radio Edit",
       "url": "https://open.spotify.com/track/3lIeY717Kbj6FXVnUCmGhm"
+    },
+    {
+      "album": {
+        "name": "Bluff Master",
+        "url": "https://open.spotify.com/album/7wj01ky64xivWvl0D0sudK"
+      },
+      "artists": [
+        {
+          "name": "Robert Uhlmarash",
+          "url": "https://open.spotify.com/artist/2vqIWqdgT8Hgo1hVv69ilv"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "Bure Bure and Boro Boro",
+      "url": "https://open.spotify.com/track/0mtqO3R0H6iKpPeqWlrNYD"
     },
     {
       "album": {
@@ -1655,10 +1695,28 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397426,
       "name": "Ek Pal Ka Jeena",
       "url": "https://open.spotify.com/track/2YOEKFkS1IWFmZglZx2M3f"
+    },
+    {
+      "album": {
+        "name": "Kaho Naa Pyar Hai",
+        "url": "https://open.spotify.com/album/264pusO3nFbYtZC63kGoA7"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397426,
+      "name": "Ek Pal Ka Jeena",
+      "url": "https://open.spotify.com/track/5iwPZEPu8bxy1fAWnhYT7J"
     },
     {
       "album": {
@@ -1849,6 +1907,32 @@
     {
       "album": {
         "name": "Welcome",
+        "url": "https://open.spotify.com/album/34SE86n8INwLrMts8z1SaT"
+      },
+      "artists": [
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280241,
+      "name": "Hoth Rasiley",
+      "url": "https://open.spotify.com/track/5abF4FI366vQdn3ALwBmLS"
+    },
+    {
+      "album": {
+        "name": "Welcome",
         "url": "https://open.spotify.com/album/4a8DFO3D8w3FNkU65GgDMh"
       },
       "artists": [
@@ -1867,7 +1951,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280253,
       "name": "Hoth Rasiley",
       "url": "https://open.spotify.com/track/3izROWhLULvOpYLUB4Qj1P"
@@ -2070,6 +2154,28 @@
     },
     {
       "album": {
+        "name": "Bardaasht",
+        "url": "https://open.spotify.com/album/4sh5RQRxZ0ub7VYpJEmk13"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345506,
+      "name": "Janaabe Ali",
+      "url": "https://open.spotify.com/track/5hE0wVHGIp4NrqSAHsZegV"
+    },
+    {
+      "album": {
         "name": "Bardaasht (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/58tMeKb2C6MpSL8PLQmlfP"
       },
@@ -2085,7 +2191,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345506,
       "name": "Janaabe Ali",
       "url": "https://open.spotify.com/track/71pvMxq8FQBLlMkifES3U7"
@@ -3004,6 +3110,28 @@
     },
     {
       "album": {
+        "name": "Tumsa Nahin Dekha A Love Story",
+        "url": "https://open.spotify.com/album/0bxz6oakePyBITlK19LK2F"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351400,
+      "name": "Mujhe Tumse Mohabbat Hai",
+      "url": "https://open.spotify.com/track/0kfAR4X0jQfyXcUSieDmz7"
+    },
+    {
+      "album": {
         "name": "Tumsa Nahin Dekha - A Love Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3pa0FwkCEoV0pxPs8HzqDB"
       },
@@ -3019,7 +3147,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351400,
       "name": "Mujhe Tumse Mohabbat Hai",
       "url": "https://open.spotify.com/track/6eumVFuO7xizVEdpzAbwbB"

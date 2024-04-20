@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Prateeksha Srivastava
 
-556 songs - 1 day 6 hr 28 min
+557 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Maahi Dekhle](https://open.spotify.com/track/1nWJtWMjH82MLk3iduAi7N) | [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Maahi Dekhle](https://open.spotify.com/album/3fONz4jUEAG3k3BADifk88) | 3:10 | 2023-07-28 | 2023-09-09 |
 | [Maddham](https://open.spotify.com/track/4tYogjyp5Azr6Jyj5ERkam) | [Vibha Kale](https://open.spotify.com/artist/2nYV3AXefi8GgeP3aFFdCS), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Maddham](https://open.spotify.com/album/2Ka2P9lZXZFN7EP48dVLH0) | 3:09 | 2024-03-08 | 2024-04-19 |
 | [Main Awara](https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Main Awara](https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00) | 3:23 | 2023-10-13 | 2023-11-18 |
-| [Main Na Jaanu Kyu](https://open.spotify.com/track/3o9WNCC2eyne6YKbqbx2RX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 | 2024-04-19 |  |
+| [Main Na Jaanu Kyun](https://open.spotify.com/track/3o9WNCC2eyne6YKbqbx2RX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 | 2024-04-19 |  |
 | [Malang](https://open.spotify.com/track/3JXn6o57ji1yI7Z4wWkgAq) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Malang](https://open.spotify.com/album/2s42RPl40RVvukmXmS2F15) | 3:14 | 2023-09-29 | 2023-11-18 |
 | [Manchala Dil](https://open.spotify.com/track/11PfzQFrjRwud5F2iKMUML) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr), [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [women of the now](https://open.spotify.com/album/3Y18hVbUWUqG7hNkmR2e6A) | 3:21 | 2024-03-08 |  |
 | [Manchala Dil](https://open.spotify.com/track/5C7jIJjOMj5hoYtdhat31p) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [women of the now](https://open.spotify.com/album/5VNdGGPZYyvjx4rTpgdut0) | 3:21 | 2024-03-08 | 2024-04-19 |
@@ -471,6 +471,7 @@
 | [Stranger](https://open.spotify.com/track/165R9YK1GlzMz0rpYlryAD) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Stranger](https://open.spotify.com/album/6KQdptMId50MHGipHdmUgD) | 4:12 | 2024-03-22 |  |
 | [Sukoon](https://open.spotify.com/track/0DPMZ1I6H9X3LH7xzgmWLE) | [Paushali Sahu](https://open.spotify.com/artist/0Ju1DBpiRAxvhZ3XWlbLk1), [Shamik Guha Roy](https://open.spotify.com/artist/5rRYx2cnykcOnnzlLFsKXE), [Sushmita Chanda](https://open.spotify.com/artist/7nQLipmdgQfocJecH1CD5v) | [Sukoon](https://open.spotify.com/album/0IVa3rkLxqzAq0wZ085Fs4) | 3:12 | 2024-03-22 |  |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-22 | 2024-03-02 |
+| [Sun Bachhe](https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Sun Bachhe](https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3) | 3:07 | 2024-04-19 |  |
 | [Sun Beliya](https://open.spotify.com/track/4dIXexUt5xZfhf4f6lp90B) | [Deepshikha Raina](https://open.spotify.com/artist/65RSx9RT02eH4TvBKdeqBY) | [Sun Beliya](https://open.spotify.com/album/5e2Il2vYU1XJZ3Arsk1KLt) | 3:55 | 2023-09-15 | 2023-10-21 |
 | [Sun bhi ja](https://open.spotify.com/track/3w5nZYYT1NtwnPzhMYmZmW) | [Dhi Harmony](https://open.spotify.com/artist/3Thq0cpi3FinFQhr2d8EqY) | [Sun bhi ja](https://open.spotify.com/album/14weJ3nJ22lqH7P9mTdcDM) | 3:34 | 2023-08-25 | 2023-09-22 |
 | [Sun Zara](https://open.spotify.com/track/6ZzRPCSq03A3F76aWwZW7e) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Sun Zara](https://open.spotify.com/album/4t19xw7jTU7PDndlbPHz5F) | 2:30 | 2023-11-24 | 2023-12-16 |

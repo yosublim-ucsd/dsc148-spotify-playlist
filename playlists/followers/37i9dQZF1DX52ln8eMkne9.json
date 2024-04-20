@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 156326,
+  "2024-04-20": 156391,
   "date_first_scraped": "2022-01-01",
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
   "name": "Cozy Jazz",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 351680,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/11Ixvu6JuymPvgpOhQlR1M"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299213,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301320,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403702,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/0YDdl2NOJpGOCfUlJxo9K2"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 403702,
       "name": "Bewitched, Bothered and Bewildered",
       "url": "https://open.spotify.com/track/51SL2r0y3w73bK1iCvi2nN"
@@ -704,6 +704,28 @@
     },
     {
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/6UCYfwfmB0RH1bJNUwImba"
+      },
+      "artists": [
+        {
+          "name": "Ari Alexander",
+          "url": "https://open.spotify.com/artist/5TUPHEJx8yYHZvPg80482h"
+        },
+        {
+          "name": "Cecil Alexander",
+          "url": "https://open.spotify.com/artist/42oLcqYpvwyPY5BZO6oqfa"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293349,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/7oAwrxuYJeqVEHaWijmogp"
+    },
+    {
+      "album": {
         "name": "Neon Blue",
         "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
       },
@@ -737,7 +759,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252213,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH"
@@ -959,7 +981,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 238200,
       "name": "Cloudy Treasures",
       "url": "https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 150320,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7"
@@ -1043,7 +1065,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150320,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/4SWkITbLYU0altzaumIU79"
@@ -1135,7 +1157,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 178195,
       "name": "Dear December",
       "url": "https://open.spotify.com/track/5BfkVCI8z3idTK0IDjaW9u"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332120,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 331840,
       "name": "Dedicated to You",
       "url": "https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr"
@@ -1263,7 +1285,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350890,
       "name": "Dindi",
       "url": "https://open.spotify.com/track/7qNTlknMfHKgR6lrY8lzwU"
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 425960,
       "name": "Discord",
       "url": "https://open.spotify.com/track/05fIVYuCo163zqAl55l61i"
@@ -1309,21 +1331,13 @@
           "url": "https://open.spotify.com/artist/0yxQAcXH8zQuWLcouvUg7m"
         },
         {
-          "name": "Lauren Desberg",
-          "url": "https://open.spotify.com/artist/3TfaPPKGoRgvEHpsAM7f5J"
-        },
-        {
-          "name": "Kyle Athayde",
-          "url": "https://open.spotify.com/artist/0RzZX668EqWmLhtULOwDph"
-        },
-        {
-          "name": "Shelly Berg",
-          "url": "https://open.spotify.com/artist/4U9TSTlbklvLVHcwbSH7FP"
+          "name": "Lauren Desberg, Kyle Athayde, Shelly Berg",
+          "url": "https://open.spotify.com/artist/13m9eNdysWzsOViC9qL0jX"
         }
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 425960,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy"
@@ -1461,7 +1475,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 193255,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza"
@@ -1527,7 +1541,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 226474,
       "name": "Eat It Too",
       "url": "https://open.spotify.com/track/4as16KAbhjo5MPSo58ilez"
@@ -1545,7 +1559,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226474,
       "name": "Eat It Too",
       "url": "https://open.spotify.com/track/662ds07EcqLRr0x6FW0iJD"
@@ -1621,7 +1635,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240300,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7zPr0wXnW2zTeWA4MNxRQy"
@@ -1831,21 +1845,13 @@
         {
           "name": "Paul Motian",
           "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        },
-        {
-          "name": "Larry Grenadier",
-          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
         }
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 296066,
-      "name": "Folks Who Live On The Hill",
+      "name": "Folks Who Live on the Hill",
       "url": "https://open.spotify.com/track/1t0sRkXJIokqpl8tMVLtIW"
     },
     {
@@ -1861,7 +1867,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Fools Rush In",
       "url": "https://open.spotify.com/track/4dXLZtFAKOkbzLuMbkuyS4"
@@ -2109,7 +2115,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308817,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/13OsVT5orbu0nLcpsvJSVh"
@@ -2433,7 +2439,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366200,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/5JuynDUgSFwGcMwI6NLJMj"
@@ -2565,7 +2571,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139605,
       "name": "I'll Follow the Sun",
       "url": "https://open.spotify.com/track/15MQmdjAbibR5KXPx3ZHiY"
@@ -2583,7 +2589,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 139605,
       "name": "I'll Follow the Sun",
       "url": "https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN"
@@ -2695,7 +2701,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/2o67aDSZ2ZNbA7mYdknL2B"
@@ -2841,7 +2847,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221000,
       "name": "If It Was",
       "url": "https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA"
@@ -2893,7 +2899,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
       "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
@@ -3009,7 +3015,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 233800,
       "name": "In The Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/1vZmnsK0ovWKPykGvoet4t"
@@ -3027,7 +3033,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233800,
       "name": "In The Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/4wLtldLCB3w2xbj5Qr5lTS"
@@ -3163,7 +3169,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305538,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/0U7pO71aCMz226PxROBsoc"
@@ -3179,25 +3185,25 @@
           "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
         },
         {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+          "name": "Nick Tannura",
+          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
         },
         {
           "name": "John Chin",
           "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
         },
         {
-          "name": "Nick Tannura",
-          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
         }
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 305538,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/3NqvtPL7TUtlNXpypf0n0a"
@@ -3573,7 +3579,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 366177,
       "name": "Lost in a Dream",
       "url": "https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb"
@@ -3699,7 +3705,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264751,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt"
@@ -3761,7 +3767,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310275,
       "name": "May I Come In",
       "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
@@ -3813,6 +3819,40 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
+    },
+    {
+      "album": {
+        "name": "Introducing Irma Neum\u00fcller",
+        "url": "https://open.spotify.com/album/5gaQ9V9hoHGxxHnho6Y74w"
+      },
+      "artists": [
+        {
+          "name": "Irma Neum\u00fcller",
+          "url": "https://open.spotify.com/artist/12IgqUh5ZWPutziu3KFq4w"
+        },
+        {
+          "name": "Stefan Wingefors",
+          "url": "https://open.spotify.com/artist/1liam8bwvvXaHhAtjBBBC4"
+        },
+        {
+          "name": "Bo Nyg\u00e5rds",
+          "url": "https://open.spotify.com/artist/3BBzllaBTkBElB3EAIevP7"
+        },
+        {
+          "name": "Albin Halvordsson",
+          "url": "https://open.spotify.com/artist/3275AaFKPyK0QCVLYHraMv"
+        },
+        {
+          "name": "Johan L\u00f6fcrantz Ramsay",
+          "url": "https://open.spotify.com/artist/4KjT6YrRSQlJcj6YJuRZuy"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326880,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/7qIrOfSZUdi1lXqT7eqNpT"
     },
     {
       "album": {
@@ -4037,7 +4077,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249453,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/2CW9ojLmE3GM7h7xdfCXXb"
@@ -4095,7 +4135,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 193887,
       "name": "M\u00e9lusine",
       "url": "https://open.spotify.com/track/11xHFmZ9IuwLjciHW3alnF"
@@ -4273,7 +4313,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287836,
       "name": "Nightjar in the Northern Sky",
       "url": "https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez"
@@ -4353,7 +4393,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 464093,
       "name": "Ojos Cari\u00f1osos",
       "url": "https://open.spotify.com/track/0MJP086n8wHT0rrMNt9ag8"
@@ -4659,7 +4699,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 223624,
       "name": "Seconds and Circles",
       "url": "https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s"
@@ -4967,28 +5007,6 @@
     {
       "album": {
         "name": "Spring Can Really Hang You Up The Most",
-        "url": "https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        },
-        {
-          "name": "Carmen Staaf",
-          "url": "https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7"
-        }
-      ],
-      "date_added": "2022-03-31",
-      "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
-      "duration_ms": 358035,
-      "name": "Spring Can Really Hang You Up The Most",
-      "url": "https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6"
-    },
-    {
-      "album": {
-        "name": "Spring Can Really Hang You Up The Most",
         "url": "https://open.spotify.com/album/24yI5vwK7yTVV3nQxW6ukr"
       },
       "artists": [
@@ -5003,10 +5021,32 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358035,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/1FPkGG0wRGYM8zIXBwq99G"
+    },
+    {
+      "album": {
+        "name": "Spring Can Really Hang You Up The Most (feat. Carmen Staaf)",
+        "url": "https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Carmen Staaf",
+          "url": "https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358035,
+      "name": "Spring Can Really Hang You Up The Most (feat. Carmen Staaf)",
+      "url": "https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6"
     },
     {
       "album": {
@@ -5209,7 +5249,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
@@ -5411,7 +5451,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333346,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/2XTmKUTBP5L8YhHbGM7vw3"
@@ -5429,7 +5469,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 333346,
       "name": "The Nearness of You",
       "url": "https://open.spotify.com/track/3jriW0LRM69w3dW7TK3TtS"
@@ -5715,7 +5755,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403864,
       "name": "There's No Business Like Show Business",
       "url": "https://open.spotify.com/track/5GAEzszwgvp1xxCyFyNE2U"
@@ -5975,7 +6015,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
@@ -6211,7 +6251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
@@ -6229,7 +6269,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284426,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
@@ -6491,7 +6531,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 305546,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4gzBrWc5wahvkagtUfQnCE"
@@ -6521,7 +6561,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271000,
       "name": "With You",
       "url": "https://open.spotify.com/track/1dfNHO9qYZWCHJTg3MHRfD"
@@ -6617,7 +6657,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258863,
       "name": "You Fascinate Me So",
       "url": "https://open.spotify.com/track/4U4GeHxfnBnVFEUINkrfZn"
@@ -6715,7 +6755,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"

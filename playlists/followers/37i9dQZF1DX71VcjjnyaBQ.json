@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 399861,
+  "2024-04-20": 399789,
   "date_first_scraped": "2022-01-01",
   "description": "Jazz for breakfast to start your day right.",
   "name": "Good Morning Jazz",
@@ -71,10 +71,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258906,
       "name": "A.M. Hours",
       "url": "https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG"
+    },
+    {
+      "album": {
+        "name": "A.M. Hours",
+        "url": "https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9"
+      },
+      "artists": [
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "A.M. Hours",
+      "url": "https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW"
     },
     {
       "album": {
@@ -228,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Ask Me Now",
+        "url": "https://open.spotify.com/album/77LSpK2AcfgsWmHdHmZWCj"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        },
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339500,
+      "name": "Ask Me Now",
+      "url": "https://open.spotify.com/track/0Qm0L18LAmHX7Pza1iMBul"
+    },
+    {
+      "album": {
         "name": "Alligator Bogaloo",
         "url": "https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX"
       },
@@ -311,7 +351,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8"
@@ -329,7 +369,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 337573,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/1UjY15XsU2SYyaHflOxknJ"
@@ -561,7 +601,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3"
@@ -579,7 +619,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268915,
       "name": "central park west",
       "url": "https://open.spotify.com/track/5jPy6437F28samqS2tJu7n"
@@ -683,7 +723,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 277968,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI"
@@ -705,7 +745,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277968,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/7IYXZHYRWyhaKwoZGHckkM"
@@ -777,7 +817,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324696,
       "name": "Dardanella",
       "url": "https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G"
@@ -849,7 +889,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223453,
       "name": "Dave",
       "url": "https://open.spotify.com/track/0NHnOig4DwclyoFDqPjCkh"
@@ -867,7 +907,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223453,
       "name": "Dave",
       "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
@@ -885,7 +925,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 319346,
       "name": "Days To Come",
       "url": "https://open.spotify.com/track/36FutgZrDCTw1n7FC3MFgJ"
@@ -1081,7 +1121,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318464,
       "name": "Fan\u00f8lyng",
       "url": "https://open.spotify.com/track/6Brlcuqm8bgTTo5oongQqT"
@@ -1271,7 +1311,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298423,
       "name": "Ginge",
       "url": "https://open.spotify.com/track/1zNREutkA7aZBqWGqMgl29"
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298423,
       "name": "Ginge",
       "url": "https://open.spotify.com/track/6Ul6eEs8cUsugmbdDmEi6h"
@@ -1409,7 +1449,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181928,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
@@ -1427,7 +1467,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 181928,
       "name": "Hope",
       "url": "https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH"
@@ -1619,7 +1659,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244218,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
@@ -1755,6 +1795,24 @@
     {
       "album": {
         "name": "Sun of June",
+        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/12OrCaKyaaigMeFxCsHqxV"
+    },
+    {
+      "album": {
+        "name": "Sun of June",
         "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
       "artists": [
@@ -1765,7 +1823,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306086,
       "name": "Let Me Take You for a Walk",
       "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
@@ -1805,7 +1863,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 321800,
       "name": "Little Bird of Passage",
       "url": "https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub"
@@ -1827,7 +1885,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322434,
       "name": "Little Bird of Passage",
       "url": "https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI"
@@ -2209,7 +2267,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 257829,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/4tW55Nq7uPwHkYWqNx8e6t"
@@ -2311,7 +2369,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
@@ -2341,7 +2399,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
@@ -2575,7 +2633,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 255746,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0TRD3w799Q6W1omTkLZPTi"
@@ -2685,7 +2743,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360680,
       "name": "Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",
       "url": "https://open.spotify.com/track/3ONFcrwlLYLUZBPh0WSD6q"
@@ -2733,7 +2791,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 317112,
       "name": "Root of the Matter",
       "url": "https://open.spotify.com/track/08N0F5H3AsH3w0kh8qeBry"
@@ -2773,6 +2831,36 @@
       "duration_ms": 208880,
       "name": "Sconsolato",
       "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
+    },
+    {
+      "album": {
+        "name": "Sheikh Ali",
+        "url": "https://open.spotify.com/album/4sdIATsvxo60JFkZDIqz0Y"
+      },
+      "artists": [
+        {
+          "name": "Yes! Trio",
+          "url": "https://open.spotify.com/artist/2EzdAl58y2F3EYDlAYsBGL"
+        },
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        },
+        {
+          "name": "Omer Avital",
+          "url": "https://open.spotify.com/artist/1ibLgDTHZc1KCkLPfOQr2g"
+        },
+        {
+          "name": "Ali Jackson",
+          "url": "https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269680,
+      "name": "Sheikh Ali",
+      "url": "https://open.spotify.com/track/0qfLFTSg1J0PuBQbUnXNNy"
     },
     {
       "album": {
@@ -2983,7 +3071,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215200,
       "name": "Spring of Life",
       "url": "https://open.spotify.com/track/1jfeTu7iQd0vhGSXJ1FEjw"
@@ -3027,7 +3115,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 329333,
       "name": "Strange Flower",
       "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
@@ -3053,7 +3141,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329333,
       "name": "Strange Flower",
       "url": "https://open.spotify.com/track/5yXxlQuUaPjIrHe3e6QKrb"
@@ -3111,7 +3199,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
@@ -3133,7 +3221,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c"
@@ -3337,7 +3425,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-06",
+      "date_removed": null,
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
@@ -3355,7 +3443,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375267,
       "name": "The Starter",
       "url": "https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c"
@@ -3399,7 +3487,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 359982,
       "name": "Theo",
       "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
@@ -3699,7 +3787,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
@@ -3841,7 +3929,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ"

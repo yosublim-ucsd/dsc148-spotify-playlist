@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-602 songs - 1 day 14 hr 25 min
+604 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Nocturne, Op\. 9, No\. 2](https://open.spotify.com/track/7vX2i1uAx7v80ffXu0jV1i) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Luna](https://open.spotify.com/album/2iKeXCLFndoxnXqpBEVbmd) | 4:24 | 2023-09-29 | 2023-10-25 |
 | [Nocturnes, Op\. 32: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/3RvexCDfYTRsgCT0ARvQjU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 32: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/3iBfUE6leu0JLP8zpPhr1N) | 2:45 | 2024-03-19 |  |
 | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/19URJzQHLZGf3TbfKSsN3D) | 5:17 | 2024-04-05 |  |
+| [Nocturnes, Op\. 62: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/2NS85cYgltENgdfA6Pq7un) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 62: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/5Qz7MbOHUXBTgZqs30l4gH) | 2:59 | 2024-04-19 |  |
 | [Northern Lights](https://open.spotify.com/track/7AjSqbKL46pYaJ7zvTEwJZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:55 | 2023-10-24 | 2024-01-16 |
 | [Northern Lights](https://open.spotify.com/track/6J5eKdQ9OSQgNU8CwCYKKf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Northern Lights](https://open.spotify.com/album/6EiZ39h2r2MJd7j0ndVzIp) | 2:55 | 2023-09-29 |  |
 | [Nuit de Noël, BV 251](https://open.spotify.com/track/08W8ycrzrMhEPz38qMIkdH) | [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Fantasia](https://open.spotify.com/album/2V8cMstD77Xc9d7kyMbdBu) | 4:30 | 2023-09-29 | 2024-02-24 |
@@ -408,6 +409,7 @@
 | [Respiro 1](https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Respiro 1](https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL) | 3:01 | 2023-09-29 | 2023-10-25 |
 | [Respiro 3](https://open.spotify.com/track/15y6K1TTpceurenY3mnIcD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Respiro 3](https://open.spotify.com/album/12H3VCzTH2Y4IqFTaoBTpf) | 2:38 | 2024-02-23 |  |
 | [Reverie](https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 1:44 | 2022-11-11 | 2022-11-30 |
+| [Rhapsody on a Theme of Paganini](https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Classic II](https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE) | 2:49 | 2024-04-19 |  |
 | [Rituals of Peace](https://open.spotify.com/track/4Bs4Rmrbp2gnbWjN2SLdfW) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The Depths of Winter](https://open.spotify.com/album/4esowhE2QG5btJkM1blB31) | 3:05 | 2024-02-23 |  |
 | [River](https://open.spotify.com/track/2vlU7VlHAh5mjC3VRYHBGK) | [Chloe Flower](https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ) | [River](https://open.spotify.com/album/2vVgYbEnLW2qWHq6DqgYrr) | 3:27 | 2023-10-24 |  |
 | [River Flows in You](https://open.spotify.com/track/2xCtrN9PYxH6WIOUj06jM6) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [River Flows in You](https://open.spotify.com/album/0qm31sUHZyO7i2SJg7bojq) | 3:00 | 2022-09-25 | 2023-04-22 |

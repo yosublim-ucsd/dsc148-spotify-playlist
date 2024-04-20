@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21949,
+  "2024-04-20": 21963,
   "date_first_scraped": "2022-08-24",
   "description": "Enjoy music from \"BORUTO\"! / \u97f3\u697d\u3067\u8fbf\u308b\u300cBORUTO-\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS\u300d\u306e\u4e16\u754c\u3002 \u00a9\u5cb8\u672c\u6589\u53f2 \u30b9\u30b3\u30c3\u30c8\uff0f\u96c6\u82f1\u793e\u30fb\u30c6\u30ec\u30d3\u6771\u4eac\u30fb\u3074\u3048\u308d",
   "name": "BORUTO-\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217700,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R"
@@ -223,6 +223,24 @@
       "duration_ms": 217700,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/1iZeVXwYthcY3HWarxbXNb"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5ZWCH7ZaHbqcV8lvdyGNxV"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217700,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/3g7Fpu5Ii99ZfR4JytRSeI"
     },
     {
       "album": {

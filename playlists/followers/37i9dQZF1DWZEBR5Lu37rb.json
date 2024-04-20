@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 57568,
+  "2024-04-20": 57660,
   "date_first_scraped": "2022-08-06",
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
   "name": "100 Best African Love Songs ",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322093,
       "name": "Akanamali",
       "url": "https://open.spotify.com/track/0gKL5HGvDcDwSbfFO2Rmaw"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260413,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/5qJpQEJKN2lvm0szJhyvdz"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 276480,
       "name": "Donobi",
       "url": "https://open.spotify.com/track/1GBw2foMNXUBa2IelAtkSy"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/2r4GUjWmfz5xth28hb7a6G"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 325433,
       "name": "Liwa Lentliziyo",
       "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 426746,
       "name": "Mayine",
       "url": "https://open.spotify.com/track/7fFCetN4cwF4gWKIqfOFNZ"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 286511,
       "name": "Mfalme Wa Mapenzi",
       "url": "https://open.spotify.com/track/7hpbqHv9BMeGK7jDLEX58q"
@@ -2080,6 +2080,28 @@
     },
     {
       "album": {
+        "name": "My Baby",
+        "url": "https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
+    },
+    {
+      "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
       },
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190000,
       "name": "My Baby (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue"
@@ -2381,7 +2403,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217826,
       "name": "Ngihamba Nawe (feat. Sino Msolo)",
       "url": "https://open.spotify.com/track/2CwdybIv41798ez0XbGqh5"
@@ -3321,7 +3343,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191245,
       "name": "Running (To You)",
       "url": "https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X"
@@ -3761,7 +3783,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227225,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/0ueve4XwLCFcb9loSoUZZ5"
@@ -3783,7 +3805,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 229407,
       "name": "Take it Slow",
       "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
@@ -3903,7 +3925,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241813,
       "name": "Thandiwe - R&B Version",
       "url": "https://open.spotify.com/track/6bWraWLrdHShq4ExQRaEUk"
@@ -3939,7 +3961,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223480,
       "name": "The One",
       "url": "https://open.spotify.com/track/3nQoMGK9Cv6ABozLip2Oil"
@@ -4249,7 +4271,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ"
@@ -4275,7 +4297,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"

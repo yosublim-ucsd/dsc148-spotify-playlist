@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2337,
+  "2024-04-20": 2352,
   "date_first_scraped": "2024-02-20",
   "description": "Unwind to some chilled and cozy acoustic Afropop jams",
   "name": "Afro Acoustic",
@@ -79,10 +79,32 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191170,
       "name": "Be Honest (feat. Burna Boy) (acoustic)",
       "url": "https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6rr0eXdvaplCmUWqT1t1Dp"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191170,
+      "name": "Be Honest - Acoustic",
+      "url": "https://open.spotify.com/track/7bDCBn5W4rLCQAJiUAymCk"
     },
     {
       "album": {
@@ -296,6 +318,24 @@
     },
     {
       "album": {
+        "name": "i'm a mess (stripped version)",
+        "url": "https://open.spotify.com/album/3SMofVKK1uWJZ5fkv1EIpK"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "i'm a mess (stripped version)",
+      "url": "https://open.spotify.com/track/6YddVDwlm4iVb3XZfmxZXc"
+    },
+    {
+      "album": {
         "name": "i'm a mess (stripped)",
         "url": "https://open.spotify.com/album/5Lr6mYqzGlUk9G4aPAetVk"
       },
@@ -307,7 +347,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153250,
       "name": "i'm a mess - stripped",
       "url": "https://open.spotify.com/track/1JiFcq82Ktk47AKbWkx434"

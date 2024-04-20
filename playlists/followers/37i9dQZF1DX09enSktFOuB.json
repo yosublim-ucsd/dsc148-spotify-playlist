@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 98733,
+  "2024-04-20": 98767,
   "date_first_scraped": "2022-05-30",
   "description": "Best Love songs, Before Anything Else\nCover : Don",
   "name": "Tamil BAE",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304920,
       "name": "Aathi",
       "url": "https://open.spotify.com/track/0KSyqMfLSkElsnT25mQc2i"
@@ -47,7 +47,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 304923,
       "name": "Aathi (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240169,
       "name": "High on Love",
       "url": "https://open.spotify.com/track/0zDmCKN7OlRmNmeiiJAyOR"
@@ -557,17 +557,13 @@
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Yuvan Shankar Raja,Sid Sriram",
+          "url": "https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV"
         }
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 240169,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP"
@@ -631,17 +627,13 @@
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sivakarthikeyan",
-          "url": "https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr"
+          "name": "Anirudh Ravichander,Sivakarthikeyan",
+          "url": "https://open.spotify.com/artist/5xGPyWPyErihkDugkWY68m"
         }
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 229431,
       "name": "Im So Cool",
       "url": "https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT"
@@ -667,7 +659,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229431,
       "name": "Im so cool (From \"Kaaki Sattai\")",
       "url": "https://open.spotify.com/track/6gMjxhc1h8ovswPwKKBsw9"
@@ -829,7 +821,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325253,
       "name": "Kannum Kannum",
       "url": "https://open.spotify.com/track/42AfGpnwmz05M3SQ41Wp6Y"
@@ -915,7 +907,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325000,
       "name": "Kannum Kannum",
       "url": "https://open.spotify.com/track/5FF8zFVcdfylo72ANbh9wV"
@@ -1085,7 +1077,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189724,
       "name": "Mayakirriye",
       "url": "https://open.spotify.com/track/23netDpLwSCf0IxldbbMuF"
@@ -1107,7 +1099,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189724,
       "name": "Mayakirriye",
       "url": "https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba"
@@ -1325,28 +1317,6 @@
     {
       "album": {
         "name": "Kavan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Sudarshan Ashok",
-          "url": "https://open.spotify.com/artist/0qx1y97ZpKS4VydjUGN0Rp"
-        }
-      ],
-      "date_added": "2022-05-10",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
-      "duration_ms": 274114,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m"
-    },
-    {
-      "album": {
-        "name": "Kavan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2xe8UP9JCeVFeprWWuQJFh"
       },
       "artists": [
@@ -1361,10 +1331,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274114,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4fOd87EwMLT1YlIKas0Zz3"
+    },
+    {
+      "album": {
+        "name": "Kavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha,Sudarshan Ashok",
+          "url": "https://open.spotify.com/artist/5Uj9KvhWJBUZQpuTeHslo9"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274114,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m"
     },
     {
       "album": {
@@ -1401,7 +1389,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258359,
       "name": "Pakkam Vanthu",
       "url": "https://open.spotify.com/track/2mo1jyrYHdyiekQHNKXx1C"
@@ -1423,7 +1411,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 256372,
       "name": "Pakkam Vanthu (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/73QrFjT6dth8UlR7vFOFVM"
@@ -1545,7 +1533,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/3c6Y3iJr3bm6utsdRcm30J"
@@ -1571,7 +1559,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli"
@@ -1689,7 +1677,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293000,
       "name": "Selfie Pulla",
       "url": "https://open.spotify.com/track/5xwM2yTshGrx5azFpwIkgG"
@@ -1733,7 +1721,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 291002,
       "name": "Selfie Pulla (From \"Kaththi\")",
       "url": "https://open.spotify.com/track/2sFMEMDRDoqnc0dJWZzkK8"
@@ -1887,7 +1875,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
@@ -1923,7 +1911,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"

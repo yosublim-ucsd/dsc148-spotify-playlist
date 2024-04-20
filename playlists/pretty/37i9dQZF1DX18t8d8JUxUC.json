@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Kevin Kaarl",
-  "num_followers": 21429,
+  "num_followers": 21442,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
         "name": "Violet",
         "url": "https://open.spotify.com/album/5hUBJd7VEVWEbsugJLTU9G"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 196333,
       "name": "Found Love",
       "url": "https://open.spotify.com/track/06bP5fBUljQLN6GPEMpiFr"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -771,34 +771,18 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
         }
       ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA"
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -835,6 +819,22 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/5P9dzJUu1kWSXVQmwkGPdA"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
+        "name": "Mi Otra Mitad",
+        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 244515,
+      "name": "A las 9:05",
+      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
         "name": "Nuez",
         "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Mi Otra Mitad",
-        "url": "https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3"
+        "name": "hastalamadre",
+        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
       },
       "artists": [
         {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        },
+        {
+          "name": "Andr\u00e9 Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
         }
       ],
-      "duration_ms": 244515,
-      "name": "A las 9:05",
-      "url": "https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW"
+      "duration_ms": 235966,
+      "name": "hastalamadre",
+      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -971,26 +991,6 @@
       "duration_ms": 295787,
       "name": "Remedios",
       "url": "https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
-        "name": "hastalamadre",
-        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Andr\u00e9 Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "hastalamadre",
-      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
+      },
+      "artists": [
+        {
+          "name": "Ayzak Ewan",
+          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
+        }
+      ],
+      "duration_ms": 231878,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
-        "name": "Extra\u00f1os",
-        "url": "https://open.spotify.com/album/1xVFra112Tpaamfi9g1ppn"
-      },
-      "artists": [
-        {
-          "name": "Ayzak Ewan",
-          "url": "https://open.spotify.com/artist/38ClJp3sUSm3Fa0aLbegSl"
-        }
-      ],
-      "duration_ms": 231878,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/205CEw5i9TT3SFpVChCaNq"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
+        "name": "Escuchado",
+        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/37lyc3kkBpFuTUw6hacBIE"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
-        "name": "Escuchado",
-        "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 218533,
       "name": "Aguaceros",
       "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Instantes y Aullidos",
-        "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
+        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
       },
       "artists": [
         {
-          "name": "Tom\u00e1s del Real",
-          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
         }
       ],
-      "duration_ms": 300114,
-      "name": "Instantes y Aullidos",
-      "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+      "duration_ms": 235531,
+      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1491,34 +1491,34 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
+        "name": "Instantes y Aullidos",
+        "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
       },
       "artists": [
         {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+          "name": "Tom\u00e1s del Real",
+          "url": "https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v"
         }
       ],
-      "duration_ms": 235531,
-      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
+      "duration_ms": 300114,
+      "name": "Instantes y Aullidos",
+      "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
     },
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+        "name": "Prender\u00e9 Una Velita",
+        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
         }
       ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+      "duration_ms": 195335,
+      "name": "Tranquilo, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
     },
     {
       "added_at": "2024-04-11 22:06:21",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Uno De Nosotros",
-        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
-      },
-      "artists": [
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
-    },
-    {
-      "added_at": "2024-04-11 22:06:21",
-      "album": {
         "name": "Mi otra mitad",
         "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
       },
@@ -1587,18 +1571,34 @@
     {
       "added_at": "2024-04-11 22:06:21",
       "album": {
-        "name": "Prender\u00e9 Una Velita",
-        "url": "https://open.spotify.com/album/3aUvCwP3iJtMUjv1nZr1SI"
+        "name": "Uno De Nosotros",
+        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
       },
       "artists": [
         {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
         }
       ],
-      "duration_ms": 195335,
-      "name": "Tranquilo, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/26TvgqWxboqekdtCmqt28q"
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
+    },
+    {
+      "added_at": "2024-04-11 22:06:21",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2024-04-11 22:06:21",

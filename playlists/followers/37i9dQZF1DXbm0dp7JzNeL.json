@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 213040,
+  "2024-04-20": 213051,
   "date_first_scraped": "2022-04-19",
   "description": "Take comfort in these melancholy masterpieces.",
   "name": "Sad Classical",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147093,
       "name": "A Sparrow Alighted upon our Shoulder",
       "url": "https://open.spotify.com/track/1G2mAZQL8xfy9wRqC6fY6K"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147093,
       "name": "A Sparrow Alighted upon our Shoulder",
       "url": "https://open.spotify.com/track/4ycGyVS3kyKxGqUiGuOVmt"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 442893,
       "name": "Crisantemi",
       "url": "https://open.spotify.com/track/541xQgpeXQOsw696DYlXn5"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442903,
       "name": "Crisantemi",
       "url": "https://open.spotify.com/track/3IF1MADibUuhBurWIirpqn"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423220,
       "name": "Elegy (In Memoriam Stephen Lawrence)",
       "url": "https://open.spotify.com/track/2NPERMJL4FtHLyM47ORbjx"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 423220,
       "name": "Elegy (In Memoriam Stephen Lawrence)",
       "url": "https://open.spotify.com/track/52hHlP0sXRrpVPOHWzJhto"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 455466,
       "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin for Cello Ensemble)",
       "url": "https://open.spotify.com/track/4WyfQ9OavlPgFqiaV1sy8V"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 455466,
       "name": "El\u00e9gie in C Minor, Op. 24 (Arr. Parkin)",
       "url": "https://open.spotify.com/track/4QfYHdV8hMoyS9qKUct98q"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195154,
       "name": "Filma Solo",
       "url": "https://open.spotify.com/track/4SsDrt7HV1ECcJ2A7EHfLL"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195154,
       "name": "Filma Solo",
       "url": "https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160453,
       "name": "Glass: Truman Sleeps (\"The Truman Show\")",
       "url": "https://open.spotify.com/track/6LmLH4PpmQLhXSefqIPNHA"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 97520,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/2mZzobMVnCqPKojqhmVEZw"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97525,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/5sMDXxLIQtunE7QQ0rYQPn"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153213,
       "name": "Musica Universalis",
       "url": "https://open.spotify.com/track/3SbWH8MplM5UGGc6FEbfiI"
@@ -1161,10 +1161,32 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153213,
       "name": "Musica Universalis",
       "url": "https://open.spotify.com/track/5SVREz8DArhqLzhkFQbVoW"
+    },
+    {
+      "album": {
+        "name": "Study: 111 Morceaux Classiques Pour Travailler (French)",
+        "url": "https://open.spotify.com/album/4dJLlMtkbfnYxqJU1Ef1CA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332154,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/2zVNx2StK7G8Ip1ilWhlAk"
     },
     {
       "album": {
@@ -1183,7 +1205,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334053,
       "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
       "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
@@ -1212,28 +1234,6 @@
     },
     {
       "album": {
-        "name": "Study: 111 Morceaux Classiques Pour Travailler (French)",
-        "url": "https://open.spotify.com/album/4dJLlMtkbfnYxqJU1Ef1CA"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "date_added": "2021-10-18",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 332154,
-      "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/2zVNx2StK7G8Ip1ilWhlAk"
-    },
-    {
-      "album": {
         "name": "Bia\u0142a flaga",
         "url": "https://open.spotify.com/album/5pba4FjOiX0lPgJfthxBiC"
       },
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 431160,
       "name": "Odchodz\u0105c",
       "url": "https://open.spotify.com/track/6Qme8DrbvQFDn2lTjGakLn"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431449,
       "name": "Odchodz\u0105c - Remastered 2021",
       "url": "https://open.spotify.com/track/6KrYbAmoNnTEffv42nhToI"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 371746,
       "name": "On the Nature of Daylight",
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 371746,
       "name": "On The Nature Of Daylight",
       "url": "https://open.spotify.com/track/5DFUsGW4Cmltv8Spd0u1aV"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 411386,
       "name": "St. Matthew Passion, BWV 244 / Part Two: No. 39 Aria: \"Erbarme dich\" (Arr. For Oboe d\u2019amore, Violin, Strings And Continuo)",
       "url": "https://open.spotify.com/track/2ACoNCyn81EFcK2HEKBujL"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 405573,
       "name": "St. Matthew Passion, BWV 244 / Part Two: No.39 Aria: \"Erbarme dich\" (Arr. For Oboe d\u2019amore, Violin, Strings And Continuo)",
       "url": "https://open.spotify.com/track/4eUrGbTmY6XMhxrwwKt6I7"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160453,
       "name": "The Truman Show: Truman Sleeps - Short Version",
       "url": "https://open.spotify.com/track/3x5paczEO2SQyOVAcHpLGa"
@@ -1910,12 +1910,12 @@
         },
         {
           "name": "Phantasm",
-          "url": "https://open.spotify.com/artist/11Bs9ajBLOhJZvoEgcreha"
+          "url": "https://open.spotify.com/artist/3GaBdSCZghGSD6CZMayUeK"
         }
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 126915,
       "name": "Vater unser im Himmelreich, BWV 737",
       "url": "https://open.spotify.com/track/0f5UNUbq6UbJSlVuNoRxS2"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126915,
       "name": "Vater unser im Himmelreich, BWV 737",
       "url": "https://open.spotify.com/track/3NJJJRLkjIjSqY7JDRtqQe"
@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Vespers (All-Night Vigil), Op.37: 5. \"Nyne otpushchayeshi\"",
       "url": "https://open.spotify.com/track/50wcwAi80QpFCaHgX2RkdY"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Vespers, Op. 37: V. \"Nyne otpushchayeshi\"",
       "url": "https://open.spotify.com/track/7gNjN3VnFJ7Sa9upbGsNd9"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266805,
       "name": "\u00d6ldur\u00f3t",
       "url": "https://open.spotify.com/track/6lv4VwLZsI4pBcBj19cudZ"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268773,
       "name": "\u00d6ldur\u00f3t - Island Songs IV",
       "url": "https://open.spotify.com/track/7gOi88gP4o1uv1kaL02yBB"

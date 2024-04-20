@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> SANTA au top des 50 hits de variété française du moment.
+> "Recommence\-moi" de SANTA est le Grand Hit de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,007 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,008 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 |
 | 50 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 |
 
-Snapshot ID: `MTcxMzQ3NzYwMCwwMDAwMDAwMDg4OThlMzdmNDg3ZGQyMjk2MWUzM2FlMzE2ZjQ3MjQw`
+Snapshot ID: `MTcxMzUxOTgzNCwwMDAwMDAwMGEyZjU4ZWIwY2FhNGM0NGMwMTYxYTVlNjQ3MWJjMjEy`

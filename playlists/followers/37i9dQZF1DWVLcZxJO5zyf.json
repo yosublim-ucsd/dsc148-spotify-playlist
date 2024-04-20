@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2409965,
+  "2024-04-20": 2405196,
   "date_first_scraped": "2022-01-18",
   "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT",
   "name": "Pop Brasil",
@@ -95,7 +95,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
@@ -2443,6 +2443,24 @@
     {
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166059,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3TcOev4DIiI9dSxuNteYPO"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
       },
       "artists": [
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166059,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/7lqxgpVTIeUq2XLrYToRk7"
@@ -2909,7 +2927,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136744,
       "name": "MAMACITA (remix)",
       "url": "https://open.spotify.com/track/14QHVQzAYENQ4BZSDjuyez"
@@ -2931,18 +2949,32 @@
         {
           "name": "Karol Conk\u00e1",
           "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
         }
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 136744,
       "name": "MAMACITA (remix)",
       "url": "https://open.spotify.com/track/1a2Bj6LIrpIE5gwmKqEFZv"
+    },
+    {
+      "album": {
+        "name": "MAR\u00c9",
+        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168650,
+      "name": "MAR\u00c9",
+      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
     },
     {
       "album": {
@@ -3931,7 +3963,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145421,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/4xvFxV5ji9jCtDHTfiNyg3"

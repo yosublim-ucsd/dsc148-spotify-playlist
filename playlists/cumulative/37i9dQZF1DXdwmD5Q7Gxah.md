@@ -4,7 +4,7 @@
 
 > maybe it does all come back around\. LAUNDRY DAY is back 😎
 
-2,730 songs - 6 day 3 hr 5 min
+2,731 songs - 6 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-01-07 | 2022-04-09 |
 | [Angel](https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU) | 3:56 | 2022-05-31 | 2022-06-22 |
 | [Angel \(From Barbie The Album\)](https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Angel \(From Barbie The Album\)](https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V) | 2:03 | 2023-06-09 | 2023-08-16 |
+| [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-19 |  |
 | [ANGEL FANGS](https://open.spotify.com/track/08qb0NthjRwcBNe7sa0cDR) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [ANGEL FANGS](https://open.spotify.com/album/4dG9qANfO7RSd9pU8xUlUs) | 2:17 | 2020-07-31 | 2020-09-10 |
 | [Angel Landing](https://open.spotify.com/track/1ri3NFmrk6qbTMAHZGJhSg) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Angel Landing](https://open.spotify.com/album/6O95QXgfXKDbt3qxfTdaO4) | 3:52 | 2020-10-30 | 2020-12-04 |
 | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/track/6CSTneaZKWmtPzZcLfSstQ) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [ANGELA \(feat\. Jimi Somewhere\)](https://open.spotify.com/album/598OcPPCVwE5jK68mTOGNX) | 3:09 | 2023-01-20 | 2023-02-16 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 285562,
+  "2024-04-20": 285273,
   "date_first_scraped": "2022-11-24",
   "description": "'Tis the season to enjoy these classic Christmas songs for the whole family.",
   "name": "Holiday Magic",
@@ -53,10 +53,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics Featuring Rudolph The Red-Nosed Reindeer, Frosty The Snowman & The Little Drummer Boy",
+        "url": "https://open.spotify.com/album/2i9W1XdzepsyFq3DkqXXzy"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134733,
+      "name": "A Holly Jolly Christmas - Single Version",
+      "url": "https://open.spotify.com/track/5NJ8M8qilAzKVNOcjXfTJb"
     },
     {
       "album": {
@@ -133,10 +151,32 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
+        "name": "Home Alone - Soundtrack",
+        "url": "https://open.spotify.com/album/2qjtiv4C6EHH9GKkWzzgxe"
+      },
+      "artists": [
+        {
+          "name": "Peter J. Wilhousky",
+          "url": "https://open.spotify.com/artist/5iA5RZI1NApzshkyUEUnaa"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85026,
+      "name": "Carol of the Bells - Voice",
+      "url": "https://open.spotify.com/track/7a8FwfEPX4fPZjB8JytSWG"
     },
     {
       "album": {
@@ -187,7 +227,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139760,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP"
@@ -209,6 +249,24 @@
       "duration_ms": 139760,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/6CT7ZQKVafBZjCOCafy5Ad"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas 25th Anniversary",
+        "url": "https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139893,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t"
     },
     {
       "album": {
@@ -353,10 +411,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68760,
       "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/6XodQl1BPzs13GY61iXQv7"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69440,
+      "name": "Deck The Hall - Remastered 1999",
+      "url": "https://open.spotify.com/track/6AIwxfDjCkkdlRt2Avn7cE"
     },
     {
       "album": {
@@ -544,6 +620,36 @@
     },
     {
       "album": {
+        "name": "Power To The People - The Hits",
+        "url": "https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "The Harlem Community Choir",
+          "url": "https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy"
+        },
+        {
+          "name": "The Plastic Ono Band",
+          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
+    },
+    {
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -559,7 +665,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -678,6 +784,24 @@
     },
     {
       "album": {
+        "name": "I Want a Hippopotamus for Christmas",
+        "url": "https://open.spotify.com/album/2Wn2kmWpJAOTo74JD4uz7X"
+      },
+      "artists": [
+        {
+          "name": "Gayla Peevey",
+          "url": "https://open.spotify.com/artist/1suIIDedjFJRuu8k7b55hZ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157693,
+      "name": "I Want a Hippopotamus for Christmas",
+      "url": "https://open.spotify.com/track/6j2akxiVPZ4bhRQzLV3cZA"
+    },
+    {
+      "album": {
         "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
         "url": "https://open.spotify.com/album/0nuyFYoBsK4Z1j3DimhUZ4"
       },
@@ -689,7 +813,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155466,
       "name": "I Want a Hippopotamus for Christmas (Hippo the Hero)",
       "url": "https://open.spotify.com/track/5P8Xvy5tzhmfyfA6GplQ8h"
@@ -1126,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "A Charlie Brown Christmas (Remastered & Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4"
       },
@@ -1137,7 +1279,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq"
@@ -1155,10 +1297,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170293,
       "name": "One More Sleep \u2019til Christmas",
       "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
+    },
+    {
+      "album": {
+        "name": "The Muppets Christmas Carol",
+        "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0OXv85XDQx5BnJ1dRBbFHd"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/6nNHbIrWaGOyRm2xMoD5GB"
     },
     {
       "album": {
@@ -1234,6 +1394,24 @@
     },
     {
       "album": {
+        "name": "Rockin' Little Christmas",
+        "url": "https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164573,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy"
+    },
+    {
+      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -1245,7 +1423,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -1343,6 +1521,24 @@
     {
       "album": {
         "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364160,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV"
+    },
+    {
+      "album": {
+        "name": "Give Love At Christmas",
         "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
       },
       "artists": [
@@ -1353,7 +1549,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365720,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
@@ -1598,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Together - John Denver & The Muppets",
+        "url": "https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263946,
+      "name": "Twelve Days Of Christmas",
+      "url": "https://open.spotify.com/track/604DTaRINInOPt26OBBNU6"
+    },
+    {
+      "album": {
         "name": "A Christmas Together",
         "url": "https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW"
       },
@@ -1613,7 +1827,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263946,
       "name": "Twelve Days Of Christmas",
       "url": "https://open.spotify.com/track/72BraAeVGy3b1fg9GHs7sI"
@@ -1638,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Together - John Denver & The Muppets",
+        "url": "https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65346,
+      "name": "We Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/6h3MR7BSXsxUgypreO85Mp"
+    },
+    {
+      "album": {
         "name": "A Christmas Together",
         "url": "https://open.spotify.com/album/6PHcSJ2860KNPMhguTlqaW"
       },
@@ -1653,10 +1885,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 65346,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/0Xrev0e2wVRSkq84SJiEMg"
+    },
+    {
+      "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/0zdNmxXNCOFIFsTpJ4Q6uq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV"
     },
     {
       "album": {
@@ -1689,7 +1939,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147800,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe"
@@ -1825,10 +2075,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+    },
+    {
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version",
+      "url": "https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD"
     },
     {
       "album": {

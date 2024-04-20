@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1056465,
+  "2024-04-20": 1056000,
   "date_first_scraped": "2022-01-02",
   "description": "\u00c9xitos del Trap Latino. Foto: Peso Pluma y Arc\u00e1ngel ",
   "name": "TRAPPERZ",
@@ -1174,6 +1174,44 @@
     },
     {
       "album": {
+        "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
+        "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284308,
+      "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",
+      "url": "https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq"
+    },
+    {
+      "album": {
         "name": "Despues Siempre Es Tarde",
         "url": "https://open.spotify.com/album/6yiDOMUgSUUVoh5waZ8LJ4"
       },
@@ -1615,7 +1653,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191999,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i"
@@ -1633,7 +1671,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192001,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
@@ -2341,7 +2379,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 213892,
       "name": "don't liE",
       "url": "https://open.spotify.com/track/6e46jZKoeaOCShrVJK1XzN"
@@ -2385,7 +2423,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213892,
       "name": "don't liE",
       "url": "https://open.spotify.com/track/7wX28pRv3sTqA1EdjlFkkj"
@@ -4313,7 +4351,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 276933,
       "name": "KILOS X UBER",
       "url": "https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77"
@@ -4343,7 +4381,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276933,
       "name": "KILOS X UBER",
       "url": "https://open.spotify.com/track/4tfe2AWDf1Bv0ifmAMTpT4"
@@ -4361,7 +4399,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
@@ -4379,7 +4417,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225906,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
@@ -4957,7 +4995,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
@@ -4987,7 +5025,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346460,
       "name": "Loca Remix",
       "url": "https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM"
@@ -5501,7 +5539,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325265,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv"
@@ -5535,7 +5573,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326936,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
@@ -6569,7 +6607,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163946,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/6gtkvCyKoInwxcrxMrkTPh"
@@ -7249,7 +7287,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355795,
       "name": "PASIEMPRE",
       "url": "https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd"
@@ -7287,7 +7325,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 355795,
       "name": "PASIEMPRE",
       "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
@@ -7726,6 +7764,32 @@
     },
     {
       "album": {
+        "name": "Que Brille Sola Mami",
+        "url": "https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195004,
+      "name": "Que Brille Sola Mami",
+      "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
+    },
+    {
+      "album": {
         "name": "Que Cojones",
         "url": "https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh"
       },
@@ -7923,7 +7987,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
@@ -7941,7 +8005,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
@@ -9317,7 +9381,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214125,
       "name": "T\u00fa No Lo Amas",
       "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
@@ -9335,7 +9399,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214125,
       "name": "T\u00fa No Lo Amas",
       "url": "https://open.spotify.com/track/5Wr2fVAVxcEfFwvJhIInH7"
@@ -9489,7 +9553,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 161606,
       "name": "VIBRANDO ALTO",
       "url": "https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu"
@@ -9511,7 +9575,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161606,
       "name": "VIBRANDO ALTO",
       "url": "https://open.spotify.com/track/7rBe1bOi4uR0Vy7AwpRDpZ"

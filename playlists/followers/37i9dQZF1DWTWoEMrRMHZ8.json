@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 346486,
+  "2024-04-20": 346000,
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Joyce Alane",
+  "description": "As belas novidades da MPB. Foto: Roberta Campos, George Israel",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -217,7 +217,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 225119,
       "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225119,
       "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/2fXKPSSyVCJDXyd8konNLO"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
@@ -2662,6 +2662,24 @@
     },
     {
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
+      },
+      "artists": [
+        {
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Clube",
+      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
+    },
+    {
+      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -2845,6 +2863,24 @@
       "duration_ms": 192634,
       "name": "Come\u00e7a Tudo Outra Vez",
       "url": "https://open.spotify.com/track/5MsC8UmSVSZiwjwndj3APV"
+    },
+    {
+      "album": {
+        "name": "como anda vc?",
+        "url": "https://open.spotify.com/album/15oBLYyaixTAaOXdFXj9wA"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00e3o",
+          "url": "https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162402,
+      "name": "como anda vc?",
+      "url": "https://open.spotify.com/track/1UjTUHboHZ5g5Ar54hw5Fa"
     },
     {
       "album": {
@@ -4792,6 +4828,24 @@
     },
     {
       "album": {
+        "name": "No Rastro de Catarina",
+        "url": "https://open.spotify.com/album/4gYVttpxy9hYycFdT3uaWI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1tia de Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240822,
+      "name": "F\u00eanix",
+      "url": "https://open.spotify.com/track/4d3UkxDzBK91Q9Lb2G2Y5o"
+    },
+    {
+      "album": {
         "name": "Garimpo Yanomami",
         "url": "https://open.spotify.com/album/1KSbTEA7WprLbK7tyotUCA"
       },
@@ -5361,7 +5415,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177546,
       "name": "Jardins Da Babil\u00f4nia",
       "url": "https://open.spotify.com/track/6hiez1vBKYqDdPKCQOIEg0"
@@ -5951,7 +6005,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk"
@@ -5973,7 +6027,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
@@ -7065,7 +7119,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198489,
       "name": "Nesse Exato Momento",
       "url": "https://open.spotify.com/track/14xmrNJaDnnx7PbNzRltgX"
@@ -7985,7 +8039,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198506,
       "name": "O QUE EXISTE \u00c9 O AGORA",
       "url": "https://open.spotify.com/track/7yqGbzywtjCDOvsYz6hl5D"
@@ -8087,6 +8141,24 @@
       "duration_ms": 161357,
       "name": "O Velho e a Flor",
       "url": "https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5"
+    },
+    {
+      "album": {
+        "name": "O Vento",
+        "url": "https://open.spotify.com/album/40Rsk68l9BWUbTqlbZKJH7"
+      },
+      "artists": [
+        {
+          "name": "Boca Livre",
+          "url": "https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214992,
+      "name": "O Vento",
+      "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
     },
     {
       "album": {
@@ -10159,7 +10231,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 207240,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/5reRLMr3vjzCCpZZmZ63eC"
@@ -10181,7 +10253,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207375,
       "name": "Redescobrir",
       "url": "https://open.spotify.com/track/6535UwR6A0VkwXqnrDJgG9"
@@ -10229,7 +10301,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
@@ -10251,7 +10323,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/7Lk11taa1HND86DbUk1zB5"
@@ -10894,6 +10966,28 @@
     },
     {
       "album": {
+        "name": "SEGUNDA OU TER\u00c7A",
+        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Carvalho",
+          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
+        },
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228231,
+      "name": "SEGUNDA OU TER\u00c7A",
+      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
+    },
+    {
+      "album": {
         "name": "Sem Dist\u00e2ncia",
         "url": "https://open.spotify.com/album/0aZJB8qJBHBysRpneM2LUD"
       },
@@ -11039,6 +11133,28 @@
       "duration_ms": 194056,
       "name": "Sentido da Vida",
       "url": "https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE"
+    },
+    {
+      "album": {
+        "name": "Julia Mestre - PP sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZdKE5ACOcTVPq8qouvpuJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Patching Plants",
+          "url": "https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272469,
+      "name": "sentimento blues - PP sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0teSCqkAu773AAo2G5MVII"
     },
     {
       "album": {
@@ -11741,7 +11857,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
@@ -11763,7 +11879,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
@@ -12195,6 +12311,32 @@
       "duration_ms": 258000,
       "name": "TRANQUILA & MENININHA",
       "url": "https://open.spotify.com/track/7MgiDQwJnVtq6cqZGTSRbJ"
+    },
+    {
+      "album": {
+        "name": "Transborda",
+        "url": "https://open.spotify.com/album/5cHD61LinisVOeEBAUsRvX"
+      },
+      "artists": [
+        {
+          "name": "Joe Caetano",
+          "url": "https://open.spotify.com/artist/0hUnMWEMD2Om6juG3dBJTE"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177674,
+      "name": "Transborda",
+      "url": "https://open.spotify.com/track/3YyiXT3hT1SgyrO7sJESE4"
     },
     {
       "album": {

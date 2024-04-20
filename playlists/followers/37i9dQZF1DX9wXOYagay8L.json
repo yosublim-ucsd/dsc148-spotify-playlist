@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 139749,
+  "2024-04-20": 139709,
   "date_first_scraped": "2021-12-29",
   "description": "Proudly South African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=9FQZqrCVRby-kTUgFQTi2Q\">Mlindo The Vocalist</a>",
   "name": "Made In South Africa",
@@ -83,7 +83,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253651,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/0XAgk6dckPxMguoTubbuO5"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 253651,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/6s1k8Ry40znPtEb9ijOlnw"
@@ -2369,7 +2369,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127800,
       "name": "Free",
       "url": "https://open.spotify.com/track/5T9CAx0lK25jCTj7LRAjHL"
@@ -5339,7 +5339,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189629,
       "name": "Lufana Nolwandle",
       "url": "https://open.spotify.com/track/66jiH5IOcPDgaMipu6yuNX"
@@ -5357,7 +5357,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 189629,
       "name": "Lufana Nolwandle",
       "url": "https://open.spotify.com/track/6cgO4fRCk50vakbdTycVOC"
@@ -8053,6 +8053,52 @@
       "duration_ms": 265531,
       "name": "Pula",
       "url": "https://open.spotify.com/track/7MvlJ8CAeoNuTnJgmiGcYV"
+    },
+    {
+      "album": {
+        "name": "Push Push (feat. Nomfundo Moh, Leverage, Bobo Jay Nzima, Starr Healer, Thando Zide)",
+        "url": "https://open.spotify.com/album/7kITSYRzkAJs4YDPmQJ9hv"
+      },
+      "artists": [
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Nontokozo Mkhize",
+          "url": "https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H"
+        },
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        },
+        {
+          "name": "Bobo Jay Nzima",
+          "url": "https://open.spotify.com/artist/1D0i8SNNKxHHf4EhuKNQsE"
+        },
+        {
+          "name": "Leverage",
+          "url": "https://open.spotify.com/artist/2dq9tKlKAPKrdyGYW1ptO3"
+        },
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Starr Healer",
+          "url": "https://open.spotify.com/artist/64SCkKgvQjmX6p6tpYcefT"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/2EhCXqQCZ3VJIcK0N0eK9s"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349213,
+      "name": "Push Push (feat. Nomfundo Moh, Leverage, Bobo Jay Nzima, Starr Healer, Thando Zide)",
+      "url": "https://open.spotify.com/track/5Appa9ILagoOCDK4bEas2L"
     },
     {
       "album": {
@@ -10927,7 +10973,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/09zHC0CNGuWQ1ot7WhzwKJ"
@@ -10953,7 +10999,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 288052,
       "name": "Uyangijabulisa",
       "url": "https://open.spotify.com/track/3RmhsiQszFnnixoOrLznAN"

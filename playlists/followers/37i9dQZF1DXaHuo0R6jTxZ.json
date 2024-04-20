@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 103133,
+  "2024-04-20": 103027,
   "date_first_scraped": "2022-05-13",
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
   "name": "90s Arabic Hits",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 325120,
       "name": "Ah Yalali",
       "url": "https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277026,
       "name": "Ahl El Malama",
       "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193375,
       "name": "Al Yadi El Yadi",
       "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 242369,
       "name": "Asheq",
       "url": "https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285893,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 285960,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225346,
       "name": "El Ayam El Helwa",
       "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 344137,
       "name": "El Hob El Ha2e2y",
       "url": "https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267106,
       "name": "Habiby Da",
       "url": "https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315612,
       "name": "Lail Wa Raed Wa Reeh",
       "url": "https://open.spotify.com/track/0J49Oq7Y8O4CSbdZeEVSBT"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 214573,
       "name": "Lola El Saher",
       "url": "https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe"
@@ -764,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Ahla Al Oyoun",
+        "url": "https://open.spotify.com/album/49HOHWIjVZyho0BzVDGm39"
+      },
+      "artists": [
+        {
+          "name": "Assi El Hallani",
+          "url": "https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322600,
+      "name": "Maly saber",
+      "url": "https://open.spotify.com/track/5zhLUKNhIJaB6am3QWam7y"
+    },
+    {
+      "album": {
         "name": "Marasil",
         "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
       },
@@ -779,6 +797,24 @@
       "duration_ms": 309942,
       "name": "Marasil",
       "url": "https://open.spotify.com/track/3HwYcquGa3CkKV5ysbCz9l"
+    },
+    {
+      "album": {
+        "name": "Shoak El Sahari",
+        "url": "https://open.spotify.com/album/0ZHYxNFHpbc0SXF406j1VO"
+      },
+      "artists": [
+        {
+          "name": "Assi El Hallani",
+          "url": "https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308626,
+      "name": "Methl El Kezbeh",
+      "url": "https://open.spotify.com/track/609a0YjFOZ9A98gMcOx9fC"
     },
     {
       "album": {
@@ -865,7 +901,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273106,
       "name": "Nour El Chams",
       "url": "https://open.spotify.com/track/6aza2wOUMcyM46Jx4aFHeH"
@@ -919,7 +955,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259613,
       "name": "Sahrany",
       "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
@@ -959,6 +995,24 @@
       "duration_ms": 350800,
       "name": "Sallimleh Alayh",
       "url": "https://open.spotify.com/track/2gVHZ9GmBjUX76jaI2syD7"
+    },
+    {
+      "album": {
+        "name": "Tabeeb Garah",
+        "url": "https://open.spotify.com/album/6VSuFGL5meqF4bv0W47h8P"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381200,
+      "name": "Tabeeb Garah",
+      "url": "https://open.spotify.com/track/27vSNs5MfGcC7q8kMJtnZA"
     },
     {
       "album": {
@@ -1016,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "Ya Alby",
+        "url": "https://open.spotify.com/album/5WzH9MSuo5vX7CUDMHcU37"
+      },
+      "artists": [
+        {
+          "name": "Amer Mounib",
+          "url": "https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237815,
+      "name": "Ya Alby",
+      "url": "https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK"
+    },
+    {
+      "album": {
         "name": "Hayel",
         "url": "https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW"
       },
@@ -1027,7 +1099,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 232986,
       "name": "Ya Khsartaq Ya Alby",
       "url": "https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm"
@@ -1045,7 +1117,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 260167,
       "name": "Ya Leila Disco",
       "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
@@ -1099,7 +1171,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333557,
       "name": "Ya Tara",
       "url": "https://open.spotify.com/track/1qzVBmXs4OeL8nwl7bZIMf"
@@ -1135,7 +1207,7 @@
       ],
       "date_added": "2021-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "Yabo Khad",
       "url": "https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y"
@@ -1207,10 +1279,28 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381200,
       "name": "\u0637\u0628\u064a\u0628 \u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/73Qln2DC1UheLEv1b08Fd7"
+    },
+    {
+      "album": {
+        "name": "\u062a\u064a\u0643\u064a \u062a\u0627",
+        "url": "https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI"
+      },
+      "artists": [
+        {
+          "name": "Talaat Zain",
+          "url": "https://open.spotify.com/artist/361np6UFfeQfVBjYoB3cwA"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244706,
+      "name": "\u0641\u0627\u0636\u0644 \u0627\u064a\u0647",
+      "url": "https://open.spotify.com/track/7gxYjbdGWDKZRi5E1HfScd"
     },
     {
       "album": {
@@ -1243,7 +1333,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308626,
       "name": "\u0645\u062a\u0644 \u0627\u0644\u0643\u0630\u0628\u0629",
       "url": "https://open.spotify.com/track/0nUsStTuR6rl5epa8kquud"

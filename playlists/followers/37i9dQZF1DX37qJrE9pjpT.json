@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2610,
+  "2024-04-20": 2612,
   "date_first_scraped": "2022-10-01",
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Country Wizzy",
   "name": "Bongo Bars",
@@ -115,7 +115,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200275,
       "name": "All on me",
       "url": "https://open.spotify.com/track/5OHsQBkjTliOsXMtXblj7m"
@@ -145,6 +145,24 @@
       "duration_ms": 191294,
       "name": "Atakuoa Nani",
       "url": "https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro"
+    },
+    {
+      "album": {
+        "name": "Bachela",
+        "url": "https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO"
+      },
+      "artists": [
+        {
+          "name": "Nay Wa Mitego",
+          "url": "https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229407,
+      "name": "Bachela",
+      "url": "https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4"
     },
     {
       "album": {
@@ -229,6 +247,32 @@
       "duration_ms": 185077,
       "name": "Banyamulenge",
       "url": "https://open.spotify.com/track/522dMvpymut4pfbyneraOe"
+    },
+    {
+      "album": {
+        "name": "Bibi Titi",
+        "url": "https://open.spotify.com/album/79arQ73MXkLG1Qa0UrNs2Q"
+      },
+      "artists": [
+        {
+          "name": "Msamiati",
+          "url": "https://open.spotify.com/artist/6YyGxYGoIIVFgX3oDboF2A"
+        },
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        },
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Bibi Titi",
+      "url": "https://open.spotify.com/track/2aoSJFc9xdhUnJK2CnSiqc"
     },
     {
       "album": {
@@ -385,7 +429,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136855,
       "name": "Bondeni Freestyle",
       "url": "https://open.spotify.com/track/1wkRgjYqeFSvfF1wyrlPAk"
@@ -673,7 +717,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142603,
       "name": "DYNASTY",
       "url": "https://open.spotify.com/track/65ArM3nIpk0YcJHiuAPjCy"
@@ -731,7 +775,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176923,
       "name": "Find you a Place / Safehouse",
       "url": "https://open.spotify.com/track/3ofbT62Ef6nMtPRRhbnHkZ"
@@ -1207,7 +1251,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182231,
       "name": "Khali champlin/KASUKU",
       "url": "https://open.spotify.com/track/6OoNk1BMjQ8v7urbPgLdkJ"
@@ -1648,6 +1692,28 @@
     },
     {
       "album": {
+        "name": "MoroBuzz - Kora Hill",
+        "url": "https://open.spotify.com/album/0iyO9qAPpWz8ITuRtxsNr5"
+      },
+      "artists": [
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        },
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "MoroBuzz - Kora Hill.wav",
+      "url": "https://open.spotify.com/track/2c0PQu7DbBkdtugnJwGZp1"
+    },
+    {
+      "album": {
         "name": "MoroBuzz - Masika",
         "url": "https://open.spotify.com/album/6ASpevrvKJvzlcGcl37mqE"
       },
@@ -2083,6 +2149,52 @@
       "duration_ms": 122136,
       "name": "OWN BO$$",
       "url": "https://open.spotify.com/track/67oXagPoTbm4XivSJ17MIx"
+    },
+    {
+      "album": {
+        "name": "Oyaah Mzee",
+        "url": "https://open.spotify.com/album/3d882qIA2AiFkMo5q3MPOh"
+      },
+      "artists": [
+        {
+          "name": "Manengo",
+          "url": "https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS"
+        },
+        {
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "Hanstone",
+          "url": "https://open.spotify.com/artist/2oprqQoJj0EhyCxy60ufdN"
+        },
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4GLSJqWjO11YaQXWJmWisl"
+        },
+        {
+          "name": "Stamina Shorwebwenzi",
+          "url": "https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV"
+        },
+        {
+          "name": "Frida Amani",
+          "url": "https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU"
+        },
+        {
+          "name": "P Mawenge",
+          "url": "https://open.spotify.com/artist/6McmD7aGRlEnhQnHfR0ZmC"
+        },
+        {
+          "name": "Nacha",
+          "url": "https://open.spotify.com/artist/6vs2JKdlVLKV6S8HOpvQPx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318666,
+      "name": "Oyaah Mzee",
+      "url": "https://open.spotify.com/track/3mROEEmw1oz7X29S7KMSZ5"
     },
     {
       "album": {
@@ -3127,6 +3239,24 @@
       "duration_ms": 214335,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/3Loia1cYk1tBvYFFb9nNvS"
+    },
+    {
+      "album": {
+        "name": "Way Back (Refix)",
+        "url": "https://open.spotify.com/album/2WJRTwesazwP7iwnhfnSrU"
+      },
+      "artists": [
+        {
+          "name": "FreshBoys",
+          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158208,
+      "name": "Way Back (Refix)",
+      "url": "https://open.spotify.com/track/3SprIdI5ZCIZRD2OQEOibh"
     },
     {
       "album": {

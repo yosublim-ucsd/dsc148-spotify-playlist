@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3870,
+  "2024-04-20": 3870,
   "date_first_scraped": "2022-05-26",
   "description": "Progressive beats and harmonies for the late hours.",
   "name": "Night Vision",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 88000,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/1nDI1QsLeGKrsuj9U9maRZ"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 88000,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/2cnvKdleVx4A22mJo9nLvn"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212527,
       "name": "Bonzai View",
       "url": "https://open.spotify.com/track/5qhfbZ9QWxujhlokGPPY4C"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 212527,
       "name": "Bonzai View",
       "url": "https://open.spotify.com/track/6fQByeRUNdzB9g1dU5RvcK"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221129,
       "name": "Chandler",
       "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221129,
       "name": "Chandler",
       "url": "https://open.spotify.com/track/5iRwSWZwwpfDXL33Z7BYAA"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 234066,
       "name": "Hang Glide",
       "url": "https://open.spotify.com/track/0XbdhHYvrfmUeMd6NaCfmN"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234066,
       "name": "Hang Glide",
       "url": "https://open.spotify.com/track/5oQf54oJ9Syx0SM5utTsbl"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246000,
       "name": "Joyful Resistance Part I",
       "url": "https://open.spotify.com/track/7CoBYgLvKvGn6p4ywPslVY"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Joyful Resistance Part I",
       "url": "https://open.spotify.com/track/7zN0QWpTE8SMnmowkg6x2h"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389693,
       "name": "Miles Deep",
       "url": "https://open.spotify.com/track/18OP3a6pS4Xeqy0r6hbqxN"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 389693,
       "name": "Miles Deep",
       "url": "https://open.spotify.com/track/3NstAPM2r3xsGHAhN7ty8p"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 313608,
       "name": "No Doubt",
       "url": "https://open.spotify.com/track/21X6PB7zwUpMYxytJponCE"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313608,
       "name": "No Doubt",
       "url": "https://open.spotify.com/track/4YCFMXMgNgU8pkMx3ZJiZa"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128000,
       "name": "Poetic Imagination",
       "url": "https://open.spotify.com/track/6UoItFuOtFnVdATgW8YGfr"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Poetic Imagination",
       "url": "https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 191344,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191344,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244612,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/0AXP131uI9Fs1f1upBFuPW"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244612,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/2ZbKwtl0g3JVDDuLIzcCUP"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/5iehZDjs2sn4Z4FbgDjNpQ"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87076,
       "name": "UHHH",
       "url": "https://open.spotify.com/track/1xgdTvPbscOAIvJnBomt2y"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 87076,
       "name": "UHHH",
       "url": "https://open.spotify.com/track/4qb7gDVi5je7MLDCRClqmX"

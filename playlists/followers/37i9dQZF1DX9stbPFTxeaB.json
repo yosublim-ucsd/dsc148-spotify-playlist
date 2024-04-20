@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 839365,
+  "2024-04-20": 838303,
   "date_first_scraped": "2021-12-21",
   "description": "Blues, but funky. Or funk, but bluesy. Cover: Kenny Wayne Shepherd",
   "name": "Funky Heavy Bluesy",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 181218,
       "name": "Any Way The Wind Blows",
       "url": "https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181218,
       "name": "Any Way the Wind Blows",
       "url": "https://open.spotify.com/track/6b3AxcFd30h4dx7nPXraRF"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234133,
       "name": "Before You Hit The Ground",
       "url": "https://open.spotify.com/track/4akqDi0F86Avv9yhujAk9P"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234426,
       "name": "Before You Hit The Ground",
       "url": "https://open.spotify.com/track/6X3oobD0XUStLRoCciGEmj"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264280,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/34GVdYe8z3z7H7gylc3mCw"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264280,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/5vXgup8xsz2qAd2cySLrBk"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323426,
       "name": "Carry Yourself",
       "url": "https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323426,
       "name": "Carry Yourself",
       "url": "https://open.spotify.com/track/4wwyCumdNnXjIGt7YyLCJE"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 317773,
       "name": "Diamonds & Gold",
       "url": "https://open.spotify.com/track/0PnyMytBrk2X9T5pYmati9"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317773,
       "name": "Diamonds & Gold",
       "url": "https://open.spotify.com/track/6ih0RIVI5ZVOOGpYBzV9rd"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2020-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224426,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/4sbG7dJjiG7WjnVdFhyptA"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2020-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 224426,
       "name": "Fading Away",
       "url": "https://open.spotify.com/track/7FpFxqvwMMR4j1Yi1vndpK"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 180340,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3VpiTc2hSR4X5VUYQ5Td4Y"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180340,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7lTrxftzzPW4WX7VRh6Vxl"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236200,
       "name": "Further on Down the Line",
       "url": "https://open.spotify.com/track/4S0SOJFgn62SS3Tir84aCF"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Further on Down the Line",
       "url": "https://open.spotify.com/track/7m3zESC5sYrdRTlq1EO5Ep"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187531,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6Q5BhD6Ll1AloC0jJ9phV3"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187531,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/784KWAUgpgpzWnwaCQzi5k"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172706,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2wz8v9hjCcnp3m7kbZZMTG"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173360,
       "name": "Honey",
       "url": "https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142062,
       "name": "Honey Forgive Me",
       "url": "https://open.spotify.com/track/0aKVI4SThKOxN5z9bWKMhF"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142062,
       "name": "Honey Forgive Me",
       "url": "https://open.spotify.com/track/3R4pTT2d7T4oWdDvU3jV4N"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234187,
       "name": "Hump Thru the Winter",
       "url": "https://open.spotify.com/track/1Y2zuzC8ScFpyvRaiK6QRR"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234187,
       "name": "Hump Thru the Winter",
       "url": "https://open.spotify.com/track/4ToOP7lFnj2kyU6L7xUwLB"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 203666,
       "name": "I Was A Fool",
       "url": "https://open.spotify.com/track/0yLT3sSQU6TkLdlbq0mHm4"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203666,
       "name": "I Was a Fool",
       "url": "https://open.spotify.com/track/6RdQbhqlNdAaid72ntd6yr"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209760,
       "name": "I Will Not Fall",
       "url": "https://open.spotify.com/track/0YLdPhWCwvYk3olzObwcZW"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "I Will Not Fall",
       "url": "https://open.spotify.com/track/1tTOz7GLFSObMxWJiCv8xx"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196103,
       "name": "Ignite (Light It Up)",
       "url": "https://open.spotify.com/track/2Ta32R4qS5k2R4ZBEmVBtJ"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196103,
       "name": "Ignite (Light It Up)",
       "url": "https://open.spotify.com/track/5uBREHXh3z3N4EZcRNwOVh"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 422813,
       "name": "In Time",
       "url": "https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 422813,
       "name": "In Time",
       "url": "https://open.spotify.com/track/6F6L0sir3tzLDiO2vXopoG"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239574,
       "name": "Just in case",
       "url": "https://open.spotify.com/track/2SMDdT0TPMtDmYGeeDKUhq"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239574,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/3lUHPnOMQBlLjkUs6ZpHkI"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "Life On The Outside",
       "url": "https://open.spotify.com/track/2ba1G7j2si3LffTirrQLnw"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227200,
       "name": "Life On The Outside",
       "url": "https://open.spotify.com/track/2iufE5GZ6UobPZgMU8Qh5A"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231760,
       "name": "Long Coal Train",
       "url": "https://open.spotify.com/track/0S9mn8M7ZTfwXxPLxsdLOJ"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 231760,
       "name": "Long Coal Train",
       "url": "https://open.spotify.com/track/2geemXTDk9V6Dazk9RyCfw"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228520,
       "name": "Love Ain't a Love Song",
       "url": "https://open.spotify.com/track/50ttL5XmiGyYscxnJKJy2R"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228520,
       "name": "Love Ain't a Love Song",
       "url": "https://open.spotify.com/track/6U7s8WTYhJgCQuaS1RYgL2"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280480,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/0Q8GkrbDpLqAls58k0K2Tu"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 280480,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5F9vJi7cNW7FLpdQc50LKm"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209906,
       "name": "Love Sweet Love",
       "url": "https://open.spotify.com/track/1N47m6es1ruoERTpLByl8V"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209906,
       "name": "Love Sweet Love",
       "url": "https://open.spotify.com/track/34mId8TooqXQhb186K05aV"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 209946,
       "name": "Made Man",
       "url": "https://open.spotify.com/track/6BklMtRiRy8BjeK9Lf1krs"
@@ -1321,7 +1321,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209946,
       "name": "Made Man",
       "url": "https://open.spotify.com/track/6yc6bMZVPQHR06a8H1WOmG"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208212,
       "name": "Mindcontrol",
       "url": "https://open.spotify.com/track/1kyIGyqSvT0pdcDdSwFAMV"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208212,
       "name": "Mindcontrol",
       "url": "https://open.spotify.com/track/2PLg25HdGsV0gcSMVfSFTX"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235720,
       "name": "Motivational Speaker",
       "url": "https://open.spotify.com/track/1xqLHiTiCjryxjIobgBxZx"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235720,
       "name": "Motivational Speaker",
       "url": "https://open.spotify.com/track/5ZhnaKTGhvnXjSqIQVuCow"
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217451,
       "name": "Plastic Hamburgers",
       "url": "https://open.spotify.com/track/2bmBc4ovS9p18e1IUYHSE9"
@@ -1563,7 +1563,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217451,
       "name": "Plastic Hamburgers",
       "url": "https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202066,
       "name": "Sailin' shoes",
       "url": "https://open.spotify.com/track/7i3Nj3LFRVSyn4dzYzAVVu"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203346,
       "name": "Sailin' Shoes",
       "url": "https://open.spotify.com/track/5oQmwbutn2Y9QoFKT0h31v"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224773,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/4Ebvh7oe6LJ0QdLtIOiaU5"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224773,
       "name": "Soul On Fire",
       "url": "https://open.spotify.com/track/4Qq0xEgR45Lf7iGpv6t0vD"
@@ -1761,7 +1761,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218088,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/0G1p6qY60TM9fT3v9iHRdF"
@@ -1779,7 +1779,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218088,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/20TX7Hlne2EOyuVjOmrCfv"
@@ -1905,7 +1905,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180346,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/0fXA52aJZ2o0IB3db0QVCY"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 181440,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/4zBTpUoxrjVMjEYZECuxRi"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208331,
       "name": "U Got 2 Believe",
       "url": "https://open.spotify.com/track/6zfMpiPa0x1nEcAF0FH8sx"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208331,
       "name": "U got 2 believe",
       "url": "https://open.spotify.com/track/7acEqMLOUhLp3N5jav2YzM"
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347000,
       "name": "United Nations Stomp",
       "url": "https://open.spotify.com/track/0BT3RQsdS84xswE0YHkJo2"
@@ -2039,7 +2039,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "United Nations Stomp (feat. Marcus King)",
       "url": "https://open.spotify.com/track/3nuvIzElt8u5OjR7XwrC7A"
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256640,
       "name": "Vixen Eyes",
       "url": "https://open.spotify.com/track/7wPWT0mVkDoPz53K2wZ3gF"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256680,
       "name": "Vixen Eyes",
       "url": "https://open.spotify.com/track/4KIY1A23VXJZjSlaRFzgTC"

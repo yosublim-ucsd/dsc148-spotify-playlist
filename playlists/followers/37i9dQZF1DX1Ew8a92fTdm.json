@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 282131,
+  "2024-04-20": 282058,
   "date_first_scraped": "2022-04-19",
   "description": "Peaceful music box tunes for sleepy babies. ",
   "name": "Music Box Lullabies",
@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "A Million Stars",
+        "url": "https://open.spotify.com/album/72EQTt6Lwg7GrxSx9jHTaJ"
+      },
+      "artists": [
+        {
+          "name": "Dore Mi",
+          "url": "https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142008,
+      "name": "A Million Stars",
+      "url": "https://open.spotify.com/track/4aH25xvRwslDEiIxLP0X4I"
+    },
+    {
+      "album": {
         "name": "Ten Little Indians",
         "url": "https://open.spotify.com/album/1BfD4AamDekxsxZPEloJP2"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89787,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/4aJjW8KOhCj0AwozrV8NnC"
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69566,
       "name": "Arriba del Cielo",
       "url": "https://open.spotify.com/track/3KWiNfUbi0zs0KoMAusIBN"
@@ -1770,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Grandpa's Story",
+        "url": "https://open.spotify.com/album/4GcDQN8RFI7mtJJWSrn2O8"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jacoby",
+          "url": "https://open.spotify.com/artist/2Mkl1x6skIV9KgMoUtBX4V"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128929,
+      "name": "Grandpa's Story",
+      "url": "https://open.spotify.com/track/3QqrJEPHBoaONZFNNbcQ8s"
+    },
+    {
+      "album": {
         "name": "Head, Shoulders, Knees & Toes",
         "url": "https://open.spotify.com/album/5aUwS3bg7Nv1dBctV0Us09"
       },
@@ -2112,6 +2148,24 @@
     },
     {
       "album": {
+        "name": "Ida's Summer Song",
+        "url": "https://open.spotify.com/album/0cgoOnLWyyJPrqOFJmoYnc"
+      },
+      "artists": [
+        {
+          "name": "Isa Kaur",
+          "url": "https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104800,
+      "name": "Ida's Summer Song",
+      "url": "https://open.spotify.com/track/1SqsTpz4vrbP0iA5qDn0W5"
+    },
+    {
+      "album": {
         "name": "Idas Sommarvisa",
         "url": "https://open.spotify.com/album/6lS1SxOOTilJAxSnDSrXky"
       },
@@ -2177,7 +2231,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106499,
       "name": "It's Time to Go To Sleep",
       "url": "https://open.spotify.com/track/0G97kSQ8Jk7tgJqet5EsNx"
@@ -2235,6 +2289,24 @@
       "duration_ms": 79798,
       "name": "John Blund",
       "url": "https://open.spotify.com/track/3YNJRAOhFEQtebjq8j6sWN"
+    },
+    {
+      "album": {
+        "name": "Joy Of Life",
+        "url": "https://open.spotify.com/album/0TpOUKViK62E0UPMm7gNwb"
+      },
+      "artists": [
+        {
+          "name": "Julius Nilsson",
+          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88891,
+      "name": "Joy Of Life",
+      "url": "https://open.spotify.com/track/1Sxo51aL87nB09fUMtFqN9"
     },
     {
       "album": {
@@ -3138,6 +3210,24 @@
     },
     {
       "album": {
+        "name": "Pop Goes the Weasel",
+        "url": "https://open.spotify.com/album/6Go5sQjDm6lb2LHHn9foEj"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jesse",
+          "url": "https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72142,
+      "name": "Pop Goes the Weasel",
+      "url": "https://open.spotify.com/track/1Qcy5VYx9bzpwDN9ULpkAS"
+    },
+    {
+      "album": {
         "name": "Puff the magic dragon",
         "url": "https://open.spotify.com/album/4aYcSWwf9BNF7UzwZL7CdN"
       },
@@ -3581,7 +3671,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108400,
       "name": "Softly We Sleep",
       "url": "https://open.spotify.com/track/2Zzcdaz8hykNepVxzusTVJ"
@@ -3923,7 +4013,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68750,
       "name": "Suo G\u00e2n",
       "url": "https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va"
@@ -4380,6 +4470,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5rs2SaiqFFg5ht1oYD8cou"
+      },
+      "artists": [
+        {
+          "name": "Abel Lily",
+          "url": "https://open.spotify.com/artist/6A8LLXdKurxX8ljnxzlS2Y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112441,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4tRMKKy14CBxDYSKOEi01n"
+    },
+    {
+      "album": {
         "name": "To the stars and back",
         "url": "https://open.spotify.com/album/5rfYgK0cj2cTMysBZ4Bt5b"
       },
@@ -4391,7 +4499,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86500,
       "name": "To the stars and back",
       "url": "https://open.spotify.com/track/4KecvpSzjpYDyYZgO8sukR"
@@ -4607,7 +4715,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153749,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/5UVzIlTT74VXzhQFzeyiVw"

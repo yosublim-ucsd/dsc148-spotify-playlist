@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/3SB8b7gP6rd0LBcAvW3PLr"
+      },
+      "artists": [
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1ALpjc1x4V8dX43kJyps3v"
+    },
+    {
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },

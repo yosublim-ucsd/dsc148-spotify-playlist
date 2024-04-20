@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 53535,
+  "2024-04-20": 53548,
   "date_first_scraped": "2023-02-19",
   "description": "<a href=\"spotify:artist:1oZmFNkGAT93yD1xX4vTRE\">Nina Kraviz</a>' favorite tracks. Updated regularly. Curated by Nina Kraviz. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Nina Kraviz' track IDs",
@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Vol. 4 (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282493,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
+    },
+    {
+      "album": {
         "name": "Vol. 4 (2014 Remaster)",
         "url": "https://open.spotify.com/album/3zNcigR9hAceoTJphnxg6f"
       },
@@ -395,7 +413,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401826,
       "name": "Element",
       "url": "https://open.spotify.com/track/2JPFPPFnoUfOqWND8NsRiC"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 401826,
       "name": "Element",
       "url": "https://open.spotify.com/track/4P3aMyIZgpQF3xlUbU73FE"
@@ -855,10 +873,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442506,
       "name": "Obtuse",
       "url": "https://open.spotify.com/track/6BsnxTt0OTeClLzJ9UNP2p"
+    },
+    {
+      "album": {
+        "name": "Electro-Soma",
+        "url": "https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1"
+      },
+      "artists": [
+        {
+          "name": "B12",
+          "url": "https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443810,
+      "name": "Obtuse",
+      "url": "https://open.spotify.com/track/0WP4PxIqPGvFqWEDlSMIFP"
     },
     {
       "album": {
@@ -1051,7 +1087,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209084,
       "name": "Spice",
       "url": "https://open.spotify.com/track/21TAXXTUTozIrUzOHxV7ao"
@@ -1077,7 +1113,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 209084,
       "name": "Spice",
       "url": "https://open.spotify.com/track/5TkXbPJuV9LJVi9LpYGfvY"
@@ -1143,6 +1179,24 @@
     {
       "album": {
         "name": "Superscope",
+        "url": "https://open.spotify.com/album/4dFir2aKYJN2BH3ClDK1Bh"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340194,
+      "name": "Superscope",
+      "url": "https://open.spotify.com/track/0Luimpf9YtO6ynZta48PjG"
+    },
+    {
+      "album": {
+        "name": "Superscope",
         "url": "https://open.spotify.com/album/5tp0TVgVzASPaWaeebqWC2"
       },
       "artists": [
@@ -1153,7 +1207,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340194,
       "name": "Superscope",
       "url": "https://open.spotify.com/track/2dSW7dkz0MH6dzuFYNQujF"

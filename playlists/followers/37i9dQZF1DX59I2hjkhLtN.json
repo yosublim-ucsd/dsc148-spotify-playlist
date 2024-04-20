@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 387,
+  "2024-04-20": 397,
   "date_first_scraped": "2022-07-17",
   "description": "Novos rappers, novos sons. Tamos juntos! Foto: Holympo.",
   "name": "Ganda Cena",
@@ -1413,8 +1413,8 @@
           "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
         },
         {
-          "name": "MIKELPOTTER",
-          "url": "https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ"
+          "name": "Potter",
+          "url": "https://open.spotify.com/artist/3lEPRRwewQnDzDO1rjLj3q"
         }
       ],
       "date_added": "2023-12-15",
@@ -4497,7 +4497,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm"
@@ -4515,7 +4515,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164571,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/5gQ2ydTW2kQfFH2vbgOK1r"
@@ -8123,7 +8123,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 225119,
       "name": "Na Vida Amor",
       "url": "https://open.spotify.com/track/1ktwc6bGOBReJR1Vb2Lqzn"
@@ -8141,7 +8141,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225119,
       "name": "Na Vida Amor",
       "url": "https://open.spotify.com/track/5wu4m694O2qTSFoLCLaaxA"
@@ -12725,13 +12725,13 @@
       },
       "artists": [
         {
-          "name": "Pedronumb",
+          "name": "pedronumb",
           "url": "https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH"
         }
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 133423,
       "name": "TERRA DO NUNCA",
       "url": "https://open.spotify.com/track/01cFjPA03rVNK96QMrWohA"
@@ -12749,7 +12749,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133423,
       "name": "TERRA DO NUNCA",
       "url": "https://open.spotify.com/track/1zRfFIkeNhH6UpqAT0r0uK"

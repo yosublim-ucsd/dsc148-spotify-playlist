@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 46839,
+  "num_followers": 46940,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "Jangrova (feat. Tribal Mark)",
         "url": "https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 166615,
       "name": "Jangrova (feat. Tribal Mark)",
       "url": "https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -543,18 +543,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Do I",
-        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 155044,
-      "name": "Do I",
-      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
+      "duration_ms": 167142,
+      "name": "Showcase (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Do I",
+        "url": "https://open.spotify.com/album/7GaMQzXKnDyCk5dcXUb7Dk"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Showcase (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/2OXu4ZL9eNoBQiVVPe9Wn3"
+      "duration_ms": 155044,
+      "name": "Do I",
+      "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -688,13 +688,33 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -719,22 +739,6 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Personally",
-        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
-      },
-      "artists": [
-        {
-          "name": "Straffitti",
-          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "Personally",
-      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+        "name": "Personally",
+        "url": "https://open.spotify.com/album/05lg7B0tibQX5v89l4I7ej"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
         }
       ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
+      "duration_ms": 129056,
+      "name": "Personally",
+      "url": "https://open.spotify.com/track/4hOlSIK8uwDyzBZEf1mAKI"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "My Brother",
+        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "Letter From Overseas (feat. Black Sherif)",
         "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 134728,
       "name": "Bad Since '97",
       "url": "https://open.spotify.com/track/5t5oLw5209yleTnJSqM097"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "My Brother",
-        "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "Pop Sermon",
+        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
+      },
+      "artists": [
+        {
+          "name": "Dope Caesar",
+          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
+        },
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 149684,
+      "name": "Pop Sermon",
+      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "Oppress",
         "url": "https://open.spotify.com/album/4DS8vOME5sr3exIbiodfK4"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Pop Sermon",
-        "url": "https://open.spotify.com/album/4sJRYRgfoFyQrI7qlDmnCb"
-      },
-      "artists": [
-        {
-          "name": "Dope Caesar",
-          "url": "https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL"
-        },
-        {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 149684,
-      "name": "Pop Sermon",
-      "url": "https://open.spotify.com/track/3jGkAgjo3IwwcCsuUptm0W"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1219,18 +1219,26 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Belong to You",
-        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+        "name": "Blow My Cover",
+        "url": "https://open.spotify.com/album/050KMVbrfE1FfgzKv2bdYs"
       },
       "artists": [
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Global Neil ENT",
+          "url": "https://open.spotify.com/artist/4FytKf4mpfsTSRdqCldLmQ"
+        },
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Belong to You",
-      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
+      "duration_ms": 126344,
+      "name": "Blow My Cover",
+      "url": "https://open.spotify.com/track/2vQQibREgJ2bST3KqzSQdt"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1251,6 +1259,22 @@
       "duration_ms": 186906,
       "name": "My Bro",
       "url": "https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Belong to You",
+        "url": "https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Belong to You",
+      "url": "https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1307,26 +1331,6 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "If They Are Real",
-        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
-      },
-      "artists": [
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "If They Are Real",
-      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1391,26 +1395,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Blow My Cover",
-        "url": "https://open.spotify.com/album/050KMVbrfE1FfgzKv2bdYs"
+        "name": "If They Are Real",
+        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
       },
       "artists": [
         {
-          "name": "Global Neil ENT",
-          "url": "https://open.spotify.com/artist/4FytKf4mpfsTSRdqCldLmQ"
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
         },
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 126344,
-      "name": "Blow My Cover",
-      "url": "https://open.spotify.com/track/2vQQibREgJ2bST3KqzSQdt"
+      "duration_ms": 222000,
+      "name": "If They Are Real",
+      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 124109,
+  "2024-04-20": 124169,
   "date_first_scraped": "2022-04-19",
   "description": "Underground dance and alternative that went on to define a new millennium.",
   "name": "Generation Electronica",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199520,
       "name": "9 PM (Till I Come) - Radio Edit",
       "url": "https://open.spotify.com/track/0pGJlSKAbf80ZCjP0X4hWJ"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193880,
       "name": "9Pm (Till I Come)",
       "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310746,
       "name": "Alberto Balsalm",
       "url": "https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234333,
       "name": "Army of Me",
       "url": "https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Army Of Me",
       "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 216440,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216440,
       "name": "Bodyrock",
       "url": "https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 542933,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/4i3JEpLw2pC4xfiTF30hUG"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 543546,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314133,
       "name": "Connected",
       "url": "https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 315426,
       "name": "Connected",
       "url": "https://open.spotify.com/track/5tXWXbZC2wCvXBzlxu0ZQ6"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279800,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/1auX4gkGe7hbrOH0BXdpV4"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279800,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/6qptzOQGAT0YZjhIsgsuAM"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306909,
       "name": "From Rusholme with Love",
       "url": "https://open.spotify.com/track/32YtorOlPz4n7y5OiYkohZ"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 306909,
       "name": "From Rusholme with Love",
       "url": "https://open.spotify.com/track/4HWeiKfHdwn2hEgUQVfu2q"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287693,
       "name": "Frontier Psychiatrist",
       "url": "https://open.spotify.com/track/3mPJHVpCvzykoxmWnYdnFq"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288346,
       "name": "Frontier Psychiatrist",
       "url": "https://open.spotify.com/track/0E2UdlzNQP9I70MYumYlFo"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260640,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/28BOzceMLCsn1AwusNQ55z"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260666,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/0QKQfBRO7yv8XCefwEax14"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305560,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/68oUQRwGJGExtkpaSvSbgb"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 238680,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239760,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/5kBjDazL0vWZ8D7LevHh6p"
@@ -1109,7 +1109,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/4CiWchFxrlhqLxrkNFzd3p"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242533,
       "name": "History Repeating - Knee Length Mix",
       "url": "https://open.spotify.com/track/56jlrdCvA7Ih13L9OMcfDS"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309093,
       "name": "Idioteque",
       "url": "https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309093,
       "name": "Idioteque",
       "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215093,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215640,
       "name": "Insomnia - Radio Edit",
       "url": "https://open.spotify.com/track/07sxccsfOMu3ZiNG31pn4d"
@@ -1453,7 +1453,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 298373,
       "name": "Midnight In A Perfect World",
       "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/19aUcBFBrXbsAcucaVFBjW"
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253760,
       "name": "Natural Blues",
       "url": "https://open.spotify.com/track/4qUVntQ46fmejnJDlRlJpw"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/1XNM8FcPNYK0w3Vc7q46TN"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-30",
+      "date_removed": null,
       "duration_ms": 117240,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/6TdnvxC5E146AXv1doDshO"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241173,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "Red Alert (Jaxx Radio Mix)",
       "url": "https://open.spotify.com/track/5uTjEhlLv2YHNna0ojb5Az"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "Red Alert - Jaxx Radio Mix",
       "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149080,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 342733,
       "name": "Smack My Bitch Up",
       "url": "https://open.spotify.com/track/1TXBYUD9hRWkuVb3uLw5Yx"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343386,
       "name": "Smack My Bitch Up",
       "url": "https://open.spotify.com/track/2iwGE4y7yF8qzKc5WZ2Z8R"
@@ -2091,9 +2091,9 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258533,
-      "name": "Stupid Girl",
+      "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/2cmSBwuHbYJvVEmDtZR2X0"
     },
     {
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237453,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/2TU5HRSj7cSjkKwNzF8NhS"
@@ -2199,7 +2199,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238840,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/2XrWVgmfhkPXfsUyzMrJQY"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 441760,
       "name": "Take California",
       "url": "https://open.spotify.com/track/6BepfRQPu3N9Ms3Y5pYsEM"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 441760,
       "name": "Take California",
       "url": "https://open.spotify.com/track/6po71PeJnTDHZdqYcFfAY1"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 347280,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0xjkgYSzHjBZNvyUaC9cXX"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348053,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 387066,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/03QUcrQ2EyMJv6q7KY3kS5"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387066,
       "name": "Voodoo People",
       "url": "https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl"
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365640,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"

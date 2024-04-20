@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
-  "num_followers": 40364,
+  "num_followers": 40430,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,38 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Parh\u00e9lie",
+        "url": "https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "duration_ms": 286922,
+      "name": "Soleil encaban\u00e9",
+      "url": "https://open.spotify.com/track/0oWcXec6E4OV10gke838Of"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "GO GO GO (Feat. Josman)",
         "url": "https://open.spotify.com/album/4ZYdJg7f8B6aHFvQbu1Cwe"
       },
@@ -515,18 +547,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Parh\u00e9lie",
-        "url": "https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0"
+        "name": "Pour en finir",
+        "url": "https://open.spotify.com/album/47AouJ6QP2gjWqxJ9XVt2m"
       },
       "artists": [
         {
-          "name": "Totalement Sublime",
-          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+          "name": "Chapeaux pointus",
+          "url": "https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt"
         }
       ],
-      "duration_ms": 286922,
-      "name": "Soleil encaban\u00e9",
-      "url": "https://open.spotify.com/track/0oWcXec6E4OV10gke838Of"
+      "duration_ms": 142200,
+      "name": "Fini",
+      "url": "https://open.spotify.com/track/0lJ0RZWBtJs8K50tXnA2Se"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -551,18 +583,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Pour en finir",
-        "url": "https://open.spotify.com/album/47AouJ6QP2gjWqxJ9XVt2m"
+        "name": "Les s\u00e9cheresses du Sahara",
+        "url": "https://open.spotify.com/album/3xu6QWThnNteVK7w0zmNbj"
       },
       "artists": [
         {
-          "name": "Chapeaux pointus",
-          "url": "https://open.spotify.com/artist/1MtFxRJcBcTSAXqgqiUojt"
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Fini",
-      "url": "https://open.spotify.com/track/0lJ0RZWBtJs8K50tXnA2Se"
+      "duration_ms": 197740,
+      "name": "Les s\u00e9cheresses du Sahara",
+      "url": "https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -583,38 +615,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Les s\u00e9cheresses du Sahara",
-        "url": "https://open.spotify.com/album/3xu6QWThnNteVK7w0zmNbj"
-      },
-      "artists": [
-        {
-          "name": "Farfadet",
-          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
-        }
-      ],
-      "duration_ms": 197740,
-      "name": "Les s\u00e9cheresses du Sahara",
-      "url": "https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 135179,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -631,6 +631,26 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "AMBITION II",
+        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "ENCORE (feat. Rsko)",
+      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -667,26 +687,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "AMBITION II",
-        "url": "https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "ENCORE (feat. Rsko)",
-      "url": "https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Clique",
         "url": "https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "C24",
-        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "C24",
-      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Sans toi",
         "url": "https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 181580,
       "name": "Sans toi",
       "url": "https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "C24",
+        "url": "https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "C24",
+      "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
     },
     {
       "added_at": "2024-04-19 04:01:00",

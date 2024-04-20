@@ -736,7 +736,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 162437,
       "name": "Flickering Flame",
       "url": "https://open.spotify.com/track/67g2IwGrHQW0MXnZ1Gr8Km"
@@ -2134,6 +2134,24 @@
       "duration_ms": 157159,
       "name": "Thirst",
       "url": "https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp"
+    },
+    {
+      "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157655,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp"
     },
     {
       "album": {

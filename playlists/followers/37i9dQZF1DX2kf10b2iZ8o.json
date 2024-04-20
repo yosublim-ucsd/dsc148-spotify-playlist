@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 22683,
+  "2024-04-20": 22685,
   "date_first_scraped": "2022-12-02",
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
   "name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 306200,
       "name": "Reason!! - DRAMATIC STARS & S.E.M Ver.",
       "url": "https://open.spotify.com/track/4sTQDw1Wh7XFX5DGxebLLC"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306200,
       "name": "Reason!! - DRAMATIC STARS & S.E.M Version",
       "url": "https://open.spotify.com/track/4mQ521ui5sMz8PucIJ6Vtq"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 279333,
       "name": "Tone's Destiny",
       "url": "https://open.spotify.com/track/3L0J09Vkwx7OupyfRNAv22"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339640,
       "name": "VOY@GER - SideM Ver.",
       "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244720,
       "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
       "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
@@ -2951,6 +2951,24 @@
       "duration_ms": 220013,
       "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
       "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM NEW STAGE EPISODE\uff1a06 \u795e\u901f\u4e00\u9b42",
+        "url": "https://open.spotify.com/album/3VPJA4NsiEWyNeazBxIqEW"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280093,
+      "name": "\u559c\u6012\u54c0\u697d\u4e07\u56fd\u5171\u901a-Burn it up!-",
+      "url": "https://open.spotify.com/track/5BYZg2bMKEUoP9tkalyaGT"
     },
     {
       "album": {

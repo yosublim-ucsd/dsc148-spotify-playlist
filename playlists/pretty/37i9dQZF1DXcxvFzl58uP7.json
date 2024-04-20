@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Still Woozy ",
-  "num_followers": 1107527,
+  "num_followers": 1107479,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "A lot to explain",
+        "url": "https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD"
+      },
+      "artists": [
+        {
+          "name": "Kaz Moon",
+          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
+        }
+      ],
+      "duration_ms": 133109,
+      "name": "A lot to explain",
+      "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 229113,
       "name": "Taking Over The Sun",
       "url": "https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "A lot to explain",
-        "url": "https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD"
-      },
-      "artists": [
-        {
-          "name": "Kaz Moon",
-          "url": "https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "A lot to explain",
-      "url": "https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU"
     },
     {
       "added_at": "2024-03-01 19:48:19",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
     },
     {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "Truth\u2606Truth",
-        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
-      },
-      "artists": [
-        {
-          "name": "EF\u00c9",
-          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
-        }
-      ],
-      "duration_ms": 224385,
-      "name": "Truth\u2606Truth",
-      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
-    },
-    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "Daisy",
@@ -667,6 +651,22 @@
       "duration_ms": 177957,
       "name": "You Tear Me Apart",
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+    },
+    {
+      "added_at": "2024-03-01 19:48:19",
+      "album": {
+        "name": "Truth\u2606Truth",
+        "url": "https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN"
+      },
+      "artists": [
+        {
+          "name": "EF\u00c9",
+          "url": "https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C"
+        }
+      ],
+      "duration_ms": 224385,
+      "name": "Truth\u2606Truth",
+      "url": "https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 184506,
       "name": "distance",
       "url": "https://open.spotify.com/track/6Z8O4QYEUXhKgO3F5KKImY"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "honey",
+        "url": "https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg"
+      },
+      "artists": [
+        {
+          "name": "url",
+          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
+        }
+      ],
+      "duration_ms": 180181,
+      "name": "honey",
+      "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 173856,
       "name": "Letters",
       "url": "https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "honey",
-        "url": "https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg"
-      },
-      "artists": [
-        {
-          "name": "url",
-          "url": "https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2"
-        }
-      ],
-      "duration_ms": 180181,
-      "name": "honey",
-      "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
-      "added_at": "2024-03-01 19:48:19",
-      "album": {
-        "name": "47",
-        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 159650,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
-    },
-    {
       "added_at": "2024-01-12 16:54:40",
       "album": {
         "name": "Coffee's on Me",
@@ -1111,6 +1095,22 @@
       "duration_ms": 175280,
       "name": "love & doubt",
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
+    },
+    {
+      "added_at": "2024-03-01 19:48:19",
+      "album": {
+        "name": "47",
+        "url": "https://open.spotify.com/album/4nUKO0SAphfqEcvarF8b9t"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 159650,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/54m7I5SFUxRbMFdnwdm8Xk"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "another day",
-        "url": "https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 129655,
-      "name": "another day",
-      "url": "https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "1000 Summers",
         "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "another day",
+        "url": "https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 129655,
+      "name": "another day",
+      "url": "https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "Robes",
         "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 187432,
       "name": "Robes",
       "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "the way you looked",
-        "url": "https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV"
-      },
-      "artists": [
-        {
-          "name": "juno roome",
-          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
-        }
-      ],
-      "duration_ms": 287274,
-      "name": "the way you looked",
-      "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1231,34 +1215,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "What Should I Do?",
-        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+        "name": "the way you looked",
+        "url": "https://open.spotify.com/album/50HCzHlyAYqA1LSsfizbWV"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
         }
       ],
-      "duration_ms": 183080,
-      "name": "What Should I Do?",
-      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
-        "name": "Show Me How",
-        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 215110,
-      "name": "Show Me How",
-      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+      "duration_ms": 287274,
+      "name": "the way you looked",
+      "url": "https://open.spotify.com/track/1HzeXR0R5YWsCfWgP0CttA"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
+        "name": "What Should I Do?",
+        "url": "https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "What Should I Do?",
+      "url": "https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
         "name": "NIGHTTIME",
         "url": "https://open.spotify.com/album/70VzJ9KqBfNTDr23SoZ74Y"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 147783,
       "name": "NIGHTTIME",
       "url": "https://open.spotify.com/track/2I8CTRKgB772a6qtyhYv21"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Auto Destroy",
         "url": "https://open.spotify.com/album/1m4PS8sFJTSLXJ60FJhlal"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 113610,
       "name": "Give It",
       "url": "https://open.spotify.com/track/5gV1v495WPyidjOxgxUQ9x"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "Tommy",
-        "url": "https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 213478,
-      "name": "Tommy",
-      "url": "https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "in the morning",
         "url": "https://open.spotify.com/album/23OzYmy1eo98Q4Q81MiV3Z"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu"
       },
       "artists": [
         {
-          "name": "Miso Extra",
-          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 181639,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
+      "duration_ms": 213478,
+      "name": "Tommy",
+      "url": "https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "when the time is right, you\u2019ll find me again",
-        "url": "https://open.spotify.com/album/1ZCQUEJrtwp4kJZ2Qcqzh1"
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/6AZg2QXV08VsP294XLko3W"
       },
       "artists": [
         {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
         }
       ],
-      "duration_ms": 190344,
-      "name": "came to the party for you (demo)",
-      "url": "https://open.spotify.com/track/1hl7wtlGV8fsRodnIjISRi"
+      "duration_ms": 181639,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3ANR48a5B76FjAWpmsHwrF"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1491,6 +1475,22 @@
       "duration_ms": 214243,
       "name": "What Happens In Your Head?",
       "url": "https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "when the time is right, you\u2019ll find me again",
+        "url": "https://open.spotify.com/album/1ZCQUEJrtwp4kJZ2Qcqzh1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "came to the party for you (demo)",
+      "url": "https://open.spotify.com/track/1hl7wtlGV8fsRodnIjISRi"
     },
     {
       "added_at": "2024-01-12 16:54:40",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2024-01-12 16:54:40",
       "album": {
-        "name": "APRIL",
-        "url": "https://open.spotify.com/album/6ulis3P0BeMPkhT0ldqVRp"
-      },
-      "artists": [
-        {
-          "name": "DLG.",
-          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
-        },
-        {
-          "name": "Cristian jay",
-          "url": "https://open.spotify.com/artist/1fCvw0eT4rtA5lr4PfsMRf"
-        }
-      ],
-      "duration_ms": 267110,
-      "name": "CALL ME SELFISH",
-      "url": "https://open.spotify.com/track/31IQOnrC2h1AwvcgcrJiPk"
-    },
-    {
-      "added_at": "2024-01-12 16:54:40",
-      "album": {
         "name": "Dream Cruise",
         "url": "https://open.spotify.com/album/3BK9ABQSTM7tSqfLQ8B2dS"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 211697,
       "name": "Are U Coming Over?",
       "url": "https://open.spotify.com/track/5tEpgKS0zWnt8X2k3yZgqJ"
+    },
+    {
+      "added_at": "2024-01-12 16:54:40",
+      "album": {
+        "name": "APRIL",
+        "url": "https://open.spotify.com/album/6ulis3P0BeMPkhT0ldqVRp"
+      },
+      "artists": [
+        {
+          "name": "DLG.",
+          "url": "https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP"
+        },
+        {
+          "name": "Cristian jay",
+          "url": "https://open.spotify.com/artist/1fCvw0eT4rtA5lr4PfsMRf"
+        }
+      ],
+      "duration_ms": 267110,
+      "name": "CALL ME SELFISH",
+      "url": "https://open.spotify.com/track/31IQOnrC2h1AwvcgcrJiPk"
     },
     {
       "added_at": "2024-01-12 16:54:40",

@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 63385,
+  "num_followers": 63390,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,38 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "Olive Branch (Ghosn Zeytoun)",
+        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 85999,
+      "name": "Olive Branch (Ghosn Zeytoun)",
+      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
         "name": "R3D",
         "url": "https://open.spotify.com/album/5zsMQF8gTnGGbA8gxALtKx"
       },
@@ -251,38 +283,6 @@
       "duration_ms": 161018,
       "name": "Ramadan",
       "url": "https://open.spotify.com/track/1shPR6yMl4i4KQroQEr43F"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
-        "name": "Olive Branch (Ghosn Zeytoun)",
-        "url": "https://open.spotify.com/album/0zXbKq9D8hTBJxl10Pya8y"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 85999,
-      "name": "Olive Branch (Ghosn Zeytoun)",
-      "url": "https://open.spotify.com/track/0Qs69EhCYkND29GsGEp9uD"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
+        "name": "Dalaa Dalouna",
+        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
       },
       "artists": [
         {
-          "name": "zeyne",
-          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+          "name": "Mohammad Assaf",
+          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
+      "duration_ms": 199334,
+      "name": "Dalaa Dalouna",
+      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6"
+      },
+      "artists": [
+        {
+          "name": "zeyne",
+          "url": "https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
         "name": "Jdeed, Vol. 3",
         "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 312032,
       "name": "Hada el 7aki 3eh",
       "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
-        "name": "Dalaa Dalouna",
-        "url": "https://open.spotify.com/album/502xVfv7FKMr7TT0XzkUpX"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Assaf",
-          "url": "https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE"
-        }
-      ],
-      "duration_ms": 199334,
-      "name": "Dalaa Dalouna",
-      "url": "https://open.spotify.com/track/70jZJbVFJrnOcCvYAOmKKI"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
         "name": "Rawquha",
         "url": "https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 221043,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
+        "name": "A Tareeq",
+        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
+      },
+      "artists": [
+        {
+          "name": "Ghazall",
+          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Ma Mali Shi",
+      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
         "name": "The Long March",
         "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 376586,
       "name": "Carry the Earth",
       "url": "https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
-        "name": "A Tareeq",
-        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
-      },
-      "artists": [
-        {
-          "name": "Ghazall",
-          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Ma Mali Shi",
-      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
         "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 178912,
       "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Bitar",
-          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
-        }
-      ],
-      "duration_ms": 136759,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
         "name": "Tareeq",
         "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 283724,
       "name": "Tareeq",
       "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+        "url": "https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "duration_ms": 169970,
+      "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+      "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-        "url": "https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5"
       },
       "artists": [
         {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
         }
       ],
-      "duration_ms": 169970,
-      "name": "\u0627\u0644\u0642\u0636\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
-      "url": "https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q"
+      "duration_ms": 136759,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
     },
     {
       "added_at": "2024-03-14 09:57:19",

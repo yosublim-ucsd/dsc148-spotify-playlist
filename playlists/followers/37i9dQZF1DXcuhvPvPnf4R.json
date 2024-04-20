@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8856,
+  "2024-04-20": 8861,
   "date_first_scraped": "2022-10-03",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
   "name": "Monique Blake's Taste",
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206465,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/4lCqM3KkNn8aj7biJaa58o"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 206465,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 135640,
       "name": "Rum & Redbull",
       "url": "https://open.spotify.com/track/3rcdpymBJXEExx2YcZbjMU"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135650,
       "name": "Rum & RedBull",
       "url": "https://open.spotify.com/track/2J49g2pq8WG0PP6m2GtzKU"
@@ -956,6 +956,24 @@
     },
     {
       "album": {
+        "name": "There's Something About Remy-Based On A True Story",
+        "url": "https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO"
+      },
+      "artists": [
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Whuteva",
+      "url": "https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV"
+    },
+    {
+      "album": {
         "name": "There's Something About Remy-Based On A True Story (Explicit)",
         "url": "https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO"
       },
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226066,
       "name": "Whuteva",
       "url": "https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK"

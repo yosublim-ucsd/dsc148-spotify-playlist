@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Abdul Hannan",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Arooj Aftab",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -2391,6 +2391,28 @@
     },
     {
       "album": {
+        "name": "Kahani Meri",
+        "url": "https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc"
+      },
+      "artists": [
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        },
+        {
+          "name": "Anmol Daniel",
+          "url": "https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Kahani Meri",
+      "url": "https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv"
+    },
+    {
+      "album": {
         "name": "Kahani Suno 2.0",
         "url": "https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV"
       },
@@ -3318,7 +3340,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 166153,
       "name": "Nakhre",
       "url": "https://open.spotify.com/track/2hmg6kxG5C2SwaHb0mqqbt"
@@ -3802,6 +3824,24 @@
       "duration_ms": 159046,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7"
+    },
+    {
+      "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
       "album": {
@@ -5020,7 +5060,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8"

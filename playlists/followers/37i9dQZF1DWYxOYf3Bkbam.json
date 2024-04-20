@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 47806,
+  "2024-04-20": 47809,
   "date_first_scraped": "2022-01-02",
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
   "name": "Mundo Chamam\u00e9",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191311,
       "name": "Acordeona No Llores",
       "url": "https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 110253,
       "name": "Adios palomita ingrata",
       "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130785,
       "name": "Adi\u00f3s Ciudad de Mercedes",
       "url": "https://open.spotify.com/track/01XFm4g3gKr0Hmw2cjNn13"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 206573,
       "name": "Al Gaucho Gil",
       "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 129412,
       "name": "Al Tigre de los Arenales",
       "url": "https://open.spotify.com/track/3zqLf2gIpaEDFfXQuWaUEU"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 125826,
       "name": "Asi Se Baila El Chamame",
       "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 110706,
       "name": "Camino a las cuchillas",
       "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131613,
       "name": "Camino a Tres Cruces",
       "url": "https://open.spotify.com/track/560oE1gGGS7UGrimKO8w2T"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 214727,
       "name": "Canci\u00f3n para Mi Muerte",
       "url": "https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144866,
       "name": "Canto al Cresp\u00edn",
       "url": "https://open.spotify.com/track/0EGMfCkZ251JssY5acfmbV"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 139586,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199373,
       "name": "Conjunto Pena Y Olvido",
       "url": "https://open.spotify.com/track/3RT7zu5eneQhb16dY5cSUh"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-09",
+      "date_removed": null,
       "duration_ms": 139253,
       "name": "El Gato Blanco",
       "url": "https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173480,
       "name": "Entre Amigos Y Chamam\u00e9",
       "url": "https://open.spotify.com/track/7L19S0sFnKLPoyygK8LQ0W"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155246,
       "name": "Entre Chamam\u00e9 y Sapucay",
       "url": "https://open.spotify.com/track/4CIfZ8W6QaIilsR7Ytb3LX"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445173,
       "name": "Estaci\u00f3n Solari / La Mal Peinada / El Curuzucuate\u00f1o - En Vivo",
       "url": "https://open.spotify.com/track/7ua5qCQZyy2LrZELAJxSlF"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 171973,
       "name": "Flor del Litoral",
       "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 120720,
       "name": "Jineteando",
       "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
@@ -1465,7 +1465,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196733,
       "name": "La Calandria",
       "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
@@ -1599,7 +1599,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 129693,
       "name": "La Flecha",
       "url": "https://open.spotify.com/track/373Xx4kS4FLB2EZ9bSvFu1"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 158520,
       "name": "La Ofelia",
       "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252018,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298893,
       "name": "L\u00e1zaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Uni\u00f3n/devuelta a Mi Ranchito/a Cachencho Federal",
       "url": "https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 164440,
       "name": "Mi Anhelo",
       "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302419,
       "name": "Mi pueblo, mi casa, la soledad",
       "url": "https://open.spotify.com/track/2Svc7x1VqoBLhWwY8guJ0p"
@@ -2155,7 +2155,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275026,
       "name": "Nazareno",
       "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
@@ -2231,7 +2231,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182200,
       "name": "No Hay Mal Que por Bien No Venga",
       "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
@@ -2325,7 +2325,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 122733,
       "name": "Palomita Mensajera",
       "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227386,
       "name": "Por Siempre Majestuoso",
       "url": "https://open.spotify.com/track/38SQAkDTVEJUPxjAXHcsUf"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201055,
       "name": "Sembrador de Esperanza",
       "url": "https://open.spotify.com/track/3sova4l2K0UmdbfbGeJxO3"
@@ -2875,7 +2875,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152426,
       "name": "Soy lo Que Canto",
       "url": "https://open.spotify.com/track/1egiP2FrBoDdX5dhahAbaT"
@@ -3009,7 +3009,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288866,
       "name": "Tierra Colorada - En Vivo en el Teatro Col\u00f3n",
       "url": "https://open.spotify.com/track/3VNpX2bB43qkJGutZ65rff"

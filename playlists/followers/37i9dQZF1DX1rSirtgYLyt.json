@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 54170,
+  "2024-04-20": 54235,
   "date_first_scraped": "2022-06-27",
   "description": "The best cover versions from the world of Blues. Taj Mahal on cover. ",
   "name": "Blues Covers",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/0eZNkuyJGeNGHxBxcXzHRq"
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/1I5jLwvivYrmAwgjCmlUki"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244160,
       "name": "A Little Less Conversation",
       "url": "https://open.spotify.com/track/2XbxdAWaC7UfQRE11JYGP4"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244160,
       "name": "A Little Less Conversation",
       "url": "https://open.spotify.com/track/73qNHMPnanBGsxD1cQ2ojn"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 407640,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/4TGoG48PrAx352MXjIJFF4"
@@ -231,10 +231,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407653,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
+    },
+    {
+      "album": {
+        "name": "Rebel Moon Blues",
+        "url": "https://open.spotify.com/album/2L20hkASIOJ6eikaLLdcEC"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156622,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/2WTLppjuDuH6mrMPpYFRxz"
     },
     {
       "album": {
@@ -249,7 +267,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156622,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3t3qyDmYzMH3uiXMVFqk5v"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290000,
       "name": "Beast of Burden",
       "url": "https://open.spotify.com/track/0lAmuKUti1Z6xxSr2EDOhb"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Beast of Burden",
       "url": "https://open.spotify.com/track/6G0E34D8C9wb777W4QHZfv"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252800,
       "name": "Blues In The Night",
       "url": "https://open.spotify.com/track/1IcHVgTHH8ec7oU02RLa5A"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 252800,
       "name": "Blues In The Night",
       "url": "https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262840,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/308np2jHp2Z0GmKa1V4f2P"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 262840,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 362266,
       "name": "Change Is Gonna Come",
       "url": "https://open.spotify.com/track/6QEhyWyMPQ3cUtCsu5MRM2"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362266,
       "name": "Change Is Gonna Come",
       "url": "https://open.spotify.com/track/1t0v4uUKWd0MrmHtcEzRiV"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233773,
       "name": "Crow Jane",
       "url": "https://open.spotify.com/track/2KgPcX2NVfmnia6JOSjKyJ"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233773,
       "name": "Crow Jane",
       "url": "https://open.spotify.com/track/2b0ObO7Xk3qzJdMOhJc5c3"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322760,
       "name": "Herbert Harper's Free Press News",
       "url": "https://open.spotify.com/track/4OGM1kTZC108CoHB83l4sx"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 322760,
       "name": "Herbert Harper's Free Press News",
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "Honky Tonk Woman",
       "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279066,
       "name": "Honky Tonk Women",
       "url": "https://open.spotify.com/track/5Msi6Z4xZ86nd3JB1PnW8G"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313800,
       "name": "Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/3XEiDurjDQL0WF7SwqR4qt"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315706,
       "name": "Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/0iRXdt6ZP8hFnzdUxymSBO"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287160,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/2ngkSsDjbKRxovWkMfjBUk"
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288186,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/46EtkT78WNyuQQtNGRguCb"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182986,
       "name": "I Got The Same Old Blues",
       "url": "https://open.spotify.com/track/1PmPNn8lpamGGWbgVyFrX1"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182986,
       "name": "I Got the Same Old Blues (feat. Tom Petty)",
       "url": "https://open.spotify.com/track/5uIAjyOvC9PjzCpeMRcQo8"
@@ -1323,10 +1341,28 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171760,
       "name": "I Put A Spell On You - Original Version (Remastered)",
       "url": "https://open.spotify.com/track/1wvYOOPYN28V0hEbZB9ZL9"
+    },
+    {
+      "album": {
+        "name": "Anthology: The Deluxe Collection (Remastered)",
+        "url": "https://open.spotify.com/album/5UQmOSBgA6SweiMdaltAJF"
+      },
+      "artists": [
+        {
+          "name": "Screamin' Jay Hawkins",
+          "url": "https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "I Put a Spell on You 2 - Remastered",
+      "url": "https://open.spotify.com/track/1lCBkDmLkjfdKAZWpsO4HM"
     },
     {
       "album": {
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193920,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/5K4C4We3nhtTYCyPEUae1I"
@@ -1395,7 +1431,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197200,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/5i1T44coT8wyZpCMd4F4O8"
@@ -1519,7 +1555,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272080,
       "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
       "url": "https://open.spotify.com/track/5eFuA6bZLTvDFlilyyEojB"
@@ -1537,7 +1573,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 272080,
       "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
       "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
@@ -1649,7 +1685,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158600,
       "name": "Like Crying (with Noel Gallagher) (Live from The London Palladium)",
       "url": "https://open.spotify.com/track/1QpCvHq958Nsev3qQtIInc"
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 158600,
       "name": "Like Crying (with Noel Gallagher) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/0O6lcWkE8m9pTDGD8Kpatf"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354026,
       "name": "Love That Burns (with Rick Vito) (Live from The London Palladium)",
       "url": "https://open.spotify.com/track/2IvVEPd1M58XvJ7zP9AMrl"
@@ -1787,7 +1823,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 354026,
       "name": "Love That Burns (with Rick Vito) - Live from The London Palladium",
       "url": "https://open.spotify.com/track/7avlGe2Kmp0yagByGRT9x0"
@@ -1871,7 +1907,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 392586,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/5XpzBJp8vepkz4jeGIsfXn"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 392586,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P"
@@ -2103,7 +2139,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 256013,
       "name": "She Loves You",
       "url": "https://open.spotify.com/track/4HnmJHeEWRhyVETGfBiGIX"
@@ -2125,7 +2161,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256013,
       "name": "She Loves You",
       "url": "https://open.spotify.com/track/7JltGnKRzDG5QMy9UrYM9t"
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407226,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/5ejer9JccgqM0XDMEvaDML"
@@ -2161,7 +2197,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 411240,
       "name": "Smokestack Lightning",
       "url": "https://open.spotify.com/track/2ltKgfElKBcNHh2ZIq0TRv"
@@ -2197,7 +2233,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193309,
       "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
       "url": "https://open.spotify.com/track/1O04SZEcUXf8Y4uRedwt75"
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 193309,
       "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
       "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354760,
       "name": "Still Got the Blues",
       "url": "https://open.spotify.com/track/4foKEzs442JODnkwNRro1R"
@@ -2251,7 +2287,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 354760,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/7nMl2aiwjNz4TIFoAkOrtG"
@@ -2359,7 +2395,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/22YV6hhUNMjv6Nf65NFSHg"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 305493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4R3mHfzNpk0YmRx983jzik"
@@ -2579,7 +2615,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/2rJnWhDGKpWQOXqHy5tF1V"
@@ -2597,7 +2633,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
@@ -2615,7 +2651,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 373000,
       "name": "Ventilator Blues",
       "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
@@ -2633,7 +2669,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373000,
       "name": "Ventilator Blues",
       "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
@@ -2659,7 +2695,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/0kQuE7df1Dhji3XvekSCet"
@@ -2685,7 +2721,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 139146,
       "name": "When The Levee Breaks (Part One)",
       "url": "https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm"
@@ -2743,7 +2779,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 175453,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv"
@@ -2765,7 +2801,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175453,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/77kH6aQhubc0Qwb2X8jC9z"

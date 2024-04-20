@@ -1,9 +1,35 @@
 {
-  "2024-04-19": 6388,
+  "2024-04-20": 6389,
   "date_first_scraped": "2022-08-31",
   "description": "The official playlist for MO. Watch now on Netflix!",
   "name": "MO Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "Twenty-Two : P.A. World Wide",
+        "url": "https://open.spotify.com/album/4rI0SuqUvuPKCC9TVnuntn"
+      },
+      "artists": [
+        {
+          "name": "DJ DMD",
+          "url": "https://open.spotify.com/artist/6OlAT1SEcIbALbMy6Z5TVL"
+        },
+        {
+          "name": "Fat Pat",
+          "url": "https://open.spotify.com/artist/1iFf7x4gbonfRVAvQ8Wsoh"
+        },
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/6gMYo1jNW6fffVAbQBrJTl"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286760,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/4sOQIl6EdVEBUr0UhpnGh2"
+    },
     {
       "album": {
         "name": "From Coast To Coast",
@@ -25,7 +51,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287813,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
@@ -130,12 +156,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 122642,
       "name": "Cash At The Border",
       "url": "https://open.spotify.com/track/1pFca8MT2ZuCs1g6MbuaMW"
@@ -161,7 +187,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122642,
       "name": "Cash At The Border",
       "url": "https://open.spotify.com/track/7rmRNJPc8lYhNrRCkO434v"
@@ -259,7 +285,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108186,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP"
@@ -280,12 +306,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 108186,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/7hWSzHq7cfUMyeWhFow6sp"
@@ -625,7 +651,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 45370,
       "name": "Mo Escapes Gunfire",
       "url": "https://open.spotify.com/track/2kFzVTBAGAhHMbMTVyvOeH"
@@ -646,12 +672,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 45370,
       "name": "Mo Escapes Gunfire",
       "url": "https://open.spotify.com/track/6Kv9szNT7x8QbO9owwpJwO"
@@ -752,12 +778,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 61806,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4q0dCs7oOlqiUPx8BoybhK"
@@ -783,7 +809,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 61806,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z"
@@ -801,7 +827,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/0Qws7Y806JftF3TVAg7XAJ"
@@ -819,7 +845,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN"
@@ -1016,12 +1042,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 113420,
       "name": "What It Do",
       "url": "https://open.spotify.com/track/6OehApq6QDWGEiLJK3C2ji"
@@ -1047,7 +1073,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113420,
       "name": "What It Do",
       "url": "https://open.spotify.com/track/6gvatEc0FeHHg7lyFQNkQk"
@@ -1065,7 +1091,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT"
@@ -1083,7 +1109,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
@@ -1105,7 +1131,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 176062,
       "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD"
@@ -1127,7 +1153,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176062,
       "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5"
@@ -1145,7 +1171,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239253,
       "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
       "url": "https://open.spotify.com/track/2XeFCR6w0xCu2jLicUEjdk"
@@ -1163,7 +1189,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 239253,
       "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
       "url": "https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw"

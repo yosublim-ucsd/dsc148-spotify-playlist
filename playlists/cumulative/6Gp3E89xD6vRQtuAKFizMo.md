@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-292 songs - 14 hr 11 min
+294 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Arm's Length](https://open.spotify.com/track/57L7dmh277tu1jnctigapv) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Arm's Length](https://open.spotify.com/album/58ZUH38WuyiN1M0di6D4lL) | 2:53 | 2022-05-27 | 2022-11-05 |
 | [Artificial Intelligence](https://open.spotify.com/track/5EmqB3YZ6cARtlq5xPgtrz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Artificial Intelligence](https://open.spotify.com/album/5XqGAMi4EINRqAwwgDBNY2) | 2:29 | 2023-04-14 |  |
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 | 2023-03-04 |
+| [Attitude](https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Attitude](https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi) | 2:01 | 2024-04-19 |  |
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 |  |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 |  |
 | [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 |  |
@@ -45,6 +46,7 @@
 | [Broken](https://open.spotify.com/track/5wJd3MxskA8fWPxlgWzmWM) | [Boges](https://open.spotify.com/artist/2Wkblvn5eq5592TmfNSATt) | [Broken](https://open.spotify.com/album/0UCf4BfEcqY7uQlpVdFFRQ) | 2:50 | 2022-08-02 | 2022-11-23 |
 | [Bury Me Alive](https://open.spotify.com/track/1BzKaH0CLmGYmML7OkSari) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Bury Me Alive](https://open.spotify.com/album/4zIOaE92119xnp2uWxHWT9) | 4:50 | 2022-05-06 | 2022-06-25 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-05-06 | 2022-09-10 |
+| [By Myself](https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Future Unfold](https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa) | 3:03 | 2024-04-19 |  |
 | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/track/6HrgbjynD4n5qPwUFkyGMR) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Call Me Up \(feat\. Namelle\)](https://open.spotify.com/album/3QMSVLN7YlUUGeEzr9lObT) | 2:46 | 2023-03-02 | 2023-05-27 |
 | [Can't Stop Me](https://open.spotify.com/track/0Of9Hs4sqM83EuNpYxB1Lw) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Can't Stop Me](https://open.spotify.com/album/2pxDxyYUtfpmwBaZ6A4rzE) | 2:35 | 2024-02-16 |  |
 | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/track/6zKYgILhhx9vYGa4imIvFm) | [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Can’t Wait \(feat\. Tatiana Hazel\)](https://open.spotify.com/album/52E6cNhQu9YtNb1x6qP9vf) | 3:31 | 2022-09-27 | 2023-04-09 |

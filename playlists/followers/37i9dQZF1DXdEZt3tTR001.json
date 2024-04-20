@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 165806,
+  "2024-04-20": 165863,
   "date_first_scraped": "2021-12-30",
   "description": "lay back. chill out. ",
   "name": "floating",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 429120,
       "name": "'Cause I Love You",
       "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216201,
       "name": "Artificial Genuine",
       "url": "https://open.spotify.com/track/2dT9WvXLGizL5Oz4CsJLT9"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 279360,
       "name": "Can U Handle It?",
       "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 306306,
       "name": "Dangerously In Love",
       "url": "https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254106,
       "name": "He's Mine",
       "url": "https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c"
@@ -1796,6 +1796,28 @@
     },
     {
       "album": {
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279240,
+      "name": "Insecurities (feat. Moses Sumney)",
+      "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
+    },
+    {
+      "album": {
         "name": "Adventures In Paradise",
         "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
       },
@@ -1905,7 +1927,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 68922,
       "name": "KING & SUFFERIN (OPENING THEME)",
       "url": "https://open.spotify.com/track/75FJYTfhLrviJk1o2O5MpE"
@@ -2321,7 +2343,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266560,
       "name": "Naked",
       "url": "https://open.spotify.com/track/0mKbQvLjf1jVdnOKSZ5nC7"
@@ -2717,7 +2739,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
@@ -2883,7 +2905,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220960,
       "name": "Sending My Love",
       "url": "https://open.spotify.com/track/7f5dRZ6W2Si4SoPLQxNHbm"
@@ -3037,7 +3059,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219860,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/2wsHCR12q3n3gkXgHmTltz"
@@ -3055,7 +3077,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 219860,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/3A0mfgqxuD9BXKhAYXnNP2"
@@ -3355,7 +3377,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241985,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp"
@@ -3391,7 +3413,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 185371,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
@@ -3409,7 +3431,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
@@ -3445,7 +3467,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 266200,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ"
@@ -3615,7 +3637,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 162653,
       "name": "Thinking Less",
       "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
@@ -3727,7 +3749,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 438400,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd"
@@ -3807,7 +3829,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 196360,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
@@ -3825,7 +3847,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206421,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/4Yw8TyBm9J8cpy2guHUYog"
@@ -3879,7 +3901,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI"

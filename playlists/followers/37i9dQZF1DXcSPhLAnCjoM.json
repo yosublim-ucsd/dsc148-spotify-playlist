@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 1012007,
+  "2024-04-20": 1011008,
   "date_first_scraped": "2023-09-29",
-  "description": "Vernis Rouge au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
+  "description": "SANTA au top des 50 hits de vari\u00e9t\u00e9 fran\u00e7aise du moment.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170635,
       "name": "Au bout de mes r\u00eaves",
       "url": "https://open.spotify.com/track/0gtCHxyATWVLvcUhq8eL2f"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127496,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 127498,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183181,
       "name": "Douce",
       "url": "https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi"
@@ -701,10 +701,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
+    },
+    {
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "album": {
@@ -745,7 +763,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185325,
       "name": "Et si c'\u00e9tait nous deux ?",
       "url": "https://open.spotify.com/track/5WoHKaZ9NNIPGjQ5B62u5V"
@@ -789,6 +807,24 @@
       "duration_ms": 192998,
       "name": "Faut que tu m'aimes",
       "url": "https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK"
+    },
+    {
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
     },
     {
       "album": {
@@ -893,7 +929,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150024,
       "name": "Hey Bro",
       "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262092,
       "name": "Juste une chanson",
       "url": "https://open.spotify.com/track/7vOYObP8Svk2Hthv9J8gsq"
@@ -1622,6 +1658,28 @@
     },
     {
       "album": {
+        "name": "Les longueurs (Edit)",
+        "url": "https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4"
+      },
+      "artists": [
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        },
+        {
+          "name": "Alexia Gredy",
+          "url": "https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Les longueurs - Edit",
+      "url": "https://open.spotify.com/track/5TH1qlhAzrCE2EgfJlkXAV"
+    },
+    {
+      "album": {
         "name": "Rose des vents",
         "url": "https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e"
       },
@@ -1691,6 +1749,24 @@
       "duration_ms": 194666,
       "name": "LOVE'n'TENDRESSE",
       "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
+    },
+    {
+      "album": {
+        "name": "Ma ch\u00e9rie",
+        "url": "https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane",
+          "url": "https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181388,
+      "name": "Ma ch\u00e9rie",
+      "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
     },
     {
       "album": {
@@ -1987,7 +2063,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238653,
       "name": "Popcorn Sal\u00e9",
       "url": "https://open.spotify.com/track/4MpqiN2moRQR2t0DO43MZH"
@@ -2023,7 +2099,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
@@ -2099,6 +2175,24 @@
       "duration_ms": 219120,
       "name": "Retiens les r\u00eaves",
       "url": "https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR"
+    },
+    {
+      "album": {
+        "name": "A.M.O.U.R",
+        "url": "https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280386,
+      "name": "Rien comme les autres",
+      "url": "https://open.spotify.com/track/0Hxm3ciCNteZghavphxUha"
     },
     {
       "album": {
@@ -2251,6 +2345,24 @@
       "duration_ms": 152373,
       "name": "Tara",
       "url": "https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh"
+    },
+    {
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Tour de France",
+      "url": "https://open.spotify.com/track/4C0ZGFMFd8OrDwKHD9Fary"
     },
     {
       "album": {

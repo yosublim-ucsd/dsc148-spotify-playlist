@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 252909,
+  "2024-04-20": 252807,
   "date_first_scraped": "2022-06-10",
   "description": "The essential tracks from LiSA. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u304b\u3089\u4e16\u754c\u3078\u3068\u7fbd\u3070\u305f\u304f\u6b4c\u59eb\u3001LiSA\u306e\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8!",
   "name": "This Is LiSA",
@@ -1852,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "unlasting",
+        "url": "https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295219,
+      "name": "unlasting",
+      "url": "https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h"
+    },
+    {
+      "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
       },
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296813,
       "name": "unlasting",
       "url": "https://open.spotify.com/track/3SlQVRQAgsc6ac6UBM9dIk"

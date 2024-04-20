@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4969,
+  "2024-04-20": 5109,
   "date_first_scraped": "2023-11-30",
   "description": "Las canciones de reggaeton que marcaron el a\u00f1o. Foto: Yng Lvcas & Peso Pluma.",
   "name": "Lo Mejor De Mansi\u00f3n Reggaet\u00f3n 2023",
@@ -11,7 +11,7 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
@@ -517,7 +517,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "LA BABY",
       "url": "https://open.spotify.com/track/0hDE81j4N2DPLbEY4tiCDs"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182857,
       "name": "LA BABY",
       "url": "https://open.spotify.com/track/42qzMSlyVdf2Iar74eFePt"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"

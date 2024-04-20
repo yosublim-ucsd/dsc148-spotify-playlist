@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 18682,
+  "2024-04-20": 18684,
   "date_first_scraped": "2022-01-09",
-  "description": "Con licuachela en mano y perreando hasta el piso. Bellakath en portada ",
+  "description": "Con licuachela en mano y perreando hasta el piso. El Malilla en portada ",
   "name": "CHAKAL\u00d3N ",
   "tracks": [
     {
@@ -55,7 +55,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
@@ -151,6 +151,24 @@
       "duration_ms": 157347,
       "name": "A Mover Ese Booty",
       "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
     },
     {
       "album": {
@@ -281,6 +299,28 @@
       "duration_ms": 215201,
       "name": "Adicta al Perreo",
       "url": "https://open.spotify.com/track/419c5nJnQB8W7u6IZqfFZ7"
+    },
+    {
+      "album": {
+        "name": "Admitelo",
+        "url": "https://open.spotify.com/album/3LdHBkXvJz1PUuvWnsnPBC"
+      },
+      "artists": [
+        {
+          "name": "Morrow",
+          "url": "https://open.spotify.com/artist/6xIdQeYrbSdRZEpiY6gYd4"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Admitelo",
+      "url": "https://open.spotify.com/track/7ENlIXtlT858b2qgntZ0Qm"
     },
     {
       "album": {
@@ -1001,7 +1041,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171724,
       "name": "Bxtlla Rmx",
       "url": "https://open.spotify.com/track/3sp5F26Sf99aSXZoNCAbmR"
@@ -1153,7 +1193,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 229125,
       "name": "Caramelo (feat. DJ Esli, Michael G & B&B)",
       "url": "https://open.spotify.com/track/6P84crmqVzt4685QoMnjb0"
@@ -1201,7 +1241,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 183331,
       "name": "Chakaleo",
       "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
@@ -2325,7 +2365,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212114,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
@@ -2379,7 +2419,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138839,
       "name": "EN LA CHATA",
       "url": "https://open.spotify.com/track/63xhzDBP3FO6azIjH7DOvD"
@@ -2664,6 +2704,28 @@
     },
     {
       "album": {
+        "name": "Gato \u00d1ero",
+        "url": "https://open.spotify.com/album/3CWU6efODK6JPZ5CXOPxEB"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175090,
+      "name": "Gato \u00d1ero",
+      "url": "https://open.spotify.com/track/6USEQYl1m1Of28gI268MPX"
+    },
+    {
+      "album": {
         "name": "Goldi Buena",
         "url": "https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq"
       },
@@ -2737,7 +2799,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
@@ -3016,6 +3078,28 @@
     },
     {
       "album": {
+        "name": "Ktm",
+        "url": "https://open.spotify.com/album/5v8RXxX8wc4iqwLOIPWOkS"
+      },
+      "artists": [
+        {
+          "name": "Versatil Boy",
+          "url": "https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM"
+        },
+        {
+          "name": "Pamela Carbajal",
+          "url": "https://open.spotify.com/artist/7AQSBZhdudAmnDCvsNLtGb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157622,
+      "name": "Ktm",
+      "url": "https://open.spotify.com/track/0muAoT6CdmtiEzqNNzcH4i"
+    },
+    {
+      "album": {
         "name": "L-GANTE | Mission 19",
         "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
@@ -3101,7 +3185,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146328,
       "name": "La B Es de Bellaka",
       "url": "https://open.spotify.com/track/0ArhUN6zFdmFn5l7q6CO23"
@@ -3257,7 +3341,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191026,
       "name": "La Gata de la Agr\u00edcola Oriental (feat. Kery)",
       "url": "https://open.spotify.com/track/6ldT8rxnVimIKIJJLAcKq7"
@@ -3441,7 +3525,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111040,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1BzuD0FtJssMs5K7Pv4cg2"
@@ -4181,7 +4265,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159612,
       "name": "MODO CHAKALON",
       "url": "https://open.spotify.com/track/4E8dl7KQEDxLy8sGmiSefU"
@@ -4951,7 +5035,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187771,
       "name": "Peliculear",
       "url": "https://open.spotify.com/track/76g4vQcQSkijt5FQrBxx15"
@@ -5486,6 +5570,32 @@
     },
     {
       "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/7DI5MKX4UEm9MWX8lFiFVb"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        },
+        {
+          "name": "Jose Dolche",
+          "url": "https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/2n62yr2UjaI7iVrVeqnDtf"
+    },
+    {
+      "album": {
         "name": "Prende y Fuma",
         "url": "https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8"
       },
@@ -5741,7 +5851,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163106,
       "name": "Quiere 2",
       "url": "https://open.spotify.com/track/0oIiztg1iTCTbscxr15tfY"
@@ -5763,6 +5873,40 @@
       "duration_ms": 132500,
       "name": "Qu\u00e9 Lindo",
       "url": "https://open.spotify.com/track/2lcZGkWTcab6NatUVCz1MB"
+    },
+    {
+      "album": {
+        "name": "RAYBEN CAP 7: BELLAKACOQUETTE (El Burger, Smi-Lee) [feat. Profeta Yao Yao & Cachirula]",
+        "url": "https://open.spotify.com/album/6oacIxkILsvDG3nG045io9"
+      },
+      "artists": [
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        },
+        {
+          "name": "El Burger",
+          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159937,
+      "name": "RAYBEN CAP 7: BELLAKACOQUETTE (El Burger, Smi-Lee) [feat. Profeta Yao Yao & Cachirula]",
+      "url": "https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb"
     },
     {
       "album": {
@@ -5795,7 +5939,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx"
@@ -5917,7 +6061,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Rkt Rmx - Remix",
       "url": "https://open.spotify.com/track/2DhVtVuoTPaDJu2c3Jn1fW"
@@ -6197,7 +6341,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219637,
       "name": "Se Menea",
       "url": "https://open.spotify.com/track/6M0NXEkwBXqwg2GVqyMQDt"
@@ -6227,6 +6371,28 @@
       "duration_ms": 168308,
       "name": "Se Prepar\u00f3",
       "url": "https://open.spotify.com/track/50QKzgxB4Xxvltj3z4cEV5"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/0gvbwkGQ8nrailTxBVhAVp"
+      },
+      "artists": [
+        {
+          "name": "LOW D",
+          "url": "https://open.spotify.com/artist/5iE9h6usaFVPt7T9qmqEJM"
+        },
+        {
+          "name": "Yahxr",
+          "url": "https://open.spotify.com/artist/3u209CQOGDczE9EHrbdfnV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226019,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/7oi0FRmJfzDgVZNMk9wTgr"
     },
     {
       "album": {
@@ -6319,6 +6485,28 @@
       "duration_ms": 184932,
       "name": "Sport",
       "url": "https://open.spotify.com/track/2gRPbGv4aKgqWw9csZP5CM"
+    },
+    {
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "SUELTA",
+      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
     },
     {
       "album": {
@@ -6935,7 +7123,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227608,
       "name": "Tu Pones La Hora y Yo le Caigo",
       "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
@@ -7001,7 +7189,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
@@ -7106,6 +7294,32 @@
     },
     {
       "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/1z4WE2nmSrQZAQUr6ZumNi"
+      },
+      "artists": [
+        {
+          "name": "Mxcl",
+          "url": "https://open.spotify.com/artist/65NcNvupJKjUnpPY5SyG4Z"
+        },
+        {
+          "name": "ESCOR ONE",
+          "url": "https://open.spotify.com/artist/5gjS3q5qccyPk7JleVpW5x"
+        },
+        {
+          "name": "El Magisterio",
+          "url": "https://open.spotify.com/artist/4nVHztnmugxgYFcKpHeP2m"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/6BparqZRXF07PBQabOj6Oj"
+    },
+    {
+      "album": {
         "name": "Vasito Rojo (feat. Jose Dolche & Paulina Fuego)",
         "url": "https://open.spotify.com/album/3FprduKLlWaTGdIB7MMxRQ"
       },
@@ -7155,6 +7369,28 @@
       "duration_ms": 258596,
       "name": "VEN ARREB\u00c1TATE",
       "url": "https://open.spotify.com/track/36GbqfgNwZJQULo5YghqKk"
+    },
+    {
+      "album": {
+        "name": "Vergazo",
+        "url": "https://open.spotify.com/album/4NDB3NyP8TrRixlHKQK0JA"
+      },
+      "artists": [
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "Vergazo",
+      "url": "https://open.spotify.com/track/1QCJotDwcBq4xIepCNoycE"
     },
     {
       "album": {

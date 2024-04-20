@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2560,
+  "2024-04-20": 2564,
   "date_first_scraped": "2023-02-22",
   "description": "Folk punk, anti-folk, acoustic punk & more. Cover: AJJ",
   "name": "Folk Misfits",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 180983,
       "name": "Be Happy",
       "url": "https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 195681,
       "name": "Crag",
       "url": "https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 240849,
       "name": "Cup of Water",
       "url": "https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 113103,
       "name": "Death Machine",
       "url": "https://open.spotify.com/track/0QhIPhFmn8hXoZywxjYvHr"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113103,
       "name": "Death Machine",
       "url": "https://open.spotify.com/track/1MTOmUqUo4RD6fEuQqurS6"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 166065,
       "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
       "url": "https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166065,
       "name": "Gotta Get To Peekskill (feat. Violent Femmes)",
       "url": "https://open.spotify.com/track/7I5gYS1jiCj3MDS6NUPvCc"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212996,
       "name": "Hell's Comin' with Me",
       "url": "https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 166805,
       "name": "I Know How It Feels",
       "url": "https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147986,
       "name": "Loose Lips",
       "url": "https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 88706,
       "name": "Neutral Spirit Hotel",
       "url": "https://open.spotify.com/track/6KGL9EsMyAOvP6bjE0LtlG"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 139161,
       "name": "Out of Egypt",
       "url": "https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180133,
       "name": "The Legend of Chavo Guerrero",
       "url": "https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118922,
       "name": "The Voice In My Head",
       "url": "https://open.spotify.com/track/0LopEfv3D6ODNcBKyYtkdJ"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 162866,
       "name": "The Year I Get It Right",
       "url": "https://open.spotify.com/track/5kX4Ujo8YxIWMGFAofXAIR"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/4LKp7Whi6HvHCsBlftJr9m"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220840,
       "name": "Your Heart Is a Muscle the Size of Your Fist",
       "url": "https://open.spotify.com/track/1nQgPRVQN9fM1VdZdMNsC5"

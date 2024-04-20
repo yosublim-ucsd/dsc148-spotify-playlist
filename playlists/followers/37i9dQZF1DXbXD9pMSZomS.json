@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 461129,
+  "2024-04-20": 461124,
   "date_first_scraped": "2021-12-21",
   "description": "Distorted and rough around the edges.",
   "name": "Lo-Fi House",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307082,
       "name": "78 To Stanley Bay",
       "url": "https://open.spotify.com/track/74LRqSi9vqy4vnxCLInNAw"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 293764,
       "name": "A Piece of Mind",
       "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285772,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 188852,
       "name": "Alone Girl",
       "url": "https://open.spotify.com/track/2j2clSPCLFbBqNVS6MPR8q"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 460800,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245863,
       "name": "Back to My Place",
       "url": "https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 349560,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/6lrKGHqI1tWcLob2F9UzWQ"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 314000,
       "name": "Deep Love",
       "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 308269,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 339130,
       "name": "Flightmode On",
       "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
@@ -1649,6 +1649,24 @@
       "duration_ms": 381864,
       "name": "Floating on Silence",
       "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb"
+      },
+      "artists": [
+        {
+          "name": "Kleinefrigo",
+          "url": "https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274285,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr"
     },
     {
       "album": {
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397640,
       "name": "I Needed",
       "url": "https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 272760,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 150545,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 493000,
       "name": "Intimate Fantasy",
       "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
@@ -2259,7 +2277,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 381662,
       "name": "Kokiri Forest",
       "url": "https://open.spotify.com/track/6vhVeoN1qJNJfdiIJAK4A9"
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 178983,
       "name": "Lofi Vs. House",
       "url": "https://open.spotify.com/track/0nSWtxmPYxrNU7d5yjKiq4"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149473,
       "name": "Mellina",
       "url": "https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 154814,
       "name": "Mellow Mornings",
       "url": "https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 207272,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
@@ -2823,7 +2841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153345,
       "name": "Obscure",
       "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
@@ -3199,7 +3217,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219840,
       "name": "porco rosso",
       "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351207,
       "name": "Rare Happiness",
       "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
@@ -3487,7 +3505,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 214602,
       "name": "Restless",
       "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146949,
       "name": "SEX IS GOOD BUT HAVE U EVER",
       "url": "https://open.spotify.com/track/3Q90SwsnNZDTTG0gqZxTaU"
@@ -3945,7 +3963,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215222,
       "name": "suddenly",
       "url": "https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH"
@@ -3963,7 +3981,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
@@ -4061,7 +4079,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401573,
       "name": "Szikra",
       "url": "https://open.spotify.com/track/3yKtOUp5t6SyL3SK0fb2yX"
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417099,
       "name": "Talk to Me You'll Understand",
       "url": "https://open.spotify.com/track/4Z4i631BesV0P6LTvfLAdL"
@@ -4275,6 +4293,24 @@
       "duration_ms": 199084,
       "name": "The Moment - Radio Edit",
       "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
+    },
+    {
+      "album": {
+        "name": "The Personality",
+        "url": "https://open.spotify.com/album/7BUXSELRrZvrFBmvovbOi0"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352727,
+      "name": "The Personality",
+      "url": "https://open.spotify.com/track/6VhHlgGyMJKLq9bwgLsjos"
     },
     {
       "album": {
@@ -4597,7 +4633,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251000,
       "name": "Vibrant Air",
       "url": "https://open.spotify.com/track/6GbiQmd9EAWP53EJ2Acbec"
@@ -4675,13 +4711,13 @@
           "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
         },
         {
-          "name": "Kuniyuki",
-          "url": "https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl"
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
         }
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 409619,
       "name": "Watarase - Henrik Schwarz Version",
       "url": "https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ"
@@ -4717,7 +4753,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308874,
       "name": "WhereYouGonnaGo?",
       "url": "https://open.spotify.com/track/1ELW3mroLCVV20CIYnuCQn"

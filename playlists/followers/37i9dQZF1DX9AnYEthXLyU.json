@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13670,
+  "2024-04-20": 13669,
   "date_first_scraped": "2023-05-04",
   "description": "when things just feel heavy.",
   "name": "Broken",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 144272,
       "name": "Alone (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/1EBtVgTnh8umbKsdsQi0zg"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144272,
       "name": "Alone (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u"
@@ -375,10 +375,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215293,
       "name": "Crying While You're Dancing",
       "url": "https://open.spotify.com/track/2Qw2kYG5hVmmPmu0JWTiyk"
+    },
+    {
+      "album": {
+        "name": "Dark Sun",
+        "url": "https://open.spotify.com/album/5LBwRaecL24pCuyX5klZm5"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Crying While You're Dancing",
+      "url": "https://open.spotify.com/track/4jK8AB1E3sUR5D8yL9uepd"
     },
     {
       "album": {
@@ -639,10 +657,28 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261680,
       "name": "I Never Loved Myself Like I Loved You",
       "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
+    },
+    {
+      "album": {
+        "name": "-!-",
+        "url": "https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261680,
+      "name": "I Never Loved Myself Like I Loved You",
+      "url": "https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR"
     },
     {
       "album": {
@@ -733,7 +769,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206924,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/06j7eVHrgRSt9eQSWhH3zK"
@@ -769,7 +805,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 206924,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
@@ -805,7 +841,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 186129,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/0CwiF8zPjl7ESC6nDnBvPo"
@@ -823,7 +859,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186129,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/3FfvJzsIj69F8aZopaHyvY"
@@ -877,7 +913,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 249920,
       "name": "Mixed Emotions (I Didn't Know How To Tell You What I Was Going Through)",
       "url": "https://open.spotify.com/track/5tsBGhl0yosGxoj992WtjJ"
@@ -895,7 +931,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249920,
       "name": "Mixed Emotions (I Didn\u2019t Know How To Tell You What I Was Going Through)",
       "url": "https://open.spotify.com/track/5oR7XZgDOI2G6gQcWzZ1Ol"

@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "A Minor Thing",
+        "url": "https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217968,
+      "name": "A Minor Thing",
+      "url": "https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm"
+    },
+    {
+      "album": {
         "name": "A Mother's Love",
         "url": "https://open.spotify.com/album/35iuiVjjXK5RA7VpgYivTM"
       },
@@ -15988,7 +16006,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 185943,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/2aErKl7f7JEvr1fuXyFwlg"
@@ -17946,6 +17964,24 @@
       "duration_ms": 156339,
       "name": "The Molly Pitchers",
       "url": "https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY"
+    },
+    {
+      "album": {
+        "name": "The Moment We Said Goodbye",
+        "url": "https://open.spotify.com/album/71JjX05H3qRf7hoiKzEszO"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232115,
+      "name": "The Moment We Said Goodbye",
+      "url": "https://open.spotify.com/track/4StMdVMtMG4IlZF8GmGyb9"
     },
     {
       "album": {
@@ -20066,7 +20102,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 337093,
       "name": "When We Meet Halfway",
       "url": "https://open.spotify.com/track/0ZmL7e8iZhPiNtpvPNUiNP"

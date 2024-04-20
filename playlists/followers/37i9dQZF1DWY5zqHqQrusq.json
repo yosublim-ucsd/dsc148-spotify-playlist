@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8268,
+  "2024-04-20": 8271,
   "date_first_scraped": "2022-11-16",
   "description": "Chill, take a long walk and clear your mind",
   "name": "Barefoot and Free",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 137368,
       "name": "Aibu",
       "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137368,
       "name": "Aibu (feat. Bien)",
       "url": "https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 132490,
       "name": "Bright Outside",
       "url": "https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132490,
       "name": "Bright Outside",
       "url": "https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 176500,
       "name": "Kitanda Baridi",
       "url": "https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176500,
       "name": "Kitanda Baridi",
       "url": "https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223312,
       "name": "Mae Wendi",
       "url": "https://open.spotify.com/track/4hbmPkeauQBw3RnxH45udP"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 223312,
       "name": "Mae Wendi",
       "url": "https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy"
@@ -1038,7 +1038,7 @@
     },
     {
       "album": {
-        "name": "Sasa Hivi",
+        "name": "Sasa Hivi (Stripped Down)",
         "url": "https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg"
       },
       "artists": [
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 262184,
       "name": "Sasa Hivi - Stripped Down",
       "url": "https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229494,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 229494,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb"
@@ -1393,7 +1393,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 173013,
       "name": "The Oasis on Mbaazi Street",
       "url": "https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173085,
       "name": "The Oasis on Mbaazi Street",
       "url": "https://open.spotify.com/track/7oqKrDdrY5BvaNOTJ0wO7l"

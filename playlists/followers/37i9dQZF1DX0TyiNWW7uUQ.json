@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 567420,
+  "2024-04-20": 567454,
   "date_first_scraped": "2022-05-30",
   "description": "Finest collection of Tamil Music from the past 10 years\nCover : Jailer",
   "name": "Kollywood Cream",
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240169,
       "name": "High on Love",
       "url": "https://open.spotify.com/track/0zDmCKN7OlRmNmeiiJAyOR"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240169,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6OcZhL1AbSmtC0OtlT8zmq"
@@ -1609,10 +1609,36 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203052,
       "name": "Mainaru Vetti Katti",
       "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
+    },
+    {
+      "album": {
+        "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
+        "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Mainaru Vetti Katti",
+      "url": "https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj"
     },
     {
       "album": {
@@ -2971,7 +2997,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
@@ -3007,7 +3033,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
@@ -3159,7 +3185,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 228567,
       "name": "Tum Tum",
       "url": "https://open.spotify.com/track/4eVsmEtOgOCa3WnK0C4Cbg"
@@ -3197,7 +3223,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228567,
       "name": "Tum Tum (From \"Enemy - Tamil\")",
       "url": "https://open.spotify.com/track/4WrDC4KvSIXPKvLjGSzFoF"
@@ -3647,17 +3673,13 @@
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Anirudh Ravichander,Sid Sriram",
+          "url": "https://open.spotify.com/artist/0n2ycUB8DkxARKZgqorz1P"
         }
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale",
       "url": "https://open.spotify.com/track/0veda7gIbScyRAp2fWjDQh"
@@ -3683,7 +3705,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale (From \"Naanum Rowdy Dhaan\")",
       "url": "https://open.spotify.com/track/4QROxOGtSMviE3NydK7Hpo"

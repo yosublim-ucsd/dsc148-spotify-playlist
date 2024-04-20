@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 96082,
+  "2024-04-20": 96189,
   "date_first_scraped": "2024-01-30",
   "description": "Love whoever you want to love. ",
   "name": "Queer Love",
@@ -21,6 +21,46 @@
       "duration_ms": 115657,
       "name": "A Shitty Gay Song About You",
       "url": "https://open.spotify.com/track/7cA93NpGWT5pgyxNtsszSR"
+    },
+    {
+      "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/73BpWEFfUfgQINo81JJCDo"
+    },
+    {
+      "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
+      },
+      "artists": [
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143322,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq"
     },
     {
       "album": {
@@ -53,7 +93,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
       "url": "https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1"
@@ -71,7 +111,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
       "url": "https://open.spotify.com/track/7i5ymzlXUivT6GNVpdfFuR"
@@ -111,6 +151,24 @@
       "duration_ms": 205224,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
+    },
+    {
+      "album": {
+        "name": "Cherry Bomb",
+        "url": "https://open.spotify.com/album/09I3k7LK3Hgg9FaXKFXCOR"
+      },
+      "artists": [
+        {
+          "name": "Julianna Joy",
+          "url": "https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/1yyRet7pgLwTGGxGkbbaaa"
     },
     {
       "album": {
@@ -201,7 +259,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
@@ -273,7 +331,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 216546,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/27DxZkqTR2SHZTTfMRpUvW"
@@ -291,7 +349,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149680,
       "name": "Francis Forever",
       "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr"
@@ -331,7 +389,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198400,
       "name": "girls",
       "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
@@ -349,7 +407,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225972,
       "name": "Heart to Break",
       "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
@@ -439,7 +497,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204990,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
@@ -482,6 +540,60 @@
     },
     {
       "album": {
+        "name": "I'm Too Sensitive For This Shit",
+        "url": "https://open.spotify.com/album/5hniheiwAhenz8L50qqD4r"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159288,
+      "name": "L.O.V.E. Me",
+      "url": "https://open.spotify.com/track/62yWj1rl3dmeamxfBjOtHO"
+    },
+    {
+      "album": {
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233088,
+      "name": "Let Us Die",
+      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2jsTbvNFkE9EuNFLnStchm"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202497,
+      "name": "Like You Like That",
+      "url": "https://open.spotify.com/track/4K9yoBHLnOLcTe7AWewiLM"
+    },
+    {
+      "album": {
         "name": "Lovestained",
         "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
       },
@@ -493,7 +605,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
@@ -533,6 +645,24 @@
       "duration_ms": 136760,
       "name": "Marceline",
       "url": "https://open.spotify.com/track/0RCpze7hmowZIGUJs9Dm7w"
+    },
+    {
+      "album": {
+        "name": "claire (deluxe)",
+        "url": "https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA"
+      },
+      "artists": [
+        {
+          "name": "kezia",
+          "url": "https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149955,
+      "name": "megan fox",
+      "url": "https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg"
     },
     {
       "album": {
@@ -601,7 +731,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
@@ -735,7 +865,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247554,
       "name": "Say It First",
       "url": "https://open.spotify.com/track/4K1vOdIFqskQv3zoI0FdAk"
@@ -789,10 +919,32 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156584,
       "name": "she knows it",
       "url": "https://open.spotify.com/track/6akIg86zMI54PSMOvVMTb9"
+    },
+    {
+      "album": {
+        "name": "She Like (feat. Blanco)",
+        "url": "https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "She Like (feat. Blanco)",
+      "url": "https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK"
     },
     {
       "album": {
@@ -825,7 +977,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 189586,
       "name": "She's My Religion",
       "url": "https://open.spotify.com/track/0LwJllN73QYBHEBdGUTyEp"
@@ -843,7 +995,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173328,
       "name": "She's Pretty",
       "url": "https://open.spotify.com/track/4yGbOvfWg5HOmRP7xbnv7j"
@@ -901,7 +1053,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209091,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/6LHioVAsFPLjupnl8ikW7H"
@@ -926,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "iridescence",
+        "url": "https://open.spotify.com/album/3Mj4A4nNJzIdxOyS4yzOhj"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93546,
+      "name": "SOMETHING ABOUT HIM",
+      "url": "https://open.spotify.com/track/2S11ZvEfuFSqInfxWxkx36"
+    },
+    {
+      "album": {
         "name": "space girl",
         "url": "https://open.spotify.com/album/2kTyJsKMpVKd3dv87ePucD"
       },
@@ -937,7 +1107,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231440,
       "name": "space girl",
       "url": "https://open.spotify.com/track/7FjIYiD53wxlQmzTT6Wdpf"
@@ -973,7 +1143,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 221621,
       "name": "Started Out",
       "url": "https://open.spotify.com/track/7l5Z2grGc47Hs84Zm7XobV"
@@ -1085,7 +1255,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 205977,
       "name": "Volcanic Love",
       "url": "https://open.spotify.com/track/5YY6Z7YnjGOPxYy8ooZmLC"
@@ -1121,7 +1291,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191306,
       "name": "Wish You Were Gay",
       "url": "https://open.spotify.com/track/1UOgQpv8Ofd3OtlmpCjmTM"

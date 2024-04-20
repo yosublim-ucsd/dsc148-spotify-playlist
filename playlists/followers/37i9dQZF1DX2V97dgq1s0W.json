@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 183936,
+  "2024-04-20": 184453,
   "date_first_scraped": "2023-02-24",
-  "description": "Beautifully chilled vocals from around the world. Cover: Marie Dahlstrom",
+  "description": "Beautifully chilled vocals from around the world. Cover: Jaz Karis",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -213,6 +213,28 @@
     {
       "album": {
         "name": "6 Feet Down",
+        "url": "https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/702iObycXld7AL2LQpTpUc"
+    },
+    {
+      "album": {
+        "name": "6 Feet Down",
         "url": "https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP"
       },
       "artists": [
@@ -227,7 +249,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168500,
       "name": "6 Feet Down",
       "url": "https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK"
@@ -558,6 +580,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2Gp1UiAMEAPkLoh9aBUBCs"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/3nsLmjrN9hwht5VszHwU23"
+    },
+    {
+      "album": {
         "name": "Motive",
         "url": "https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr"
       },
@@ -623,7 +663,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174409,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/0DAttm4G157xCPhzrCeH4t"
@@ -725,7 +765,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223073,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/2nwHKcQ5RG88Tf8RbLUYUA"
@@ -1033,7 +1073,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194066,
       "name": "Doctor, My Eyes",
       "url": "https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0"
@@ -1123,7 +1163,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 159244,
       "name": "Double Back",
       "url": "https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd"
@@ -1141,7 +1181,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159244,
       "name": "Double Back",
       "url": "https://open.spotify.com/track/7Fz8TyKSzhetD7zLYbrPgf"
@@ -1159,7 +1199,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174545,
       "name": "ego talkin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5HkvwkP7q01ArLWx4vTzKV"
@@ -1289,7 +1329,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235964,
       "name": "feels",
       "url": "https://open.spotify.com/track/56O1IiX4MTIzQNxUFoBWHu"
@@ -1469,7 +1509,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179036,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs"
@@ -1487,7 +1527,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Gaslight 101",
       "url": "https://open.spotify.com/track/1RFUyaEgrVucSKNm4I8XJs"
@@ -1731,7 +1771,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207239,
       "name": "Golden Child (Jealous)",
       "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
@@ -1796,6 +1836,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
+    },
+    {
+      "album": {
         "name": "Black Radio III (Supreme Edition)",
         "url": "https://open.spotify.com/album/0koSNz785od22spE0DlKO7"
       },
@@ -1829,7 +1887,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 243293,
       "name": "Hennessy Tears",
       "url": "https://open.spotify.com/track/0cfaNTDBtXDavehtJ554z4"
@@ -1855,6 +1913,46 @@
       "duration_ms": 139630,
       "name": "Here With Me (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV"
+    },
+    {
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z"
+    },
+    {
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "album": {
@@ -2059,7 +2157,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
@@ -2113,7 +2211,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227192,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2r1drwmNX4l65SsbIipWa8"
@@ -2131,7 +2229,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 227192,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5QX3cYcTMvWQGTydgR0NqZ"
@@ -2207,7 +2305,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271328,
       "name": "Intimate - A COLORS SHOW",
       "url": "https://open.spotify.com/track/743f9Nk2bgkTJIjNOOgWJj"
@@ -2551,7 +2649,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
@@ -2569,7 +2667,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
@@ -3071,10 +3169,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258159,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/5YpyZkunFzkFUxYb82yqZc"
+    },
+    {
+      "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
     },
     {
       "album": {
@@ -3318,6 +3438,24 @@
     },
     {
       "album": {
+        "name": "One Night Stand",
+        "url": "https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4"
+      },
+      "artists": [
+        {
+          "name": "Marsha Ambrosius",
+          "url": "https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256924,
+      "name": "One Night Stand",
+      "url": "https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA"
+    },
+    {
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
       },
@@ -3337,6 +3475,24 @@
       "duration_ms": 155355,
       "name": "One Of Them Days (feat. Monica)",
       "url": "https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7"
+    },
+    {
+      "album": {
+        "name": "Peace in the Madness",
+        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198570,
+      "name": "Only The Brave",
+      "url": "https://open.spotify.com/track/4brOrpLd0QyWR1fIvja8qP"
     },
     {
       "album": {
@@ -4088,6 +4244,24 @@
     },
     {
       "album": {
+        "name": "Tales of a Miracle (Deluxe)",
+        "url": "https://open.spotify.com/album/7eDnw7VgUNXxg3v7GOEyFT"
+      },
+      "artists": [
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159618,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/0nW3LFiSZEcu6tCOi7SKRm"
+    },
+    {
+      "album": {
         "name": "Selfless",
         "url": "https://open.spotify.com/album/7izEEgKSE68Vgznxb6dCrW"
       },
@@ -4289,7 +4463,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177726,
       "name": "Some Feelings Never Go Away",
       "url": "https://open.spotify.com/track/2W3opOU3acvOKwo8UDx0mf"
@@ -4333,6 +4507,28 @@
       "duration_ms": 161529,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
+    },
+    {
+      "album": {
+        "name": "Special Feeling",
+        "url": "https://open.spotify.com/album/5CuVwOalisvrfvgvgvFAgx"
+      },
+      "artists": [
+        {
+          "name": "Noxz",
+          "url": "https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2"
+        },
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Special Feeling",
+      "url": "https://open.spotify.com/track/5PFwsxWhzsjb3Yfi8U9XdM"
     },
     {
       "album": {
@@ -4999,7 +5195,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160166,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/06cTLhOXxkVVKGKXuOuCJ2"
@@ -5147,7 +5343,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 180949,
       "name": "We Keep On",
       "url": "https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v"
@@ -5165,7 +5361,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180949,
       "name": "We Keep On",
       "url": "https://open.spotify.com/track/3cWwh46djB72qVMRmTpaMS"
@@ -5311,6 +5507,24 @@
       "duration_ms": 168000,
       "name": "Wish You Well (Hablot Brown Remix)",
       "url": "https://open.spotify.com/track/3bo87BOzyCPK6ZsrhIatMq"
+    },
+    {
+      "album": {
+        "name": "Peace in the Madness",
+        "url": "https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw"
+      },
+      "artists": [
+        {
+          "name": "Sipprell",
+          "url": "https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7"
     },
     {
       "album": {

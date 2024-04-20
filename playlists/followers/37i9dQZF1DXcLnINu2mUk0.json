@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 45170,
+  "2024-04-20": 45178,
   "date_first_scraped": "2022-07-17",
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Salah, Timor YSF, MC Zaquin",
   "name": "Seda",
@@ -381,6 +381,24 @@
       "duration_ms": 160000,
       "name": "Acalma a Alma",
       "url": "https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW"
+    },
+    {
+      "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm"
+      },
+      "artists": [
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179380,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
     },
     {
       "album": {
@@ -2700,6 +2718,24 @@
     },
     {
       "album": {
+        "name": "Dado",
+        "url": "https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG"
+      },
+      "artists": [
+        {
+          "name": "Sali",
+          "url": "https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141566,
+      "name": "Dado",
+      "url": "https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA"
+    },
+    {
+      "album": {
         "name": "Dalilah (with Djodje)",
         "url": "https://open.spotify.com/album/3nBsJCmvJo0r5bv3Ld6X2o"
       },
@@ -3475,7 +3511,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226363,
       "name": "Encandeia",
       "url": "https://open.spotify.com/track/5QXceEFUvXtjPiUDTudvii"
@@ -4155,7 +4191,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161392,
       "name": "Feiti\u00e7o",
       "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
@@ -4269,8 +4305,8 @@
           "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
         },
         {
-          "name": "MIKELPOTTER",
-          "url": "https://open.spotify.com/artist/3m7RZ1FQOykuToY5e5G8yJ"
+          "name": "Potter",
+          "url": "https://open.spotify.com/artist/3lEPRRwewQnDzDO1rjLj3q"
         }
       ],
       "date_added": "2024-03-15",
@@ -5087,7 +5123,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206933,
       "name": "If U Love Me",
       "url": "https://open.spotify.com/track/47D98I1Fp6Ncpt06bEjMyh"
@@ -5113,7 +5149,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
@@ -5139,10 +5175,32 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/7ngJWF9fTaOG3vmEhSvK6g"
+    },
+    {
+      "album": {
+        "name": "Impala",
+        "url": "https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        },
+        {
+          "name": "Alex D'Alva",
+          "url": "https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180958,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu"
     },
     {
       "album": {
@@ -5701,7 +5759,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192452,
       "name": "Lidar",
       "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
@@ -5845,7 +5903,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180762,
       "name": "love fora de stock",
       "url": "https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc"
@@ -6931,7 +6989,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
@@ -6949,7 +7007,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
@@ -7371,7 +7429,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160957,
       "name": "N\u00e3o D\u00e1",
       "url": "https://open.spotify.com/track/6cALPWqrwYbbR9GEVM8Xg3"
@@ -8591,7 +8649,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Quero Encontrar",
       "url": "https://open.spotify.com/track/13JbJ8nKqkuBg2uQG5BQHT"
@@ -8613,6 +8671,24 @@
       "duration_ms": 189230,
       "name": "Quero Mais",
       "url": "https://open.spotify.com/track/6kQDYX5I2cP8oVx1RfWaxs"
+    },
+    {
+      "album": {
+        "name": "Quero Ouvir",
+        "url": "https://open.spotify.com/album/3aSiD5EokYVlNJLnth3X8p"
+      },
+      "artists": [
+        {
+          "name": "Xadrek Tchama",
+          "url": "https://open.spotify.com/artist/5kKmFvn2U5YOQuuZACnVku"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Quero Ouvir",
+      "url": "https://open.spotify.com/track/1VffI1MMgSsWDm1F6yEbzi"
     },
     {
       "album": {
@@ -9149,7 +9225,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306731,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo"
@@ -9167,7 +9243,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306733,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
@@ -9567,7 +9643,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195714,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/1HokVALLDjwqdtVpuP8Vwv"
@@ -9919,6 +9995,24 @@
       "duration_ms": 245389,
       "name": "Something",
       "url": "https://open.spotify.com/track/6XVYgOYwFSasbsPB41HCFA"
+    },
+    {
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu"
     },
     {
       "album": {
@@ -10689,7 +10783,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 226005,
       "name": "Trovador",
       "url": "https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU"
@@ -11376,6 +11470,24 @@
     },
     {
       "album": {
+        "name": "Volkswagen Antigo",
+        "url": "https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu"
+      },
+      "artists": [
+        {
+          "name": "t. Policarpo",
+          "url": "https://open.spotify.com/artist/1mlIsIPUmPwNtjuEdIYz8K"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157499,
+      "name": "Volkswagen Antigo",
+      "url": "https://open.spotify.com/track/4BZY6v1OMT9oyawenlCTJu"
+    },
+    {
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/3A83wpbeuo3SDWWu6lQmH1"
       },
@@ -11387,7 +11499,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Volta",
       "url": "https://open.spotify.com/track/2SLW9thnVkyx4V3fjTEGTl"
@@ -11707,6 +11819,24 @@
       "duration_ms": 207593,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
+    },
+    {
+      "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
     },
     {
       "album": {

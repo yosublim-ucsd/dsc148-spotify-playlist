@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 48149,
+  "2024-04-20": 48189,
   "date_first_scraped": "2022-06-20",
   "description": "Iconic instrumentals from the history of Blues.",
   "name": "Classic Instrumental Blues",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190106,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191106,
       "name": "Albatross - 2018 Master",
       "url": "https://open.spotify.com/track/3iTkd7x5X2LIVKu7JNwqHR"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206053,
       "name": "Apollo Jump",
       "url": "https://open.spotify.com/track/2udbMDGYCNJd9Yc4S5YQ8l"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 175968,
       "name": "Blind Willie",
       "url": "https://open.spotify.com/track/7Dc0GqiXeIqiQaTngeBcod"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183279,
       "name": "Blues After Hours",
       "url": "https://open.spotify.com/track/60ySIiaWLG77hphydDwmNn"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 191520,
       "name": "Blues For Bill",
       "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 161853,
       "name": "Blues For The Red Boy",
       "url": "https://open.spotify.com/track/74Z91ZZf0cwGWOVEJQacvA"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 179342,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5w3RqBNmHufIVgr2aD77QF"
@@ -783,10 +783,28 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150465,
       "name": "Gotta Move",
       "url": "https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll"
+    },
+    {
+      "album": {
+        "name": "Hall of Fame Shuffle",
+        "url": "https://open.spotify.com/album/7EqM9a5tlgUvB78GYdl7GS"
+      },
+      "artists": [
+        {
+          "name": "David Henriksson & Daze Delight",
+          "url": "https://open.spotify.com/artist/5pLdmPq1GJqtQVPfxYAFgV"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327874,
+      "name": "Hall of Fame Shuffle",
+      "url": "https://open.spotify.com/track/5ACkIkSkjFnniug7zSJo0l"
     },
     {
       "album": {
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 139386,
       "name": "Hawaiian Boogie",
       "url": "https://open.spotify.com/track/50IAP78bUna2exWkQiGhrM"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393666,
       "name": "Little Johnny Lee",
       "url": "https://open.spotify.com/track/0cMLZ7b1K1d2hGLBfu91SD"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210260,
       "name": "Put It",
       "url": "https://open.spotify.com/track/7yrPbz5EYQKSKj8S5Bm7P7"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 564133,
       "name": "The Messiah Will Come",
       "url": "https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 173674,
       "name": "The Supernatural",
       "url": "https://open.spotify.com/track/4r4fq97cNvnRw7TmN6AaPr"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268840,
       "name": "Tribal Dance",
       "url": "https://open.spotify.com/track/0bQRtVWacZ4g0usBHrqkl6"

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO4wKHCh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4wKHCh)
 
-### [This is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
+### [This Is Emei](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh)
 
-> This is Emei\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,431 likes - 18 songs - 43 min 20 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,447 likes - 18 songs - 43 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 17 | [Picky](https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:20 |
 | 18 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 
-Snapshot ID: `MTcxMzMxMjAwMCwwMDAwMDAwMDA3ZTRkYzNjMDQ0YmE4MTI1ZmFiOTZkNmE2YTliODdi`
+Snapshot ID: `MTcxMzM5ODQwMCwwMDAwMDAwMGE4YWI1NDMwYTgyOTVlOGI2OTY1ZWE2NmVkMzExYzJl`

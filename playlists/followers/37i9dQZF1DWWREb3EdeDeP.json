@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35502,
+  "2024-04-20": 35519,
   "date_first_scraped": "2024-01-30",
   "description": "Relive the most exciting battles and fight scenes from Star Wars.",
   "name": "Epic Battles",
@@ -61,10 +61,40 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222600,
       "name": "Battle of the Heroes",
       "url": "https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nm0ehEbV8rnKKZppxhawc"
+      },
+      "artists": [
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "New London Children's Choir",
+          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Battle Of The Heroes",
+      "url": "https://open.spotify.com/track/7lDLBwXSH6jhBWxC7hmE4M"
     },
     {
       "album": {
@@ -101,10 +131,36 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202346,
       "name": "Bounty Hunter's Pursuit",
       "url": "https://open.spotify.com/track/1RwKYqANWKV9scG89okwJz"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54m0VdVh3yN9SrjSLPGVrP"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Bounty Hunter's Pursuit",
+      "url": "https://open.spotify.com/track/3fzVwWEHiwwYqEQOFKPnzE"
     },
     {
       "album": {
@@ -159,10 +215,40 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254346,
       "name": "Duel of the Fates",
       "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gl3f3otffNsIxosRAvKSz"
+      },
+      "artists": [
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "New London Children's Choir",
+          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254360,
+      "name": "Duel Of The Fates",
+      "url": "https://open.spotify.com/track/7di1zbwgfJkRLkTGV44icu"
     },
     {
       "album": {
@@ -203,10 +289,36 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207066,
       "name": "Grievous and the Droids",
       "url": "https://open.spotify.com/track/6N0cqmiMjeABuxJwf7RZma"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nm0ehEbV8rnKKZppxhawc"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Grievous and the Droids",
+      "url": "https://open.spotify.com/track/4IzVIi9R1Wavj7zAjWONPm"
     },
     {
       "album": {
@@ -243,10 +355,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378320,
       "name": "Imperial Attack",
       "url": "https://open.spotify.com/track/3KVsq9veMUESIb3ln7Rowv"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Pxlc9bhZjK7igCdffneyW"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379240,
+      "name": "Imperial Attack",
+      "url": "https://open.spotify.com/track/7sm2yTl12Yg0o5SDXizd3f"
     },
     {
       "album": {
@@ -265,10 +399,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254533,
       "name": "Inner City",
       "url": "https://open.spotify.com/track/2FNM1hkj22dtos4SmRsjND"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Pxlc9bhZjK7igCdffneyW"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Inner City",
+      "url": "https://open.spotify.com/track/0etVepT4gX2Q1HsXTGPIFe"
     },
     {
       "album": {
@@ -287,10 +443,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157173,
       "name": "Into the Trap",
       "url": "https://open.spotify.com/track/4I7uZnCpdzSZMu0Oz6ZzOS"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06EONjbfq9vtinuIqq29HX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161013,
+      "name": "Into the Trap",
+      "url": "https://open.spotify.com/track/6pl5HyudcFErG6wD6SKVXT"
     },
     {
       "album": {
@@ -309,10 +487,36 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227880,
       "name": "Jango's Escape",
       "url": "https://open.spotify.com/track/20dCnqTMdALhfI81B3avG8"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54m0VdVh3yN9SrjSLPGVrP"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "Jango's Escape",
+      "url": "https://open.spotify.com/track/36z8v8HC27enGdM94O6TGZ"
     },
     {
       "album": {
@@ -425,10 +629,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321453,
       "name": "Rebels at Bay",
       "url": "https://open.spotify.com/track/0Q9LIPNdjWUfK5uLwWmTSg"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327133,
+      "name": "Rebels at Bay",
+      "url": "https://open.spotify.com/track/2NWNkDoePT1QOKx8wUnf7d"
     },
     {
       "album": {
@@ -505,10 +731,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222800,
       "name": "The Battle in the Snow",
       "url": "https://open.spotify.com/track/6quL0XEmUeHqbXTStEXCJx"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/669tU9gpisLy8EM6qlKrdL"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230453,
+      "name": "The Battle in the Snow",
+      "url": "https://open.spotify.com/track/6VXUoYGhlCIRPN3bHznNg4"
     },
     {
       "album": {
@@ -581,10 +829,32 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242880,
       "name": "The Forest Battle",
       "url": "https://open.spotify.com/track/3YE4sUxcxMztblbryEslaG"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06EONjbfq9vtinuIqq29HX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "The Forest Battle",
+      "url": "https://open.spotify.com/track/36gOhkXEHlcCMskCrisw5g"
     },
     {
       "album": {
@@ -603,10 +873,40 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156360,
       "name": "The Sith Spacecraft and the Droid Battle",
       "url": "https://open.spotify.com/track/1JNxsUGy7eHEPogYXAGUfI"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gl3f3otffNsIxosRAvKSz"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        },
+        {
+          "name": "New London Children's Choir",
+          "url": "https://open.spotify.com/artist/6NjmXZS0hvrKr02zn34lLb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157040,
+      "name": "The Sith Spacecraft and the Droid Battle",
+      "url": "https://open.spotify.com/track/0dg70W30usIZtlibzYq4Jg"
     },
     {
       "album": {

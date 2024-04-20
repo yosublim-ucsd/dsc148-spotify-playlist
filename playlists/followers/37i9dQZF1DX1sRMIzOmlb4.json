@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 39691,
+  "2024-04-20": 39725,
   "date_first_scraped": "2023-10-15",
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
   "name": "Latin Hits 2015",
@@ -97,6 +97,24 @@
       "duration_ms": 244893,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
+    },
+    {
+      "album": {
+        "name": "Historias Tattooadas",
+        "url": "https://open.spotify.com/album/0IySVSEp9VEDQMtaVd37HA"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266626,
+      "name": "Coincidir",
+      "url": "https://open.spotify.com/track/2R4uUwgfrFjT1kMGcPq6mp"
     },
     {
       "album": {
@@ -212,6 +230,28 @@
     },
     {
       "album": {
+        "name": "Eterno Agosto",
+        "url": "https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188093,
+      "name": "El Mismo Sol",
+      "url": "https://open.spotify.com/track/4OKmYJF7Wk8uJxv68wFH0j"
+    },
+    {
+      "album": {
         "name": "Pretty Boy, Dirty Boy",
         "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
@@ -306,6 +346,28 @@
     },
     {
       "album": {
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/1qA8Q6vn2oYXBwiMb55HTu"
+      },
+      "artists": [
+        {
+          "name": "Los De La Nazza",
+          "url": "https://open.spotify.com/artist/7sQc4ugqcqoLJPnznIE2jm"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269662,
+      "name": "Falsas Mentiras (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/36JI0KHc591i9liHaFqDFG"
+    },
+    {
+      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -347,7 +409,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
@@ -369,6 +431,24 @@
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "album": {
+        "name": "El Inmortal",
+        "url": "https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187350,
+      "name": "Hasta Que Se Seque el Malec\u00f3n",
+      "url": "https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65"
     },
     {
       "album": {
@@ -471,7 +551,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185438,
       "name": "Llamame M\u00e1s Temprano",
       "url": "https://open.spotify.com/track/6JVZ8mwbwSU8iiJUE2kyql"
@@ -639,7 +719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "Nena",
       "url": "https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk"
@@ -789,10 +869,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Pretextos (feat. Cosculluela)",
+      "url": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK"
     },
     {
       "album": {
@@ -926,6 +1028,32 @@
     },
     {
       "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Sunset (feat. Shaggy & Nicky Jam)",
+      "url": "https://open.spotify.com/track/2yDaWqECegHdiFOuez5gdO"
+    },
+    {
+      "album": {
         "name": "S\u00edgueme Y Te Sigo",
         "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
       },
@@ -959,7 +1087,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233639,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
@@ -981,6 +1109,28 @@
       "duration_ms": 244000,
       "name": "Te Equivocaste",
       "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+    },
+    {
+      "album": {
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "Traidora (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/7Fl3wSxRqBljyQH8dJSz9c"
     },
     {
       "album": {
@@ -1023,7 +1173,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 477600,
       "name": "Tumba la Casa - Remix",
       "url": "https://open.spotify.com/track/0Wow8A03JUTTeaMuYexCwi"
@@ -1059,7 +1209,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208440,
       "name": "Una en un Mill\u00f3n",
       "url": "https://open.spotify.com/track/4SrcC7RYF496LSwl0XKdi1"
@@ -1095,7 +1245,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
@@ -1135,7 +1285,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214053,
       "name": "Yo Te Recuerdo - Version Salsa",
       "url": "https://open.spotify.com/track/5Di8dpmfkDRp8waYbXbohB"

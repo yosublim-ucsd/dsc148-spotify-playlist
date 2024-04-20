@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 294966,
+  "2024-04-20": 294929,
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: TOLEDO",
+  "description": "Underground indie rock gems. Cover: Chanel Beads",
   "name": "undercurrents",
   "tracks": [
     {
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 223575,
       "name": "Basement",
       "url": "https://open.spotify.com/track/1LGZzWQexuUXz7n3DJTJOl"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223575,
       "name": "Basement",
       "url": "https://open.spotify.com/track/1aIQvLvwz35NdFgMpc2nYo"
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236859,
       "name": "Compliment",
       "url": "https://open.spotify.com/track/1zRQ4KlIzIpikVJq4ZnvvC"
@@ -4265,7 +4265,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 236859,
       "name": "Compliment",
       "url": "https://open.spotify.com/track/5KtPXXwn4EOZQIjCMZne7P"
@@ -5324,6 +5324,24 @@
     },
     {
       "album": {
+        "name": "Did You Hear Me Think About It (Been On My Mind)",
+        "url": "https://open.spotify.com/album/5xZBR5cV4PJumocwdOfEbW"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193291,
+      "name": "Did you hear me think about it (Been on my mind)",
+      "url": "https://open.spotify.com/track/3iiAiW4n4pwp8Crk4aH3yq"
+    },
+    {
+      "album": {
         "name": "Your Mother's Name",
         "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
       },
@@ -5847,6 +5865,24 @@
     {
       "album": {
         "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/2cMbT3yMZXW7cZBhsB8BDD"
+      },
+      "artists": [
+        {
+          "name": "Joyer",
+          "url": "https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179487,
+      "name": "Drive All Night",
+      "url": "https://open.spotify.com/track/44aFBL4dfxZhUcHgw28mIv"
+    },
+    {
+      "album": {
+        "name": "Drive All Night",
         "url": "https://open.spotify.com/album/2eKgVsjsHyuKupvTRHTrfT"
       },
       "artists": [
@@ -5857,7 +5893,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179487,
       "name": "Drive All Night",
       "url": "https://open.spotify.com/track/7wRbH2GlXe9dZQBdhWzkco"
@@ -6185,7 +6221,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120800,
       "name": "Embarrassed Dog",
       "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
@@ -10351,6 +10387,24 @@
       "duration_ms": 299000,
       "name": "I'll be your star",
       "url": "https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc"
+    },
+    {
+      "album": {
+        "name": "I'm All Fucked Up",
+        "url": "https://open.spotify.com/album/5o25j9hctz6Y0B2KFBXujQ"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/1gWIrsjqpmN57sMfq5NcuO"
     },
     {
       "album": {
@@ -17499,7 +17553,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 143819,
       "name": "Soak it In",
       "url": "https://open.spotify.com/track/4bkj4j64FkMlf6nvobCVOJ"
@@ -17517,7 +17571,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143819,
       "name": "Soak it In",
       "url": "https://open.spotify.com/track/6FYpOljm1nFjvbyLh0l1QX"
@@ -18079,7 +18133,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 214600,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/6DaplCk0rD4SVDH6sHOxGJ"
@@ -18097,7 +18151,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214600,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/6MTxftPAssBVTyGFJ4KB1l"
@@ -18735,7 +18789,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 242965,
       "name": "Superior Mirage",
       "url": "https://open.spotify.com/track/2pCsSTvG9DPLN9sGSf4BHh"
@@ -18753,7 +18807,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242965,
       "name": "Superior Mirage",
       "url": "https://open.spotify.com/track/6gVKg08xtvUwT6VbgrxTXP"
@@ -19665,7 +19719,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
@@ -20109,7 +20163,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197770,
       "name": "Toad Mode",
       "url": "https://open.spotify.com/track/1ZBfs19b8WrSC7aoiu9yw7"
@@ -20127,7 +20181,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 197770,
       "name": "Toad Mode",
       "url": "https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1"
@@ -20827,6 +20881,24 @@
       "duration_ms": 262826,
       "name": "Unfun",
       "url": "https://open.spotify.com/track/6Yk5oWoxAXYgND1Yq8Mx0u"
+    },
+    {
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
     },
     {
       "album": {
@@ -22012,6 +22084,24 @@
     },
     {
       "album": {
+        "name": "Wish Me Away",
+        "url": "https://open.spotify.com/album/2YrX3Cnuai2IrRP5P4v5vI"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238350,
+      "name": "Wish Me Away",
+      "url": "https://open.spotify.com/track/79PatmbsVvjeS4Q3p5zZ4F"
+    },
+    {
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/3ItpOcDRCMne7N7KFotDCQ"
       },
@@ -22431,6 +22521,24 @@
       "duration_ms": 182268,
       "name": "Your Best Friend",
       "url": "https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k"
+    },
+    {
+      "album": {
+        "name": "Your Desire in Food",
+        "url": "https://open.spotify.com/album/4D3NdHKmSqcO1aOrt3UgoT"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "Your Desire in Food",
+      "url": "https://open.spotify.com/track/22DaMb0Q6nde3ozb2qMDYl"
     },
     {
       "album": {

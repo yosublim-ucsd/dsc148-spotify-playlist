@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 26862,
+  "2024-04-20": 26870,
   "date_first_scraped": "2021-12-28",
   "description": "SHERELLE's favorite tracks. Updated regularly. Curated by SHERELLE. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "SHERELLE's track IDs",
@@ -159,6 +159,24 @@
     {
       "album": {
         "name": "Bad / 2 Bad",
+        "url": "https://open.spotify.com/album/3OLavABspLRptEmuevnKGo"
+      },
+      "artists": [
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260510,
+      "name": "2 Bad",
+      "url": "https://open.spotify.com/track/04c6sSHHVPdPS3wTuN98kP"
+    },
+    {
+      "album": {
+        "name": "Bad / 2 Bad",
         "url": "https://open.spotify.com/album/6W6lIP9zoOl6Dgbr2ALkj8"
       },
       "artists": [
@@ -169,7 +187,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260571,
       "name": "2 Bad",
       "url": "https://open.spotify.com/track/5NGhNoU1ieyfeSEnS9pN6k"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183345,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/10SsszZXnRrXNKl2JGvs9I"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403532,
       "name": "Blimey - Denham Audio Remix",
       "url": "https://open.spotify.com/track/6wPJh09QF84NTV0CTUXVAJ"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 403532,
       "name": "Blimey - Denham Audio Remix",
       "url": "https://open.spotify.com/track/6z234Ek3zfHWw45SVWOONV"
@@ -2463,6 +2481,24 @@
     {
       "album": {
         "name": "Control",
+        "url": "https://open.spotify.com/album/0d2JJOzMtBVMgNZIr5TnR8"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169653,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/3NhsH0AoPnm6R6hrOO67mn"
+    },
+    {
+      "album": {
+        "name": "Control",
         "url": "https://open.spotify.com/album/2SKoGBsvMQEj0oiNyHVmqn"
       },
       "artists": [
@@ -2473,7 +2509,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169653,
       "name": "Control",
       "url": "https://open.spotify.com/track/3V3r3r1HN03jHTq0Txn48G"
@@ -3951,7 +3987,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 258239,
       "name": "Flight 1235",
       "url": "https://open.spotify.com/track/3tl5HvFDs9f7vr7Uiy8bhO"
@@ -3969,7 +4005,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258239,
       "name": "Flight 1235 (feat. DJ Phil & Crossfire)",
       "url": "https://open.spotify.com/track/4rcHHxOxd0VGTUbFMWrSaH"
@@ -8296,6 +8332,28 @@
     },
     {
       "album": {
+        "name": "Allyallrecords",
+        "url": "https://open.spotify.com/album/0Xoxkj0foJIQjwJHtAslU7"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173870,
+      "name": "Pink22",
+      "url": "https://open.spotify.com/track/2zWig8xU69qhSGO6noE6ek"
+    },
+    {
+      "album": {
         "name": "ALLYALLRECORDS EP",
         "url": "https://open.spotify.com/album/4QXPKaYHueuhKVzoS5PqrM"
       },
@@ -8311,7 +8369,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173870,
       "name": "Pink22 (feat. Clara La San)",
       "url": "https://open.spotify.com/track/6qHJqh3UiWBWHlvmJmCtEe"
@@ -8623,7 +8681,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369961,
       "name": "Pull Up - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/3Eqb7qt1a5nTnn96U4TiUf"
@@ -8645,7 +8703,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 369961,
       "name": "Pull Up - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/6GE30aCTN2fAInCxcfLvf9"
@@ -8703,7 +8761,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 234510,
       "name": "Purple Hilt - East London Aerial Mix",
       "url": "https://open.spotify.com/track/6sPuclPh1gyy4rjJkZO65d"
@@ -8725,7 +8783,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234510,
       "name": "Purple Hilt - East London Aerial Mix",
       "url": "https://open.spotify.com/track/7LdwuAgHfCsC3zBM3Qnvmj"
@@ -9857,7 +9915,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 312106,
       "name": "Set It",
       "url": "https://open.spotify.com/track/1T7BgOvzf2pNKs6vTGfw99"
@@ -9875,7 +9933,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312106,
       "name": "Set It",
       "url": "https://open.spotify.com/track/1tWwqxkc3xrx8j3U2h6oSx"
@@ -11180,6 +11238,24 @@
     },
     {
       "album": {
+        "name": "Drum & Bass Classics",
+        "url": "https://open.spotify.com/album/6nLIBmsA4HDDZCiKeW5OxE"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue",
+          "url": "https://open.spotify.com/artist/31vOeAdoSPH0e151n3B73l"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323093,
+      "name": "The Helicopter Tune",
+      "url": "https://open.spotify.com/track/7dwuH3wrHZZPGDNRhkSSFv"
+    },
+    {
+      "album": {
         "name": "The Helicopter Tune / The Helicopter Tune (Rufige Kru Remix) / Fantasy #2 / The Helicopter Tune (2 Bad Mice Remix) / Fantasy #3 / The Helicopter Tune (Rufige Kru VIP Remix)",
         "url": "https://open.spotify.com/album/7dwvt0Q7oAHeyNf4BTyUAO"
       },
@@ -11191,7 +11267,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323961,
       "name": "The Helicopter Tune",
       "url": "https://open.spotify.com/track/1Lr9jMrlowBH5EXn4oive0"
@@ -11231,7 +11307,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 454615,
       "name": "The hole got deeper",
       "url": "https://open.spotify.com/track/3XdhCH7Fd2ICPsvK2cnOQb"
@@ -11249,7 +11325,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 454615,
       "name": "The hole got deeper",
       "url": "https://open.spotify.com/track/7lMzDDkaFEKLBgzZhOPOj4"
@@ -11365,10 +11441,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250655,
       "name": "The Ultimate",
       "url": "https://open.spotify.com/track/0BbYhVvnQwq2L4ZSPyEGSr"
+    },
+    {
+      "album": {
+        "name": "The Ultimate",
+        "url": "https://open.spotify.com/album/41ltUjD4wch5z2TAxyuhoZ"
+      },
+      "artists": [
+        {
+          "name": "RP Boo",
+          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250655,
+      "name": "The Ultimate",
+      "url": "https://open.spotify.com/track/5mPeKqFNIoPNzCHm6rpc1Q"
     },
     {
       "album": {
@@ -12425,10 +12519,32 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216826,
       "name": "Wants My Body",
       "url": "https://open.spotify.com/track/24MhLVfCzMRa6USDWbriW8"
+    },
+    {
+      "album": {
+        "name": "Signals In My Head",
+        "url": "https://open.spotify.com/album/3rDFYozg6jsHVOgUu7dl4s"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        },
+        {
+          "name": "DJ Chap",
+          "url": "https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Wants My Body",
+      "url": "https://open.spotify.com/track/5z7it1dEAAfUHp7uCObb9j"
     },
     {
       "album": {

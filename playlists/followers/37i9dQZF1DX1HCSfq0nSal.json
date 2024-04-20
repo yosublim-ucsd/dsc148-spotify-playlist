@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 824791,
+  "2024-04-20": 824964,
   "date_first_scraped": "2022-01-09",
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Feid, Yandel",
   "name": "PEGAO",
@@ -4035,7 +4035,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116666,
       "name": "Extasisssssss",
       "url": "https://open.spotify.com/track/5R4NkcQZB1kQXMoCFhl4OH"
@@ -4047,13 +4047,13 @@
       },
       "artists": [
         {
-          "name": "Saiko",
+          "name": "SAIKO",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 116666,
       "name": "Extasisssssss",
       "url": "https://open.spotify.com/track/7enPATEvctXpgSCydNDgeq"
@@ -5014,6 +5014,28 @@
     },
     {
       "album": {
+        "name": "DESTINO 2014",
+        "url": "https://open.spotify.com/album/158rl7QY23Qai0UUVrwtuz"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        },
+        {
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "JOYYY",
+      "url": "https://open.spotify.com/track/6FDQdwuRvk7G19B6KVsCth"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6XromBO32uhidY3LWZORO1"
       },
@@ -5549,6 +5571,28 @@
       "duration_ms": 296906,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/35ns1WEurw3MVlHJjHwNWQ"
+    },
+    {
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "album": {

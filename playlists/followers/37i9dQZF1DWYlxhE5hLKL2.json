@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 15412,
+  "2024-04-20": 15419,
   "date_first_scraped": "2023-12-27",
   "description": "Digging old Japanese records and flipping them into something new.",
   "name": "Sampling Groove Japan",
@@ -345,7 +345,7 @@
     {
       "album": {
         "name": "Bae2",
-        "url": "https://open.spotify.com/album/7Cxvh1GcNnkHs8xit5MbBk"
+        "url": "https://open.spotify.com/album/2mUH5mT06J6NOrtqLCe2jN"
       },
       "artists": [
         {
@@ -356,6 +356,24 @@
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 118909,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0P2pNXbQfYkE0VOUZbAkzJ"
+    },
+    {
+      "album": {
+        "name": "Bae2",
+        "url": "https://open.spotify.com/album/7Cxvh1GcNnkHs8xit5MbBk"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 118909,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5G2rxM4Ubg6cmpPXRIFEmK"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312293,
       "name": "Mayonaka no Door / Stay With Me",
       "url": "https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA"
@@ -463,10 +481,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276560,
       "name": "Merry Christmas Mr. Lawrence",
       "url": "https://open.spotify.com/track/4NFIUZzAAJ5cvw6WurI9Kl"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Mr.Lawrence -30th Anniversary Edition-",
+        "url": "https://open.spotify.com/album/6lk7YHGKAxpxurq0bZkCp7"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277199,
+      "name": "Merry Christmas Mr.Lawrence",
+      "url": "https://open.spotify.com/track/1GReLJHIQU4FKbWdMRUgqO"
     },
     {
       "album": {
@@ -739,7 +775,7 @@
     {
       "album": {
         "name": "C3L3STIAL\u5929\u306e",
-        "url": "https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk"
+        "url": "https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud"
       },
       "artists": [
         {
@@ -750,6 +786,24 @@
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141473,
+      "name": "sunset express {to eternal bliss}",
+      "url": "https://open.spotify.com/track/2XRv8M9SU8rxxt0CwCAS3j"
+    },
+    {
+      "album": {
+        "name": "C3L3STIAL\u5929\u306e",
+        "url": "https://open.spotify.com/album/3fRYgemQ0936FpVBvUjEgk"
+      },
+      "artists": [
+        {
+          "name": "bliss3three",
+          "url": "https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 141473,
       "name": "sunset express {to eternal bliss}",
       "url": "https://open.spotify.com/track/6sN3QMbN2lMk5TrmNFDGKA"
@@ -767,10 +821,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 891566,
       "name": "TALKING",
       "url": "https://open.spotify.com/track/51GxFq4WsrE4JBCgiwCrNQ"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u306b\u6c34",
+        "url": "https://open.spotify.com/album/5PEk6QwdPgqyEIqMTEH0pZ"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 891566,
+      "name": "TALKING \u3042\u306a\u305f\u306b\u3064\u3044\u3066\u306e\u304a\u3057\u3083\u3079\u308a\u3042\u308c\u3053\u308c",
+      "url": "https://open.spotify.com/track/6f2txpQ3C2QrjWLcptY4O8"
     },
     {
       "album": {
@@ -785,10 +857,46 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215461,
       "name": "TARINAI - Matsuwa Remix",
       "url": "https://open.spotify.com/track/3DIivKwUsZ0SRnjw4K7b5z"
+    },
+    {
+      "album": {
+        "name": "GOOD NIGHT TOKYO",
+        "url": "https://open.spotify.com/album/52qTClUlgtM5OBMYnGPqxy"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215461,
+      "name": "TARINAI - \u5f85\u3064\u308fRemix",
+      "url": "https://open.spotify.com/track/0T3qUbgN47oCFUNyKKyiba"
+    },
+    {
+      "album": {
+        "name": "FUTURE LISTENING!",
+        "url": "https://open.spotify.com/album/6kBc2RaYGBJkB6LLn2MvF2"
+      },
+      "artists": [
+        {
+          "name": "TOWA TEI",
+          "url": "https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341973,
+      "name": "TECHNOVA",
+      "url": "https://open.spotify.com/track/1Oa9FpQ1AGO9JMj6rlBFEd"
     },
     {
       "album": {
@@ -803,7 +911,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341973,
       "name": "TECHNOVA",
       "url": "https://open.spotify.com/track/2quj0lAmQxytVLVR1LYQYV"
@@ -821,7 +929,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310173,
       "name": "Tokai",
       "url": "https://open.spotify.com/track/1SmwJJ8YVgiXtyE6elhUx1"
@@ -1113,10 +1221,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266266,
       "name": "\u5f85\u3064\u308f",
       "url": "https://open.spotify.com/track/6W5qFHdchaW8FfnBjP4x5P"
+    },
+    {
+      "album": {
+        "name": "\u5f85\u3064\u308f",
+        "url": "https://open.spotify.com/album/34TVxfPMSJ11AEmOAH9z8k"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u307f\u3093",
+          "url": "https://open.spotify.com/artist/0Yl7iqZDKoqH1mtUrq1Qi0"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266320,
+      "name": "\u5f85\u3064\u308f",
+      "url": "https://open.spotify.com/track/2SeVaPeYLvZoNbfp154YxR"
     },
     {
       "album": {
@@ -1156,6 +1282,24 @@
     },
     {
       "album": {
+        "name": "\u677e\u539f\u307f\u304d \u30d9\u30b9\u30c8\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312293,
+      "name": "\u771f\u591c\u4e2d\u306e\u30c9\u30a2\u301cstay with me",
+      "url": "https://open.spotify.com/track/5r7TNpLRQgSxe41xEaz3fF"
+    },
+    {
+      "album": {
         "name": "\u80ce\u5150\u306e\u5922",
         "url": "https://open.spotify.com/album/79eouT5QdDBqn2SolN3imm"
       },
@@ -1189,6 +1333,24 @@
       "duration_ms": 232893,
       "name": "\u8857\u306e\u30c9\u30eb\u30d5\u30a3\u30f3",
       "url": "https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc"
+    },
+    {
+      "album": {
+        "name": "SUNSHOWER",
+        "url": "https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310173,
+      "name": "\u90fd\u4f1a",
+      "url": "https://open.spotify.com/track/51udJYm1BsYbd4lgfK7ba2"
     },
     {
       "album": {

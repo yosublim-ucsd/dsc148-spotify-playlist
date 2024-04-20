@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:5GlkVOsZJwtYsvY55B8ExI">Pescao Vivo</a> y <a href="spotify:artist:0K2Feyu8wJj25eXYZr3rT5">Travy Joe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,176 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,960 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

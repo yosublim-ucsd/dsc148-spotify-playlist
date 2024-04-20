@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 29728,
+  "2024-04-20": 29731,
   "date_first_scraped": "2021-12-21",
   "description": "Special songs for mothers of all kinds.",
   "name": "Mother's Day",
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 113080,
       "name": "Happy Mother's Day",
       "url": "https://open.spotify.com/track/2k8QF9KF5PYAYDQmqVoonx"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112773,
       "name": "Happy Mother\u2019s Day",
       "url": "https://open.spotify.com/track/5mZsnQgc8TRzXuqX7tgcb6"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257920,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/13pG2aMM5FWBvVgSfp08fv"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273706,
       "name": "I Turn to You",
       "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191772,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/6eLtze68aoRMmcOnl8uyxC"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191772,
       "name": "I'll Be There (feat. Phonte)",
       "url": "https://open.spotify.com/track/3P46ih3fvfw4HFT3JNwsbW"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350712,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/5GWyNA4n9hx5rhkK0KvQ83"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 351853,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/6AWWwc1oTP2MzuedEYip4R"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247786,
       "name": "Lullaby For Wyatt",
       "url": "https://open.spotify.com/track/0wZsSaaEpLEycIQ03h7rTE"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247786,
       "name": "Lullaby For Wyatt",
       "url": "https://open.spotify.com/track/6g7ZJZrLi9DOJVvbKtRoiO"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/6P7tTFzn6oNa0GL8w8oazE"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307720,
       "name": "Mama Hold My Hand",
       "url": "https://open.spotify.com/track/1Jr3iY4H5dmhqDgmr3K14d"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308759,
       "name": "Mama Hold My Hand",
       "url": "https://open.spotify.com/track/591Acw5868YL4VCFMXGEdp"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124502,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127973,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3mqBLq3IsXUafucX57ERho"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194960,
       "name": "Mom (feat. Kelli Trainor)",
       "url": "https://open.spotify.com/track/3PYZWh5KZ6VlXHDlwDVJUt"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194960,
       "name": "Mom (feat. Kelli Trainor)",
       "url": "https://open.spotify.com/track/7DCmHP3gX1PvlQNm0ia8Cf"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153040,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1EhWUwOnMFn2LpXLWzOc32"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153040,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1bZs5DaF0zSeDFJ17m9h3Y"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Secret",
       "url": "https://open.spotify.com/track/34uHZgYc8LNN3iDv5JskUb"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201800,
       "name": "Secret",
       "url": "https://open.spotify.com/track/4Py8X1NUwQjpwpOzsOqBAW"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274106,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/0r5u9i2GzrqzU2Pv0eIvVq"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274106,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251693,
       "name": "Sweetest Devotion",
       "url": "https://open.spotify.com/track/7nY8TY0Wk7kBIJi2Zv8JoR"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251701,
       "name": "Sweetest Devotion",
       "url": "https://open.spotify.com/track/10tHyoc3wSA5scOVZuMcFm"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138626,
       "name": "The Sweetest Gift",
       "url": "https://open.spotify.com/track/24aHk8P9MuUYkL8DwsHJHH"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138626,
       "name": "The Sweetest Gift",
       "url": "https://open.spotify.com/track/2t17Hx0oopVsunzztM8IqT"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 369293,
       "name": "To Zion",
       "url": "https://open.spotify.com/track/3FFuQ5eoLNQU3IgbZP6F13"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/13mXFvyRyjfIjnag95Rnug"

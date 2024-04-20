@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2087070,
+  "2024-04-20": 2086623,
   "date_first_scraped": "2021-01-25",
   "description": "Hottest Hindi music served here. Cover - Animal",
   "name": "Hot Hits Hindi",
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182170,
       "name": "Arjan Vailly",
       "url": "https://open.spotify.com/track/4ApCig0GTR4IEp7Ijsyo3r"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208250,
       "name": "Chor",
       "url": "https://open.spotify.com/track/6YewfSA18qq5xl1KlJQkpY"
@@ -1801,10 +1801,36 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239835,
       "name": "Dil Haareya",
       "url": "https://open.spotify.com/track/7IAQHk6RJXzBm07yJHFoXf"
+    },
+    {
+      "album": {
+        "name": "Dil Haareya",
+        "url": "https://open.spotify.com/album/1H8GL20MLKD7SwymXBFnZG"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Vivian Richard",
+          "url": "https://open.spotify.com/artist/3sR271VJyaakVXllBttyl6"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239835,
+      "name": "Dil Haareya",
+      "url": "https://open.spotify.com/track/4vrpvlcDM3uze5PoOgZpoV"
     },
     {
       "album": {
@@ -2794,6 +2820,32 @@
     },
     {
       "album": {
+        "name": "Amar Singh Chamkila",
+        "url": "https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273561,
+      "name": "Ishq Mitaye",
+      "url": "https://open.spotify.com/track/6TcZOEqYum5s3OWFZFYpBe"
+    },
+    {
+      "album": {
         "name": "Kho Gaye Hum Kahan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3S4aagneprm7Dlvzf4Nu0O"
       },
@@ -3579,7 +3631,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233684,
       "name": "Kya Loge Tum",
       "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
@@ -5492,6 +5544,32 @@
     },
     {
       "album": {
+        "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+        "url": "https://open.spotify.com/album/6j4QpObdnZpxNU52o2egBZ"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266075,
+      "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+      "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM"
+    },
+    {
+      "album": {
         "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
         "url": "https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j"
       },
@@ -5511,7 +5589,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
@@ -5787,10 +5865,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227962,
       "name": "Rang Lageya",
       "url": "https://open.spotify.com/track/4svSc7BE6r9xMEk0GosnVu"
+    },
+    {
+      "album": {
+        "name": "Rang Lageya",
+        "url": "https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227962,
+      "name": "Rang Lageya",
+      "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
     },
     {
       "album": {
@@ -6951,10 +7051,44 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189136,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW"
+    },
+    {
+      "album": {
+        "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
+        "url": "https://open.spotify.com/album/4qOiFNt1NMuyLEY8fxigSd"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189136,
+      "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
+      "url": "https://open.spotify.com/track/46hzNOUOAlivuCZZ0wE3zi"
     },
     {
       "album": {
@@ -7212,6 +7346,32 @@
     },
     {
       "album": {
+        "name": "Amar Singh Chamkila",
+        "url": "https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3"
+      },
+      "artists": [
+        {
+          "name": "Yashika Sikka",
+          "url": "https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258148,
+      "name": "Tu Kya Jaane",
+      "url": "https://open.spotify.com/track/1pbj0csFgmhGh7AuSMsOCZ"
+    },
+    {
+      "album": {
         "name": "Tu Mile Dil Khile - Single",
         "url": "https://open.spotify.com/album/5ZdPS2Lm1DvnFwni3DX4pm"
       },
@@ -7323,10 +7483,40 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"
+    },
+    {
+      "album": {
+        "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/5FtQVEQsWzRcpqh820ZoII"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD"
     },
     {
       "album": {
@@ -7465,10 +7655,78 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246988,
       "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm"
+    },
+    {
+      "album": {
+        "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/1hvEqSYJOEoLoe0IRTy7PX"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246988,
+      "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/6EivvaEepVTjmDde43eGiB"
+    },
+    {
+      "album": {
+        "name": "Amar Singh Chamkila",
+        "url": "https://open.spotify.com/album/3XBoJ6awI7H0aRvMWDszp3"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270217,
+      "name": "Vida Karo",
+      "url": "https://open.spotify.com/track/60nxFG3LCviPvdTX5JU2iB"
     },
     {
       "album": {
@@ -7555,6 +7813,40 @@
     {
       "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/2140eUTm2dUfKj1FL7DDAe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/4uNxdQ1L4Xa52MWX864QhW"
+    },
+    {
+      "album": {
+        "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
       "artists": [
@@ -7585,7 +7877,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

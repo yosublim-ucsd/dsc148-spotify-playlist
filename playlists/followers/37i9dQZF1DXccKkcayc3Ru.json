@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 958,
+  "2024-04-20": 968,
   "date_first_scraped": "2024-04-02",
   "description": "\u5b9f\u5199\u6620\u753b\u300c<a href=\"https://gaga.ne.jp/buzzynoise_movie/\">\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba</a>\u300d5\u67083\u65e5\u516c\u958b\uff01\u4f5c\u8005 \u3080\u3064\u304d\u6f64\u306b\u3088\u308b\u9078\u66f2\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u5230\u7740\u3002/ The official playlist selected by Mutsuki Jun. ",
   "name": "BUZZY NOISE \u30d0\u30b8\u30fc\u30ce\u30a4\u30ba",
@@ -42,6 +42,28 @@
     },
     {
       "album": {
+        "name": "Blue in Green",
+        "url": "https://open.spotify.com/album/3nhfj5QWyti6p5Qu67sT9z"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        },
+        {
+          "name": "SUKISHA",
+          "url": "https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281739,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/2hxednAIH7H2fo1IcVG9Nv"
+    },
+    {
+      "album": {
         "name": "Over the Rainbow",
         "url": "https://open.spotify.com/album/550OQP4Yq1H4UQCW2WrLk0"
       },
@@ -57,7 +79,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281000,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/6EiGHN6OX3rPyPdqymU3V7"
@@ -223,10 +245,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191739,
       "name": "modify Youth",
       "url": "https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I"
+    },
+    {
+      "album": {
+        "name": "evergreen/modify Youth",
+        "url": "https://open.spotify.com/album/6DCMQFmazDSVmu90dfp2rd"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191739,
+      "name": "modify Youth",
+      "url": "https://open.spotify.com/track/7AAchgAYr6hI80KmCuP8N1"
     },
     {
       "album": {
@@ -249,6 +289,24 @@
     {
       "album": {
         "name": "D.A.N.",
+        "url": "https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx"
+      },
+      "artists": [
+        {
+          "name": "D.A.N.",
+          "url": "https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358066,
+      "name": "Native Dancer",
+      "url": "https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H"
+    },
+    {
+      "album": {
+        "name": "D.A.N.",
         "url": "https://open.spotify.com/album/48BTQAAjPa3bOZOL9QZrms"
       },
       "artists": [
@@ -259,7 +317,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 358066,
       "name": "Native Dancer",
       "url": "https://open.spotify.com/track/3wr3GLLHcgsQseC6f5KSV5"
@@ -277,7 +335,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Night Flight",
       "url": "https://open.spotify.com/track/39YZ1EwwNaMqblHgADpfM5"
@@ -389,7 +447,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
@@ -415,6 +473,24 @@
     {
       "album": {
         "name": "PRIVATE",
+        "url": "https://open.spotify.com/album/4iEtXGDpfraVH7Srme6iqD"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188173,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/21jD6u0xlRdBmmgzyzRekI"
+    },
+    {
+      "album": {
+        "name": "PRIVATE",
         "url": "https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O"
       },
       "artists": [
@@ -425,7 +501,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188173,
       "name": "STARLIGHT",
       "url": "https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd"
@@ -573,10 +649,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181588,
       "name": "\u3072\u3068\u308a\u306e\u591c\u3092\u629c\u3051",
       "url": "https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq"
+    },
+    {
+      "album": {
+        "name": "\u3072\u3068\u308a\u306e\u591c\u3092\u629c\u3051",
+        "url": "https://open.spotify.com/album/3BFVT73jpTPm86G3tPtzVj"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181588,
+      "name": "\u3072\u3068\u308a\u306e\u591c\u3092\u629c\u3051",
+      "url": "https://open.spotify.com/track/2UeUOkNWgb1DkVUZcACduO"
     },
     {
       "album": {
@@ -634,6 +728,24 @@
     },
     {
       "album": {
+        "name": "From DROPOUT",
+        "url": "https://open.spotify.com/album/0xyXWlYQT4idyZJfTHk0dx"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/28hm427YkOm24SGkOngxSX"
+    },
+    {
+      "album": {
         "name": "\u4e16\u754c\u5404\u56fd\u306e\u591c",
         "url": "https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q"
       },
@@ -667,6 +779,42 @@
       "duration_ms": 340543,
       "name": "\u56de\u8ee2\u30fb\u5929\u4f7f",
       "url": "https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1"
+    },
+    {
+      "album": {
+        "name": "\u591c\u9593\u98db\u884c",
+        "url": "https://open.spotify.com/album/2aeHBBhhrrdV9OUdrFgufv"
+      },
+      "artists": [
+        {
+          "name": "\u591a\u6b21\u5143\u5236\u5fa1\u6a5f\u69cb\u3088\u3060\u304b",
+          "url": "https://open.spotify.com/artist/2GJMiGBEYG8xiK6XAojxCd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u591c\u9593\u98db\u884c",
+      "url": "https://open.spotify.com/track/1wcu44bluvl1QEefHxKhsf"
+    },
+    {
+      "album": {
+        "name": "HELP EVER HURT NEVER",
+        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
+      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
       "album": {
@@ -721,10 +869,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
+    {
+      "album": {
+        "name": "\u8e0a\u308a\u5b50",
+        "url": "https://open.spotify.com/album/1wlfcNPu9zr18HTA5h7JO7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230109,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/7loLSr7JUn78pLHitHr89Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXccKkcayc3Ru"

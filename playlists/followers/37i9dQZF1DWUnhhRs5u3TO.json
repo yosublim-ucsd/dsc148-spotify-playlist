@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 402121,
+  "2024-04-20": 402116,
   "date_first_scraped": "2022-04-19",
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
   "name": "10s Metal Classics",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226540,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/3NW1h8l6EY5N6HNBL83S4V"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/5XExne04zgnDeAN8aIvMvM"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232425,
       "name": "Breakin' Outta Hell",
       "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 232425,
       "name": "Breakin' Outta Hell",
       "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
@@ -1033,6 +1033,24 @@
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/4pLyx7CeNx3MgaSddwvn48"
+    },
+    {
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/5j3iBuHq6vv7VcBo4Y2QrK"
     },
     {
       "album": {
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 197853,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/5VToMJACRoeT0YZNs5CYyp"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197866,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 263973,
       "name": "Faster",
       "url": "https://open.spotify.com/track/28HX0PibeXSL6cfAsvwSgD"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263973,
       "name": "Faster",
       "url": "https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 114202,
       "name": "For the Swarm",
       "url": "https://open.spotify.com/track/5DYuLpA6SOexZAhpVfqyhy"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114202,
       "name": "For The Swarm",
       "url": "https://open.spotify.com/track/66wMN7fgibuH52driZUhMt"
@@ -2145,7 +2163,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270693,
       "name": "Ghost Walking",
       "url": "https://open.spotify.com/track/52lWFbQaG8VajS7y41hafF"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270693,
       "name": "Ghost Walking",
       "url": "https://open.spotify.com/track/6pej2azEjNp6pEFpYPmCNi"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189347,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/0QV3swr7L8MZr72lL2izV1"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191331,
       "name": "Hardwired",
       "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229816,
       "name": "I Am Above",
       "url": "https://open.spotify.com/track/2VWSItAetzRP6QwGiw0X3m"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229816,
       "name": "I Am Above",
       "url": "https://open.spotify.com/track/6qgpBezjMvybos30jStS2Z"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298893,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/7tcBbo9I71WtmLAuzha5mN"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299720,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
@@ -3049,7 +3067,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246209,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY"
@@ -3111,7 +3129,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246209,
       "name": "Lift Me Up (feat. Rob Halford of Judas Priest)",
       "url": "https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP"
@@ -3201,7 +3219,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456312,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 456320,
       "name": "Locust",
       "url": "https://open.spotify.com/track/2fed1yXI1clOEddfGyKyH2"
@@ -3273,7 +3291,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161626,
       "name": "Looking Down The Barrel Of Today",
       "url": "https://open.spotify.com/track/2ZQo43TnA0XBUvPHSUfe2F"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5IVA7WzOlWrmZh8EqZqMaw"
@@ -3561,7 +3579,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 291131,
       "name": "Moth",
       "url": "https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7"
@@ -3579,7 +3597,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291131,
       "name": "Moth",
       "url": "https://open.spotify.com/track/5az2KaF9Xn0orTrkYYQzuj"
@@ -3597,7 +3615,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
@@ -3615,7 +3633,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/6F5RvdxWcLOJW7LAGuc24r"
@@ -3633,7 +3651,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/6bDoeNLCA32SYhTzIk5w5y"
@@ -3775,6 +3793,24 @@
     {
       "album": {
         "name": "The Satanist",
+        "url": "https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433440,
+      "name": "O Father O Satan O Sun!",
+      "url": "https://open.spotify.com/track/2FsDybzWgntIa8M3Y7AenT"
+    },
+    {
+      "album": {
+        "name": "The Satanist",
         "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
       },
       "artists": [
@@ -3785,7 +3821,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 433440,
       "name": "O Father O Satan O Sun!",
       "url": "https://open.spotify.com/track/5KzMpwYY3TPyZKQk9pgJ1k"
@@ -4127,7 +4163,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263760,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
@@ -4145,7 +4181,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263786,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
@@ -4163,7 +4199,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "Reign Of Darkness",
       "url": "https://open.spotify.com/track/398Mve6JY33JOHVvVlqxCa"
@@ -4181,7 +4217,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215226,
       "name": "Reign of Darkness",
       "url": "https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l"
@@ -4199,7 +4235,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/65POu6kUQdR33JxwN92afX"
@@ -4217,7 +4253,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
@@ -4373,7 +4409,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213000,
       "name": "Rotting In Vain",
       "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
@@ -4391,7 +4427,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Rotting In Vain",
       "url": "https://open.spotify.com/track/5jQnPdDMHOd8MdCM2avhQm"
@@ -4445,7 +4481,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244493,
       "name": "Sail",
       "url": "https://open.spotify.com/track/2KfWw8uwvCFOasBZ7xsmZo"
@@ -4463,7 +4499,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246480,
       "name": "Sail",
       "url": "https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ"
@@ -4481,7 +4517,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278199,
       "name": "Satan Is Real",
       "url": "https://open.spotify.com/track/14M68PdZSSMRzTBuJNuxO6"
@@ -4499,7 +4535,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "Satan Is Real",
       "url": "https://open.spotify.com/track/5Mp3MFneLLCVGW3O5kYMvm"
@@ -4993,7 +5029,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301745,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/0IxCwnKKKVTEuEgXoexzba"
@@ -5011,7 +5047,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 301745,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup"
@@ -5101,7 +5137,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/2ERRZsSlier2okSRmdzG29"
@@ -5119,7 +5155,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
@@ -5173,7 +5209,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265823,
       "name": "St\u00e5lf\u00e5gel",
       "url": "https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86"
@@ -5191,7 +5227,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265823,
       "name": "St\u00e5lf\u00e5gel",
       "url": "https://open.spotify.com/track/5yekYQ8dIMx7sZi8hjSzbv"
@@ -5425,7 +5461,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342821,
       "name": "The Devil in I",
       "url": "https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK"
@@ -5443,7 +5479,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 342821,
       "name": "The Devil in I",
       "url": "https://open.spotify.com/track/6vhuve6vceQE6yNCcK2rct"
@@ -5461,7 +5497,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y"
@@ -5479,7 +5515,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
@@ -5501,7 +5537,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232000,
       "name": "The Dirt (Est. 1981) (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/0FLvfMC6jEqQw5fap5OcWC"
@@ -5539,13 +5575,13 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         },
         {
-          "name": "Machine Gun Kelly",
+          "name": "mgk",
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "The Dirt (Est. 1981) [feat. Machine Gun Kelly]",
       "url": "https://open.spotify.com/track/4iGBPovu7Hy7TUg6Wk6pjt"
@@ -6071,7 +6107,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 213052,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8"
@@ -6089,7 +6125,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213052,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/4WTQHDAVAzbibRUcwzQfpp"
@@ -6107,7 +6143,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206546,
       "name": "To Hell and Back",
       "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
@@ -6125,7 +6161,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206546,
       "name": "To Hell And Back",
       "url": "https://open.spotify.com/track/5XMc5tKC1OkXsxwprNwy2W"
@@ -6197,7 +6233,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244299,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/78IWqwMHpZMXrdJGez3kSq"
@@ -6215,7 +6251,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 249506,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/15TC83LO1QAu0BZLRdHw01"
@@ -6665,7 +6701,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
@@ -6701,7 +6737,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271000,
       "name": "Wrong Side of Heaven",
       "url": "https://open.spotify.com/track/6xgO2ICtpT8jDcYvVsCKIB"

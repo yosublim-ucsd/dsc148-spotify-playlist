@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 16275,
+  "num_followers": 16281,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGU0ZWY4YjM1ZmNjNWM5NDBlMzk0OTIxNmFlZDc5NzQw",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGU5ZWZiZTFiMTQ5OTBhMmNiNGFiMThkYmI0NTMyNzJi",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB"
+      "duration_ms": 286106,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abr\u00e1zame",
-        "url": "https://open.spotify.com/album/5iS6pNygJH2CTaklGGtT6Y"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/4b3mG8286S6WyRdJVvW0BS"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 286106,
-      "name": "Verdad",
-      "url": "https://open.spotify.com/track/1dmqa40DwTbUv3SzUaUMvH"
+      "duration_ms": 207200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/1zumR6nP8LnKma5wOvq9nB"
     },
     {
       "added_at": null,

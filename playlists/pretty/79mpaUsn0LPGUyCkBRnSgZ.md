@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 491 songs - 1 day 8 hr 24 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 490 songs - 1 day 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -498,6 +498,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 488 | [Chandler](https://open.spotify.com/track/3PzVrpdkB6Ql5Az5spffJm) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 3:04 |
 | 489 | [Surrogate Lover](https://open.spotify.com/track/5exXNIuQMsdSJKXmxAVG9A) | [Acaciawood](https://open.spotify.com/artist/6pwMJ1pUGI34NwTtHH55nW) | [Acaciawood](https://open.spotify.com/album/31LTbP6O3O7RVnCY5pyEO4) | 4:52 |
 | 490 | [Assata's Code](https://open.spotify.com/track/2aSkCiAqywd3LMmanvsYXi) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Diani](https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD) | [Liberation 2](https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn) | 2:02 |
-| 491 | [Versailles](https://open.spotify.com/track/5XeSZTj2XOqFHcr78W9guM) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Despot](https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1) | [Aethiopes](https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD) | 3:07 |
 
-Snapshot ID: `MTQ5NiwzZjVhYWNhYmViODEyOWU2YTM2MGVhN2NhMTEzZjY1YmZjMzZiMjAx`
+Snapshot ID: `MTQ5Nyw0MjE2NTAxODI0NTcyNGFlY2U3MzcyMzZjZjI5MzBkODU1MWQyZThk`

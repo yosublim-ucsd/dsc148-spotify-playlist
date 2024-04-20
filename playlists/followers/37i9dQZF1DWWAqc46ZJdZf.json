@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5927,
+  "2024-04-20": 5969,
   "date_first_scraped": "2021-12-21",
   "description": "New age songs of empowerment and pride. ",
   "name": "Black Lives Matter",
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 202478,
       "name": "Blk Girl Soldier",
       "url": "https://open.spotify.com/track/23HBitYPsgA9LS4Gpsq0V8"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202478,
       "name": "Blk Girl Soldier",
       "url": "https://open.spotify.com/track/6FqD6AQP2GLuTBES4pL4gr"
@@ -1047,6 +1047,24 @@
     {
       "album": {
         "name": "Telefone",
+        "url": "https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199029,
+      "name": "Freedom (Interlude)",
+      "url": "https://open.spotify.com/track/31O7s8gaVrs6kzTROw0sze"
+    },
+    {
+      "album": {
+        "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
       "artists": [
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199029,
       "name": "Freedom Interlude",
       "url": "https://open.spotify.com/track/1WwRIctiw8mXhuQmBK4AzA"
@@ -1489,6 +1507,24 @@
     {
       "album": {
         "name": "ALL-AMERIKKKAN BADA$$",
+        "url": "https://open.spotify.com/album/6swV0WUnPygRIMgEKn6Ige"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283689,
+      "name": "LAND OF THE FREE",
+      "url": "https://open.spotify.com/track/6xz04ypw5JsqiyityCASG1"
+    },
+    {
+      "album": {
+        "name": "ALL-AMERIKKKAN BADA$$",
         "url": "https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g"
       },
       "artists": [
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283689,
       "name": "LAND OF THE FREE",
       "url": "https://open.spotify.com/track/7BjygzvUpf8P7X6uWzIhsF"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186984,
       "name": "Light on the Horizon",
       "url": "https://open.spotify.com/track/4vFmkr2xrxjYvZ3WYvSybm"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186984,
       "name": "Light On The Horizon",
       "url": "https://open.spotify.com/track/2J0QbuwxuiZtFQ4YuaVgpc"
@@ -1847,7 +1883,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231997,
       "name": "My People",
       "url": "https://open.spotify.com/track/2mN7nHZ78xasIVClB7Layc"
@@ -1865,7 +1901,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231997,
       "name": "My People",
       "url": "https://open.spotify.com/track/3pk8pThFHSD1fjISYCGWeI"
@@ -2405,10 +2441,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69709,
       "name": "Song 33",
       "url": "https://open.spotify.com/track/03P54r6uih7f0409ns7gon"
+    },
+    {
+      "album": {
+        "name": "Song 33",
+        "url": "https://open.spotify.com/album/4fnskLfn51HHG1QDMOqmfy"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69709,
+      "name": "Song 33",
+      "url": "https://open.spotify.com/track/1LvDHPfTpEMjgox22jxqSW"
     },
     {
       "album": {

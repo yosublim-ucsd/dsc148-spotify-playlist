@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 52804,
+  "2024-04-20": 52766,
   "date_first_scraped": "2022-06-01",
   "description": "Songs to make your Zumba workout extra fun.",
   "name": "Bollywood Zumba",
@@ -415,10 +415,6 @@
         {
           "name": "Kedrock",
           "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "date_added": "2023-09-28",
@@ -997,18 +993,6 @@
         {
           "name": "Bombay Rockers",
           "url": "https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Kedrock",
-          "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "date_added": "2023-09-28",
@@ -2063,10 +2047,6 @@
         {
           "name": "Kedrock",
           "url": "https://open.spotify.com/artist/7D2MUg2cnFbZnHzedomxwb"
-        },
-        {
-          "name": "Sd Style",
-          "url": "https://open.spotify.com/artist/64DWU48XFNJjT0wZ7xyl1X"
         }
       ],
       "date_added": "2023-09-28",
@@ -2313,7 +2293,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283693,
       "name": "Tum Hi Ho Bandhu",
       "url": "https://open.spotify.com/track/7H3mfOvtPNA8YDF3EdKy0L"
@@ -2383,7 +2363,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 282012,
       "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "url": "https://open.spotify.com/track/4pE05HNzmVFGpCOfNKE3w6"

@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-112 songs - 3 hr 56 min
+113 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Firefighting Helicopter Song](https://open.spotify.com/track/51EEZhz3QjjOOsBNJRUuVn) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl) | 2:21 | 2020-09-25 | 2024-04-19 |
 | [Firefighting Helicopter Song](https://open.spotify.com/track/5a9JRYXw1QL2lqrwyIjkzR) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 2:21 | 2020-09-25 |  |
 | [Five Big Dump Trucks](https://open.spotify.com/track/0fHRcfMMCSSMoKUW9BHmXp) | [Wee Sing](https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ) | [Wee Sing In the Car](https://open.spotify.com/album/35WDq0szwSvGFQtJ6oOmLM) | 1:34 | 2019-10-29 |  |
+| [Freight Train](https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Freight Train](https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd) | 2:19 | 2024-04-19 |  |
 | [Freight Train](https://open.spotify.com/track/0ZNnVSjkU5TycXwvbJjC6X) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Flower](https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG) | 2:58 | 2019-10-29 |  |
 | [Freight Train Boogie/Choo Choo Ch'Boogie](https://open.spotify.com/track/1lQ0L938tQgoNQxjxoBpQm) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [All Aboard!](https://open.spotify.com/album/75ChgvAlfFOk9145qwMzD6) | 2:43 | 2019-10-29 |  |
 | [Go, Fire Truck, Go](https://open.spotify.com/track/5w1H9AcQAUrxCRaILcW9Iw) | [Suzi Shelton](https://open.spotify.com/artist/6KVBsjr33qLBA2CnlnRYEf) | [Smile in My Heart](https://open.spotify.com/album/4dYhbLticgz5Q4AWigzVSH) | 2:29 | 2019-10-29 |  |

@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22668,
+  "num_followers": 22676,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -355,38 +355,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "HANN (Alone)",
-        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 205820,
-      "name": "HANN (Alone)",
-      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 200705,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -403,6 +371,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "HANN (Alone)",
+        "url": "https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 205820,
+      "name": "HANN (Alone)",
+      "url": "https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
         "url": "https://open.spotify.com/album/6P6LHEL8gmkX4G4PFFp6dJ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 216555,
       "name": "Descendants Of The Sun (Original Television Soundtrack) Pt.6 - Talk Love",
       "url": "https://open.spotify.com/track/5NkpsRKvSBukdYQtl3WLZW"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "My Last Love OST Part.4",
-        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 195216,
-      "name": "Hold my hand",
-      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 270452,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "My Last Love OST Part.4",
+        "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 195216,
+      "name": "Hold my hand",
+      "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 206266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "KARA 3rd Album STEP",
         "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 207026,
       "name": "BERMUDA TRIANGLE",
       "url": "https://open.spotify.com/track/0hRVm06wtH5HsmPetg1W9t"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "INSANE LOVE",
-        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 221371,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
       "artists": [
         {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
         }
       ],
-      "duration_ms": 282806,
-      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
-      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
+      "duration_ms": 209801,
+      "name": "History",
+      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
       },
       "artists": [
         {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 209801,
-      "name": "History",
-      "url": "https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv"
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Nitpicking",
-        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 213577,
-      "name": "Nitpicking",
-      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "The Beauty Inside Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 238862,
       "name": "Beautiful Moment",
       "url": "https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Nitpicking",
+        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 213577,
+      "name": "Nitpicking",
+      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "Grown-Up",
         "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 250644,
       "name": "Severely",
       "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
+        "name": "PRODUCE 101 - 35 Boys 5 Concepts",
+        "url": "https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI"
+      },
+      "artists": [
+        {
+          "name": "Sons of People",
+          "url": "https://open.spotify.com/artist/2xNpeMJT0QrDfs4CFHygYi"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "NEVER",
+      "url": "https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
         "name": "Erase",
         "url": "https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 228080,
       "name": "Erase (feat.Iron)",
       "url": "https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
-        "name": "PRODUCE 101 - 35 Boys 5 Concepts",
-        "url": "https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI"
-      },
-      "artists": [
-        {
-          "name": "Sons of People",
-          "url": "https://open.spotify.com/artist/2xNpeMJT0QrDfs4CFHygYi"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "NEVER",
-      "url": "https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo"
     },
     {
       "added_at": "2024-04-04 20:15:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-04-04 20:15:17",
       "album": {
-        "name": "Time And Fallen Leaves",
-        "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 247435,
-      "name": "Time And Fallen Leaves",
-      "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
-    },
-    {
-      "added_at": "2024-04-04 20:15:17",
-      "album": {
         "name": "MADE SERIES",
         "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 212893,
       "name": "Let's not fall in love - KR Ver.",
       "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
+    },
+    {
+      "added_at": "2024-04-04 20:15:17",
+      "album": {
+        "name": "Time And Fallen Leaves",
+        "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 247435,
+      "name": "Time And Fallen Leaves",
+      "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
     },
     {
       "added_at": "2024-04-04 20:15:17",

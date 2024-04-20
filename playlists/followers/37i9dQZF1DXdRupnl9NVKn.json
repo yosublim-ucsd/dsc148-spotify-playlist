@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 281924,
+  "2024-04-20": 281987,
   "date_first_scraped": "2022-05-30",
   "description": "Neverland, your queens are here!",
   "name": "This Is (G)I-DLE",
@@ -53,10 +53,28 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177840,
       "name": "A-MOONO-KE (I\u2019m OK)",
       "url": "https://open.spotify.com/track/07Betr7cYIq5D9F2X9MnCT"
+    },
+    {
+      "album": {
+        "name": "A-MOONO-KE",
+        "url": "https://open.spotify.com/album/0rRs35ls1ttKAtw0ioIAlJ"
+      },
+      "artists": [
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "A-MOONO-KE (I\u2019m OK)",
+      "url": "https://open.spotify.com/track/7bmjqFnamwu5iGT3WeKOdG"
     },
     {
       "album": {
@@ -89,10 +107,46 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146000,
       "name": "All Night",
       "url": "https://open.spotify.com/track/1abAIeSQCbdPcxWgiwDOmL"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3rrYAxy6f1Aj5GO9vVRyDr"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/0afnaAYZk1IPQSFDd2MGw0"
     },
     {
       "album": {
@@ -107,7 +161,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162786,
       "name": "Allergy",
       "url": "https://open.spotify.com/track/38MKW2tQHtyO8djIOKlEFF"
@@ -209,6 +263,24 @@
     {
       "album": {
         "name": "I love",
+        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/00XrbymEYDhTSLwsWTzxor"
+    },
+    {
+      "album": {
+        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -219,7 +291,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204040,
       "name": "Change",
       "url": "https://open.spotify.com/track/6wXYyw7TBQlJ0qh3RNP8MD"
@@ -559,7 +631,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228080,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/41nBWFdECOtxYnygCpL6AH"
@@ -577,7 +649,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228080,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/5pWd8NRoi9yY1K2Fz9nIVh"
@@ -727,7 +799,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238630,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos"
@@ -763,7 +835,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238630,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0"
@@ -973,7 +1045,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 184920,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/1fxKKzZ6YmnrYmD7fCrBo9"
@@ -991,7 +1063,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184920,
       "name": "Last Dance (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/7EI7PpLESJmbAnaK4zCmFm"
@@ -1089,6 +1161,24 @@
     {
       "album": {
         "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0VkO3m9iY9vzNFtTbdhH3e"
+    },
+    {
+      "album": {
+        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -1099,7 +1189,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197173,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6dmMXI9tVrDgFmxpjttZmF"
@@ -1117,10 +1207,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175826,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/4fg42mtrSFuKQ9NYBboiiN"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175826,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/6pIimsQ4dcMfTkf013pcKO"
     },
     {
       "album": {
@@ -1293,6 +1401,24 @@
     {
       "album": {
         "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Nxde",
+      "url": "https://open.spotify.com/track/5PQPfjjCJn5wBUJWzTXpLE"
+    },
+    {
+      "album": {
+        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -1303,10 +1429,32 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "album": {
+        "name": "Nxde (Steve Aoki Remix)",
+        "url": "https://open.spotify.com/album/7LwmZZ8UeExJ4YfS0xtE3Q"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167645,
+      "name": "Nxde (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/2qyfkXZhtjf3bZ7WBaY3kT"
     },
     {
       "album": {
@@ -1325,7 +1473,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167645,
       "name": "Nxde (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/6HXVUmiqWSg3OW6yr5mJCJ"
@@ -1379,10 +1527,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189066,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0M0LPSeg23xSAELGs2TbXf"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2ABNxVi4qs7nyjArD25hrr"
     },
     {
       "album": {
@@ -1397,10 +1563,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190946,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/4QbdGSGyECE7IRtjolOkjO"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190946,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5mhvd7AyGwL35oKEPfrJqJ"
     },
     {
       "album": {
@@ -1521,7 +1705,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256493,
       "name": "Put It Straight - Nightmare Version",
       "url": "https://open.spotify.com/track/3VqP1DVYFoS6sLhPbEtifi"
@@ -1539,7 +1723,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256493,
       "name": "Put It Straight - Nightmare Version",
       "url": "https://open.spotify.com/track/6BheMIaNvX13rcfENmYTww"
@@ -1557,10 +1741,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161240,
       "name": "Queencard",
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+    },
+    {
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/2cBuoAocFtOZU31Tk6UmTt"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/68r87x3VZdAMhv8nBVuynz"
     },
     {
       "album": {
@@ -1593,10 +1795,28 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223346,
       "name": "Relay",
       "url": "https://open.spotify.com/track/310Qb2mSocNLguFicxzRnD"
+    },
+    {
+      "album": {
+        "name": "I love",
+        "url": "https://open.spotify.com/album/5P2uqhsUdWHQ8sEdsX9xZE"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182026,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/69zyhwAN4buVmk0ASqJd3F"
     },
     {
       "album": {
@@ -1611,7 +1831,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182026,
       "name": "Reset",
       "url": "https://open.spotify.com/track/6b5UB8AvYPTYP5AC99BYjB"
@@ -1673,6 +1893,24 @@
     {
       "album": {
         "name": "I love",
+        "url": "https://open.spotify.com/album/3OYJRuiv884bg3PmpUrsbD"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Sculpture",
+      "url": "https://open.spotify.com/track/1fpCZrcCW7Gyg16wsuUK8N"
+    },
+    {
+      "album": {
+        "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
       "artists": [
@@ -1683,7 +1921,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186733,
       "name": "Sculpture",
       "url": "https://open.spotify.com/track/7f9Nbqm1ds2kxGHioJtdf3"
@@ -1737,7 +1975,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "Show",
       "url": "https://open.spotify.com/track/6rUDyzoRnBanKXvaflVLiA"
@@ -1755,7 +1993,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191360,
       "name": "Show",
       "url": "https://open.spotify.com/track/3hMtT4xgDCXPd7WLPzBZX9"
@@ -2016,12 +2254,12 @@
         },
         {
           "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+          "url": "https://open.spotify.com/artist/1ykAocWwzbNtW0ygax0aVu"
         }
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 181373,
       "name": "We Already Fell In Love",
       "url": "https://open.spotify.com/track/0UOMVs7dFEd7TlIlUBJtoI"
@@ -2043,7 +2281,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181373,
       "name": "We Already Fell In Love",
       "url": "https://open.spotify.com/track/3pgrQUUeMLo6g9MdZqqN0a"
@@ -2217,7 +2455,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223346,
       "name": "\ub2ec\ub824! Relay",
       "url": "https://open.spotify.com/track/7iH3faubNoXfhxmQUzUGGq"

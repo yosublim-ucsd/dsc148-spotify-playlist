@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 64415,
+  "num_followers": 64490,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGMzOTkwYTVmZDI3MDhhZmQyYjU3YTFkZTViODRjYjUy",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGMwNWQ5YTUwNzdlYWE5YTM3NjVlYjFmNTg1NzcwY2Q0",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
       },
       "artists": [
         {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 171626,
-      "name": "Some Things Never Change (feat. HARDY)",
-      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+      "duration_ms": 203229,
+      "name": "Creep (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
         },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 203229,
-      "name": "Creep (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3CowWV9MOYpMN6sZBqz9rF"
+      "duration_ms": 171626,
+      "name": "Some Things Never Change (feat. HARDY)",
+      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 14373,
+  "2024-04-20": 14393,
   "date_first_scraped": "2023-09-27",
   "description": "Canciones y cuentos de tus cl\u00e1sicos favoritos.",
   "name": "Canciones, Cuentos y Fabulas",
@@ -637,7 +637,7 @@
     {
       "album": {
         "name": "La Ratita Blanca",
-        "url": "https://open.spotify.com/album/4bb9aux1YYIg2XLU5rIMWw"
+        "url": "https://open.spotify.com/album/0oyGL1KdUiWGyDRBiFTgvS"
       },
       "artists": [
         {
@@ -648,6 +648,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137625,
+      "name": "La Ratita Blanca",
+      "url": "https://open.spotify.com/track/2NItaEQ97YaPyPWRhloac0"
+    },
+    {
+      "album": {
+        "name": "La Ratita Blanca",
+        "url": "https://open.spotify.com/album/4bb9aux1YYIg2XLU5rIMWw"
+      },
+      "artists": [
+        {
+          "name": "Hab\u00eda una Vez Cuentos Infantiles",
+          "url": "https://open.spotify.com/artist/18h7mbIvxGVV5pDxKR8glX"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 137625,
       "name": "La Ratita Blanca",
       "url": "https://open.spotify.com/track/4nAxKGzccUeBGDY5HJrSK1"

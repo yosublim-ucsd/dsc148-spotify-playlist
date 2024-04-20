@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 273408,
+  "2024-04-20": 273381,
   "date_first_scraped": "2021-12-21",
   "description": "The perfect mix of Punk, Rock, Alt & Indie. Cover: Gustaf",
   "name": "Noisy",
@@ -309,7 +309,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 264573,
       "name": "Almost Everything",
       "url": "https://open.spotify.com/track/4KU3ECcOn7di9BUHgajmIO"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264573,
       "name": "Almost Everything",
       "url": "https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-01",
+      "date_removed": null,
       "duration_ms": 222908,
       "name": "Away From The Castle",
       "url": "https://open.spotify.com/track/0lQd2j6DVcXvRFRsat7Cwz"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222908,
       "name": "Away From The Castle",
       "url": "https://open.spotify.com/track/73oTXbmbelMf3lVJBuLlf7"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206440,
       "name": "Big Air",
       "url": "https://open.spotify.com/track/4CV3vmoI1mExWRTcGCsKTc"
@@ -923,6 +923,24 @@
       "duration_ms": 206440,
       "name": "Big Air",
       "url": "https://open.spotify.com/track/4Lg9g0vN4guToh7068wPtT"
+    },
+    {
+      "album": {
+        "name": "Spiel",
+        "url": "https://open.spotify.com/album/5jSK4jeCpxMxhuySk8EOBI"
+      },
+      "artists": [
+        {
+          "name": "Office Dog",
+          "url": "https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Big Air",
+      "url": "https://open.spotify.com/track/6iwhvpSBLm0xBWxd0Vgmjg"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 263973,
       "name": "Brass Bell",
       "url": "https://open.spotify.com/track/0vNu5t0o0R57Xy1e10d5zI"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263973,
       "name": "Brass Bell",
       "url": "https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238213,
       "name": "Can\u2019t Believe We're Here",
       "url": "https://open.spotify.com/track/5rZCwYjBZ1UX40Ussx8Jkg"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 238213,
       "name": "Can\u2019t Believe We're Here",
       "url": "https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG"
@@ -1557,6 +1575,24 @@
     {
       "album": {
         "name": "Centipede",
+        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
+    },
+    {
+      "album": {
+        "name": "Centipede",
         "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
       },
       "artists": [
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
@@ -2115,7 +2151,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362140,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/0VX5Ud6rUotyxZbWqnVUWq"
@@ -2133,7 +2169,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 362140,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK"
@@ -2581,7 +2617,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263551,
       "name": "Doomscrollers",
       "url": "https://open.spotify.com/track/31vMYl1rfrcgyqc7tLOXYD"
@@ -2599,7 +2635,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 263551,
       "name": "Doomscrollers",
       "url": "https://open.spotify.com/track/65TxQkmxPrkLujVZjjWLj8"
@@ -2977,7 +3013,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210880,
       "name": "Empires Falling",
       "url": "https://open.spotify.com/track/7BxmSpsn2Rd7nA8nWlKdjn"
@@ -2995,7 +3031,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Empires Falling",
       "url": "https://open.spotify.com/track/7tvqPt52eVRDgkIVYobzua"
@@ -3251,7 +3287,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 250173,
       "name": "Fairlies",
       "url": "https://open.spotify.com/track/4MP3R0itL0A32onspZXcur"
@@ -3269,7 +3305,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250173,
       "name": "Fairlies",
       "url": "https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef"
@@ -3521,7 +3557,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175333,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs"
@@ -3539,7 +3575,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
@@ -4033,6 +4069,24 @@
     {
       "album": {
         "name": "Good Living Is Coming For You",
+        "url": "https://open.spotify.com/album/2027gd5aJbOXAGGNiQy7Tz"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217104,
+      "name": "Good Living Is Coming for You",
+      "url": "https://open.spotify.com/track/0Lwv1VvBE2Qj8lDIWch7bD"
+    },
+    {
+      "album": {
+        "name": "Good Living Is Coming For You",
         "url": "https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI"
       },
       "artists": [
@@ -4043,7 +4097,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217104,
       "name": "Good Living Is Coming for You",
       "url": "https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os"
@@ -4353,7 +4407,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4sBsParg8ua0dHomXOekyw"
@@ -4371,7 +4425,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 226594,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz"
@@ -4809,6 +4863,24 @@
     {
       "album": {
         "name": "Hot Ghee",
+        "url": "https://open.spotify.com/album/4k6plX8548lKZzlEcpPMA1"
+      },
+      "artists": [
+        {
+          "name": "Night Beats",
+          "url": "https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Hot Ghee",
+      "url": "https://open.spotify.com/track/3sGn6o0Dl1Pi7aEMWFDGbC"
+    },
+    {
+      "album": {
+        "name": "Hot Ghee",
         "url": "https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh"
       },
       "artists": [
@@ -4837,7 +4909,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224480,
       "name": "Hot Ghee",
       "url": "https://open.spotify.com/track/7y6xvtRLOMbJzc8g27N01p"
@@ -4981,7 +5053,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201808,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1jmHjqrzgwlMTTnJ92QTVW"
@@ -4999,7 +5071,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 201808,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2629nMBV0YToedXJ2naMxN"
@@ -5201,7 +5273,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171215,
       "name": "I Thought You'd Change",
       "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
@@ -5237,7 +5309,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-20",
+      "date_removed": null,
       "duration_ms": 171215,
       "name": "I Thought You'd Change",
       "url": "https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H"
@@ -6285,7 +6357,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 212080,
       "name": "Loops",
       "url": "https://open.spotify.com/track/2tmWR0E3FQTquGK7vYnkwN"
@@ -6303,7 +6375,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212080,
       "name": "Loops",
       "url": "https://open.spotify.com/track/5GgeEPCGwqoWxd6gzptHeB"
@@ -6321,7 +6393,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED"
@@ -6339,7 +6411,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 291037,
       "name": "Lose",
       "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
@@ -7013,7 +7085,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 185914,
       "name": "Moonstruck",
       "url": "https://open.spotify.com/track/1kM0YPEPUmZfV7WAl6HH0i"
@@ -7031,7 +7103,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185914,
       "name": "Moonstruck",
       "url": "https://open.spotify.com/track/4jKvi79CDhecACVRUVwOx3"
@@ -8103,7 +8175,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 205061,
       "name": "Plastic Pyramid",
       "url": "https://open.spotify.com/track/06SgGRLn7xmwCz8wIxIx8U"
@@ -8125,7 +8197,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205061,
       "name": "Plastic Pyramid",
       "url": "https://open.spotify.com/track/1nxVYkAMpRqLaNLJdggYWa"
@@ -8179,7 +8251,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 101791,
       "name": "Pod",
       "url": "https://open.spotify.com/track/4Pd4s9r2rVwxRq6PqkEAXr"
@@ -8197,7 +8269,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101791,
       "name": "Pod",
       "url": "https://open.spotify.com/track/5ROwIm7XDygIgVH6hcGdPF"
@@ -8367,7 +8439,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169962,
       "name": "Psychic Dance Routine",
       "url": "https://open.spotify.com/track/2m4gRuVMkQGhNaL3gHXr59"
@@ -8385,7 +8457,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 169962,
       "name": "Psychic Dance Routine",
       "url": "https://open.spotify.com/track/79jxS5Li1Xm8VfwmgUiAAC"
@@ -8475,7 +8547,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168063,
       "name": "R&B",
       "url": "https://open.spotify.com/track/0HzQIsuZfE1xy5MDG2Pi8r"
@@ -8493,7 +8565,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 168063,
       "name": "R&B",
       "url": "https://open.spotify.com/track/3nJFqIDFcku1zLfbC2Lrgi"
@@ -8767,7 +8839,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284597,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/048gO52Od4ig8MEM4oQTv1"
@@ -8803,7 +8875,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 284597,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW"
@@ -9793,10 +9865,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287701,
       "name": "Squid",
       "url": "https://open.spotify.com/track/5kKBFSnpiBrvIZUwfsjSoB"
+    },
+    {
+      "album": {
+        "name": "Squid",
+        "url": "https://open.spotify.com/album/2mg4S1RvbaNn2IwVCctY99"
+      },
+      "artists": [
+        {
+          "name": "RVG",
+          "url": "https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287701,
+      "name": "Squid",
+      "url": "https://open.spotify.com/track/61k4hy4UTqLzx7U5c4jxJC"
     },
     {
       "album": {
@@ -10135,7 +10225,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd"
@@ -10153,7 +10243,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
@@ -10661,10 +10751,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244466,
       "name": "The Punisher",
       "url": "https://open.spotify.com/track/2MH7gMSAQuobePQ4SDFqPC"
+    },
+    {
+      "album": {
+        "name": "The Punisher",
+        "url": "https://open.spotify.com/album/41Q4Z1VqWXVkRLmOW4G1LT"
+      },
+      "artists": [
+        {
+          "name": "Stuck",
+          "url": "https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244466,
+      "name": "The Punisher",
+      "url": "https://open.spotify.com/track/5Qq9kHZJAJ5gok8H7ko0Di"
     },
     {
       "album": {
@@ -11328,6 +11436,24 @@
     },
     {
       "album": {
+        "name": "vertigo",
+        "url": "https://open.spotify.com/album/4TohkNhmILPUaLUNd3zH2L"
+      },
+      "artists": [
+        {
+          "name": "Billy Nomates",
+          "url": "https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165200,
+      "name": "vertigo",
+      "url": "https://open.spotify.com/track/4DHcMdeXWduEudezIENVuY"
+    },
+    {
+      "album": {
         "name": "CACTI",
         "url": "https://open.spotify.com/album/5yxbBuZfpB3yMoUQqdwOjz"
       },
@@ -11339,7 +11465,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165200,
       "name": "vertigo",
       "url": "https://open.spotify.com/track/4P0ap7JtuISR0QqtIK9JZD"

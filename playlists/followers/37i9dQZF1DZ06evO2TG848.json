@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21240,
+  "2024-04-20": 21239,
   "date_first_scraped": "2023-09-01",
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
   "name": "This Is Gustavo Santaolalla",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 240333,
       "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
       "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289320,
       "name": "Deportation/Iguazu",
       "url": "https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl"
@@ -1125,10 +1125,32 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222994,
       "name": "MELANCOL\u00cdA",
       "url": "https://open.spotify.com/track/41N9Co3jknF8m5BH0cNdqb"
+    },
+    {
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222994,
+      "name": "MELANCOL\u00cdA",
+      "url": "https://open.spotify.com/track/7FIWHKEE0ATHZkHi0USxCZ"
     },
     {
       "album": {

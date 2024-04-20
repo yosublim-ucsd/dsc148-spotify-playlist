@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-484 songs - 23 hr 31 min
+485 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 | 2023-11-28 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 | 2023-08-04 |
+| [No One Cares](https://open.spotify.com/track/4KXymUzgOQlVzzUJkqhlT6) | [DEDAN](https://open.spotify.com/artist/6V3bSP6SAobPg4SVtsUTrP) | [No One Cares](https://open.spotify.com/album/6phBnvjWE3OarO3o1xHspu) | 2:52 | 2024-04-19 |  |
 | [No Pressure](https://open.spotify.com/track/0mVzuvUprU7rwle4EC2yz8) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t), [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [No Pressure](https://open.spotify.com/album/30JwPQ889kwhIyLbjqTOYd) | 3:05 | 2023-12-08 |  |
 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 | 2022-10-30 | 2023-02-04 |
 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2023-10-27 |  |

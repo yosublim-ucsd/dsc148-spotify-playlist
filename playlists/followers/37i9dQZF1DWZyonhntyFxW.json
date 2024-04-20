@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 241909,
+  "2024-04-20": 241988,
   "date_first_scraped": "2022-05-13",
-  "description": "\u0642\u0644\u062a \u0628\u064a\u0642\u0644\u062f\u0648\u0627 \u0644\u0643\u0646\u064a \u0628\u063a\u064a\u064a\u064a\u064a\u064a\u064a\u064a\u064a\u0638. \u063a\u0644\u0627\u0641: \u0632\u064a\u0627\u062f \u0638\u0627\u0638\u0627 ",
+  "description": "\u0632\u0645\u064a\u0644\u064a \u0628\u064a\u0633\u0623\u0644 \u0639\u0646 \u0627\u0644\u0645\u0628\u062f\u0623 \u0648\u0642\u062a \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u064a\u0631\u0648\u062d \u0641\u064a\u0646\u061f.\u063a\u0644\u0627\u0641:\u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648 ",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -57,6 +57,28 @@
       "duration_ms": 168000,
       "name": "3al hady",
       "url": "https://open.spotify.com/track/2xo7e1lWaLrmHqRyITPSlT"
+    },
+    {
+      "album": {
+        "name": "3andy Saheb",
+        "url": "https://open.spotify.com/album/2HYmYflHK4DpNoInSWekSR"
+      },
+      "artists": [
+        {
+          "name": "El Sawareekh",
+          "url": "https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t"
+        },
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168940,
+      "name": "3andy Sahb",
+      "url": "https://open.spotify.com/track/5wUv8kas7QKIrUeSLOfdYd"
     },
     {
       "album": {
@@ -2801,7 +2823,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148500,
       "name": "MADARETSH",
       "url": "https://open.spotify.com/track/20ug862pGPnJRSuENJp3ae"
@@ -4727,7 +4749,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W"
@@ -4745,7 +4767,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228857,
       "name": "Tripod",
       "url": "https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE"

@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Missy Raines
 
-554 songs - 1 day 9 hr 1 min
+555 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Engine Trouble](https://open.spotify.com/track/3VGjFO89Sh53UjTRGJXWmi) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/1A43T5C9vFdOXecyJAE1We) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Eva Kelley](https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Eva Kelley](https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV) | 4:41 | 2021-12-31 | 2022-06-18 |
 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2024-01-26 | 2024-04-07 |
+| [Evergreen](https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Kinetic Tone](https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX) | 4:52 | 2024-04-06 |  |
 | [Fall In Tennessee \(feat\. Jerry Douglas\)](https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Fall In Tennessee](https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU) | 3:51 | 2023-10-20 |  |
 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 | 2021-12-17 |  |
 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 | 2022-01-14 | 2024-01-27 |
@@ -172,7 +173,7 @@
 | [Get Out](https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Get Out](https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7) | 3:40 | 2024-03-08 |  |
 | [Getaway](https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6) | [Katelyn Ingardia](https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI) | [Getaway](https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG) | 3:36 | 2023-08-18 |  |
 | [Gettin' Gone](https://open.spotify.com/track/07JhanX2lEKBgOm25AZ7xM) | [Mason Via](https://open.spotify.com/artist/23Q1PNqXqh9dzm8op1vOHi) | [Gettin' Gone](https://open.spotify.com/album/1Kly2Aoh3Gw33yJN6D1pi6) | 2:23 | 2022-04-22 | 2022-07-15 |
-| [Ghost Of A Love](https://open.spotify.com/track/4mMx8bGptO5WiP83RF9z8J) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1), [Dudley Connell](https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Ghost Of A Love](https://open.spotify.com/album/5NXPD6eqbDqlCh1mB0aNTR) | 3:57 | 2024-04-06 |  |
+| [Ghost Of A Love](https://open.spotify.com/track/4mMx8bGptO5WiP83RF9z8J) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1), [Dudley Connell](https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Ghost Of A Love](https://open.spotify.com/album/5NXPD6eqbDqlCh1mB0aNTR) | 3:57 | 2024-04-06 | 2024-04-20 |
 | [Gloryland](https://open.spotify.com/track/20oWelhclb7W9stxy1Yzcs) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Gloryland](https://open.spotify.com/album/2UllrCRpe59ore8RCzcVD7) | 4:12 | 2022-04-08 | 2022-07-28 |
 | [Gloryland](https://open.spotify.com/track/6l45hb9DnSSjuS9EqFyHA5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 4:12 | 2022-07-22 | 2023-08-26 |
 | [Go in Peace](https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 2:37 | 2021-12-17 |  |

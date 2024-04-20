@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 158450,
+  "2024-04-20": 158501,
   "date_first_scraped": "2022-12-15",
   "description": "Tranquil flute music from around the world.",
   "name": "Flute Meditation",
@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "Night Chants: Native American Flute",
+        "url": "https://open.spotify.com/album/7nR9uzGGUJX8ufiOBjF714"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198721,
+      "name": "Adobe Walls",
+      "url": "https://open.spotify.com/track/3jqucQDwVKcr0gLXaoy5jg"
+    },
+    {
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0rkr3dneLtRBhJfQ1mXM9E"
       },
@@ -89,7 +107,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201400,
       "name": "Adobe Walls",
       "url": "https://open.spotify.com/track/17VEm4ZjTDDQlBFuWNPhtW"
@@ -429,6 +447,24 @@
     {
       "album": {
         "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/3nTs1yOLaoO0Bym2h2eptq"
+      },
+      "artists": [
+        {
+          "name": "Tides of Time",
+          "url": "https://open.spotify.com/artist/7xscG0oGwztLLe7ZaEuZpn"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219630,
+      "name": "Chrysalis (Spa)",
+      "url": "https://open.spotify.com/track/1qp90aEi493RuOguV7v3UR"
+    },
+    {
+      "album": {
+        "name": "Chrysalis",
         "url": "https://open.spotify.com/album/4NnsCFCW3fkJe9tNvEWpTd"
       },
       "artists": [
@@ -439,7 +475,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219630,
       "name": "Chrysalis (Spa)",
       "url": "https://open.spotify.com/track/64kI6vJOo1xg6F0FvXZRSh"
@@ -749,7 +785,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264320,
       "name": "Echoes of Time",
       "url": "https://open.spotify.com/track/2O2zrqAWdI7bkU6ImDGqzr"
@@ -767,7 +803,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 264320,
       "name": "Echoes of Time",
       "url": "https://open.spotify.com/track/3PGZTHMY2oo5zX1qKKDhjG"
@@ -2367,6 +2403,28 @@
     {
       "album": {
         "name": "Reed Song",
+        "url": "https://open.spotify.com/album/7m52N1RkqGkV0thg6t9liw"
+      },
+      "artists": [
+        {
+          "name": "Nafas",
+          "url": "https://open.spotify.com/artist/3nLS9Z6lkqBO2e4wHbkkQb"
+        },
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306576,
+      "name": "Reed Song",
+      "url": "https://open.spotify.com/track/2ymtzuf8QuI0CfDi6ZtYil"
+    },
+    {
+      "album": {
+        "name": "Reed Song",
         "url": "https://open.spotify.com/album/34OEiTXHoP7T4gNfi1TaBX"
       },
       "artists": [
@@ -2381,7 +2439,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306576,
       "name": "Reed Song",
       "url": "https://open.spotify.com/track/3T3kjCjqgjBuX4OsDMqqrb"
@@ -2899,6 +2957,32 @@
     {
       "album": {
         "name": "The Art of the Armenian Duduk",
+        "url": "https://open.spotify.com/album/5Xo8IquOqqZRI0aSrGAbA0"
+      },
+      "artists": [
+        {
+          "name": "Djivan Gasparyan",
+          "url": "https://open.spotify.com/artist/7ABrk0PO1Bz1U4G023WzSk"
+        },
+        {
+          "name": "Sergei Karapetian",
+          "url": "https://open.spotify.com/artist/3buJZx9haN3pR1hdpAHcOi"
+        },
+        {
+          "name": "Mkrtich Malkhasian",
+          "url": "https://open.spotify.com/artist/3AXuYrjNmZgnHjAUCkAM8L"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Splendid Spring",
+      "url": "https://open.spotify.com/track/5KPdGDeWsqfElbOL9EFEhR"
+    },
+    {
+      "album": {
+        "name": "The Art of the Armenian Duduk",
         "url": "https://open.spotify.com/album/1jC4zU9ZqtLicoSOnm5EYZ"
       },
       "artists": [
@@ -2917,7 +3001,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186386,
       "name": "Splendid Spring",
       "url": "https://open.spotify.com/track/5obmxOzBLSu7TM82nF9je4"
@@ -3419,7 +3503,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199456,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/1LtXfSiSlCUnLPDjJV0FPR"
@@ -3437,7 +3521,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 199456,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/4T5OICEpPY57v3xqHwEQ3X"

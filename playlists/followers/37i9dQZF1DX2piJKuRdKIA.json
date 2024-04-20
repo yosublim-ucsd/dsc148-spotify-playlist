@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 541440,
+  "2024-04-20": 541748,
   "date_first_scraped": "2022-01-09",
   "description": "Una sensual selecci\u00f3n de canciones para bailar en una sola baldosa.",
   "name": "Salsa Rom\u00e1ntica",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245081,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/4HIeIbJeQMUurTM57KVQU7"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248555,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308893,
       "name": "Aqu\u00e9l Viejo Motel",
       "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309186,
       "name": "Aqu\u00e9l Viejo Motel",
       "url": "https://open.spotify.com/track/5sivdGNkYMLTvVy5ydYYI8"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321178,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225933,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/60tVsYxb9Ac05YRFgMmyL1"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225953,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/21nc3O8OncUv1jjSrC1ML2"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325906,
       "name": "El Jardin Prohibido",
       "url": "https://open.spotify.com/track/5eufP63aSvtJuoI33YyRxF"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325906,
       "name": "El Jard\u00edn Prohibido",
       "url": "https://open.spotify.com/track/5ucu31GZ6Sxw5K8OgrFTxI"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267389,
       "name": "Extra\u00f1o Tu Amor",
       "url": "https://open.spotify.com/track/1kp1N9tj9zGbpttRISpgu9"
@@ -469,13 +469,13 @@
           "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         },
         {
-          "name": "Ray Sepulveda",
-          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+          "name": "Ray Sep\u00falveda",
+          "url": "https://open.spotify.com/artist/1SOkKpqQoafBziSZ3m9BfR"
         }
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-02",
+      "date_removed": null,
       "duration_ms": 267389,
       "name": "Extra\u00f1o Tu Amor",
       "url": "https://open.spotify.com/track/4WcWjBoSYqZBwqeYlz0qey"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 296857,
       "name": "Hechizo De Luna",
       "url": "https://open.spotify.com/track/1g0SIfhEzfJK8XCmHAjtjE"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294026,
       "name": "Hechizo De Luna",
       "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343513,
       "name": "La Noche Mas Linda Del Mundo",
       "url": "https://open.spotify.com/track/3ztPyNDLOrvNFM1Fh1v8Qx"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288333,
       "name": "Pa Que Me Llames",
       "url": "https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 286333,
       "name": "Pa' Que Me Llamas",
       "url": "https://open.spotify.com/track/22pdhZVshROclc7344c4KX"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278826,
       "name": "Quien Piensa En Ti",
       "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 278584,
       "name": "Qui\u00e9n Piensa en Ti",
       "url": "https://open.spotify.com/track/2PnW8tCjNkP3Ctd8K3d8NS"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 290613,
       "name": "Si Volveras a M\u00ed",
       "url": "https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290706,
       "name": "Si Volvieras A Mi",
       "url": "https://open.spotify.com/track/7FntdQdzMcHcD4QhItlq9s"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 294373,
       "name": "Todo Empezo",
       "url": "https://open.spotify.com/track/1iXT0dyQZVQY9MimddXgeq"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295333,
       "name": "Todo Empezo",
       "url": "https://open.spotify.com/track/3cL9ePuG6NGlmUmXEbOfpG"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285120,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273738,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/4ae223xfO5QUzbDWqLJMag"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "Y Nos Amamos",
       "url": "https://open.spotify.com/track/0vAA0c6zf8pCWgmIj4Oggx"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229746,
       "name": "Y Nos Amamos",
       "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-04",
+      "date_removed": null,
       "duration_ms": 303306,
       "name": "Y Que Me Pasa - Salsa Version",
       "url": "https://open.spotify.com/track/2Yhf5qqHOUbUb8QIxUTR7d"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303306,
       "name": "Y Qu\u00e9 Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"

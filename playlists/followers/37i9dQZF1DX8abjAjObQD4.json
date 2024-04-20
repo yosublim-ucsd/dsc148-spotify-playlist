@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 859,
+  "2024-04-20": 858,
   "date_first_scraped": "2023-08-12",
   "description": "Your favorite folk songs, live. Cover: John Prine",
   "name": "Folk Live",
@@ -241,34 +241,6 @@
         {
           "name": "Patty Griffin",
           "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        },
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        },
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
         }
       ],
       "date_added": "2023-08-11",
@@ -291,7 +263,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 168866,
       "name": "Buckets of Rain - Live",
       "url": "https://open.spotify.com/track/2PoGyTZEy0OVz7fX9P2bxS"
@@ -309,7 +281,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168866,
       "name": "Buckets of Rain - Live",
       "url": "https://open.spotify.com/track/40Crgt3WnrMsem2R6NrUTo"
@@ -327,7 +299,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 299360,
       "name": "By and By - Live",
       "url": "https://open.spotify.com/track/2CRRodIXF6xBPgIw8TmvV8"
@@ -345,7 +317,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299360,
       "name": "By and By - Live",
       "url": "https://open.spotify.com/track/3cZesFsDHkrutl5xe10RjG"
@@ -381,7 +353,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314028,
       "name": "Dusty Trails - Live from Spotify House SXSW '16",
       "url": "https://open.spotify.com/track/3e6KfPjCkSDMwPfEI5pJPH"
@@ -399,7 +371,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 314028,
       "name": "Dusty Trails - Live from Spotify House SXSW '16",
       "url": "https://open.spotify.com/track/5Mcl5heog3AgSEzDl5YvjZ"
@@ -933,30 +905,6 @@
         {
           "name": "The Little Willies",
           "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
-        },
-        {
-          "name": "Ray Benson",
-          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        },
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
       "date_added": "2023-08-11",
@@ -1523,7 +1471,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200760,
       "name": "Where Do the Children Play (Live from the United States, 1976)",
       "url": "https://open.spotify.com/track/1SH335ij0bvPl9MyjmKHnp"
@@ -1541,7 +1489,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 200760,
       "name": "Where Do The Children Play - Live From the United States, 1976",
       "url": "https://open.spotify.com/track/5Bzwra6Zc1N8OUTodLTKjh"

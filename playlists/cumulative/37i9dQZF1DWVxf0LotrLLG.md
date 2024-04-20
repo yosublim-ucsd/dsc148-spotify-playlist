@@ -4,7 +4,7 @@
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Gente de Zona
 
-984 songs - 2 day 4 hr 4 min
+987 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Desaparecer](https://open.spotify.com/track/0YBYH9cW0fKU3bySSUi45l) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:54 | 2023-05-26 | 2023-10-14 |
 | [DESASTRE](https://open.spotify.com/track/4EkwRYQkwZkGsI4OSxmuSB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:42 | 2023-11-10 | 2024-02-10 |
 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 | 2024-03-15 |  |
+| [Desconocido](https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:53 | 2024-04-19 |  |
 | [Desespero](https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 3:14 | 2023-05-12 | 2023-08-12 |
 | [Despierta y Mata](https://open.spotify.com/track/4UVSywSk2DYi6gHWU9OoZV) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 2:33 | 2024-02-02 |  |
 | [Devuélveme a Mi Chica](https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 3:22 | 2023-04-28 | 2023-07-29 |
@@ -596,6 +597,7 @@
 | [Más que una idea](https://open.spotify.com/track/2aEwX97ENXALKe6MzsymyI) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:27 | 2023-10-27 | 2024-02-10 |
 | [Mírame A Los Ojos](https://open.spotify.com/track/4WAXcK0n5Thc1DD2f3pv9O) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:08 | 2023-04-21 | 2023-07-15 |
 | [Música De Fondo \- En Vivo](https://open.spotify.com/track/2k3LkhgXozsZwHxbJpsbbS) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:45 | 2023-09-29 | 2024-01-20 |
+| [Nada Cambia](https://open.spotify.com/track/2BTFQLHMBvzZlHY4IaIKpl) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 2:58 | 2024-04-19 |  |
 | [Nada Malo](https://open.spotify.com/track/4I1qopX9knBHznBLKZpAUi) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:23 | 2023-09-22 | 2024-01-13 |
 | [Nada Me Falta](https://open.spotify.com/track/33hXUiCSd9O3fEqVMqPLND) | [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:20 | 2024-03-08 |  |
 | [Nada Sin Ti](https://open.spotify.com/track/4zddWTgblKVFEeElQ6SRnS) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:41 | 2023-01-27 | 2023-05-20 |
@@ -800,6 +802,7 @@
 | [SI ES AMOR](https://open.spotify.com/track/6WyoiYwvve3YYtX99DLR5t) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean2](https://open.spotify.com/album/1VTX5vGTNse3upEj6e6I3h) | 3:32 | 2023-01-17 | 2023-04-29 |
 | [Si Es Cierto Que Te Vas](https://open.spotify.com/track/0Tqf72ZudvXdJdNWkjSMOC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 3:36 | 2023-05-19 | 2023-08-19 |
 | [Si La Ves](https://open.spotify.com/track/5tEw2szqiBIEnCKMOPFnfR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:48 | 2023-01-17 | 2023-04-29 |
+| [Si No Estás](https://open.spotify.com/track/7531r2mkUMtB0tzNo1xSaM) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [ES SOLO MÚSICA](https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE) | 3:04 | 2024-04-19 |  |
 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 | 2024-01-26 |  |
 | [Si Salimos](https://open.spotify.com/track/7GfQEUSuqYGeY2L0BfVOXM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:21 | 2023-03-17 | 2023-06-24 |
 | [Si te hubiera](https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 1:42 | 2024-02-16 |  |

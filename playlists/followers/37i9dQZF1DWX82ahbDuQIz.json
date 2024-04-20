@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 516504,
+  "2024-04-20": 516389,
   "date_first_scraped": "2021-12-21",
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Merrily We Roll Along",
   "name": "Best of Broadway",
@@ -67,7 +67,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 360120,
       "name": "1973",
       "url": "https://open.spotify.com/track/2gOmt646rC7CXUUdDUIvEL"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360120,
       "name": "1973",
       "url": "https://open.spotify.com/track/3dsccH4jAR9gx6g7U8whb5"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173773,
       "name": "Bring Him Home",
       "url": "https://open.spotify.com/track/5kWVIa5k3M3kt5MBcayVMb"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 173760,
       "name": "Bring Him Home",
       "url": "https://open.spotify.com/track/3FzFmeyzLFmPXCSx3hSS88"
@@ -628,28 +628,6 @@
     },
     {
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "date_added": "2021-12-15",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 353920,
-      "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
-      "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
-    },
-    {
-      "album": {
         "name": "Musikalfavoriter",
         "url": "https://open.spotify.com/album/3hPp88Hh4aBUGTnuoZVZva"
       },
@@ -669,6 +647,40 @@
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/4ZH7EG9IbZgJyVbBIciN2N"
+    },
+    {
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/46VuziW5kL9Hrt5NlJtLjY"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353920,
+      "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/0yM3VmM8gHEVGViKvAbQkc"
     },
     {
       "album": {
@@ -699,7 +711,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
@@ -737,7 +749,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 128533,
       "name": "Do You Hear The People Sing?",
       "url": "https://open.spotify.com/track/5c2nESuH1Sjr1UziuaMu44"
@@ -755,7 +767,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128533,
       "name": "Do You Hear The People Sing?",
       "url": "https://open.spotify.com/track/491YFwJXZsHzw3SFcETr8b"
@@ -873,7 +885,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83520,
       "name": "End Of Act 1: Memory",
       "url": "https://open.spotify.com/track/5tlzPWUvrHRkc1SSvpiviT"
@@ -1181,7 +1193,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260890,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/3NZK40wTri8mmiP1A9fheC"
@@ -1261,7 +1273,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/08hlFtp8y9S6YZmjBNvQ1I"
@@ -1319,7 +1331,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172026,
       "name": "Hello!",
       "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
@@ -1367,7 +1379,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254160,
       "name": "I Dreamed A Dream",
       "url": "https://open.spotify.com/track/3eX980bRAfdLeSdxg0Ex3w"
@@ -1385,7 +1397,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254160,
       "name": "I Dreamed A Dream",
       "url": "https://open.spotify.com/track/0c5Y1J8ihMN8vvQ3bsoxlZ"
@@ -1433,7 +1445,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144480,
       "name": "I Get a Kick out of You",
       "url": "https://open.spotify.com/track/23B3o2laQ6r35OQMgtXTRo"
@@ -1451,7 +1463,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/2GS0xi7GyKNT63khohKoPF"
@@ -2169,7 +2181,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140653,
       "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK"
@@ -2187,7 +2199,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140653,
       "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
       "url": "https://open.spotify.com/track/4e51xdDLaQW08LHNhdkwl9"
@@ -2229,7 +2241,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "Mamma Mia - 1999 / Musical \"Mamma Mia\"",
       "url": "https://open.spotify.com/track/2lz5PVnaX6vNVTe4fvfsLK"
@@ -2271,7 +2283,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201066,
       "name": "Mamma Mia - Remastered 1999 / From The Musical \"Mamma Mia\"",
       "url": "https://open.spotify.com/track/0yQIiFBjUYdFMMnnyQ2jB4"
@@ -2445,7 +2457,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 83520,
       "name": "Memory",
       "url": "https://open.spotify.com/track/5r4aVDOcZqjAhLJsD0uNED"
@@ -2511,7 +2523,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222396,
       "name": "Monster - From \"Frozen: The Broadway Musical\" / First Listen",
       "url": "https://open.spotify.com/track/723yB3NowaDZggicj9oYwx"
@@ -2537,10 +2549,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222396,
       "name": "Monster - From \"Frozen: The Broadway Musical\" / First Listen",
       "url": "https://open.spotify.com/track/79UR3p81LKfUNpgd3uRJgn"
+    },
+    {
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222239,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
     },
     {
       "album": {
@@ -2653,7 +2683,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285333,
       "name": "No Friends",
       "url": "https://open.spotify.com/track/0WV1rcv9z9E7MpwGXkldIx"
@@ -2697,7 +2727,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 285473,
       "name": "No Friends",
       "url": "https://open.spotify.com/track/5AnA6e58kZpAYLeEeNndGe"
@@ -2771,7 +2801,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259946,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/3kew6CYvA9xeUwwYFMdAY8"
@@ -2789,7 +2819,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257666,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx"
@@ -2889,7 +2919,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346813,
       "name": "Omigod You Guys",
       "url": "https://open.spotify.com/track/2av1BBGdN9DW1u7rvoRhMM"
@@ -2911,7 +2941,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346813,
       "name": "Omigod You Guys",
       "url": "https://open.spotify.com/track/2UNxP9jLuK0QkE8CK3x5vc"
@@ -2929,7 +2959,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239466,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx"
@@ -2947,7 +2977,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239373,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/0EcA4BQjy2bp7zUEBVVhBE"
@@ -3013,7 +3043,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216133,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/6cdcZzuQzUhspZo2aJfKaH"
@@ -3067,7 +3097,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216573,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/5kXbjaPptGdfQmMfeJCXlS"
@@ -3217,7 +3247,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192146,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/5fTikjXnFxv1CU6AiEPBLB"
@@ -3235,7 +3265,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192148,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/6aWJOPC5gpjTpRiyvrFOQm"
@@ -3369,7 +3399,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134506,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/08AqNLS5haUpTSacAbMHA0"
@@ -3387,7 +3417,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134506,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/11r0OH8zYLcBlryvnAiykT"
@@ -3529,7 +3559,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf"
@@ -3555,7 +3585,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225214,
       "name": "Suddenly Seymour",
       "url": "https://open.spotify.com/track/2AODWpK0rauqqL1gHfq2Zy"
@@ -3631,7 +3661,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 363293,
       "name": "The American Dream",
       "url": "https://open.spotify.com/track/2P2jms3uC1jfg42WY5oFIY"
@@ -3683,7 +3713,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364133,
       "name": "The American Dream - Original London Cast Recording/1989",
       "url": "https://open.spotify.com/track/4KhKAbwVPgizloys4wDada"
@@ -3903,7 +3933,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165693,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/1kU40UKP9BviW8m4HMgUQh"
@@ -3925,7 +3955,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165693,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/7uLFBM3ZcUGni4y3sVvfSF"
@@ -4001,7 +4031,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 303360,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/7ifB6Lb0Z0mqifFb5Jp6Pn"
@@ -4055,7 +4085,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303360,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/3BvdyscylBbOhf0TL2S0yH"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring ke onda. Joaquina Mertz en portada.",
-  "name": "\u2728 dreamy \u2728",
+  "description": "como en una nube. Bedroom pop vibes featuring Joaquina Mertz",
+  "name": "dreamy \u2728",
   "tracks": [
     {
       "album": {
@@ -230,6 +230,28 @@
       "duration_ms": 145415,
       "name": "A veces caigo",
       "url": "https://open.spotify.com/track/23VsJynQzdhikyNxp3xu1s"
+    },
+    {
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219166,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
     },
     {
       "album": {
@@ -516,7 +538,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 230700,
       "name": "Anagapesis",
       "url": "https://open.spotify.com/track/3OmYeAu479oTaZDA7hUKDD"
@@ -1120,6 +1142,24 @@
       "duration_ms": 231568,
       "name": "como si nada",
       "url": "https://open.spotify.com/track/4hMKS6gf79eVQ70AkAXyCE"
+    },
+    {
+      "album": {
+        "name": "COMO T\u00da",
+        "url": "https://open.spotify.com/album/7KY5xK6kE0xpUE4ZEYebSx"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159124,
+      "name": "COMO T\u00da",
+      "url": "https://open.spotify.com/track/097X2m5wtbSoj7dwqMMJA7"
     },
     {
       "album": {
@@ -1808,7 +1848,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
@@ -2614,7 +2654,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 225947,
       "name": "I Wish you Roses",
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
@@ -2690,7 +2730,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 163546,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/1Z8BiEwROkeaBtPDJXFGYy"
@@ -3487,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -3770,6 +3828,24 @@
       "duration_ms": 200000,
       "name": "Noche Humana",
       "url": "https://open.spotify.com/track/4wIHtjnkzcbH7LzdiOJOza"
+    },
+    {
+      "album": {
+        "name": "Fin De Los Tiempos",
+        "url": "https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL"
+      },
+      "artists": [
+        {
+          "name": "Paula Pera y el fin de los Tiempos",
+          "url": "https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200256,
+      "name": "Noche Humana",
+      "url": "https://open.spotify.com/track/4EV0dOT6mZUtEpT3JTULwI"
     },
     {
       "album": {
@@ -4982,7 +5058,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 285000,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ"
@@ -5942,7 +6018,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 178000,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31"

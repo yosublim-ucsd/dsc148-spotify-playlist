@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-265 songs - 16 hr 28 min
+266 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [My Backwards Walk \- Live at Spotify Studios NYC](https://open.spotify.com/track/6f5eBxCfrO15kv4FtcL7DW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 3:08 | 2021-10-27 |  |
 | [Nancy From Now On \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/5ZaNgNDUtgiiVgf9iJZsbx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/42Fu7ZldhKPIis5xdHtbro) | 4:10 | 2021-10-27 | 2022-07-29 |
 | [Nancy From Now On \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/6lLCsTI2SIMHTyi5AM897D) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Sessions \- Curated by Jim Eno](https://open.spotify.com/album/7LA6J1jUUYRw6KSTKxOrbG) | 4:10 | 2022-03-30 | 2023-01-12 |
-| [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-10-27 |  |
+| [Night So Long \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/28H8wM4aFa1DYUMjw4sI3c) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 2:55 | 2021-10-27 | 2024-04-20 |
 | [No Expectations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/700jM06irgccsWBuP927pp) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8) | 4:12 | 2023-01-11 | 2023-01-27 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1iWmK4jR0AhIZB0gZG3NKA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 4:52 | 2021-10-27 | 2022-07-29 |
 | [Nocturne \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 4:52 | 2022-03-30 | 2024-01-06 |
@@ -256,6 +256,7 @@
 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 | 2021-10-27 |  |
 | [Walking on Broken Glass \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Spotify Singles](https://open.spotify.com/album/3JheGJ15VzACtXQoYT8YPm) | 4:28 | 2023-01-11 |  |
 | [Wannabe \- Spotify Singles](https://open.spotify.com/track/2Nqxtt1W2iSsqKGNL5XsN1) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Wannabe \- Spotify Singles](https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW) | 2:32 | 2023-01-11 |  |
+| [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 | 2023-01-11 |  |
 | [Wasting Time \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ff5WH1b1Te2PpVwLX9p96) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 2:25 | 2022-03-30 | 2024-04-19 |
 | [Wasting Time \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7ExYX29Tvoi2DqwlGFakf3) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/4uimhI8hQq0icFu17aoCuZ) | 2:25 | 2021-10-27 | 2022-07-29 |
 | [Water \- Jim Eno Sessions](https://open.spotify.com/track/2wufv9jAZvrEVq5vTyTril) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Spotify Sessions](https://open.spotify.com/album/2fDaqqrHSc4gfy8sAu8MXg) | 4:19 | 2022-03-30 | 2023-01-12 |

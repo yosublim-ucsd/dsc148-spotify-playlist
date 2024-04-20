@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 75876,
+  "num_followers": 75898,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Han Jan",
-        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 242982,
-      "name": "Han Jan - Edit",
-      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 168188,
       "name": "Some Nights",
       "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Han Jan",
+        "url": "https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 242982,
+      "name": "Han Jan - Edit",
+      "url": "https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "KicK iii",
-        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 141364,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/7BlIfuZ7PO07szpAjTCKKa"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "KicK iii",
+        "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 141364,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -587,26 +587,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "PFW (Paris Fashion Week)",
-        "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "PFW (Paris Fashion Week)",
-      "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "PFW (Paris Fashion Week)",
+        "url": "https://open.spotify.com/album/3WxKZSS3o5PK9p87ILCbbJ"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "PFW (Paris Fashion Week)",
+      "url": "https://open.spotify.com/track/46N9KCJKR8cu1CatN5UKPi"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "TWINSOUL",
-        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        }
-      ],
-      "duration_ms": 215417,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "TWINSOUL",
+        "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "duration_ms": 215417,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 413600,
-      "name": "Musique",
-      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Composure",
         "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 413600,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 308858,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 308858,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Elaenia",
+        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 642653,
+      "name": "Silhouettes (I, II, III)",
+      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "U Wanna?",
         "url": "https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Elaenia",
-        "url": "https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 642653,
-      "name": "Silhouettes (I, II, III)",
-      "url": "https://open.spotify.com/track/2D4VTAyHTFegKvcw9oRZhX"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 207920,
       "name": "At First Sight",
       "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1263,22 +1263,6 @@
       "duration_ms": 231875,
       "name": "XTASIS CARNAL",
       "url": "https://open.spotify.com/track/1fBeP0UhhvoSBmbC98KV3i"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Lesser Man EP",
-        "url": "https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 439490,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1335,6 +1319,38 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Lesser Man EP",
+        "url": "https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 439490,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/13HYthybjhM3iyWcfl8VcN"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls"
-      },
-      "artists": [
-        {
-          "name": "LCY",
-          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
-        }
-      ],
-      "duration_ms": 238222,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Orvnge",
         "url": "https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Never Sleep #1",
-        "url": "https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom"
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls"
       },
       "artists": [
         {
-          "name": "Gabber Eleganza",
-          "url": "https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd"
+          "name": "LCY",
+          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
         }
       ],
-      "duration_ms": 293200,
-      "name": "Never Sleep",
-      "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
+      "duration_ms": 238222,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Domestic Tasks",
-        "url": "https://open.spotify.com/album/0zsC5dskHff7Zk8Gb5Anzh"
+        "name": "Never Sleep #1",
+        "url": "https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+          "name": "Gabber Eleganza",
+          "url": "https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd"
         }
       ],
-      "duration_ms": 325797,
-      "name": "Domestic Tasks",
-      "url": "https://open.spotify.com/track/2GNljwVh9HSEIAReooDJnL"
+      "duration_ms": 293200,
+      "name": "Never Sleep",
+      "url": "https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 188600,
       "name": "Eat The Runway",
       "url": "https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Domestic Tasks",
+        "url": "https://open.spotify.com/album/0zsC5dskHff7Zk8Gb5Anzh"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 325797,
+      "name": "Domestic Tasks",
+      "url": "https://open.spotify.com/track/2GNljwVh9HSEIAReooDJnL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "LOFF IS ALL YOU SPEED",
-        "url": "https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT"
+        "name": "B.E.M 2.0",
+        "url": "https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Oaks",
-          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
         },
         {
-          "name": "SITA",
-          "url": "https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI"
+          "name": "Sea Foam Walls",
+          "url": "https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO"
         }
       ],
-      "duration_ms": 183936,
-      "name": "LOFF IS ALL YOU SPEED",
-      "url": "https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H"
+      "duration_ms": 117165,
+      "name": "Indie Circus (feat. Seafoam Walls)",
+      "url": "https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB"
     }
   ],
   "unique_name": "Runway",

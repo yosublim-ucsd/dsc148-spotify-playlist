@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 33347,
+  "2024-04-20": 33352,
   "date_first_scraped": "2022-05-30",
   "description": "All songs from South Korean survival hip-hop TV show 'School Rapper(\uace0\ub4f1\ub798\ud37c). Cover: TRADE L (Season 4 Winner)",
   "name": "School Rapper (\uace0\ub4f1\ub798\ud37c)",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210026,
       "name": "053",
       "url": "https://open.spotify.com/track/6Bpan4zybjKlN4Uz6GSdpI"
@@ -47,7 +47,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210026,
       "name": "053 (Prod. by Bangroz)",
       "url": "https://open.spotify.com/track/2onaH2HQM1OavCqGZY7Y9l"
@@ -63,17 +63,17 @@
           "url": "https://open.spotify.com/artist/0dH7U9VsdBan1K2G183OeH"
         },
         {
-          "name": "MoonMean",
-          "url": "https://open.spotify.com/artist/5q6cqkgG8YMff4ZMByEFj8"
-        },
-        {
           "name": "Agee Expression",
           "url": "https://open.spotify.com/artist/03rgll6doqDiJrk5eiEYXM"
+        },
+        {
+          "name": "MoonMean",
+          "url": "https://open.spotify.com/artist/5q6cqkgG8YMff4ZMByEFj8"
         }
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260246,
       "name": "8",
       "url": "https://open.spotify.com/track/1ViiMuomvkG6NBOyQUWsZc"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260246,
       "name": "8 (Prod. by MoonMean;Paco Rabanne)",
       "url": "https://open.spotify.com/track/5lXQ1gTssv8iG5I3fPRCD0"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182031,
       "name": "Adios (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/1lwEq6k4ZojqCxpCdemfKh"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182031,
       "name": "Adios (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/2K5jKLoaAGjTyIJFgBN9rN"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195532,
       "name": "Aim",
       "url": "https://open.spotify.com/track/4fPIN59zyEZdVBjcXxVmRC"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195532,
       "name": "Aim",
       "url": "https://open.spotify.com/track/5nUn7nElUydnPYi6YhyoF3"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202909,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0iLytN0L2opiug63ObSpFE"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202909,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0rJJdUF1NhRyYq10cjTVI0"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199787,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/3zwyAWAtGd2DsOjosvsJFM"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199787,
       "name": "Authentic",
       "url": "https://open.spotify.com/track/6W43QTOUq719HhCu00jACp"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/08aurbdx6Lh5dhNYAXYiBa"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208148,
       "name": "Bell",
       "url": "https://open.spotify.com/track/0NyzUyLKdMklKWl54JBIeo"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208148,
       "name": "Bell",
       "url": "https://open.spotify.com/track/0JWog912MK1yQbdawLOhIQ"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246975,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/6JGYME6SPOqLU2FMiJf9aS"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246975,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/4elMaVXezNNDOUOKqYmcbO"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195874,
       "name": "Blue Whale",
       "url": "https://open.spotify.com/track/0WIkdfznav9BoDXuEA8Eg3"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195919,
       "name": "Blue Whale (Prod. by Nutty & STAFFONLY)",
       "url": "https://open.spotify.com/track/77ZQemPJGXXtbU7pQ0G43t"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234352,
       "name": "Boong-Boong",
       "url": "https://open.spotify.com/track/4dC5kCBQEMgRjEvlavlsZy"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234352,
       "name": "Boong-Boong (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/3uJN5Acv1WMsITAEvHuJox"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210891,
       "name": "Break Time (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/0wrhAauh8QSw2DFDi6ZHFV"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210891,
       "name": "Break Time (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/0RpNx3mGb0PM2tgQaQwnjs"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214650,
       "name": "Bully",
       "url": "https://open.spotify.com/track/5TlVfpy01JxNHMgQX9fVcn"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214650,
       "name": "Bully",
       "url": "https://open.spotify.com/track/5uia1tpOtGzWqbfWCujF1c"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230375,
       "name": "Bunzi",
       "url": "https://open.spotify.com/track/7x2oEKaFqbmj1geC6cGEQf"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230375,
       "name": "Bunzi",
       "url": "https://open.spotify.com/track/27PK74O8rqROIvRKMhw0WW"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242380,
       "name": "CAMOUFLAGE",
       "url": "https://open.spotify.com/track/3AkCVQQepf0StlfNCYKyw9"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242380,
       "name": "CAMOUFLAGE (Prod. by Coa White)",
       "url": "https://open.spotify.com/track/4T4QKh7BDD5vAt51X5oxC5"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209289,
       "name": "Cause (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/7x3RrW2zEgFlTCDQHvSucE"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209289,
       "name": "Cause (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/5tde8O6GBFkIL7k9ajyBAV"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189931,
       "name": "Cheat Sheet",
       "url": "https://open.spotify.com/track/1b7JTc2AoPxeZWW0KrYJjS"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190015,
       "name": "Cheat Sheet (Prod. by STAFFONLY)",
       "url": "https://open.spotify.com/track/6fqS3E4eAY0344Bf679ndh"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231021,
       "name": "Come for you",
       "url": "https://open.spotify.com/track/1AKR6nJPP378DWceE9gE07"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231021,
       "name": "Come for you",
       "url": "https://open.spotify.com/track/3zRgwmnr25wodLAAW2rxkH"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197058,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/53UcPeoFjxe0zR9URUQVLt"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197058,
       "name": "Cowboy (Prod. by ASSBRASS)",
       "url": "https://open.spotify.com/track/4oG76ADiYyklUwT2AIZx0d"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212380,
       "name": "DOGSICK",
       "url": "https://open.spotify.com/track/3Ki5qNP4tUfiGQTxbB9wXh"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212533,
       "name": "DOGSICK (Prod. by Ian Purp)",
       "url": "https://open.spotify.com/track/1cRMqeML7lOpNpSRHmymjC"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229090,
       "name": "Drama",
       "url": "https://open.spotify.com/track/7e9zhsEubza7Go8lQD8yiB"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229225,
       "name": "Drama (Prod. by MoonMean)",
       "url": "https://open.spotify.com/track/3O0o5QiAxR2uIh53i5OGPz"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177418,
       "name": "Drop",
       "url": "https://open.spotify.com/track/5ruVKc6a9Gq2YxFeuiHPJu"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177418,
       "name": "Drop",
       "url": "https://open.spotify.com/track/6FtQKIcJkylR8yf0I0x3QE"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257580,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0kiEpPxfSvG3D03LvzOsct"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257646,
       "name": "Follow Me (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0QcnFmHjxx0DMUe2sko76h"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216109,
       "name": "Freedumb",
       "url": "https://open.spotify.com/track/2ks0gsdErGljb4h2DrrRvl"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216190,
       "name": "Freedumb (Prod. by BOYCOLD)",
       "url": "https://open.spotify.com/track/0TYvAztq0ngncXmdaBQT1k"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254174,
       "name": "G.O",
       "url": "https://open.spotify.com/track/6kextfqZcICFWjgti8tEW5"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254174,
       "name": "G.O (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/2e7wbE97l2Dk2iXxOq1ju1"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180938,
       "name": "Ggggwung",
       "url": "https://open.spotify.com/track/1oJpjcdVFgaSVnbl7HU8lW"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181003,
       "name": "Ggggwung (Prod. by Nutty)",
       "url": "https://open.spotify.com/track/4Mb0O8cilbeWLz5xAuwPBm"
@@ -1629,13 +1629,13 @@
           "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         },
         {
-          "name": "Kirin",
+          "name": "KIRIN",
           "url": "https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc"
         }
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221429,
       "name": "Global Extinction",
       "url": "https://open.spotify.com/track/4MjAWIm7zT0F4qThxlgm9m"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221429,
       "name": "Global Extinction (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/1YN0qLGrBPPh1tDQQ1Um6T"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201509,
       "name": "Go Fi Dem",
       "url": "https://open.spotify.com/track/3t2bpwoMDhmUqT12LI7DeM"
@@ -1705,7 +1705,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201588,
       "name": "Go Fi Dem (Prod. by clay)",
       "url": "https://open.spotify.com/track/5gFU3pkzqc47EOZuqY1oso"
@@ -1721,12 +1721,12 @@
           "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
           "name": "Woo",
           "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         },
         {
           "name": "The Quiett",
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261069,
       "name": "GO HIGH",
       "url": "https://open.spotify.com/track/3bsVn5MRYpaiTpsxIT3zMO"
@@ -1769,7 +1769,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261069,
       "name": "GO HIGH (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/3BthXz6vCOmvuufWICuSbF"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234530,
       "name": "Good Boy Syndrome",
       "url": "https://open.spotify.com/track/6TDynqnky5jXgOEchsWGUT"
@@ -1805,7 +1805,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234530,
       "name": "Good Boy Syndrome (Prod. by \uc784\uc7ac\ud615)",
       "url": "https://open.spotify.com/track/7wec5IAESEztkrEKPn5wwp"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195146,
       "name": "Graduation",
       "url": "https://open.spotify.com/track/0vfkrKH4vh9f3SH4t0YLX7"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "Graduation (From School Rapper2 Winner)",
       "url": "https://open.spotify.com/track/6DYuII7ytpTrKCcQQ7UTK9"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229467,
       "name": "HERE",
       "url": "https://open.spotify.com/track/7gniWoEvKjnrBgVm8IEbnG"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
@@ -1969,7 +1969,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182599,
       "name": "Home",
       "url": "https://open.spotify.com/track/1fLn0BKlWa0WgjWpI1k8wS"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182599,
       "name": "Home",
       "url": "https://open.spotify.com/track/2dvkt8Uk0Ay3AhpPeJQu2G"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221674,
       "name": "how are you",
       "url": "https://open.spotify.com/track/5TIhMCX7XOA6Du8FWC69fG"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221674,
       "name": "how are you (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/6CPr3IwEV1CfTSEO140SyQ"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200453,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/4UYHsZcziZN0brz9choRdN"
@@ -2099,7 +2099,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200453,
       "name": "I'm Fine (Prod. by GroovyRoom & APRO)",
       "url": "https://open.spotify.com/track/4LoLbgUuCyM61suaYR67Y7"
@@ -2121,7 +2121,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180837,
       "name": "I'M GOOD",
       "url": "https://open.spotify.com/track/0FsOPmOJWTeYALlYhtQ0Mv"
@@ -2143,7 +2143,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180837,
       "name": "I'M GOOD",
       "url": "https://open.spotify.com/track/6U120i6Fy8dNEALJDFRfYW"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219267,
       "name": "I'M HANDSOME",
       "url": "https://open.spotify.com/track/5yk0Loa8m1YClL2SuSBkue"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219403,
       "name": "I'M HANDSOME (Prod. by \uae30\ub9ac\ubcf4\uc774 & Minit)",
       "url": "https://open.spotify.com/track/20FTdPeAeLBBmOpWoD6PS2"
@@ -2283,7 +2283,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207462,
       "name": "Jang Won Geup Jae",
       "url": "https://open.spotify.com/track/0fKspxXGsAYyHWr9tR6szi"
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207462,
       "name": "Jang Won Geup Jae (Prod. by Godan)",
       "url": "https://open.spotify.com/track/79jY6j77E7yOHqhj8RsgCz"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279884,
       "name": "Lee Rohan",
       "url": "https://open.spotify.com/track/3rAxf432sK5BAQFP33hw2t"
@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279884,
       "name": "Lee Rohan (Prod. by Padi)",
       "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
@@ -2467,13 +2467,13 @@
           "url": "https://open.spotify.com/artist/1uiYhJ2aElxybzEKqVFjNB"
         },
         {
-          "name": "nongmill kim",
+          "name": "OHDAMRYUL",
           "url": "https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi"
         }
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177918,
       "name": "LOOK (Bonus Track)",
       "url": "https://open.spotify.com/track/3AARJr0zEM46RCqo0C6CxE"
@@ -2507,7 +2507,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177918,
       "name": "LOOK - Bonus Track",
       "url": "https://open.spotify.com/track/0MZgcXkmjfh0o4AVnYGszd"
@@ -2533,7 +2533,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208957,
       "name": "MADMAX (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/0FjEYIrcbwB0uSN10Enx7S"
@@ -2559,7 +2559,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208957,
       "name": "MADMAX (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/7wdVp16oj1D3isYdGnmSjD"
@@ -2577,7 +2577,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208732,
       "name": "March",
       "url": "https://open.spotify.com/track/0J1oiKWcS0VTJd5HX28Tj2"
@@ -2595,7 +2595,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208732,
       "name": "March",
       "url": "https://open.spotify.com/track/3xmB7dqk7VRFGaB6olgFmD"
@@ -2643,7 +2643,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220346,
       "name": "Mask on",
       "url": "https://open.spotify.com/track/3h4YYecSCIQfCOzYDEr8Q0"
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220396,
       "name": "Mask on (Prod. by Padi)",
       "url": "https://open.spotify.com/track/1IcxiyP19E753bVg1PyYwa"
@@ -2775,7 +2775,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/2rbD24QzOcoRL0oWXOkTxz"
@@ -2801,7 +2801,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187142,
       "name": "Metamorphosis (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/1sAKKrvo1sH3WUN8Ux2Sp9"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209776,
       "name": "mi color",
       "url": "https://open.spotify.com/track/2vpq8LYQzCXRTzmjclFy5p"
@@ -2921,7 +2921,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209776,
       "name": "mi color (Prod. by Dok2) - Special Track",
       "url": "https://open.spotify.com/track/2YAeDo47nEOvb7Aw0uacDd"
@@ -2937,13 +2937,13 @@
           "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         },
         {
-          "name": "Untell",
+          "name": "untell",
           "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
         }
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205237,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/0jZoQSW218rngIFeHpq7f0"
@@ -2969,7 +2969,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205375,
       "name": "Mirror (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/33EX6asCsbfeIDAtj3Z3Xv"
@@ -2987,7 +2987,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181461,
       "name": "Movement (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/4dZx7UBZwxIasq3A1qQlQi"
@@ -3009,7 +3009,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181462,
       "name": "Movement (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/6PDyBAwibcmYvtF7pjbNVG"
@@ -3035,7 +3035,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "MY WAY",
       "url": "https://open.spotify.com/track/60lcciRQVGR4JIgJgoIqUM"
@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261818,
       "name": "MY WAY (Prod. by Minit)",
       "url": "https://open.spotify.com/track/4ZIb5EXRNXMCyo0JAgfodl"
@@ -3109,7 +3109,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220138,
       "name": "Naw Mean",
       "url": "https://open.spotify.com/track/6FSdA6MYfkqcGWHF5sXAAK"
@@ -3131,7 +3131,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220138,
       "name": "Naw Mean",
       "url": "https://open.spotify.com/track/7cChoHtdP7KDqXLNEUh8oC"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191823,
       "name": "Night Vibe (Remake)",
       "url": "https://open.spotify.com/track/16lTXksD5MeYZO2ExF1Btg"
@@ -3167,7 +3167,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191823,
       "name": "Night Vibe - Remake",
       "url": "https://open.spotify.com/track/724vTCw3YkpCXpXOycxQb4"
@@ -3189,7 +3189,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221440,
       "name": "Not at all",
       "url": "https://open.spotify.com/track/4l17cSTBsbDmPmxPWeiu67"
@@ -3215,7 +3215,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221440,
       "name": "Not at all (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/1Buq5ciDCgi4xmh36BiXHa"
@@ -3263,7 +3263,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165088,
       "name": "On The Tree",
       "url": "https://open.spotify.com/track/5RvSDFVR9UlG3ygNR7VvYS"
@@ -3285,7 +3285,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165088,
       "name": "On The Tree",
       "url": "https://open.spotify.com/track/66ufkh9rHedzzWd5fEMOTq"
@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225584,
       "name": "Orange Tree",
       "url": "https://open.spotify.com/track/4mXGecfALMG4Mya6ydSEZj"
@@ -3359,7 +3359,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225620,
       "name": "Orange Tree (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0lHJzJ44YWRLbVzU3c597a"
@@ -3407,7 +3407,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248013,
       "name": "Popcorn",
       "url": "https://open.spotify.com/track/0yMno1ENU8S9xgcw6dujHs"
@@ -3433,7 +3433,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248013,
       "name": "Popcorn (Prod. by Nutty)",
       "url": "https://open.spotify.com/track/3StcBakSmgezkoqMpcI44Q"
@@ -3477,7 +3477,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161472,
       "name": "READY",
       "url": "https://open.spotify.com/track/6EnVzGSakKSVaUXZnBo1ra"
@@ -3503,7 +3503,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161472,
       "name": "READY (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4YiBNErssg5EHsX1N2P112"
@@ -3551,7 +3551,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223600,
       "name": "Rhyme Travel",
       "url": "https://open.spotify.com/track/3KGZ50xn7lfgPrUPjAUeIq"
@@ -3573,7 +3573,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223600,
       "name": "Rhyme Travel (Prod. by Tiger JK)",
       "url": "https://open.spotify.com/track/72fdE1I8NgvqLsa8t7dyIz"
@@ -3603,7 +3603,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231639,
       "name": "Santah Claus",
       "url": "https://open.spotify.com/track/34Toj6oRJkwR4B9spyrLiH"
@@ -3633,7 +3633,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231639,
       "name": "Santah Claus",
       "url": "https://open.spotify.com/track/4LeI9xPnvx2eKr8nwUe8tQ"
@@ -3685,7 +3685,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204990,
       "name": "Seoul Tour",
       "url": "https://open.spotify.com/track/10K31jcaUG0BQVWOLs97SD"
@@ -3715,7 +3715,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204990,
       "name": "Seoul Tour",
       "url": "https://open.spotify.com/track/5742gaqFH1bH3jwJalWrii"
@@ -3737,7 +3737,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205511,
       "name": "Snow",
       "url": "https://open.spotify.com/track/6XxLPhFdHkDawOGfMrEQBF"
@@ -3759,7 +3759,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205663,
       "name": "Snow (Prod. by GIRIBOY)",
       "url": "https://open.spotify.com/track/7ryamQN3BIUm92CyJCh9pp"
@@ -3785,7 +3785,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259676,
       "name": "Star",
       "url": "https://open.spotify.com/track/0rQLCkdMqNFX40U8CqZt93"
@@ -3811,7 +3811,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259676,
       "name": "Star",
       "url": "https://open.spotify.com/track/5onZ0anRMEvaeS2dsaG9dq"
@@ -3859,7 +3859,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179890,
       "name": "Take off",
       "url": "https://open.spotify.com/track/0HOjajVMtFb9VAA9LNxnxI"
@@ -3877,7 +3877,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179890,
       "name": "Take off",
       "url": "https://open.spotify.com/track/4ZcR8JDjKNywxqyAQlt7fz"
@@ -3903,7 +3903,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224482,
       "name": "The Boy with Glory",
       "url": "https://open.spotify.com/track/3Dp4fa7apCNG7w7VFV4rwT"
@@ -3925,7 +3925,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224482,
       "name": "The Boy with Glory",
       "url": "https://open.spotify.com/track/1aoCM3qspeHzLssGPpxXsE"
@@ -3973,7 +3973,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198480,
       "name": "U.F.O",
       "url": "https://open.spotify.com/track/24yxIhLQskhLzw3SsaEJoX"
@@ -3999,7 +3999,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198480,
       "name": "U.F.O (Prod. by GroovyRoom)",
       "url": "https://open.spotify.com/track/6dBXiX3nfKWb95pvhw2cLH"
@@ -4017,7 +4017,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180589,
       "name": "What Time (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/7iQXxSurrQ6UdSNMUMpoEg"
@@ -4039,7 +4039,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180589,
       "name": "What Time (Prod. Bangroz)",
       "url": "https://open.spotify.com/track/2El4ZyovLqnlVsQUq0kAIT"
@@ -4061,7 +4061,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211636,
       "name": "Wing Wing",
       "url": "https://open.spotify.com/track/2VgASfHRoZ3eT0ZgiSNg3T"
@@ -4083,7 +4083,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211671,
       "name": "Wing Wing (Prod. by \uae30\ub9ac\ubcf4\uc774 & Minit)",
       "url": "https://open.spotify.com/track/55r8nZTBuV5FtQnEZpReHp"
@@ -4107,13 +4107,13 @@
           "url": "https://open.spotify.com/artist/6Pi9dCw2J8AB5YHIT2MP8t"
         },
         {
-          "name": "Untell",
+          "name": "untell",
           "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
         }
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196657,
       "name": "WINNER",
       "url": "https://open.spotify.com/track/2w7wI1R6n8bDEZvFRg0xj6"
@@ -4143,7 +4143,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196657,
       "name": "WINNER (Prod. by Bangroz)",
       "url": "https://open.spotify.com/track/1nqtMmpWJnicC58BTVn9mt"
@@ -4165,7 +4165,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195975,
       "name": "Wishing On A Star",
       "url": "https://open.spotify.com/track/5JIXdZibH3h8FvtuvVPcgF"
@@ -4191,7 +4191,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196076,
       "name": "Wishing On A Star (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/2xLv5951UoWWX38RS9FszA"
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218926,
       "name": "YAHO",
       "url": "https://open.spotify.com/track/4z6nvswgTTFScqvzuz2G0b"
@@ -4273,7 +4273,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218926,
       "name": "YAHO (Prod. by Jangsoo & Padi)",
       "url": "https://open.spotify.com/track/2i5DlLh9HKjWDQnsLTqoET"
@@ -4291,7 +4291,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237816,
       "name": "Yeah uh",
       "url": "https://open.spotify.com/track/6RdIjraVPf2RyLzDPXC3zu"
@@ -4309,7 +4309,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237845,
       "name": "Yeah uh (Prod. by clay)",
       "url": "https://open.spotify.com/track/51FkodtBvoBB9GlfTiso3S"
@@ -4321,7 +4321,7 @@
       },
       "artists": [
         {
-          "name": "nongmill kim",
+          "name": "OHDAMRYUL",
           "url": "https://open.spotify.com/artist/5DRgmwlZtxrLEs3zxDgSxi"
         },
         {
@@ -4335,7 +4335,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193745,
       "name": "Young Wave",
       "url": "https://open.spotify.com/track/4KpxhvZddkKIaXErylwoBs"
@@ -4361,7 +4361,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193745,
       "name": "Young Wave",
       "url": "https://open.spotify.com/track/6tTPb1QYiM2odMg73kTxqG"

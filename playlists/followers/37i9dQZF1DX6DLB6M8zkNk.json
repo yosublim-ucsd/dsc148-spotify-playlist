@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 312079,
+  "2024-04-20": 312306,
   "date_first_scraped": "2022-03-15",
   "description": "POV: you're the main character in a romance novel.",
   "name": "hopeless romantic",
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151733,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 152280,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/17i5jLpzndlQhbS4SrTd0B"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Emma - From \"Emma\"",
       "url": "https://open.spotify.com/track/2W602jFzodgV2MWp52nrKe"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90186,
       "name": "I Waited For You",
       "url": "https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 90186,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/3sVFj8qVKJAFgZvD77xsau"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 357960,
       "name": "leaves and trees",
       "url": "https://open.spotify.com/track/17Cv0iBOjWabaeLqAMAxQf"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357960,
       "name": "leaves and trees",
       "url": "https://open.spotify.com/track/4fm8QxhBYRmmxU3Kp1pi3p"
@@ -895,10 +895,40 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151506,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
       "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "album": {
@@ -973,7 +1003,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349920,
       "name": "Romeo + Juliet (arr. P. Bateman): Romeo and Juliet: The Balcony Scene (arr. P. Bateman for piano and orchestra)",
       "url": "https://open.spotify.com/track/5FOHBhUtWl2x5Z6qflA8nd"
@@ -1086,36 +1116,6 @@
     },
     {
       "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "date_added": "2022-02-14",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 151506,
-      "name": "Spring 1 - 2012",
-      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
-    },
-    {
-      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 348906,
       "name": "The Balcony Scene (From \"Romeo and Juliet\")",
       "url": "https://open.spotify.com/track/5X5x6oRSCHtHEz28ncMVd5"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179492,
       "name": "Theme - From \"Emma\"",
       "url": "https://open.spotify.com/track/06mi7oiYv5pftvpFU784jc"

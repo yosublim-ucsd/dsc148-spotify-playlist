@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8267,
+  "2024-04-20": 8272,
   "date_first_scraped": "2024-01-30",
   "description": "The official playlist for We Are Lady Parts featuring all the original music from the show plus tracks from killer bands and artists. Streaming now!",
   "name": "We Are Lady Parts",
@@ -83,7 +83,7 @@
     {
       "album": {
         "name": "More Arriving",
-        "url": "https://open.spotify.com/album/4X9QV9bMMLztFJrbzKQObD"
+        "url": "https://open.spotify.com/album/2ZDEZlB7pBnDO7jgbWS8Fs"
       },
       "artists": [
         {
@@ -102,6 +102,32 @@
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 559925,
+      "name": "Bol",
+      "url": "https://open.spotify.com/track/2EBuWNi0J458ILkjncidkF"
+    },
+    {
+      "album": {
+        "name": "More Arriving",
+        "url": "https://open.spotify.com/album/4X9QV9bMMLztFJrbzKQObD"
+      },
+      "artists": [
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        },
+        {
+          "name": "Zia Ahmed",
+          "url": "https://open.spotify.com/artist/7M1maz7RvXC2laJuS8DkxN"
+        },
+        {
+          "name": "Aditya Prakash",
+          "url": "https://open.spotify.com/artist/0wLutlpx6a5odoVsr10Vzv"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 559925,
       "name": "Bol",
       "url": "https://open.spotify.com/track/4U199pSGZCtgxbEWlYN2WR"
@@ -271,7 +297,7 @@
     {
       "album": {
         "name": "Fuck These Fuckin Fascists",
-        "url": "https://open.spotify.com/album/4mUj3vNn7onerWgbvzjjvh"
+        "url": "https://open.spotify.com/album/4d929LK3MYZzxakbE1aLnN"
       },
       "artists": [
         {
@@ -284,7 +310,43 @@
       "date_removed": null,
       "duration_ms": 128598,
       "name": "Fuck These Fuckin Fascists",
+      "url": "https://open.spotify.com/track/026YEcmg29OySh0FhbWQ8M"
+    },
+    {
+      "album": {
+        "name": "Fuck These Fuckin Fascists",
+        "url": "https://open.spotify.com/album/4mUj3vNn7onerWgbvzjjvh"
+      },
+      "artists": [
+        {
+          "name": "The Muslims",
+          "url": "https://open.spotify.com/artist/0k4t6CgTa017VoLxokJn8t"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 128598,
+      "name": "Fuck These Fuckin Fascists",
       "url": "https://open.spotify.com/track/5D6oBq6m9D6CRNpKz0CvOM"
+    },
+    {
+      "album": {
+        "name": "Slow Focus",
+        "url": "https://open.spotify.com/album/2I1PxMR8wj1Y6k88bselsq"
+      },
+      "artists": [
+        {
+          "name": "Fuck Buttons",
+          "url": "https://open.spotify.com/artist/6tCENAD2FBfIMyygJMeOJV"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612852,
+      "name": "Hidden Xs",
+      "url": "https://open.spotify.com/track/1N4pAg8jraeQkeYptZmDDD"
     },
     {
       "album": {
@@ -299,7 +361,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 612852,
       "name": "Hidden Xs",
       "url": "https://open.spotify.com/track/3MxIICLFtzUUrm5Z8OPsG4"
@@ -371,10 +433,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145506,
       "name": "Identity",
       "url": "https://open.spotify.com/track/0vlD6vTcdjXOt2eBwBFhRm"
+    },
+    {
+      "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
     },
     {
       "album": {
@@ -389,10 +469,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180130,
       "name": "Kiss My Fist",
       "url": "https://open.spotify.com/track/0iuDFsdAB4k7SOX5LF8rK2"
+    },
+    {
+      "album": {
+        "name": "Dream Nails",
+        "url": "https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc"
+      },
+      "artists": [
+        {
+          "name": "Dream Nails",
+          "url": "https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180130,
+      "name": "Kiss My Fist",
+      "url": "https://open.spotify.com/track/4xBsMq1toNDXjmA4UkVInI"
     },
     {
       "album": {
@@ -415,7 +513,7 @@
     {
       "album": {
         "name": "Joan Armatrading",
-        "url": "https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx"
+        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
       },
       "artists": [
         {
@@ -426,6 +524,24 @@
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
+    },
+    {
+      "album": {
+        "name": "Joan Armatrading",
+        "url": "https://open.spotify.com/album/3BsE4yVwIOxM38hDnzrMlx"
+      },
+      "artists": [
+        {
+          "name": "Joan Armatrading",
+          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 272333,
       "name": "Love And Affection",
       "url": "https://open.spotify.com/track/6Mnne5V9ZifNID59dswUcZ"
@@ -443,10 +559,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199410,
       "name": "mourning song",
       "url": "https://open.spotify.com/track/2Cb87moIh6Jfpha5YwoxZL"
+    },
+    {
+      "album": {
+        "name": "soil",
+        "url": "https://open.spotify.com/album/0lYJfrAdIT65115h0CWoAg"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199410,
+      "name": "mourning song",
+      "url": "https://open.spotify.com/track/5vi7QLYP7mhhfRX2cpqbck"
     },
     {
       "album": {
@@ -631,10 +765,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201013,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+    },
+    {
+      "album": {
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg"
     },
     {
       "album": {
@@ -739,10 +891,28 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204736,
       "name": "Water Me",
       "url": "https://open.spotify.com/track/0M1SmRsFdGbZPhUR7p7QpC"
+    },
+    {
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/4TB1lVYkX6XeEXkcVmDlQQ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2021-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204736,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/5HzGKiPXvj8E5bUkbi3H09"
     },
     {
       "album": {

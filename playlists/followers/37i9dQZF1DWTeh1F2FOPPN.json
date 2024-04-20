@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 61454,
+  "2024-04-20": 61513,
   "date_first_scraped": "2022-10-03",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
   "name": "Quinta Brunson's Taste",
@@ -764,6 +764,32 @@
     },
     {
       "album": {
+        "name": "Stranger (feat. Saba & Jarreau Vandal)",
+        "url": "https://open.spotify.com/album/5gEWaVbQBsHwZGt1vBUWBV"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219451,
+      "name": "Stranger (feat. Saba & Jarreau Vandal)",
+      "url": "https://open.spotify.com/track/1b7TYKwABkacRzPqSErH9u"
+    },
+    {
+      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -783,7 +809,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219451,
       "name": "Stranger (feat. Saba & Jarreau Vandal)",
       "url": "https://open.spotify.com/track/6RYdd1Q0KZe5IvgPc5dmNT"
@@ -819,7 +845,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394029,
       "name": "Table For One",
       "url": "https://open.spotify.com/track/2hQ2Ux2pzBEd20mCyLHvx8"
@@ -837,7 +863,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 394694,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6claa4I908IodZZkvZMvuf"

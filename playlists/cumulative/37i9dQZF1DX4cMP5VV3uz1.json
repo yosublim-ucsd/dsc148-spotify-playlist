@@ -163,6 +163,28 @@
     },
     {
       "album": {
+        "name": "Armed & Dangerous",
+        "url": "https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Cutty Ranks",
+          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234586,
+      "name": "Armed & Dangerous",
+      "url": "https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI"
+    },
+    {
+      "album": {
         "name": "Baby G",
         "url": "https://open.spotify.com/album/2lnd0ppKdrXSCdaiAVe2EY"
       },
@@ -3162,7 +3184,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 232215,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 207221,
+  "2024-04-20": 207110,
   "date_first_scraped": "2022-05-30",
   "description": "Best acoustic melodies from Bollywood",
   "name": "Bollywood Acoustic",
@@ -186,6 +186,28 @@
     },
     {
       "album": {
+        "name": "Anjaana Anjaani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2P9TsGVWRAZ6kuDpNIrxRj"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203129,
+      "name": "Aas Paas Hai Khuda (Unplugged)",
+      "url": "https://open.spotify.com/track/5t8LiF1PsVpT7l2hf6A0r3"
+    },
+    {
+      "album": {
         "name": "Anjaana Anjaani",
         "url": "https://open.spotify.com/album/6FC95PYKFrO8UYhjCidPZ9"
       },
@@ -201,7 +223,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204234,
       "name": "Aas Paas Khuda (Unplugged)",
       "url": "https://open.spotify.com/track/0hVXFWS00liq3W2YAQUma4"
@@ -945,7 +967,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 228968,
       "name": "Jeena Jeena (From \"Badlapur\")",
       "url": "https://open.spotify.com/track/05nBv34NJeyLWEoezng4n5"
@@ -1893,7 +1915,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240786,
       "name": "Pani Da Rang - Male Vocals",
       "url": "https://open.spotify.com/track/4kaLkst9lT3sQ5Crgxs3ic"
@@ -1965,7 +1987,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240786,
       "name": "Pani Da Rang Male (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/6sfVSlvCl5evgokuWNrHbE"
@@ -2009,10 +2031,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238200,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Asees Version",
       "url": "https://open.spotify.com/track/4gf2NIBxRzUQCLBcG4WYPm"
+    },
+    {
+      "album": {
+        "name": "Phir Aur Kya Chahiye - Asees Version",
+        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Phir Aur Kya Chahiye - Asees Version",
+      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
     },
     {
       "album": {
@@ -2793,7 +2837,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 75000,
       "name": "Tum Kya Mile - Jonita's Version",
       "url": "https://open.spotify.com/track/7JdzydVMtRwxr1BUIipZbv"
@@ -2823,10 +2867,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75000,
       "name": "Tum Kya Mile - Jonita's Version",
       "url": "https://open.spotify.com/track/4kL3wGVwDpOVn8NOmKAopG"
+    },
+    {
+      "album": {
+        "name": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7sEgs402Tly0Fvwyyqgzsr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237209,
+      "name": "Tum Kya Mile - Shreya' s Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/42tPERg9qp3EiwMId8Komc"
     },
     {
       "album": {
@@ -2849,7 +2919,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237209,
       "name": "Tum Kya Mile - Shreya's Version (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1XF1cPnzsbGYn2mjKUjnWa"

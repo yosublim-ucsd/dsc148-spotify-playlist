@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 920628,
+  "2024-04-20": 917868,
   "date_first_scraped": "2023-10-25",
   "description": "If you\u2019re sappy and you know it, listen to these cheesy tunes.",
   "name": "Sappy and Senti",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250595,
       "name": "'Cause You Have To",
       "url": "https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC"
+    },
+    {
+      "album": {
+        "name": "a beautiful blur",
+        "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250595,
+      "name": "'Cause You Have To",
+      "url": "https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD"
     },
     {
       "album": {
@@ -136,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Closer You and I",
+        "url": "https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Closer You and I",
+      "url": "https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP"
+    },
+    {
+      "album": {
         "name": "Courage (Acoustic Ver.)",
         "url": "https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u"
       },
@@ -165,7 +201,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284210,
       "name": "Di Na Ako",
       "url": "https://open.spotify.com/track/1wC67ZTpPMKRPBex4od1WB"
@@ -339,10 +375,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
       "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
+    },
+    {
+      "album": {
+        "name": "Home Is Where The Hurt Is",
+        "url": "https://open.spotify.com/album/7uLaNqmhGrL05auqyhRorR"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Home Is Where The Hurt Is",
+      "url": "https://open.spotify.com/track/54uPFCxWYiR7if8q7TAzeo"
     },
     {
       "album": {
@@ -361,6 +415,28 @@
       "duration_ms": 189365,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL"
+    },
+    {
+      "album": {
+        "name": "I Need You More Today",
+        "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
+      },
+      "artists": [
+        {
+          "name": "Caleb Santos",
+          "url": "https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M"
+        },
+        {
+          "name": "Viva Music Publishing Inc.",
+          "url": "https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233728,
+      "name": "I Need You More Today",
+      "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
     },
     {
       "album": {
@@ -397,6 +473,24 @@
       "duration_ms": 195000,
       "name": "Ikaw Ang Mahal",
       "url": "https://open.spotify.com/track/7Mx1JGRw0QtCh2VRdqcGbI"
+    },
+    {
+      "album": {
+        "name": "Ikot",
+        "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250093,
+      "name": "Ikot",
+      "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
     },
     {
       "album": {
@@ -483,7 +577,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244000,
       "name": "Ligaw",
       "url": "https://open.spotify.com/track/6Jtx63cJDsRG0V4e2C4mIZ"
@@ -573,7 +667,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337176,
       "name": "Love Will Keep Us Alive",
       "url": "https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg"
@@ -649,10 +743,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227262,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
+    },
+    {
+      "album": {
+        "name": "Nahuhulog",
+        "url": "https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8"
+      },
+      "artists": [
+        {
+          "name": "Jed Baruelo",
+          "url": "https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227298,
+      "name": "Nahuhulog",
+      "url": "https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d"
     },
     {
       "album": {
@@ -750,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Paradise - EP",
+        "url": "https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256453,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv"
+    },
+    {
+      "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
@@ -761,7 +891,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
@@ -903,6 +1033,28 @@
     {
       "album": {
         "name": "Sunsets With You",
+        "url": "https://open.spotify.com/album/7jqLuEgexemjXBbT1Q6oWf"
+      },
+      "artists": [
+        {
+          "name": "Cliff",
+          "url": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
+        },
+        {
+          "name": "Yden",
+          "url": "https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Sunsets With You",
+      "url": "https://open.spotify.com/track/2VeGifKR8RbINCfWcRb5qH"
+    },
+    {
+      "album": {
+        "name": "Sunsets With You",
         "url": "https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X"
       },
       "artists": [
@@ -917,10 +1069,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253913,
       "name": "Sunsets With You",
       "url": "https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI"
+    },
+    {
+      "album": {
+        "name": "surreal",
+        "url": "https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY"
+      },
+      "artists": [
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "surreal",
+      "url": "https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz"
     },
     {
       "album": {
@@ -1007,10 +1177,28 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+    },
+    {
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/7Lv2e6qweacdWjqrQy7UNo"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241466,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr"
     },
     {
       "album": {
@@ -1163,7 +1351,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208384,
       "name": "waiting 4 u (delulu)",
       "url": "https://open.spotify.com/track/2Mu4urHpPTtvH8kyVVnhje"

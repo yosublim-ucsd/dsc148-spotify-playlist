@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 133424,
+  "2024-04-20": 133322,
   "date_first_scraped": "2022-06-02",
   "description": "Worship songs for the whole family.",
   "name": "Christian Kids Worship",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/0Ie6BTfYSyMcvl845hGr94"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242866,
       "name": "Be Still (Psalm 46:10)",
       "url": "https://open.spotify.com/track/3DyECaH0ay8Eaq07c84Nno"
@@ -259,10 +259,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305266,
       "name": "Deep Cries Out",
       "url": "https://open.spotify.com/track/6vGaIY7HYRoYvl30oMg3G2"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music Kids",
+          "url": "https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305319,
+      "name": "Deep Cries Out",
+      "url": "https://open.spotify.com/track/6PCTbGecSbQlHp7CD4taCd"
     },
     {
       "album": {
@@ -477,6 +495,24 @@
     {
       "album": {
         "name": "Great Big God",
+        "url": "https://open.spotify.com/album/7qWraaPEw6TA0siJ9nrg3E"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171866,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/5MHMX1yGMvDGZiauUayAtH"
+    },
+    {
+      "album": {
+        "name": "Great Big God",
         "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
       "artists": [
@@ -491,7 +527,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171773,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
@@ -679,7 +715,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234472,
       "name": "Jesus - Kids Version",
       "url": "https://open.spotify.com/track/56uSBnJy5BSfustA6HFZl5"
@@ -701,7 +737,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-06",
+      "date_removed": null,
       "duration_ms": 234472,
       "name": "Jesus - Kids Version",
       "url": "https://open.spotify.com/track/7Hd90b1Oh8HIRk7gyIZ8BW"
@@ -719,7 +755,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230266,
       "name": "Jesus Loves Me",
       "url": "https://open.spotify.com/track/18vX3PoNMD7zeSIzjON4FL"
@@ -737,7 +773,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229973,
       "name": "Jesus Loves Me - Live",
       "url": "https://open.spotify.com/track/4KFRVbD0sRACaDbkqTY9kB"
@@ -897,13 +933,13 @@
       },
       "artists": [
         {
-          "name": "Seeds Family Worship",
+          "name": "Seeds Kids Worship",
           "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
         }
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "More Than Conquerors (Romans 8:37)",
       "url": "https://open.spotify.com/track/7cdTms0LI4pe2PdlguUijm"
@@ -921,7 +957,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224852,
       "name": "More Than Conquerors (Romans 8:37)",
       "url": "https://open.spotify.com/track/7lNwK8M6OvANiPkBhFzRFt"
@@ -1052,24 +1088,6 @@
     },
     {
       "album": {
-        "name": "Power, Vol.15",
-        "url": "https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk"
-      },
-      "artists": [
-        {
-          "name": "Seeds Family Worship",
-          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
-        }
-      ],
-      "date_added": "2022-04-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
-      "duration_ms": 193160,
-      "name": "Power (Acts 1:8 Esv)",
-      "url": "https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm"
-    },
-    {
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/3hs9EQ2LPzoJydKy9bXN2m"
       },
@@ -1081,10 +1099,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193160,
       "name": "Power (Acts 1:8 ESV)",
       "url": "https://open.spotify.com/track/0zUuGomdXdwtYynSEtyIXd"
+    },
+    {
+      "album": {
+        "name": "Power, Vol.15",
+        "url": "https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Power (Acts 1:8 Esv)",
+      "url": "https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm"
     },
     {
       "album": {
@@ -1263,15 +1299,15 @@
       },
       "artists": [
         {
-          "name": "Seeds Family Worship",
+          "name": "Seeds Kids Worship",
           "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
         }
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 192786,
-      "name": "The Wages and The Gift (Romans 3:23 & 6:23)",
+      "name": "The Wages and the Gift (Romans 3:23 & 6:23)",
       "url": "https://open.spotify.com/track/66FICekGoTUgxZtJjJmMaG"
     },
     {
@@ -1287,7 +1323,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192799,
       "name": "The Wages and the Gift (Romans 3:23 & 6:23)",
       "url": "https://open.spotify.com/track/3LWWxrfBDgwfDVoami8lIL"
@@ -1323,7 +1359,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273613,
       "name": "Trust And Obey",
       "url": "https://open.spotify.com/track/2jAYGmSsoIUfmRGhF3XPSm"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270786,
       "name": "Trust And Obey - Live",
       "url": "https://open.spotify.com/track/0Ac4TPAa7Iq7og4xjxAG23"
@@ -1489,10 +1525,32 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209520,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/1xOKzdnw9d3TOkeRPcygBP"
+    },
+    {
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4PAcQ4sdsoDIoVnraVfERi"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Cole Novak",
+          "url": "https://open.spotify.com/artist/5hiGXWccuE62i5B7ipA9VT"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "Won't Let Go (feat. Cole Novak)",
+      "url": "https://open.spotify.com/track/468Cpwss1N8UhVqAJBx11O"
     },
     {
       "album": {
@@ -1547,10 +1605,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266946,
       "name": "You Make Me Brave",
       "url": "https://open.spotify.com/track/46FLvXFCkkUdPWQcA6xU6G"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4gddrbOk9PpDAsZeJ2jSxg"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music Kids",
+          "url": "https://open.spotify.com/artist/5uIFbhzzOBLAauSYTVwnp1"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267023,
+      "name": "You Make Me Brave",
+      "url": "https://open.spotify.com/track/5yv7dwLuopHQcakKw1pmHo"
     },
     {
       "album": {

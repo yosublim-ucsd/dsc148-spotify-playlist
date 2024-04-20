@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 665,
+  "2024-04-20": 713,
   "date_first_scraped": "2022-12-09",
   "description": "Beautiful indie tracks from around the world. Cover: beabadoobee.",
   "name": "Best of borderless 2022",
@@ -217,10 +217,28 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Empty Air",
       "url": "https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc"
+    },
+    {
+      "album": {
+        "name": "I Don't Like Roses",
+        "url": "https://open.spotify.com/album/4JJWSmuH1fWEtKLLfULW08"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Empty Air",
+      "url": "https://open.spotify.com/track/1RHJhcOioYl7Vzt8FP4Zsn"
     },
     {
       "album": {
@@ -337,7 +355,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155375,
       "name": "It Matters Until It Doesn't",
       "url": "https://open.spotify.com/track/5UGRZhXnVNOkX4ikYKpf1Q"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 155375,
       "name": "It Matters Until It Doesn't",
       "url": "https://open.spotify.com/track/6yF8gJoUzniKX40Y4AopUo"
@@ -541,6 +559,28 @@
     {
       "album": {
         "name": "oldies",
+        "url": "https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        },
+        {
+          "name": "Insowmya",
+          "url": "https://open.spotify.com/artist/3DbDp2eOPCBKqQiuVhlQVC"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85979,
+      "name": "let me hold you",
+      "url": "https://open.spotify.com/track/2ThuiiI0d0TybcQDYDSgpS"
+    },
+    {
+      "album": {
+        "name": "oldies",
         "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
       },
       "artists": [
@@ -577,7 +617,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86006,
       "name": "let me hold you",
       "url": "https://open.spotify.com/track/34VtJPNWcYofrlq35izm84"
@@ -765,7 +805,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 202616,
       "name": "M\u00e1s\u00e9rt",
       "url": "https://open.spotify.com/track/12ZSKLi4bF01rlyA0hOc4S"
@@ -783,7 +823,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202616,
       "name": "M\u00e1s\u00e9rt",
       "url": "https://open.spotify.com/track/5H7bt2n2OTzDBNrtT2slH3"
@@ -827,7 +867,7 @@
     {
       "album": {
         "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+        "url": "https://open.spotify.com/album/3CS8ychmRP8Nb3LY4yJg9A"
       },
       "artists": [
         {
@@ -838,6 +878,24 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252733,
+      "name": "New Romance",
+      "url": "https://open.spotify.com/track/0RQ8fVHg15BcrWLQ1tIWDC"
+    },
+    {
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
@@ -853,13 +911,13 @@
           "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
         },
         {
-          "name": "Sunset Rollercoaster",
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
           "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 233600,
       "name": "No News No Blues",
       "url": "https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn"
@@ -881,7 +939,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233600,
       "name": "No News No Blues",
       "url": "https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq"
@@ -1113,7 +1171,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 193813,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/4oi3kXCodWzSAFoqPjdtpK"
@@ -1135,7 +1193,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193813,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/6tWR9JWEY6WZHDoQpM1CCr"
@@ -1171,7 +1229,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205714,
       "name": "safety scissors",
       "url": "https://open.spotify.com/track/0cb5dYnNwEDb0iTBOEzZ6J"
@@ -1189,7 +1247,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "safety scissors",
       "url": "https://open.spotify.com/track/7xYCTPtCHZ2GzvhkMzCikF"
@@ -1247,7 +1305,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 126610,
       "name": "spin you round",
       "url": "https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN"
@@ -1283,7 +1341,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126610,
       "name": "spin you round",
       "url": "https://open.spotify.com/track/7rulewysad9ow7ICTIIlUe"
@@ -1413,7 +1471,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 203684,
       "name": "Tocco di Lusso",
       "url": "https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl"
@@ -1431,7 +1489,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203684,
       "name": "Tocco di Lusso",
       "url": "https://open.spotify.com/track/39240f8amnJeF5WeyAJ89Y"
@@ -1633,7 +1691,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158769,
       "name": "\u200ecan't \u200eu \u200etell \u200e?",
       "url": "https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb"
@@ -1651,7 +1709,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-18",
+      "date_removed": null,
       "duration_ms": 158769,
       "name": "\u200ecan't \u200eu \u200etell \u200e?",
       "url": "https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn"
@@ -1687,7 +1745,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
@@ -1709,6 +1767,24 @@
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9"
+    },
+    {
+      "album": {
+        "name": "\u8e0a\u308a\u5b50",
+        "url": "https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230109,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb2RUUTjIk3t"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 32386,
+  "2024-04-20": 32385,
   "date_first_scraped": "2023-05-19",
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi",
   "name": "Telugu Indie",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266403,
       "name": "Andhami Swapnam",
       "url": "https://open.spotify.com/track/1BtRSvbXdLyZEweikCLqsm"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 266403,
       "name": "Andhami Swapnam",
       "url": "https://open.spotify.com/track/3tiYuEpEjZGuFLjfDf0UyX"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128575,
       "name": "Charcha",
       "url": "https://open.spotify.com/track/2jEA5P7mrjj9J2DtLuQCW3"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260672,
       "name": "Innallu",
       "url": "https://open.spotify.com/track/0GuMZb62U3tZ0SCHkrzL84"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 260672,
       "name": "Innallu",
       "url": "https://open.spotify.com/track/3exJ2FyuDRzTmazw8YCaDK"
@@ -2946,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Ninna Monnalo",
+        "url": "https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX"
+      },
+      "artists": [
+        {
+          "name": "Nikesh Kumar D",
+          "url": "https://open.spotify.com/artist/2RQkDxPMDAyFQVUOgb5oBm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194807,
+      "name": "Ninna Monnalo",
+      "url": "https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo"
+    },
+    {
+      "album": {
         "name": "Ninne Ne Choosina Nimishana",
         "url": "https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP"
       },
@@ -4199,7 +4217,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215990,
       "name": "Ramaya",
       "url": "https://open.spotify.com/track/1gACI6AAvdUSgfBJ4IattI"
@@ -4225,7 +4243,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 215990,
       "name": "Ramaya",
       "url": "https://open.spotify.com/track/6N7vDEn2IwTeWCDsgwxNOt"
@@ -4425,7 +4443,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237761,
       "name": "Sitakokaciluka",
       "url": "https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3"
@@ -4443,7 +4461,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 237761,
       "name": "Sitakokaciluka",
       "url": "https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN"
@@ -4479,7 +4497,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89200,
       "name": "SunRisers Hyderabad Anthem - 2024",
       "url": "https://open.spotify.com/track/6gPhUV80DvchiVxUZmgUi7"
@@ -4993,7 +5011,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 263998,
       "name": "Vellakala Nannodilesi",
       "url": "https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl"
@@ -5011,7 +5029,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263998,
       "name": "Vellakala Nannodilesi",
       "url": "https://open.spotify.com/track/1ka9VV2RYZbpGphKMQqC19"
@@ -5041,6 +5059,24 @@
       "duration_ms": 217776,
       "name": "Vellake",
       "url": "https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f"
+    },
+    {
+      "album": {
+        "name": "Veluthunnaa",
+        "url": "https://open.spotify.com/album/3mPP4usMQBYnCozSl1JMEF"
+      },
+      "artists": [
+        {
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227550,
+      "name": "Veluthunnaa",
+      "url": "https://open.spotify.com/track/29LjHw8uiqgznxttdytpOt"
     },
     {
       "album": {
@@ -5099,7 +5135,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324000,
       "name": "Vennela",
       "url": "https://open.spotify.com/track/0sDIs50Evxlou7oIfo9i2J"

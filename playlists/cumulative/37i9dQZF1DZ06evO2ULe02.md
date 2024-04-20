@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2ULe02.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2ULe02) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2ULe02)
 
-### [This is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
+### [This Is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
 
-> This is Aidan Bissett\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Aidan Bissett\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 21 songs - 1 hr 3 min
 

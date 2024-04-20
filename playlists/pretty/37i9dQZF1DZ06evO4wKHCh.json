@@ -1,12 +1,12 @@
 {
-  "description": "This is Emei. Lagu-lagu utama, semuanya dalam satu playlist.",
-  "num_followers": 4431,
-  "original_name": "This is Emei",
+  "description": "This is Emei. The essential tracks, all in one playlist.",
+  "num_followers": 4447,
+  "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDA3ZTRkYzNjMDQ0YmE4MTI1ZmFiOTZkNmE2YTliODdi",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGE4YWI1NDMwYTgyOTVlOGI2OTY1ZWE2NmVkMzExYzJl",
   "tracks": [
     {
       "added_at": null,
@@ -317,6 +317,6 @@
       "url": "https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8"
     }
   ],
-  "unique_name": "This is Emei",
+  "unique_name": "This Is Emei",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wKHCh"
 }

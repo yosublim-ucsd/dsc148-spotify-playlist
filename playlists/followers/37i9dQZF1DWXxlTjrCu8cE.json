@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 103265,
+  "2024-04-20": 103209,
   "date_first_scraped": "2022-03-02",
   "description": "Pagodeira apresenta... O Melhor do Pagode 2023",
   "name": "O Melhor de Pagodeira 2023",
@@ -914,6 +914,24 @@
     },
     {
       "album": {
+        "name": "ESQUENTHA Tardezinha",
+        "url": "https://open.spotify.com/album/4upLAEC3VhsPKkBUJI6KkS"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210188,
+      "name": "Delirante",
+      "url": "https://open.spotify.com/track/4sxFTkiFbC0oJXrIUvFY60"
+    },
+    {
+      "album": {
         "name": "Pagode para os apaixonados",
         "url": "https://open.spotify.com/album/0IZu7wSFDI2293yVAsZSgI"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210188,
       "name": "Delirante",
       "url": "https://open.spotify.com/track/5kxLK18tj3pPTpGAJA4CeF"
@@ -2193,10 +2211,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242570,
       "name": "Minha Paz \u00c9 Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/0rSrh1tdO1HLEbGmJRDuH4"
+    },
+    {
+      "album": {
+        "name": "Esse Menino Sou Eu: Bloco Minha Fam\u00edlia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76t3WyiBPM5oYttYo9tdVI"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        },
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242570,
+      "name": "Minha Paz \u00c9 Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/5E85AnRsJn1Rl28pInrolD"
     },
     {
       "album": {

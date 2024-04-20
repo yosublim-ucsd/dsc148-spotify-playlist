@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 92342,
+  "2024-04-20": 92374,
   "date_first_scraped": "2022-01-05",
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
   "name": "Electronic X",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/3B5gObLV2FodLMtsKFlnFz"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 425000,
       "name": "A Model Of Reality - Firephly Remix",
       "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 352000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1tvrdTMUPrL5QAAUu2mBpL"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326362,
       "name": "Apparences",
       "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 557261,
       "name": "Before the Sun",
       "url": "https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 240636,
       "name": "Boundary Effect",
       "url": "https://open.spotify.com/track/6EXvFsFMtcobZApGF0SVdT"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186624,
       "name": "C.A.",
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
@@ -1325,6 +1325,24 @@
       "duration_ms": 293331,
       "name": "Calma",
       "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
+    },
+    {
+      "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517307,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
     },
     {
       "album": {
@@ -1591,10 +1609,36 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1"
+    },
+    {
+      "album": {
+        "name": "Natural Wonder Beauty Concept",
+        "url": "https://open.spotify.com/album/1yxb5o5htty9e6gw5f07qn"
+      },
+      "artists": [
+        {
+          "name": "Natural Wonder Beauty Concept",
+          "url": "https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu"
+        },
+        {
+          "name": "Ana Roxanne",
+          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/65mYEI6vEjGink0prK6Len"
     },
     {
       "album": {
@@ -2161,7 +2205,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120000,
       "name": "Dogtooth",
       "url": "https://open.spotify.com/track/5ShV0OkZyUdKI2c3giDipi"
@@ -2251,7 +2295,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 192920,
       "name": "EA9633",
       "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
@@ -2407,7 +2451,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
@@ -2519,7 +2563,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 164250,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
@@ -3029,7 +3073,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 600028,
       "name": "Hang in There, Baby!",
       "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
@@ -3827,7 +3871,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399893,
       "name": "Mir",
       "url": "https://open.spotify.com/track/1449q5smxpk9UEB1QxyZeO"
@@ -3917,7 +3961,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283760,
       "name": "Momento",
       "url": "https://open.spotify.com/track/0EtJr0s6hot51xSgQ2ZBxI"
@@ -4085,7 +4129,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210889,
       "name": "Must Have Been Good",
       "url": "https://open.spotify.com/track/0TmdUleVkt3Bq9Pv1uYzw5"
@@ -5137,7 +5181,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 546986,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1pNEw1owBotEBbQa6FZ042"
@@ -5449,10 +5493,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271240,
       "name": "Seawater Swell",
       "url": "https://open.spotify.com/track/19c9OUyBtj1Mmgh5hfiUou"
+    },
+    {
+      "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
     },
     {
       "album": {
@@ -5737,7 +5799,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185546,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/4IIo7qJZkfUIDJJWK3PjdJ"
@@ -5827,7 +5889,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 231637,
       "name": "Sony 7IV",
       "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
@@ -6187,7 +6249,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "The Body Keeps Score",
       "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
@@ -6379,7 +6441,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176162,
       "name": "The Revenant Main Theme (Alva Noto Remodel)",
       "url": "https://open.spotify.com/track/47PdDK2C3a1XuHQTpaBukA"
@@ -6779,6 +6841,24 @@
     {
       "album": {
         "name": "Infirmary / Unknown Summer",
+        "url": "https://open.spotify.com/album/3rMoDF90sBDolYvPz1rlsM"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580834,
+      "name": "Unknown Summer",
+      "url": "https://open.spotify.com/track/0fjA0ybeOE6lLgVGfQ5HVt"
+    },
+    {
+      "album": {
+        "name": "Infirmary / Unknown Summer",
         "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
       },
       "artists": [
@@ -6789,7 +6869,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 580834,
       "name": "Unknown Summer",
       "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
@@ -7207,6 +7287,28 @@
     {
       "album": {
         "name": "Windmills (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Windmills - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+    },
+    {
+      "album": {
+        "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF"
       },
       "artists": [
@@ -7221,7 +7323,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS"
@@ -7279,7 +7381,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 385433,
       "name": "Winter's Melt",
       "url": "https://open.spotify.com/track/3rcSl72boGsikNIlF1mWWZ"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 320747,
+  "2024-04-20": 320738,
   "date_first_scraped": "2022-02-13",
   "description": "A happy place, featuring Purple Disco Machine",
   "name": "DISCOLAND",
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205645,
       "name": "All 4 Love (feat. Tasty Lopez)",
       "url": "https://open.spotify.com/track/2DJjMZfgND6WARNaxVCkI3"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/1K4Pm198Uqbb5L6KTpq9t2"
@@ -394,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "album": {
         "name": "Balearic Sundance",
         "url": "https://open.spotify.com/album/43QZcuDgjZPKTQZlB9IG2N"
       },
@@ -475,7 +497,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Beat Of Your Heart",
       "url": "https://open.spotify.com/track/0prrKDxUVhyN9UMtD2m499"
@@ -497,7 +519,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209186,
       "name": "Beat Of Your Heart",
       "url": "https://open.spotify.com/track/4luohviQijMNU3yWu8xUMr"
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146190,
       "name": "Don't Go - Gerd Janson Re-Work - Shorter Edit",
       "url": "https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU"
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213387,
       "name": "Everything\u2019s Gonna Be Alright",
       "url": "https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw"
@@ -1857,6 +1879,28 @@
       "duration_ms": 297574,
       "name": "Facelift",
       "url": "https://open.spotify.com/track/2oLdCJDUVBuCLH9XMsEYsa"
+    },
+    {
+      "album": {
+        "name": "Fallin Luv",
+        "url": "https://open.spotify.com/album/5i4zJnTFaIbVmZrZ0iFJYf"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Jeria",
+          "url": "https://open.spotify.com/artist/7jwSU1Z0F86zcEi4GagibL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Fallin Luv",
+      "url": "https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c"
     },
     {
       "album": {
@@ -2090,6 +2134,28 @@
     },
     {
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0nOA2O2aFAk8EmiBjVNS8I"
+      },
+      "artists": [
+        {
+          "name": "DJ E-Clyps",
+          "url": "https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ"
+        },
+        {
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/74JJYcznumjoCXPeidwOYy"
+    },
+    {
+      "album": {
         "name": "Giodisco",
         "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
       },
@@ -2265,7 +2331,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
@@ -2345,7 +2411,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb"
@@ -2367,7 +2433,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH"
@@ -2421,7 +2487,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
@@ -2531,7 +2597,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298416,
       "name": "Heaven (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/1L6ZbPR2kIzguE0EjVEsLw"
@@ -2593,10 +2659,32 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273275,
       "name": "Higher Ground (feat. Roosevelt)",
       "url": "https://open.spotify.com/track/6exgQSGBxYo8WzRSw10JJD"
+    },
+    {
+      "album": {
+        "name": "Higher Ground (feat. Roosevelt)",
+        "url": "https://open.spotify.com/album/7AZKzBi9opZaqA5eeWcDJu"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "Higher Ground (feat. Roosevelt)",
+      "url": "https://open.spotify.com/track/7lonJyyarYijNhlt6t6EKs"
     },
     {
       "album": {
@@ -2659,7 +2747,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129836,
       "name": "Hipcats",
       "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
@@ -2714,6 +2802,32 @@
     },
     {
       "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -2729,7 +2843,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -2769,7 +2883,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 211088,
       "name": "I Take What's Mine",
       "url": "https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz"
@@ -3339,7 +3453,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189506,
       "name": "Let Me Love U",
       "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
@@ -3485,7 +3599,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305649,
       "name": "Like A Fool",
       "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
@@ -3583,7 +3697,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/6EshmnAdZGBCA2LYCCX2Uy"
@@ -3671,7 +3785,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
@@ -3863,7 +3977,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
@@ -4225,7 +4339,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
@@ -4339,7 +4453,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270145,
       "name": "Must Be Love",
       "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
@@ -4815,7 +4929,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149508,
       "name": "Oh Honey",
       "url": "https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo"
@@ -5187,7 +5301,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Please - Single Edit",
       "url": "https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX"
@@ -5209,7 +5323,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 164912,
       "name": "Pleasure Love",
       "url": "https://open.spotify.com/track/22itU9LO5xcgMIQ2wDYg3b"
@@ -5395,7 +5509,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199098,
       "name": "Real Love - Club Mix",
       "url": "https://open.spotify.com/track/3CJjRwkUN7d8cAOMcP81lI"
@@ -5479,7 +5593,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/4H9BRNgZ8Zt4O12FGwdnoV"
@@ -5803,7 +5917,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP"
@@ -5915,7 +6029,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 321713,
       "name": "Sizzling",
       "url": "https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw"
@@ -6119,6 +6233,32 @@
     {
       "album": {
         "name": "Something On My Mind",
+        "url": "https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216626,
+      "name": "Something On My Mind",
+      "url": "https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY"
+    },
+    {
+      "album": {
+        "name": "Something On My Mind",
         "url": "https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8"
       },
       "artists": [
@@ -6137,7 +6277,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216774,
       "name": "Something On My Mind",
       "url": "https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR"
@@ -6181,7 +6321,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 339835,
       "name": "Sometimes The Going Gets A Little Tough - Mella Dee Going Got A Bit Tougher Mix",
       "url": "https://open.spotify.com/track/0sseNUohdOMxlKtLHGxNH1"
@@ -6561,7 +6701,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -6821,7 +6961,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213578,
       "name": "U Want More",
       "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
@@ -6869,7 +7009,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 220299,
       "name": "Waiting 4 You",
       "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
@@ -6993,7 +7133,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
@@ -7018,6 +7158,28 @@
     },
     {
       "album": {
+        "name": "We Groovin",
+        "url": "https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "We Groovin",
+      "url": "https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J"
+    },
+    {
+      "album": {
         "name": "We Groovin (with Jazzy)",
         "url": "https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH"
       },
@@ -7033,7 +7195,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181935,
       "name": "We Groovin (with Jazzy)",
       "url": "https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv"

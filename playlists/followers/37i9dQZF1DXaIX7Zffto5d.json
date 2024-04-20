@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 49761,
+  "2024-04-20": 49770,
   "date_first_scraped": "2023-12-27",
   "description": "\u65e5\u672c\u8a9e\u3001\u97d3\u56fd\u8a9e\u3001\u82f1\u8a9e\u3092\u5de7\u307f\u306b\u64cd\u308b\u30c8\u30ea\u30ea\u30f3\u30ac\u30eb\u30e9\u30c3\u30d1\u30fc\uff0f\u30b7\u30f3\u30ac\u30fc\u3001\u3061\u3083\u3093\u307f\u306a\u3002\u72ec\u81ea\u306e\u89b3\u70b9\u3067\u6642\u4ee3\u3092\u5207\u308a\u53d6\u308b\u30ea\u30ea\u30c3\u30af\u3068\u30bd\u30ea\u30c3\u30c9\u306a\u30e9\u30c3\u30d7\u304c\u82e5\u3044\u97f3\u697d\u30d5\u30a1\u30f3\u3092\u4e2d\u5fc3\u306b\u6ce8\u76ee\u3092\u96c6\u3081\u308b\u5f7c\u5973\u306e\u30aa\u30fc\u30eb\u30fb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8\u3002",
   "name": "This Is \u3061\u3083\u3093\u307f\u306a",
@@ -17,15 +17,15 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110586,
       "name": "444",
       "url": "https://open.spotify.com/track/6FbaOE50vTVPNpnfwlUyHc"
     },
     {
       "album": {
-        "name": "Harenchi",
-        "url": "https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
       },
       "artists": [
         {
@@ -33,12 +33,12 @@
           "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "date_added": "2023-08-15",
+      "date_added": "2024-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 137680,
-      "name": "^_^",
-      "url": "https://open.spotify.com/track/1az626FV9ZuzNn4LHolyuk"
+      "duration_ms": 110586,
+      "name": "444",
+      "url": "https://open.spotify.com/track/6OXaKI52XQL1Ct3FXW26Tk"
     },
     {
       "album": {
@@ -53,7 +53,61 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 137680,
+      "name": "^_^",
+      "url": "https://open.spotify.com/track/1az626FV9ZuzNn4LHolyuk"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137680,
+      "name": "^_^",
+      "url": "https://open.spotify.com/track/3xS7BMJ5vn7MAo2e8IEEpr"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191566,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3vXHM9HaxNYrky9r1zxLWa"
+    },
+    {
+      "album": {
+        "name": "Harenchi",
+        "url": "https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 191566,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4iShk7X3Q8vVIIiFENs9Yz"
@@ -71,7 +125,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196746,
       "name": "B-list",
       "url": "https://open.spotify.com/track/1jLzRJ9f5RqutGKb7vxV3P"
@@ -114,6 +168,36 @@
     },
     {
       "album": {
+        "name": "Best Friend (feat. Doja Cat, Jamie & CHANMINA) [Remix]",
+        "url": "https://open.spotify.com/album/4e3Syk4XR3xYLoEjbpqbBa"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Best Friend (feat. Doja Cat, Jamie & CHANMINA) [Remix]",
+      "url": "https://open.spotify.com/track/4EB9j3csK1wa67ZdO2ehGc"
+    },
+    {
+      "album": {
         "name": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
         "url": "https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA"
       },
@@ -137,7 +221,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206000,
       "name": "Best Friend (feat. Doja Cat, Jamie & CHANMINA) [Remix]",
       "url": "https://open.spotify.com/track/7L72EQGrKTteP3IjLHNdFJ"
@@ -155,7 +239,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160164,
       "name": "BIJIN",
       "url": "https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9"
@@ -177,7 +261,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159892,
       "name": "BIJIN (Remix) [feat. Awich]",
       "url": "https://open.spotify.com/track/1rfUCbfXaJexlYGjL3HZaa"
@@ -195,7 +279,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
@@ -249,7 +333,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201691,
       "name": "Death Anniversary",
       "url": "https://open.spotify.com/track/27worzTIPbLIOFS2LPkzTw"
@@ -289,10 +373,32 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157773,
       "name": "Don't Go (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/2suqLGbLbOXB5dXLJQNhWP"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "Don't go (feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/7GmxWLGbP4boCu8G1sOaTe"
     },
     {
       "album": {
@@ -325,10 +431,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169106,
       "name": "FUCK LOVE",
       "url": "https://open.spotify.com/track/0rzkE5QrRa7V9dDpz0C11n"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "FUCK LOVE",
+      "url": "https://open.spotify.com/track/5Ho8yYDp2YoPSji7Lk7YH3"
     },
     {
       "album": {
@@ -369,6 +493,24 @@
     {
       "album": {
         "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/1Z8JOVjvZNhwOdwOVqZPpI"
+    },
+    {
+      "album": {
+        "name": "Naked",
         "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
       },
       "artists": [
@@ -379,7 +521,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213040,
       "name": "Good",
       "url": "https://open.spotify.com/track/2GJfaPnMsjy9WqM7te5yhB"
@@ -419,10 +561,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158674,
       "name": "I'm Not OK",
       "url": "https://open.spotify.com/track/3E29FNQdNDh77LMpGCANdl"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158674,
+      "name": "I'm Not OK",
+      "url": "https://open.spotify.com/track/6M3tC9F5YmhhbqeUgbJWhl"
     },
     {
       "album": {
@@ -527,7 +687,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224826,
       "name": "Love Face",
       "url": "https://open.spotify.com/track/2SPrRoFtyVzTZxIYggbeae"
@@ -535,7 +695,7 @@
     {
       "album": {
         "name": "Naked",
-        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
       },
       "artists": [
         {
@@ -543,12 +703,12 @@
           "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "date_added": "2023-08-15",
+      "date_added": "2024-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214133,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/2TwVRyCnP1wzK7RoyRKevU"
+      "duration_ms": 224826,
+      "name": "Love Face",
+      "url": "https://open.spotify.com/track/5ik6kr57fReK9YIQLWCMv3"
     },
     {
       "album": {
@@ -563,10 +723,64 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 214133,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/2TwVRyCnP1wzK7RoyRKevU"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5uIiKJC3mIBLRT3tIfKNjH"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2023-08-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 153053,
       "name": "Miso Soup",
       "url": "https://open.spotify.com/track/4UB3DMwryYTdG6C2F7S2U9"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Miso Soup",
+      "url": "https://open.spotify.com/track/6SYRPS0YkZcFavK3j0JRBq"
     },
     {
       "album": {
@@ -581,10 +795,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178953,
       "name": "Morning mood",
       "url": "https://open.spotify.com/track/3u6htlRpTxzjROEzqEqtHV"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178953,
+      "name": "Morning mood",
+      "url": "https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76"
     },
     {
       "album": {
@@ -599,10 +831,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145386,
       "name": "naked now",
       "url": "https://open.spotify.com/track/0QsCyRTlN093KKtJbVv0l9"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145386,
+      "name": "naked now",
+      "url": "https://open.spotify.com/track/4ZgHM3kvrZlA6d03uqS4ql"
     },
     {
       "album": {
@@ -617,10 +867,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188306,
       "name": "Needy",
       "url": "https://open.spotify.com/track/4veOQB1CV0tOuqxsEZzwoZ"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u4eba",
+        "url": "https://open.spotify.com/album/2BPx7TGSbxT5386gYD5x8J"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188306,
+      "name": "Needy",
+      "url": "https://open.spotify.com/track/7ejcuhE2ZfLnoz1o7I9wUA"
     },
     {
       "album": {
@@ -660,6 +928,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171352,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/1LDWpialL4xYraRx51QqrR"
+    },
+    {
+      "album": {
         "name": "Harenchi",
         "url": "https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98"
       },
@@ -671,7 +957,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171352,
       "name": "Picky",
       "url": "https://open.spotify.com/track/1s7e6wnDynQqepUUEHPEnn"
@@ -719,6 +1005,24 @@
     {
       "album": {
         "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/4RNURrHVPe7AZ5T5YoLiqp"
+    },
+    {
+      "album": {
+        "name": "Naked",
         "url": "https://open.spotify.com/album/1cyFz7pTFHPXmQ98S5Ztfe"
       },
       "artists": [
@@ -729,7 +1033,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162093,
       "name": "RED",
       "url": "https://open.spotify.com/track/4qcSfF5viKGKUHNOzrvx5b"
@@ -783,7 +1087,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198694,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/2Dz1EZAnjNCnpiRKT6VDGC"
@@ -813,6 +1117,24 @@
     {
       "album": {
         "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202295,
+      "name": "TOKYO 4AM",
+      "url": "https://open.spotify.com/track/2nC2P11qWGn9uZ2DGsAOb5"
+    },
+    {
+      "album": {
+        "name": "Naked",
         "url": "https://open.spotify.com/album/5XdDgY0fJz9HifNOYRcaMd"
       },
       "artists": [
@@ -823,7 +1145,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202295,
       "name": "TOKYO 4AM",
       "url": "https://open.spotify.com/track/6MwtCelqyWWJsNXHSHnPOi"
@@ -841,7 +1163,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163013,
       "name": "Voice Memo No. 5",
       "url": "https://open.spotify.com/track/02OvOau7SB9kImc7vyxiJT"
@@ -859,10 +1181,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122666,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/1cuV4c3phVhyBDqh0N811c"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Wake up call",
+      "url": "https://open.spotify.com/track/3n7C2KnyOM8AMKGbsIaPDy"
     },
     {
       "album": {
@@ -917,10 +1257,28 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179040,
       "name": "You Just Walked In My Life",
       "url": "https://open.spotify.com/track/4PWP041gUG0PzmGua2alT3"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "You Just Walked In My Life",
+      "url": "https://open.spotify.com/track/6XETPNOa8N8lnRiXHNcAzT"
     },
     {
       "album": {
@@ -971,7 +1329,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 198694,
       "name": "\u30b5\u30f3\u30d5\u30e9\u30ef\u30fc",
       "url": "https://open.spotify.com/track/4sy9IviJVN7nnfWSTNm37S"
@@ -1032,6 +1390,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "\u30dc\u30a4\u30b9\u30e1\u30e2 No. 5",
+      "url": "https://open.spotify.com/track/6mZz9TYuiKttMYTLpo1HBf"
+    },
+    {
+      "album": {
         "name": "\u30dc\u30a4\u30b9\u30e1\u30e2 No. 5",
         "url": "https://open.spotify.com/album/1GjMGhXUrUEbxXoKhTh33V"
       },
@@ -1083,6 +1459,24 @@
       "duration_ms": 184571,
       "name": "\u541b\u304b\u3089\u306e\u8d08\u308a\u7269",
       "url": "https://open.spotify.com/track/1IhcHRJojgFkwnKnBSPE0D"
+    },
+    {
+      "album": {
+        "name": "\u547d\u65e5",
+        "url": "https://open.spotify.com/album/3EyFQsmNuR6GLjwrM6RCui"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201691,
+      "name": "\u547d\u65e5",
+      "url": "https://open.spotify.com/track/6mVPXi1jaOFgDkJNkTZJk4"
     },
     {
       "album": {
@@ -1141,6 +1535,46 @@
       "duration_ms": 220672,
       "name": "\u6771\u4eac\u5973\u5b50",
       "url": "https://open.spotify.com/track/0l8Qs6Z5UEOC1aOxOEid3i"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160164,
+      "name": "\u7f8e\u4eba",
+      "url": "https://open.spotify.com/track/3t7mVfDiaN6YvosOLQn5Vy"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159892,
+      "name": "\u7f8e\u4eba (Remix) [feat. Awich]",
+      "url": "https://open.spotify.com/track/26fvgYCL5L4yjBgrS4C6Fc"
     },
     {
       "album": {

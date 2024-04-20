@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 28824,
+  "2024-04-20": 28837,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Leonard Wellington, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Magdalena Wawra, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3124,6 +3124,24 @@
     },
     {
       "album": {
+        "name": "Cement",
+        "url": "https://open.spotify.com/album/47eZCbw56PhFb4SdIF5LNE"
+      },
+      "artists": [
+        {
+          "name": "NAYM",
+          "url": "https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "Cement",
+      "url": "https://open.spotify.com/track/5xQYMjS4EdyEn6Us6oVtlh"
+    },
+    {
+      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -3597,7 +3615,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315453,
       "name": "Couples Therapy",
       "url": "https://open.spotify.com/track/3RVzXiXKzu2AkCUnATH5ZQ"
@@ -3705,7 +3723,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "Cruisen",
       "url": "https://open.spotify.com/track/75wcLZXc1mHsGcDABxuIFv"
@@ -3817,6 +3835,28 @@
       "duration_ms": 255100,
       "name": "Damaged Goods",
       "url": "https://open.spotify.com/track/73F9DkiAcspOheOXaPaOKE"
+    },
+    {
+      "album": {
+        "name": "damn shame",
+        "url": "https://open.spotify.com/album/7FHv0sHnRCG8ckdwdSjjYS"
+      },
+      "artists": [
+        {
+          "name": "Josh Kye",
+          "url": "https://open.spotify.com/artist/0qtgGtFrIG8RnZIWjsD53h"
+        },
+        {
+          "name": "qu",
+          "url": "https://open.spotify.com/artist/3Ci56b91PyFRKz2fpk211A"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226847,
+      "name": "damn shame",
+      "url": "https://open.spotify.com/track/2Ser5lxEt0fXA3LE4QIo2Z"
     },
     {
       "album": {
@@ -4871,6 +4911,24 @@
       "duration_ms": 247430,
       "name": "Driven by Clouds",
       "url": "https://open.spotify.com/track/05kbrz1OCXcEwYnLjFf1uF"
+    },
+    {
+      "album": {
+        "name": "Driving Back To Love",
+        "url": "https://open.spotify.com/album/3IRUKf0aUXLIGYEli0esRY"
+      },
+      "artists": [
+        {
+          "name": "Jordan",
+          "url": "https://open.spotify.com/artist/0I2Z7eyrCRbsnt0oCA7e9q"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210841,
+      "name": "Driving Back To Love",
+      "url": "https://open.spotify.com/track/6JQA0qkgzjlmpPOJ9ss2mv"
     },
     {
       "album": {
@@ -8071,6 +8129,24 @@
       "duration_ms": 169017,
       "name": "High Expectations",
       "url": "https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS"
+    },
+    {
+      "album": {
+        "name": "Hoffe, dir geht's mies",
+        "url": "https://open.spotify.com/album/5Qag9d6zz6QDY16sB2ZTrq"
+      },
+      "artists": [
+        {
+          "name": "Victoryaz",
+          "url": "https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Hoffe, dir geht's mies",
+      "url": "https://open.spotify.com/track/2OGDD8ZZBnXLkj3gtbxFf9"
     },
     {
       "album": {
@@ -11985,7 +12061,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181261,
       "name": "Nackt",
       "url": "https://open.spotify.com/track/45maojumiVwkfhwzxoPj4M"
@@ -13691,6 +13767,24 @@
       "duration_ms": 334094,
       "name": "Powidl",
       "url": "https://open.spotify.com/track/70EplNd1Jiv1gQHiOK3xVC"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe"
+      },
+      "artists": [
+        {
+          "name": "Maggie Ries",
+          "url": "https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136829,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL"
     },
     {
       "album": {
@@ -16659,7 +16753,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310600,
       "name": "sundown",
       "url": "https://open.spotify.com/track/1yVRDWtLuYGPje84qKQkqb"
@@ -16941,7 +17035,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1LiQJVCQ78nWOMRAGIlHgB"
@@ -16959,7 +17053,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
@@ -19367,6 +19461,24 @@
       "duration_ms": 161906,
       "name": "Wie Berlin",
       "url": "https://open.spotify.com/track/66JUFEw7AuUx3SazWxjuqh"
+    },
+    {
+      "album": {
+        "name": "wie man tanzt",
+        "url": "https://open.spotify.com/album/0Hig6qpkMUuWDw9mst1pTb"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Wawra",
+          "url": "https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179394,
+      "name": "wie man tanzt",
+      "url": "https://open.spotify.com/track/3qoHOvHf4m0UVr081rMzuP"
     },
     {
       "album": {

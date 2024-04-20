@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 85150,
+  "2024-04-20": 85222,
   "date_first_scraped": "2023-05-16",
   "description": "Soothing piano for the ultimate wind down.",
   "name": "Relaxing Bath",
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/1C4NlMtgmBUOKzfW61sTYD"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156625,
       "name": "How Things Blend",
       "url": "https://open.spotify.com/track/75VgkSAz0It7T1Og7bAu3B"
@@ -2911,6 +2911,24 @@
     {
       "album": {
         "name": "Waves",
+        "url": "https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu"
+      },
+      "artists": [
+        {
+          "name": "Astrid Evans",
+          "url": "https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144575,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR"
+    },
+    {
+      "album": {
+        "name": "Waves",
         "url": "https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI"
       },
       "artists": [
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144334,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L"

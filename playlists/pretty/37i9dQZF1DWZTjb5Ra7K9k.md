@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,711 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,528 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 58 | [Surpresa Maior](https://open.spotify.com/track/6YvLJs2eVQMCxBPHAZF7iy) | [Arthur Pares](https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3) | [Surpresa Maior](https://open.spotify.com/album/1hdxDWKo2bZLutjDLDOySi) | 3:50 |
 | 59 | [Praia do Diabo](https://open.spotify.com/track/6FvCVxvR31d1VemP0VSgjm) | [Netunos](https://open.spotify.com/artist/1xs5LhgQneVCf1lM2URRpW) | [Altomar](https://open.spotify.com/album/0fY2AXBtDir8L29m8uq3JI) | 3:47 |
 | 60 | [Rei da Praia](https://open.spotify.com/track/00I0j3T2deYsdLAZgIIooT) | [Beach Combers](https://open.spotify.com/artist/2sXEgyFiztfZvmxkMfCHlZ) | [Beach Attack](https://open.spotify.com/album/0hEsFaNiH7uM1LJpyhfYBF) | 3:02 |
-| 61 | [Vala de Perus](https://open.spotify.com/track/5hQr3WAcd2uWhQU1QlQJb3) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Vala de Perus](https://open.spotify.com/album/12XkndNTBNXMJIm2r4Urhw) | 4:01 |
-| 62 | [Surf Explosão](https://open.spotify.com/track/1mbKwjorbFXRRhcoOWngum) | [The Dead Rocks](https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG) | [Surf Explosão](https://open.spotify.com/album/3MzxPMlOKDepLjKhyiCMjF) | 2:13 |
+| 61 | [Surf Explosão](https://open.spotify.com/track/1mbKwjorbFXRRhcoOWngum) | [The Dead Rocks](https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG) | [Surf Explosão](https://open.spotify.com/album/3MzxPMlOKDepLjKhyiCMjF) | 2:13 |
+| 62 | [Vala de Perus](https://open.spotify.com/track/5hQr3WAcd2uWhQU1QlQJb3) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Vala de Perus](https://open.spotify.com/album/12XkndNTBNXMJIm2r4Urhw) | 4:01 |
 | 63 | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/track/0so3FrbwEKDuagdoxUovAs) | [ANDALUZ](https://open.spotify.com/artist/5p8YPBQTHFW5PRl5B1C4QF) | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/album/3NnUzyLpvcvazOd6RYG455) | 2:22 |
 | 64 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |
 | 65 | [California](https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:10 |
 | 66 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |
-| 67 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
-| 68 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
+| 67 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
+| 68 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
 | 69 | [Island In The Sun](https://open.spotify.com/track/3Pnhzf3Knhdsavx0VM2ZmG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2hDiTEsKePTnDcvKEuLizk) | 3:20 |
 | 70 | [The Middle](https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 2:48 |
 | 71 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |

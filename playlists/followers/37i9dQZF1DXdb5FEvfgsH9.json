@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 25395,
+  "2024-04-20": 25426,
   "date_first_scraped": "2022-08-06",
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
   "name": "Crisp",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273080,
       "name": "(I Don't Need A) New Girl",
       "url": "https://open.spotify.com/track/1uYMePrdjwPmpvaEJAy1bX"
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 273080,
       "name": "(I Don't Need A) New Girl",
       "url": "https://open.spotify.com/track/3qHMMDEzTWWayWTEJ84gNk"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "10 Years",
       "url": "https://open.spotify.com/track/4O0LQKVT6hGmVGNwizmydg"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166000,
       "name": "10 Years",
       "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL"
@@ -261,7 +261,7 @@
     {
       "album": {
         "name": "Audrey Tell Me",
-        "url": "https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl"
+        "url": "https://open.spotify.com/album/69G3oxGRFtROcqCTygtKy4"
       },
       "artists": [
         {
@@ -272,6 +272,24 @@
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254620,
+      "name": "Audrey Tell Me",
+      "url": "https://open.spotify.com/track/2rzLMSlgENndN9bZ3QKnJv"
+    },
+    {
+      "album": {
+        "name": "Audrey Tell Me",
+        "url": "https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl"
+      },
+      "artists": [
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 254620,
       "name": "Audrey Tell Me",
       "url": "https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319932,
       "name": "Come On With the Good Thing",
       "url": "https://open.spotify.com/track/1Mw4DeEuHwD0sQTOaTK6fH"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
@@ -782,6 +800,32 @@
     },
     {
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/0QiYLU8SrwXQAleQaOgTP2"
+      },
+      "artists": [
+        {
+          "name": "Umii",
+          "url": "https://open.spotify.com/artist/63cNPy5lkcSkPmC1MrdRpc"
+        },
+        {
+          "name": "B. Bravo",
+          "url": "https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4"
+        },
+        {
+          "name": "Reva DeVito",
+          "url": "https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231652,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0aMn1LbfjyhZunY2K7oPLg"
+    },
+    {
+      "album": {
         "name": "Dangerous (Touch Sensitive Remix)",
         "url": "https://open.spotify.com/album/54UxhHBaQwRqvp7SWjrR4N"
       },
@@ -827,7 +871,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231652,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3WOB7zFoez5ziVhUHtqqD9"
@@ -981,7 +1025,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200266,
       "name": "Dress Code - Radio Edit",
       "url": "https://open.spotify.com/track/3483vNrzxVuUvI5PqWEeuv"
@@ -999,7 +1043,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 200266,
       "name": "Dress Code - Radio Edit",
       "url": "https://open.spotify.com/track/57fQJMdLNaA6excz33WY0N"
@@ -1043,7 +1087,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196829,
       "name": "Eight-Nine",
       "url": "https://open.spotify.com/track/3jggbpn4P3ETPQ6Mb2I002"
@@ -1065,7 +1109,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 196829,
       "name": "Eight-Nine",
       "url": "https://open.spotify.com/track/4UWWVgwWdWZHJrUoqcwuau"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 175937,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/0urYHfuvFbdwOA1SYX4yvJ"
@@ -1213,7 +1257,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175937,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/4cFn7EyvJU4x0xJ34R2d6d"
@@ -1595,10 +1639,32 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202501,
       "name": "It's Your Night",
       "url": "https://open.spotify.com/track/488cWCyVFhfZEuNR5BMcL6"
+    },
+    {
+      "album": {
+        "name": "It's Your Night (feat. Josh Tobias)",
+        "url": "https://open.spotify.com/album/5ptALkLX01a1nSXMtxqrjV"
+      },
+      "artists": [
+        {
+          "name": "Space 9",
+          "url": "https://open.spotify.com/artist/1iWUVW2PZmzPmhGPyuqkno"
+        },
+        {
+          "name": "Josh Tobias",
+          "url": "https://open.spotify.com/artist/51baoJSjBSHXbpgLMRReCt"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "It's Your Night (feat. Josh Tobias)",
+      "url": "https://open.spotify.com/track/4oWmbATaPWYUSnDS5koJpb"
     },
     {
       "album": {
@@ -1701,7 +1767,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 193666,
       "name": "Keep It Working",
       "url": "https://open.spotify.com/track/37prvjDLAyANTa26VVggl3"
@@ -1723,7 +1789,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193666,
       "name": "Keep It Working",
       "url": "https://open.spotify.com/track/5rBNNYHbs2hQo8RlhajNM4"
@@ -1881,7 +1947,7 @@
     {
       "album": {
         "name": "Funk Aesthetics",
-        "url": "https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO"
+        "url": "https://open.spotify.com/album/6vt5eZTbyId7w8pBNtDBuY"
       },
       "artists": [
         {
@@ -1896,6 +1962,28 @@
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183096,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5pVMKPoGqa1bDuJGPSPd6W"
+    },
+    {
+      "album": {
+        "name": "Funk Aesthetics",
+        "url": "https://open.spotify.com/album/67WRfYEKFAYJ5sZlVd0qxO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Prewett",
+          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
+        },
+        {
+          "name": "Jon Mullins",
+          "url": "https://open.spotify.com/artist/3MKuZm9eAVMdw9ni14mzCP"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 183096,
       "name": "More",
       "url": "https://open.spotify.com/track/74A5yGT7DGBMAmpx6qYfg7"
@@ -2255,7 +2343,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
@@ -2273,7 +2361,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 183896,
       "name": "Skin on Skin",
       "url": "https://open.spotify.com/track/5enKTHTO3V8qFrsyCtXwRF"
@@ -2313,7 +2401,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211444,
       "name": "Slight Variations",
       "url": "https://open.spotify.com/track/39WTzOebFgb8l0qHodr9el"
@@ -2331,7 +2419,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 211444,
       "name": "Slight Variations",
       "url": "https://open.spotify.com/track/6UUmEKtqOuhpUO0nJFzNKW"
@@ -2663,7 +2751,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259512,
       "name": "The Night is Calling",
       "url": "https://open.spotify.com/track/2er5pBUptyyOONLjcNt3qj"
@@ -2681,7 +2769,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 259512,
       "name": "The Night is Calling",
       "url": "https://open.spotify.com/track/6YxowJOWcfl1dnjPlxVKZq"
@@ -2871,7 +2959,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/0X89tZvVGokJi9NDuz5tqN"
@@ -2897,7 +2985,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 219280,
       "name": "Weekend Love",
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
@@ -3017,7 +3105,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168333,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO"
@@ -3039,7 +3127,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 168333,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5xRMmHOAQiVJ2QeDv0gTS7"

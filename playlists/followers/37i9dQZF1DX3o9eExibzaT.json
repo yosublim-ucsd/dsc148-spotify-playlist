@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 114279,
+  "2024-04-20": 114319,
   "date_first_scraped": "2024-01-30",
   "description": "It's a wonderful lie. Listen to the music from and inspired by Big Little Lies, all episode streaming on Max. ",
   "name": "Big Little Lies Official Playlist",
   "tracks": [
+    {
+      "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/0zQllKtOtx3i7QFccbAWvL"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1SquBBWJ2qIUAt6GiKZpsq"
+    },
     {
       "album": {
         "name": "Universal Mother",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157733,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
@@ -111,10 +129,46 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193973,
       "name": "Bloody Mother Fucking Asshole",
       "url": "https://open.spotify.com/track/34f07pWpasfZhsL1Xe9NKg"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Martha Wainwright",
+          "url": "https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196280,
+      "name": "Bloody Mother Fucking Asshole",
+      "url": "https://open.spotify.com/track/0HLxYZsciDiAbuIZhGmQvO"
+    },
+    {
+      "album": {
+        "name": "Spoon And Rafter",
+        "url": "https://open.spotify.com/album/67KF3j5sJPiP10rUMdG7WW"
+      },
+      "artists": [
+        {
+          "name": "Mojave 3",
+          "url": "https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555826,
+      "name": "Bluebird Of Happiness",
+      "url": "https://open.spotify.com/track/1FsfU72Q4tq1AfBpdZ43G4"
     },
     {
       "album": {
@@ -129,7 +183,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 555826,
       "name": "Bluebird of Happiness",
       "url": "https://open.spotify.com/track/4161avFPychEPH5JUm9Xuw"
@@ -176,6 +230,24 @@
     },
     {
       "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346306,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/267FIAdcIXoVRlyIpdx48F"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
       },
@@ -191,7 +263,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342999,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz"
@@ -209,10 +281,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332133,
       "name": "Cherish the Day",
       "url": "https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332133,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/5ljnOdrl3v8oYC2Llknvna"
     },
     {
       "album": {
@@ -249,10 +339,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 597600,
       "name": "Cold Little Heart",
       "url": "https://open.spotify.com/track/0qprlw0jfsW4H9cG0FFE0Z"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 609146,
+      "name": "Cold Little Heart",
+      "url": "https://open.spotify.com/track/4vVRdmiVXWeT0UxkF5Nenj"
     },
     {
       "album": {
@@ -285,10 +393,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/4NHLhoZgBkICm5LtTRXFAP"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: The Trammps",
+        "url": "https://open.spotify.com/album/6eAq1OY2L1F3qleomkvtX7"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "Disco Inferno - Single Edit",
+      "url": "https://open.spotify.com/track/22ff60cZy4APp7bzESHLR8"
     },
     {
       "album": {
@@ -419,10 +545,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 437200,
       "name": "Ernie",
       "url": "https://open.spotify.com/track/3vq4rG9kAtCk1QHfUM1fvR"
+    },
+    {
+      "album": {
+        "name": "Based on a True Story",
+        "url": "https://open.spotify.com/album/72Bb08DkLMewuOlfRtiQpp"
+      },
+      "artists": [
+        {
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437200,
+      "name": "Ernie",
+      "url": "https://open.spotify.com/track/469e9xIXfJ9wnNxrVdqXWP"
     },
     {
       "album": {
@@ -513,10 +657,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292594,
       "name": "Good Thing Gone",
       "url": "https://open.spotify.com/track/1jNsAEy20h3G5PwFmmvwX5"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294546,
+      "name": "Good Thing Gone",
+      "url": "https://open.spotify.com/track/6WktmzcWJexs5S72cfamus"
     },
     {
       "album": {
@@ -531,10 +693,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254333,
       "name": "Grass Is Greener",
       "url": "https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92"
+    },
+    {
+      "album": {
+        "name": "Half the City",
+        "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254333,
+      "name": "Grass Is Greener",
+      "url": "https://open.spotify.com/track/5ugEkJcLbQrAkCN2kH7j8S"
     },
     {
       "album": {
@@ -567,10 +747,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401506,
       "name": "Hands Around My Throat",
       "url": "https://open.spotify.com/track/21uApmh8YblFvwBgSVmY5O"
+    },
+    {
+      "album": {
+        "name": "Satan's Circus",
+        "url": "https://open.spotify.com/album/6ka7zYHzpmFZk7YcG2it1o"
+      },
+      "artists": [
+        {
+          "name": "Death In Vegas",
+          "url": "https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401506,
+      "name": "Hands Around My Throat",
+      "url": "https://open.spotify.com/track/67G4dvNGQATgqzJAXUsfjK"
     },
     {
       "album": {
@@ -585,10 +783,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301200,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/21HsI1RpRHEjbUjmzHtIyj"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303373,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/15IkY5KZv3FoF2mH0SB2eE"
     },
     {
       "album": {
@@ -628,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281053,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/3xIirfRr7k8ctzlWwhGpg8"
+    },
+    {
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -643,10 +881,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278653,
       "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
       "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "Heartaches and Pain",
+      "url": "https://open.spotify.com/track/0ntPwZuJ7ChJzKd1xDcbgg"
     },
     {
       "album": {
@@ -665,7 +925,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176212,
       "name": "Heartaches and Pain",
       "url": "https://open.spotify.com/track/2wE53HiPdOM9nnhRh3FVqY"
@@ -755,10 +1015,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188800,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/3nnoHTBzQ1mVUldZnjpuSO"
     },
     {
       "album": {
@@ -907,7 +1185,7 @@
     {
       "album": {
         "name": "Affection",
-        "url": "https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh"
+        "url": "https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL"
       },
       "artists": [
         {
@@ -918,6 +1196,24 @@
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6dYcUcj1TyZZES5ivtjLdk"
+    },
+    {
+      "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 233010,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF"
@@ -957,10 +1253,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239420,
       "name": "Let Love Stand a Chance",
       "url": "https://open.spotify.com/track/2s9cBeOMpkkVWOo6LwP0u5"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Let Love Stand A Chance",
+      "url": "https://open.spotify.com/track/2XTtPudylwRCoAktplR4qc"
     },
     {
       "album": {
@@ -1058,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Nothing Arrived - Live",
+      "url": "https://open.spotify.com/track/7na7OQHZZyrJnqcDC4e4D8"
+    },
+    {
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
       },
@@ -1069,7 +1405,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
@@ -1163,10 +1499,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122026,
       "name": "Redford (for Yia-Yia and Pappou)",
       "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
+    },
+    {
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/4mIfqTE8DOnFRFWUQH02Og"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/6c96Nkxc8clVSlWNyvgzdD"
     },
     {
       "album": {
@@ -1203,10 +1557,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240200,
       "name": "River",
       "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5aE6KBL9vjpgdzYlbC4AJY"
     },
     {
       "album": {
@@ -1221,10 +1593,46 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297320,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/0uYVJ8z5kgMayMNPJA6Cz9"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/42LvsxgKnHYVu7PQRXmURw"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297320,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/6RHHbAbyIcPpvS1dP3KUGq"
+    },
+    {
+      "album": {
+        "name": "Aventine (Deluxe)",
+        "url": "https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/6SctHYL0HaQ5hFpUxXULYa"
     },
     {
       "album": {
@@ -1239,10 +1647,32 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204331,
       "name": "September Song - Bonus Track",
       "url": "https://open.spotify.com/track/2EuqgpA1cTC95AQUgCcZHk"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Cotten",
+          "url": "https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs"
+        },
+        {
+          "name": "Brenda Evans",
+          "url": "https://open.spotify.com/artist/244QBvwyXVxrudan7UmlLR"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298266,
+      "name": "Shake Sugaree",
+      "url": "https://open.spotify.com/track/4eDoXQSnpjACYy9WyviUk0"
     },
     {
       "album": {
@@ -1257,7 +1687,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302600,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
@@ -1311,10 +1741,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148426,
       "name": "Straight From The Heart",
       "url": "https://open.spotify.com/track/2pv2bS54WfwkbEQygh1S8T"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149120,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5mk2tOGVtWutKzXSMREOEl"
     },
     {
       "album": {
@@ -1351,10 +1799,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/54XLFFWPnUk9GiyMvqM7wQ"
     },
     {
       "album": {
@@ -1463,10 +1929,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268853,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271253,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/0KKpTT8LkdarAs1kRmAvbW"
     },
     {
       "album": {
@@ -1506,8 +1990,8 @@
     },
     {
       "album": {
-        "name": "I Can't Stand the Rain",
-        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+        "name": "Big Little Lies (Music from Season 2 of the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5bVh1bvKmcaBUjQwcapIEN"
       },
       "artists": [
         {
@@ -1519,8 +2003,44 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192893,
+      "name": "Until You Came Into My Life",
+      "url": "https://open.spotify.com/track/0dVeBXkfWALnOSs6N3lrxm"
+    },
+    {
+      "album": {
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 192893,
       "name": "Until You Came into My Life",
       "url": "https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij"
+    },
+    {
+      "album": {
+        "name": "Big Little Lies (Music From The HBO Limited Series)",
+        "url": "https://open.spotify.com/album/4YU2XJH8yVtQh5oPylvoDw"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Victim Of Love",
+      "url": "https://open.spotify.com/track/5n8kTIxonZzmM9jPrvXV5A"
     },
     {
       "album": {
@@ -1539,7 +2059,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210887,
       "name": "Victim of Love",
       "url": "https://open.spotify.com/track/5zGoMdfIlTqhsCFDKxmrfP"
@@ -1557,10 +2077,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340026,
       "name": "Victory Dance",
       "url": "https://open.spotify.com/track/2HrdABN6Lxrcg0l8aTsx6U"
+    },
+    {
+      "album": {
+        "name": "Circuital",
+        "url": "https://open.spotify.com/album/7FN3hujsx8t9iRJLTGHlyb"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340026,
+      "name": "Victory Dance",
+      "url": "https://open.spotify.com/track/3eI6BvMeNo1IlRBWqBHx5F"
     },
     {
       "album": {
@@ -1575,10 +2113,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193986,
       "name": "What Becomes of the Brokenhearted",
       "url": "https://open.spotify.com/track/5wY2LjZgZ2hPANpb6C3xEz"
+    },
+    {
+      "album": {
+        "name": "Jimmy Ruffin - Hold On To My Love",
+        "url": "https://open.spotify.com/album/5bnobh7i0gbIEckaORoXdR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "What Becomes of the Brokenhearted",
+      "url": "https://open.spotify.com/track/7FU7dP8A6BpEXwu6pE7ceT"
     },
     {
       "album": {

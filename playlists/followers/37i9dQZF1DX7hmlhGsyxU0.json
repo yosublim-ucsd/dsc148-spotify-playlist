@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 162813,
+  "2024-04-20": 162870,
   "date_first_scraped": "2022-04-20",
   "description": "Strings and pianos to accompany your latest great read.",
   "name": "Instrumental Reading",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/00CUZP34M4082rJyr4ZMen"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 260729,
       "name": "Calm Water",
       "url": "https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223283,
       "name": "Composite 03",
       "url": "https://open.spotify.com/track/6WSmDwlRFDnYby18n6Bgor"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157500,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/57v7KEIZNdhu3Ll8xD0TZs"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161981,
       "name": "EGUZKIA GALDU",
       "url": "https://open.spotify.com/track/1jXTcTeHRUaWmWJME9U2I3"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 161981,
       "name": "EGUZKIA GALDU",
       "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258000,
       "name": "Gravegarden",
       "url": "https://open.spotify.com/track/1tvcVyI7ltFhP3LEK2ThKa"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 258019,
       "name": "Gravegarden",
       "url": "https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163124,
       "name": "Innocence",
       "url": "https://open.spotify.com/track/5IUQOzC9u2IMs6FcGEe5pX"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-13",
+      "date_removed": null,
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175384,
       "name": "Living Rooms",
       "url": "https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-21",
+      "date_removed": null,
       "duration_ms": 175384,
       "name": "Living Rooms",
       "url": "https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196537,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4CLkN6PDHrMkYbiQIigVz3"
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172480,
       "name": "Perceptions",
       "url": "https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr"
@@ -2169,7 +2169,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173311,
       "name": "Perceptions",
       "url": "https://open.spotify.com/track/5JOtNkA1yyV0dreSnmbLGT"
@@ -2321,7 +2321,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/2dURcygV26MUOQuztCjBwX"
@@ -2339,7 +2339,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2"
@@ -2995,7 +2995,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-30",
+      "date_removed": null,
       "duration_ms": 270003,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA"
@@ -3013,7 +3013,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270003,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/7ARA87vwUu66EfF5rfFsHZ"
@@ -3259,7 +3259,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 191870,
       "name": "Zerachiel",
       "url": "https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn"
@@ -3277,7 +3277,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191870,
       "name": "Zerachiel",
       "url": "https://open.spotify.com/track/75YWIrM2Veuz4Hlgnswhgp"

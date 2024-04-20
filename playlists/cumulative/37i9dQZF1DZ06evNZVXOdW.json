@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
+    },
+    {
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },

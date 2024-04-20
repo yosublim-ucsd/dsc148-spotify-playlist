@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10750,
+  "2024-04-20": 10756,
   "date_first_scraped": "2022-07-10",
   "description": "Nothing but precious sounds from the 90s & 2000s. Cover: Maestro Fresh Wes",
   "name": "Canadian Gems",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 227360,
       "name": "5th Element",
       "url": "https://open.spotify.com/track/1psWNavjGJ4HIOt7wxLD0J"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227360,
       "name": "5th Element",
       "url": "https://open.spotify.com/track/6tPnCloKp4j41pMLDf2tnw"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250266,
       "name": "Beautiful U R",
       "url": "https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250266,
       "name": "Beautiful U R",
       "url": "https://open.spotify.com/track/5oL0hajsnGW2U3UKvRFt6J"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215626,
       "name": "Been Gone",
       "url": "https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215653,
       "name": "Been Gone",
       "url": "https://open.spotify.com/track/52FaLhmuRVqaN0JsLTGrr5"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234066,
       "name": "Big",
       "url": "https://open.spotify.com/track/16rS604ZDQUYLk3ZuxkGzi"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234066,
       "name": "Big",
       "url": "https://open.spotify.com/track/6iu1itsoivbwdTvqOARpVi"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208093,
       "name": "Born And Raised In The Ghetto",
       "url": "https://open.spotify.com/track/3Roa6JPUXLn1TOS3fdz6Xr"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 208093,
       "name": "Born And Raised In The Ghetto",
       "url": "https://open.spotify.com/track/7J4NU5c7UoEgFdkkDHLCJv"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304680,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/5B3YiEvNhNPGG5O0dSiev1"
@@ -475,6 +475,24 @@
       "duration_ms": 304733,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1xIADUASoF8HEnvH0r37Fj"
+    },
+    {
+      "album": {
+        "name": "Subliminal Simulation",
+        "url": "https://open.spotify.com/album/00ZL0O0EUY85DnxwlNKDkM"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304733,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/2tu6lACLcXuSoxjrGldwfw"
     },
     {
       "album": {
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218680,
       "name": "Does He Love Me",
       "url": "https://open.spotify.com/track/1oRCQ6gqeNoNVU5TccwTjh"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218680,
       "name": "Does He Love Me (feat. Foxy Brown)",
       "url": "https://open.spotify.com/track/6gLB9QPbZW4Xh2J0QtQxdG"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201502,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/0TdUSXxl28407JyN2Qfq9D"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201502,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/5WlbWmsrfhKiDKpZRmneBN"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254200,
       "name": "Fall From Paradise",
       "url": "https://open.spotify.com/track/1dxAAKR7k0RDPrje4lUUk0"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242976,
       "name": "Formation",
       "url": "https://open.spotify.com/track/1ohNGsQ3anAsAywqjFvUMA"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 242976,
       "name": "Formation",
       "url": "https://open.spotify.com/track/5esKOdkdkkD51sT7S9YiOY"
@@ -1055,7 +1073,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221753,
       "name": "I'm Still Fly feat. Drake - Dirty",
       "url": "https://open.spotify.com/track/2fGnxqCBPSnH5tUmoXT0TV"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228674,
       "name": "Learn to Earn",
       "url": "https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 228674,
       "name": "Learn to Earn",
       "url": "https://open.spotify.com/track/5pnb7gH2FdlgQYJr7z55a4"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229386,
       "name": "Magic Touch - Extended",
       "url": "https://open.spotify.com/track/1YnpOewGrWskSENwS05FON"
@@ -1491,10 +1509,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243330,
       "name": "Mind Over Matter",
       "url": "https://open.spotify.com/track/34tZKRrp49Iox1kcMkBXEU"
+    },
+    {
+      "album": {
+        "name": "Missed Your Chance",
+        "url": "https://open.spotify.com/album/7s66TCMuBvl0Qi2usflqk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Robinson",
+          "url": "https://open.spotify.com/artist/4w0YXf91PUV9T1zlTK6yPr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254955,
+      "name": "Missed Your Chance",
+      "url": "https://open.spotify.com/track/1dzYBoC286S0UpHO4S8FH5"
     },
     {
       "album": {
@@ -1509,7 +1545,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255743,
       "name": "Missed Your Chance",
       "url": "https://open.spotify.com/track/3uVUL7r2Z6kEIurmQURWCL"
@@ -1567,7 +1603,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133080,
       "name": "More Soup",
       "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
@@ -1589,7 +1625,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131080,
       "name": "More Soup (feat. MF Doom)",
       "url": "https://open.spotify.com/track/3sITI1dXm6vOhCSF1FaZM9"
@@ -1951,7 +1987,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212440,
       "name": "Shook",
       "url": "https://open.spotify.com/track/0nEYHi9AxVTKbCrdIF6SJT"
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262480,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N"
@@ -2255,7 +2291,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262480,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/525X9t8doCdiFVpsAIScX7"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375050,
       "name": "Successful (feat. Trey Songz & Lil Wayne)",
       "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/66HIKVRPx41akQmPu6iQ6O"
@@ -2671,7 +2707,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 191266,
       "name": "U Can Have It All",
       "url": "https://open.spotify.com/track/53ZIzhozH4pkPvQTVeEbsm"
@@ -2689,7 +2725,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194320,
       "name": "U Can Have It All",
       "url": "https://open.spotify.com/track/6WmiyYrLNBIfjUqgFTKukP"

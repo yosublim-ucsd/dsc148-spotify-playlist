@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 458868,
+  "2024-04-20": 458791,
   "date_first_scraped": "2023-12-31",
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
   "name": "Festa Brasileira",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284986,
       "name": "A Minha Menina",
       "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
@@ -89,10 +89,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 157928,
       "name": "Amor de Que",
       "url": "https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc"
+    },
+    {
+      "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288160,
+      "name": "Anuncia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
     },
     {
       "album": {
@@ -133,7 +151,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389253,
       "name": "Banho de Folhas",
       "url": "https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK"
@@ -205,7 +223,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201655,
       "name": "Caetano Veloso",
       "url": "https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn"
@@ -321,10 +339,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296640,
       "name": "Faixa Amarela",
       "url": "https://open.spotify.com/track/3Rp4m03mbhlYgIeSWNP9xm"
+    },
+    {
+      "album": {
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
     },
     {
       "album": {
@@ -347,7 +383,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 306853,
       "name": "Frevo Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
@@ -391,6 +427,24 @@
       "duration_ms": 220453,
       "name": "Jorge Maravilha",
       "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
+    },
+    {
+      "album": {
+        "name": "Juramento do Dedinho",
+        "url": "https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164808,
+      "name": "Juramento do Dedinho",
+      "url": "https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j"
     },
     {
       "album": {
@@ -463,10 +517,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234961,
       "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
       "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
+    },
+    {
+      "album": {
+        "name": "Bis (Dois CDs)",
+        "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249960,
+      "name": "Lindo Lago Do Amor",
+      "url": "https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf"
     },
     {
       "album": {
@@ -528,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Minha Historia",
+        "url": "https://open.spotify.com/album/0wNCVCDvgvbf8O5oFe1GtR"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "Meia Lua Inteira",
+      "url": "https://open.spotify.com/track/3uHnCqpyvmVuEG6XgTdCeP"
+    },
+    {
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -539,7 +629,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231474,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"
@@ -565,7 +655,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168800,
       "name": "Meu Jeito de Amar",
       "url": "https://open.spotify.com/track/08HdbdAWWqSyliHjMG6XmH"
@@ -601,7 +691,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "Na Cad\u00eancia Do Samba",
       "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
@@ -619,7 +709,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152613,
       "name": "Nem Vem Que N\u00e3o Tem",
       "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
@@ -637,7 +727,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196153,
       "name": "N\u00e3o Me Entrego Pros Caretas",
       "url": "https://open.spotify.com/track/6pok4kgIWSBFIoPZeKrv7L"
@@ -680,6 +770,24 @@
     },
     {
       "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "album": {
         "name": "Ao Vivo No Parque Madureira (Deluxe)",
         "url": "https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O"
       },
@@ -691,7 +799,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 216866,
       "name": "O Show Tem Que Continuar - Ao Vivo",
       "url": "https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv"
@@ -709,7 +817,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211447,
       "name": "O Sol",
       "url": "https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe"
@@ -727,7 +835,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 97200,
       "name": "O Sol Nascer\u00e1 (A Sorrir)",
       "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
@@ -745,7 +853,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199333,
       "name": "Odara",
       "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
@@ -767,6 +875,42 @@
       "duration_ms": 228080,
       "name": "Oh! Chuva",
       "url": "https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6"
+    },
+    {
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+    },
+    {
+      "album": {
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "album": {
@@ -803,6 +947,24 @@
       "duration_ms": 210889,
       "name": "Ouvi Dizer",
       "url": "https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV"
+    },
+    {
+      "album": {
+        "name": "Fruto Proibido",
+        "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338933,
+      "name": "Ovelha Negra",
+      "url": "https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI"
     },
     {
       "album": {
@@ -853,7 +1015,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337308,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/6O6qYUHbLjT0kGHm5rfp95"
@@ -1013,7 +1175,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228132,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
@@ -1075,10 +1237,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155666,
       "name": "Take It Easy My Brother Charles",
       "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "album": {
+        "name": "Bicho De 7 Cabe\u00e7as",
+        "url": "https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212160,
+      "name": "Taxi Lunar",
+      "url": "https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a"
     },
     {
       "album": {
@@ -1151,7 +1331,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226640,
       "name": "Toda Menina Baiana",
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
@@ -1176,6 +1356,24 @@
     },
     {
       "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Tropicana (Morena Tropicana)",
+      "url": "https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2"
+    },
+    {
+      "album": {
         "name": "Cavalo De Pau",
         "url": "https://open.spotify.com/album/1CYI4of2nVuOBrQt6E24qJ"
       },
@@ -1187,7 +1385,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233960,
       "name": "Tropicana (Morena Tropicana)",
       "url": "https://open.spotify.com/track/5iehR5VxXMZpQ5MAmlY68f"
@@ -1241,10 +1439,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210093,
       "name": "Vem Meu Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/3QU53FPxXoULbgdjEh7vrD"
+    },
+    {
+      "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
+        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230493,
+      "name": "Voc\u00ea N\u00e3o Entende Nada",
+      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
     },
     {
       "album": {
@@ -1277,10 +1493,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247200,
       "name": "\u00c0 Francesa",
       "url": "https://open.spotify.com/track/0wYqEYGKhZHfc92SLHbD4J"
+    },
+    {
+      "album": {
+        "name": "Marina Rock Lima",
+        "url": "https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF"
+      },
+      "artists": [
+        {
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248480,
+      "name": "\u00c0 Francesa",
+      "url": "https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD"
     },
     {
       "album": {

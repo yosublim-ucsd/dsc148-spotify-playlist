@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 32560,
+  "2024-04-20": 32568,
   "date_first_scraped": "2023-09-29",
   "description": "Quand l'indie et l'electro ne font qu'un.",
   "name": "indelectro",
@@ -79,10 +79,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223546,
       "name": "Always On the Run",
       "url": "https://open.spotify.com/track/1WuqCvOaCVDgbu12AROnCr"
+    },
+    {
+      "album": {
+        "name": "Living On The Edge Of Time",
+        "url": "https://open.spotify.com/album/0hFRGY5FtkENV4TkbwjCMM"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3McVJ4pdwNMP4RJtsJAogG"
     },
     {
       "album": {
@@ -123,6 +141,24 @@
     {
       "album": {
         "name": "Hercules & Love Affair",
+        "url": "https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376973,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w"
+    },
+    {
+      "album": {
+        "name": "Hercules & Love Affair",
         "url": "https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ"
       },
       "artists": [
@@ -133,7 +169,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378256,
       "name": "Blind",
       "url": "https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE"
@@ -393,10 +429,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215720,
       "name": "Flux",
       "url": "https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d"
+    },
+    {
+      "album": {
+        "name": "A Weekend In the City",
+        "url": "https://open.spotify.com/album/5PkAUwhhB5YGgwnvhy4AC7"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/56J3j5Rm1RrHPgbrTvhOz0"
     },
     {
       "album": {
@@ -567,10 +621,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196280,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9"
+    },
+    {
+      "album": {
+        "name": "Attack Decay Sustain Release",
+        "url": "https://open.spotify.com/album/5WNB89bRkFrX9NkWymKXxf"
+      },
+      "artists": [
+        {
+          "name": "Simian Mobile Disco",
+          "url": "https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198560,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1gk4GlnculQR84IbqkVNwA"
     },
     {
       "album": {
@@ -603,10 +675,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262986,
       "name": "I Come With Knives",
       "url": "https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K"
+    },
+    {
+      "album": {
+        "name": "The Unified Field",
+        "url": "https://open.spotify.com/album/0tAUuBldpHmnguMysW4ycm"
+      },
+      "artists": [
+        {
+          "name": "IAMX",
+          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262986,
+      "name": "I Come With Knives",
+      "url": "https://open.spotify.com/track/2KzYjp7bRcGlwgZRUmoSeZ"
     },
     {
       "album": {
@@ -773,10 +863,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211183,
       "name": "Let's Make Love and Listen to Death From Above",
       "url": "https://open.spotify.com/track/1Jd9W7k8DTnBSovDSxK77n"
+    },
+    {
+      "album": {
+        "name": "Cansei De Ser Sexy",
+        "url": "https://open.spotify.com/album/6IiKo8hbnqheYfEHaEmHoz"
+      },
+      "artists": [
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Let's Make Love and Listen to Death From Above",
+      "url": "https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A"
     },
     {
       "album": {
@@ -799,6 +907,24 @@
     {
       "album": {
         "name": "Lanterns",
+        "url": "https://open.spotify.com/album/0DXzTaMzhm1ojc6b5H3PaJ"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282586,
+      "name": "Lost It To Trying",
+      "url": "https://open.spotify.com/track/7frqaCMi7gVCD7JBuDrmEd"
+    },
+    {
+      "album": {
+        "name": "Lanterns",
         "url": "https://open.spotify.com/album/6vIi2q78LUq93PhpO6VY1J"
       },
       "artists": [
@@ -813,10 +939,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282586,
       "name": "Lost It To Trying",
       "url": "https://open.spotify.com/track/4kP7BPJ1d3WUGhykQBVEjH"
+    },
+    {
+      "album": {
+        "name": "The King Of Limbs",
+        "url": "https://open.spotify.com/album/1DBkJIEoeHrTX4WCBQGcCi"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300219,
+      "name": "Lotus Flower",
+      "url": "https://open.spotify.com/track/1amSa5xo79zINsgrpNlNge"
     },
     {
       "album": {
@@ -831,10 +975,32 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300219,
       "name": "Lotus Flower",
       "url": "https://open.spotify.com/track/2QeutlLcJf2V1cMUUsDFT1"
+    },
+    {
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Loud Places",
+      "url": "https://open.spotify.com/track/0Sl8C9oeS3b5Kv9bSvTPDr"
     },
     {
       "album": {
@@ -853,7 +1019,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
@@ -889,7 +1055,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241440,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
@@ -907,7 +1073,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 243229,
       "name": "Midnight City",
       "url": "https://open.spotify.com/track/5tMY5DJvFr9f8UGTta6KEj"
@@ -932,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Ladyhawke (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF"
+      },
+      "artists": [
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "My Delirium",
+      "url": "https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl"
+    },
+    {
+      "album": {
         "name": "Ladyhawke",
         "url": "https://open.spotify.com/album/0AvEEMu6w6U9neLNaHu4G8"
       },
@@ -943,7 +1127,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255746,
       "name": "My Delirium",
       "url": "https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI"
@@ -987,6 +1171,28 @@
     {
       "album": {
         "name": "Skin",
+        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233337,
+      "name": "Never Be Like You",
+      "url": "https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"
+    },
+    {
+      "album": {
+        "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
@@ -1001,7 +1207,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
@@ -1045,6 +1251,24 @@
     {
       "album": {
         "name": "Swim",
+        "url": "https://open.spotify.com/album/198uSF0lTPBy7PtflbPhGT"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315293,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/305tGJy16yTTFe6Ya9nMKJ"
+    },
+    {
+      "album": {
+        "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
       "artists": [
@@ -1055,7 +1279,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
@@ -1479,6 +1703,24 @@
     {
       "album": {
         "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/3LnVvIeiLCngvwEnbdxwCT"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/3gGMsx3jxYKfhXq8LMj1tz"
+    },
+    {
+      "album": {
+        "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
       },
       "artists": [
@@ -1489,7 +1731,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"

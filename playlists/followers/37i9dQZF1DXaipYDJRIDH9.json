@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 217975,
+  "2024-04-20": 217740,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -521,7 +521,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139250,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
@@ -705,6 +705,24 @@
       "duration_ms": 139884,
       "name": "Find The Light Behind The Clouds",
       "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "album": {
+        "name": "Fino Mornasco",
+        "url": "https://open.spotify.com/album/2D7NIYeCrKz1yvvJFZj2Kv"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Gallo",
+          "url": "https://open.spotify.com/artist/1ovHYNNkFg5hndltHBhMCd"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133916,
+      "name": "Fino Mornasco",
+      "url": "https://open.spotify.com/track/32pMHDcSZA6xD4cp9lk1aF"
     },
     {
       "album": {
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122000,
       "name": "Look Up Into The Sky",
       "url": "https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y"
@@ -1828,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2iy4xz7MDiw6WTBIs3B91t"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123641,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/45BcuKF5ILiWrIoa4owvTg"
+    },
+    {
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
       },
@@ -2210,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "When I look at you",
+        "url": "https://open.spotify.com/album/1tWBD3z06MedKPwvKThkUx"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "When I look at you",
+      "url": "https://open.spotify.com/track/4Pp19M88QCTYhHSlt9GFmB"
+    },
+    {
+      "album": {
         "name": "When the leaves start to fall",
         "url": "https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn"
       },
@@ -2257,7 +2311,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126396,
       "name": "Woman traveling alone",
       "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"

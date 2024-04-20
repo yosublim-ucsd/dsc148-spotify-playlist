@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 117767,
+  "2024-04-20": 117804,
   "date_first_scraped": "2023-08-08",
   "description": "Belt it out. Cover: Alex Newell in Shucked",
   "name": "Broadway Belts",
@@ -86,6 +86,24 @@
     },
     {
       "album": {
+        "name": "Anything Goes (2011 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2W6W4PeMFlKUhf6lDKiVg0"
+      },
+      "artists": [
+        {
+          "name": "Sutton Foster",
+          "url": "https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348253,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7rYyaxdjbG39yL3ZT1CQ7X"
+    },
+    {
+      "album": {
         "name": "Anything Goes (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL"
       },
@@ -101,7 +119,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348253,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/0LgODbepSswNlLUK8EEH8v"
@@ -189,10 +207,28 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244066,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6OSTrvIX8JXxRxFT4C9y0J"
+    },
+    {
+      "album": {
+        "name": "In The Heights",
+        "url": "https://open.spotify.com/album/3hRjhpRG5xGYEprgQZjZBQ"
+      },
+      "artists": [
+        {
+          "name": "In The Heights (Original Cast Recording)",
+          "url": "https://open.spotify.com/artist/6BrRyZRuy3RTzJjAXTc7Ts"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1kjLLAje0HLxfsDC5dK9Pb"
     },
     {
       "album": {
@@ -441,10 +477,46 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183013,
       "name": "Dogfight",
       "url": "https://open.spotify.com/track/3yF2K888WWvvO5fmDBWPcP"
+    },
+    {
+      "album": {
+        "name": "Dogfight (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/4EeKc9r6CncXFkl1QPtRnK"
+      },
+      "artists": [
+        {
+          "name": "Dogfight (Original Cast)",
+          "url": "https://open.spotify.com/artist/6aCkGlyWkbULN0C7voly6K"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Dogfight",
+      "url": "https://open.spotify.com/track/7MJKFRt6G1mrttF2d2JUxb"
+    },
+    {
+      "album": {
+        "name": "Funny Girl (Original Broadway Cast / 50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5lc9AB69AA3THudUN6btkP"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Don't Rain On My Parade",
+      "url": "https://open.spotify.com/track/1ymndtm8MU2sySXOTHAuAZ"
     },
     {
       "album": {
@@ -459,7 +531,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164653,
       "name": "Don't Rain On My Parade",
       "url": "https://open.spotify.com/track/6yMboa6xoDITpExh6nZb5g"
@@ -560,6 +632,24 @@
     },
     {
       "album": {
+        "name": "The Last Five Years",
+        "url": "https://open.spotify.com/album/6xRraUlXlqv1bsWioqYEyQ"
+      },
+      "artists": [
+        {
+          "name": "Jason Robert Brown",
+          "url": "https://open.spotify.com/artist/5ol7Hq695R9m2bT9T3FiQx"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "I Can Do Better Than That",
+      "url": "https://open.spotify.com/track/2envD4rHy66e0f0tiboVqA"
+    },
+    {
+      "album": {
         "name": "The Last Five Years (Original Cast Recording)",
         "url": "https://open.spotify.com/album/2OPt51ttGul9Qn8T1oPVvk"
       },
@@ -571,7 +661,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311333,
       "name": "I Can Do Better Than That",
       "url": "https://open.spotify.com/track/501LsHCZvqR5ZFrPF70w76"
@@ -659,10 +749,28 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271929,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1w2k1OOCSy3ez40D3TQs7L"
+    },
+    {
+      "album": {
+        "name": "The Color Purple (2015 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/00buc4TyAb8lLoTx4PRDrP"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271986,
+      "name": "I'm Here",
+      "url": "https://open.spotify.com/track/30q6kWgifW3DwuVydQQX3g"
     },
     {
       "album": {
@@ -801,10 +909,36 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315626,
       "name": "Memory",
       "url": "https://open.spotify.com/track/1pEeWKbTCtRsjtyG9Jxp7L"
+    },
+    {
+      "album": {
+        "name": "Cats (Original London Cast Recording / 1981)",
+        "url": "https://open.spotify.com/album/4QNvSfF1b5CzZzv57cyQHq"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "\"Cats\" 1981 Original London Cast",
+          "url": "https://open.spotify.com/artist/5PwgSnrvg48DYvdsf2Y2ZD"
+        },
+        {
+          "name": "Elaine Paige",
+          "url": "https://open.spotify.com/artist/7KckozT8XPOqtgJjpAcrnA"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315626,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/47i10K4nwAc62K6hNWYb9m"
     },
     {
       "album": {
@@ -853,7 +987,7 @@
     {
       "album": {
         "name": "Anastasia (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+        "url": "https://open.spotify.com/album/2dDzJlbHoVGKMGZF4wQfla"
       },
       "artists": [
         {
@@ -864,6 +998,24 @@
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150400,
+      "name": "My Petersburg",
+      "url": "https://open.spotify.com/track/4pjA5aVdmBmNf1YrwG7nH2"
+    },
+    {
+      "album": {
+        "name": "Anastasia (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI"
+      },
+      "artists": [
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 150400,
       "name": "My Petersburg",
       "url": "https://open.spotify.com/track/7l4NdSjIogT8oA2I6UKjOS"
@@ -963,10 +1115,50 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239466,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6cs44cWPd4652NlIrzRqNx"
+    },
+    {
+      "album": {
+        "name": "Les Miserables (The Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8"
+      },
+      "artists": [
+        {
+          "name": "Les Mis\u00e9rables-Original London Cast",
+          "url": "https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0whLBafLYqsuFouLM2ZT9O"
+    },
+    {
+      "album": {
+        "name": "The Bridges of Madison County (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/7r7TxhWB6tZHc3aPlMjaup"
+      },
+      "artists": [
+        {
+          "name": "Steven Pasquale",
+          "url": "https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I"
+        },
+        {
+          "name": "Kelli O'Hara",
+          "url": "https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410600,
+      "name": "One Second and a Million Miles",
+      "url": "https://open.spotify.com/track/3UQKDBuIhaCSkRzFyB43Ph"
     },
     {
       "album": {
@@ -985,7 +1177,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410666,
       "name": "One Second and a Million Miles",
       "url": "https://open.spotify.com/track/3R13NfIKxrVYbFledWhoXY"
@@ -1241,10 +1433,28 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356973,
       "name": "The I Love You Song",
       "url": "https://open.spotify.com/track/6dqEr0TRaRjRZrDYkf3Kle"
+    },
+    {
+      "album": {
+        "name": "25th Annual Putnam County Spelling Bee",
+        "url": "https://open.spotify.com/album/1FMzRoNVVB7dMSgF1OmB5Y"
+      },
+      "artists": [
+        {
+          "name": "Original Broadway Cast Recording",
+          "url": "https://open.spotify.com/artist/43qpnCSCXefs3GzxOrWzdz"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356973,
+      "name": "The I Love You Song",
+      "url": "https://open.spotify.com/track/59KuNsg8HOBWDlco0wnJFp"
     },
     {
       "album": {
@@ -1391,10 +1601,32 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205040,
       "name": "Waiting for Life",
       "url": "https://open.spotify.com/track/0SIBJD3PsOMO1QiS3TI2xm"
+    },
+    {
+      "album": {
+        "name": "Once on This Island (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4Gbxn6WBheHhcMXTC8jIQs"
+      },
+      "artists": [
+        {
+          "name": "Hailey Kilgore",
+          "url": "https://open.spotify.com/artist/19Kv0f8vLqLo54a2h3OAig"
+        },
+        {
+          "name": "Once On This Island Storytellers",
+          "url": "https://open.spotify.com/artist/3CoXUJj9mSjynSVi2e9Ax4"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Waiting for Life",
+      "url": "https://open.spotify.com/track/1XS2iQd8STgEwI7ptzXnT0"
     },
     {
       "album": {

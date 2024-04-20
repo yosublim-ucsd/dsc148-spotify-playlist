@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 854011,
+  "2024-04-20": 853770,
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Nia Archives\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: [IVY]\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -355,6 +355,24 @@
       "duration_ms": 168457,
       "name": "All 4 U",
       "url": "https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5eAXhrI7B70r6wH7P3P2Fe"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5FUXuii2C6UdjHevv4yKsN"
     },
     {
       "album": {
@@ -841,7 +859,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175546,
       "name": "Back To Back (B2B)",
       "url": "https://open.spotify.com/track/0Ax0rAJqWrwJ7Tyib3dvUb"
@@ -1809,10 +1827,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253882,
       "name": "Bricks Don't Roll",
       "url": "https://open.spotify.com/track/1SBs5cEBLhTugiSHko2qx4"
+    },
+    {
+      "album": {
+        "name": "Bricks Don't Roll EP",
+        "url": "https://open.spotify.com/album/1AZ8vLtYLUJIt9J5daK7nK"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253882,
+      "name": "Bricks Don\u2019t Roll",
+      "url": "https://open.spotify.com/track/4z6EZHOpr51Il4K1aaG7xF"
     },
     {
       "album": {
@@ -9365,10 +9401,32 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145116,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+    },
+    {
+      "album": {
+        "name": "Pachamama (feat. Elliphant)",
+        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama (feat. Elliphant)",
+      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
     },
     {
       "album": {
@@ -10617,7 +10675,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198620,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/1b1U08Eqbx8f0QYyPTzqcU"
@@ -12221,6 +12279,24 @@
       "duration_ms": 270341,
       "name": "Take Me Up",
       "url": "https://open.spotify.com/track/2rLbzc5kJh5do9jgkwLP3x"
+    },
+    {
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183548,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg"
     },
     {
       "album": {

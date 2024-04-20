@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 78467,
+  "2024-04-20": 78450,
   "date_first_scraped": "2021-12-28",
   "description": "Selections of North Indian classical music.",
   "name": "Hindustani Classical",
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 1070438,
       "name": "Dhun Pahari",
       "url": "https://open.spotify.com/track/6MrK3tQ2yLbRtQYfPQ22uS"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1070438,
       "name": "Dhun Pahari (Live)",
       "url": "https://open.spotify.com/track/5TR882TjcZakJe7Hegd1Hy"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377331,
       "name": "Raag Bhairavi - Dadra - Rab Tohe Bhoole Nahi Bane",
       "url": "https://open.spotify.com/track/66KrLDDEDYpVKuCwK3WALo"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 377331,
       "name": "Raag Bhairavi - Dadra - Rab Tohe Bhoole Nahi Bane",
       "url": "https://open.spotify.com/track/7e8fqBJhN0n5tkfmZTvZFa"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 2294000,
       "name": "Rag Miya Ki Todi",
       "url": "https://open.spotify.com/track/1swbYA2tiIOZTRpqCfsQLv"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232906,
       "name": "Raga Madhmad Sarang",
       "url": "https://open.spotify.com/track/1cGxMjMc9GMR1RkB31Ogok"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1139493,
       "name": "Raga Madhmad Sarang",
       "url": "https://open.spotify.com/track/3WgE9t3PwHzoqYXJSPgKta"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232906,
       "name": "Raga Madhmad Sarang (Khyal in madhya lay teental)",
       "url": "https://open.spotify.com/track/5SotfPyX4aQ9ofdbG5HwCK"
@@ -1029,7 +1029,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1139493,
       "name": "Raga Madhmad Sarang (Tarana in drut teental - ektal)",
       "url": "https://open.spotify.com/track/48R84g299s8mIfiQU4WkXV"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 2294000,
       "name": "R\u0101g M\u012by\u0101 k\u012b Tod\u012b",
       "url": "https://open.spotify.com/track/3fTFxU65ADeMwBgyVX97YI"

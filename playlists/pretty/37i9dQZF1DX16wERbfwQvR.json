@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 75438,
+  "num_followers": 75424,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -1379,54 +1379,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": III. Menuet - Trio",
-      "url": "https://open.spotify.com/track/0ghvVQp9UnF1w77DQzwpkw"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
-        "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 383000,
-      "name": "Symphony No. 44 in E Minor, Hob. I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
-      "url": "https://open.spotify.com/track/2PauahNl6G2hhsBC96MQ8O"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Piano Sonatas Nos. 59-62",
         "url": "https://open.spotify.com/album/2Xz3e85jC2srbO0pRedhAT"
       },
@@ -1491,6 +1443,30 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": III. Menuet - Trio",
+      "url": "https://open.spotify.com/track/0ghvVQp9UnF1w77DQzwpkw"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Die Jahreszeiten (The Seasons)",
         "url": "https://open.spotify.com/album/4k87r7TxPNjUwo5SkkEqwZ"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 341893,
       "name": "Die Jahreszeiten (the Seasons), Hob. XXI:3: Der Fr\u00fchling [Spring]: Introduction and Recitative. Seht, wie der strenge Winter [Simon, Lukas, Hanne]",
       "url": "https://open.spotify.com/track/31rSq25KqkGfm1P0JRwLqQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
+        "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 383000,
+      "name": "Symphony No. 44 in E Minor, Hob. I:44, \"Trauersinfonie\" (Mourning): II. Menuet and trio",
+      "url": "https://open.spotify.com/track/2PauahNl6G2hhsBC96MQ8O"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn: Piano Trios, Vol. 2",
+        "url": "https://open.spotify.com/album/4KI5JhgzQqBWOEpOZoMUND"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Keyboard Trio No. 27 in C Major, Hob. XV:27: III. Finale. Presto",
+      "url": "https://open.spotify.com/track/4l6azBCTc584kPCK7VOo6w"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: Symphonies, Vol. 3 (Nos. 44, 88, 104)",
         "url": "https://open.spotify.com/album/7fRy0HksbgTw7XmxpkL1OE"
       },
@@ -1615,6 +1635,26 @@
       "duration_ms": 502000,
       "name": "Symphony No. 104 in D Major, Hob. I:104 \"London\": I. Adagio - Allegro",
       "url": "https://open.spotify.com/track/6lvWr4Ji1wXWPUTKO3c5rD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Trios, Vol. 1",
+        "url": "https://open.spotify.com/album/0WUtUbaq7c5UfMbHuTv2Cm"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Piano Trio in G Major, Hob. XV:25 \"Gypsy Rondo\": III. Rondo all'ongarese. Presto",
+      "url": "https://open.spotify.com/track/24bWKvHuyZMD0aJdFwkBGI"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1643,46 +1683,6 @@
       "duration_ms": 469133,
       "name": "Keyboard Concerto in D Major, Hob. XVIII:11: I. Vivace",
       "url": "https://open.spotify.com/track/2Voa5gb8xPPI3PyG165WBS"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios, Vol. 2",
-        "url": "https://open.spotify.com/album/4KI5JhgzQqBWOEpOZoMUND"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Keyboard Trio No. 27 in C Major, Hob. XV:27: III. Finale. Presto",
-      "url": "https://open.spotify.com/track/4l6azBCTc584kPCK7VOo6w"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn: Piano Trios, Vol. 1",
-        "url": "https://open.spotify.com/album/0WUtUbaq7c5UfMbHuTv2Cm"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Piano Trio in G Major, Hob. XV:25 \"Gypsy Rondo\": III. Rondo all'ongarese. Presto",
-      "url": "https://open.spotify.com/track/24bWKvHuyZMD0aJdFwkBGI"
     },
     {
       "added_at": "2022-07-29 04:01:00",

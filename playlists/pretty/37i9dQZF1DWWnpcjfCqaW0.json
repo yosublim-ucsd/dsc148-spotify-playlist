@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 288649,
+  "num_followers": 288602,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
+        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
+        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
+        },
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "A Dear John Letter",
+      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 113640,
       "name": "I Ain't Never - Single Version",
       "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
-        "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
-        "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Shepard",
-          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
-        },
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "A Dear John Letter",
-      "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 130893,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190653,
       "name": "Indian Love Call",
       "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 130893,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "The Nashville Dixielanders",
+          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Alabama Jubilee",
+      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
         "name": "20 Of His Best",
         "url": "https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0"
       },
@@ -1039,22 +1059,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "The Nashville Dixielanders",
-          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
+          "name": "Hank Snow & His Rainbow Ranch Boys",
+          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Alabama Jubilee",
-      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
+      "duration_ms": 175266,
+      "name": "I Don't Hurt Anymore - Remastered",
+      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Hank Snow & His Rainbow Ranch Boys",
-          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
         }
       ],
-      "duration_ms": 175266,
-      "name": "I Don't Hurt Anymore - Remastered",
-      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
+      "duration_ms": 192960,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "Heartbreak USA 1953-1962",
         "url": "https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 157146,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
     },
     {
       "added_at": "2024-03-18 20:17:22",
@@ -1191,38 +1207,6 @@
     {
       "added_at": "2024-03-18 20:17:22",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "How's the World Treating You",
-      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
-    },
-    {
-      "added_at": "2024-03-18 20:17:22",
-      "album": {
         "name": "16 Biggest Hits",
         "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 184040,
       "name": "Always Late (With Your Kisses)",
       "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
+    },
+    {
+      "added_at": "2024-03-18 20:17:22",
+      "album": {
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
     }
   ],
   "unique_name": "50s Country",

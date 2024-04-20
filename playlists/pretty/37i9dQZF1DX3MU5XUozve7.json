@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 922340,
+  "num_followers": 922099,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 127533,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Freedumb",
         "url": "https://open.spotify.com/album/272uyFl2Z35T3MPtHTg92C"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 109306,
       "name": "Cyco Vision",
       "url": "https://open.spotify.com/track/3I9K8tSZRsAw7bRYfbhJEA"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 127533,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 199944,
       "name": "Helena",
       "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/3HJcuW4PqFGNhM9TkCMkfC"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Dig Up Her Bones",
-      "url": "https://open.spotify.com/track/16MPZDpM5JTtIBs3pOMSWx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Turn The Radio Off",
         "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
       },
@@ -491,6 +459,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Road to Ruin (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 149466,
       "name": "I Wanna Be Sedated - 2002 Remaster",
       "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/3HJcuW4PqFGNhM9TkCMkfC"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Dig Up Her Bones",
+      "url": "https://open.spotify.com/track/16MPZDpM5JTtIBs3pOMSWx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 189706,
       "name": "Drain the Blood",
       "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
       "artists": [
         {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+      "duration_ms": 202106,
+      "name": "History Of A Boring Town",
+      "url": "https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Hard Times And Nursery Rhymes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 213173,
       "name": "Machine Gun Blues",
       "url": "https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "History Of A Boring Town",
-      "url": "https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Andiamo (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK"
+      },
+      "artists": [
+        {
+          "name": "Authority Zero",
+          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Some Freaks Of Atavism",
         "url": "https://open.spotify.com/album/57OucSQfWFUBLa0XZBJHnZ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 144786,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/75a66iUfwKdJb5n9juvXRI"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Andiamo (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/26DSJ5UgCat5UB3CPX7DlK"
-      },
-      "artists": [
-        {
-          "name": "Authority Zero",
-          "url": "https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3Aj9YBpLwMSqe55JNLhNQM"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "AC/DC CD",
+        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
+      },
+      "artists": [
+        {
+          "name": "The Chats",
+          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
+        }
+      ],
+      "duration_ms": 103548,
+      "name": "AC/DC CD",
+      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "hollywood sucks//",
         "url": "https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 153040,
       "name": "hollywood sucks//",
       "url": "https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "AC/DC CD",
-        "url": "https://open.spotify.com/album/7AkV4FSIs35jgf2dkWGNWL"
-      },
-      "artists": [
-        {
-          "name": "The Chats",
-          "url": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "AC/DC CD",
-      "url": "https://open.spotify.com/track/7quz7tumpgpHaywZaAgUcH"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "ROCKNROLL MACHINE",
+        "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Hurry Up & Die",
+      "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "SURVIVORS GUILT: THE MIXTAPE//",
         "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
       },
@@ -1495,54 +1511,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "ROCKNROLL MACHINE",
-        "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Hurry Up & Die",
-      "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Destroy To Create",
-        "url": "https://open.spotify.com/album/0pWHvqmpQ3thuQb9Bif5AB"
-      },
-      "artists": [
-        {
-          "name": "The Flatliners",
-          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "Fred's Got Slacks",
-      "url": "https://open.spotify.com/track/5GPrVZItFl0cxKNeRPDcPp"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183242,
-      "name": "All My Friends Are Nobodies",
-      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -1555,22 +1523,6 @@
       "duration_ms": 105826,
       "name": "Do The Paranoid Style",
       "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Heart Beats Pacific",
-        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
-      },
-      "artists": [
-        {
-          "name": "Banner Pilot",
-          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1591,18 +1543,34 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "State Of Discontent",
-        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
-          "name": "The Unseen",
-          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 171375,
-      "name": "Scream Out",
-      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
+      "duration_ms": 183242,
+      "name": "All My Friends Are Nobodies",
+      "url": "https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Heart Beats Pacific",
+        "url": "https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7"
+      },
+      "artists": [
+        {
+          "name": "Banner Pilot",
+          "url": "https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1619,6 +1587,38 @@
       "duration_ms": 131160,
       "name": "Failed Imagineer",
       "url": "https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "State Of Discontent",
+        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
+      },
+      "artists": [
+        {
+          "name": "The Unseen",
+          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Scream Out",
+      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Destroy To Create",
+        "url": "https://open.spotify.com/album/0pWHvqmpQ3thuQb9Bif5AB"
+      },
+      "artists": [
+        {
+          "name": "The Flatliners",
+          "url": "https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "Fred's Got Slacks",
+      "url": "https://open.spotify.com/track/5GPrVZItFl0cxKNeRPDcPp"
     }
   ],
   "unique_name": "Skatepark Punks",

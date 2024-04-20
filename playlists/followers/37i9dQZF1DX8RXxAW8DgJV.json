@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 57882,
+  "2024-04-20": 57892,
   "date_first_scraped": "2021-12-28",
   "description": "Come on Girls, it's Time to get Ready and Glow!\nCover : Rashi Khanna",
   "name": "GRWM Tamil",
@@ -73,7 +73,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243438,
       "name": "Aga Naga (From \"Ponniyin Selvan Part-2\")",
       "url": "https://open.spotify.com/track/2AU6aT9op6YzjOmsHOGOo0"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 243438,
       "name": "Aga Naga (From \u201cPonniyin Selvan Part-2\u201d)",
       "url": "https://open.spotify.com/track/4oUn3DozNxFnjxegR1GlkZ"
@@ -1189,10 +1189,36 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203052,
       "name": "Mainaru Vetti Katti",
       "url": "https://open.spotify.com/track/2kvn37700jHPUsRaAbVBFk"
+    },
+    {
+      "album": {
+        "name": "Mainaru Vetti Katti (From \"Dasara\") (Tamil)",
+        "url": "https://open.spotify.com/album/5aAOwRKsCpxhvsTZFExfTV"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203052,
+      "name": "Mainaru Vetti Katti",
+      "url": "https://open.spotify.com/track/1hSbtbX2cVbSyBVqoYHjSj"
     },
     {
       "album": {
@@ -1233,7 +1259,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 271339,
       "name": "Manmadhane Nee",
       "url": "https://open.spotify.com/track/0CkDv2V3FFhltON32OwE0x"
@@ -1299,7 +1325,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272135,
       "name": "Manmadhane Nee",
       "url": "https://open.spotify.com/track/65Ey2oJuyHPGWpwjVJ13kd"
@@ -1365,14 +1391,14 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/7dbzO881X6TVJST6EKhnDg"
     },
     {
       "album": {
-        "name": "Maruvaarthai (From \"Enai Noki Paayum Thota\")",
+        "name": "Maruvaarthai (From 'Enai Noki Paayum Thota')",
         "url": "https://open.spotify.com/album/52t86OJEvtWbYRUaA2ltEZ"
       },
       "artists": [
@@ -1383,7 +1409,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/4FyZDLPO1ErUjzwnLrCLTA"
@@ -1903,28 +1929,6 @@
     {
       "album": {
         "name": "Kavan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Sudarshan Ashok",
-          "url": "https://open.spotify.com/artist/0qx1y97ZpKS4VydjUGN0Rp"
-        }
-      ],
-      "date_added": "2021-06-24",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
-      "duration_ms": 274114,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m"
-    },
-    {
-      "album": {
-        "name": "Kavan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2xe8UP9JCeVFeprWWuQJFh"
       },
       "artists": [
@@ -1939,10 +1943,28 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274114,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4fOd87EwMLT1YlIKas0Zz3"
+    },
+    {
+      "album": {
+        "name": "Kavan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ymYftHMdnQda19BbdVuG9"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha,Sudarshan Ashok",
+          "url": "https://open.spotify.com/artist/5Uj9KvhWJBUZQpuTeHslo9"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274114,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4mDf0LNDfzT8w7S2nfix3m"
     },
     {
       "album": {
@@ -2101,7 +2123,7 @@
     {
       "album": {
         "name": "Saamy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2SEX0ZJdIoxmvAG07SBZpU"
+        "url": "https://open.spotify.com/album/7BUEH5n79XcNOrTVtmNhGj"
       },
       "artists": [
         {
@@ -2123,15 +2145,15 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": "2024-04-19",
       "duration_ms": 303424,
       "name": "Pudichirukku",
-      "url": "https://open.spotify.com/track/1pcaKy7y1TlW4QnQ1UDnZJ"
+      "url": "https://open.spotify.com/track/6fTKv76b9fXlf0KRgPQzIj"
     },
     {
       "album": {
         "name": "Saamy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7BUEH5n79XcNOrTVtmNhGj"
+        "url": "https://open.spotify.com/album/2SEX0ZJdIoxmvAG07SBZpU"
       },
       "artists": [
         {
@@ -2155,8 +2177,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 303424,
-      "name": "Pudichirukku",
-      "url": "https://open.spotify.com/track/6fTKv76b9fXlf0KRgPQzIj"
+      "name": "Pudichirukku (From \"Saamy\")",
+      "url": "https://open.spotify.com/track/1pcaKy7y1TlW4QnQ1UDnZJ"
     },
     {
       "album": {
@@ -2249,7 +2271,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/3c6Y3iJr3bm6utsdRcm30J"
@@ -2275,7 +2297,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 281440,
       "name": "Rowdy Baby",
       "url": "https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli"
@@ -2713,7 +2735,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/3Oh1zx6YSpHMk7R4grBIiI"
@@ -2749,10 +2771,32 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r"
+    },
+    {
+      "album": {
+        "name": "Sandakozhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3aNsjCLxmlZKjg2O0lUDpd"
+      },
+      "artists": [
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Srerayakoshi",
+          "url": "https://open.spotify.com/artist/0yfKQa4tqnvTdL3fBFIJnP"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262922,
+      "name": "Thavani Pootta",
+      "url": "https://open.spotify.com/track/3wydawoyVWid46mYMj1wdk"
     },
     {
       "album": {
@@ -2793,7 +2837,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263093,
       "name": "Thavani Pootta (From \"Sandakozhi\")",
       "url": "https://open.spotify.com/track/0CmXnoIhxUwHiaSQab2cnM"
@@ -3123,10 +3167,32 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324938,
       "name": "Verenna (Ivan Yaro)",
       "url": "https://open.spotify.com/track/1ehPUo1i2CYfbhLdyZTS9H"
+    },
+    {
+      "album": {
+        "name": "Minnalae",
+        "url": "https://open.spotify.com/album/5D43FdsC4l29brx9n6cjBn"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Harini",
+          "url": "https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324938,
+      "name": "Verenna (Ivan Yaro)",
+      "url": "https://open.spotify.com/track/1XTEmKvJNskIc72sfS4zNA"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10840,
+  "2024-04-20": 10858,
   "date_first_scraped": "2022-07-27",
   "description": "<a href=\"spotify:artist:3iT6d90Vy630068736OgW8\">Foxall</a>'s favorite tracks. Updated regularly. Curated by Foxall. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "Foxall's track IDs",
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
+      "date_removed": null,
       "duration_ms": 368585,
       "name": "Birds and Smoke",
       "url": "https://open.spotify.com/track/61r7nhS0hlGJeQXDHy58pL"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368585,
       "name": "Birds and Smoke",
       "url": "https://open.spotify.com/track/6gFvgBSlJFjC4pswZJKSx6"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249518,
       "name": "Canario",
       "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 249518,
       "name": "Canario",
       "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435986,
       "name": "Choo Choo",
       "url": "https://open.spotify.com/track/0mkyybNKehmvQ5RndDyF4a"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 435986,
       "name": "Choo Choo",
       "url": "https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295500,
       "name": "El Pelo De Oro",
       "url": "https://open.spotify.com/track/6QCXyaMzQNMdS8W7CFEsW7"
@@ -677,13 +677,13 @@
       },
       "artists": [
         {
-          "name": "J G B",
-          "url": "https://open.spotify.com/artist/27FeHe23RpMUBcll7ABPD1"
+          "name": "J g b",
+          "url": "https://open.spotify.com/artist/4WspJWVtgRgOU0FxfFsTGb"
         }
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 295500,
       "name": "El Pelo De Oro",
       "url": "https://open.spotify.com/track/6bk6vUU810kuRJAYYkSEtf"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 456000,
       "name": "Et\u00e8reo",
       "url": "https://open.spotify.com/track/2zvaBjNVbQg6AK2aAIRhrN"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456000,
       "name": "Et\u00e8reo",
       "url": "https://open.spotify.com/track/45CqvQq2htatUJ6Ujkfgt8"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387853,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/22fM5ewOY0suVq5teDadG0"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 387853,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/56XtbMA5QhHmlCyPUKG4Ii"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323571,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/2QhE4C2nl81K0rB8FkBIxs"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323571,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/7E0Z3vobykgsQiLqLXsJq5"
@@ -1201,10 +1201,36 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382528,
       "name": "Kubatur",
       "url": "https://open.spotify.com/track/1vmZrbwBInR048h5dSuh3t"
+    },
+    {
+      "album": {
+        "name": "Kubatur",
+        "url": "https://open.spotify.com/album/1rnXXsopFRvHLsHVr3Wlbz"
+      },
+      "artists": [
+        {
+          "name": "GFDF",
+          "url": "https://open.spotify.com/artist/3WPJZqRJt0MNV5GrL8acMH"
+        },
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        },
+        {
+          "name": "Kyong Sono",
+          "url": "https://open.spotify.com/artist/4zy5g7xdWMP1adk6zGHeVx"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382533,
+      "name": "Kubatur",
+      "url": "https://open.spotify.com/track/2ckzM18g8jahHLrOHAHU8u"
     },
     {
       "album": {
@@ -1605,7 +1631,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
@@ -1627,10 +1653,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
+    },
+    {
+      "album": {
+        "name": "Bottletop Presents Sound Affects Malmaison",
+        "url": "https://open.spotify.com/album/1fP8jjo19CieNqbO5W4aGz"
+      },
+      "artists": [
+        {
+          "name": "Honny & The Bees Band",
+          "url": "https://open.spotify.com/artist/0YBnqkQh876CwPLtT9XX69"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266333,
+      "name": "Psychedelic Woman - Bonobo Remix",
+      "url": "https://open.spotify.com/track/3xo3Pk9Prt92XW0rrGXnus"
     },
     {
       "album": {
@@ -1649,7 +1693,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266333,
       "name": "Psychedelic Woman - Bonobo Remix",
       "url": "https://open.spotify.com/track/2rAZqJ3uiy2jczTafnKP7y"
@@ -1685,7 +1729,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/5GvqeuJ8c9a3x5rmdjh0Mn"
@@ -1703,7 +1747,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327292,
       "name": "Pulse VI",
       "url": "https://open.spotify.com/track/63t4RxrpfUdVYJhr5Y91Yi"
@@ -1805,7 +1849,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/1sYbjIz5jBAqE8n9nbdDDI"
@@ -1827,7 +1871,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289502,
       "name": "Resiliencia",
       "url": "https://open.spotify.com/track/1wMRZU1sk3wiwsfb7oCCpd"
@@ -2017,7 +2061,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 438967,
       "name": "Spacehall",
       "url": "https://open.spotify.com/track/2qXWBjO9BNVURgc9tDJwmS"
@@ -2035,7 +2079,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438967,
       "name": "Spacehall",
       "url": "https://open.spotify.com/track/5OJ0wA7NmsFb69dlbPcfUh"
@@ -2221,7 +2265,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288000,
       "name": "Turbina De Amor",
       "url": "https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj"
@@ -2247,7 +2291,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Turbina De Amor",
       "url": "https://open.spotify.com/track/4tXimQ50rYCyyCCXvDrM74"
@@ -2357,7 +2401,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349584,
       "name": "Yet Another Day Thinking About You",
       "url": "https://open.spotify.com/track/5S1kDC5lrjqBXGrz2FIpxv"
@@ -2383,7 +2427,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 349584,
       "name": "Yet Another Day Thinking About You",
       "url": "https://open.spotify.com/track/3tkSTbgygIKhand5G6JzsS"
@@ -2419,7 +2463,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3"
@@ -2455,7 +2499,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/62l8penIChjWDiay8jDnzR"

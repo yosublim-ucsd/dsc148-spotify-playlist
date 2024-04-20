@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 28587,
+  "2024-04-20": 28590,
   "date_first_scraped": "2023-10-15",
   "description": "\u00a1Y regresaron las guitarras! Chetes en portada.",
   "name": "Pop Rock Latino",
@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Al menos ahora",
+        "url": "https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183342,
+      "name": "Al menos ahora",
+      "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
+    },
+    {
+      "album": {
         "name": "AAAAAA",
         "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
@@ -133,7 +151,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183342,
       "name": "Al Menos Ahora",
       "url": "https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR"
@@ -441,10 +459,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182920,
       "name": "d Bien a MaL",
       "url": "https://open.spotify.com/track/1uqvqTenUWtkmiq28mZcbB"
+    },
+    {
+      "album": {
+        "name": "d Bien a MaL",
+        "url": "https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182925,
+      "name": "d Bien a MaL",
+      "url": "https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A"
     },
     {
       "album": {
@@ -726,6 +762,24 @@
     },
     {
       "album": {
+        "name": "La Radio",
+        "url": "https://open.spotify.com/album/3gDnUMtlxFjzmCKRSHi5we"
+      },
+      "artists": [
+        {
+          "name": "The Fam",
+          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "La Radio",
+      "url": "https://open.spotify.com/track/6I3rExLgeUHOywZib48I9G"
+    },
+    {
+      "album": {
         "name": "Amor en Tiempos Modernos",
         "url": "https://open.spotify.com/album/0PgNKUnpukIOSFMszWueL7"
       },
@@ -737,7 +791,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "La Radio",
       "url": "https://open.spotify.com/track/7u5dWxjBLUGLZqYLwtvGPE"
@@ -827,10 +881,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194120,
       "name": "Lo Que un Hombre Deber\u00eda Saber",
       "url": "https://open.spotify.com/track/53xbvOgbt6aDHTudDBKGle"
+    },
+    {
+      "album": {
+        "name": "Lo Que un Hombre Deber\u00eda Saber",
+        "url": "https://open.spotify.com/album/1IZhaCBrPtsLlESO9W4bWi"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Lo Que un Hombre Deber\u00eda Saber",
+      "url": "https://open.spotify.com/track/6KR2BpnlHSze6xwPv1xQ4l"
     },
     {
       "album": {
@@ -849,7 +921,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213332,
       "name": "Los Monstruos Tambi\u00e9n Lloran",
       "url": "https://open.spotify.com/track/5Gk3d73hmPPEft3e8GbPHi"
@@ -871,7 +943,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 213332,
       "name": "Los Monstruos Tambi\u00e9n Lloran",
       "url": "https://open.spotify.com/track/7k9n7SRHk7t3Cq7KFKXOSL"
@@ -1881,6 +1953,24 @@
     {
       "album": {
         "name": "tu msj </3",
+        "url": "https://open.spotify.com/album/5X5querYnrK4tkBaKLsyYO"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155327,
+      "name": "tu msj </3",
+      "url": "https://open.spotify.com/track/0TaF4Nl8YKT0H0D2bb2M8B"
+    },
+    {
+      "album": {
+        "name": "tu msj </3",
         "url": "https://open.spotify.com/album/6sUGlx9tJ3kETwd1FMPuqd"
       },
       "artists": [
@@ -1891,7 +1981,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155327,
       "name": "tu msj </3",
       "url": "https://open.spotify.com/track/497fZBvcAz16YKhoMPYnlP"

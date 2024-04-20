@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 98448,
+  "2024-04-20": 98449,
   "date_first_scraped": "2021-12-21",
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
   "name": "This Is Wagner",
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 105360,
       "name": "Das Rheingold, WWV 86A, Scene 4: Abendlich strahlt der Sonne Auge (Live)",
       "url": "https://open.spotify.com/track/2eRxuKaWG2FJy6Q5FuquT2"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105360,
       "name": "Das Rheingold, WWV 86A, Scene 4: Scene 4: Abendlich strahlt der Sonne Auge (Wotan)",
       "url": "https://open.spotify.com/track/0R5AmHvOSbLhn4UNgjVbbB"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 690400,
       "name": "Der fliegende Hollander (The Flying Dutchman): Ouverture",
       "url": "https://open.spotify.com/track/6SUeMVnnp4JJjNYdQjhoey"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1026359,
       "name": "Die Meistersinger von Nurnberg (The Mastersingers of Nuremberg), Act III: Finale",
       "url": "https://open.spotify.com/track/3kr6jTNREvgPyGg7EDTPPL"
@@ -229,138 +229,10 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1022960,
       "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
       "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
-    },
-    {
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 435106,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 1, Scene 2: Der Meister T\u00f6n' und Weisen",
-      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
-    },
-    {
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 238106,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 2, Scene 1: Johannistag! Hohannistag!",
-      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
-    },
-    {
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bernd Weikl",
-          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
-        },
-        {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 322400,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 3, Scene 2: \"Abendlich gl\u00fchend in himmlischer Pracht\"",
-      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
-    },
-    {
-      "album": {
-        "name": "Wagner: Die Meistersinger",
-        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 345840,
-      "name": "Die Meistersinger von N\u00fcrnberg, Act 3: Prelude (Orchester)",
-      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
     },
     {
       "album": {
@@ -463,7 +335,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 583786,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
       "url": "https://open.spotify.com/track/3D7bf4mpDcyRNpCuzDGPGh"
@@ -489,7 +361,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 583786,
       "name": "Die Meistersinger von N\u00fcrnberg, WWV 96: Overture",
       "url": "https://open.spotify.com/track/41bZLobGbA6vSSrVFLAEui"
@@ -523,7 +395,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249173,
       "name": "Die Walk\u00fcre / Dritter Aufzug: \"Hier bin ich, Vater\"",
       "url": "https://open.spotify.com/track/1DfCdVh1ydSZByF1QnXR6u"
@@ -581,7 +453,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 505000,
       "name": "Die Walk\u00fcre / Dritter Aufzug: \"Hojotoho! Heiaha!\"",
       "url": "https://open.spotify.com/track/3CIWCPLeDYRZTrmAUGLw4k"
@@ -611,7 +483,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138840,
       "name": "Die Walk\u00fcre / Dritter Aufzug: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
       "url": "https://open.spotify.com/track/4L8vnna2HSB5pNTaYTJW7p"
@@ -645,7 +517,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242306,
       "name": "Die Walk\u00fcre / Erster Aufzug: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
       "url": "https://open.spotify.com/track/4IdGIE4dqgJYisbTek67Nb"
@@ -671,7 +543,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196000,
       "name": "Die Walk\u00fcre / Erster Aufzug: Orchestervorspiel",
       "url": "https://open.spotify.com/track/1YzcrcgR3T2RwAZg5tSvYP"
@@ -773,9 +645,9 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242550,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Wes Herd dies auch, hier mu\u00df ich rasten\"",
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Wes Herd dies auch, hier mu\u00df ich rasten\" - Remastered 2012",
       "url": "https://open.spotify.com/track/6f5EgLutvqBPnBOAFKhEjd"
     },
     {
@@ -799,9 +671,9 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195753,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 1: Orchestervorspiel",
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: Orchestervorspiel - Remastered 2012",
       "url": "https://open.spotify.com/track/2tn9Hf5ErsHvhDFKZFaqqm"
     },
     {
@@ -859,9 +731,9 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249265,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\"",
+      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hier bin ich, Vater\" - Remastered 2012",
       "url": "https://open.spotify.com/track/2MmgNZf4BX1iTA7zIoGOCI"
     },
     {
@@ -917,9 +789,9 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 504998,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hojotoho! Heiaha!\"",
+      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Hojotoho! Heiaha!\" - Remastered 2012",
       "url": "https://open.spotify.com/track/0aStTOTxkS2vFyqJOfPf3d"
     },
     {
@@ -947,9 +819,9 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138768,
-      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Leb wohl, du k\u00fchnes, herrliches Kind\"",
+      "name": "Die Walk\u00fcre, WWV 86B / Act 3: \"Leb wohl, du k\u00fchnes, herrliches Kind\" - Remastered 2012",
       "url": "https://open.spotify.com/track/3JjGDVzq9HKgDJhdf3V4nE"
     },
     {
@@ -980,36 +852,6 @@
     },
     {
       "album": {
-        "name": "Wagner: Overtures - Marches - Symphony in E - Siegfried Idyll",
-        "url": "https://open.spotify.com/album/0BUSvjw6zfhn0kPri8A32R"
-      },
-      "artists": [
-        {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
-        },
-        {
-          "name": "Philadelphia Orchestra/Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/1pxKIUupA3Frue02tJp5uU"
-        },
-        {
-          "name": "Wolfgang Sawallisch",
-          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        }
-      ],
-      "date_added": "2021-10-29",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 763226,
-      "name": "Eine Faust-Ouvert\u00fcre",
-      "url": "https://open.spotify.com/track/26zgOGJ3HqyB7klpPGE4kb"
-    },
-    {
-      "album": {
         "name": "Wagner Hits",
         "url": "https://open.spotify.com/album/20DnQOZm8Fg9RlZqsdwlLr"
       },
@@ -1029,7 +871,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 763226,
       "name": "Eine Faust-Ouvert\u00fcre, WWV. 59",
       "url": "https://open.spotify.com/track/2ToS2T6KkOuj0SQN83XwsA"
@@ -1081,7 +923,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409786,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Siegfrieds Trauermarsch",
       "url": "https://open.spotify.com/track/1VW4dglkO39w8nfmpeAnud"
@@ -1107,7 +949,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 409786,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Siegfrieds Trauermarsch",
       "url": "https://open.spotify.com/track/6JmduA0I9QYtD1RiHQgWjj"
@@ -1133,7 +975,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167560,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
       "url": "https://open.spotify.com/track/0Pe9MWkG9q4mDeWAI77JlE"
@@ -1159,7 +1001,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167560,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Act III: Vorspiel",
       "url": "https://open.spotify.com/track/1h1ypKTi53NeU94O8xdBzI"
@@ -1237,7 +1079,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309053,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
       "url": "https://open.spotify.com/track/5ho9ShMe6OLEpJHAR1lUnQ"
@@ -1263,7 +1105,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309053,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Siegfrieds Rheinfahrt",
       "url": "https://open.spotify.com/track/5loYnrcJ1XTIbs0MXKntlr"
@@ -1289,7 +1131,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139293,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Vorspiel",
       "url": "https://open.spotify.com/track/2tqpGVikpyctXRMaLMa2Qb"
@@ -1315,7 +1157,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 139293,
       "name": "G\u00f6tterd\u00e4mmerung, WWV 86D, Prologue: Vorspiel",
       "url": "https://open.spotify.com/track/4TYGGH9PYjjyNI5CzK2u44"
@@ -1367,7 +1209,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Lohengrin, Act III: Prelude",
       "url": "https://open.spotify.com/track/2H4ebPbSQ1NqOYOUU5D2VM"
@@ -1393,7 +1235,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151666,
       "name": "Lohengrin, Act III: Prelude",
       "url": "https://open.spotify.com/track/3MZIf4i9hAEPMYNu0Gbl77"
@@ -1567,7 +1409,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 596000,
       "name": "Lohengrin: Prelude",
       "url": "https://open.spotify.com/track/2x6mect1PKsrxXmsg2O23B"
@@ -1593,7 +1435,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 596000,
       "name": "Lohengrin: Prelude",
       "url": "https://open.spotify.com/track/5NQ41wfi4Pykv4eDTlAoIs"
@@ -1627,7 +1469,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321120,
       "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
       "url": "https://open.spotify.com/track/0lQPorDUzsJJ20gdXt8Sc2"
@@ -1661,7 +1503,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321120,
       "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
       "url": "https://open.spotify.com/track/77Vw9pWmr1T9V9cs1RuU6l"
@@ -1719,7 +1561,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289626,
       "name": "Parsifal / Act 2: \"Komm, holder Knabe!\"",
       "url": "https://open.spotify.com/track/0llxF5eXpRCLncvKnV5RdU"
@@ -1835,7 +1677,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290733,
       "name": "Parsifal / Act 2: \"Komm, holder Knabe!\"",
       "url": "https://open.spotify.com/track/6ztMA5J0jPb6kRBJE3RSyg"
@@ -1869,7 +1711,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176800,
       "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
       "url": "https://open.spotify.com/track/0K3gfWWq17A9DQiy1NhIx3"
@@ -1903,7 +1745,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "Parsifal / Act 3: \"Wie d\u00fcnkt mich doch die Aue heut so sch\u00f6n\" - Karfreitagszauber",
       "url": "https://open.spotify.com/track/4YdLA4kxmuaJEMhXOYfbHD"
@@ -1921,7 +1763,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 672226,
       "name": "Parsifal Wagner - Good Friday Spell",
       "url": "https://open.spotify.com/track/2BUAMUzW0PMPeY4AHbhVi0"
@@ -1985,7 +1827,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1430120,
       "name": "Parsifal, Act I: The Journey to Montsalvat (the Castle of the Guardians of the Grail)",
       "url": "https://open.spotify.com/track/0TJng3UXAI0u7eyiD201eg"
@@ -2049,7 +1891,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 672493,
       "name": "Parsifal, Act III: Good Friday Spell",
       "url": "https://open.spotify.com/track/7rarGAvKNJNzy4ryR2oro5"
@@ -2075,7 +1917,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 624653,
       "name": "Parsifal, Prelude to Act I",
       "url": "https://open.spotify.com/track/3M7eO8yERmLBSnTpg3p3RV"
@@ -2229,7 +2071,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1428440,
       "name": "Parsifal: Act I: The Journey to Montsalvat",
       "url": "https://open.spotify.com/track/0JmkPDDSgsB6oILTtsQpFB"
@@ -2255,7 +2097,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 624653,
       "name": "Parsifal: Prelude to Act I",
       "url": "https://open.spotify.com/track/67JXD5szpPe6dGyQMR3tmE"
@@ -2281,7 +2123,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1166520,
       "name": "Siegfried Idyll, WWV 103",
       "url": "https://open.spotify.com/track/2Pv8x9h2XxsMtnOsLxwHG9"
@@ -2307,7 +2149,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1166520,
       "name": "Siegfried Idyll, WWV 103",
       "url": "https://open.spotify.com/track/78GbhkxAc3BY3YHUe3Exyh"
@@ -2359,7 +2201,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247226,
       "name": "Siegfried, WWV 86C, Act I: Prelude",
       "url": "https://open.spotify.com/track/1wMmEouKNGgAWlCUwf1FMf"
@@ -2385,7 +2227,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247226,
       "name": "Siegfried, WWV 86C, Act I: Prelude",
       "url": "https://open.spotify.com/track/7yYMZNTvsJnFLjij7uc8GN"
@@ -2411,7 +2253,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318266,
       "name": "Siegfried, WWV 86C, Act II: Prelude",
       "url": "https://open.spotify.com/track/0Ta5BZyrvDF1IUSSuMDIYR"
@@ -2437,7 +2279,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 318266,
       "name": "Siegfried, WWV 86C, Act II: Prelude",
       "url": "https://open.spotify.com/track/5mGFLrN7GuOwuXejBnZBr2"
@@ -2505,7 +2347,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275520,
       "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
       "url": "https://open.spotify.com/track/2omc5qLAW5UXDXSAtPhvAj"
@@ -2539,7 +2381,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275520,
       "name": "Siegfried, WWV 86C, Act III: Ewig war ich, ewig bin ich",
       "url": "https://open.spotify.com/track/55kKLI0NFSkjHoDKftn1vd"
@@ -2573,7 +2415,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406773,
       "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
       "url": "https://open.spotify.com/track/2kcP9HDR2cvVZ8VpM87oW8"
@@ -2607,7 +2449,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 406773,
       "name": "Siegfried, WWV 86C, Act III: Siegfried! Siegfried! Seliger Held!",
       "url": "https://open.spotify.com/track/3Qi23PJACRZ8zv6G8IvBGS"
@@ -2771,7 +2613,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 428040,
       "name": "Tannhauser, Act II: Entrance of the Guests",
       "url": "https://open.spotify.com/track/49AlzX6xEt4s9NSS9jrjd9"
@@ -2797,7 +2639,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 428040,
       "name": "Tannhauser, Act II: Entrance of the Guests",
       "url": "https://open.spotify.com/track/7goxLsl3NjiAOmujpZtFWz"
@@ -2823,7 +2665,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 441000,
       "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
       "url": "https://open.spotify.com/track/0AtB50yvbfslJAoMzRvbEq"
@@ -2849,7 +2691,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 441000,
       "name": "Tannhauser, Introduction to Act III: Tannhauser's Pilgrimage",
       "url": "https://open.spotify.com/track/1EcnbSpPj7wEl17UxYltCj"
@@ -2875,7 +2717,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 588573,
       "name": "Tannhauser: Overture",
       "url": "https://open.spotify.com/track/4T3CZlXuRdHeepx6py28Cx"
@@ -2927,7 +2769,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 740360,
       "name": "Tannhauser: Venusberg Music",
       "url": "https://open.spotify.com/track/6yMaPPKnArGWWMhD9w2VrZ"
@@ -2953,7 +2795,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 740360,
       "name": "Tannhauser: Venusberg Music",
       "url": "https://open.spotify.com/track/7dVg4xa3NozZyuBhXkfa94"
@@ -3091,7 +2933,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 588573,
       "name": "Tannh\u00e4user: Overture",
       "url": "https://open.spotify.com/track/3unWPBGwz2TRj5y3AnBSG4"
@@ -3141,7 +2983,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 690400,
       "name": "The Flying Dutchman: Ouverture",
       "url": "https://open.spotify.com/track/2IKELoWcXtdUEVRCAuNjEP"
@@ -3339,7 +3181,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 329146,
       "name": "Tristan und Isolde, WWV 90, Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/4cgx0zIWlLYXCXphMlFEzG"
@@ -3401,7 +3243,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329146,
       "name": "Tristan und Isolde: Act I Scene 3: O Wunder! Wo hatt' ich die Augen? (Brangane, Tristan)",
       "url": "https://open.spotify.com/track/0spYUmbD692XiXXJvYEmIj"
@@ -3449,7 +3291,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 288080,
       "name": "Wagner: Albumblatt, WWV 94",
       "url": "https://open.spotify.com/track/1W5SymmrW0o9qU0nh1vYos"
@@ -3471,10 +3313,48 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288080,
       "name": "Wagner: Albumblatt, WWV 94",
       "url": "https://open.spotify.com/track/2knQh45joDt2zR8rDkJUrA"
+    },
+    {
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper",
+          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
+        },
+        {
+          "name": "Deon Van Der Walt",
+          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
+      "url": "https://open.spotify.com/track/3Ok9NLhvrbvWouDJxDcc1t"
     },
     {
       "album": {
@@ -3509,7 +3389,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435106,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 1: \"Der Meister T\u00f6n' und Weisen\" - \"Damit, Herr Ritter\" (David, Walther, Chor)",
       "url": "https://open.spotify.com/track/4opFhqVqx53vQnVgK3oIic"
@@ -3551,10 +3431,52 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238106,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
       "url": "https://open.spotify.com/track/4WuubL0pYhkgFKqNG9wHmI"
+    },
+    {
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper",
+          "url": "https://open.spotify.com/artist/5g4WilZVBOItHcnlLjk5qd"
+        },
+        {
+          "name": "Cornelia Kallisch",
+          "url": "https://open.spotify.com/artist/3wZsZF3NmiMeCqPfPImm8R"
+        },
+        {
+          "name": "Deon Van Der Walt",
+          "url": "https://open.spotify.com/artist/4iWBSLtIJ0PnHuzzjYHcQQ"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238106,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 2: \"Johannistag! Johannistag!\" (Chor, David, Magdalena, Sachs)",
+      "url": "https://open.spotify.com/track/57ZtBjJAy0KQ2Zw2YykA70"
     },
     {
       "album": {
@@ -3585,10 +3507,70 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322400,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
       "url": "https://open.spotify.com/track/0zzSE9MvMGhrA8xsy8nYJR"
+    },
+    {
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Bernd Weikl",
+          "url": "https://open.spotify.com/artist/5nY7mDEcrnJrozI1egEYo8"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322400,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: \"Abendlich gl\u00fchend in himmlischer Pracht\" (Walther, Sachs)",
+      "url": "https://open.spotify.com/track/4gwww7tibGdSESNCMtB30R"
+    },
+    {
+      "album": {
+        "name": "Wagner: Die Meistersinger",
+        "url": "https://open.spotify.com/album/1UmHT2OLs2m32eU6Fg8o2V"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345840,
+      "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
+      "url": "https://open.spotify.com/track/2pQdZKD3zuOfQKRYjMFjf3"
     },
     {
       "album": {
@@ -3611,10 +3593,36 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345840,
       "name": "Wagner: Die Meistersinger von N\u00fcrnberg, Act 3: Prelude",
       "url": "https://open.spotify.com/track/58UIVzDAEgoergclBlyr4M"
+    },
+    {
+      "album": {
+        "name": "Wagner: Overtures - Marches - Symphony in E - Siegfried Idyll",
+        "url": "https://open.spotify.com/album/0BUSvjw6zfhn0kPri8A32R"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wolfgang Sawallisch",
+          "url": "https://open.spotify.com/artist/4VFBTPFWvhecBc2BWYOQkF"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 763226,
+      "name": "Wagner: Eine Faust-Ouvert\u00fcre",
+      "url": "https://open.spotify.com/track/26zgOGJ3HqyB7klpPGE4kb"
     },
     {
       "album": {
@@ -3671,7 +3679,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191960,
       "name": "Wesendonck Lieder, WWV 91: Der Engel",
       "url": "https://open.spotify.com/track/19vO5SGuRIzG8bHpgnTHee"
@@ -3701,7 +3709,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191960,
       "name": "Wesendonck Lieder, WWV 91: Der Engel",
       "url": "https://open.spotify.com/track/1mtAr7Xmo6OB1enxCfKYiw"

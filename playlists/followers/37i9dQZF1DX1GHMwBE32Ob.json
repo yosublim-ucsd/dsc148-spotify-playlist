@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 51301,
+  "2024-04-20": 51388,
   "date_first_scraped": "2022-12-01",
   "description": "From the trenches. Through the streets.\nCover: Shallipopi",
   "name": "Street Energy ",
@@ -61,6 +61,24 @@
       "duration_ms": 142080,
       "name": "2000",
       "url": "https://open.spotify.com/track/6gWzjoe48XfqcE1JrsupMk"
+    },
+    {
+      "album": {
+        "name": "2am For Lekki",
+        "url": "https://open.spotify.com/album/1lVEzeF5hoXaqyf45BPAGL"
+      },
+      "artists": [
+        {
+          "name": "DJ Xclusive",
+          "url": "https://open.spotify.com/artist/6eYjM3EJ2ux62CjigGQIiU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124210,
+      "name": "2am For Lekki",
+      "url": "https://open.spotify.com/track/4JEUXVuNeR22Qwew8tFx9B"
     },
     {
       "album": {
@@ -228,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Alhamdulillah",
+        "url": "https://open.spotify.com/album/1V2eHcLypl1r0RcNfhNfxJ"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135091,
+      "name": "Alhamdulillah",
+      "url": "https://open.spotify.com/track/0iQbrllM4TkC8BQrk155sx"
+    },
+    {
+      "album": {
         "name": "Am I a Yahoo Boy",
         "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
       },
@@ -323,7 +359,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Ara (Gen Gen Tin)",
       "url": "https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU"
@@ -1043,7 +1079,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160982,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
@@ -1083,10 +1119,32 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
     },
     {
       "album": {
@@ -1327,7 +1385,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/5O7fTE396BVFRTkQv5ENSo"
@@ -1671,6 +1729,28 @@
     {
       "album": {
         "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179485,
+      "name": "Giza (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
@@ -1685,7 +1765,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz"
@@ -1867,6 +1947,24 @@
       "duration_ms": 176526,
       "name": "HBP Remix",
       "url": "https://open.spotify.com/track/5oxaJpMQCijHqwTduLq6Fr"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses (Ultra)",
+        "url": "https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "HOV",
+      "url": "https://open.spotify.com/track/2naOhWJptgRLoSn85MBxRh"
     },
     {
       "album": {
@@ -2637,7 +2735,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144000,
       "name": "Man of The Year",
       "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
@@ -3055,7 +3153,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157230,
       "name": "Off The Planet (OTP)",
       "url": "https://open.spotify.com/track/6d7Y7oakb02D3Ijq8Emgeu"
@@ -3335,7 +3433,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 124069,
       "name": "P.P.P (Puff Puff Pass)",
       "url": "https://open.spotify.com/track/75KOIUWqG81Qzlkm0XEqNi"
@@ -3771,7 +3869,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130873,
       "name": "Sere (feat. Tega boi dc)",
       "url": "https://open.spotify.com/track/5hU61pgNrTLnAdJORwv5Nd"
@@ -4087,7 +4185,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 132257,
       "name": "Tiff",
       "url": "https://open.spotify.com/track/5jdJ6Flvi1ep0mpnWKa04R"
@@ -4457,7 +4555,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144065,
       "name": "Wire",
       "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"

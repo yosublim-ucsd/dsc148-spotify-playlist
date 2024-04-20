@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 82749,
+  "2024-04-20": 82780,
   "date_first_scraped": "2022-05-26",
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Ambar Lucid",
   "name": "Lento.",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259586,
       "name": "Alma M\u00eda (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 165586,
       "name": "Amor En Cuarentena",
       "url": "https://open.spotify.com/track/2siIxRukc4AFw9rxeE9La8"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 208004,
       "name": "Bohemio",
       "url": "https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170520,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 279824,
       "name": "D\u00e9jame Conocerte",
       "url": "https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR"
@@ -910,7 +910,7 @@
     },
     {
       "album": {
-        "name": "Enemigo (Ac\u00fastico)",
+        "name": "Enemigo Noches De Sal\u00f3n",
         "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },
       "artists": [
@@ -921,9 +921,9 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 242840,
-      "name": "Enemigo (Ac\u00fastico)",
+      "name": "Enemigo Noches De Sal\u00f3n - Noches De Sal\u00f3n",
       "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
     },
     {
@@ -1537,7 +1537,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226973,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
@@ -1781,7 +1781,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104273,
       "name": "que te ped\u00ed//",
       "url": "https://open.spotify.com/track/2qS9IaT9KBShx2xn1CqYMC"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228875,
       "name": "Seguir Vivo No Es Vivir",
       "url": "https://open.spotify.com/track/24jRdELbkS9YkBiaOZs60Q"
@@ -2139,7 +2139,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 234128,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
@@ -2255,7 +2255,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 206546,
       "name": "Tengo Algo Que Decirte",
       "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243253,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 495351,
+  "2024-04-20": 495271,
   "date_first_scraped": "2022-04-09",
   "description": "Summer memories from yesteryear!",
   "name": "Summer Throwbacks (2)",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138013,
       "name": "Are You With Me - Radio Edit",
       "url": "https://open.spotify.com/track/2glGP8kEfACgJdZ86kWxhN"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138842,
       "name": "Are You With Me - Radio Edit",
       "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/3jvpPbTJqfyKvEOtOsn83m"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200720,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
@@ -291,24 +291,6 @@
     {
       "album": {
         "name": "Me 4 U",
-        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        }
-      ],
-      "date_added": "2021-05-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180560,
-      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
-      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
-    },
-    {
-      "album": {
-        "name": "Me 4 U",
         "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
       },
       "artists": [
@@ -323,10 +305,28 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180565,
-      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "album": {
+        "name": "Me 4 U",
+        "url": "https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        }
+      ],
+      "date_added": "2021-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 180560,
+      "name": "Cheerleader - Felix Jaehn Remix Radio Edit",
+      "url": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "album": {
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223111,
       "name": "Destination Calabria (Feat. Crystal Waters) - Original Radio Edit",
       "url": "https://open.spotify.com/track/2QMdxS78DaXP8aS8qJqGzU"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255413,
       "name": "Drop The Pressure",
       "url": "https://open.spotify.com/track/243NB0yDHxtapXQvJvCaW6"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255600,
       "name": "Drop the Pressure",
       "url": "https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230133,
       "name": "Flowers - Sunship Edit",
       "url": "https://open.spotify.com/track/2Np6ZbVFXfhlk3Oin6i92t"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Flowers - Sunship Radio Edit",
       "url": "https://open.spotify.com/track/1IqANTbvKLojRoomq685LA"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195000,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3tTTXMayU66XxxXqMV88jQ"
@@ -799,13 +799,13 @@
           "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
         },
         {
-          "name": "Ms D",
-          "url": "https://open.spotify.com/artist/0vLuSGSqHYveeNnOt3HwWF"
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
         }
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194880,
       "name": "Heatwave (feat. Ms D)",
       "url": "https://open.spotify.com/track/1DvUeh7ecFoLygFTpXrCMx"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197933,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199226,
       "name": "I Took A Pill In Ibiza - Seeb Remix",
       "url": "https://open.spotify.com/track/7vfWgVGiLgnGbInU5lvSQg"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230800,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/3y540Z9QFePg2CyZYWZMyI"
@@ -1079,10 +1079,46 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232200,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/0OPchq4bHgKDaJUBJFITgy"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2021-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213423,
+      "name": "King",
+      "url": "https://open.spotify.com/track/6pIZ0u32c2Lku8PmCWtnMy"
+    },
+    {
+      "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2021-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3p6u2A85mjpENdBs4cnWR4"
     },
     {
       "album": {
@@ -1097,28 +1133,10 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215360,
       "name": "King",
       "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
-    },
-    {
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/0OPchq4bHgKDaJUBJFITgy"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "date_added": "2021-05-16",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 213423,
-      "name": "King",
-      "url": "https://open.spotify.com/track/6pIZ0u32c2Lku8PmCWtnMy"
     },
     {
       "album": {
@@ -1140,24 +1158,6 @@
     },
     {
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "date_added": "2021-05-16",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3p6u2A85mjpENdBs4cnWR4"
-    },
-    {
-      "album": {
         "name": "AJ Tracey",
         "url": "https://open.spotify.com/album/45UWSDr4RrFAwNfqiFelNj"
       },
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190537,
       "name": "Ladbroke Grove",
       "url": "https://open.spotify.com/track/7AODNxFNPnKaz4hURLzw5l"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190537,
       "name": "Ladbroke Grove",
       "url": "https://open.spotify.com/track/7b4ky1LlQLFhXHmhZkFgqV"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190773,
       "name": "LDN",
       "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192333,
       "name": "LDN",
       "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176561,
       "name": "Lean On (feat. M\u00d8 & DJ Snake)",
       "url": "https://open.spotify.com/track/1XvmEgl5DqZ04izEaG4icb"
@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232240,
       "name": "Long Hot Summer",
       "url": "https://open.spotify.com/track/27Pg2JZoKkElCjsF5q3MH9"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232240,
       "name": "Long Hot Summer",
       "url": "https://open.spotify.com/track/5QECicv5AXEIRIxTPN3SEQ"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204892,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/77gYpyxmd4b4VXw6qeuPJR"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204105,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/7iee007QypdrTXbLVF5KuF"
@@ -1559,7 +1559,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181826,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6"
@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181826,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/7cGfrVoC7G03XeXn7yflx5"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194986,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/2N3vhJx8MAtRAxQyRetBn3"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195105,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/6HTprulGfeFVrLLvfi3t8a"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216173,
       "name": "Mysterious Girl",
       "url": "https://open.spotify.com/track/0Uv7XAvLM1WH3evBVEDg2V"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217106,
       "name": "Mysterious Girl - Radio Edit",
       "url": "https://open.spotify.com/track/7cCzSH5a9anuuPoXirk2iR"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1wgqttlPacpvmX5DKVboOa"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0TVV2gFROJaB3kIZyCUvIY"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
@@ -2005,7 +2005,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Red Alert",
       "url": "https://open.spotify.com/track/2S5CHSeaE3s6zCePzAHJuH"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "Red Alert - Jaxx Radio Mix",
       "url": "https://open.spotify.com/track/0Z3Y5cWOPaXIBI08KKDVTO"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K"
@@ -2215,7 +2215,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265533,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212893,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/6oWpGuwokWJ4EcWgVQPdUt"
@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235850,
       "name": "Sunchyme",
       "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
@@ -2417,7 +2417,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237106,
       "name": "Sunchyme - Radio Edit; 2012 Remaster",
       "url": "https://open.spotify.com/track/5NxPTNAzmrzBl7DHFgrgar"
@@ -2439,14 +2439,14 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180646,
       "name": "Sunshine (feat. Dan Harkna) - Radio Edit",
       "url": "https://open.spotify.com/track/3jbsz68DZXoqTlCz0n05xn"
     },
     {
       "album": {
-        "name": "Sunshine (Radio Edit)",
+        "name": "Sunshine (feat. Dan Harkna) [Radio Edit]",
         "url": "https://open.spotify.com/album/6zXxLhGvIqsm9ThiY81lmQ"
       },
       "artists": [
@@ -2461,9 +2461,9 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180646,
-      "name": "Sunshine - Radio Edit",
+      "name": "Sunshine (feat. Dan Harkna) - Radio Edit",
       "url": "https://open.spotify.com/track/51MsIjtqDtQa36mYh1VaqZ"
     },
     {
@@ -2479,7 +2479,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226546,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH"
@@ -2533,7 +2533,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "Sweat (A La La La La Long)",
       "url": "https://open.spotify.com/track/1nXTM2CVdaoCySSD5kgt3J"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
@@ -2689,7 +2689,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/60e1nB8fP9h4Yw44sIfeQx"
@@ -2725,7 +2725,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/1wvl4RRQSxLD6sMIGvYLsX"
@@ -2743,7 +2743,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212695,
       "name": "Turn Around (Hey What's Wrong With You)",
       "url": "https://open.spotify.com/track/60qbU5QgEnzBqUfXSUh0mc"
@@ -2841,7 +2841,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201773,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
@@ -2863,7 +2863,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 202626,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
@@ -2925,7 +2925,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs"
@@ -2947,7 +2947,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208133,
       "name": "Waves - Robin Schulz Radio Edit",
       "url": "https://open.spotify.com/track/5Sf3GyLEAzJXxZ5mbCPXTu"
@@ -2991,7 +2991,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB"
@@ -3013,7 +3013,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
@@ -3031,7 +3031,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/3pzjHKrQSvXGHQ98dx18HI"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
@@ -3107,7 +3107,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
@@ -3129,7 +3129,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/77FULy278MulVvGWS8BfK7"

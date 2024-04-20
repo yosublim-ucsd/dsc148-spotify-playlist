@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 386642,
+  "2024-04-20": 386587,
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass. Cover: SLANDER & Trivecta",
+  "description": "Future & melodic bass. Cover: NURKO",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -903,7 +903,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux"
@@ -1368,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "Future Unfold",
+        "url": "https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w"
+    },
+    {
+      "album": {
         "name": "Call It Quits (feat. Danni Carra)",
         "url": "https://open.spotify.com/album/735ZTy17ECMFUje6WSi3tS"
       },
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96004,
       "name": "catalyst",
       "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271058,
       "name": "Drown - Blanke Remix",
       "url": "https://open.spotify.com/track/7fVply1kBn4HaUtDbJKhpo"
@@ -3887,7 +3905,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208500,
       "name": "Fractured",
       "url": "https://open.spotify.com/track/6rii9bS2qLDh8ZxiaDmO82"
@@ -4498,6 +4516,28 @@
     },
     {
       "album": {
+        "name": "LUNAR-1",
+        "url": "https://open.spotify.com/album/23rPVLn3A5y1qn2DVZh7bv"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Meg & Dia",
+          "url": "https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/67JGqNjFnv6Dw1RAdTDcR8"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj"
       },
@@ -4859,7 +4899,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 208095,
       "name": "Heart of Stone (feat. Nevve)",
       "url": "https://open.spotify.com/track/5myN5N3sDQaRvMMVOTKtY9"
@@ -5483,7 +5523,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187835,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/67Sb5mCfhpMDiD2ZbIGh4S"
@@ -5741,7 +5781,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202258,
       "name": "I Would Never",
       "url": "https://open.spotify.com/track/3YkUKoKBZuqnVCAOsyeDav"
@@ -5789,10 +5829,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "I'll Be Your Home",
       "url": "https://open.spotify.com/track/4bGM1EMxc8n0AXPqlbAUff"
+    },
+    {
+      "album": {
+        "name": "If The World Was Ending",
+        "url": "https://open.spotify.com/album/3P12oVJ6YKmeZXUajqTMEh"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Dayce Williams",
+          "url": "https://open.spotify.com/artist/5u0wIrbneNgQ9iNw0PEAM6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248798,
+      "name": "If The World Was Ending",
+      "url": "https://open.spotify.com/track/6TxfKUTPFXpD9TWNVTxXtj"
     },
     {
       "album": {
@@ -6035,7 +6097,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274285,
       "name": "It's Not Too Late",
       "url": "https://open.spotify.com/track/3j3xA2JFjRvV9MVF2mSBc5"
@@ -6317,7 +6379,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 166344,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
@@ -7207,7 +7269,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 336460,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/6d5N6bhv8CR4hvyZ0pcLe3"
@@ -8443,7 +8505,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 259315,
       "name": "Phantom Love",
       "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
@@ -9741,7 +9803,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243027,
       "name": "Starbright",
       "url": "https://open.spotify.com/track/6huKKoWv2Xy4KM2rwUNa7X"
@@ -10547,7 +10609,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186373,
       "name": "The One",
       "url": "https://open.spotify.com/track/4LfJbl62cw3nr0POfs8Yy5"
@@ -10913,7 +10975,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213124,
       "name": "Treading Water",
       "url": "https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8"
@@ -11093,6 +11155,28 @@
       "duration_ms": 259200,
       "name": "Urban Forest",
       "url": "https://open.spotify.com/track/4UP19aKl5h6WHQmpd3RYBT"
+    },
+    {
+      "album": {
+        "name": "Used To Be So Strong",
+        "url": "https://open.spotify.com/album/1JiCckZXypTs8x7speGpAy"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256621,
+      "name": "Used To Be So Strong",
+      "url": "https://open.spotify.com/track/7Ijq5Ex6gbt5FUCc27EPrd"
     },
     {
       "album": {
@@ -11489,7 +11573,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"

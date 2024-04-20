@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 59635,
+  "2024-04-20": 59653,
   "date_first_scraped": "2022-01-21",
   "description": "Mujeres raperas rompi\u00e9ndola en toda Latinoam\u00e9rica. La Esmeralda en Portada ",
   "name": "Femcees",
@@ -263,6 +263,28 @@
       "duration_ms": 189602,
       "name": "Alerta",
       "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
+    },
+    {
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/27AaB0tquSmq1HvR44he0D"
+      },
+      "artists": [
+        {
+          "name": "Dilema",
+          "url": "https://open.spotify.com/artist/3eCEorgAoZkvnAQLdy4x38"
+        },
+        {
+          "name": "Zaque",
+          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/0HkIlCA0q9HHLGVhRU1tGM"
     },
     {
       "album": {
@@ -967,7 +989,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143000,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/3F4xZkq6lEgkqGrLDV5VZi"
@@ -993,6 +1015,46 @@
       "duration_ms": 224078,
       "name": "B\u00fascame",
       "url": "https://open.spotify.com/track/4ciKkwEp9mnBmXh1eY8KZk"
+    },
+    {
+      "album": {
+        "name": "CAMINO",
+        "url": "https://open.spotify.com/album/4Y0AVZ1HJrWENhYKEfaIj9"
+      },
+      "artists": [
+        {
+          "name": "Ala\u00edde",
+          "url": "https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i"
+        },
+        {
+          "name": "ALONG",
+          "url": "https://open.spotify.com/artist/1tbJON658Utp3LCByyGz6v"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171928,
+      "name": "CAMINO",
+      "url": "https://open.spotify.com/track/1kNL3YpzrDWMng468Jwxou"
+    },
+    {
+      "album": {
+        "name": "Cenicienta",
+        "url": "https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Cenicienta",
+      "url": "https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1"
     },
     {
       "album": {
@@ -1179,7 +1241,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 163170,
       "name": "Copas de Vino",
       "url": "https://open.spotify.com/track/4jRh3Yu1lTJhIvJe5nuEvu"
@@ -1197,7 +1259,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163170,
       "name": "Copas De Vino",
       "url": "https://open.spotify.com/track/7e4Q1PSvX8CxeQq4nDovgw"
@@ -1579,7 +1641,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246600,
       "name": "El Termostato",
       "url": "https://open.spotify.com/track/0LOpk0vOE9igpObJLFd1t8"
@@ -2484,6 +2546,32 @@
     },
     {
       "album": {
+        "name": "LA ETAPA (LA LA LA)",
+        "url": "https://open.spotify.com/album/58Vqnhcn2R4lm1dbU03sq9"
+      },
+      "artists": [
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        },
+        {
+          "name": "Khylie Rylo",
+          "url": "https://open.spotify.com/artist/7DEl4c92YlNTimrWuCRU7q"
+        },
+        {
+          "name": "yolanda segura",
+          "url": "https://open.spotify.com/artist/3JhNoXe6bBtnORMr4L4lZc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "LA ETAPA (LA LA LA)",
+      "url": "https://open.spotify.com/track/4LMfV7bNyQHCw34OOSVHXO"
+    },
+    {
+      "album": {
         "name": "Los Gonz\u00e1lez",
         "url": "https://open.spotify.com/album/0sGiueQWjYKzacveBnbY5h"
       },
@@ -2593,7 +2681,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 130667,
       "name": "Lente Anam\u00f3rfico",
       "url": "https://open.spotify.com/track/1VcIWcYwKgMZyjAQuVgOvw"
@@ -2611,7 +2699,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131333,
       "name": "Lente Anam\u00f3rfico",
       "url": "https://open.spotify.com/track/6cnQ390yCUFD5kqtyTsrvz"
@@ -3041,7 +3129,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 215413,
       "name": "Me Siento High",
       "url": "https://open.spotify.com/track/5YSAbiuIJFLYXbgQLAStAX"
@@ -3059,7 +3147,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215573,
       "name": "Me Siento High",
       "url": "https://open.spotify.com/track/4qK81tn4abwqZLcohf2dXx"
@@ -3227,7 +3315,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216134,
       "name": "Millonaria",
       "url": "https://open.spotify.com/track/5Lamw2jWwnk8fqCfcBJr4M"
@@ -3307,6 +3395,28 @@
       "duration_ms": 143834,
       "name": "My Bae",
       "url": "https://open.spotify.com/track/2L2d7gAq5yZqXhpudUi61Z"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Que Reales",
+        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "M\u00e1s Que Reales",
+      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
       "album": {
@@ -3583,7 +3693,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174053,
       "name": "NO+SAD",
       "url": "https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF"
@@ -3945,7 +4055,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125702,
       "name": "Quasimodo",
       "url": "https://open.spotify.com/track/0j8s3aMzNWribuvPjEyjZW"
@@ -3963,7 +4073,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 125702,
       "name": "Quasimodo",
       "url": "https://open.spotify.com/track/7J5N3LfuXGTNF8EboaVPCc"
@@ -4321,7 +4431,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G"
@@ -4339,7 +4449,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
@@ -4699,7 +4809,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
@@ -4721,7 +4831,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
@@ -4783,7 +4893,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
@@ -4971,7 +5081,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194823,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/3UzvM5oPrOJXshAJOSUUar"
@@ -5361,6 +5471,28 @@
       "duration_ms": 197000,
       "name": "Viernes 15 (Organic Remix)",
       "url": "https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt"
+    },
+    {
+      "album": {
+        "name": "Wachita",
+        "url": "https://open.spotify.com/album/52xzKPPlZ8IjvjtNqoATwU"
+      },
+      "artists": [
+        {
+          "name": "Kris Alaniz",
+          "url": "https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB"
+        },
+        {
+          "name": "Lula Bertoldi",
+          "url": "https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143541,
+      "name": "Wachita",
+      "url": "https://open.spotify.com/track/1GNq3jJMQZmtmXnjDEkiU3"
     },
     {
       "album": {

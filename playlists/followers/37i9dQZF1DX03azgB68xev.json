@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 200103,
+  "2024-04-20": 199606,
   "date_first_scraped": "2022-06-02",
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
   "name": "Pop for Life",
@@ -111,10 +111,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199680,
       "name": "Alive",
       "url": "https://open.spotify.com/track/58u7gBfuIHpU2D3XCNrmAf"
+    },
+    {
+      "album": {
+        "name": "Better View (Deluxe)",
+        "url": "https://open.spotify.com/album/4UUJjM3UeSH53Mz1jiwS8z"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "All Day Long",
+      "url": "https://open.spotify.com/track/1MpkWSRcLCzvGnbhSr7b8X"
     },
     {
       "album": {
@@ -213,6 +231,28 @@
       "duration_ms": 197400,
       "name": "AMERICAN DREAM",
       "url": "https://open.spotify.com/track/2v12XOaEHe0VdAQMhp4YcF"
+    },
+    {
+      "album": {
+        "name": "Ancient of Days (reimagined)",
+        "url": "https://open.spotify.com/album/6n5HgfPa0riif5Lex5n7nm"
+      },
+      "artists": [
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        },
+        {
+          "name": "Matias Ruiz",
+          "url": "https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241998,
+      "name": "Ancient of Days (reimagined)",
+      "url": "https://open.spotify.com/track/3RXZmXBwAuIZOBNIwkQvzO"
     },
     {
       "album": {
@@ -684,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Broken Vessels (Amazing Grace) - Retain Remix",
+        "url": "https://open.spotify.com/album/7yicQGzbw93rWbU0rjlMwq"
+      },
+      "artists": [
+        {
+          "name": "Retain",
+          "url": "https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204378,
+      "name": "Broken Vessels (Amazing Grace) - Retain Remix",
+      "url": "https://open.spotify.com/track/73oAtotfBIqc4MYzT7nwPf"
+    },
+    {
+      "album": {
         "name": "Burn The Ships (R3HAB Remix)",
         "url": "https://open.spotify.com/album/637sa0MubVLyJ8al6duftV"
       },
@@ -1027,7 +1085,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185783,
       "name": "Crown - (Gregatron Disco Remix)",
       "url": "https://open.spotify.com/track/4G53DUrMXSHmBEst6qIxKW"
@@ -1983,10 +2041,28 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+    },
+    {
+      "album": {
+        "name": "Phenomena (DA DA) Remixes",
+        "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
     },
     {
       "album": {
@@ -2193,7 +2269,7 @@
     {
       "album": {
         "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+        "url": "https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U"
       },
       "artists": [
         {
@@ -2204,6 +2280,24 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
+    },
+    {
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
@@ -2567,7 +2661,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157463,
       "name": "Help Me Let Go",
       "url": "https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ"
@@ -2585,7 +2679,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 157463,
       "name": "Help Me Let Go",
       "url": "https://open.spotify.com/track/6VUqwqfKjVUoh3swTzAlfO"
@@ -2979,7 +3073,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 231123,
       "name": "I Will Follow You - Live",
       "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
@@ -3457,7 +3551,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 188138,
       "name": "Known, Seen, Loved",
       "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
@@ -3801,7 +3895,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146548,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/5ApvV6ALfi7YAFv6chSst6"
@@ -3859,7 +3953,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157617,
       "name": "Love Is Everything We Need",
       "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
@@ -3939,7 +4033,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
@@ -4153,7 +4247,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-18",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "more like you",
       "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
@@ -4631,7 +4725,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
@@ -4779,6 +4873,24 @@
       "duration_ms": 177250,
       "name": "Poison",
       "url": "https://open.spotify.com/track/54V7bMMkfE8Wf49ZE5STi7"
+    },
+    {
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/6MAsgiDIbSMEHUkKoAHx01"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293706,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/4Ot0zyWL4fzzVuduj6GZ9L"
     },
     {
       "album": {
@@ -5219,7 +5331,7 @@
     {
       "album": {
         "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+        "url": "https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ"
       },
       "artists": [
         {
@@ -5230,6 +5342,24 @@
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
+    },
+    {
+      "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
@@ -5265,7 +5395,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149657,
       "name": "See Me Through It",
       "url": "https://open.spotify.com/track/6ymBqDImXK5whaMxqynqX8"
@@ -5461,7 +5591,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184385,
       "name": "Source",
       "url": "https://open.spotify.com/track/0YJFMeUJeibHyUNw8al76e"
@@ -5497,7 +5627,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221909,
       "name": "Spring Theory",
       "url": "https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy"
@@ -5621,7 +5751,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213868,
       "name": "Step Into The Fight - Gregatron Remix",
       "url": "https://open.spotify.com/track/0yISALkKshn3jPl6M8CNOu"
@@ -6247,7 +6377,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175040,
       "name": "True Love",
       "url": "https://open.spotify.com/track/690c43quycAQBnis0vi4mY"
@@ -6645,7 +6775,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 159879,
       "name": "Won't Rain Anymore",
       "url": "https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz"
@@ -6675,7 +6805,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"

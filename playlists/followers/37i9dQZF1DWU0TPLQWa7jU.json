@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3686,
+  "2024-04-20": 3686,
   "date_first_scraped": "2024-03-12",
   "description": "Get your energy boost for your Ramadan workout.",
   "name": "Fitness and Health",
@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Islamic Nasheed",
+        "url": "https://open.spotify.com/album/1RNWdBfx4TqZt82AgnSrHs"
+      },
+      "artists": [
+        {
+          "name": "Nasheed",
+          "url": "https://open.spotify.com/artist/3WRkPuk4H50vBfEXByyRVw"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265102,
+      "name": "Ana Maradun",
+      "url": "https://open.spotify.com/track/0JtO3wB8aLHgZaWFjDK0RV"
+    },
+    {
+      "album": {
         "name": "ana maradun",
         "url": "https://open.spotify.com/album/3j8g30E3z1qWr5ox9IYD8E"
       },
@@ -107,7 +125,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265044,
       "name": "ana maradun",
       "url": "https://open.spotify.com/track/0Eo8zX4FDkVjbji7H46I0a"
@@ -230,6 +248,24 @@
     },
     {
       "album": {
+        "name": "Salam",
+        "url": "https://open.spotify.com/album/7pL8WDfrUK9P205nSNYCW1"
+      },
+      "artists": [
+        {
+          "name": "Patel",
+          "url": "https://open.spotify.com/artist/1RInkhpNXmPDZfHrnoJzOv"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174419,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1OTQoGGCbWc5ND8O0hCcQy"
+    },
+    {
+      "album": {
         "name": "here i am allah",
         "url": "https://open.spotify.com/album/7jW4f7HUCjBc7nyiXTFCNp"
       },
@@ -241,7 +277,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174312,
       "name": "here i am allah",
       "url": "https://open.spotify.com/track/2WwQW49JsVapeU4TJLQmBY"
@@ -361,10 +397,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190966,
       "name": "Mahom",
       "url": "https://open.spotify.com/track/1vBn1Ww1twe8h9NOI6SNTd"
+    },
+    {
+      "album": {
+        "name": "MAHOM BE OMATI",
+        "url": "https://open.spotify.com/album/6bPBnOrc3E9g4MOTOaJVle"
+      },
+      "artists": [
+        {
+          "name": "KOSTYAPETROVA",
+          "url": "https://open.spotify.com/artist/07ynPn5nAOdQ19kdjV2P8e"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190966,
+      "name": "MAHOM BE OMATI",
+      "url": "https://open.spotify.com/track/6lwRpZnsryBCFJYujDL7U5"
     },
     {
       "album": {
@@ -469,10 +523,36 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226064,
       "name": "Oh My Brothers",
       "url": "https://open.spotify.com/track/4wOY2ZnHLrq0LmTO1ydceb"
+    },
+    {
+      "album": {
+        "name": "Kyrie Irving's Favorite Nasheeds Recent Convert to islam",
+        "url": "https://open.spotify.com/album/5Qji5cUTfYAIYN59clqvm3"
+      },
+      "artists": [
+        {
+          "name": "\u0646\u0627\u062a \u0648\u062d\u0645\u062f",
+          "url": "https://open.spotify.com/artist/7IE1otiJIBeBqZfXLvikik"
+        },
+        {
+          "name": "Labbayk",
+          "url": "https://open.spotify.com/artist/1t2BsmM38qQjrW3xl4aftY"
+        },
+        {
+          "name": "Nasheeds",
+          "url": "https://open.spotify.com/artist/3t2Q3JuB60dctUhgOuE4Z4"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226142,
+      "name": "Oh My Brothers Kyrie Irving's Favorite Nasheed",
+      "url": "https://open.spotify.com/track/6rwqn8rbp3JhjhQeLLuZJy"
     },
     {
       "album": {
@@ -517,6 +597,28 @@
     {
       "album": {
         "name": "Anasheeds, Vol. 5",
+        "url": "https://open.spotify.com/album/6rSL3JdBER5CDtpLcOuYvJ"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Al Muqit",
+          "url": "https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05"
+        },
+        {
+          "name": "Ahmed Al Muqit",
+          "url": "https://open.spotify.com/artist/2MtYncxSgnm41vdZ04rgIr"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261986,
+      "name": "Soldiers of Allah",
+      "url": "https://open.spotify.com/track/21gBJ7LNBKcFlJcqyTc7cm"
+    },
+    {
+      "album": {
+        "name": "Anasheeds, Vol. 5",
         "url": "https://open.spotify.com/album/5QZxX7fw9qlIcX45lwRFxQ"
       },
       "artists": [
@@ -531,7 +633,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261986,
       "name": "Soldiers of Allah",
       "url": "https://open.spotify.com/track/3aAUGib9I95qG0FEcaWKm1"
@@ -791,10 +893,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233107,
       "name": "\u0623\u0635\u0627\u062d \u0631\u0648\u064a\u062f\u0643",
       "url": "https://open.spotify.com/track/1EioceLs7WfltjunttPmg7"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0635\u0627\u062d \u0631\u0648\u064a\u062f\u0643",
+        "url": "https://open.spotify.com/album/3UPv5RajPQOY47F9RTIHuh"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0648\u0633\u0649 \u0627\u0644\u0639\u0645\u064a\u0631\u0629",
+          "url": "https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233107,
+      "name": "\u0623\u0635\u0627\u062d \u0631\u0648\u064a\u062f\u0643",
+      "url": "https://open.spotify.com/track/3lU4NJeWOdcyijdwYaSeHx"
     },
     {
       "album": {
@@ -845,7 +965,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252867,
       "name": "\u0631\u062a\u0644 \u0648\u0632\u062f",
       "url": "https://open.spotify.com/track/10WkR63kjgJUc444UTq65M"
@@ -881,10 +1001,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167107,
       "name": "\u0643\u0646\u062a \u0645\u064a\u062a\u0627\u064b",
       "url": "https://open.spotify.com/track/3udhMkc0ZlXKicKTBgGLkq"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0646\u062a \u0645\u064a\u062a\u0627\u064b",
+        "url": "https://open.spotify.com/album/58HieYTfQVH4WztNnNUjBI"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0648\u0633\u0649 \u0627\u0644\u0639\u0645\u064a\u0631\u0629",
+          "url": "https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167107,
+      "name": "\u0643\u0646\u062a \u0645\u064a\u062a\u0627\u064b",
+      "url": "https://open.spotify.com/track/5Oyf2j7RdNUFvAL7zV966N"
     },
     {
       "album": {
@@ -906,6 +1044,42 @@
     },
     {
       "album": {
+        "name": "\u0631\u062a\u0644 \u0648\u0632\u062f",
+        "url": "https://open.spotify.com/album/4FKuEt6lDS9MeJXQV3O6jh"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0648\u0633\u0649 \u0627\u0644\u0639\u0645\u064a\u0631\u0629",
+          "url": "https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252867,
+      "name": "\u0645\u0648\u0633\u0649 \u0627\u0644\u0639\u0645\u064a\u0631\u0629",
+      "url": "https://open.spotify.com/track/3rbueExdbVAa30qLziWpi6"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0630\u0627 \u0639\u0645\u0631",
+        "url": "https://open.spotify.com/album/0nslKUTLFao8nmtzzMvuL9"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0648\u0633\u0649 \u0627\u0644\u0639\u0645\u064a\u0631\u0629",
+          "url": "https://open.spotify.com/artist/3dW0TwrbCdU7qkPuXIvLQy"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180893,
+      "name": "\u0647\u0630\u0627 \u0639\u0645\u0631",
+      "url": "https://open.spotify.com/track/4UNQgu0PmbfuZDuABtzVLh"
+    },
+    {
+      "album": {
         "name": "\u0647\u0630\u0627 \u0639\u0645\u0631",
         "url": "https://open.spotify.com/album/7ezOHqkjxtnKvscZunZU0O"
       },
@@ -917,7 +1091,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180893,
       "name": "\u0647\u0630\u0627 \u0639\u0645\u0631",
       "url": "https://open.spotify.com/track/60izvKPQel2xOMEDiEhQ3E"
@@ -935,10 +1109,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173268,
       "name": "\u064a\u0627 \u0627\u0644\u0637\u0627\u0631\u0634",
       "url": "https://open.spotify.com/track/3akQ2gH0B06nEwyLkRaDLs"
+    },
+    {
+      "album": {
+        "name": "\u0630\u0643\u0631\u064a\u0627\u062a",
+        "url": "https://open.spotify.com/album/18Fa0Tanbgv2NAKJv14KPZ"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0634\u0627\u0631\u064a \u0628\u0646 \u0631\u0627\u0634\u062f \u0627\u0644\u0639\u0641\u0627\u0633\u064a",
+          "url": "https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173268,
+      "name": "\u064a\u0627 \u0627\u0644\u0637\u0627\u0631\u0634",
+      "url": "https://open.spotify.com/track/4OZUXOQXR0wGyMNn96SMAx"
     },
     {
       "album": {

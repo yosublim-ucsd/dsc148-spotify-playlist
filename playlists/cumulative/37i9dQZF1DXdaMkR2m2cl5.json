@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/1MXKKWEGvQp7FTT0NY3GRY"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Friday Night Lights",
+      "url": "https://open.spotify.com/track/6O6ZIphlQZqYXLpg0o1FCJ"
+    },
+    {
+      "album": {
         "name": "God Knows Why",
         "url": "https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt"
       },
@@ -3536,7 +3554,7 @@
       ],
       "date_added": "2020-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 226152,
       "name": "Sparklers",
       "url": "https://open.spotify.com/track/4nKWycT7IEMCJqCfAy7mTc"

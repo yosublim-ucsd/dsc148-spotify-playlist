@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 2354499,
+  "2024-04-20": 2351768,
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Elmiene",
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Destin Conrad",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -189,7 +189,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270080,
       "name": "2 Step In The Living Room",
       "url": "https://open.spotify.com/track/44P7MQRsEWfuduYuLESV2w"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 270080,
       "name": "2 Step In The Living Room",
       "url": "https://open.spotify.com/track/7Bqg0xmYlSbPEFYXLdKYIl"
@@ -5747,6 +5747,28 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/1kCHb1IQSzAxCYJZnBuUvr"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196006,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0eK68WZ6Iru30Hi04a8HPX"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/0sZTJtEOsqFoWexi2tUvtc"
       },
       "artists": [
@@ -5761,7 +5783,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
@@ -7091,6 +7113,28 @@
       "duration_ms": 218028,
       "name": "Hit You Right Back",
       "url": "https://open.spotify.com/track/2w3cXSJF6vRvYtBHUTitUR"
+    },
+    {
+      "album": {
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "album": {
@@ -10347,6 +10391,28 @@
       "duration_ms": 189011,
       "name": "Mother",
       "url": "https://open.spotify.com/track/51WLu8FjR1tiyIU1jUoWvm"
+    },
+    {
+      "album": {
+        "name": "Ms. Ebony Brown",
+        "url": "https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz"
+      },
+      "artists": [
+        {
+          "name": "Flwr Chyld",
+          "url": "https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ"
+        },
+        {
+          "name": "Grimm Lynn",
+          "url": "https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198473,
+      "name": "Ms. Ebony Brown",
+      "url": "https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39"
     },
     {
       "album": {
@@ -15827,7 +15893,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209310,
-      "name": "Thinkin",
+      "name": "Thinkin ft. Destin Conrad",
       "url": "https://open.spotify.com/track/7wYlWR1wYGY6Yllrvrb1VA"
     },
     {
@@ -16825,7 +16891,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148732,
       "name": "Wait So Long",
       "url": "https://open.spotify.com/track/1vOhYqGR1bQCzVJVenL6mO"
@@ -16843,7 +16909,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 148732,
       "name": "Wait So Long",
       "url": "https://open.spotify.com/track/3nHLmfDuvY5LK3lCV1LHju"

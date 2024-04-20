@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 49824,
+  "2024-04-20": 49859,
   "date_first_scraped": "2022-03-24",
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Amabbi",
   "name": "Baby Hair",
@@ -51,6 +51,36 @@
       "duration_ms": 142153,
       "name": "100 Mili",
       "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
+    },
+    {
+      "album": {
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/18JMz1hQNJExLwDkvscb3T"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/1gJ6nE9y60w21FhOzoqfRU"
+        },
+        {
+          "name": "PILANTRINHAS",
+          "url": "https://open.spotify.com/artist/78dDMfgEhmySKmPSK2rG0k"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/7GKndeTEsy5aXL042JxM6e"
     },
     {
       "album": {
@@ -125,7 +155,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
@@ -151,7 +181,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl"
@@ -401,7 +431,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157586,
       "name": "As Preta Primeiro",
       "url": "https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq"
@@ -2859,7 +2889,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113846,
       "name": "mlk me esquece",
       "url": "https://open.spotify.com/track/5KpOnRvxuYU18AQ0HVoQg8"
@@ -5003,6 +5033,32 @@
       "duration_ms": 174083,
       "name": "Tukikis",
       "url": "https://open.spotify.com/track/4yaZDkcert6F9kN4Bs51B7"
+    },
+    {
+      "album": {
+        "name": "It Girl Pt. 2",
+        "url": "https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Jaxz Bond",
+          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "Turn\u00ea",
+      "url": "https://open.spotify.com/track/2ELpcdKuPAJpC6sPJEaMzI"
     },
     {
       "album": {

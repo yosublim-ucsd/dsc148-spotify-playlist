@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 339120,
+  "2024-04-20": 339178,
   "date_first_scraped": "2022-09-17",
   "description": "Acoustic covers of all your favourite songs.",
   "name": "Cozy Coffeehouse Covers",
@@ -245,6 +245,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/7xAQvJXGnsVv0vvfZi6Iqm"
+      },
+      "artists": [
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/5jtFyuwD32Mn9F5C3lLqsF"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/6PzZNFS1QaobNN9MrnRDJh"
       },
       "artists": [
@@ -255,7 +273,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195555,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7lSdBy34Oxd06fK4KlaXVj"
@@ -1675,10 +1693,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261665,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261666,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR"
     },
     {
       "album": {
@@ -2321,10 +2357,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173508,
       "name": "Home / Dirty Paws",
       "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
+    },
+    {
+      "album": {
+        "name": "Home / Dirty Paws",
+        "url": "https://open.spotify.com/album/7eRqpbIX8zCdDGVlLrMuNn"
+      },
+      "artists": [
+        {
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
     },
     {
       "album": {
@@ -2665,10 +2719,28 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G"
+    },
+    {
+      "album": {
+        "name": "I Want You Back",
+        "url": "https://open.spotify.com/album/6pgZGRynGEYJu6cHZe9NRO"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy"
     },
     {
       "album": {
@@ -3659,7 +3731,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181026,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/05TVM0mkxmxvQir279cFFu"
@@ -3677,7 +3749,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 181026,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/1YNI03S3TLYTEV3r0f086r"
@@ -3955,7 +4027,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/1uKavGXL05NzhPHSOUIg91"
@@ -3973,7 +4045,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Paradise - Acoustic",
       "url": "https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw"
@@ -4183,6 +4255,24 @@
     {
       "album": {
         "name": "Ruin My Life",
+        "url": "https://open.spotify.com/album/6EqFlGWIh9s912Sff3YopH"
+      },
+      "artists": [
+        {
+          "name": "Eloise Kate",
+          "url": "https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/1hRHMWrYGyDMVS7LaHgKSc"
+    },
+    {
+      "album": {
+        "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/5WyfkXyOVdQNtKcj0eF19w"
       },
       "artists": [
@@ -4193,7 +4283,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208000,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/1qKOzZcVNDnmU0xiLJbORz"
@@ -4259,6 +4349,28 @@
     {
       "album": {
         "name": "Save Me from Myself",
+        "url": "https://open.spotify.com/album/5Dwcw0QHLkYGoShk5qXiob"
+      },
+      "artists": [
+        {
+          "name": "Julien Manaud",
+          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
+        },
+        {
+          "name": "Alexis Dumais",
+          "url": "https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197227,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2"
+    },
+    {
+      "album": {
+        "name": "Save Me from Myself",
         "url": "https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil"
       },
       "artists": [
@@ -4295,7 +4407,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197227,
       "name": "Save Me From Myself",
       "url": "https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU"
@@ -4547,7 +4659,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-25",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "So Hot You're Hurting My Feelings - Acoustic",
       "url": "https://open.spotify.com/track/0F0xMIT47P5VpCOH5eajwO"
@@ -4565,7 +4677,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166000,
       "name": "So Hot You're Hurting My Feelings - Acoustic",
       "url": "https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR"
@@ -4601,7 +4713,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl"
@@ -4619,7 +4731,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN"
@@ -5283,7 +5395,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 168289,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf"
@@ -5301,7 +5413,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168289,
       "name": "What Makes You Beautiful",
       "url": "https://open.spotify.com/track/4ExpBFkBgqT7Uexuwo0lU4"

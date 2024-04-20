@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 25826,
+  "2024-04-20": 25866,
   "date_first_scraped": "2022-06-10",
   "description": "C\u00e1rgate de energia con el eclipse solar ",
   "name": "Eclipse Solar ",
   "tracks": [
+    {
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354640,
+      "name": "A Forest",
+      "url": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q"
+    },
     {
       "album": {
         "name": "Seventeen Seconds (Deluxe Edition)",
@@ -674,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/4XcN90lFiibqCHpuQyzfAR"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/0SRddBTphQwQcfqw4Br1uX"
+    },
+    {
+      "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
       },
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250440,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/5iLAU648CgzEupYdWuWdp5"
@@ -2459,7 +2495,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 299106,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
@@ -2477,7 +2513,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
@@ -4733,7 +4769,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271400,
       "name": "Perd\u00ed Mi Ojo de Venado",
       "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
@@ -5019,6 +5055,24 @@
       "duration_ms": 178133,
       "name": "Por Volverte A Ver",
       "url": "https://open.spotify.com/track/5mQAisM7QzOcAGwi9uSMIh"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/4KZWx8zo5ym89aopr0dBIb"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241160,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/6EXi6ZqTITKGtVBKqbphjL"
     },
     {
       "album": {
@@ -5321,7 +5375,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200133,
       "name": "Sale el Sol",
       "url": "https://open.spotify.com/track/1DJxR9NMQ14fv1WK0pHodt"

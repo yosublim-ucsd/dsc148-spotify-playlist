@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 528664,
+  "2024-04-20": 528587,
   "date_first_scraped": "2022-01-02",
   "description": "it's a generation \u26d3 ft. jxdn",
   "name": "The Locker",
@@ -563,7 +563,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 163519,
       "name": "Airhead",
       "url": "https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163519,
       "name": "Airhead",
       "url": "https://open.spotify.com/track/7juaMHv1j8EAmEVEAlo1iT"
@@ -4877,6 +4877,24 @@
     {
       "album": {
         "name": "Get Off My Phone",
+        "url": "https://open.spotify.com/album/7LEZe6AZqeh00i89ykLNKX"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Get Off My Phone",
+      "url": "https://open.spotify.com/track/3BPPsYTaaAluyOGf1yHEQ3"
+    },
+    {
+      "album": {
+        "name": "Get Off My Phone",
         "url": "https://open.spotify.com/album/44nxBc1O9Bg5EWRkbX7sXd"
       },
       "artists": [
@@ -4895,7 +4913,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168428,
       "name": "Get Off My Phone",
       "url": "https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1"
@@ -5899,7 +5917,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 163736,
       "name": "hostage",
       "url": "https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY"
@@ -5935,7 +5953,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163736,
       "name": "hostage",
       "url": "https://open.spotify.com/track/5iQrF3TEjpz2tBZed7Qy9N"
@@ -7539,7 +7557,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 198533,
       "name": "lose myself in you",
       "url": "https://open.spotify.com/track/6GpSWcqSaXWNKK5j7LI4Kl"
@@ -7561,7 +7579,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198533,
       "name": "lose myself in you",
       "url": "https://open.spotify.com/track/6xuOyswMC7oj12UcGXrGXx"
@@ -7851,7 +7869,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152647,
       "name": "LUVsick!",
       "url": "https://open.spotify.com/track/1ZqB2E6TZIxePcjsOigBqW"
@@ -7873,7 +7891,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 152647,
       "name": "LUVsick! (feat. ThxSoMch)",
       "url": "https://open.spotify.com/track/25Jrtcdo9UXZU5WkQmCZBx"
@@ -8837,7 +8855,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
@@ -8909,7 +8927,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"

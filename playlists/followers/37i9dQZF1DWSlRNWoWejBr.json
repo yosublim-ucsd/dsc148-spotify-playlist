@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 770358,
+  "2024-04-20": 770870,
   "date_first_scraped": "2023-10-07",
   "description": "ou vc dan\u00e7a ou o grave t balan\u00e7a",
   "name": "funk challenge",
@@ -25,6 +25,32 @@
     {
       "album": {
         "name": "A Caminho do Bega",
+        "url": "https://open.spotify.com/album/3MNPKL9eM0VsPsd1oc5FQ2"
+      },
+      "artists": [
+        {
+          "name": "DJ Patrick Muniz",
+          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
+        },
+        {
+          "name": "Mc L3",
+          "url": "https://open.spotify.com/artist/2879HZwIGp09pCeg5CGuna"
+        },
+        {
+          "name": "MC DOM LP",
+          "url": "https://open.spotify.com/artist/1IDgBR9gfIJOS5lB7SwE6W"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119304,
+      "name": "A Caminho do Bega",
+      "url": "https://open.spotify.com/track/1JIKO27MqvSpjrnUCT6fLC"
+    },
+    {
+      "album": {
+        "name": "A Caminho do Bega",
         "url": "https://open.spotify.com/album/0gawhHMGyqswFb4wLA0KxN"
       },
       "artists": [
@@ -43,7 +69,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119304,
       "name": "A Caminho do Bega",
       "url": "https://open.spotify.com/track/7qigThRgVWUSwXR7CFIpYe"
@@ -903,7 +929,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 157216,
       "name": "DAN\u00c7A PRA ME PROVOCAR",
       "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
@@ -925,7 +951,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157216,
       "name": "DAN\u00c7A PRA ME PROVOCAR",
       "url": "https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM"
@@ -1170,6 +1196,32 @@
     },
     {
       "album": {
+        "name": "EU VOU CAIR NA NOITE",
+        "url": "https://open.spotify.com/album/5wpoawf07u3Oi0KRRrzgRG"
+      },
+      "artists": [
+        {
+          "name": "DJ RENAN DA BL",
+          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
+        },
+        {
+          "name": "Dj Jl Do Tp",
+          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5Rs8lbUvsQnuQxMrQojmZR"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125422,
+      "name": "EU VOU CAIR NA NOITE",
+      "url": "https://open.spotify.com/track/0FU9OdkvY12HJQ2Y0VaAsf"
+    },
+    {
+      "album": {
         "name": "Eu Vou Cair na Noite",
         "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
       },
@@ -1193,7 +1245,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125422,
       "name": "Eu Vou Cair na Noite",
       "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
@@ -1553,7 +1605,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 206769,
       "name": "MAGR\u00c3O SUPREMO",
       "url": "https://open.spotify.com/track/7eZE5ob4uWJkAZYQyAIFdP"
@@ -1579,7 +1631,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206769,
       "name": "Magr\u00e3o Supremo",
       "url": "https://open.spotify.com/track/5btUKrOZ9wnwuaVR04nqw1"
@@ -1743,7 +1795,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140307,
       "name": "Mega a Cura Antidepressiva",
       "url": "https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A"
@@ -1761,7 +1813,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "Mega a Cura Antidepressiva",
       "url": "https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk"
@@ -1871,7 +1923,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 161304,
       "name": "MEGA FUNK LOST",
       "url": "https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy"
@@ -1927,7 +1979,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161284,
       "name": "Mega Funk Lost",
       "url": "https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8"
@@ -3985,7 +4037,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 109384,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/6zLBR9izBeZ1d0pfuwJgRa"

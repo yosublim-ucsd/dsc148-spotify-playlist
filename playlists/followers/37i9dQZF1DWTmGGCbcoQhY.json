@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1315924,
+  "2024-04-20": 1314785,
   "date_first_scraped": "2022-01-09",
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
   "name": "Cumbia Sonidera",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194560,
       "name": "20 Rosas",
       "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272091,
       "name": "Abandonado",
       "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+        "url": "https://open.spotify.com/album/33Y9PpG0mFkNPo5sn3PZgf"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Epcm",
+          "url": "https://open.spotify.com/artist/54JRdEn6iibgAV3WHt37VJ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364277,
+      "name": "Amor a Primera Vista (Cumbia Ecuatoriana)",
+      "url": "https://open.spotify.com/track/1bAKqVOcR0VmoGaQwPnzCa"
+    },
+    {
+      "album": {
         "name": "Locura De Amor",
         "url": "https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF"
       },
@@ -329,7 +347,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188440,
       "name": "Amor De Tres",
       "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 177005,
       "name": "Arpas Weperas",
       "url": "https://open.spotify.com/track/4sNGkzWTct1A1YuyDFYArl"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 231653,
       "name": "Cervecita",
       "url": "https://open.spotify.com/track/1N30BehuFIvGKwx5q5Swew"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207266,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207516,
       "name": "Como Decirte Adios",
       "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219559,
       "name": "Conga Y Timbal",
       "url": "https://open.spotify.com/track/7hEGGwLjfVZ83avJgpt4Fc"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 227485,
       "name": "Copos de Nieve",
       "url": "https://open.spotify.com/track/6pKKY70MelQKN7LPF0g3SY"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 243457,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244413,
       "name": "Coraz\u00f3n Solitario",
       "url": "https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 213744,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213791,
       "name": "Cumbia Buena",
       "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 308320,
       "name": "Cumbia Cholula",
       "url": "https://open.spotify.com/track/7pY2KAZTR53YbiLtbYLPvI"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230213,
       "name": "Dejenme Llorar",
       "url": "https://open.spotify.com/track/3jh6F8GaYeuWt3E4s1saGi"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 230022,
       "name": "Dejenme Llorar (feat. Jorge Dominguez y Su Grupo Super Class)",
       "url": "https://open.spotify.com/track/3bTZoKn6YfWu6rw1OCE1pw"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 193366,
       "name": "Ea Ea La Cumbia Buena",
       "url": "https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193366,
       "name": "Ea Ea La Cumbia Buena",
       "url": "https://open.spotify.com/track/73d3Wgm07jSGIdqiY7mU33"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 280826,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281129,
       "name": "Echarme Al Olvido",
       "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254375,
       "name": "El Baile de San Juan",
       "url": "https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229016,
       "name": "El Llanto de los Luceros / El Llanto de los Sapos",
       "url": "https://open.spotify.com/track/1kHLw4WQLHkIRpbI8ocvFR"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 228573,
       "name": "El Piropo",
       "url": "https://open.spotify.com/track/0AicPuyh78tIpIkOb2egJD"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199653,
       "name": "Embrujo de Cumbia",
       "url": "https://open.spotify.com/track/77AokL6yoCnNJaRSFmg36r"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 287896,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287902,
       "name": "En Mi Escritorio (La Carta)",
       "url": "https://open.spotify.com/track/1xCglnp7QllgJK3JwZY0R9"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 199653,
       "name": "Enbrujo De Cumbia",
       "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "Espacial",
       "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
@@ -2029,7 +2047,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299284,
       "name": "Estupido",
       "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 299284,
       "name": "Estupido (feat. Janeth Guadalupe)",
       "url": "https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Fue En Diciembre",
       "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
@@ -2261,6 +2279,28 @@
     {
       "album": {
         "name": "La Cumbia Triste",
+        "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210955,
+      "name": "La Cumbia Triste",
+      "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
+    },
+    {
+      "album": {
+        "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
       },
       "artists": [
@@ -2297,7 +2337,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211200,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/7t0kPXluEvLnPZ5NcNGwi1"
@@ -2405,7 +2445,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 216013,
       "name": "La Negra Soledad",
       "url": "https://open.spotify.com/track/3kpcviKw1dnRaRQ2I0YJvA"
@@ -2423,7 +2463,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 166256,
       "name": "La Pobreza - Rebajada",
       "url": "https://open.spotify.com/track/3So0GAT6AmSS4gK4GM53pz"
@@ -2459,7 +2499,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198213,
       "name": "La Princesa Talibana",
       "url": "https://open.spotify.com/track/7B7WVfPyjkowmWCvb1SXxd"
@@ -2513,7 +2553,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289586,
       "name": "Las Amo a las Dos",
       "url": "https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t"
@@ -2575,6 +2615,24 @@
     {
       "album": {
         "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316004,
+      "name": "Las Palmitas del Ecuador",
+      "url": "https://open.spotify.com/track/0rJ2dL2qhBg1WerWMUZQfK"
+    },
+    {
+      "album": {
+        "name": "Por Encima de Todos",
         "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
@@ -2603,7 +2661,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316022,
       "name": "Las Palmitas Del Ecuador",
       "url": "https://open.spotify.com/track/3Z2YLM2uzWWOMtm8G78HtC"
@@ -2675,7 +2733,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223160,
       "name": "Llorar",
       "url": "https://open.spotify.com/track/2f9XA7pBMjrHPO2cJW5XCu"
@@ -2801,7 +2859,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232546,
       "name": "Me Enamor\u00e9 de una Sonidera",
       "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
@@ -2931,7 +2989,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 254240,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG"
@@ -3149,7 +3207,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234605,
       "name": "No Mientas Mas",
       "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
@@ -3291,7 +3349,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
@@ -3527,7 +3585,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 247946,
       "name": "Pobre Corazon",
       "url": "https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo"
@@ -3581,7 +3639,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196586,
       "name": "Princesa Talibana",
       "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
@@ -3617,7 +3675,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 205437,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO"
@@ -3729,7 +3787,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-10",
+      "date_removed": null,
       "duration_ms": 234736,
       "name": "Reyna de Mi Vida",
       "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
@@ -3765,7 +3823,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
@@ -3967,7 +4025,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 307853,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/3SJfj2pDuRYhNn9fLwMT5g"
@@ -4075,7 +4133,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 243986,
       "name": "So\u00f1e Contigo",
       "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
@@ -4093,7 +4151,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234945,
       "name": "Suavemente Amor",
       "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
@@ -4129,7 +4187,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245055,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8"
@@ -4255,7 +4313,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237960,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
@@ -4273,7 +4331,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238236,
       "name": "Tiene Espinas El Rosal",
       "url": "https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H"
@@ -4385,7 +4443,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
@@ -4439,7 +4497,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226346,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh"
@@ -4577,7 +4635,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 188813,
       "name": "Un Poblano en New York",
       "url": "https://open.spotify.com/track/3H432gSVA7YWDccqx2bvXQ"
@@ -4595,7 +4653,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186840,
       "name": "Un Poblano En Nueva York",
       "url": "https://open.spotify.com/track/0atpapzPqDHfYRWeOlgDQf"
@@ -4703,7 +4761,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228675,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 134090,
+  "2024-04-20": 133546,
   "date_first_scraped": "2022-06-02",
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
   "name": "New Tejano",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 223998,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223998,
       "name": "Amor Eterno",
       "url": "https://open.spotify.com/track/2tSVxvzLWLgF9SuYalashf"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-24",
+      "date_removed": null,
       "duration_ms": 203879,
       "name": "Rogando Por Tu Amor (Version Tejano)",
       "url": "https://open.spotify.com/track/3w1AC7BcBd8zRsKrtzJMZg"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203879,
       "name": "Rogando por tu amor - Version Tejana",
       "url": "https://open.spotify.com/track/0X5KIZpfrBXDz363PIEwfS"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 210586,
       "name": "Tengo Ganas de Ti",
       "url": "https://open.spotify.com/track/4JD6C4Atg92awORLru91DD"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210651,
       "name": "Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192937,
       "name": "Tiempo Sin Mi",
       "url": "https://open.spotify.com/track/4f9GP4dQj1QDq6tAcWCu3R"
@@ -2293,7 +2293,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 192937,
       "name": "Tiempo Sin Mi",
       "url": "https://open.spotify.com/track/4gzfAQNMy1EKirLO0IYT9M"
@@ -2467,7 +2467,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200698,
       "name": "Volveras",
       "url": "https://open.spotify.com/track/36Igyyb2U5m41OHNDULLvg"
@@ -2485,7 +2485,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 200698,
       "name": "Volveras - Radio Edit",
       "url": "https://open.spotify.com/track/6SJYst1tBc4E8i6gGqzROx"

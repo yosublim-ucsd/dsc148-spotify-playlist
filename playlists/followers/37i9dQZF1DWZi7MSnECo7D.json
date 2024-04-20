@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 392931,
+  "2024-04-20": 391770,
   "date_first_scraped": "2022-01-18",
   "description": "Novidades e destaques do indie nacional. Foto: Papisa",
   "name": "Indie Brasil",
@@ -6177,6 +6177,28 @@
     {
       "album": {
         "name": "No Reino Dos Afetos 2",
+        "url": "https://open.spotify.com/album/6dDeOUl4ZbHeCmJSWx03xw"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        },
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163546,
+      "name": "New Hit",
+      "url": "https://open.spotify.com/track/2zp5qO1PlJJ5qb6eycAmI2"
+    },
+    {
+      "album": {
+        "name": "No Reino Dos Afetos 2",
         "url": "https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3"
       },
       "artists": [
@@ -6191,7 +6213,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163546,
       "name": "New Hit",
       "url": "https://open.spotify.com/track/70zZZhvy13xMJkWk6XbVdc"
@@ -9519,6 +9541,24 @@
     {
       "album": {
         "name": "Tirolirole",
+        "url": "https://open.spotify.com/album/5NrcxMjJHswo4wYZRKfXDg"
+      },
+      "artists": [
+        {
+          "name": "Bruno Berle",
+          "url": "https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Tirolirole",
+      "url": "https://open.spotify.com/track/5x89MDzl5Xcsg7wO4yPpVJ"
+    },
+    {
+      "album": {
+        "name": "Tirolirole",
         "url": "https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW"
       },
       "artists": [
@@ -9547,7 +9587,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181320,
       "name": "Tirolirole",
       "url": "https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt"

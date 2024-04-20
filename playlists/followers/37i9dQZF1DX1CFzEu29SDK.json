@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13227,
+  "2024-04-20": 13268,
   "date_first_scraped": "2023-12-17",
   "description": "<a href=\"spotify:artist:7kNqXtgeIwFtelmRjWv205\">John Summit</a>'s favorite tracks. Curated by John Summit. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "John Summit's track IDs",
@@ -141,7 +141,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263610,
       "name": "Compute",
       "url": "https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 263610,
       "name": "Compute",
       "url": "https://open.spotify.com/track/5axUQpDvClfFgKTtFpnwNw"

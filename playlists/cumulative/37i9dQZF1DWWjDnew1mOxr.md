@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Corella
 
-254 songs - 14 hr 34 min
+255 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dead Poets Society](https://open.spotify.com/track/5pEkbTefFUglGrPafVSfID) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Dead Poet's Society](https://open.spotify.com/album/4Q8Pw2jPx10y7QvWPAMPbm) | 3:43 | 2023-09-19 | 2023-10-20 |
 | [Diamond In The Dark](https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [C’MON YOU KNOW \(Deluxe Edition\)](https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY) | 3:24 | 2023-01-10 |  |
 | [Diet Punk](https://open.spotify.com/track/1rg7OEOIihiD8Z9axh67lc) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Diet Punk](https://open.spotify.com/album/5rqeXp9HmqVftmLLjqrWBR) | 3:04 | 2023-02-24 | 2023-09-22 |
+| [Dirty White](https://open.spotify.com/track/7cZTo3rLTEysAgfprKRnR4) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Dirty White Lies](https://open.spotify.com/album/5I2al8RIq7ZtZIV1qCBZq0) | 2:59 | 2024-04-15 |  |
 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 | 2024-01-26 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-06-13 | 2023-07-29 |
 | [Do You Wanna Talk](https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:26 | 2023-02-24 |  |
@@ -221,7 +222,7 @@
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-02-23 |  |
 | [Talk of the Town \- Radio Edit](https://open.spotify.com/track/0OQAreS9Acr21Py2yr0hNb) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Talk of the Town](https://open.spotify.com/album/3wEckVQAgY7X74TqBlvvpg) | 3:11 | 2024-03-11 |  |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 | 2023-08-04 |
-| [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 | 2023-01-10 |  |
+| [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 | 2023-01-10 | 2024-04-20 |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2023-01-10 | 2024-02-06 |
 | [The Dreamer](https://open.spotify.com/track/6gQheeYzRC6CFO6ydya9wx) | [The Sway](https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb) | [Days Lost or Happily Wasted](https://open.spotify.com/album/530f9RmlCdks6xvP7ZtObj) | 3:11 | 2023-03-31 | 2023-04-19 |
 | [The Enemy](https://open.spotify.com/track/4yI37d71d5BQ1HMU4W8dCP) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/3NVnrjjiPoDxffSvrwwSAa) | 3:08 | 2023-01-10 | 2023-03-09 |

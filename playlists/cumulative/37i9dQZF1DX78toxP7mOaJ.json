@@ -8503,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "Four Leaf Clover",
+        "url": "https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB"
+      },
+      "artists": [
+        {
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274120,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC"
+    },
+    {
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz"
       },

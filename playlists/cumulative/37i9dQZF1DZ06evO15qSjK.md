@@ -2,7 +2,7 @@
 
 ### [This Is Kidz Bop Kids](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15qSjK)
 
-> This is Kidz Bop Kids\. The essential tracks, all in one playlist.
+> This Is Kidz Bop Kids\. Los temas esenciales, todos en una lista.
 
 107 songs - 5 hr 17 min
 

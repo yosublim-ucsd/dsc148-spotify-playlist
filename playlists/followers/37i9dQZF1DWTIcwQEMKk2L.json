@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 67723,
+  "2024-04-20": 67667,
   "date_first_scraped": "2023-11-26",
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
   "name": "\u5b89\u5be7\u92fc\u7434\u8072",
@@ -119,10 +119,28 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142857,
       "name": "Adagietto",
       "url": "https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x"
+    },
+    {
+      "album": {
+        "name": "Days of Tomorrow",
+        "url": "https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH"
+      },
+      "artists": [
+        {
+          "name": "Penny Layn",
+          "url": "https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Alteration For Life",
+      "url": "https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd"
     },
     {
       "album": {
@@ -173,7 +191,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227184,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
@@ -245,7 +263,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311066,
       "name": "At Least Give Me My Dreams Back, You Negligent Whore!",
       "url": "https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw"
@@ -357,6 +375,24 @@
       "duration_ms": 149495,
       "name": "Box Of Photos",
       "url": "https://open.spotify.com/track/1du3L7rqD0PrJSrNE0ye0q"
+    },
+    {
+      "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     },
     {
       "album": {
@@ -515,7 +551,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194413,
       "name": "Endless Time",
       "url": "https://open.spotify.com/track/0pkdDoLKIe3a2zdi9MTUMl"
@@ -731,7 +767,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 107250,
       "name": "Greensleaves",
       "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
@@ -821,7 +857,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 107426,
       "name": "Home",
       "url": "https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS"
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 130267,
       "name": "Mass",
       "url": "https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS"
@@ -1311,7 +1347,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124864,
       "name": "Moving Silence",
       "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
@@ -1437,7 +1473,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209502,
       "name": "Only in the Dark",
       "url": "https://open.spotify.com/track/3dX87nGdE9AdBbFPBN6JyD"
@@ -1625,7 +1661,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442400,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/4BMHp3DkI8VLsuB9Kr0pzu"
@@ -1697,7 +1733,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 165944,
       "name": "Raindrops in my heart",
       "url": "https://open.spotify.com/track/4dsIYysg4UCK4QmT71F5pW"
@@ -1794,6 +1830,24 @@
     },
     {
       "album": {
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
+    },
+    {
+      "album": {
         "name": "Oddities",
         "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
       },
@@ -1884,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "Storytelling",
+        "url": "https://open.spotify.com/album/5yB8ypsLT0ttxv0wSLM5IM"
+      },
+      "artists": [
+        {
+          "name": "Pathos Humano",
+          "url": "https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Storytelling",
+      "url": "https://open.spotify.com/track/2vVbuQJCiq6MfvmcQil2oW"
+    },
+    {
+      "album": {
         "name": "Liszt",
         "url": "https://open.spotify.com/album/12TLeKJv0q5fnF2obaf6Is"
       },
@@ -1899,7 +1971,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357746,
       "name": "St\u00e4ndchen in D Minor (After Schubert), S. 560",
       "url": "https://open.spotify.com/track/3GecLjGMqzjmgkvy2v41Wf"
@@ -1917,7 +1989,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89893,
       "name": "Summer Waltz / The Drive",
       "url": "https://open.spotify.com/track/3Og6m4ltVGu3OteMm1Qw5F"
@@ -1953,7 +2025,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 132773,
       "name": "Swear on this Life",
       "url": "https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux"
@@ -2205,7 +2277,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
@@ -2259,7 +2331,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 127750,
       "name": "What if we never met",
       "url": "https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j"

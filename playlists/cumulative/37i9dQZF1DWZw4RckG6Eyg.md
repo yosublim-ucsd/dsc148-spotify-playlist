@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-222 songs - 12 hr 20 min
+223 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [melody wo koshiraeru](https://open.spotify.com/track/0w0BvlCBmvpo2C6IrgWCPy) | [Soul Babies](https://open.spotify.com/artist/4XcuqT0ZwHVBmB5sDUS0du) | [Soulbabies](https://open.spotify.com/album/4v6OaKJ1i0f9rNxAktNzCV) | 4:10 | 2022-11-30 | 2023-11-30 |
 | [Mi Amor](https://open.spotify.com/track/43LaVZm8uQN9RIj2j5JxCn) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/4qHKbdVCVJXbhXKrt2m1mE) | 2:38 | 2022-11-30 | 2023-04-30 |
 | [Mi Amor](https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Mi Amor](https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE) | 2:38 | 2022-11-30 | 2023-11-30 |
-| [milksugar](https://open.spotify.com/track/43jUhG1nmQC554vGhgbXnj) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/53bJVtuHxm3EkMaLLwpvUt) | 5:36 | 2023-11-29 |  |
+| [milksugar](https://open.spotify.com/track/43jUhG1nmQC554vGhgbXnj) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/53bJVtuHxm3EkMaLLwpvUt) | 5:36 | 2023-11-29 | 2024-04-20 |
 | [milksugar](https://open.spotify.com/track/5VCDVwFsQSyiFWaKzJKC3C) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/415GabuRFqf1xtBC9pih6T) | 5:36 | 2023-11-29 | 2024-04-19 |
 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 | 2023-11-29 |  |
 | [Mirror Dance](https://open.spotify.com/track/6SXfklnxW14O5gKqkBNaMm) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [Dame Dearest \(Pilot\)](https://open.spotify.com/album/4XbrkI4jqtyaUr7cBnwz4L) | 3:03 | 2022-11-30 | 2023-11-30 |
@@ -176,6 +176,7 @@
 | [razzz](https://open.spotify.com/track/0r1P4UrsF4eziG4H0tSdfp) | [SuperParka](https://open.spotify.com/artist/5TztG8UlidyWr5gcdHho1l) | [razzz](https://open.spotify.com/album/6XQTzv10FuopeSzluhIWUB) | 2:26 | 2023-11-29 |  |
 | [redemption](https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [redemption](https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6) | 2:18 | 2023-11-29 |  |
 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 | 2023-11-29 |  |
+| [Root Canal](https://open.spotify.com/track/41QKSwPaV7ADagGinXHeTv) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Root Canal](https://open.spotify.com/album/7vhWbzeW452VtyAhpFsVyM) | 3:16 | 2023-11-29 |  |
 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 | 2023-11-29 |  |
 | [Salad](https://open.spotify.com/track/4wHo9RDSY0elxbeiMpYNLN) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 4:34 | 2023-11-29 | 2024-04-19 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-11-29 |  |

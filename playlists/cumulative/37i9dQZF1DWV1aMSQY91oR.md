@@ -4,12 +4,12 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Headie One, Stormzy
 
-2,152 songs - 4 day 7 hr 46 min
+2,153 songs - 4 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$outhside Story ft\. Common](https://open.spotify.com/track/2WLZnJCz7eOOJgN9fH2uvs) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Victor](https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH) | 3:16 | 2023-09-15 | 2023-09-30 |
-| [$tandin On Bidness](https://open.spotify.com/track/7EGbNx41saZ7av58d998Fk) | [NorthSideBaby](https://open.spotify.com/artist/0l9tQsNc6OdBFexHhjrI23) | [$tandin On Bidness](https://open.spotify.com/album/5qmfq30cl0MEtkaLOyXQZc) | 2:22 | 2024-04-12 |  |
+| [$tandin On Bidness](https://open.spotify.com/track/7EGbNx41saZ7av58d998Fk) | [NorthSideBaby](https://open.spotify.com/artist/0l9tQsNc6OdBFexHhjrI23) | [$tandin On Bidness](https://open.spotify.com/album/5qmfq30cl0MEtkaLOyXQZc) | 2:22 | 2024-04-12 | 2024-04-20 |
 | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [$WISH ft\. G\-Eazy and Chance The Rapper](https://open.spotify.com/album/0suVVYEcV3LWxREKaLyOGn) | 3:45 | 2023-04-21 | 2023-04-29 |
 | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/track/0cNLTORxh13lT9QQQlI9jG) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | ['96 Bulls \(feat\. Drezus\)](https://open.spotify.com/album/6NHaN1FJALiFBGxHJFdeBI) | 3:04 | 2023-11-24 | 2023-12-02 |
 | [+4416](https://open.spotify.com/track/1ZjnVt2btJQ7UTTnfXwgyt) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [+4416](https://open.spotify.com/album/1aO1aVkr2H4irfqb28Qrs0) | 3:17 | 2023-03-31 | 2023-04-09 |
@@ -1498,6 +1498,7 @@
 | [Pull Up \(feat\. 21 Savage\)](https://open.spotify.com/track/4EzkcqltSOxYE2lstuLOFs) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [NAUJOUR](https://open.spotify.com/album/2pAylLmyj0wmHy5JjL0h6V) | 2:13 | 2023-06-02 | 2023-06-17 |
 | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/track/3vKr18DG46xtZ5FM8R52et) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Pup \(feat\. Luh Tyler\)](https://open.spotify.com/album/2f3LlIcQZR3oXSifiomh3l) | 3:11 | 2023-08-18 | 2023-08-26 |
 | [Purge](https://open.spotify.com/track/2ZxJIYns5dyXkvlnbKri3V) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [Purge](https://open.spotify.com/album/34MtF6eu3J8CkNsLh8qt93) | 2:46 | 2023-05-05 | 2023-05-13 |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 |  |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2023-12-22 | 2024-01-06 |
 | [Put It On Da Floor](https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Put It On Da Floor](https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS) | 3:01 | 2023-04-21 | 2023-04-29 |
 | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/track/4TYLdoKFwfnFHrgsTH0bit) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/album/3SdAsOeEizCDHMZMWGPPMj) | 4:00 | 2023-06-09 | 2023-06-17 |

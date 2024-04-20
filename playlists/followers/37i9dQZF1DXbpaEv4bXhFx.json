@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13550,
+  "2024-04-20": 13544,
   "date_first_scraped": "2022-06-22",
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
   "name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
@@ -53,10 +53,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 236097,
       "name": "A Kind Of Confession (Male Ver.)",
       "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
+    },
+    {
+      "album": {
+        "name": "Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "A Trivial Story",
+      "url": "https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf"
     },
     {
       "album": {
@@ -267,7 +285,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216399,
       "name": "bird",
       "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 167480,
       "name": "Deep in the night, you and me",
       "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210850,
       "name": "Don't be sad",
       "url": "https://open.spotify.com/track/6SU5PLvEAozLFwKRCI26NT"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218456,
       "name": "Fall in Love Again",
       "url": "https://open.spotify.com/track/623MRGJs27mi0ne71LEqGa"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164893,
       "name": "From the Rain (Feat. Ahn Ye Eun)",
       "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5I9T77pGZ9rikjJ9f8Cdrt"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248051,
       "name": "MISSING U",
       "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "My Ceiling Disappeared",
       "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237217,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3XvpMrRSAMDeVLZOqCrDuU"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 222285,
       "name": "Rainy Season",
       "url": "https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228500,
       "name": "ride",
       "url": "https://open.spotify.com/track/67KfktISVA3XHSRqge5JiB"
@@ -3159,10 +3177,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255253,
       "name": "Seed",
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR"
     },
     {
       "album": {
@@ -3177,7 +3213,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 235346,
       "name": "Shadow Love",
       "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
@@ -3387,7 +3423,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212666,
       "name": "Special",
       "url": "https://open.spotify.com/track/0mJXYwO3SY1botH8lBfjBQ"
@@ -3405,7 +3441,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 161738,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
@@ -3427,6 +3463,24 @@
       "duration_ms": 256959,
       "name": "Sun Shower",
       "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
+    },
+    {
+      "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
     },
     {
       "album": {
@@ -3641,7 +3695,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
@@ -3677,7 +3731,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"
@@ -3757,7 +3811,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-07",
+      "date_removed": null,
       "duration_ms": 188760,
       "name": "Umbrella (feat. Ashley Alisha & prettyhappy)",
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
@@ -3775,7 +3829,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272000,
       "name": "WA-R-R",
       "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
@@ -3863,7 +3917,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248906,
       "name": "Walking In The Rain (feat. Younha)",
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
@@ -4239,7 +4293,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 216373,
       "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
       "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"

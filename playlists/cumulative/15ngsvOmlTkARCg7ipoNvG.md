@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,755 songs - 1 day 12 hr 20 min
+1,758 songs - 1 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Forgiving Times \- Cello Version](https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Forgiving Times](https://open.spotify.com/album/2n0vBsVAWzmbwuM4YsYBK4) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Forgiving Times Arr\. For Strings](https://open.spotify.com/track/6YDWylhDSKTsMuUz7TLsum) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Forgiving Times Arr\. For Strings](https://open.spotify.com/album/3wUFg8a9aYgpZUUrkYshEv) | 1:00 | 2023-09-27 |  |
 | [Forward Together](https://open.spotify.com/track/57nzVFPqrEPnsMJEXmdXHe) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Acceptance](https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz) | 1:06 | 2022-01-12 |  |
+| [Found \- Piano Lullaby Version](https://open.spotify.com/track/3qxGQAiAc4jIPE2M4R2FPX) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Found](https://open.spotify.com/album/4VDKpdoqS9XnvfeAjVMU3M) | 1:00 | 2024-04-19 |  |
 | [Found and Lost](https://open.spotify.com/track/5ZiTk9bTnXha6YqjL8PYX2) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Melancholy](https://open.spotify.com/album/4w5UWNsIFePMRrgx147NvB) | 1:49 | 2022-01-12 | 2024-01-30 |
 | [Found In Stillness](https://open.spotify.com/track/3Isgkwl2QlHFVQpvWOMhfR) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:40 | 2022-01-20 |  |
 | [Foundation Road](https://open.spotify.com/track/7H9njohtD2IhVyRrLgC5uZ) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-11 | 2024-01-30 |
@@ -1362,6 +1363,7 @@
 | [Slow Motion Arr\. For Cello](https://open.spotify.com/track/2FPMVNd9Ib7U9iwTiBThF4) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion](https://open.spotify.com/album/4WLwsjuSi5qAgk9anYKGd1) | 1:00 | 2023-04-19 | 2024-02-13 |
 | [Slow Motion Arr\. For Strings](https://open.spotify.com/track/0UZPE87NB5clcBB5Q5zZ3G) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Slow Motion Arr\. For Strings](https://open.spotify.com/album/3TN0A6kek2KJVdJlyw2i9E) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Slow Silent Mornings](https://open.spotify.com/track/1okjExwd3o4fLMPq7DDs9q) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Seasons Of Love](https://open.spotify.com/album/5kEODQtm9tt4eDxkV6MXvr) | 1:08 | 2022-02-15 | 2024-01-30 |
+| [Slowly](https://open.spotify.com/track/4sU9zoxXNthdp4fgHT1L4P) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Slowly](https://open.spotify.com/album/07giOXMdNcURbgUa8iuy3D) | 1:00 | 2024-04-19 |  |
 | [Slowly Back To Life](https://open.spotify.com/track/3xB9dMb8CA62IEttUatvHR) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:32 | 2022-01-12 |  |
 | [Slowly Emerging](https://open.spotify.com/track/2OdSMZgPc75kuWPevZ8Bi5) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:27 | 2022-01-12 |  |
 | [Slowly Fading Away Arr\. For Cello And Piano](https://open.spotify.com/track/3QLJVgUkvxIInpmHrpu0A6) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Winter Shadows](https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0) | 1:01 | 2023-04-19 | 2024-02-13 |
@@ -1492,6 +1494,7 @@
 | [Sunshine](https://open.spotify.com/track/5vEuNl0rC6CGWh6rAzX2iE) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Sunshine](https://open.spotify.com/album/3Ot3lma2YBy3YlZHBXqlO1) | 2:12 | 2022-01-12 | 2024-01-30 |
 | [Sunshine \- Cello Version](https://open.spotify.com/track/1uWSnTOYzUDfuuhnY2Ab37) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Sunshine](https://open.spotify.com/album/3Ot3lma2YBy3YlZHBXqlO1) | 2:12 | 2022-01-12 | 2023-04-09 |
 | [Sunshine Lullaby](https://open.spotify.com/track/3XX1IQkjpB7hdb67cztMXV) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:19 | 2022-01-20 | 2024-01-30 |
+| [Surfaces](https://open.spotify.com/track/2NZ3XGg8XJpyVYgV7qVjAF) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Surfaces](https://open.spotify.com/album/0MfTC9mi9GgahhzLbFdce3) | 1:00 | 2024-04-19 |  |
 | [Surrender](https://open.spotify.com/track/31OhD0GfRA1LYHmKXOtjPX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Surrender](https://open.spotify.com/album/0stB3kqBTVYPmcy22vQktC) | 1:56 | 2024-01-29 |  |
 | [Surrendering](https://open.spotify.com/track/3QtejYDrh1PEJY04L05Ayp) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Surrendering](https://open.spotify.com/album/5X6qwCKfNiJiUx3vL4C4Ta) | 1:01 | 2022-06-18 |  |
 | [Suspend](https://open.spotify.com/track/09fxKNlrgSsNiPhkhIuIg6) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:24 | 2022-01-15 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 56177,
+  "2024-04-20": 56210,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -447,7 +447,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145650,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/4JPo4J1xN78RG0Ggxet8hg"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 262550,
       "name": "Come Take My Hand - Ran-D Remix",
       "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262550,
       "name": "Come Take My Hand - Ran-D Remix",
       "url": "https://open.spotify.com/track/7nypeU3hLjP6ZbZdmCkO1w"
@@ -849,10 +849,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151058,
       "name": "DMT",
       "url": "https://open.spotify.com/track/063YSXc8E2MUCermhiW0Te"
+    },
+    {
+      "album": {
+        "name": "DMT",
+        "url": "https://open.spotify.com/album/6msLqQyizELkWWqmGgQPJU"
+      },
+      "artists": [
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "DMT",
+      "url": "https://open.spotify.com/track/3HuNjm20NPOD5BzlvBlWXD"
     },
     {
       "album": {
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241500,
       "name": "Firestone",
       "url": "https://open.spotify.com/track/1zCGt1MomJgyEHzdSmh93f"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142400,
       "name": "Human Error",
       "url": "https://open.spotify.com/track/3OBRKvtaxmh64E15OgIuif"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 218322,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215688,
       "name": "Let's Go Insane (Into The Madness 2023 OST)",
       "url": "https://open.spotify.com/track/4sCkVuX3Nj0guPB7LCksHt"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 171096,
       "name": "Love, Bass & Happiness",
       "url": "https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4"
@@ -2837,7 +2855,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 188914,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/4IMmJyNPll5HorW8Ip2HCS"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 263225,
       "name": "Rise Of The Tribe",
       "url": "https://open.spotify.com/track/2G21IeSXw1q1rhSbnkOtOq"
@@ -3283,7 +3301,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 272895,
       "name": "The Kraken",
       "url": "https://open.spotify.com/track/398aJwlA11z0Nep0NQlORu"
@@ -3377,7 +3395,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262101,
       "name": "The Raven Of The Night",
       "url": "https://open.spotify.com/track/0oVJSca1wBgRRKaPNnos7U"
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249406,
       "name": "Thundercloud",
       "url": "https://open.spotify.com/track/5hLhFvN7riIUdv5guZu0Zh"
@@ -3559,7 +3577,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3boSIX0nw5AGdoo7LjAKEQ"

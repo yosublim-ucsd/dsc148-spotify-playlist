@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 96809,
+  "2024-04-20": 96889,
   "date_first_scraped": "2022-06-22",
   "description": "The finest set of Malayalam music from the past 10 years.\nCover : Manjummel Boys",
   "name": "Mollywood Gold",
@@ -392,6 +392,24 @@
     },
     {
       "album": {
+        "name": "Athmave Poo (From \"Romancham\")",
+        "url": "https://open.spotify.com/album/5wPX6VrVyz7YpSSB8blJAD"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216976,
+      "name": "Athmave Poo",
+      "url": "https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1"
+    },
+    {
+      "album": {
         "name": "Athmave Poo (From \"Romancham\") - Single",
         "url": "https://open.spotify.com/album/44aS3PHWN0lWZJgqbg0Iai"
       },
@@ -407,7 +425,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216976,
       "name": "Athmave Poo (From \"Romancham\")",
       "url": "https://open.spotify.com/track/4AT2lYbyTiXIDc09bIN0V7"
@@ -419,17 +437,13 @@
       },
       "artists": [
         {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+          "name": "Sithara Krishnakumar,Sushin Shyam",
+          "url": "https://open.spotify.com/artist/5aMk6DtFyuKqPEskoEkEhC"
         }
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 221370,
       "name": "Cherathukal",
       "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
@@ -473,7 +487,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224016,
       "name": "Cherathukal (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/28QVx4uaJ7ykBiPFkzTYWn"
@@ -2064,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "Mandharapoove (From \"Kumari\")",
+        "url": "https://open.spotify.com/album/3KJipat0D3NkRxQRXATByo"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Aavani Malhar",
+          "url": "https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240606,
+      "name": "Mandharapoove",
+      "url": "https://open.spotify.com/track/3PYUbRTcQ2aXvPJaZ6A6H9"
+    },
+    {
+      "album": {
         "name": "Mandharapoove (From \"Kumari\") - Single",
         "url": "https://open.spotify.com/album/0P8tywlgqtbcAB0BZFAGN7"
       },
@@ -2083,7 +2119,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240606,
       "name": "Mandharapoove (From \"Kumari\")",
       "url": "https://open.spotify.com/track/0md9xaiSP9NADGM78p6byG"
@@ -2515,10 +2551,32 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253000,
       "name": "Neela Nilave (From \"RDX\")",
       "url": "https://open.spotify.com/track/73rMD23ocpYxwQXJQJyRDv"
+    },
+    {
+      "album": {
+        "name": "Neela Nilave (From \"RDX\")",
+        "url": "https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ"
     },
     {
       "album": {
@@ -2639,7 +2697,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228484,
       "name": "Nilapakshi Happy Version",
       "url": "https://open.spotify.com/track/6GuUpRsSJAhdkwWGoW9Kfx"
@@ -2665,7 +2723,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 228484,
       "name": "Nilapakshi Happy Version",
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
@@ -3050,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "PakalIravukal - Kurup - Malayalam",
+        "url": "https://open.spotify.com/album/6Ihw5iaPPj87lrZwyksSmc"
+      },
+      "artists": [
+        {
+          "name": "Neha Nair",
+          "url": "https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk"
+        },
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213051,
+      "name": "PakalIravukal",
+      "url": "https://open.spotify.com/track/4ZQA0norYP8HHLJszeWvvd"
+    },
+    {
+      "album": {
         "name": "PakalIravukal (From \"Kurup\") - Single",
         "url": "https://open.spotify.com/album/2Pw0C9hhfkYvzwQl3oJtAS"
       },
@@ -3065,7 +3145,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213051,
       "name": "PakalIravukal (From \"Kurup\")",
       "url": "https://open.spotify.com/track/11Sw3eTPiS3svF1PFA7j1p"
@@ -3615,7 +3695,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294144,
       "name": "Sakhiyeee (From \"Thrissur Pooram\")",
       "url": "https://open.spotify.com/track/6v1lIN2biwtz9oCagGe0c6"
@@ -3637,7 +3717,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 294124,
       "name": "Sakhiyeee - From \"Thrissur Pooram\"",
       "url": "https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc"
@@ -3949,7 +4029,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 263082,
       "name": "Theerame",
       "url": "https://open.spotify.com/track/3UHB6erVvDNX0OaqX3ncO3"
@@ -3979,7 +4059,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263082,
       "name": "Theerame",
       "url": "https://open.spotify.com/track/4mjS1p9StkylrZPj6LIkjg"
@@ -4343,7 +4423,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 236013,
       "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
@@ -4395,7 +4475,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236013,
       "name": "Uyiril Thodum (From \"Kumbalangi Nights\")",
       "url": "https://open.spotify.com/track/6nbLOcHQ1ACZrTsRyAOi1U"

@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-581 songs - 1 day 4 hr 34 min
+582 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bend The Whip](https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Bend The Whip](https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB) | 2:43 | 2023-11-02 |  |
 | [Bible Going Viral](https://open.spotify.com/track/2e8BtzqjrkHkZrCovqCduc) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bible Going Viral](https://open.spotify.com/album/4PxerXPjuR8hSu4GLmcYBu) | 3:00 | 2022-03-11 | 2022-03-24 |
 | [BIG GOD](https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [BIG GOD](https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS) | 2:56 | 2023-12-15 |  |
+| [BLESSED](https://open.spotify.com/track/51I93kSJksxIWnjO2S47II) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [Caleb Golden](https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma) | [BLESSED](https://open.spotify.com/album/3BePNExIOm54F4e5h40r86) | 2:39 | 2024-03-20 |  |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-03-11 | 2024-01-13 |
 | [Blessed Up](https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Blessed Up](https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc) | 3:01 | 2022-02-04 | 2023-08-12 |
 | [Blessing](https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Blessing](https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z) | 3:04 | 2024-02-02 |  |
@@ -516,7 +517,7 @@
 | [This World Is Not My Home](https://open.spotify.com/track/36Q3K9sJqgjCyGbHWW7u63) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [This World Is Not My Home](https://open.spotify.com/album/65rWZ61zIkHGrclFdek0bp) | 2:42 | 2022-02-04 | 2022-07-18 |
 | [Throne](https://open.spotify.com/track/416twUmy9zFdu6h5EUQKDR) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [Throne](https://open.spotify.com/album/3ymogYBsMvQFO8jf0uwLpQ) | 2:42 | 2023-08-11 | 2023-11-09 |
 | [Tightrope](https://open.spotify.com/track/4OFgV7VLucicq9q6Fii4Wy) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Tightrope](https://open.spotify.com/album/4Ux6A6SaLPueWDwfEemqwh) | 3:43 | 2022-02-04 | 2022-05-29 |
-| [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 | 2023-12-01 |  |
+| [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 | 2023-12-01 | 2024-04-20 |
 | [Til The Day I Die](https://open.spotify.com/track/2v49NJk4EhgM4xVkNKrfqc) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:47 | 2022-02-04 | 2022-07-18 |
 | [Today](https://open.spotify.com/track/2NGZ6qTITDhWxRtB2GQ30B) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Today](https://open.spotify.com/album/0bpirtY2C9rDko6GSTZzzh) | 2:09 | 2022-12-16 | 2023-08-12 |
 | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/track/6Zn4QgUQz6btDonLQwhHta) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Too Easy \(feat\. Parris Chariz & Jon Keith\)](https://open.spotify.com/album/41CUu6uafLU74cZtNwHERv) | 3:36 | 2022-02-04 | 2022-07-28 |

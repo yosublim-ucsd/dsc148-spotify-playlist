@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 71915,
+  "2024-04-20": 71937,
   "date_first_scraped": "2023-02-25",
   "description": "<a href=\"spotify:artist:3gNEIgLeknpwkNViU8WAhg\">Oceanvs Orientalis</a>' favorite tracks. Updated regularly. Curated by Oceanvs Orientalis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Oceanvs Orientalis' track IDs",
@@ -575,6 +575,24 @@
     {
       "album": {
         "name": "Arsnova",
+        "url": "https://open.spotify.com/album/3bTuwlBQGmCU2Y3ueDvGUg"
+      },
+      "artists": [
+        {
+          "name": "Ak\u0131n Sevg\u00f6r",
+          "url": "https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441300,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/2avxfGxmg06kIetQ38kD9q"
+    },
+    {
+      "album": {
+        "name": "Arsnova",
         "url": "https://open.spotify.com/album/5WPjgRBrXqrLfQp4zctjjd"
       },
       "artists": [
@@ -585,7 +603,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 441300,
       "name": "Dialogue",
       "url": "https://open.spotify.com/track/6rivY3np1i0zKbBeDvYJ5V"
@@ -603,10 +621,32 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273829,
       "name": "Dimanche",
       "url": "https://open.spotify.com/track/72rLUZXj0Yq2Q3LR4YSQ7v"
+    },
+    {
+      "album": {
+        "name": "Dimanche - EP",
+        "url": "https://open.spotify.com/album/06niwizBJu0cXyrVXWl4iI"
+      },
+      "artists": [
+        {
+          "name": "CLAAP!",
+          "url": "https://open.spotify.com/artist/4DK1qq54kEAEmFiQlDYAD3"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/5Wt9Hqk4LBFLKU5L5nobjJ"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273829,
+      "name": "Dimanche",
+      "url": "https://open.spotify.com/track/2omQY42P8l0YVqG2vhovUO"
     },
     {
       "album": {
@@ -781,7 +821,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 405402,
       "name": "Final Eclipse (Full Version)",
       "url": "https://open.spotify.com/track/0KfMoDziaCNa4SS48VG3KG"
@@ -799,7 +839,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405402,
       "name": "Final Eclipse (Full Version)",
       "url": "https://open.spotify.com/track/3DJKmPCfYxTY2sJSDTn2nJ"
@@ -817,10 +857,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323571,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/2QhE4C2nl81K0rB8FkBIxs"
+    },
+    {
+      "album": {
+        "name": "A Western Tale",
+        "url": "https://open.spotify.com/album/4RhCtOj0aaa2bkFHXEnIUg"
+      },
+      "artists": [
+        {
+          "name": "Ilya Santana",
+          "url": "https://open.spotify.com/artist/17d7B3Sa8rMfouwv0PzHp4"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323571,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/7E0Z3vobykgsQiLqLXsJq5"
     },
     {
       "album": {
@@ -1331,7 +1389,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278073,
       "name": "Jumprope - SAFER Remix",
       "url": "https://open.spotify.com/track/18xEKrCQ6kdQ0sGtNzmEd1"
@@ -1353,7 +1411,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Jumprope - SAFER Remix",
       "url": "https://open.spotify.com/track/44iTLYoLiuuyRuFfnyjrfA"
@@ -1803,6 +1861,28 @@
     {
       "album": {
         "name": "Night Owl",
+        "url": "https://open.spotify.com/album/4Enz8DFB6Ue4rUCenfucpw"
+      },
+      "artists": [
+        {
+          "name": "Cihangir Aslan",
+          "url": "https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD"
+        },
+        {
+          "name": "Dilan Balkay",
+          "url": "https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376082,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/26K1uubDB1A4RHvadCD5U9"
+    },
+    {
+      "album": {
+        "name": "Night Owl",
         "url": "https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns"
       },
       "artists": [
@@ -1817,7 +1897,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376082,
       "name": "Night Owl",
       "url": "https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr"
@@ -1951,7 +2031,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7eSZ01vwRY59uAzGt5V3lP"
@@ -1973,7 +2053,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 463540,
       "name": "Pire",
       "url": "https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C"
@@ -2017,10 +2097,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397246,
       "name": "Purple Rose",
       "url": "https://open.spotify.com/track/4eijCHExCy4mmggrhhiEeN"
+    },
+    {
+      "album": {
+        "name": "Independent Dancer",
+        "url": "https://open.spotify.com/album/5UiZ3oyLL0wiJC67Cby9Nj"
+      },
+      "artists": [
+        {
+          "name": "Kalabrese",
+          "url": "https://open.spotify.com/artist/2MUENaxB93ZPNclZIDEMMV"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397246,
+      "name": "Purple Rose",
+      "url": "https://open.spotify.com/track/5UwQOhaobmeEBrJjxQ6rga"
     },
     {
       "album": {
@@ -2549,10 +2647,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179213,
       "name": "Toc",
       "url": "https://open.spotify.com/track/1Xi4osFvg12se2UN8XjVlw"
+    },
+    {
+      "album": {
+        "name": "Studies of Tom Z\u00e9: Explaining Things So I Can Confuse You",
+        "url": "https://open.spotify.com/album/2tkyUmRGFFYdOUYWn2MTA1"
+      },
+      "artists": [
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Toc",
+      "url": "https://open.spotify.com/track/1yzfHi5HQMSbZcRAdt9jqx"
     },
     {
       "album": {
@@ -2575,6 +2691,24 @@
     {
       "album": {
         "name": "Channel Tres",
+        "url": "https://open.spotify.com/album/4pbf36fsCW0oe7myRLZEtz"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230013,
+      "name": "Topdown",
+      "url": "https://open.spotify.com/track/56dDonzTxrZKWuVDqUOYGd"
+    },
+    {
+      "album": {
+        "name": "Channel Tres",
         "url": "https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG"
       },
       "artists": [
@@ -2585,7 +2719,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5"
@@ -2875,10 +3009,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 486663,
       "name": "Yari",
       "url": "https://open.spotify.com/track/6fU1tLDHZqbJR8zeEdcwpy"
+    },
+    {
+      "album": {
+        "name": "Aragatz",
+        "url": "https://open.spotify.com/album/76ORVgHLwFHWHCnO0Z5i8D"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486663,
+      "name": "Yari",
+      "url": "https://open.spotify.com/track/70OeOClu8CcBA0lfHyfr1u"
     },
     {
       "album": {
@@ -2915,10 +3067,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3"
+    },
+    {
+      "album": {
+        "name": "Kaybola (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2vFZvURhhAlbOsqofH0fye"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406308,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/62l8penIChjWDiay8jDnzR"
     },
     {
       "album": {

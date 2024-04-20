@@ -2,7 +2,7 @@
 
 ### [This Is Helmet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bwPeF)
 
-> This is Helmet\. The essential tracks, all in one playlist.
+> This Is Helmet\. Los temas esenciales, todos en una lista.
 
 81 songs - 4 hr 30 min
 

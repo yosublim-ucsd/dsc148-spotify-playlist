@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 115882,
+  "2024-04-20": 115940,
   "date_first_scraped": "2024-01-26",
   "description": "Floor fillers and big streamers of 2014.",
   "name": "Dance Hits of 2014",
@@ -43,10 +43,62 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195000,
       "name": "Ah Yeah So What",
       "url": "https://open.spotify.com/track/7Gf1QHOnNvEExTLFSclfiM"
+    },
+    {
+      "album": {
+        "name": "Ah Yeah So What",
+        "url": "https://open.spotify.com/album/0O6VKi6sTFS7xUsG2I85C1"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        },
+        {
+          "name": "Elen Levon",
+          "url": "https://open.spotify.com/artist/3gClSlUEpEoQd4IldcqBUz"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Ah Yeah So What - Radio Edit",
+      "url": "https://open.spotify.com/track/37PuGmhHTzDbbaUAFKj6bJ"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Special Edition)",
+        "url": "https://open.spotify.com/album/2buNSPalbxgT5kdFVYzfWG"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jason Agel",
+          "url": "https://open.spotify.com/artist/1fiatwjGipTH7cFxTeyKOP"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251613,
+      "name": "All of Me (Ti\u00ebsto's Birthday Treatment Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/3OgesRs9A97HaLMZEWBM9a"
     },
     {
       "album": {
@@ -69,7 +121,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251613,
       "name": "All of Me - Ti\u00ebsto's Birthday Treatment Remix - Radio Edit",
       "url": "https://open.spotify.com/track/1mzGywacjpeik00PVLBPpF"
@@ -94,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Anywhere For You",
+        "url": "https://open.spotify.com/album/4TLtJYTNGu0GQTo5g7RrxI"
+      },
+      "artists": [
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213928,
+      "name": "Anywhere For You",
+      "url": "https://open.spotify.com/track/7nkOH6CQX02HDuXKWYuh1I"
+    },
+    {
+      "album": {
         "name": "Anywhere For You (Radio Edit)",
         "url": "https://open.spotify.com/album/0O963NjJ6ERKS1VAVc3fas"
       },
@@ -105,7 +175,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209620,
       "name": "Anywhere For You - Radio Edit",
       "url": "https://open.spotify.com/track/73X5bX2sYzTkjvYe0Dvfyh"
@@ -233,10 +303,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255093,
       "name": "Cocaine Model",
       "url": "https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq"
+    },
+    {
+      "album": {
+        "name": "Nightday (EP)",
+        "url": "https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255094,
+      "name": "Cocaine Model",
+      "url": "https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ"
     },
     {
       "album": {
@@ -299,10 +387,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180200,
       "name": "Dance Our Tears Away - Radio Edit",
       "url": "https://open.spotify.com/track/3McNdDyfNiMXi2nTIP8lKp"
+    },
+    {
+      "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Dance Our Tears Away - Radio Edit",
+      "url": "https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy"
     },
     {
       "album": {
@@ -321,10 +431,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203641,
       "name": "Dangerous (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/2w2lfwoTELQyN940qM7Nfd"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203641,
+      "name": "Dangerous (feat. Sam Martin)",
+      "url": "https://open.spotify.com/track/7pqgMEKsDMOHUdFQ7n0N9K"
     },
     {
       "album": {
@@ -359,6 +491,24 @@
     {
       "album": {
         "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/20ouJW3BTG6aFAugslihCw"
+    },
+    {
+      "album": {
+        "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
       "artists": [
@@ -373,10 +523,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203204,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4ZH03VC3uJk7uKk7CwsBqH"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306323,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa"
     },
     {
       "album": {
@@ -395,10 +567,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306440,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/4y8XhpQ7YqFLyz2o7c7r7X"
+    },
+    {
+      "album": {
+        "name": "Nightday (EP)",
+        "url": "https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223386,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq"
     },
     {
       "album": {
@@ -413,7 +603,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223480,
       "name": "Faded",
       "url": "https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz"
@@ -439,10 +629,36 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203306,
       "name": "Find You",
       "url": "https://open.spotify.com/track/1gpF8IwQQj8qOeVjHfIIDU"
+    },
+    {
+      "album": {
+        "name": "Clarity (Deluxe)",
+        "url": "https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD"
     },
     {
       "album": {
@@ -487,7 +703,7 @@
     {
       "album": {
         "name": "Freaks",
-        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+        "url": "https://open.spotify.com/album/4N8JGZRiTgGcUz9IamhsQ8"
       },
       "artists": [
         {
@@ -502,6 +718,28 @@
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/62feRreeM9ea7i2VHVSKrg"
+    },
+    {
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 169160,
       "name": "Freaks - Radio Edit",
       "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
@@ -545,10 +783,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206449,
       "name": "Helicopter - Video Edit",
       "url": "https://open.spotify.com/track/1CT9ebtobcouQw7G9mZ9AV"
+    },
+    {
+      "album": {
+        "name": "Helicopter (Video Edit)",
+        "url": "https://open.spotify.com/album/2t1UQX5LRJ6NrgJFob9dMu"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206449,
+      "name": "Helicopter - Video Edit",
+      "url": "https://open.spotify.com/track/5sIIceDctMiaTaXRUhSK4e"
     },
     {
       "album": {
@@ -567,6 +827,36 @@
       "duration_ms": 226307,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6BAnxKyld909yo6Pk1DO3r"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+      "url": "https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm"
     },
     {
       "album": {
@@ -593,7 +883,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192560,
       "name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
       "url": "https://open.spotify.com/track/5b2bu6yyATC1zMXDGScJ2d"
@@ -673,10 +963,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186066,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/5nrdOK0i7daIsDAt4zRbHM"
+    },
+    {
+      "album": {
+        "name": "I Wanna Feel (Remixes)",
+        "url": "https://open.spotify.com/album/4JGh8iizIHkiMm6GrRf43u"
+      },
+      "artists": [
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185934,
+      "name": "I Wanna Feel - Radio Edit",
+      "url": "https://open.spotify.com/track/1rj4TnlFsWbxjMXdCCsrzt"
     },
     {
       "album": {
@@ -695,10 +1003,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217960,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2VGTe5PkHOlZuayLYDjtb1"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1tfrh7jInz0lgBamg12OFj"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Katy Menditta",
+          "url": "https://open.spotify.com/artist/106MIqAGadRmicPsEfwZTn"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/3ZrWmt3DGH75hItHp6uWLz"
     },
     {
       "album": {
@@ -739,10 +1069,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203520,
       "name": "Lovers on the Sun (feat. Sam Martin)",
       "url": "https://open.spotify.com/track/2i2zYdN4KCkTCDscdMYr87"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Lovers on the Sun (feat. Sam Martin)",
+      "url": "https://open.spotify.com/track/2rgtCOVK2tpfao2VjURn84"
     },
     {
       "album": {
@@ -787,10 +1139,58 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271874,
       "name": "Miami 82 - Lucas Silow Remix",
       "url": "https://open.spotify.com/track/4kw7hkmC16CjJtvMm88VdD"
+    },
+    {
+      "album": {
+        "name": "Miami 82 (Remixes II)",
+        "url": "https://open.spotify.com/album/0k5THSvm4esC4onGWVSlFW"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Madame Buttons",
+          "url": "https://open.spotify.com/artist/7KF7MdboLjh7O5BxomF54M"
+        },
+        {
+          "name": "Lucas Silow",
+          "url": "https://open.spotify.com/artist/6beHDze0bQhGurAi7Td9iO"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271874,
+      "name": "Miami 82 - Lucas Silow Remix",
+      "url": "https://open.spotify.com/track/57Bz0GED2wTznnuTnMhR2Z"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT"
+      },
+      "artists": [
+        {
+          "name": "Different Heaven",
+          "url": "https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx"
+        },
+        {
+          "name": "EH!DE",
+          "url": "https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266900,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf"
     },
     {
       "album": {
@@ -809,7 +1209,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266900,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC"
@@ -831,10 +1231,50 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259933,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU"
+    },
+    {
+      "album": {
+        "name": "My Love (feat. Jess Glynne)",
+        "url": "https://open.spotify.com/album/63WK5Kd7J5kp7ctAC4l92Q"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259934,
+      "name": "My Love (feat. Jess Glynne)",
+      "url": "https://open.spotify.com/track/61UQzeiIluhpzpMdY4ag3q"
+    },
+    {
+      "album": {
+        "name": "Netzwerk",
+        "url": "https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228973,
+      "name": "Netzwerk (Falls Like Rain)",
+      "url": "https://open.spotify.com/track/7FGho3Adev1y2hTB949PGv"
     },
     {
       "album": {
@@ -849,7 +1289,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230093,
       "name": "Netzwerk (Falls Like Rain)",
       "url": "https://open.spotify.com/track/40Dr5okORyoCbAgOBnYzio"
@@ -867,10 +1307,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189666,
       "name": "Nobody To Love",
       "url": "https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9"
+    },
+    {
+      "album": {
+        "name": "Nobody To Love",
+        "url": "https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Nobody To Love - Radio Edit",
+      "url": "https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1"
     },
     {
       "album": {
@@ -885,10 +1343,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219333,
       "name": "One Day (Vandaag) - Radio Edit",
       "url": "https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE"
+    },
+    {
+      "album": {
+        "name": "One Day (Vandaag)",
+        "url": "https://open.spotify.com/album/418vL0rOxoVcELcvu51fg9"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221013,
+      "name": "One Day (Vandaag) - Radio Edit",
+      "url": "https://open.spotify.com/track/7qRtIcMaDnaJYmQDPpMgTe"
     },
     {
       "album": {
@@ -937,7 +1413,7 @@
     {
       "album": {
         "name": "Parachute",
-        "url": "https://open.spotify.com/album/4SCckqU3ztEN4CmoWRWfcN"
+        "url": "https://open.spotify.com/album/1kwSsEMGSrlcvYopqS2r3Z"
       },
       "artists": [
         {
@@ -948,6 +1424,24 @@
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202503,
+      "name": "Parachute - Radio Edit",
+      "url": "https://open.spotify.com/track/5eaH3RdmqBfaSQl3NSBywF"
+    },
+    {
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/4SCckqU3ztEN4CmoWRWfcN"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 202503,
       "name": "Parachute - Radio Edit",
       "url": "https://open.spotify.com/track/5m5vDr9hWKgAH8yYmSHZbu"
@@ -969,10 +1463,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349489,
       "name": "Payback",
       "url": "https://open.spotify.com/track/34XFgPp7wnmLSE4w8UNC7I"
+    },
+    {
+      "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/2N6nSi9sTO5Tvfq0bEmRc0"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vangelis & Wyman",
+          "url": "https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349506,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/2Lv7vYpPx68ttqspWdMnvw"
     },
     {
       "album": {
@@ -1046,8 +1562,8 @@
     },
     {
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG"
+        "name": "Sirens (Deluxe)",
+        "url": "https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5"
       },
       "artists": [
         {
@@ -1064,7 +1580,51 @@
       "date_removed": null,
       "duration_ms": 198880,
       "name": "Ready For Your Love",
+      "url": "https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb"
+    },
+    {
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7MQaCAAj19jwc9WKNZTcJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 198880,
+      "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/5wGLQvq6JoxYZX7V3ymPS5"
+    },
+    {
+      "album": {
+        "name": "Riptide (FlicFlac Edit)",
+        "url": "https://open.spotify.com/album/5jQhvxw1BMfsGQ8oTCT3Yp"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        {
+          "name": "FlicFlac",
+          "url": "https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339310,
+      "name": "Riptide - FlicFlac Edit",
+      "url": "https://open.spotify.com/track/6FeGkJquvWWoAOa3rMM6EB"
     },
     {
       "album": {
@@ -1083,7 +1643,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 339310,
       "name": "Riptide - FlicFlac Remix",
       "url": "https://open.spotify.com/track/5K9AcgSi8DK4lZKM2LpFu8"
@@ -1197,7 +1757,7 @@
     {
       "album": {
         "name": "Sleepless",
-        "url": "https://open.spotify.com/album/1jqswOXgJtHe1SEK5uzJNT"
+        "url": "https://open.spotify.com/album/4pDtJD36tHdR4dVxakWBWH"
       },
       "artists": [
         {
@@ -1212,6 +1772,28 @@
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221421,
+      "name": "Sleepless - Radio Edit",
+      "url": "https://open.spotify.com/track/15uFqHGAOvaGCqikvgiW6w"
+    },
+    {
+      "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/1jqswOXgJtHe1SEK5uzJNT"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 221421,
       "name": "Sleepless - Radio Edit",
       "url": "https://open.spotify.com/track/6AEMLsvCm4OYpN83ryOBMU"
@@ -1449,10 +2031,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188680,
       "name": "Till It Hurts",
       "url": "https://open.spotify.com/track/6hJSH3jS9jG6khVclppBJw"
+    },
+    {
+      "album": {
+        "name": "Till It Hurts (feat. Ayden)",
+        "url": "https://open.spotify.com/album/5j7gJBnJLzY2RGYe9ndCxZ"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Ayden",
+          "url": "https://open.spotify.com/artist/4AD3pq7Rxp3tKxr0yGp0DS"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Till It Hurts (feat. Ayden)",
+      "url": "https://open.spotify.com/track/6HhrMBN43RnGlGv7vIdnM5"
     },
     {
       "album": {
@@ -1581,7 +2185,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325520,
       "name": "Walking With Elephants",
       "url": "https://open.spotify.com/track/0k7z2AgvfqnKr240HrPs0T"
@@ -1599,7 +2203,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 325520,
       "name": "Walking with Elephants",
       "url": "https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG"
@@ -1650,6 +2254,28 @@
     },
     {
       "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "What I Did for Love (feat. Emeli Sand\u00e9)",
+      "url": "https://open.spotify.com/track/1YRjRHdl0aEtzHEn1uGi8k"
+    },
+    {
+      "album": {
         "name": "Listen (Deluxe)",
         "url": "https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu"
       },
@@ -1665,7 +2291,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207200,
       "name": "What I Did for Love (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/6MwVKtxsg5cp0tmFHZ3P3U"
@@ -1691,7 +2317,7 @@
     {
       "album": {
         "name": "Wild Eyes",
-        "url": "https://open.spotify.com/album/5hsL2mFd4zRbF6VUzg8tg5"
+        "url": "https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB"
       },
       "artists": [
         {
@@ -1706,6 +2332,28 @@
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Wild Eyes",
+      "url": "https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d"
+    },
+    {
+      "album": {
+        "name": "Wild Eyes",
+        "url": "https://open.spotify.com/album/5hsL2mFd4zRbF6VUzg8tg5"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "RAVVEL",
+          "url": "https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 204573,
       "name": "Wild Eyes",
       "url": "https://open.spotify.com/track/7iihR23rd2a2l9NAypVkPI"
@@ -1723,7 +2371,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 177560,
       "name": "Wish You Were Mine - Radio Edit",
       "url": "https://open.spotify.com/track/412luShbmlgqqgYFStIB1s"
@@ -1741,7 +2389,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177680,
       "name": "Wish You Were Mine - Radio Edit",
       "url": "https://open.spotify.com/track/2zicJvVkjM4NTJtAdBH8yg"
@@ -1771,7 +2419,7 @@
     {
       "album": {
         "name": "United We Are",
-        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
+        "url": "https://open.spotify.com/album/0nPyJm67LIEB1VfPLFvBnS"
       },
       "artists": [
         {
@@ -1786,6 +2434,28 @@
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219534,
+      "name": "Young Again (feat. Chris Jones)",
+      "url": "https://open.spotify.com/track/1sDq5xK0N3DSlYv4ZrIUpS"
+    },
+    {
+      "album": {
+        "name": "United We Are",
+        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Chris Jones",
+          "url": "https://open.spotify.com/artist/138MRWfk2JTHgHSUxcI4bU"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 219534,
       "name": "Young Again (feat. Chris Jones)",
       "url": "https://open.spotify.com/track/34KQF8skhr9S0b2Y6N7RIq"

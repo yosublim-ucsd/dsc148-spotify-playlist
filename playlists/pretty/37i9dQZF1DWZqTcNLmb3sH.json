@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57566,
+  "num_followers": 57550,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQxNjExMiwwMDAwMDAwMDY2MDk1ZGEyZGQzZDhjZTNiNTE2M2JlYWJlNWYzYmYz",
+  "snapshot_id": "MTcxMzUzMzgwOSwwMDAwMDAwMGQ3MmE2MTQ3YWMyNmM4YWIyZWMxMzY2N2UzYWY5MzY1",
   "tracks": [
     {
       "added_at": "2024-03-14 12:22:29",
@@ -87,6 +87,30 @@
       "duration_ms": 165780,
       "name": "Neenirade (From \"Matinee\")",
       "url": "https://open.spotify.com/track/5kOdyuz2zpGRSqT1t4X9Ep"
+    },
+    {
+      "added_at": "2024-04-19 13:36:22",
+      "album": {
+        "name": "Saaguthalide Daari (From \"Alaikyaa\")",
+        "url": "https://open.spotify.com/album/3UGsnDQplZFGPGhDL4LFZw"
+      },
+      "artists": [
+        {
+          "name": "Sai Somesh S",
+          "url": "https://open.spotify.com/artist/5bWfl92RuozjWMUgr0ef0z"
+        },
+        {
+          "name": "Hari Prasad",
+          "url": "https://open.spotify.com/artist/33bdd818PsYidtHmg46Ks9"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Saaguthalide Daari (From \"Alaikyaa\")",
+      "url": "https://open.spotify.com/track/4P2bfbEG39C9wHpBl8Kfuv"
     },
     {
       "added_at": "2024-04-17 04:58:48",
@@ -1539,54 +1563,6 @@
       "duration_ms": 203692,
       "name": "Kaayutha Ondu (from \"Crush\")",
       "url": "https://open.spotify.com/track/4mNhOPItz1N88sZYHb76zn"
-    },
-    {
-      "added_at": "2024-02-07 09:50:29",
-      "album": {
-        "name": "Cheluvaada Cheluvane Neenu (From \"Muktha Manasu\")",
-        "url": "https://open.spotify.com/album/4Vwmjj8UI5tqUF11bwBJGb"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Anuradha Bhat",
-          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
-        }
-      ],
-      "duration_ms": 294923,
-      "name": "Cheluvaada Cheluvane Neenu - From \"Muktha Manasu\"",
-      "url": "https://open.spotify.com/track/3tj6MbaamHJsIB33aKjYkk"
-    },
-    {
-      "added_at": "2024-02-07 03:23:27",
-      "album": {
-        "name": "Nannaliye Na Marethe (From \"Ravanapura\")",
-        "url": "https://open.spotify.com/album/5DwbmFW0XQkSsJ34VtzM07"
-      },
-      "artists": [
-        {
-          "name": "Dhanraj Tumkur",
-          "url": "https://open.spotify.com/artist/1qGNWuBByQ0QTNFU5irvbb"
-        },
-        {
-          "name": "Suprith Sharma S",
-          "url": "https://open.spotify.com/artist/51B2gBGLKXNrKomRj8HKjz"
-        },
-        {
-          "name": "Deepthi Harish",
-          "url": "https://open.spotify.com/artist/6PRdbcvDnc4BYmmeRYdsEi"
-        },
-        {
-          "name": "Prabhu",
-          "url": "https://open.spotify.com/artist/7jUNEfILBWG0rBGjNOUSGT"
-        }
-      ],
-      "duration_ms": 207098,
-      "name": "Nannaliye Na Marethe (From \"Ravanapura\")",
-      "url": "https://open.spotify.com/track/77IbwLsIwbL7CTQHoNXiPj"
     },
     {
       "added_at": "2024-02-07 03:24:14",

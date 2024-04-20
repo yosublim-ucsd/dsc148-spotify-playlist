@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 733739,
+  "2024-04-20": 733493,
   "date_first_scraped": "2023-09-29",
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
   "name": "Ann\u00e9es 80",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231466,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3"
@@ -39,6 +39,24 @@
       "duration_ms": 232466,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
+    },
+    {
+      "album": {
+        "name": "99 Luftballons",
+        "url": "https://open.spotify.com/album/0V8ETNFjMiaCoG45ZPWsUs"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc"
     },
     {
       "album": {
@@ -111,10 +129,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "album": {
@@ -136,6 +172,24 @@
     },
     {
       "album": {
+        "name": "Never for Ever",
+        "url": "https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Babooshka",
+      "url": "https://open.spotify.com/track/53Mz9H5UvWMQUXHZnaZYKQ"
+    },
+    {
+      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
@@ -147,7 +201,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199226,
       "name": "Babooshka - 2018 Remaster",
       "url": "https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl"
@@ -226,6 +280,24 @@
     },
     {
       "album": {
+        "name": "Vinyles 80's : The Best Of",
+        "url": "https://open.spotify.com/album/2eGbGjobP1GT5btM5SlD4L"
+      },
+      "artists": [
+        {
+          "name": "Sabrina",
+          "url": "https://open.spotify.com/artist/3RPvO8agSVIgo2gbNwsLfo"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234123,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/4DhFKDNG7R94j5UVhd2hnG"
+    },
+    {
+      "album": {
         "name": "Sabrina",
         "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
       },
@@ -237,7 +309,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
@@ -352,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Upstairs at Eric's",
+        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188466,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/5JOVSWohrjXW0BFTboh8XO"
+    },
+    {
+      "album": {
         "name": "Upstairs At Eric's",
         "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
@@ -363,7 +453,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191306,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
@@ -388,6 +478,28 @@
     },
     {
       "album": {
+        "name": "Chinese Wall",
+        "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304506,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+    },
+    {
+      "album": {
         "name": "Chinese Wall (Expanded Edition)",
         "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
       },
@@ -403,7 +515,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305866,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
@@ -428,6 +540,24 @@
     },
     {
       "album": {
+        "name": "The OMD Singles",
+        "url": "https://open.spotify.com/album/3uWvHMePGRYbZ1rNKZrprz"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "Enola Gay",
+      "url": "https://open.spotify.com/track/3WIg3fd3W8I5HU8g3Y6P0k"
+    },
+    {
+      "album": {
         "name": "Organisation",
         "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
@@ -439,7 +569,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213693,
       "name": "Enola Gay - Remastered 2003",
       "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
@@ -511,10 +641,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220706,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
+    },
+    {
+      "album": {
+        "name": "The Essential Kenny Loggins",
+        "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
     },
     {
       "album": {
@@ -529,10 +677,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266560,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1mMYaXpT65iZDtvfRA9EkE"
+    },
+    {
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/4mlLyipdL0el8wcsxTm6Co"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/59UwJzRHzH92UeXCZx2Kb6"
     },
     {
       "album": {
@@ -547,10 +713,46 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211680,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
+    },
+    {
+      "album": {
+        "name": "Disco Essentials",
+        "url": "https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "Get Down Saturday Night",
+      "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
     },
     {
       "album": {
@@ -565,10 +767,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241906,
       "name": "Get Down Saturday Night",
       "url": "https://open.spotify.com/track/1MvIzSyxQjMIIBKrkGpN3K"
+    },
+    {
+      "album": {
+        "name": "True Colors: The Best Of Cyndi Lauper",
+        "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
     },
     {
       "album": {
@@ -583,7 +803,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
@@ -655,10 +875,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258013,
       "name": "I Want To Break Free - Remastered 2011",
       "url": "https://open.spotify.com/track/7h2yhVxcZOGyQdOwD4Hu8J"
+    },
+    {
+      "album": {
+        "name": "The Works (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/7K6YvloaUMP4rnQQVzdBEo"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "I Want To Break Free - Single Remix",
+      "url": "https://open.spotify.com/track/3Au6174rC3JSzZN5BhCl3D"
     },
     {
       "album": {
@@ -698,6 +936,24 @@
     },
     {
       "album": {
+        "name": "In The Army Now - The Collection",
+        "url": "https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281146,
+      "name": "In The Army Now",
+      "url": "https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj"
+    },
+    {
+      "album": {
         "name": "80er Best of",
         "url": "https://open.spotify.com/album/11FRfbgVP2GMx94lh6UoHc"
       },
@@ -709,7 +965,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281746,
       "name": "In The Army Now",
       "url": "https://open.spotify.com/track/72SI0yGB3CkxVkR5eIKMYd"
@@ -752,6 +1008,28 @@
     },
     {
       "album": {
+        "name": "La collection 81-89",
+        "url": "https://open.spotify.com/album/2iT1EvHl2FccugMI211gnF"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        },
+        {
+          "name": "Michael Jones",
+          "url": "https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262866,
+      "name": "Je te donne",
+      "url": "https://open.spotify.com/track/2i353bK8WrQbJ3wfR6IYWm"
+    },
+    {
+      "album": {
         "name": "Non homologu\u00e9",
         "url": "https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA"
       },
@@ -767,7 +1045,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265400,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74"
@@ -1109,7 +1387,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
@@ -1131,6 +1409,24 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+    },
+    {
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
     },
     {
       "album": {
@@ -1181,10 +1477,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244333,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7bVOm16UuDoDGg3LqnywlH"
+    },
+    {
+      "album": {
+        "name": "Libert\u00e9",
+        "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
+      },
+      "artists": [
+        {
+          "name": "Gilbert Montagn\u00e9",
+          "url": "https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "On va s'aimer",
+      "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
     },
     {
       "album": {
@@ -1314,6 +1628,24 @@
     },
     {
       "album": {
+        "name": "Ainsi Soit Je",
+        "url": "https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Sans contrefa\u00e7on",
+      "url": "https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9"
+    },
+    {
+      "album": {
         "name": "Sans contrefa\u00e7on",
         "url": "https://open.spotify.com/album/1ichBfVTwtEOht3paCDuPT"
       },
@@ -1325,7 +1657,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256026,
       "name": "Sans contrefa\u00e7on - Mix 2001",
       "url": "https://open.spotify.com/track/4lKQlYJdzLPKBc0XEDBdrq"
@@ -1415,10 +1747,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403453,
       "name": "Still Loving You",
       "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6"
+    },
+    {
+      "album": {
+        "name": "Comeblack",
+        "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403453,
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
       "album": {
@@ -1477,10 +1827,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153800,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Soft Cell [International Version (Excluding UK & Eire)]",
+        "url": "https://open.spotify.com/album/0PpEc22k6vwTw82PVIukeT"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/6eTZyUjg4ZoGElNcAINIwJ"
     },
     {
       "album": {
@@ -1575,6 +1943,24 @@
     {
       "album": {
         "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244826,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
+    },
+    {
+      "album": {
+        "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
       "artists": [
@@ -1585,7 +1971,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
@@ -1646,6 +2032,28 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Jackson",
+          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
+        },
+        {
+          "name": "Pia Zadora",
+          "url": "https://open.spotify.com/artist/4xOk8sG1KBfhKhR4BOq7Mc"
+        }
+      ],
+      "date_added": "2024-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243800,
+      "name": "When the Rain Begins to Fall",
+      "url": "https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE"
+    },
+    {
+      "album": {
         "name": "Jermaine Jackson (Expanded Edition)",
         "url": "https://open.spotify.com/album/1v5pm51ep8nTVpKPkhsvIR"
       },
@@ -1661,7 +2069,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250000,
       "name": "When the Rain Begins to Fall",
       "url": "https://open.spotify.com/track/4BNgHaHriMcnpeR7qdkojU"

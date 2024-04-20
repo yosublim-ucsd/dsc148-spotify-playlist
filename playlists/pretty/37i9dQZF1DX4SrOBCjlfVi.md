@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Tee Grizzley, Nicki Minaj, Nas and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,440 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,605 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 5 | [Suffer In Silence](https://open.spotify.com/track/0gkV6O56gE1siaDAJenaLZ) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Suffer In Silence](https://open.spotify.com/album/1qJghQpnRM2sRbhX3lWXHz) | 2:37 |
 | 6 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
 | 7 | [LOST IT ALL \(feat\. Fridayy\)](https://open.spotify.com/track/6DixIW3CTticYSsVPknx6q) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [CHILDREN OF THE SLUMS](https://open.spotify.com/album/3uhGsFAXshXmRs9qLiYqGz) | 3:40 |
-| 8 | [That's My Girl](https://open.spotify.com/track/2V0Vlkbb6fUEHl1gk8Lwr6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [That's My Girl & Tired EP](https://open.spotify.com/album/1kfbsMBtTpCrrXqUnBYjjH) | 2:14 |
+| 8 | [That's My Girl](https://open.spotify.com/track/2V0Vlkbb6fUEHl1gk8Lwr6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [That's My Girl & Tired](https://open.spotify.com/album/1kfbsMBtTpCrrXqUnBYjjH) | 2:14 |
 | 9 | [JACKPOT](https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [JACKPOT](https://open.spotify.com/album/6RFuLCFRPOPBDB61wgkNsQ) | 2:20 |
 | 10 | [R.I.C.O.](https://open.spotify.com/track/1xwwiCARYUFeKtmPoT048O) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [R.I.C.O.](https://open.spotify.com/album/67YBVlnEXCvoBsr6lSI231) | 4:08 |
 | 11 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 |

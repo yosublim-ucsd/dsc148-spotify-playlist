@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio
+> Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Gabriel Elias
 
 584 songs - 1 day 5 hr 1 min
 

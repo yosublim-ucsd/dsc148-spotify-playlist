@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 24749,
+  "2024-04-20": 24761,
   "date_first_scraped": "2023-11-25",
   "description": "Le sommeil, c'est la sant\u00e9, alors laissez-vous bercer.",
   "name": "Douce nuit",
@@ -827,10 +827,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201000,
       "name": "vierde moment",
       "url": "https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv"
+    },
+    {
+      "album": {
+        "name": "Midnight Improvisations // Momenten",
+        "url": "https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P"
+      },
+      "artists": [
+        {
+          "name": "antinode",
+          "url": "https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "vierde moment",
+      "url": "https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD"
     },
     {
       "album": {

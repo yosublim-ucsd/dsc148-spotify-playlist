@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 619822,
+  "2024-04-20": 619392,
   "date_first_scraped": "2021-12-28",
   "description": "The best Grunge heirs' songs. Cover: Creed",
   "name": "Post-Grunge Society",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 226466,
       "name": "1000hp",
       "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250093,
       "name": "45",
       "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231400,
       "name": "Animal I Have Become",
       "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "Animal I Have Become",
       "url": "https://open.spotify.com/track/5eFxwmqKrHpSQDOEIFYlgY"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 184426,
       "name": "Anthem For The Underdog",
       "url": "https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221826,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 190666,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/6tpGF2kYnrqO0S44jKxduZ"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257600,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4h6DKQXRY2zxFHlEqYuaax"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257600,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326666,
       "name": "Comedown - 2014 Remastered",
       "url": "https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326666,
       "name": "Comedown - Remastered",
       "url": "https://open.spotify.com/track/7KgVUnGCMEXBwY2EeqGlaI"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 228960,
       "name": "Down",
       "url": "https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw"
@@ -857,6 +857,24 @@
     {
       "album": {
         "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206200,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu"
+    },
+    {
+      "album": {
+        "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
       "artists": [
@@ -867,7 +885,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206200,
       "name": "For You",
       "url": "https://open.spotify.com/track/464HG7mt7NNKtKY0Hco8Y8"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174912,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 281226,
       "name": "Heroin",
       "url": "https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316733,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 326293,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1e5grnGb7YIcX9EuJM1mtB"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 340106,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 318320,
       "name": "Israel's Son",
       "url": "https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264706,
       "name": "It's Been Awhile",
       "url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264706,
       "name": "It's Been Awhile",
       "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233933,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325600,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325600,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM"
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258773,
       "name": "My Name Is Human",
       "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294600,
       "name": "My Sacrifice",
       "url": "https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 298600,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293133,
       "name": "Outside",
       "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293133,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp"
@@ -2077,10 +2095,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205693,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5"
+    },
+    {
+      "album": {
+        "name": "Throwing Copper",
+        "url": "https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2"
+      },
+      "artists": [
+        {
+          "name": "Live",
+          "url": "https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Selling The Drama",
+      "url": "https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL"
     },
     {
       "album": {
@@ -2156,6 +2192,24 @@
     },
     {
       "album": {
+        "name": "Days Of The New",
+        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283973,
+      "name": "Shelf In The Room",
+      "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2"
       },
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 273040,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE"
@@ -2311,7 +2365,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 256440,
       "name": "Stacked Actors",
       "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
@@ -2383,7 +2437,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291053,
       "name": "Swallowed",
       "url": "https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d"
@@ -2401,7 +2455,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291053,
       "name": "Swallowed - Remastered",
       "url": "https://open.spotify.com/track/34u6SdMgxdA0QZLUo24guk"
@@ -2437,10 +2491,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363800,
       "name": "Take A Picture",
       "url": "https://open.spotify.com/track/6q4aoWgTQ8td2AvqQXuFqm"
+    },
+    {
+      "album": {
+        "name": "In Loving Memory Of - 20th Anniversary Special Edition",
+        "url": "https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "date_added": "2024-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB"
     },
     {
       "album": {
@@ -2563,7 +2635,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265560,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kWbriV6xrd2lqFJfm7WJm"
@@ -2581,7 +2653,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265560,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/3NhdBIiNvq6q2mPpHwkfDg"
@@ -2689,7 +2761,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229866,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
@@ -2743,7 +2815,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269306,
       "name": "Wasting My Time",
       "url": "https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw"
@@ -2761,7 +2833,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259133,
       "name": "Watch Over You",
       "url": "https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb"
@@ -2833,7 +2905,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260333,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
@@ -2869,7 +2941,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260506,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/1Nuqm2gavvcmZtEFWvbDbK"
@@ -2905,7 +2977,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 297173,
       "name": "You",
       "url": "https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k"
@@ -2941,7 +3013,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"

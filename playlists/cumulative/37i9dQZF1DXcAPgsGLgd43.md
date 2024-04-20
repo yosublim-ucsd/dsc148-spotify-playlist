@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-222 songs - 12 hr 16 min
+223 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Envolvidão](https://open.spotify.com/track/4WbKy1tTl4rrca2EA67VlK) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Drive](https://open.spotify.com/album/4euOmLn31XGYQq3v6KyVZj) | 3:41 | 2023-12-01 | 2024-02-18 |
 | [Espantapájaros \- Captain Planet Remix](https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Espantapájaros \(Captain Planet Remix\)](https://open.spotify.com/album/6hZ9Q3g6K6INboa4DFWglx) | 4:25 | 2024-03-29 |  |
 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 | 2023-12-01 | 2024-03-21 |
+| [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 | 2024-04-19 |  |
 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 | 2023-11-10 |  |
 | [Everybody Salsa \- Andruss Remix](https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm) | [Dj Drew](https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Everybody Salsa \(Andruss Remix\)](https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw) | 2:46 | 2023-12-15 | 2024-03-27 |
 | [Falso Amor](https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn) | [Krexxton](https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir), [MARÍARROSA](https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm) | [Falso Amor](https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk) | 2:48 | 2024-04-19 |  |
@@ -154,7 +155,7 @@
 | [No Pares](https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [No Pares](https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z) | 3:33 | 2024-02-09 | 2024-03-25 |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2021-10-08 | 2023-11-11 |
 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 | 2021-12-03 | 2023-11-11 |
-| [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 | 2023-11-10 |  |
+| [Pa Lante](https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Bautista](https://open.spotify.com/artist/5oryDmGJCySSpMFY9YUeb1), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Gabsy](https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc) | [Pa Lante](https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22) | 2:59 | 2023-11-10 | 2024-04-20 |
 | [Party's Jumpin](https://open.spotify.com/track/11mmDbwTvh67lHK8jEv53i) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Ossey James](https://open.spotify.com/artist/5Krv6spDHbLWdNMtyTdRpX) | [Party's Jumpin](https://open.spotify.com/album/0ipSLNiyPij1uJ8mbcRyFy) | 2:55 | 2021-10-08 | 2023-11-11 |
 | [Pasilda](https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:21 | 2023-11-10 |  |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-01 |  |

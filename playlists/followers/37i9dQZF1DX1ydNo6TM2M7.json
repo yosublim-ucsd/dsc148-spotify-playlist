@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13291,
+  "2024-04-20": 13296,
   "date_first_scraped": "2022-12-05",
   "description": "The USB essentials that defined our setlists this year. Cover: Skrillex, Fred again.. & Four Tet",
   "name": "Track IDs Presents Best IDs of 2023",
@@ -93,10 +93,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213750,
       "name": "Again - Edit",
       "url": "https://open.spotify.com/track/6Jy35IQl4MUrYX90AkBZuD"
+    },
+    {
+      "album": {
+        "name": "Again (Edit)",
+        "url": "https://open.spotify.com/album/5EnGrwJflFFXSuIHhkPcXu"
+      },
+      "artists": [
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Again - Edit",
+      "url": "https://open.spotify.com/track/6s7QWRG8BeBPL1xwUBWKxR"
     },
     {
       "album": {
@@ -257,7 +275,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
@@ -301,10 +319,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182857,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
+    },
+    {
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/4Y2an4LNPEJzKn3nLlhfdX"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/4Ew5aRQFXBc8Emillbxhw2"
     },
     {
       "album": {
@@ -489,7 +529,7 @@
     {
       "album": {
         "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
       },
       "artists": [
         {
@@ -500,6 +540,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
+    },
+    {
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
@@ -1187,7 +1245,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh"
@@ -1205,7 +1263,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
@@ -1467,7 +1525,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 300769,
       "name": "In A Daze",
       "url": "https://open.spotify.com/track/2Xgp5bKIzfZfj3WqjTdjge"
@@ -1485,7 +1543,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300769,
       "name": "In A Daze",
       "url": "https://open.spotify.com/track/37Y0dT6HzzOrbjrrq3pwTy"
@@ -1965,7 +2023,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
@@ -1987,7 +2045,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
@@ -2821,7 +2879,7 @@
     {
       "album": {
         "name": "RM 1",
-        "url": "https://open.spotify.com/album/46ojgZxKMIoyETleccOHkH"
+        "url": "https://open.spotify.com/album/4nWh5IVmJ6P3kp04JwYDer"
       },
       "artists": [
         {
@@ -2832,6 +2890,24 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 340964,
+      "name": "RM 1",
+      "url": "https://open.spotify.com/track/15L0DIwKlHQHuP6KJqrUXG"
+    },
+    {
+      "album": {
+        "name": "RM 1",
+        "url": "https://open.spotify.com/album/46ojgZxKMIoyETleccOHkH"
+      },
+      "artists": [
+        {
+          "name": "Saoirse",
+          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 340964,
       "name": "RM 1",
       "url": "https://open.spotify.com/track/4z3KE82AjBvffuZKtIGwUk"

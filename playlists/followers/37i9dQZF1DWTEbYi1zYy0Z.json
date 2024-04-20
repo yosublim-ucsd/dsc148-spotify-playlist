@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 61853,
+  "2024-04-20": 61860,
   "date_first_scraped": "2021-12-21",
   "description": "So fresh, so smooth. Cover: Braxton Brothers",
   "name": "New Smooth Jazz",
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254480,
       "name": "Dancin' Shoes",
       "url": "https://open.spotify.com/track/15i4GMjiFCHKWMYSUTp2CS"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239700,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1"
@@ -2320,6 +2320,28 @@
     },
     {
       "album": {
+        "name": "Embrace (feat. Bill Moio)",
+        "url": "https://open.spotify.com/album/6SBpoAb0N3eziBGGLAHrSU"
+      },
+      "artists": [
+        {
+          "name": "Randy Scott",
+          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+        },
+        {
+          "name": "Bill Moio",
+          "url": "https://open.spotify.com/artist/57KNtssASqOvVdx2230rGg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Embrace (feat. Bill Moio)",
+      "url": "https://open.spotify.com/track/0A60YL05a4dKpmwxVGSxMk"
+    },
+    {
+      "album": {
         "name": "Emeline",
         "url": "https://open.spotify.com/album/0l6dKIiA05bhE9D7s9c7MS"
       },
@@ -2765,7 +2787,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269693,
       "name": "For The Cool In You",
       "url": "https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj"
@@ -2787,6 +2809,42 @@
       "duration_ms": 270500,
       "name": "For the Cool in You",
       "url": "https://open.spotify.com/track/5iJ6h2VGGDmAhZGHZds6FY"
+    },
+    {
+      "album": {
+        "name": "For the Cool in You",
+        "url": "https://open.spotify.com/album/4lNQ45FU2TpTJAPgXSHnev"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6lcZYupfafKV55hB2R2sCi"
+    },
+    {
+      "album": {
+        "name": "Foreplay",
+        "url": "https://open.spotify.com/album/2z8agb6cD8BozTL49Mx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Willie Bradley",
+          "url": "https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263365,
+      "name": "Foreplay",
+      "url": "https://open.spotify.com/track/2IlRDMMruJWUHrMr4b1vzl"
     },
     {
       "album": {
@@ -3048,6 +3106,28 @@
     },
     {
       "album": {
+        "name": "Grass-Fed Funk",
+        "url": "https://open.spotify.com/album/6HrgzDHYrshIlEglpxaoJj"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306880,
+      "name": "Grass-Fed Funk",
+      "url": "https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8"
+    },
+    {
+      "album": {
         "name": "Grass-Fed Funk (feat. Marcus Anderson)",
         "url": "https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I"
       },
@@ -3063,7 +3143,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306880,
       "name": "Grass-Fed Funk (feat. Marcus Anderson)",
       "url": "https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg"
@@ -3081,10 +3161,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314506,
       "name": "Groove Factor",
       "url": "https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk"
+    },
+    {
+      "album": {
+        "name": "Groove Factor",
+        "url": "https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314506,
+      "name": "Groove Factor",
+      "url": "https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM"
     },
     {
       "album": {
@@ -3666,6 +3764,24 @@
     },
     {
       "album": {
+        "name": "Love and Rhythm",
+        "url": "https://open.spotify.com/album/7EhoGqBebIngl6i93kWOJl"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326141,
+      "name": "Irresistible",
+      "url": "https://open.spotify.com/track/2S50AzAPblRT9Q3WsKzrTQ"
+    },
+    {
+      "album": {
         "name": "Islands In The Sea",
         "url": "https://open.spotify.com/album/1OJIkhZLVfyp0B9rfpwCjl"
       },
@@ -3801,7 +3917,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC"
@@ -3866,6 +3982,28 @@
     },
     {
       "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/3WCCgQOpe6akY692bzFx6i"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Ryan La Valette",
+          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "Just Coolin'",
+      "url": "https://open.spotify.com/track/21MnclehxaZTGQQu9zZSX8"
+    },
+    {
+      "album": {
         "name": "Just Coolin' (feat. Ryan La Valette)",
         "url": "https://open.spotify.com/album/5eI4zyIaA9RVfusOeTdLrH"
       },
@@ -3903,7 +4041,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274500,
       "name": "Just Coolin\u2019 (feat. Ryan La Valette)",
       "url": "https://open.spotify.com/track/4buONxCYsAehQ0IoNg3xhS"
@@ -4037,10 +4175,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308466,
       "name": "Labyrinth",
       "url": "https://open.spotify.com/track/0aQoZUFmZmOb29LMqsRoz5"
+    },
+    {
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/0Nyi7tRAwpdr0viwQwx0Fq"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308466,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/5bMem6seFRTk6amdhRA2Z4"
     },
     {
       "album": {
@@ -4248,6 +4404,24 @@
     },
     {
       "album": {
+        "name": "Just Like That",
+        "url": "https://open.spotify.com/album/5zxMjTlSy9SmNQyv9q723Y"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Let's Take A Ride",
+      "url": "https://open.spotify.com/track/60bjsk0GynDytSxp0lVbGI"
+    },
+    {
+      "album": {
         "name": "Finger Painting",
         "url": "https://open.spotify.com/album/5Bc13DoOtM3LFdmx4Jl7oM"
       },
@@ -4277,7 +4451,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254840,
       "name": "Let\u2019s Take A Ride",
       "url": "https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL"
@@ -4455,7 +4629,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 185617,
       "name": "LOVE AGAIN - Instrumental",
       "url": "https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP"
@@ -4473,7 +4647,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185617,
       "name": "LOVE AGAIN - Instrumental",
       "url": "https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe"
@@ -4556,6 +4730,28 @@
     },
     {
       "album": {
+        "name": "Low Down",
+        "url": "https://open.spotify.com/album/3SmcxCHqMgh4Qj4MCQC4jz"
+      },
+      "artists": [
+        {
+          "name": "Chris \"Big Dog\" Davis",
+          "url": "https://open.spotify.com/artist/057eeHuaF5QTCQ76X2PRZ5"
+        },
+        {
+          "name": "Ryan La Valette",
+          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259255,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5dxOLud7aVA9cWTqrfOlxz"
+    },
+    {
+      "album": {
         "name": "Low Down (feat. Ryan La Valette)",
         "url": "https://open.spotify.com/album/5s2RWRt9T3kNDWSmRNgNZF"
       },
@@ -4593,7 +4789,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259255,
       "name": "Low Down (feat. Ryan La Valette)",
       "url": "https://open.spotify.com/track/6tmF5cxEeujWXSYnRwFmCv"
@@ -5143,7 +5339,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 251219,
       "name": "New Lives",
       "url": "https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh"
@@ -5161,7 +5357,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251219,
       "name": "New Lives - Radio Edit",
       "url": "https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ"
@@ -5231,7 +5427,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
@@ -5249,7 +5445,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h"
@@ -6039,7 +6235,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235196,
       "name": "Ride the Vibes",
       "url": "https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv"
@@ -6347,7 +6543,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258144,
       "name": "She's the One",
       "url": "https://open.spotify.com/track/7boFERPF09XcIqpT3PnYAt"
@@ -6435,6 +6631,24 @@
       "duration_ms": 241505,
       "name": "Side by Side Radio Edit",
       "url": "https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB"
+    },
+    {
+      "album": {
+        "name": "Simplified Era",
+        "url": "https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ"
+      },
+      "artists": [
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132374,
+      "name": "Simplified Era",
+      "url": "https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY"
     },
     {
       "album": {
@@ -7003,7 +7217,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234589,
       "name": "Straighten Up",
       "url": "https://open.spotify.com/track/13Y1NLZ57TRjwRlREzPBhO"
@@ -7021,7 +7235,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 234589,
       "name": "Straighten Up",
       "url": "https://open.spotify.com/track/5ZhgyPGq8kVOTrwm60T73w"
@@ -7453,10 +7667,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278895,
       "name": "Table For 2",
       "url": "https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL"
+    },
+    {
+      "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/7gS9XSpN1iOHyF2qd8y7bM"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cole",
+          "url": "https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco"
+        },
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278895,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/5NFi6NV8fTOPg8BF6aWq7M"
     },
     {
       "album": {
@@ -7890,6 +8126,24 @@
     },
     {
       "album": {
+        "name": "Dancin' Shoes",
+        "url": "https://open.spotify.com/album/6belLLcGyIpignX9wYStN8"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7ivjwPHFoM9MzbyuWYf50T"
+    },
+    {
+      "album": {
         "name": "Timelines (Alto sax)",
         "url": "https://open.spotify.com/album/4s9v6WCuvJTIeKRO6xSvaT"
       },
@@ -8033,7 +8287,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273500,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7"
@@ -8069,7 +8323,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 258461,
       "name": "U Groove",
       "url": "https://open.spotify.com/track/25YO08VUVw2ewTg90lNZNt"
@@ -8087,7 +8341,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260160,
       "name": "U Groove",
       "url": "https://open.spotify.com/track/0MNI9Hk2ecR49kivLGgqb8"
@@ -8105,7 +8359,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304039,
       "name": "Ubuntu",
       "url": "https://open.spotify.com/track/0jehP0aRhFBpjSZCXxfm2v"
@@ -8123,7 +8377,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 304039,
       "name": "Ubuntu",
       "url": "https://open.spotify.com/track/2zUN9GrY3kNkt1WNk0wtPZ"

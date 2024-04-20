@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 463338,
+  "2024-04-20": 463369,
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Artemas",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: $ONOS CLIQ",
   "name": "me right now",
   "tracks": [
     {
@@ -425,7 +425,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130826,
       "name": "1zigartig",
       "url": "https://open.spotify.com/track/4q0A3DSkGKUUuBpkSVdcTJ"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "3:15 (Breathe)",
       "url": "https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H"
@@ -1686,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Alle meine Feinde sind cool",
+        "url": "https://open.spotify.com/album/4UD3IbhdzJUonMKWNEYRHm"
+      },
+      "artists": [
+        {
+          "name": "NUGAT",
+          "url": "https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148111,
+      "name": "Alle meine Feinde sind cool",
+      "url": "https://open.spotify.com/track/4SzSlCsEWy2axUQUopedom"
+    },
+    {
+      "album": {
         "name": "Alle Raver",
         "url": "https://open.spotify.com/album/2mafpuM5gvOXWJMAP9JoRd"
       },
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174200,
       "name": "atlantik",
       "url": "https://open.spotify.com/track/4xEcgqxZ1H1LwkXHLJ362C"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -3370,6 +3388,28 @@
     },
     {
       "album": {
+        "name": "Ballern!?",
+        "url": "https://open.spotify.com/album/7MTfBmWspQzNwp8MMn2wWe"
+      },
+      "artists": [
+        {
+          "name": "SHOKI",
+          "url": "https://open.spotify.com/artist/4K4YcztlZuVsfmd3aXWMN3"
+        },
+        {
+          "name": "prodbypengg",
+          "url": "https://open.spotify.com/artist/5BMnIDhlF7NbpuiNgkyD9b"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144992,
+      "name": "Ballern!?",
+      "url": "https://open.spotify.com/track/3gUNnU3l0TbduUn7RKQWau"
+    },
+    {
+      "album": {
         "name": "Bamba (feat. Aitch & BIA)",
         "url": "https://open.spotify.com/album/3cOBmVLauHdg4S3F7sJHyF"
       },
@@ -3703,6 +3743,24 @@
     {
       "album": {
         "name": "Belong Together",
+        "url": "https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe"
+    },
+    {
+      "album": {
+        "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
       },
       "artists": [
@@ -3713,7 +3771,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -4601,6 +4659,28 @@
       "duration_ms": 173000,
       "name": "Block In Der Brust",
       "url": "https://open.spotify.com/track/4kdCsDQpeoUh12tY5xwZvD"
+    },
+    {
+      "album": {
+        "name": "BLOCK THERAPIE",
+        "url": "https://open.spotify.com/album/6Y9rQSjnvesJzbbXtJD6k2"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ericson",
+          "url": "https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188723,
+      "name": "BLOCK THERAPIE",
+      "url": "https://open.spotify.com/track/38ppVJNdbvse74GN5XnqvL"
     },
     {
       "album": {
@@ -5565,6 +5645,28 @@
       "duration_ms": 181002,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/214wsuPedDbN32b48HdKZ6"
+    },
+    {
+      "album": {
+        "name": "CANADA (w/ jnhygs)",
+        "url": "https://open.spotify.com/album/5w6irPlMaNY8kQZJcMD8Th"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "jnhygs",
+          "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110054,
+      "name": "CANADA (w/ jnhygs)",
+      "url": "https://open.spotify.com/track/38OOJRnOLE4IZc0LG39JjK"
     },
     {
       "album": {
@@ -7597,7 +7699,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156363,
       "name": "DiEBiN",
       "url": "https://open.spotify.com/track/4foU19Wuzg7DMozML8DvNP"
@@ -9799,7 +9901,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
@@ -9839,6 +9941,24 @@
       "duration_ms": 94857,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J"
+    },
+    {
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
       "album": {
@@ -11177,6 +11297,28 @@
       "duration_ms": 136770,
       "name": "Ganz Allein",
       "url": "https://open.spotify.com/track/7JTUmJNhkr2LubHId2QxgG"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {
@@ -13523,7 +13665,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
@@ -13541,7 +13683,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -17371,7 +17513,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 297794,
       "name": "Lady Killers II (Christoph Andersson Remix)",
       "url": "https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq"
@@ -17393,7 +17535,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297794,
       "name": "Lady Killers II - Christoph Andersson Remix",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
@@ -17571,7 +17713,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -18089,7 +18231,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 125994,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/0LoPQfWaoGGnu1tIA6FScX"
@@ -18107,7 +18249,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125994,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
@@ -18955,7 +19097,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160688,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
@@ -19643,7 +19785,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
@@ -20664,6 +20806,28 @@
     },
     {
       "album": {
+        "name": "Motherlode",
+        "url": "https://open.spotify.com/album/1ZlL6aFfB8y9qkllO0KRgV"
+      },
+      "artists": [
+        {
+          "name": "Clarry Berry",
+          "url": "https://open.spotify.com/artist/2RST4z2nm618Oi3Nh5JyxD"
+        },
+        {
+          "name": "Baron",
+          "url": "https://open.spotify.com/artist/0U6t1GxrhOhD5vSHhe2JqE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136478,
+      "name": "Motherlode",
+      "url": "https://open.spotify.com/track/6lrduzUfN6mAeHnPxBV3nF"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -20839,7 +21003,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
@@ -21531,6 +21695,28 @@
     {
       "album": {
         "name": "Skin",
+        "url": "https://open.spotify.com/album/1sxqYNzozsrgu0Vh6jQ6Lr"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233337,
+      "name": "Never Be Like You",
+      "url": "https://open.spotify.com/track/476j7IDRIDRvv1Xu71EVc8"
+    },
+    {
+      "album": {
+        "name": "Skin",
         "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
@@ -21545,7 +21731,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
@@ -21781,6 +21967,24 @@
       "duration_ms": 151555,
       "name": "Nichts f\u00fcr immer",
       "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
+    },
+    {
+      "album": {
+        "name": "Zwischen mir und mir",
+        "url": "https://open.spotify.com/album/0BneubB4o27uxPsIVZeIqd"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167088,
+      "name": "Nie etwas getan",
+      "url": "https://open.spotify.com/track/4hiEfwelG1shJEzH3D8H3k"
     },
     {
       "album": {
@@ -30732,6 +30936,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+    },
+    {
+      "album": {
         "name": "the way i make things feel okay",
         "url": "https://open.spotify.com/album/6wkxWLJyo8jKghJDPiZ9GV"
       },
@@ -31201,10 +31427,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "album": {

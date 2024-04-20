@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 306047,
+  "2024-04-20": 305932,
   "date_first_scraped": "2021-12-21",
   "description": "The best new music from the wide world of punk. Cover: BODEGA",
   "name": "All New Punk",
@@ -1489,6 +1489,24 @@
     {
       "album": {
         "name": "Am I The Menace?",
+        "url": "https://open.spotify.com/album/5vvZXp4kZw7uujni9Kl7sP"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Am I The Menace?",
+      "url": "https://open.spotify.com/track/13H0AQmJQhKw3tUNtIzcop"
+    },
+    {
+      "album": {
+        "name": "Am I The Menace?",
         "url": "https://open.spotify.com/album/3dTZbo9tPa7Ms5rcRbxDP2"
       },
       "artists": [
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181026,
       "name": "Am I The Menace?",
       "url": "https://open.spotify.com/track/7KTu2e9HlZI8NtYMW2EzAY"
@@ -4241,6 +4259,24 @@
     {
       "album": {
         "name": "BUTCHER'S BIN",
+        "url": "https://open.spotify.com/album/6SfuRdJVKKm9VkbP3HQ3Kj"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240630,
+      "name": "BUTCHER'S BIN",
+      "url": "https://open.spotify.com/track/05N99aG3BJQXVUPnTyde8l"
+    },
+    {
+      "album": {
+        "name": "BUTCHER'S BIN",
         "url": "https://open.spotify.com/album/6g3mKpbEDt09TZLmuvdd7R"
       },
       "artists": [
@@ -4251,7 +4287,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240630,
       "name": "BUTCHER'S BIN",
       "url": "https://open.spotify.com/track/0fRtRBeaVneVSDFAZ7yIiK"
@@ -5329,10 +5365,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181426,
       "name": "Chompin' At The Bit",
       "url": "https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f"
+    },
+    {
+      "album": {
+        "name": "Trouble EP",
+        "url": "https://open.spotify.com/album/2FWIsmGnh56nHH8cSOOk24"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Chompin' at the Bit",
+      "url": "https://open.spotify.com/track/58PH2hBt3rp0LCdqtq4sKE"
     },
     {
       "album": {
@@ -5589,7 +5643,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 89293,
       "name": "Cling to a Poisoned Dream",
       "url": "https://open.spotify.com/track/114RKvqZgUCnBtjz7Qo2K1"
@@ -5607,7 +5661,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89293,
       "name": "Cling to a Poisoned Dream",
       "url": "https://open.spotify.com/track/1eWkOXMRejiA6mEZCUHArO"
@@ -13933,6 +13987,24 @@
     {
       "album": {
         "name": "I, VIBRATOR",
+        "url": "https://open.spotify.com/album/0e7uvTS1VE3kbZb6gwvCJU"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276884,
+      "name": "I, VIBRATOR",
+      "url": "https://open.spotify.com/track/0fDiMvHk6eN1kVWwOdsfuL"
+    },
+    {
+      "album": {
+        "name": "I, VIBRATOR",
         "url": "https://open.spotify.com/album/4QJlgytXq1xfnEiMlcvSmf"
       },
       "artists": [
@@ -13943,7 +14015,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276884,
       "name": "I, VIBRATOR",
       "url": "https://open.spotify.com/track/5xK5Jjp76O2t8r8J3i1SrM"
@@ -14275,10 +14347,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201028,
       "name": "Internet Boyfriend",
       "url": "https://open.spotify.com/track/3tWPWMnhhRo22xZG3825lL"
+    },
+    {
+      "album": {
+        "name": "Internet Boyfriend",
+        "url": "https://open.spotify.com/album/3oSXaytXNaekBcxacCj7V9"
+      },
+      "artists": [
+        {
+          "name": "The Fake Friends",
+          "url": "https://open.spotify.com/artist/5kUo5px2DcGcD6RRV2R4jz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201028,
+      "name": "Internet Boyfriend",
+      "url": "https://open.spotify.com/track/4QAaZdCBX2AuOMja4hjw7U"
     },
     {
       "album": {
@@ -17625,10 +17715,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146301,
       "name": "Merch Girl",
       "url": "https://open.spotify.com/track/0PJ1G4JHTW31PEetNHreAl"
+    },
+    {
+      "album": {
+        "name": "Merch Girl",
+        "url": "https://open.spotify.com/album/0GvDVAl0PBMYX6z5tnmBus"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/0q2GJGveytu4IRflsL05Xg"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146301,
+      "name": "Merch Girl",
+      "url": "https://open.spotify.com/track/4HbPzpCg58K7YvGNCzJDNs"
     },
     {
       "album": {
@@ -18345,10 +18453,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241675,
       "name": "Mother",
       "url": "https://open.spotify.com/track/72sD1izeWWCbeD9mao5PXz"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/6c1HQSDGPvcZuxpQAuFgk7"
+      },
+      "artists": [
+        {
+          "name": "Girl and Girl",
+          "url": "https://open.spotify.com/artist/6tRT8DibGiNSkXViROkIBn"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241675,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/7iGlDU6mQEOoGGSXHS4Zdy"
     },
     {
       "album": {
@@ -22439,7 +22565,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 204112,
       "name": "Remnants",
       "url": "https://open.spotify.com/track/3upBkAvXjOF9jqHlTR6y4Y"
@@ -22457,7 +22583,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204112,
       "name": "Remnants",
       "url": "https://open.spotify.com/track/7F6QYsZ3iErJQe48iM0QGk"
@@ -25393,7 +25519,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104232,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/0BNMSzyRWl8LtSGYGSQtm4"
@@ -25411,7 +25537,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 104232,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/3Cr6TCUv4alHv0JJQKEKbF"

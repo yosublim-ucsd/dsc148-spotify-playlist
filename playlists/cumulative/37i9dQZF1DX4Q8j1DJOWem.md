@@ -2,7 +2,7 @@
 
 ### [RADAR Thailand 2024](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: Miteennn
+> สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: CORNBOI
 
 180 songs - 11 hr 16 min
 

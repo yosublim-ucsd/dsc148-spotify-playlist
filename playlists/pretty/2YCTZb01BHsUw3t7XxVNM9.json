@@ -6,7 +6,7 @@
     "name": "Alice.SE",
     "url": "https://open.spotify.com/user/megustager"
   },
-  "snapshot_id": "NTcwLDFhZTA1YmQyNGQ2OTg0MjczOTdhZmU4MmEwNTQ1NTlkMjk3MWJkZDY=",
+  "snapshot_id": "NTcxLDFiMGY1OWMzODYxZDJhMjg2OGRmYTBlYTlkMDA2YzI0NjZkODk1MWI=",
   "tracks": [
     {
       "added_at": "2019-01-29 19:29:28",
@@ -8231,6 +8231,26 @@
       "duration_ms": 203625,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/3bfvb1tJO1RnfuvErCSjE4"
+    },
+    {
+      "added_at": "2024-04-19 15:04:16",
+      "album": {
+        "name": "Dekanchcore",
+        "url": "https://open.spotify.com/album/61KFGVG1fX1lotNOeljBJZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Joe Fight",
+          "url": "https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Dekanchcore",
+      "url": "https://open.spotify.com/track/7go5G1aRkybbFhEJwfwI90"
     }
   ],
   "unique_name": "Japanese Hardstyle/Hardcore | J-Core | WeebCore |",

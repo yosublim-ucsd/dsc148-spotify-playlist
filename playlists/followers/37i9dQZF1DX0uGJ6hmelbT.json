@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21511,
+  "2024-04-20": 21516,
   "date_first_scraped": "2023-12-30",
   "description": "\u00a1Cantos y Rondas de todos los tiempos para jugar y aprender!",
   "name": "Jugando y Cantando",
@@ -171,6 +171,24 @@
     {
       "album": {
         "name": "Canta Colombia",
+        "url": "https://open.spotify.com/album/3p8Z5CC0MsU9ZlmJzPtP0F"
+      },
+      "artists": [
+        {
+          "name": "Cantoalegre",
+          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272182,
+      "name": "Cuando La Lluvia Tiene Calor",
+      "url": "https://open.spotify.com/track/0y5dYr62ljLJqe4BKUSljg"
+    },
+    {
+      "album": {
+        "name": "Canta Colombia",
         "url": "https://open.spotify.com/album/5lMuIrti81VgPpZvBGfY0F"
       },
       "artists": [
@@ -199,7 +217,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273970,
       "name": "Cuando la lluvia tiene calor",
       "url": "https://open.spotify.com/track/7bKLV6p2dbg7r9xxM0VISD"
@@ -224,6 +242,28 @@
     },
     {
       "album": {
+        "name": "Un, Dos, Tres Por M\u00ed Y Por Todos",
+        "url": "https://open.spotify.com/album/6yUpFZ0ww52x4jDnvlCERQ"
+      },
+      "artists": [
+        {
+          "name": "Cantoalegre",
+          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "D\u00f3nde Estar\u00e1n Tan Tan (feat. Juanes)",
+      "url": "https://open.spotify.com/track/62f1FROebGuPcd23gw2VBE"
+    },
+    {
+      "album": {
         "name": "Un, dos, tres, por m\u00ed y por todos",
         "url": "https://open.spotify.com/album/0erkJ4aigti7prmSnfxSEu"
       },
@@ -239,7 +279,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162246,
       "name": "D\u00f3nde estar\u00e1n tan tan (with Juanes)",
       "url": "https://open.spotify.com/track/3vbLQlA5HwkxitsO7ailxG"
@@ -283,6 +323,24 @@
     {
       "album": {
         "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92893,
+      "name": "El Negro Cirilo",
+      "url": "https://open.spotify.com/track/3si1akOofj9JwNZ1OulYXc"
+    },
+    {
+      "album": {
+        "name": "Los 60 Mejores Canticuentos",
         "url": "https://open.spotify.com/album/5LJmTVV1oWC0Qj6WJINbPg"
       },
       "artists": [
@@ -293,7 +351,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92893,
       "name": "El Negro Cirilo",
       "url": "https://open.spotify.com/track/46oiutlf7AtZJWJLqgAzbA"
@@ -311,10 +369,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 61100,
       "name": "El P\u00e1jaro Carpintero",
       "url": "https://open.spotify.com/track/5kYlUJMSJCcbIhvDsvbvrk"
+    },
+    {
+      "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61106,
+      "name": "El P\u00e1jaro Carpintero",
+      "url": "https://open.spotify.com/track/7b8DjnyaGuTQ9Z2S9cc1ja"
     },
     {
       "album": {
@@ -387,10 +463,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97813,
       "name": "El Trencito Ca\u00f1ero",
       "url": "https://open.spotify.com/track/4dgR2NBlMs7XTEOVfFTlGK"
+    },
+    {
+      "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97813,
+      "name": "El Trencito Ca\u00f1ero",
+      "url": "https://open.spotify.com/track/7kwzfysVXB9DkVlUHdQoQo"
     },
     {
       "album": {
@@ -488,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101240,
+      "name": "La Iguana y el Perezoso",
+      "url": "https://open.spotify.com/track/59wv8enNsfwSZDLzXckLc7"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos: Canticuentos",
         "url": "https://open.spotify.com/album/6frr94M5Hp6UHuMiuu2JV1"
       },
@@ -499,7 +611,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101355,
       "name": "La Iguana y el Perezoso",
       "url": "https://open.spotify.com/track/2ETOzVqvINFXbWVwhkUqyw"
@@ -524,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Macondo un Canto de Ni\u00f1os",
+        "url": "https://open.spotify.com/album/2kOctUaUr5UiFnHHLjK6tN"
+      },
+      "artists": [
+        {
+          "name": "Macondo Un Canto De Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/3Wcx4JR3B0vMVKifl5HAUF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167370,
+      "name": "La Ronda del Hielo",
+      "url": "https://open.spotify.com/track/7accQP9pah1B4f0dRcGN3X"
+    },
+    {
+      "album": {
         "name": "Macondo Un Canto De Ni\u00f1os",
         "url": "https://open.spotify.com/album/3SCx7xggtnedi0Kc2xRcnw"
       },
@@ -539,10 +669,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167418,
       "name": "La Ronda del Hielo",
       "url": "https://open.spotify.com/track/25XVgWvYC1fkV9D6TrHNm2"
+    },
+    {
+      "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111200,
+      "name": "La Serpiente de Tierra Caliente",
+      "url": "https://open.spotify.com/track/57IEu1oyw2Cc9FTIrIQXhM"
     },
     {
       "album": {
@@ -557,7 +705,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111200,
       "name": "La Serpiente De Tierra Caliente",
       "url": "https://open.spotify.com/track/6CTpq4p0u9qClckD7fRzK9"
@@ -597,10 +745,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127520,
       "name": "La Vaca Lola",
       "url": "https://open.spotify.com/track/70NIwhQTnE2a4wuE0roHTM"
+    },
+    {
+      "album": {
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
+      },
+      "artists": [
+        {
+          "name": "Los Pollitos",
+          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127520,
+      "name": "La vaca Lola",
+      "url": "https://open.spotify.com/track/38A98InxiLisshLueMkkBb"
     },
     {
       "album": {
@@ -719,6 +885,24 @@
     {
       "album": {
         "name": "Rockerito",
+        "url": "https://open.spotify.com/album/4IdSwV9N3we2rh783ls6k2"
+      },
+      "artists": [
+        {
+          "name": "Cantoalegre",
+          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "Mu\u00e9vanse Todos / La Gallina Twist",
+      "url": "https://open.spotify.com/track/0J4R05Xq9xKnFOLc70ymKs"
+    },
+    {
+      "album": {
+        "name": "Rockerito",
         "url": "https://open.spotify.com/album/3u4v3oTLQolBR8PeU8PdIe"
       },
       "artists": [
@@ -729,10 +913,36 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254866,
       "name": "Mu\u00e9vanse Todos / La Gallina Twist",
       "url": "https://open.spotify.com/track/2WJwPuX3TPOzRAyPDIutPl"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes - The Most Popular Songs for Kids (With Sing-Alongs!)",
+        "url": "https://open.spotify.com/album/2CLPwb2fSezrzVKyd2mU11"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes",
+          "url": "https://open.spotify.com/artist/2TCyfTG9UWaZYgbg0bmFmG"
+        },
+        {
+          "name": "Songs For Kids",
+          "url": "https://open.spotify.com/artist/2JSjTtZIm6pRdYWsYl6WDs"
+        },
+        {
+          "name": "Mommy Sings",
+          "url": "https://open.spotify.com/artist/1mIeke4YPZsIvgisbNaHbX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112272,
+      "name": "Oh Susanna (Nursery Rhyme)",
+      "url": "https://open.spotify.com/track/7MRVLqKRYiSfn821bK9rEe"
     },
     {
       "album": {
@@ -747,7 +957,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112272,
       "name": "Oh Susanna (nursery Rhyme)",
       "url": "https://open.spotify.com/track/6Oexw38YeFgzKZrIvUkbEA"
@@ -808,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Un, Dos, Tres Por M\u00ed Y Por Todos",
+        "url": "https://open.spotify.com/album/6yUpFZ0ww52x4jDnvlCERQ"
+      },
+      "artists": [
+        {
+          "name": "Cantoalegre",
+          "url": "https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "Pirul\u00edn Con Cola",
+      "url": "https://open.spotify.com/track/5KcWASz31AsnBjoyYdAqGp"
+    },
+    {
+      "album": {
         "name": "Un, dos, tres, por m\u00ed y por todos",
         "url": "https://open.spotify.com/album/0erkJ4aigti7prmSnfxSEu"
       },
@@ -819,7 +1047,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230713,
       "name": "Pirul\u00edn con cola",
       "url": "https://open.spotify.com/track/3sdhDugpcPlsB2dRpyYLeU"
@@ -871,6 +1099,24 @@
     {
       "album": {
         "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139813,
+      "name": "Ronda de las Vocales",
+      "url": "https://open.spotify.com/track/0Er5lBGL7DijbF7Vw0tJ1h"
+    },
+    {
+      "album": {
+        "name": "Los 60 Mejores Canticuentos",
         "url": "https://open.spotify.com/album/5LJmTVV1oWC0Qj6WJINbPg"
       },
       "artists": [
@@ -881,7 +1127,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139813,
       "name": "Ronda De Las Vocales",
       "url": "https://open.spotify.com/track/5GyuIcDz7GO6keKRKdWp4w"
@@ -906,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Los 60 Mejores Canticuentos",
+        "url": "https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH"
+      },
+      "artists": [
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117546,
+      "name": "Sammy el Heladero",
+      "url": "https://open.spotify.com/track/1JVu5AP490qE7EZMVBx1cm"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos: Canticuentos",
         "url": "https://open.spotify.com/album/6frr94M5Hp6UHuMiuu2JV1"
       },
@@ -917,7 +1181,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117603,
       "name": "Sammy el Heladero",
       "url": "https://open.spotify.com/track/2YGTAyly1GwKKpSgvzmYwu"
@@ -982,6 +1246,32 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes - The Most Popular Songs for Kids (With Sing-Alongs!)",
+        "url": "https://open.spotify.com/album/2CLPwb2fSezrzVKyd2mU11"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes",
+          "url": "https://open.spotify.com/artist/2TCyfTG9UWaZYgbg0bmFmG"
+        },
+        {
+          "name": "Songs For Kids",
+          "url": "https://open.spotify.com/artist/2JSjTtZIm6pRdYWsYl6WDs"
+        },
+        {
+          "name": "Mommy Sings",
+          "url": "https://open.spotify.com/artist/1mIeke4YPZsIvgisbNaHbX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95343,
+      "name": "Twinkle, Twinkle Little Star (Nursery Rhyme)",
+      "url": "https://open.spotify.com/track/4FoIe05CZ3RoxZtF1JbTWZ"
+    },
+    {
+      "album": {
         "name": "Nursery Rhymes - The Most Popular Songs for Kids (with Sing-Alongs!)",
         "url": "https://open.spotify.com/album/5H1RL2PAzO66hc28ZvBpp3"
       },
@@ -993,7 +1283,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 95343,
       "name": "Twinkle, Twinkle Little Star (nursery Rhyme)",
       "url": "https://open.spotify.com/track/45dkmPiqyCyB3w1bj3HxIH"

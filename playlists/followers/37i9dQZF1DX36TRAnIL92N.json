@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 310292,
+  "2024-04-20": 310575,
   "date_first_scraped": "2022-07-07",
   "description": "High energy Techno to boost your workout.",
   "name": "Techno Workout",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 314666,
       "name": "Alle meine Raver",
       "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 469612,
       "name": "Asura",
       "url": "https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 408669,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 251026,
       "name": "Bells of Notre Dame",
       "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 433971,
       "name": "Doppler",
       "url": "https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/0n2jPpNThUiLaf39k1Jfz7"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 509090,
       "name": "Future Dust",
       "url": "https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365568,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2EHdG8AvxtuZGLk74YQUXt"
@@ -1381,10 +1381,28 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199727,
       "name": "Hare Ram",
       "url": "https://open.spotify.com/track/1MxkZ4ybCA4ordKzbGRN2O"
+    },
+    {
+      "album": {
+        "name": "Hare Ram",
+        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199727,
+      "name": "Hare Ram",
+      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
     },
     {
       "album": {
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393740,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 419164,
       "name": "Inside My Head",
       "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3NWMxXgzWvtO3j8o9eFkOi"
@@ -2758,6 +2776,28 @@
     },
     {
       "album": {
+        "name": "Ray Of Solar (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207919,
+      "name": "Ray Of Solar - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
+    },
+    {
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
       },
@@ -2921,7 +2961,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205696,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif"
@@ -2939,7 +2979,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 276357,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
@@ -3067,7 +3107,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
@@ -3245,7 +3285,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132696,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC"
@@ -3263,7 +3303,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 132700,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"
@@ -3361,7 +3401,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 230142,
       "name": "Techno Acid 303",
       "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
@@ -3427,7 +3467,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 489480,
       "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
       "url": "https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB"
@@ -3577,6 +3617,24 @@
       "duration_ms": 380625,
       "name": "The Second Law of Thermodynamics",
       "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
+    },
+    {
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/6v260UdseJka96hzE3oy1d"
+      },
+      "artists": [
+        {
+          "name": "ANSBRO",
+          "url": "https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383039,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o"
     },
     {
       "album": {
@@ -3925,7 +3983,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
@@ -3977,7 +4035,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 244615,
       "name": "We All Unite",
       "url": "https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY"
@@ -3995,7 +4053,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206625,
       "name": "We Control",
       "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
@@ -4209,7 +4267,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 298181,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"

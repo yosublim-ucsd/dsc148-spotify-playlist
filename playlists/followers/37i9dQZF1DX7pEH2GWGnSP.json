@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 158724,
+  "2024-04-20": 158923,
   "date_first_scraped": "2023-05-02",
   "description": "Hear all of LE SSERAFIM's biggest and best hits in one playlist... DODODOK!",
   "name": "This Is LE SSERAFIM",
@@ -43,6 +43,24 @@
     {
       "album": {
         "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201894,
+      "name": "Blue Flame (Japanese ver.)",
+      "url": "https://open.spotify.com/track/1nCcwtlNAPrgQnMXilDo10"
+    },
+    {
+      "album": {
+        "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl"
       },
       "artists": [
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201280,
       "name": "Blue Flame - Japanese ver.",
       "url": "https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh"
@@ -78,6 +96,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200273,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/4Uho9zRGoO1aLspbIQ8y7A"
+    },
+    {
+      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI"
       },
@@ -89,7 +125,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201026,
       "name": "Choices",
       "url": "https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ"
@@ -396,6 +432,24 @@
     },
     {
       "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "FEARLESS (Japanese ver.)",
+      "url": "https://open.spotify.com/track/416Wukj3jKPAPOqnao4o7V"
+    },
+    {
+      "album": {
         "name": "FEARLESS (Japanese ver.)",
         "url": "https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu"
       },
@@ -407,7 +461,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168866,
       "name": "FEARLESS - Japanese ver.",
       "url": "https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C"

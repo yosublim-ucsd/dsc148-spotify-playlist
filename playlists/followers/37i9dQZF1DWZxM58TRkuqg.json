@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 757627,
+  "2024-04-20": 756667,
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Suara Kayu",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Tiara Andini",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -634,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Hoping You'll Be Mine",
+        "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202659,
+      "name": "Hoping You'll Be Mine",
+      "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Wanna Go Back Home",
         "url": "https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu"
       },
@@ -1010,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Kupu - Kupu",
+        "url": "https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242090,
+      "name": "Kupu - Kupu",
+      "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
+      "album": {
         "name": "Lagu Pernikahan Kita",
         "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
@@ -1029,6 +1065,28 @@
       "duration_ms": 261476,
       "name": "Lagu Pernikahan Kita",
       "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
+    },
+    {
+      "album": {
+        "name": "Laki-Laki Bukan Pengecut",
+        "url": "https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765"
+      },
+      "artists": [
+        {
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+        },
+        {
+          "name": "Marcello Tahitoe",
+          "url": "https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258670,
+      "name": "Laki-Laki Bukan Pengecut",
+      "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
     },
     {
       "album": {
@@ -1079,7 +1137,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Lewat Doa",
       "url": "https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P"
@@ -1097,7 +1155,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258000,
       "name": "Lewat Doa",
       "url": "https://open.spotify.com/track/47w31Y7t568KU7NC0sqCy9"
@@ -1512,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Sejauh Dua Benua",
+        "url": "https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY"
+      },
+      "artists": [
+        {
+          "name": "Kahitna",
+          "url": "https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225633,
+      "name": "Sejauh Dua Benua",
+      "url": "https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY"
+    },
+    {
+      "album": {
         "name": "Selagi Punya Waktu",
         "url": "https://open.spotify.com/album/66AZ0dwHtstBf7ACMLb0Ah"
       },
@@ -1773,6 +1849,24 @@
       "duration_ms": 231100,
       "name": "Tak Segampang Itu",
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
+    },
+    {
+      "album": {
+        "name": "Takkan Berpaling DariMu",
+        "url": "https://open.spotify.com/album/0cYspqq5WIty9bJUsvWHUP"
+      },
+      "artists": [
+        {
+          "name": "Deborah Hanna",
+          "url": "https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238407,
+      "name": "Takkan Berpaling DariMu",
+      "url": "https://open.spotify.com/track/6y7zdBxB5u3d8QihkDaAwj"
     },
     {
       "album": {

@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 1808,
+  "2024-04-20": 1852,
   "date_first_scraped": "2024-03-15",
   "description": "Check out an exclusive voice message + related artist's tracks before the anime release date. \u3044\u3088\u3044\u30884\u670813\u65e5\u653e\u9001\u3002\u9650\u5b9a\u30dc\u30a4\u30b9\u3084\u4f5c\u54c1\u4e16\u754c\u3092\u5f69\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u306e\u540d\u66f2\u3092\u8074\u3044\u3066\u6c17\u5206\u3092\u9ad8\u3081\u3088\u3046\uff01\u00a9\u9632\u885b\u968a\u7b2c\uff13\u90e8\u968a\u00a0\u00a9\u677e\u672c\u76f4\u4e5f\uff0f\u96c6\u82f1\u793e",
   "name": "Kaiju No. 8 \u602a\u73638\u53f7 ",
   "tracks": [
+    {
+      "album": {
+        "name": "\u30a2\u30cb\u30e1\u300e\u602a\u7363\uff18\u53f7\u300f\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u8a0e\u4f10\u4f5c\u6226\u2010Podcast Operation Kaiju No.8",
+        "url": "https://open.spotify.com/album/3BjUYFTeSdyOPImcX6GvNt"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30cb\u30e1\u300e\u602a\u7363\uff18\u53f7\u300f\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u8a0e\u4f10\u4f5c\u6226\u2010Podcast Operation Kaiju No.8",
+          "url": "https://open.spotify.com/show/3BjUYFTeSdyOPImcX6GvNt"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1756501,
+      "name": "#\uff11\u3000MC\u30ab\u30d5\u30ab\u5f79 \u798f\u897f\u52dd\u4e5f\uff06\u30df\u30ca\u5f79 \u702c\u6238\u9ebb\u6c99\u7f8e\u300c\u5927\u6700\u9ad8\uff01\u512a\u52dd\uff01\u304a\u3081\u3067\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\u300d\u300c\u3072\u3068\u8a00\u3063\u3066\u8a00\u3063\u305f\u3058\u3083\u3093\uff01\u7b11\u300d",
+      "url": "https://open.spotify.com/episode/6HVGAUDNMWg9seHuNgstjh"
+    },
     {
       "album": {
         "name": "Abyss (from Kaiju No. 8)",
@@ -35,10 +53,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257265,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/6zH1ROVhEcUXLb7FeVeaRx"
     },
     {
       "album": {
@@ -65,7 +101,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337237,
       "name": "Fireworks: Concerto for Piano and Orchestra, Scene 5: Burst, Pt. 2",
       "url": "https://open.spotify.com/track/4gA1D6Y9RAAdNBPXfOy9Fw"
@@ -116,6 +152,40 @@
     },
     {
       "album": {
+        "name": "Kaiju Rock",
+        "url": "https://open.spotify.com/album/70NuKdtcOhE8H02T0yslkN"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        },
+        {
+          "name": "THE KAIJU BAND",
+          "url": "https://open.spotify.com/artist/7fKZU7edSQKr0OmV9LOhED"
+        },
+        {
+          "name": "\u4f50\u3005\u6728\u8cb4\u4e4b",
+          "url": "https://open.spotify.com/artist/0wpZyhoX4YPPBzREJ4AjOj"
+        },
+        {
+          "name": "\u65b0\u4e95\u548c\u8f1d",
+          "url": "https://open.spotify.com/artist/0bgarbMTMeCI4ttU5YuUZM"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79324,
+      "name": "Kaiju Rock",
+      "url": "https://open.spotify.com/track/4CrpBOqf4Q9xMIoxOEBPHB"
+    },
+    {
+      "album": {
         "name": "Kaiju Rock from Kaiju No. 8 (Music from the Original TV Series) -Pre Release-",
         "url": "https://open.spotify.com/album/5VgJfJ49jMQZG4vUohsU6i"
       },
@@ -143,7 +213,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 79324,
       "name": "Kaiju Rock from Kaiju No. 8 (Music from the Original TV Series) -Pre Release-",
       "url": "https://open.spotify.com/track/4hb37PrK0myDUZPC2vPu0Y"
@@ -173,10 +243,40 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 67454,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/67Pg038GgSB8UdmZBMCc4i"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ec\u30df\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/18s7rym6kFzwSeBXhBTbAA"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        },
+        {
+          "name": "\u6d82\u6afb",
+          "url": "https://open.spotify.com/artist/1juCtnxrm9XRrc59TDpHBn"
+        },
+        {
+          "name": "\u5927\u5bb6\u4e00\u5c06",
+          "url": "https://open.spotify.com/artist/61a0AxaynIU5LZNeRQ52Ot"
+        },
+        {
+          "name": "Ensemble FOVE",
+          "url": "https://open.spotify.com/artist/6q6FKLC39VIDZXz2vX2ZOZ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67454,
+      "name": "Morse Code",
+      "url": "https://open.spotify.com/track/5lUgfLx2KQw5p2Qcvf9SxP"
     },
     {
       "album": {
@@ -227,10 +327,46 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 66182,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/1GOXyTWbWscI6f3ePdWa2W"
+    },
+    {
+      "album": {
+        "name": "\u602a\u73638\u53f7\u306e\u30c6\u30fc\u30de \u301c\u300c\u602a\u73638\u53f7\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af -Pre Release-",
+        "url": "https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66182,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/2Ngyj6vTkOEmGHS93YuKfU"
+    },
+    {
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2Ch3JHNoahKqmDQnNj1cDM"
     },
     {
       "album": {
@@ -245,7 +381,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168259,
       "name": "Run",
       "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
@@ -299,10 +435,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224968,
       "name": "Scorching the Facade",
       "url": "https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN"
+    },
+    {
+      "album": {
+        "name": "\"BELLE\" Original Motion Picture Soundtrack [Norwegian Edition]",
+        "url": "https://open.spotify.com/album/62U1x6igCdD4MZkFr872GV"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224968,
+      "name": "Scorching the Facade",
+      "url": "https://open.spotify.com/track/6311ARCfIR9DrPCQwoFPc5"
     },
     {
       "album": {
@@ -317,10 +471,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "album": {
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6keF0sk7i4WU3cVnMkTtS3"
     },
     {
       "album": {
@@ -353,7 +525,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 43392,
       "name": "Theme of Defense Force",
       "url": "https://open.spotify.com/track/0I6EpuPmnDx2sOtw1SVUVa"
@@ -371,7 +543,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90752,
       "name": "Theme of Kaiju No. 8",
       "url": "https://open.spotify.com/track/3JjtWlEbP63uFl0U8lfuKE"
@@ -521,12 +693,78 @@
           "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
         }
       ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90752,
+      "name": "\u602a\u73638\u53f7\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/2lsRAFlA42AzeluFfiaVo8"
+    },
+    {
+      "album": {
+        "name": "\u602a\u73638\u53f7\u306e\u30c6\u30fc\u30de \u301c\u300c\u602a\u73638\u53f7\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af -Pre Release-",
+        "url": "https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 17820,
       "name": "\u602a\u7363\u8a0e\u4f10",
       "url": "https://open.spotify.com/track/2tEiU80rdS1gprQo5f6vAw"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/5FnR1xhyGn3ejYluhdyi1f"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        },
+        {
+          "name": "\u6c38\u91ce\u82f1\u6a39",
+          "url": "https://open.spotify.com/artist/1ch0mHyJqS0LlvGEKiZQ2m"
+        },
+        {
+          "name": "New Japan Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0GlOFpRepnabV9byKzixRx"
+        },
+        {
+          "name": "\u6749\u5c71\u6d0b\u4e00",
+          "url": "https://open.spotify.com/artist/1BT7qDWv85CB8qDosNfQ7x"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337237,
+      "name": "\u82b1\u706b - \u30d4\u30a2\u30ce\u3068\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u306e\u305f\u3081\u306e\u5354\u594f\u66f2 Scene 5: Burst - pt.2",
+      "url": "https://open.spotify.com/track/7iPevK87fzR000vOZSiSr3"
+    },
+    {
+      "album": {
+        "name": "\u602a\u73638\u53f7\u306e\u30c6\u30fc\u30de \u301c\u300c\u602a\u73638\u53f7\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af -Pre Release-",
+        "url": "https://open.spotify.com/album/4Z7Os2zgNVRSk28ds8dY16"
+      },
+      "artists": [
+        {
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
+        }
+      ],
+      "date_added": "2024-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43392,
+      "name": "\u9632\u885b\u968a\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/4QjfqDZZBsMGXFVeesU5TK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWC2vWhv5hnK"

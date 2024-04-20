@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: Sexyy Red",
-  "num_followers": 489029,
+  "num_followers": 488361,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMGFiYTA0YzgyODAzZjkxOTRmNmJmZTNmZmE2ODY2ZTc0",
+  "snapshot_id": "MTcxMzU0ODgxNywwMDAwMDAwMDA4NzBiNWQ4NTQ4MGZkMmRkMWFiMzIxYjIzNWQ1Nzg0",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -27,8 +27,8 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+        "name": "Yeah Glo!",
+        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 158181,
       "name": "No Statements",
       "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
+    },
+    {
+      "added_at": "2024-04-19 17:38:23",
+      "album": {
+        "name": "Dennis Daughter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Neighborhood Hero",
+      "url": "https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -77,40 +93,44 @@
       "url": "https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-19 17:38:23",
       "album": {
-        "name": "Mean It",
-        "url": "https://open.spotify.com/album/7wYjfl9torFVBrC0mBj2Df"
+        "name": "AyeeRealDidYouDoThat?",
+        "url": "https://open.spotify.com/album/4PdWmGA7oXyapyVW33ivgf"
       },
       "artists": [
         {
-          "name": "Maiya The Don",
-          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
-        }
-      ],
-      "duration_ms": 127067,
-      "name": "Mean It",
-      "url": "https://open.spotify.com/track/6kUox66bFBm4wtJKTMqJOy"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Soulkidreal",
+          "url": "https://open.spotify.com/artist/2pTtj7yZUKq8z3IOP0OZqN"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "$hyfromdatre",
+          "url": "https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC"
         }
       ],
-      "duration_ms": 199666,
-      "name": "FREAKY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
+      "duration_ms": 103848,
+      "name": "Big Threat",
+      "url": "https://open.spotify.com/track/3UW9mk85GIChlDwEbRGefj"
+    },
+    {
+      "added_at": "2024-04-19 17:46:57",
+      "album": {
+        "name": "Really Like That",
+        "url": "https://open.spotify.com/album/5fBNuwpRTltWbyTpo1fGlz"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 153417,
+      "name": "Really Like That",
+      "url": "https://open.spotify.com/track/55TQ3ZQJGezWlnDLf4PfjP"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -153,36 +173,36 @@
       "url": "https://open.spotify.com/track/7ktRp04laieDdnGcon2QVX"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-19 17:38:23",
       "album": {
-        "name": "Yeah Glo!",
-        "url": "https://open.spotify.com/album/4C6tr5dhwjMXTLkWL86Rqa"
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-19 17:38:23",
       "album": {
-        "name": "BAD WEATHER",
-        "url": "https://open.spotify.com/album/3mhxQoTa9VqzVJfYNjavvV"
+        "name": "BEEF",
+        "url": "https://open.spotify.com/album/6TvedH6LnpWns082NJONoM"
       },
       "artists": [
         {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+          "name": "Bbyafricka",
+          "url": "https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W"
         }
       ],
-      "duration_ms": 112746,
-      "name": "BAD WEATHER",
-      "url": "https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk"
+      "duration_ms": 109435,
+      "name": "BEEF",
+      "url": "https://open.spotify.com/track/6PdUbKyomVzR4sxAGKiiQF"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -201,36 +221,36 @@
       "url": "https://open.spotify.com/track/2k5OxKbU1wAv12ynwbKYFS"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-04-19 17:38:23",
       "album": {
-        "name": "Stacy's Chips",
-        "url": "https://open.spotify.com/album/5HVQN6oGyAjq4iVoH8WwqO"
+        "name": "Japa 2 Japan",
+        "url": "https://open.spotify.com/album/3XGUjgxkYg3ufZ4Gnob2oM"
       },
       "artists": [
         {
-          "name": "Lexa Gates",
-          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+          "name": "SixSaidIt",
+          "url": "https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb"
         }
       ],
-      "duration_ms": 168510,
-      "name": "Stacy's Chips",
-      "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
+      "duration_ms": 132000,
+      "name": "Japa 2 Japan",
+      "url": "https://open.spotify.com/track/1RtAdtopdeFljh8jBQ6eP6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "RIP FOLLIES",
-        "url": "https://open.spotify.com/album/1Hzls4hQzRn54zcNyfkRLX"
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
       "artists": [
         {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 128800,
-      "name": "RIP FOLLIES",
-      "url": "https://open.spotify.com/track/6Vr19U1UyfA7sw4wri12LX"
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -627,22 +647,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -659,6 +663,22 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/0g1im1B9PnwuSexz7BogHb"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -763,6 +783,46 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "FREAKY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 157192,
+      "name": "Neva (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "LVL5 P2",
         "url": "https://open.spotify.com/album/7cVPqKEV2caeqpj7T2m7hm"
       },
@@ -803,22 +863,34 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "RIP FOLLIES",
+        "url": "https://open.spotify.com/album/1Hzls4hQzRn54zcNyfkRLX"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
         }
       ],
-      "duration_ms": 157192,
-      "name": "Neva (feat. Monaleo)",
-      "url": "https://open.spotify.com/track/5mjAXptfZ8yCVHTRpelvos"
+      "duration_ms": 128800,
+      "name": "RIP FOLLIES",
+      "url": "https://open.spotify.com/track/6Vr19U1UyfA7sw4wri12LX"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Throw Dat",
+        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Throw Dat",
+      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -843,22 +915,6 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Throw Dat",
-        "url": "https://open.spotify.com/album/6jdP3XgIx9qaaB4QVekLpK"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Throw Dat",
-      "url": "https://open.spotify.com/track/19M4JyrblQb7Z57CvCgOsC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -895,42 +951,6 @@
       "duration_ms": 139931,
       "name": "Selling",
       "url": "https://open.spotify.com/track/4cQzKnVFTYNmlaJnls9lAL"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "UP, LIT. FREESTYLE",
-        "url": "https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        }
-      ],
-      "duration_ms": 116191,
-      "name": "UP, LIT. FREESTYLE",
-      "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "FINE AS CAN BE (feat. Latto)",
-      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
     }
   ],
   "unique_name": "Pressure",

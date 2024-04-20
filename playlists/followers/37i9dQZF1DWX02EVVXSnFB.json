@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 23144,
+  "2024-04-20": 23166,
   "date_first_scraped": "2022-09-21",
   "description": "<a href=\"spotify:artist:6mK0vAO13gT8jWYANyoXAl\">Young Franco's </a> favourite tracks.  Updated regularly. Curated by Young Franco. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Young Franco's track IDs",
@@ -411,7 +411,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Care Less (feat. Mafro)",
       "url": "https://open.spotify.com/track/16eLGXZkS8zudq5MtS8pw4"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185000,
       "name": "Care Less (feat. Mafro)",
       "url": "https://open.spotify.com/track/75WWh4xWED0GSpXbiHgS8Y"
@@ -623,10 +623,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194000,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/3xwiyXuh6KLBCQhRfQqXa3"
+    },
+    {
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/1oXZwNXkcpYtbgwZyf3pVP"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7fLxL7TxAT0FR5XgdWRvb0"
     },
     {
       "album": {
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232695,
       "name": "Emerald Acid - Edit",
       "url": "https://open.spotify.com/track/27DSG9kQjulz4EDVZGNf0N"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 232695,
       "name": "Emerald Acid - Edit",
       "url": "https://open.spotify.com/track/4GBGhCETm1W6uFclNDR5N0"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350813,
       "name": "I Feel for You",
       "url": "https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 350813,
       "name": "I feel for you - Original",
       "url": "https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1"
@@ -2542,6 +2560,32 @@
     },
     {
       "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/6TrlS4jRRt83HYjUKHcNMd"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Nova Caspar",
+          "url": "https://open.spotify.com/artist/3jslBrqnHkIjs2PSUKJae0"
+        },
+        {
+          "name": "jaydee",
+          "url": "https://open.spotify.com/artist/7dkFT090qwJt2IDXvCZwNG"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338693,
+      "name": "Sincere - Re-Cue'D",
+      "url": "https://open.spotify.com/track/0xF6aP4RFZ7cqP7yOx7Tda"
+    },
+    {
+      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
       },
@@ -2561,7 +2605,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338693,
       "name": "Sincere - Re-Cue'D",
       "url": "https://open.spotify.com/track/3ttQGouvKMlbI2bTgAMWup"
@@ -3159,10 +3203,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338175,
       "name": "Ya Mama",
       "url": "https://open.spotify.com/track/2jeKsuGqjv5dPbM15V9Kn8"
+    },
+    {
+      "album": {
+        "name": "Halfway Between the Gutter and the Stars",
+        "url": "https://open.spotify.com/album/68e2LAsyBqsXHu8QlA7mAp"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338200,
+      "name": "Ya Mama",
+      "url": "https://open.spotify.com/track/70s6tDFJzgQsncTTYiaZJh"
     },
     {
       "album": {

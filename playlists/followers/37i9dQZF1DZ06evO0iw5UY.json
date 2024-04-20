@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 27006,
+  "2024-04-20": 26998,
   "date_first_scraped": "2023-05-03",
-  "description": "This Is Krewella. Los temas esenciales, todos en una lista.",
+  "description": "This is Krewella. The essential tracks, all in one playlist.",
   "name": "This Is Krewella",
   "tracks": [
     {
@@ -283,7 +283,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Come & Get It",
       "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214453,
       "name": "Party Monster",
       "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"

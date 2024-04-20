@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-713 songs - 1 day 2 hr 46 min
+715 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Frikitona \- Slowboy Remix](https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Frikitona \(Slowboy Remix\)](https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA) | 2:18 | 2024-03-22 | 2024-03-30 |
 | [FTP](https://open.spotify.com/track/6hT9GcKOTN8P0gcmuNtVyU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [FTP](https://open.spotify.com/album/41WOnjsI2bXuQsrgC8VXHD) | 2:05 | 2022-01-14 | 2022-07-02 |
 | [Fuck Your Mind](https://open.spotify.com/track/2fxTylxOAfxV0R2YVNWWy7) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Homicide](https://open.spotify.com/album/2bq7fho2th0ny1eGeo2fDN) | 2:18 | 2021-06-24 | 2022-05-14 |
+| [Fuku](https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB) | [Fuku](https://open.spotify.com/album/1Av8SASgUHygkOKLy3WqRo) | 1:55 | 2024-04-19 |  |
 | [FULL SEND](https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA) | [BLXCKBUSTA](https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs) | [FULL SEND](https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl) | 1:54 | 2021-09-01 | 2022-07-30 |
 | [FUNK ESTRANHO](https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh) | [ALXIKE](https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F) | [FUNK ESTRANHO](https://open.spotify.com/album/71m7v6UCb6PldBrt5AYJ0I) | 1:46 | 2024-04-05 |  |
 | [Funk of Suffering](https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN) | [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [Funk of Suffering](https://open.spotify.com/album/2B8qo6AA5g6iPR0DpkjrbB) | 1:17 | 2023-12-08 |  |
@@ -431,7 +432,7 @@
 | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT) | [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Mtg Ensurdecência Estelar 1.0](https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr) | 2:39 | 2023-09-15 |  |
 | [MTG PATRONO](https://open.spotify.com/track/3NQOcWmMK1YDhcES2DRlQI) | [CHXSE WAVE](https://open.spotify.com/artist/6wmMB4J3qcm8KdKsjWXlWT) | [MTG PATRONO](https://open.spotify.com/album/1voYue1fOt5KXCqbxQsXCq) | 1:39 | 2023-10-06 | 2023-10-14 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-05-13 |  |
-| [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 | 2023-01-06 |  |
+| [MURDER PLOT](https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MURDER PLOT](https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv) | 2:06 | 2023-01-06 | 2024-04-20 |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-08-12 | 2022-10-01 |
 | [MYSTIC STYLE](https://open.spotify.com/track/1DunAe7kfBcA7yC9KT7wOv) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [MYSTIC STYLE](https://open.spotify.com/album/39nKKqUus4Pb6gAhM1Vach) | 1:38 | 2021-11-12 | 2022-02-19 |
 | [NEBLINA](https://open.spotify.com/track/26U5IBL7Q8mhBe7gFZpr1w) | [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [NEBLINA](https://open.spotify.com/album/5NGH4phWsvWF7DU0KKK76T) | 2:02 | 2023-05-05 | 2023-05-20 |
@@ -514,6 +515,7 @@
 | [PSYCHO FUNK](https://open.spotify.com/track/5nyZmmFT3guVqrRxSkt12C) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp), [MC 99](https://open.spotify.com/artist/3HIvqQ3TKSSqa5yef0Q3xR) | [PSYCHO FUNK](https://open.spotify.com/album/6Xi9WQNEilg2HE1uCeFWFt) | 2:00 | 2023-07-21 |  |
 | [Psycho Funk](https://open.spotify.com/track/6zMmJhxFeAVWoiZYCbwzbO) | [Love Fluxos](https://open.spotify.com/artist/5uTuKlVMAZzFDvFpQsOH2I) | [Psycho Funk](https://open.spotify.com/album/1XAJTAFssI3vRiE3mlSNhK) | 2:00 | 2023-07-21 | 2024-01-10 |
 | [Pulsar Pit](https://open.spotify.com/track/3H6iOC0kcOlfZ5wRt5Tkz3) | [Red Death Grave](https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w) | [Pulsar Pit](https://open.spotify.com/album/2mVLBBH6EsPXyl2yuAvBdO) | 1:30 | 2022-02-04 | 2022-07-30 |
+| [pulse \- slowed](https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW) | [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [pulse](https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x) | 1:37 | 2024-04-19 |  |
 | [Puncher](https://open.spotify.com/track/54NEDYt9RTc7PCLm4AUftc) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Puncher](https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW) | 2:02 | 2023-03-31 | 2023-05-06 |
 | [PURE MONSTROSITY](https://open.spotify.com/track/5P9317yVhHAtnriqWrcZtJ) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PURE MONSTROSITY](https://open.spotify.com/album/1GCVqsTt7X89UMhZrrLRXH) | 2:16 | 2022-02-18 | 2022-07-23 |
 | [Queen of Pain](https://open.spotify.com/track/5IJWadF9aEwG1H4iIrYyUz) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Lastfragment](https://open.spotify.com/artist/0prNIqZMr1aog4xj7qQo1A) | [Queen of Pain](https://open.spotify.com/album/4YFPxJZXuhPECSmw9kb5Cf) | 2:13 | 2022-05-20 | 2022-09-24 |
@@ -560,7 +562,7 @@
 | [Salam 1996](https://open.spotify.com/track/5nENhLdM42lZhipYhRjTtV) | [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ) | [Salam 1996](https://open.spotify.com/album/2Mw30d2B7gGaXV9hTJIihE) | 1:46 | 2023-11-17 | 2024-02-03 |
 | [SATISFACTION](https://open.spotify.com/track/0Xjcrr9FPy3ZrNk5sPlndU) | [OXXXIDE](https://open.spotify.com/artist/3pAEadIxg8RlAQoDmpNqKS) | [SATISFACTION](https://open.spotify.com/album/3D4LxVyKnsNuSCRSd6N52g) | 1:58 | 2022-12-30 | 2023-03-11 |
 | [SCARFACE](https://open.spotify.com/track/24wHwQ23F2QlC31YGGiejn) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l) | [SCARFACE](https://open.spotify.com/album/46IEkRQXYXNZNJCrOQyy0x) | 1:33 | 2022-11-25 | 2023-02-18 |
-| [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2021-05-12 |  |
+| [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2021-05-12 | 2024-04-20 |
 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 | 2022-11-11 |  |
 | [Scrapyard](https://open.spotify.com/track/4uvPRByRYtH1AjhhqG6emD) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Scrapyard](https://open.spotify.com/album/2rR3ic7R3y7rNfqlkeFHkg) | 2:07 | 2022-11-11 | 2023-01-06 |
 | [Sea Of Problems](https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD) | [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [Sea Of Problems](https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95) | 1:50 | 2023-04-26 |  |

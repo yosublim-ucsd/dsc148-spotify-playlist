@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 56507,
+  "2024-04-20": 56556,
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Murica, Prs, o Pere, BEATDOMK",
+  "description": "boom bap renasce todo dia. Foto: NOG, Mano Fler, Choice, Mauricio DTS, Jhony Mc",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -268,6 +268,32 @@
     },
     {
       "album": {
+        "name": "22 Anos",
+        "url": "https://open.spotify.com/album/4gqAMOZb6bqT1oH6N8w4hS"
+      },
+      "artists": [
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
+        },
+        {
+          "name": "Elleven",
+          "url": "https://open.spotify.com/artist/6FerfPxCj95ySUPXJUbWUW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105776,
+      "name": "22 Anos",
+      "url": "https://open.spotify.com/track/3QeaKOaIUec2MuoVs7YVmR"
+    },
+    {
+      "album": {
         "name": "26 de Janeiro",
         "url": "https://open.spotify.com/album/3aWlbpjLMzofrqMA72EMPn"
       },
@@ -479,6 +505,28 @@
       "duration_ms": 125246,
       "name": "A Saga",
       "url": "https://open.spotify.com/track/6drEflBWAyIxK3m31uuCSA"
+    },
+    {
+      "album": {
+        "name": "A Volta do Ano L\u00edrico",
+        "url": "https://open.spotify.com/album/6H1jnfLHcnm3MfHO8v8emY"
+      },
+      "artists": [
+        {
+          "name": "PrimeiraMente",
+          "url": "https://open.spotify.com/artist/3ljiSwQJmAVQVOXirjA2RT"
+        },
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226744,
+      "name": "A Volta do Ano L\u00edrico",
+      "url": "https://open.spotify.com/track/1DhNBssp8Yhv2DV4Zjb6Y7"
     },
     {
       "album": {
@@ -1107,7 +1155,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 184863,
       "name": "Besteiras",
       "url": "https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q"
@@ -1133,7 +1181,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184863,
       "name": "Besteiras",
       "url": "https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC"
@@ -1385,6 +1433,28 @@
       "duration_ms": 245333,
       "name": "B\u00fassola Quebrada 2",
       "url": "https://open.spotify.com/track/30PN9ARYT0vIMYkcmtlspo"
+    },
+    {
+      "album": {
+        "name": "Cabra",
+        "url": "https://open.spotify.com/album/43VNY5HGA36AxRdKXT3PfR"
+      },
+      "artists": [
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Nobre Beats",
+          "url": "https://open.spotify.com/artist/0mAnaYgKhBPZ89wzd6ebT7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102367,
+      "name": "Cabra",
+      "url": "https://open.spotify.com/track/0EIfvVwz1YANHBTU3v2meu"
     },
     {
       "album": {
@@ -2523,7 +2593,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86473,
       "name": "Document\u00e1rio",
       "url": "https://open.spotify.com/track/2ndTkGWb7m80kMNNfQUq1e"
@@ -6148,6 +6218,24 @@
     },
     {
       "album": {
+        "name": "O Coach",
+        "url": "https://open.spotify.com/album/5U1w0f5p8b9pndjg39hJUw"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "O Coach",
+      "url": "https://open.spotify.com/track/15Kar6PKdgpnIxGCT74dBU"
+    },
+    {
+      "album": {
         "name": "O Futuro N\u00e3o Espera",
         "url": "https://open.spotify.com/album/4PoOjE0T4rWZuZqkXWvHdj"
       },
@@ -6353,7 +6441,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134831,
       "name": "O Retorno do Boombap - B\u00f4nus",
       "url": "https://open.spotify.com/track/6kSQTkWxLhDUbfVCBU8NSc"
@@ -6492,6 +6580,32 @@
     },
     {
       "album": {
+        "name": "Bittersweet Memories",
+        "url": "https://open.spotify.com/album/3lSrcatiOSMpYbT4tGPmZh"
+      },
+      "artists": [
+        {
+          "name": "YUNG LIXO",
+          "url": "https://open.spotify.com/artist/6ab8tnQvr8sXXIpSZCrbQs"
+        },
+        {
+          "name": "Biffe",
+          "url": "https://open.spotify.com/artist/4UqY7xfcHtpNSyLZTYKoPp"
+        },
+        {
+          "name": "Hakuro",
+          "url": "https://open.spotify.com/artist/4fTFQshnBXAeU0oGbAGmjI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "Oldschool",
+      "url": "https://open.spotify.com/track/6ugtvq1VRh37Ayl8JIP0iQ"
+    },
+    {
+      "album": {
         "name": "Olhos Abertos",
         "url": "https://open.spotify.com/album/1w3Xg8xmPSATq4FHPhMxaN"
       },
@@ -6511,7 +6625,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172328,
       "name": "Olhos Abertos",
       "url": "https://open.spotify.com/track/7apTR03T8VtqLBEsqqjwVw"
@@ -6559,6 +6673,40 @@
       "duration_ms": 224493,
       "name": "ONDA FORTE RMX",
       "url": "https://open.spotify.com/track/3izOEB1YVNgbHKiGYPPEGG"
+    },
+    {
+      "album": {
+        "name": "Origens: Liberdade Fler",
+        "url": "https://open.spotify.com/album/2aujUr2DkGtEdhM52iQXhs"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Maur\u00edcio DTS",
+          "url": "https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369130,
+      "name": "Origens: Liberdade Fler",
+      "url": "https://open.spotify.com/track/38LVki3pmxj7zsFiWZpfYi"
     },
     {
       "album": {
@@ -7085,7 +7233,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279818,
       "name": "Pra Frente",
       "url": "https://open.spotify.com/track/5rLlnHoyxJltzexfpPpOsq"
@@ -7975,7 +8123,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171089,
       "name": "RUMO",
       "url": "https://open.spotify.com/track/3ZbpXNjqqnval0JHQjZflU"
@@ -8067,7 +8215,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205333,
       "name": "Sal",
       "url": "https://open.spotify.com/track/1M3Us9lbRcrWidPuO812ew"
@@ -9141,7 +9289,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319451,
       "name": "Tem Dias Que",
       "url": "https://open.spotify.com/track/4puE88rxsk6E2jmc1p9toN"
@@ -9583,7 +9731,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69788,
       "name": "Uniforme",
       "url": "https://open.spotify.com/track/1VxFICavCG6YotGVT33H0r"

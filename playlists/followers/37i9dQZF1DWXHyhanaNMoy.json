@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 320939,
+  "2024-04-20": 320868,
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Delany",
+  "description": "Motion & good vibes! Cover: Architrackz",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154455,
       "name": "Basshall Session #3",
       "url": "https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb"
@@ -3677,7 +3677,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158076,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/230BRmQgwbiSijUbm04V6Q"
@@ -3937,6 +3937,28 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
+        "name": "Cheesecake",
+        "url": "https://open.spotify.com/album/2Eafh6rgUTf1uNA4Z0mu3G"
+      },
+      "artists": [
+        {
+          "name": "Johnny 500",
+          "url": "https://open.spotify.com/artist/53phw2rwTqJEtpZ1LgsPgj"
+        },
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Cheesecake",
+      "url": "https://open.spotify.com/track/72vN2cQnnbpTIsreWWfPtX"
     },
     {
       "album": {
@@ -4797,7 +4819,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151902,
       "name": "Delulu",
       "url": "https://open.spotify.com/track/5QHAXFwbq9NVQWsHSSF9Qs"
@@ -7224,6 +7246,28 @@
     },
     {
       "album": {
+        "name": "Guay",
+        "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210788,
+      "name": "Guay",
+      "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
+    },
+    {
+      "album": {
         "name": "GYAL DEM",
         "url": "https://open.spotify.com/album/4UGnR78CQUxQpNzBjFsjdK"
       },
@@ -8165,7 +8209,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 154722,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/498vwBN11kmG729pNaRS8j"
@@ -8187,7 +8231,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154722,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/5yFWXhANGrQFCFnJfbV838"
@@ -8322,6 +8366,28 @@
     },
     {
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "album": {
         "name": "Imaranma",
         "url": "https://open.spotify.com/album/48uIaP1oyoy7X5DqMc8SYq"
       },
@@ -8337,7 +8403,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202232,
       "name": "Imaranma",
       "url": "https://open.spotify.com/track/0NFNiWzFvNjJDSRlMbI9lC"
@@ -9409,6 +9475,24 @@
       "duration_ms": 147580,
       "name": "KU LO SA - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
+    },
+    {
+      "album": {
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
     },
     {
       "album": {
@@ -15263,7 +15347,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
@@ -19412,6 +19496,28 @@
     },
     {
       "album": {
+        "name": "Wahala (feat. Olamide)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Wahala (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
       },
@@ -20056,6 +20162,32 @@
     },
     {
       "album": {
+        "name": "Wine Dat",
+        "url": "https://open.spotify.com/album/2gqMaP3AZjWzDa8cuUkHer"
+      },
+      "artists": [
+        {
+          "name": "TEAM PEACH",
+          "url": "https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC"
+        },
+        {
+          "name": "Major Dreamin'",
+          "url": "https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG"
+        },
+        {
+          "name": "Donson",
+          "url": "https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125825,
+      "name": "Wine Dat",
+      "url": "https://open.spotify.com/track/4MrI59cGOBajoKZSzXyvg4"
+    },
+    {
+      "album": {
         "name": "Winning Team",
         "url": "https://open.spotify.com/album/68hZTo5JXO11KOJTGXzSOc"
       },
@@ -20659,7 +20791,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153750,
       "name": "\u00c9galit\u00e9",
       "url": "https://open.spotify.com/track/4vomlztZrN1nspKvzfCEJI"

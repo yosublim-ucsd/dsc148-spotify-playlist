@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-89 songs - 3 hr 59 min
+90 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 |  |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 |  |
 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 | 2023-08-04 |  |
+| [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 |  |
 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 |  |
 | [I Would Feel Guilty](https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:18 | 2023-09-02 |  |
 | [I'm Scared Too](https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:45 | 2023-08-04 | 2023-09-13 |
@@ -58,7 +59,7 @@
 | [Of All The Amazing Things](https://open.spotify.com/track/5KaXnve8UKz3BFXsB81s8x) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Aeronauts \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE) | 2:28 | 2023-08-13 | 2023-08-20 |
 | [Ophelia](https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:52 | 2023-08-04 |  |
 | [Race Against Time](https://open.spotify.com/track/6HuhnYzrHayI1chpndrzjI) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 1:19 | 2023-11-10 | 2024-01-30 |
-| [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 | 2023-08-06 |  |
+| [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 | 2023-08-06 | 2024-04-20 |
 | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 | 2023-11-10 |  |
 | [Science Project](https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:43 | 2023-09-12 |  |
 | [Shenzou](https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 6:11 | 2023-08-04 |  |

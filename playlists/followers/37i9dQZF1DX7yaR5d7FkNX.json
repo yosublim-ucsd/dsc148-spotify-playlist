@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 130902,
+  "2024-04-20": 130919,
   "date_first_scraped": "2022-04-22",
   "description": "\u2728\u2764\ufe0f\ud83c\udf39Para Rocanlovers ",
   "name": "Brillas",
@@ -406,12 +406,12 @@
       "artists": [
         {
           "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok"
+          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
         }
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260786,
       "name": "Azul Oscuro",
       "url": "https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261079,
       "name": "Azul Oscuro",
       "url": "https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226186,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234386,
       "name": "Coraz\u00f3n At\u00f3mico",
       "url": "https://open.spotify.com/track/0axbGyJYPGhzVaxzm6cHcq"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234386,
       "name": "Coraz\u00f3n At\u00f3mico",
       "url": "https://open.spotify.com/track/5gEepcBJx2Y7upzg5fkCxn"
@@ -1233,6 +1233,24 @@
     {
       "album": {
         "name": "El Universo",
+        "url": "https://open.spotify.com/album/3TOpU3w0sTPPSKl8yt323D"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136747,
+      "name": "El Universo",
+      "url": "https://open.spotify.com/track/0YBn48a0CAaS8I7FpcWAvv"
+    },
+    {
+      "album": {
+        "name": "El Universo",
         "url": "https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy"
       },
       "artists": [
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136747,
       "name": "El Universo",
       "url": "https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216459,
       "name": "Hablando Lento",
       "url": "https://open.spotify.com/track/0KdTs8DIDALkkxmbqGJQvr"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216459,
       "name": "Hablando Lento",
       "url": "https://open.spotify.com/track/3f2wEMtr710fw69GQHoq0i"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269880,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270533,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/1ni6rSyO6nAa10fL8R08Pb"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167240,
       "name": "Inhabitable",
       "url": "https://open.spotify.com/track/3n5RLxFo7FMPJN4AcF6oEz"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp"
@@ -3457,7 +3475,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/06uM6EPEvb34yd7nnu9Fhw"
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313933,
       "name": "Sognare",
       "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
@@ -3919,7 +3937,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235866,
       "name": "V\u00e1monos de Viaje",
       "url": "https://open.spotify.com/track/6fE7ffZWTeeyLdYyQccx5S"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"

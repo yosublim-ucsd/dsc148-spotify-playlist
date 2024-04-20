@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 221174,
       "name": "Fandango",
       "url": "https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS"
@@ -1532,6 +1532,24 @@
       "duration_ms": 116400,
       "name": "Java",
       "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
+    },
+    {
+      "album": {
+        "name": "Boogie Nights #2 (More Music From The Original Motion Picture)",
+        "url": "https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb"
+      },
+      "artists": [
+        {
+          "name": "Apollo 100",
+          "url": "https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus"
     },
     {
       "album": {

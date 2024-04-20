@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 260029,
+  "2024-04-20": 260073,
   "date_first_scraped": "2022-01-02",
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Cody Johnson",
   "name": "Heart Of Texas",
@@ -97,9 +97,9 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 190266,
-      "name": "A Life Where We Work Out (feat. Kaitlin Butts)",
+      "name": "A Life Where We Work Out",
       "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
     },
     {
@@ -119,7 +119,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190266,
       "name": "A Life Where We Work Out (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/5UyBjTBy4XxqQT2qHksbo0"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185247,
       "name": "Ain't a Train",
       "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
@@ -159,7 +159,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 201480,
       "name": "Ain't My Day",
       "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 234506,
       "name": "Anyhow, I Love You",
       "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274716,
       "name": "Austin",
       "url": "https://open.spotify.com/track/366jHrhcvBpZAQF6m8NuKV"
@@ -397,15 +397,11 @@
         {
           "name": "Brandon Rhyder",
           "url": "https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD"
-        },
-        {
-          "name": "Dogwood Hill Publishing (BMI)",
-          "url": "https://open.spotify.com/artist/5HwhZn46JgH6xrdIcXz1pN"
         }
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 244786,
       "name": "Back Roads",
       "url": "https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9"
@@ -459,7 +455,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 315924,
       "name": "Beer, Bait and Ammo",
       "url": "https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy"
@@ -628,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2HieRfsSSwQA1JUtfmRNgo"
+    },
+    {
+      "album": {
         "name": "Cold Hard Truth",
         "url": "https://open.spotify.com/album/1OOYMqvCCRZDdRFezpg8l3"
       },
@@ -657,7 +671,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273035,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
@@ -801,7 +815,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 176826,
       "name": "Delta Dawn",
       "url": "https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H"
@@ -855,7 +869,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Don't Forget Where You Come From",
       "url": "https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1"
@@ -891,7 +905,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
@@ -1017,7 +1031,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206210,
       "name": "Every Single Kiss",
       "url": "https://open.spotify.com/track/7vw8wZXoY5kVIT30tF6k15"
@@ -1035,7 +1049,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206643,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4tmGCHso6k8srKMSBHmtlt"
@@ -1089,7 +1103,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233685,
       "name": "February 28, 2016",
       "url": "https://open.spotify.com/track/2WZTzjYMHYmadyQjSZ6Vj4"
@@ -1161,7 +1175,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177866,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv"
@@ -1313,7 +1327,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
@@ -1385,7 +1399,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "He Ain't a Cowboy",
       "url": "https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV"
@@ -1421,10 +1435,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232653,
       "name": "Hell of a Year",
       "url": "https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS"
+    },
+    {
+      "album": {
+        "name": "Probably Wrong",
+        "url": "https://open.spotify.com/album/6C9MVfh8Zhx1Q8xtR6ZVV2"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Hell of a Year",
+      "url": "https://open.spotify.com/track/4RYTi6AJnzLu6qYtkjZGvZ"
     },
     {
       "album": {
@@ -1491,7 +1523,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300680,
       "name": "Hippies and Cowboys",
       "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
@@ -1563,7 +1595,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 176973,
       "name": "I Been to Georgia on a Fast Train",
       "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
@@ -1599,7 +1631,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257773,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/3QtCKENdSI3l8xlSULRrK0"
@@ -1863,7 +1895,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
@@ -1935,7 +1967,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
@@ -1993,7 +2025,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
@@ -2033,7 +2065,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223062,
       "name": "Love",
       "url": "https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG"
@@ -2149,7 +2181,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 222400,
       "name": "Marfa Lights",
       "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
@@ -2185,7 +2217,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210760,
       "name": "Meet You in the Middle",
       "url": "https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O"
@@ -2279,7 +2311,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238133,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6Td1fmxCMN8da8NhlnI6M3"
@@ -2297,7 +2329,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 328146,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/51DLN9R1dIqkKnlRsz1kpg"
@@ -2333,7 +2365,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205337,
       "name": "Must Be the Whiskey",
       "url": "https://open.spotify.com/track/324iakwekGIBGV93syJsVe"
@@ -2387,7 +2419,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221400,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/3KKzYn1hHHwdATpAzYWV5w"
@@ -2405,7 +2437,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 221400,
       "name": "My Mistake",
       "url": "https://open.spotify.com/track/7qob3E6PdqRBJw0BnSjE5g"
@@ -2463,6 +2495,24 @@
       "duration_ms": 234240,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
+    },
+    {
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244429,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
       "album": {
@@ -2549,7 +2599,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231146,
       "name": "One I Want",
       "url": "https://open.spotify.com/track/2GVKDSFwVWCbygrZQvB5ed"
@@ -2567,7 +2617,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 254613,
       "name": "One More Goodbye",
       "url": "https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX"
@@ -2675,7 +2725,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268968,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
@@ -2693,7 +2743,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 178469,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
@@ -2711,7 +2761,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178480,
       "name": "Pretty Ugly",
       "url": "https://open.spotify.com/track/6Fcip5QYEptKIGptgqYTpJ"
@@ -2769,7 +2819,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 174453,
       "name": "Rest Of My Life",
       "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
@@ -2953,7 +3003,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233106,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
@@ -3007,7 +3057,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200666,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
@@ -3043,7 +3093,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204352,
       "name": "Something to Talk About",
       "url": "https://open.spotify.com/track/19Xbs8nrPaB4XGK5nVBbFC"
@@ -3155,7 +3205,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207773,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
@@ -3191,7 +3241,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
@@ -3209,7 +3259,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-21",
+      "date_removed": null,
       "duration_ms": 225801,
       "name": "Tails I Lose",
       "url": "https://open.spotify.com/track/0onu3vmyPJNYC8ARE81uGe"
@@ -3245,7 +3295,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Texas On My Mind",
       "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
@@ -3353,7 +3403,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 248440,
       "name": "The Love That We Need",
       "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
@@ -3443,7 +3493,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "This Damn Song",
       "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
@@ -3497,7 +3547,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 273813,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/6QloD29QJh1cbKeyNYoiMW"
@@ -3723,7 +3773,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 275523,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw"
@@ -3777,7 +3827,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197997,
       "name": "Why",
       "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 23964,
+  "2024-04-20": 24044,
   "date_first_scraped": "2023-09-29",
   "description": "Aidez votre b\u00e9b\u00e9 \u00e0 s'endormir avec ces classiques Disney en version berceuse.",
   "name": "Berceuses Disney",
@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Beauty And The Beast Original Soundtrack Special Edition",
+        "url": "https://open.spotify.com/album/1OtmiUF7FjWZhAZtxNAtDM"
+      },
+      "artists": [
+        {
+          "name": "Lucie Dolene",
+          "url": "https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Histoire \u00e9ternelle",
+      "url": "https://open.spotify.com/track/5eAZyD2t92RffeUcKmcQgo"
+    },
+    {
+      "album": {
         "name": "La Belle et La B\u00eate",
         "url": "https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164026,
       "name": "Histoire \u00e9ternelle - De \"La Belle et la B\u00eate\"/Bande Originale Fran\u00e7aise du Film",
       "url": "https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW"

@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Phuck Around Phind Out",
+        "url": "https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1"
+      },
+      "artists": [
+        {
+          "name": "FiveByFive",
+          "url": "https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Kraken Down",
+      "url": "https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be"
+    },
+    {
+      "album": {
         "name": "Last dAntz",
         "url": "https://open.spotify.com/album/0iZ9tCFBxudVzuY5HUwzAv"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 66622,
+  "2024-04-20": 66543,
   "date_first_scraped": "2022-06-09",
   "description": "\u4e0a\u73ed\u6642\u9593\u5f88\u9577\uff0c\u5c31\u8b93\u6700\u65b0\u6700\u52d5\u807d\u7684\u570b\u8a9e\u6b4c\u966a\u4f60\uff0c\u8212\u670d\u8f15\u807d\u4e00\u8d77\u6e21\u904e\u5427\uff01",
   "name": "\u4e0a\u73ed\u8f15\u807d",
@@ -3033,7 +3033,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240136,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/1fO6vB1z06Bc5bOTlTfojs"
@@ -6093,6 +6093,24 @@
       "duration_ms": 211229,
       "name": "\u4e0d\u518d",
       "url": "https://open.spotify.com/track/72F5kPw5PzWvLzMiKAxbBQ"
+    },
+    {
+      "album": {
+        "name": "Changing Room",
+        "url": "https://open.spotify.com/album/7u2tfOPAU2ZzHCEPKPKtX3"
+      },
+      "artists": [
+        {
+          "name": "Janice Yan",
+          "url": "https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240136,
+      "name": "\u4e0d\u518d\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/6GsZOW5IBV20TP2V4j4rAr"
     },
     {
       "album": {
@@ -13980,6 +13998,24 @@
     },
     {
       "album": {
+        "name": "\u5fc3\u951a",
+        "url": "https://open.spotify.com/album/5eUA16SRa2Cx4aCxX4uiHo"
+      },
+      "artists": [
+        {
+          "name": "Hubert Wu",
+          "url": "https://open.spotify.com/artist/0OZ5IlVdYIK1Et3nW6aTO5"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "\u5fc3\u951a",
+      "url": "https://open.spotify.com/track/08WKNnRQYRGsFnzanawMTn"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u9328",
         "url": "https://open.spotify.com/album/7fJgHlMNoZzCzt1GzNHbdu"
       },
@@ -13991,7 +14027,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268600,
       "name": "\u5fc3\u951a",
       "url": "https://open.spotify.com/track/7mbrCYWBWGlTwNLLOtXvRY"

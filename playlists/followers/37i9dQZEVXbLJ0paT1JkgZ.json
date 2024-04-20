@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 22844,
+  "2024-04-20": 22861,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Chile.",
   "name": "Top Songs - Chile",
@@ -149,6 +149,10 @@
         {
           "name": "Nysix Music",
           "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "CamiMusic",
+          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
         }
       ],
       "date_added": "2024-01-26",

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-299 songs - 18 hr 16 min
+300 songs - 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [set me free](https://open.spotify.com/track/1RMNsdSWzCivT5Db9afYuM) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/4QbwpyNyVJErLqLSLFxsmQ) | 3:50 | 2022-12-13 | 2023-02-01 |
 | [set me free](https://open.spotify.com/track/3CXll77W7YrXHo0jTQfm4t) | [Kaoruko](https://open.spotify.com/artist/4p8Qi7wNCoyMNEF7dX8qUl) | [set me free](https://open.spotify.com/album/7999p1sHV2i321TKGjmTXU) | 3:50 | 2022-12-13 | 2022-12-15 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-03-25 | 2024-04-19 |
+| [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 | 2024-04-02 |  |
 | [silky](https://open.spotify.com/track/0MKUVUddZJj3ZMyEs8rRoa) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/5D4AJjp6ggGo9NvwFs7QAR) | 4:17 | 2023-06-27 | 2023-09-27 |
 | [silky](https://open.spotify.com/track/3bVJmvwK9808yDjqcfKhKe) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [silky](https://open.spotify.com/album/58qnZnXarK7UW0F1C0VPDV) | 4:17 | 2023-06-27 | 2023-06-29 |
 | [Simple and Sweet](https://open.spotify.com/track/3l9S4RkBPkAuspL6spxzzv) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [Simple and Sweet](https://open.spotify.com/album/1cYffJtaJx5J1eQJ3Arwxe) | 2:53 | 2023-02-02 | 2023-02-09 |
@@ -258,7 +259,7 @@
 | [心目当てのオレンジ](https://open.spotify.com/track/6OIR1s8d49Wmx1ErT28nUj) | [中島涼之介](https://open.spotify.com/artist/5NJRHASQHwwrH2gYQHbBwx) | [心目当てのオレンジ](https://open.spotify.com/album/3rN0V3IvpN5c5CIlf1NKLx) | 3:49 | 2023-04-04 | 2023-05-17 |
 | [忘れないで](https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [忘れないで](https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL) | 4:13 | 2024-04-02 |  |
 | [愛がそれだけ \- feat.原田郁子](https://open.spotify.com/track/5evxDN31KQyoJrqEB49QzV) | [the chef cooks me](https://open.spotify.com/artist/7rHuV593nUs88Tx4NJMimt), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [愛がそれだけ \(feat.原田郁子\)](https://open.spotify.com/album/6pPHKrIrfDuB1pE7t1ErOZ) | 3:23 | 2023-05-31 | 2023-06-07 |
-| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-15 |  |
+| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-15 | 2024-04-20 |
 | [愛してた\(feat.れん\)](https://open.spotify.com/track/2A9EvUkIWDDKWV6rcsM72a) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛してた\(feat.れん\)](https://open.spotify.com/album/0oeFfl5KVoC0EdDQisDLlt) | 4:23 | 2023-06-06 | 2023-07-19 |
 | [拝啓生きとし愛おしきあなた](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [拝啓生きとし愛おしきあなた](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 | 2024-04-02 |  |
 | [散る 散る 満ちる feat\. 菅田将暉](https://open.spotify.com/track/7KjBcpSghszsNfxw8s8y0P) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散る 散る 満ちる feat\. 菅田将暉](https://open.spotify.com/album/5bnkpaxSaWSN1mVSBJVVjw) | 4:23 | 2023-04-11 | 2023-04-13 |

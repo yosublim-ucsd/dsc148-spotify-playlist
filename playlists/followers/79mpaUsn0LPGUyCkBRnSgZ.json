@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1,
+  "2024-04-20": 1,
   "date_first_scraped": "2023-03-31",
   "description": "albums i plan to listen to eventually",
   "name": "Zacklog",
@@ -11192,6 +11192,28 @@
     },
     {
       "album": {
+        "name": "Aethiopes",
+        "url": "https://open.spotify.com/album/34uTUAM6SE8Eo6Cv4PRqwD"
+      },
+      "artists": [
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Despot",
+          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187897,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/5XeSZTj2XOqFHcr78W9guM"
+    },
+    {
+      "album": {
         "name": "Live Through This",
         "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
       },
@@ -11743,7 +11765,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 52004,
       "name": "Wings [Intro]",
       "url": "https://open.spotify.com/track/41csJZApoEcJf0zp5wWMCb"

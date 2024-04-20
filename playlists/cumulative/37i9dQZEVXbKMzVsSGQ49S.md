@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,839 songs - 4 day 4 hr 53 min
+1,840 songs - 4 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,7 +892,7 @@
 | [Lengra](https://open.spotify.com/track/4wrYc5PqmFqUhoqCkWlo0l) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6) | [S4W](https://open.spotify.com/album/4so3RjKERHvgCTk4uyJsMb) | 2:35 | 2021-10-31 | 2021-11-05 |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-08 | 2022-01-17 |
 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2022-12-17 | 2023-02-25 |
-| [Let It Burn](https://open.spotify.com/track/68XTl6mMdSYxIRLfxNJ9SL) | [Miss Freddye](https://open.spotify.com/artist/6SaKuRHm7ApYa5moW2PN9m) | [Let It Burn](https://open.spotify.com/album/6WR47M9dpQOENfZTZm0aen) | 5:05 | 2024-04-18 |  |
+| [Let It Burn](https://open.spotify.com/track/68XTl6mMdSYxIRLfxNJ9SL) | [Miss Freddye](https://open.spotify.com/artist/6SaKuRHm7ApYa5moW2PN9m) | [Let It Burn](https://open.spotify.com/album/6WR47M9dpQOENfZTZm0aen) | 5:05 | 2024-04-18 | 2024-04-20 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-07 | 2023-12-30 |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2021-11-30 | 2022-12-28 |
 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 | 2022-10-24 | 2022-10-25 |
@@ -1329,6 +1329,7 @@
 | [Santa Tell Me \- Naughty Version](https://open.spotify.com/track/6V2JPFiAeqfZjM3A8VNr5q) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5wJD60fqranwuUGvOGSiyt) | 3:23 | 2023-12-12 | 2023-12-15 |
 | [Sateen ääni, Pt\. 01](https://open.spotify.com/track/4DxNjsZTXNbmosNok9Wxfa) | [Candy Music Group](https://open.spotify.com/artist/3P2SYN9DjV7YqP8n2vWLaa) | [Sateen ääni](https://open.spotify.com/album/0RmnmwRC6qBaN3EApYo5vt) | 0:31 | 2023-01-13 | 2023-01-16 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-06-05 |
+| [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-04-19 |  |
 | [saudade, saudade](https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Festival Da Canção 2022](https://open.spotify.com/album/0HkpaChdLLJmEKtoxuiUEx) | 3:01 | 2022-05-11 | 2022-05-22 |
 | [Sautjándi júní](https://open.spotify.com/track/3AUvWRvTByGIhn3GMF9BKo) | [Dúmbó og Steini](https://open.spotify.com/artist/2XApGxjVWsmAD9FkkuFaMP) | [Dömufrí](https://open.spotify.com/album/4wEOIN9tzUoK8UywjfJYuo) | 3:54 | 2023-06-17 | 2023-06-20 |
 | [Sautjándi júní](https://open.spotify.com/track/1yHYSQuVmpjINwPyF4D1ag) | [Dúmbó og Steini](https://open.spotify.com/artist/2XApGxjVWsmAD9FkkuFaMP), [Steini](https://open.spotify.com/artist/0c46uuHrE1yR98PxWWikFA) | [Dömufrí](https://open.spotify.com/album/13cNrqiMoksaaqmqpT1bKm) | 3:54 | 2021-06-19 | 2022-06-20 |

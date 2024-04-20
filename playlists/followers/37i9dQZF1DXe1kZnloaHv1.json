@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21378,
+  "2024-04-20": 21401,
   "date_first_scraped": "2023-11-11",
   "description": "\uc544 \ub098\ub3c4 \ubaa8\ub974\uaca0\ub2e4~ idk idk idkkk~",
   "name": "\uc544 \ubab0\ub791.",
@@ -21,6 +21,24 @@
       "duration_ms": 186178,
       "name": "(Because we) Fall in Love",
       "url": "https://open.spotify.com/track/4Pohk9QnUp8243LofTr9Cn"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/19Z7Yg0RdX5Z4YnJKL4yvd"
+      },
+      "artists": [
+        {
+          "name": "Kisum",
+          "url": "https://open.spotify.com/artist/1CArfopvfCxakFJHup55FW"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "30",
+      "url": "https://open.spotify.com/track/63PTI4RY0rVOA6qbNs1PPe"
     },
     {
       "album": {
@@ -60,6 +78,24 @@
     },
     {
       "album": {
+        "name": "It's Okay, Dear",
+        "url": "https://open.spotify.com/album/2MoJZKoJwnJh1X9a34usAC"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "Baep Sae",
+      "url": "https://open.spotify.com/track/5bjv9H1rZGZBuR6Rx2DPal"
+    },
+    {
+      "album": {
         "name": "BDBD",
         "url": "https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6"
       },
@@ -89,7 +125,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200150,
       "name": "Beap Sea",
       "url": "https://open.spotify.com/track/5j3LJr4O7RkhBmxCsjwpXZ"
@@ -227,6 +263,24 @@
     {
       "album": {
         "name": "Take care",
+        "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186441,
+      "name": "Burned out",
+      "url": "https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp"
+    },
+    {
+      "album": {
+        "name": "Take care",
         "url": "https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM"
       },
       "artists": [
@@ -237,7 +291,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186441,
       "name": "Burned out",
       "url": "https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2"
@@ -451,10 +505,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212017,
       "name": "Go with the flow",
       "url": "https://open.spotify.com/track/2WlWB81gbLbqyF2NbCngfZ"
+    },
+    {
+      "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212017,
+      "name": "Go with the flow",
+      "url": "https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC"
     },
     {
       "album": {
@@ -541,10 +613,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178463,
       "name": "I'm not a hero",
       "url": "https://open.spotify.com/track/6obtEFIrdBl7W2keVl6oXv"
+    },
+    {
+      "album": {
+        "name": "Take care",
+        "url": "https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB"
+      },
+      "artists": [
+        {
+          "name": "IMSEMO",
+          "url": "https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178464,
+      "name": "I'm not a hero",
+      "url": "https://open.spotify.com/track/6SI9wSxkc9mBoTUWileqsq"
     },
     {
       "album": {
@@ -567,6 +657,24 @@
     {
       "album": {
         "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208759,
+      "name": "Like I'm saying",
+      "url": "https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
         "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
       },
       "artists": [
@@ -577,7 +685,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208746,
       "name": "Like I\u2032m saying",
       "url": "https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0"
@@ -867,7 +975,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170680,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3L82GIzkljT0c8etq54PQn"
@@ -885,7 +993,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 170680,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/4znMAwSb5JrHcxLyXukcu9"
@@ -1005,10 +1113,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209999,
       "name": "YOLO!!",
       "url": "https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw"
+    },
+    {
+      "album": {
+        "name": "YOLO!!",
+        "url": "https://open.spotify.com/album/4H9NHqoHnM5eOl5JVQ47PT"
+      },
+      "artists": [
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "YOLO!!",
+      "url": "https://open.spotify.com/track/7CzlruoUvMHw2ilEEXjPRL"
     },
     {
       "album": {

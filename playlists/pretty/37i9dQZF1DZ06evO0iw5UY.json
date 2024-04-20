@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27006,
+  "num_followers": 26998,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDAzMjQ5NDJjZGY5YmZkNWE1NTRlYzA2MzI2ZmRjMGY1",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGE5Y2U3NTU3NWFlZGQzMDgwZDUwYmI5ZTdjYzIwZDM1",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/2tI2DDT95lnvNhlPWZRMJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -947,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Wet",
-        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Just A Monster Underneath, My Darling",
         "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
       },
@@ -979,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Wet",
+        "url": "https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 157223,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/3cNhxhJQz1QF1aSqqj9ix5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     }
   ],
   "unique_name": "This Is Krewella",

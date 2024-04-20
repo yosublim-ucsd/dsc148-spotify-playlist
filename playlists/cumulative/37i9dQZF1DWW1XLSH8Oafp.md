@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring Glimji
+> ur on the list bb 🪐 featuring Sam Girling, Theo Bleak
 
-871 songs - 2 day 0 hr 39 min
+873 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-05-27 | 2022-07-22 |
 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 | 2022-01-28 | 2022-06-04 |
 | [beau.tiful\*\*](https://open.spotify.com/track/2oIkVbw4yq6NzknYeIRgMq) | [jives](https://open.spotify.com/artist/72acOFxvIiWFuFacuVvHpd) | [beau.tiful\*\*](https://open.spotify.com/album/2RoWze0TVIWv0R56AqHNC4) | 2:04 | 2022-06-10 | 2022-10-22 |
-| [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 | 2023-07-27 |  |
+| [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 | 2023-07-27 | 2024-04-20 |
 | [Beep Beep](https://open.spotify.com/track/35f2S6XoDYJI0iy3gVOOXV) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Beep Beep](https://open.spotify.com/album/1xc34LXKLHuh33GePtSv5o) | 2:37 | 2022-05-27 | 2022-08-17 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 | 2022-08-13 |
 | [BELLS LIKE BABY](https://open.spotify.com/track/0cPB5MvFBFmD8aOrXgb2yi) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm), [Sawdu Plushia](https://open.spotify.com/artist/4jLee8xErp0xmNTVlhOUEx) | [Bells like baby](https://open.spotify.com/album/4x15xSRyN33ssuvnFOSizD) | 2:15 | 2022-08-19 | 2022-10-01 |
@@ -140,7 +140,7 @@
 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 | 2023-09-22 |  |
 | [C\-C\-Come On](https://open.spotify.com/track/0M1c4H0xUfMzbw1RZD7D7R) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [C\-C\-Come On](https://open.spotify.com/album/1RZIuaEENRWBqVRDKtyHuW) | 3:39 | 2022-02-25 | 2022-12-03 |
 | [California \(Cowgirl Clue Remix\)](https://open.spotify.com/track/1w6OJouzWwDTfd8HOocrYG) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW), [Cowgirl Clue](https://open.spotify.com/artist/45y43grjcZp3XvyXqfPQu4) | [California \(Remix EP\)](https://open.spotify.com/album/6BD6W4GisnWr6gPyb4a8Sm) | 2:21 | 2022-03-04 | 2022-03-18 |
-| [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-07-06 |  |
+| [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-07-06 | 2024-04-20 |
 | [Call Me When You're Lonely](https://open.spotify.com/track/4s7qAt7SbGCY7zUsEHvzJr) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [Call Me When You're Lonely](https://open.spotify.com/album/18W2EsJg8RAEsFeOxkKEOu) | 3:11 | 2023-11-24 | 2024-01-13 |
 | [Call Me Your Hope](https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Call Me Your Hope](https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp) | 1:56 | 2022-01-07 | 2022-03-05 |
 | [Calvin K](https://open.spotify.com/track/6Zk08BX1fHfxm8ULeqUNG6) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Calvin K](https://open.spotify.com/album/67w5bTBa3uFQ69I6Gd76i2) | 2:28 | 2021-11-19 | 2022-02-19 |
@@ -162,6 +162,7 @@
 | [Clarity](https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY), [Soak XP](https://open.spotify.com/artist/6SuyywE4h5N9XvfPzfwACl) | [Clarity](https://open.spotify.com/album/1ca9y7OQxBv0bXUXGKIFYP) | 2:40 | 2024-03-22 |  |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2021-10-29 | 2022-04-29 |
 | [CLOUDLIKE](https://open.spotify.com/track/5cNLx0NEsBmfX0nzDbYcHG) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [CLOUDLIKE](https://open.spotify.com/album/0fHSpLwILOMLH4lVAMxgQT) | 4:13 | 2022-05-06 | 2022-06-04 |
+| [Clouds](https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Clouds](https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty) | 3:21 | 2024-04-19 |  |
 | [CLUB AFFIRMATIONS](https://open.spotify.com/track/6zbjdQunRv1e6v3vAXVxez) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [heartcoregirl](https://open.spotify.com/artist/7960LxQdTI7IV0kSh08Mxh) | [CLUB AFFIRMATIONS](https://open.spotify.com/album/10J9w8qP3XNoEd0jpivyPC) | 3:36 | 2022-09-16 | 2022-10-01 |
 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-05 |  |
 | [Collision Data \- feat\. Marina Herlop](https://open.spotify.com/track/0Xc2rxkULvOz0v7H82yXQV) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Collision Data](https://open.spotify.com/album/4nO6y2883sX0YudSNg9FEM) | 3:56 | 2023-12-01 | 2024-01-13 |
@@ -212,6 +213,7 @@
 | [Do No Wrong](https://open.spotify.com/track/1NbnMc1v8d2mSJBpsGRpfg) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:55 | 2022-04-08 | 2022-06-04 |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-24 |
 | [Don't Let](https://open.spotify.com/track/44ppHdT8METLfRs30s4zIS) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Don't Let](https://open.spotify.com/album/1ghNHvx6HuoBXaLezY2QmD) | 4:54 | 2021-12-03 | 2022-04-16 |
+| [Don't Stop The Party](https://open.spotify.com/track/3yU05u9gw48xEmBbjXij53) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Don't Stop The Party](https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO) | 3:05 | 2024-04-19 |  |
 | [Don't Want This To Be Over](https://open.spotify.com/track/5twf1eTmqVUvPpmjGPPaX0) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Don't Want This To Be Over](https://open.spotify.com/album/2F3GrHb6K3khg9mzFwRYj8) | 2:01 | 2023-05-12 | 2023-11-10 |
 | [Don't We Always](https://open.spotify.com/track/5wGUVrYzmEp9yP24YTSt0z) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Confessions of a Fangirl](https://open.spotify.com/album/3yjU0i0Fb57O3PwsTXtRvV) | 2:45 | 2023-04-07 | 2024-01-19 |
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-03-17 | 2023-09-15 |

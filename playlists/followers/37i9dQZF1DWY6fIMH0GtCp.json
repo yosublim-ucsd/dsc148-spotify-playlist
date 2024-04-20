@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 31166,
+  "2024-04-20": 31150,
   "date_first_scraped": "2024-01-30",
   "description": "This Hanukkah playlist features all the classics and the funny favorites.",
   "name": "Hanukkah",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222533,
       "name": "8 Days (Of Hannukah)",
       "url": "https://open.spotify.com/track/4062PAj5KS0FpoCyx6tFPC"
+    },
+    {
+      "album": {
+        "name": "It's a Holiday Soul Party",
+        "url": "https://open.spotify.com/album/1wvM0On3hTkvoQVVdodNzk"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "8 Days of Hannukah",
+      "url": "https://open.spotify.com/track/5mEZnn9CgZifo7kL4Gpzxu"
     },
     {
       "album": {
@@ -75,10 +93,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130065,
       "name": "Applesauce vs. Sour Cream",
       "url": "https://open.spotify.com/track/60qRopPYpvlT60VyvZ73OQ"
+    },
+    {
+      "album": {
+        "name": "Hanukkah Rocks",
+        "url": "https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC"
+      },
+      "artists": [
+        {
+          "name": "The LeeVees",
+          "url": "https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130066,
+      "name": "Applesauce vs. Sour Cream",
+      "url": "https://open.spotify.com/track/1Pi6Z97md7t8wdCm9ey2NI"
     },
     {
       "album": {
@@ -111,10 +147,46 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217680,
       "name": "Chanukah (Shake It Off)",
       "url": "https://open.spotify.com/track/2EAnmXHgiHc1oBL8cTBXjh"
+    },
+    {
+      "album": {
+        "name": "The Chanukah Collection",
+        "url": "https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb"
+      },
+      "artists": [
+        {
+          "name": "Six13",
+          "url": "https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217680,
+      "name": "Chanukah (Shake It Off)",
+      "url": "https://open.spotify.com/track/41o6DOxHFQxVJFCo1PvcNy"
+    },
+    {
+      "album": {
+        "name": "Chanukah in West Virigina",
+        "url": "https://open.spotify.com/album/3ISZPeKwElfcOk2rUtG57Y"
+      },
+      "artists": [
+        {
+          "name": "Scott Simons",
+          "url": "https://open.spotify.com/artist/4Laf9GjtJqV5YO7lGu8grD"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Chanukah in West Virigina",
+      "url": "https://open.spotify.com/track/22KVabLdWzcL5rdkxf2oHJ"
     },
     {
       "album": {
@@ -129,7 +201,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234000,
       "name": "Chanukah in West Virigina",
       "url": "https://open.spotify.com/track/3qzoUGQ5t2NSBElvwUV3UW"
@@ -147,10 +219,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189240,
       "name": "Chanukah Prayer",
       "url": "https://open.spotify.com/track/3n4xyVg0Tji88vysBuoCAT"
+    },
+    {
+      "album": {
+        "name": "A Holiday Carole (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3uF74DJJrwcSWwZgc0Qq4Z"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "Chanukah Prayer",
+      "url": "https://open.spotify.com/track/0z98LXxMuIOuevoOyXWnfh"
     },
     {
       "album": {
@@ -176,6 +266,28 @@
     },
     {
       "album": {
+        "name": "Erran Baron Cohen Presents: Songs In the Key of Hanukkah",
+        "url": "https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo"
+      },
+      "artists": [
+        {
+          "name": "Erran Baron Cohen",
+          "url": "https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g"
+        },
+        {
+          "name": "Jules Brookes",
+          "url": "https://open.spotify.com/artist/3gz8x3xWuGQEIqCOxBBgqF"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Dreidel",
+      "url": "https://open.spotify.com/track/0LFUSNvMSxhoF7RuKreZ6X"
+    },
+    {
+      "album": {
         "name": "Erran Baron Cohen Presents: Songs In The Key Of Hanukkah",
         "url": "https://open.spotify.com/album/63HS1rHzEtJhvvxdSTwRgK"
       },
@@ -191,7 +303,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195440,
       "name": "Dreidel (feat. Jules Brookes)",
       "url": "https://open.spotify.com/track/1L7tTX62fR55xiSdUJRJHo"
@@ -271,7 +383,7 @@
     {
       "album": {
         "name": "Hanukkah Rocks",
-        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+        "url": "https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC"
       },
       "artists": [
         {
@@ -282,6 +394,24 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196733,
+      "name": "Goyim Friends",
+      "url": "https://open.spotify.com/track/03V1PRieYV3Tpn7GXm3CsO"
+    },
+    {
+      "album": {
+        "name": "Hanukkah Rocks",
+        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+      },
+      "artists": [
+        {
+          "name": "The LeeVees",
+          "url": "https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 196733,
       "name": "Goyim Friends",
       "url": "https://open.spotify.com/track/6Dr5ZKIMfvyWKRVhU8gbpl"
@@ -306,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Barenaked for the Holidays",
+        "url": "https://open.spotify.com/album/3FvNOgLF7R0bEFYxMHMaOx"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "Hanukkah Blessings",
+      "url": "https://open.spotify.com/track/5DmKmoHeq1hI9BFMXpj0iu"
+    },
+    {
+      "album": {
         "name": "Barenaked For The Holidays",
         "url": "https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX"
       },
@@ -317,7 +465,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207546,
       "name": "Hanukkah Blessings",
       "url": "https://open.spotify.com/track/7e3ZZa1ChPnptyCxjq19Qv"
@@ -455,7 +603,7 @@
     {
       "album": {
         "name": "Hanukkah Rocks",
-        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+        "url": "https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC"
       },
       "artists": [
         {
@@ -466,6 +614,24 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 294720,
+      "name": "How Do You Spell Channukkahh?",
+      "url": "https://open.spotify.com/track/3ZjCGpTXLUpg7cAaZzgwBP"
+    },
+    {
+      "album": {
+        "name": "Hanukkah Rocks",
+        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+      },
+      "artists": [
+        {
+          "name": "The LeeVees",
+          "url": "https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 296733,
       "name": "How Do You Spell Channukkahh?",
       "url": "https://open.spotify.com/track/6ElNtgsQPMwCtbcgf1PYlN"
@@ -483,10 +649,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 52213,
       "name": "I Have A Little Dreidel",
       "url": "https://open.spotify.com/track/2qMJfhFe3f8Ca8TLIi69W0"
+    },
+    {
+      "album": {
+        "name": "Barenaked for the Holidays",
+        "url": "https://open.spotify.com/album/3FvNOgLF7R0bEFYxMHMaOx"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52213,
+      "name": "I Have A Little Dreidel",
+      "url": "https://open.spotify.com/track/5bq1SdKmY485brK19CDbyu"
     },
     {
       "album": {
@@ -679,7 +863,7 @@
     {
       "album": {
         "name": "Hanukkah Rocks",
-        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+        "url": "https://open.spotify.com/album/7rD2aU8WJriQiZQtdJsBfC"
       },
       "artists": [
         {
@@ -690,6 +874,24 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Nun Gimmel Heh Shin",
+      "url": "https://open.spotify.com/track/1aCZdWhtWaKA14BtliYENL"
+    },
+    {
+      "album": {
+        "name": "Hanukkah Rocks",
+        "url": "https://open.spotify.com/album/3wuvsJu2Z1eI61f8ynv7Wl"
+      },
+      "artists": [
+        {
+          "name": "The LeeVees",
+          "url": "https://open.spotify.com/artist/3YjhwlHwXH3lSZHHDwU4V8"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 171426,
       "name": "Nun Gimmel Heh Shin",
       "url": "https://open.spotify.com/track/5F6bto6tUEq8mJfOkhd0GB"
@@ -805,7 +1007,7 @@
     {
       "album": {
         "name": "Hanukkah Swings",
-        "url": "https://open.spotify.com/album/4ZNF8aLzGEBftZwTpL7Sig"
+        "url": "https://open.spotify.com/album/7czNEqTxyqreghU8I4VSsb"
       },
       "artists": [
         {
@@ -816,9 +1018,45 @@
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Sevivon Sov, Sov, Sov",
+      "url": "https://open.spotify.com/track/3XNUKwNEfKwJvLOx8biZId"
+    },
+    {
+      "album": {
+        "name": "Hanukkah Swings",
+        "url": "https://open.spotify.com/album/4ZNF8aLzGEBftZwTpL7Sig"
+      },
+      "artists": [
+        {
+          "name": "Kenny Ellis",
+          "url": "https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 203933,
       "name": "Sevivon Sov, Sov, Sov",
       "url": "https://open.spotify.com/track/7ut3ZjamBTscbtRzt1H0zh"
+    },
+    {
+      "album": {
+        "name": "Erran Baron Cohen Presents: Songs In the Key of Hanukkah",
+        "url": "https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo"
+      },
+      "artists": [
+        {
+          "name": "Erran Baron Cohen",
+          "url": "https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Spin It Up",
+      "url": "https://open.spotify.com/track/3dBdttDJQG6MR1vDyCY8oA"
     },
     {
       "album": {
@@ -837,7 +1075,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266693,
       "name": "Spin It Up (feat. Jules Brookes)",
       "url": "https://open.spotify.com/track/2EAYGeBne31SqjQ1tqB7k3"
@@ -891,10 +1129,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154133,
       "name": "The Hanukkah Waltz",
       "url": "https://open.spotify.com/track/4OEVDBCeB1auJGlIm9JBwE"
+    },
+    {
+      "album": {
+        "name": "Jingle All the Way",
+        "url": "https://open.spotify.com/album/5hqftgd3Y5ENR47T0JrshF"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck and the Flecktones",
+          "url": "https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154133,
+      "name": "The Hanukkah Waltz",
+      "url": "https://open.spotify.com/track/6nouKLUAumkG8XOACUcqAV"
     },
     {
       "album": {
@@ -909,10 +1165,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174213,
       "name": "Watch Me (Spin / Drey Drey)",
       "url": "https://open.spotify.com/track/6LoOG1NlzIn7tlvbuuUfCM"
+    },
+    {
+      "album": {
+        "name": "The Chanukah Collection",
+        "url": "https://open.spotify.com/album/3TNq44s2UgzxrqiZVql9Hb"
+      },
+      "artists": [
+        {
+          "name": "Six13",
+          "url": "https://open.spotify.com/artist/2H6beCAq0056SYdlQmlfEr"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174658,
+      "name": "Watch Me (Spin / Drey Drey)",
+      "url": "https://open.spotify.com/track/7uj6s6UffjBA4FQlOBLboG"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 53071,
+  "2024-04-20": 53045,
   "date_first_scraped": "2022-10-24",
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
   "name": "\u9759\u5bc2\u3068\u9ec4\u660f",
@@ -21,10 +21,32 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396706,
       "name": "18\u306e\u5c0f\u54c1 \u4f5c\u54c172 \u3088\u308a 2 \u5b50\u5b88\u5504",
       "url": "https://open.spotify.com/track/4fEN4gcODkve0o4x9yCmpH"
+    },
+    {
+      "album": {
+        "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\uff1a\u30d4\u30a2\u30ce\u5354\u594f\u66f2 \u7b2c1\u756a\u3001\u4ed6",
+        "url": "https://open.spotify.com/album/0AA2EHp1Jh0P1QVAHnbbqb"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "\u91d1\u5b50\u4e09\u52c7\u58eb",
+          "url": "https://open.spotify.com/artist/6PdcjZrcYniTGsVEfGPMIT"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396706,
+      "name": "18\u306e\u5c0f\u54c1 \u4f5c\u54c172 \u3088\u308a 2 \u5b50\u5b88\u5504",
+      "url": "https://open.spotify.com/track/4uzt6LR0Grjosxh86JMM6K"
     },
     {
       "album": {
@@ -511,7 +533,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 206409,
       "name": "A Pervasive Awareness",
       "url": "https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N"
@@ -529,7 +551,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206409,
       "name": "A Pervasive Awareness",
       "url": "https://open.spotify.com/track/6b2WudWpX282SAkmATvPkr"
@@ -983,7 +1005,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 157554,
       "name": "Aono & Akine",
       "url": "https://open.spotify.com/track/4J4K9tVp3A0VLux2S92Lzc"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108533,
       "name": "Ask Me Why (Mother's Message)",
       "url": "https://open.spotify.com/track/104EutLydSehDHiEjmtdBo"
@@ -1193,6 +1215,24 @@
     {
       "album": {
         "name": "Asleep Among Endives",
+        "url": "https://open.spotify.com/album/4UOBqsp4uZxpE6hsgjLz0b"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306243,
+      "name": "Asleep Among Endives",
+      "url": "https://open.spotify.com/track/7AKxbxzkxm2ERWrd1ggniO"
+    },
+    {
+      "album": {
+        "name": "Asleep Among Endives",
         "url": "https://open.spotify.com/album/6pKCyXWoV7zhgDczCO0H6S"
       },
       "artists": [
@@ -1203,7 +1243,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306271,
       "name": "Asleep Among Endives",
       "url": "https://open.spotify.com/track/0RD3NWnHlyBCRwgNZy8QAn"
@@ -1857,7 +1897,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 252878,
       "name": "Cairngorms",
       "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
@@ -2091,7 +2131,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190433,
       "name": "Chocolate Hills",
       "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
@@ -3085,7 +3125,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 309000,
       "name": "Faisal (London Bridge Station)",
       "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
@@ -3381,7 +3421,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75053,
       "name": "For Lovers",
       "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9"
@@ -3827,7 +3867,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 101375,
       "name": "G\u00e9n\u00e9rique de fin",
       "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
@@ -4399,7 +4439,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
@@ -4681,10 +4721,28 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245359,
       "name": "In A Little While - Demo",
       "url": "https://open.spotify.com/track/1dtuekJQHi8E2KRYiDlH6n"
+    },
+    {
+      "album": {
+        "name": "In A Little While (Demo)",
+        "url": "https://open.spotify.com/album/6VzzPEvpsNCZghrphVDOAu"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245359,
+      "name": "In A Little While - Demo",
+      "url": "https://open.spotify.com/track/73sJljiFxi5YSWwwRvJ3CB"
     },
     {
       "album": {
@@ -4859,7 +4917,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 860000,
       "name": "Johannes Brahms : Piano Trio No.1 in B Major, Op.8 (Revised Version) I. Allegro con brio",
       "url": "https://open.spotify.com/track/6iWKc9Q1wEiHzohzaXcPCe"
@@ -4917,7 +4975,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/5lOvQe3omS2G2YOHZqrIGl"
@@ -5115,7 +5173,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 150833,
       "name": "Koto - piano room",
       "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
@@ -5501,7 +5559,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209680,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/19AMrr1Gef190GG13TjZYh"
@@ -5581,7 +5639,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 155138,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp"
@@ -6133,7 +6191,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223573,
       "name": "manasashi",
       "url": "https://open.spotify.com/track/1msvCHfs8WX8GEaJfZ4Iu2"
@@ -6599,7 +6657,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 235644,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
@@ -6965,7 +7023,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93386,
       "name": "No. 1, Von fremden L\u00e4ndern und Menschen",
       "url": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj"
@@ -7019,7 +7077,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
@@ -7055,10 +7113,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242000,
       "name": "nowhere",
       "url": "https://open.spotify.com/track/4KIO1h4ocFMHoR29rhtwvc"
+    },
+    {
+      "album": {
+        "name": "Nightfall (2023 Remastered)",
+        "url": "https://open.spotify.com/album/7Dkecjt0UmfZFFSS6VGr1m"
+      },
+      "artists": [
+        {
+          "name": "[.que]",
+          "url": "https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241999,
+      "name": "nowhere - 2023 Remastered",
+      "url": "https://open.spotify.com/track/0k23cl8qC2XyZXc1HpSmBS"
     },
     {
       "album": {
@@ -7441,7 +7517,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 721906,
       "name": "Piano Sonata in B Minor, S. 178: Lento assai - Allegro energico",
       "url": "https://open.spotify.com/track/7dS8h3dvUTyxzuppAZdPEe"
@@ -7463,7 +7539,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 323858,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/1I0lEXj5H3siZaa9300aqz"
@@ -7747,7 +7823,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -8269,10 +8345,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246533,
       "name": "River of Dreams",
       "url": "https://open.spotify.com/track/45pEljf6gASrPzgnwfosj3"
+    },
+    {
+      "album": {
+        "name": "Anchors. The Best of Senoo 2000-2009",
+        "url": "https://open.spotify.com/album/4cmRnyYSy5GQ8Rt8GdPuCn"
+      },
+      "artists": [
+        {
+          "name": "\u59b9\u5c3e \u6b66",
+          "url": "https://open.spotify.com/artist/0VLA2Y7NRkHGGBWrLIkqtc"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246533,
+      "name": "River of Dreams",
+      "url": "https://open.spotify.com/track/0KEH1nm5nfIrp7SfeCY29F"
     },
     {
       "album": {
@@ -8653,6 +8747,24 @@
     {
       "album": {
         "name": "Bones of Dreams Attacked!",
+        "url": "https://open.spotify.com/album/70bgWmIe1y5ssswFF9vOjD"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315480,
+      "name": "Sea Change",
+      "url": "https://open.spotify.com/track/4VMbIbmuYxYlBDZz4sVUdM"
+    },
+    {
+      "album": {
+        "name": "Bones of Dreams Attacked!",
         "url": "https://open.spotify.com/album/2NLgsbQSFywjgEq9Jtk0gg"
       },
       "artists": [
@@ -8663,7 +8775,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315480,
       "name": "Sea Change",
       "url": "https://open.spotify.com/track/5lHlbByFvYTtBBmakDRYh1"
@@ -8717,7 +8829,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "See you Soon",
       "url": "https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM"
@@ -9335,7 +9447,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179346,
       "name": "Star",
       "url": "https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E"
@@ -10473,7 +10585,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/6NwseBBU7N5ng39DvnSAdA"
@@ -11247,7 +11359,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 94813,
       "name": "\u042fO\u042f\u042fIM",
       "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
@@ -11475,7 +11587,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 230720,
       "name": "\u305d\u308c\u3067\u306f\u3001",
       "url": "https://open.spotify.com/track/5qGpsL9fCOr1sGYNMmFFtI"
@@ -11601,7 +11713,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 223573,
       "name": "\u307e\u306a\u3056\u3057",
       "url": "https://open.spotify.com/track/42RuSzxp1B7DXgQBj1mYF3"
@@ -11873,6 +11985,28 @@
     {
       "album": {
         "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/4hOR560L2Klp5NHBmCulsS"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ami Inoi",
+          "url": "https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "\u30ae\u30bf\u30fc\u72ec\u594f\u306e\u305f\u3081\u306e6\u3064\u306e\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u6b4c\u66f2(\u30e1\u30eb\u30c4\u7de8)\u3088\u308a: \u30bb\u30ec\u30ca\u30fc\u30c7",
+      "url": "https://open.spotify.com/track/2V8SRNNYEBl97imI7DXvBX"
+    },
+    {
+      "album": {
+        "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/5wI1cCs9574YHcRK9Se8a9"
       },
       "artists": [
@@ -11887,7 +12021,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249613,
       "name": "\u30ae\u30bf\u30fc\u72ec\u594f\u306e\u305f\u3081\u306e6\u3064\u306e\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u6b4c\u66f2(\u30e1\u30eb\u30c4\u7de8)\u3088\u308a: \u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/78krJSkQpCruKbw8yrd1uQ"
@@ -12297,7 +12431,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-30",
+      "date_removed": null,
       "duration_ms": 721906,
       "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf \u30ed\u77ed\u8abf S.178 Lento assai - Allegro energico",
       "url": "https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu"
@@ -12419,6 +12553,36 @@
       "duration_ms": 312666,
       "name": "\u30d5\u30a3\u30ed\u30e9\u30aa\u30b9 feat. Eiko Ishibashi",
       "url": "https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9"
+    },
+    {
+      "album": {
+        "name": "\u30e8\u30cf\u30cd\u30b9\u30fb\u30d6\u30e9\u30fc\u30e0\u30b9\uff06\u30af\u30e9\u30e9\u30fb\u30b7\u30e5\u30fc\u30de\u30f3\uff1a\u30d4\u30a2\u30ce\u30fb\u30c8\u30ea\u30aa",
+        "url": "https://open.spotify.com/album/5dnLSF8bbmIjvLUoeFdp6z"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "\u4e2d\u6751\u592a\u5730",
+          "url": "https://open.spotify.com/artist/3NCVteZ4MxcZFZOHMBJIrQ"
+        },
+        {
+          "name": "\u8fbb\udb40\udd00\u672c\u73b2",
+          "url": "https://open.spotify.com/artist/0uuUSlQkhniHDw2v3ziUHg"
+        },
+        {
+          "name": "\u4f50\u85e4\u5353\u53f2",
+          "url": "https://open.spotify.com/artist/4KBVGFOgBM0fFaX5naFYr3"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 860000,
+      "name": "\u30d6\u30e9\u30fc\u30e0\u30b9 : \u30d4\u30a2\u30ce\u4e09\u91cd\u594f\u66f2 \u7b2c1\u756a \u30ed\u9577\u8abf \u4f5c\u54c18 (\u6539\u8a02\u7248)\u3000I.\u30a2\u30ec\u30b0\u30ed\u30fb\u30b3\u30f3\u30fb\u30d6\u30ea\u30aa",
+      "url": "https://open.spotify.com/track/1sHttxtGdviF0KDuwARDZt"
     },
     {
       "album": {
@@ -12787,6 +12951,32 @@
     {
       "album": {
         "name": "\u30b7\u30e3\u30b3\u30f3\u30cc",
+        "url": "https://open.spotify.com/album/2jvWPdFNsxFOCenBbIz2kX"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "\u30b7\u30ed\u30c6\u30a3",
+          "url": "https://open.spotify.com/artist/5Cw1xnWej2I3kZEk0MqqH0"
+        },
+        {
+          "name": "\u4e0a\u539f\u7422\u77e2",
+          "url": "https://open.spotify.com/artist/2fKXyRn7lLoGf97tId4b85"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206986,
+      "name": "\u5e73\u5747\u5f8b\u30af\u30e9\u30f4\u30a3\u30a2\u66f2\u96c61-10 \u30db\u77ed\u8abf, BWV 855a: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6XAjjolQxfflV8ZIY8cJAG"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30b3\u30f3\u30cc",
         "url": "https://open.spotify.com/album/4AQeEq5RqXlDt9PoxXEiM7"
       },
       "artists": [
@@ -12805,7 +12995,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206986,
       "name": "\u5e73\u5747\u5f8b\u30af\u30e9\u30f4\u30a3\u30a2\u66f2\u96c61-10 \u30db\u77ed\u8abf, BWV 855a: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/7w1mosI1qd2wrTjKpLTdVO"
@@ -13355,10 +13545,28 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186948,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/0aauH3yCCRncERNOWNFLRI"
+    },
+    {
+      "album": {
+        "name": "Nostalghia~Kiyomizu~",
+        "url": "https://open.spotify.com/album/0ZN8L3q8BETNERhgCAl8oI"
+      },
+      "artists": [
+        {
+          "name": "Mine Kawakami",
+          "url": "https://open.spotify.com/artist/27AI6gU3hQimMQ2ywqFiGb"
+        }
+      ],
+      "date_added": "2024-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186948,
+      "name": "\u9053",
+      "url": "https://open.spotify.com/track/0lcs0bDr1PrnbOu3O68tlD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Kany Garc\u00eda & Young Miko",
-  "num_followers": 133821,
+  "num_followers": 133689,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "PERREO FURIOSO",
-      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "PERREO FURIOSO",
+      "url": "https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "EASY BOY",
-        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "EASY BOY",
-      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
         "name": "nada mejor",
         "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 197894,
       "name": "nada mejor",
       "url": "https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
+        "name": "EASY BOY",
+        "url": "https://open.spotify.com/album/0HhtQpQQZE43qLFJ9TJ2pd"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "EASY BOY",
+      "url": "https://open.spotify.com/track/4f6bRqMzm8HEJIbZI2RkbB"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -551,18 +551,22 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
+        "name": "La Respuesta",
+        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
       },
       "artists": [
         {
           "name": "Ptazeta",
           "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
+      "duration_ms": 168015,
+      "name": "La Respuesta",
+      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -715,22 +719,18 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "La Respuesta",
-        "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
       "artists": [
         {
           "name": "Ptazeta",
           "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         }
       ],
-      "duration_ms": 168015,
-      "name": "La Respuesta",
-      "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "Qu\u00edtate La Ropa",
-        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
         "name": "M\u00e1s Que Amigas",
         "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 161571,
       "name": "M\u00e1s Que Amigas",
       "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
+        "name": "Qu\u00edtate La Ropa",
+        "url": "https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
-      },
-      "artists": [
-        {
-          "name": "Mon & Marz",
-          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
-        },
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
         "name": "LIBERTAD",
         "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 229573,
       "name": "Ya No Es Lo Mismo",
       "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9"
+      },
+      "artists": [
+        {
+          "name": "Mon & Marz",
+          "url": "https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU"
+        },
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "Ven Vamos",
-        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Ven Vamos",
-      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
         "name": "De Brujas, Peteneras y Chachalacas",
         "url": "https://open.spotify.com/album/1oqhkbPFH04GnzVwO3nFJX"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 397520,
       "name": "T\u00e9 de Malv\u00f3n",
       "url": "https://open.spotify.com/track/3BYSoeWlqUgIwfY77C8VgE"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
+        "name": "Ven Vamos",
+        "url": "https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Ven Vamos",
+      "url": "https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+    },
+    {
+      "added_at": "2024-04-15 18:22:48",
+      "album": {
         "name": "Cielo de Colores",
         "url": "https://open.spotify.com/album/0o6Cae0g5Wo8UwPnhguAGB"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2024-04-15 18:22:48",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+        "name": "Encontr\u00e1ndome",
+        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
       },
       "artists": [
         {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+          "name": "Luis Gamarra",
+          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
         }
       ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+      "duration_ms": 175796,
+      "name": "Encontr\u00e1ndome",
+      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
     },
     {
       "added_at": "2024-04-15 18:22:48",
@@ -1651,22 +1667,6 @@
       "duration_ms": 155159,
       "name": "me gusta que me gustes",
       "url": "https://open.spotify.com/track/5gQvExQc6zyJnI11AoNJMM"
-    },
-    {
-      "added_at": "2024-04-15 18:22:48",
-      "album": {
-        "name": "Encontr\u00e1ndome",
-        "url": "https://open.spotify.com/album/1nKM1APSxh0ZNxBmqZbPKq"
-      },
-      "artists": [
-        {
-          "name": "Luis Gamarra",
-          "url": "https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr"
-        }
-      ],
-      "duration_ms": 175796,
-      "name": "Encontr\u00e1ndome",
-      "url": "https://open.spotify.com/track/4pPkbdJLxcAkpIqnGxSjDe"
     },
     {
       "added_at": "2024-04-15 18:22:48",

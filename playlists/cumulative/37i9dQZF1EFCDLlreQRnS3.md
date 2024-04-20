@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EFCDLlreQRnS3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFCDLlreQRnS3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFCDLlreQRnS3)
 
-### [Written By Molly Irvine](https://open.spotify.com/playlist/37i9dQZF1EFCDLlreQRnS3)
+### [Written By Moli](https://open.spotify.com/playlist/37i9dQZF1EFCDLlreQRnS3)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Molly Irvine</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 103 songs - 5 hr 19 min
 

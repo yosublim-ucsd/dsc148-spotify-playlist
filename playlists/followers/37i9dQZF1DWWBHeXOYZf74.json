@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 1327503,
+  "2024-04-20": 1327449,
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Caribou",
+  "description": "Genre-less. Quality first always. Cover: UCHE YARA",
   "name": "POLLEN",
   "tracks": [
     {
@@ -1555,6 +1555,24 @@
       "duration_ms": 204506,
       "name": "A Kiss Goodbye",
       "url": "https://open.spotify.com/track/3FsL491yGtc7Lwq1onHAsn"
+    },
+    {
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
     },
     {
       "album": {
@@ -7849,10 +7867,28 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151800,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/0VTWmrljeELeuW2fcpS39H"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
     },
     {
       "album": {
@@ -9785,6 +9821,32 @@
       "duration_ms": 197888,
       "name": "Cool to You",
       "url": "https://open.spotify.com/track/4TxuAw6GMHFPMv6NQeXm6l"
+    },
+    {
+      "album": {
+        "name": "hella (\u02c3\u0323\u0323\u0325\u256d\u256e\u02c2\u0323\u0323\u0325) \u2727 \u2661 \u2027\u00ba\u00b7\u02da",
+        "url": "https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ"
+      },
+      "artists": [
+        {
+          "name": "1999 WRITE THE FUTURE",
+          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174109,
+      "name": "cOoL WATeR foR thE nIGHT",
+      "url": "https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4"
     },
     {
       "album": {
@@ -13373,7 +13435,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
@@ -13395,7 +13457,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
@@ -19538,6 +19600,24 @@
     },
     {
       "album": {
+        "name": "Hide (Bibio Rework)",
+        "url": "https://open.spotify.com/album/30s41AsEU9rXsgAbjmEmez"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210582,
+      "name": "Hide - Bibio Rework",
+      "url": "https://open.spotify.com/track/2gEMezYfDfRJcHdsiDZpMC"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby"
       },
@@ -20025,10 +20105,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "album": {
@@ -22067,6 +22165,24 @@
     {
       "album": {
         "name": "Imaan",
+        "url": "https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP"
+    },
+    {
+      "album": {
+        "name": "Imaan",
         "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
       },
       "artists": [
@@ -22095,7 +22211,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR"
@@ -27461,7 +27577,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 266026,
       "name": "Mary Boone",
       "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
@@ -27479,7 +27595,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266026,
       "name": "Mary Boone",
       "url": "https://open.spotify.com/track/6OjwIdLlkjCLuOThOwODEY"
@@ -28557,6 +28673,28 @@
       "duration_ms": 204126,
       "name": "Moments / Tides",
       "url": "https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD"
+    },
+    {
+      "album": {
+        "name": "Moments Die",
+        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246886,
+      "name": "Moments Die",
+      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
     },
     {
       "album": {
@@ -31809,10 +31947,36 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321800,
       "name": "Oral - Olof Dreijer Remix",
       "url": "https://open.spotify.com/track/1AG0zqRn0lKTXDqcnXKa1x"
+    },
+    {
+      "album": {
+        "name": "Oral (Olof Dreijer Remix)",
+        "url": "https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321800,
+      "name": "Oral - Olof Dreijer Remix",
+      "url": "https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg"
     },
     {
       "album": {
@@ -39638,6 +39802,24 @@
     },
     {
       "album": {
+        "name": "Soulbreaker",
+        "url": "https://open.spotify.com/album/7wHsf7I3cYPiC6KKWX5acW"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234804,
+      "name": "Soulbreaker",
+      "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
+    },
+    {
+      "album": {
         "name": "Coast / Sourire",
         "url": "https://open.spotify.com/album/2SnmC5gl0h5jjP1TzzVp09"
       },
@@ -39823,7 +40005,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 233416,
       "name": "Spring Is Coming With A Strawberry In The Mouth",
       "url": "https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF"
@@ -39841,7 +40023,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233416,
       "name": "Spring Is Coming With A Strawberry In The Mouth",
       "url": "https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr"
@@ -40099,7 +40281,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM"
@@ -40125,7 +40307,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/4sHXKCcNR8CSifCNUhYwuW"
@@ -45028,6 +45210,24 @@
     },
     {
       "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
+    },
+    {
+      "album": {
         "name": "Unlock It (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/00owbCur1BIK7SYX990qgJ"
       },
@@ -46343,6 +46543,32 @@
       "duration_ms": 195263,
       "name": "We're All Gonna Be Killed",
       "url": "https://open.spotify.com/track/0OWJgwv0SF2gJPtbjAPGub"
+    },
+    {
+      "album": {
+        "name": "Weak (Mav's Version)",
+        "url": "https://open.spotify.com/album/56v6sdACC0SuLiSvtsilLN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Weak - Mav's Version",
+      "url": "https://open.spotify.com/track/3j6Zfk3H6v9IO6r48YdKVo"
     },
     {
       "album": {
@@ -48925,6 +49151,24 @@
       "duration_ms": 129173,
       "name": "ZOOMIES",
       "url": "https://open.spotify.com/track/7CqIleB7ogeQFT00U8MuD1"
+    },
+    {
+      "album": {
+        "name": "ZUU (zoo) - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4ZzPfw5jy9Nnga5Nuo0H7e"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171472,
+      "name": "ZUU (zoo) - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/67gqISMPcivK7FnOw7c0EW"
     },
     {
       "album": {

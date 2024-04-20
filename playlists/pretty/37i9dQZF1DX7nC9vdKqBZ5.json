@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1523006,
+  "num_followers": 1521205,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
+        "name": "Mar\u00edlia Mendon\u00e7a - Perfil (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 190363,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
+      "duration_ms": 149995,
+      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -139,18 +135,22 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Mar\u00edlia Mendon\u00e7a - Perfil (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6JFSCrp4FNZhVZmrDpEZi5"
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 149995,
-      "name": "Aus\u00eancia - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/37erXXnh4mlWE7mdO6EYOp"
+      "duration_ms": 190363,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -171,6 +171,26 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Eu Feat. Voc\u00ea",
+        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 214249,
+      "name": "Cabelo De Anjo",
+      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -199,22 +219,18 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Eu Feat. Voc\u00ea",
-        "url": "https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7"
+        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
         }
       ],
-      "duration_ms": 214249,
-      "name": "Cabelo De Anjo",
-      "url": "https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci"
+      "duration_ms": 198193,
+      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -231,22 +247,6 @@
       "duration_ms": 252789,
       "name": "Sentimento - Ao vivo",
       "url": "https://open.spotify.com/track/0vaISMFBEhY4ssii1zCGUQ"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -607,38 +607,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 145304,
-      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 254096,
-      "name": "Amei Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -659,18 +627,34 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
       },
       "artists": [
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 169472,
-      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+      "duration_ms": 254096,
+      "name": "Amei Te Ver - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Hoje Eu Quero Me Perder (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XutjfTSWMK45V2wT5yWpe"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 145304,
+      "name": "Hoje Eu Quero Me Perder - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6FORYUPmxuH5aU6yc49CK8"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -687,6 +671,22 @@
       "duration_ms": 198924,
       "name": "Aindas",
       "url": "https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 169472,
+      "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "DARAM\u00d4",
-        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 151458,
-      "name": "ciumeira",
-      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Terra do Nunca (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 205408,
       "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "DARAM\u00d4",
+        "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "ciumeira",
+      "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Peu Canta Ivete",
-        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
-      },
-      "artists": [
-        {
-          "name": "PEU",
-          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
-        }
-      ],
-      "duration_ms": 243179,
-      "name": "Quando a Chuva Passar",
-      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "Outra Vez (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 226714,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Peu Canta Ivete",
+        "url": "https://open.spotify.com/album/5WDe14rM6lvHcjEOXwTcBw"
+      },
+      "artists": [
+        {
+          "name": "PEU",
+          "url": "https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f"
+        }
+      ],
+      "duration_ms": 243179,
+      "name": "Quando a Chuva Passar",
+      "url": "https://open.spotify.com/track/6lgl29Vc2xmfE0mTFRI4ip"
     },
     {
       "added_at": "2024-03-18 13:00:14",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-18 13:00:14",
       "album": {
-        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
-    },
-    {
-      "added_at": "2024-03-18 13:00:14",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-03-18 13:00:14",
+      "album": {
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
     },
     {
       "added_at": "2024-03-18 13:00:14",

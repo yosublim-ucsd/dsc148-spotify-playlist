@@ -1,6 +1,6 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ARTMS",
-  "num_followers": 412907,
+  "num_followers": 412902,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
       "duration_ms": 191280,
       "name": "Will",
       "url": "https://open.spotify.com/track/4T6ZOGt9c250Xz1CpZColk"
+    },
+    {
+      "added_at": "2024-04-18 15:00:00",
+      "album": {
+        "name": "Wait Me There",
+        "url": "https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "Wait Me There",
+      "url": "https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y"
     },
     {
       "added_at": "2024-04-18 15:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12105,
+  "num_followers": 12108,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -693,22 +693,6 @@
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "A Living Room Hush",
-        "url": "https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 518120,
-      "name": "Lithuania",
-      "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
-    },
-    {
       "added_at": "2024-03-21 23:52:34",
       "album": {
         "name": "For You, Please",
@@ -727,6 +711,22 @@
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "A Living Room Hush",
+        "url": "https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 518120,
+      "name": "Lithuania",
+      "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -761,26 +761,6 @@
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
     },
     {
-      "added_at": "2022-02-18 05:44:49",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
-      },
-      "artists": [
-        {
-          "name": "Broken Peak",
-          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
-        },
-        {
-          "name": "Dear Gravity",
-          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Open Hill",
-      "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "All the Way Round (Photay Remix)",
@@ -799,6 +779,26 @@
       "duration_ms": 296007,
       "name": "All the Way Round - Photay Remix",
       "url": "https://open.spotify.com/track/1PKUVKUDXmeT8uu4Rb3f9b"
+    },
+    {
+      "added_at": "2022-02-18 05:44:49",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
+      },
+      "artists": [
+        {
+          "name": "Broken Peak",
+          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
+        },
+        {
+          "name": "Dear Gravity",
+          "url": "https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Open Hill",
+      "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
     },
     {
       "added_at": "2022-09-03 03:31:24",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
     },
     {
-      "added_at": "2023-01-03 03:48:53",
-      "album": {
-        "name": "Tony Takitani",
-        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Solitude - Theme",
-      "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
-    },
-    {
       "added_at": "2022-03-16 01:05:35",
       "album": {
         "name": "Dreams",
@@ -905,6 +889,22 @@
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
+      "added_at": "2023-01-03 03:48:53",
+      "album": {
+        "name": "Tony Takitani",
+        "url": "https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Solitude - Theme",
+      "url": "https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh"
+    },
+    {
       "added_at": "2022-02-15 01:09:46",
       "album": {
         "name": "1981",
@@ -919,22 +919,6 @@
       "duration_ms": 254954,
       "name": "1981",
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     },
     {
       "added_at": "2022-03-03 00:47:36",
@@ -959,6 +943,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+      },
+      "artists": [
+        {
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+        }
+      ],
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "In a Cistern b/w Into Clouds",
         "url": "https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 260730,
       "name": "In a Cistern",
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Pyramid",
-        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 488904,
-      "name": "Spiral Era",
-      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1019,6 +1003,22 @@
       "duration_ms": 309717,
       "name": "\u00c1ss hinn hv\u00edti (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Pyramid",
+        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 488904,
+      "name": "Spiral Era",
+      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1093,30 +1093,6 @@
       "url": "https://open.spotify.com/track/76ibv2JcIKrKWgMs1vHo1f"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Beside April",
-        "url": "https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 313587,
-      "name": "Beside April",
-      "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
-    },
-    {
       "added_at": "2022-05-24 01:10:33",
       "album": {
         "name": "Tloque Nahuaque",
@@ -1139,6 +1115,30 @@
       "duration_ms": 391899,
       "name": "Tloque Nahuaque",
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Beside April",
+        "url": "https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 313587,
+      "name": "Beside April",
+      "url": "https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8"
     },
     {
       "added_at": "2022-09-30 02:23:59",

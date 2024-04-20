@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 686,
+  "2024-04-20": 686,
   "date_first_scraped": "2023-07-10",
   "description": "Mais que amigas, vizinhas! Ou\u00e7a as m\u00fasicas de 'Maldivas', estrelando Bruna Marquezine, Manu Gavassi e mais - s\u00f3 na Netflix.",
   "name": "Maldivas Playlist Oficial",
@@ -28,6 +28,24 @@
     },
     {
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU"
+    },
+    {
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -39,7 +57,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
@@ -79,10 +97,32 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133013,
       "name": "Cobra Coral",
       "url": "https://open.spotify.com/track/3DnivyDbqLZ2Nf7AdMRUk6"
+    },
+    {
+      "album": {
+        "name": "Incendiaria / Cobra Coral (from the Netflix Series \"Maldivas\")",
+        "url": "https://open.spotify.com/album/6vs9WopwIlbMvHwFBdNAtI"
+      },
+      "artists": [
+        {
+          "name": "Sheron Menezes",
+          "url": "https://open.spotify.com/artist/0p7R7OI5BOPm2gXoKnih5W"
+        },
+        {
+          "name": "Samuel Melo",
+          "url": "https://open.spotify.com/artist/4BvrzGRlD20vLSbeDiwLVd"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133013,
+      "name": "Cobra Coral",
+      "url": "https://open.spotify.com/track/4tORPkgmuN9H1Qtkz0veoM"
     },
     {
       "album": {
@@ -167,7 +207,7 @@
     {
       "album": {
         "name": "Incendiaria / Cobra Coral (from the Netflix Series \"Maldivas\")",
-        "url": "https://open.spotify.com/album/1Fxz3JAolhx0e9OkPTf9QN"
+        "url": "https://open.spotify.com/album/6vs9WopwIlbMvHwFBdNAtI"
       },
       "artists": [
         {
@@ -182,6 +222,28 @@
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 164013,
+      "name": "Incendiaria",
+      "url": "https://open.spotify.com/track/0hUuVFnyU80Ad7dMrMuMYq"
+    },
+    {
+      "album": {
+        "name": "Incendiaria / Cobra Coral (from the Netflix Series \"Maldivas\")",
+        "url": "https://open.spotify.com/album/1Fxz3JAolhx0e9OkPTf9QN"
+      },
+      "artists": [
+        {
+          "name": "Sheron Menezes",
+          "url": "https://open.spotify.com/artist/0p7R7OI5BOPm2gXoKnih5W"
+        },
+        {
+          "name": "Samuel Melo",
+          "url": "https://open.spotify.com/artist/4BvrzGRlD20vLSbeDiwLVd"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 164013,
       "name": "Incendiaria",
       "url": "https://open.spotify.com/track/45sSziSBGJ5cBf96g01Tll"
@@ -207,7 +269,7 @@
     {
       "album": {
         "name": "O Vaqueiro Chegou",
-        "url": "https://open.spotify.com/album/2H4nSXLgDTyiAGf7hfSdAU"
+        "url": "https://open.spotify.com/album/2389CaffXtqyfOnEDha9qh"
       },
       "artists": [
         {
@@ -218,6 +280,24 @@
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192078,
+      "name": "Mulher, Chap\u00e9u e Botina",
+      "url": "https://open.spotify.com/track/0BXEVB3lbDaAhaajYM8oR8"
+    },
+    {
+      "album": {
+        "name": "O Vaqueiro Chegou",
+        "url": "https://open.spotify.com/album/2H4nSXLgDTyiAGf7hfSdAU"
+      },
+      "artists": [
+        {
+          "name": "Ranieri",
+          "url": "https://open.spotify.com/artist/4v7s0n7JHe5h8TPBdKYkX4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 192078,
       "name": "Mulher, Chap\u00e9u e Botina",
       "url": "https://open.spotify.com/track/5xHDPaWHEqzAZ5oKTKjXBF"
@@ -347,10 +427,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
+    },
+    {
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"
     },
     {
       "album": {

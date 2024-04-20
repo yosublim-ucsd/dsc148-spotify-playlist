@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bgKEb1LOV6.md) - [plain]
 
 > To the world, Here is NCT! Hi we are NCT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,293 likes - 67 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,641 likes - 67 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

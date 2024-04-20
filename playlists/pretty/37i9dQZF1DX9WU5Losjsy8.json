@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr...",
-  "num_followers": 402940,
+  "num_followers": 403477,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MTcxMTUyMjUzNywwMDAwMDAwMDViYWE3N2EyMGQ3OWRmOGRmYTllMzY0NzBhNTk2ZjYx",
   "tracks": [
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 179565,
       "name": "Oben ohne",
       "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -159,26 +159,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 180252,
       "name": "Hulapalu",
       "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 180157,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 156120,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Hurra die Gams",
-        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
-      },
-      "artists": [
-        {
-          "name": "Matty Valentino",
-          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Hurra die Gams",
-      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
       "artists": [
         {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
         }
       ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -611,6 +595,22 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Du Bist Mein Gl\u00fcck",
-        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Du bist mein Gl\u00fcck",
-      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Du Bist Mein Gl\u00fcck",
+        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Du bist mein Gl\u00fcck",
+      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -819,6 +819,30 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        }
+      ],
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -855,30 +879,6 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Kabinenparty",
-        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Nils_Gucki",
-          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
-        },
-        {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
-        }
-      ],
-      "duration_ms": 142750,
-      "name": "Kabinenparty",
-      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -967,54 +967,18 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Scheiss auf Schickimicki (Video Edit)",
-        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
+        "name": "Mallemoment",
+        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
       },
       "artists": [
         {
           "name": "Stefan St\u00fcrmer",
           "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Scheiss auf Schickimicki - Video Edit",
-      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+      "duration_ms": 169238,
+      "name": "Mallemoment",
+      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1043,6 +1007,38 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1103,6 +1099,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Hoch die H\u00e4nde Wochenende",
         "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
       },
@@ -1123,6 +1139,26 @@
       "duration_ms": 174719,
       "name": "Hoch die H\u00e4nde Wochenende",
       "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Scheiss auf Schickimicki (Video Edit)",
+        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
+      },
+      "artists": [
+        {
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Scheiss auf Schickimicki - Video Edit",
+      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1171,22 +1207,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Mallemoment",
-        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        }
-      ],
-      "duration_ms": 169238,
-      "name": "Mallemoment",
-      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
         "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Partysau",
-        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
-      },
-      "artists": [
-        {
-          "name": "Malle Kalle",
-          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
-        },
-        {
-          "name": "Danergy",
-          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
-        }
-      ],
-      "duration_ms": 115680,
-      "name": "Partysau",
-      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1263,46 +1263,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Holterdiepolter",
-        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
-      },
-      "artists": [
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        },
-        {
-          "name": "Georg Stengel",
-          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Holterdiepolter",
-      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Marc Pircher",
-          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "7 S\u00fcnden - Party Mix",
-      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Ich schie\u00df mich weg",
         "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
       },
@@ -1319,6 +1279,26 @@
       "duration_ms": 127989,
       "name": "Ich schie\u00df mich weg",
       "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Holterdiepolter",
+        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
+      },
+      "artists": [
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Georg Stengel",
+          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Holterdiepolter",
+      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Das Album",
         "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 229733,
       "name": "Anton aus Tirol",
       "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Filmriss",
         "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
       },
@@ -1415,26 +1415,6 @@
       "duration_ms": 134125,
       "name": "Filmriss",
       "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
-      },
-      "artists": [
-        {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2024-03-27 06:55:37",
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
+        "name": "Lass uns nicht geh'n (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
+      },
+      "artists": [
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Lass uns nicht geh'n - Stereoact Remix",
+      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
         "name": "Senorita",
         "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-03-27 06:55:37",
       "album": {
-        "name": "Marie",
-        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
-      },
-      "artists": [
-        {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
-    },
-    {
-      "added_at": "2024-03-27 06:55:37",
-      "album": {
         "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
         "url": "https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 201859,
       "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
       "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"
+    },
+    {
+      "added_at": "2024-03-27 06:55:37",
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
     }
   ],
   "unique_name": "Malle Party 2024",

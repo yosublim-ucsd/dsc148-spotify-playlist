@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6098,
+  "2024-04-20": 6106,
   "date_first_scraped": "2023-04-16",
   "description": "Celebrating the extraordinary women breaking boundaries and keeping tradition alive. Cover: Rhonda Vincent ",
   "name": "Women of Bluegrass",
@@ -93,10 +93,32 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173133,
       "name": "Annie",
       "url": "https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq"
+    },
+    {
+      "album": {
+        "name": "Common Nation Of Sorrow",
+        "url": "https://open.spotify.com/album/2IhYLlwuRGpWIzUuqJgY43"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173133,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/3W1KJQqttLO6BzxFWJEyc9"
     },
     {
       "album": {
@@ -147,10 +169,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181533,
       "name": "Backstep Cindy / Purple Bamboo",
       "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
+    },
+    {
+      "album": {
+        "name": "Song of the Traveling Daughter",
+        "url": "https://open.spotify.com/album/4unZBN3ywyKP0ULRH9ODlh"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Backstep Cindy/Purple Bamboo",
+      "url": "https://open.spotify.com/track/6XuD42wKyxfGOTrO1kdZK0"
     },
     {
       "album": {
@@ -165,7 +205,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214693,
       "name": "Big Eyed Rabbit",
       "url": "https://open.spotify.com/track/3tByvCITIwsA6toE6qOtTR"
@@ -183,7 +223,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 214693,
       "name": "Big Eyed Rabbit",
       "url": "https://open.spotify.com/track/52zhmkHINnGXcOhcB2U2mq"
@@ -417,6 +457,24 @@
     {
       "album": {
         "name": "I've Got That Old Feeling",
+        "url": "https://open.spotify.com/album/7vrtcZNg6n074ZNGZWlbeO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Dark Skies",
+      "url": "https://open.spotify.com/track/6Am0xKiQlEerLNNW4f4nHb"
+    },
+    {
+      "album": {
+        "name": "I've Got That Old Feeling",
         "url": "https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7"
       },
       "artists": [
@@ -427,7 +485,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143333,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/6WZhUdMsbYpRuO7VzguKI1"
@@ -485,7 +543,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/4qL1jujA2oQ2REmXOIonGb"
@@ -507,7 +565,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263899,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/54M6qWsxkihPmM5KBa7LE0"
@@ -565,10 +623,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137493,
       "name": "Fine Times at Our House",
       "url": "https://open.spotify.com/track/1v0N9HBqKKCJfhCLV9GuIb"
+    },
+    {
+      "album": {
+        "name": "Nine Pin",
+        "url": "https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137493,
+      "name": "Fine Times at Our House",
+      "url": "https://open.spotify.com/track/3J7cN5yWjtDVLO45gtdJOf"
     },
     {
       "album": {
@@ -663,6 +739,24 @@
     {
       "album": {
         "name": "Stringworks",
+        "url": "https://open.spotify.com/album/0ysC9SbSSRNCiedsNSRa38"
+      },
+      "artists": [
+        {
+          "name": "Kristin Scott Benson",
+          "url": "https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153040,
+      "name": "Great Waterton",
+      "url": "https://open.spotify.com/track/3z1iiykBeoCwcgF8aZ6nHs"
+    },
+    {
+      "album": {
+        "name": "Stringworks",
         "url": "https://open.spotify.com/album/3LhkdwYvb0igZ3q2NxLh79"
       },
       "artists": [
@@ -673,7 +767,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153040,
       "name": "Great Waterton",
       "url": "https://open.spotify.com/track/4jwvNJAxLXupRCXpYlZO3S"
@@ -727,10 +821,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258066,
       "name": "Heartbreak Hill",
       "url": "https://open.spotify.com/track/39UuyYgRf5vYawd8mAmVQ9"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Hill",
+        "url": "https://open.spotify.com/album/35W5NruKnfvcAxOo7LnxSn"
+      },
+      "artists": [
+        {
+          "name": "Kristi Stanley",
+          "url": "https://open.spotify.com/artist/45TQA7RLr9i3axfc0WzRaT"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261946,
+      "name": "Heartbreak Hill",
+      "url": "https://open.spotify.com/track/0OGXCqiLYT8ctMIeU1zn4k"
     },
     {
       "album": {
@@ -901,7 +1013,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 204733,
       "name": "Independence, VA",
       "url": "https://open.spotify.com/track/3w45ekyUBXZe7dPjs7G5dO"
@@ -919,7 +1031,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204733,
       "name": "Independence, VA",
       "url": "https://open.spotify.com/track/7suaUeKxtyKWJ9Y3RUcakq"
@@ -1031,7 +1143,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197755,
       "name": "Little Satchel",
       "url": "https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh"
@@ -1049,7 +1161,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 197755,
       "name": "Little Satchel",
       "url": "https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN"
@@ -1215,7 +1327,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9"
@@ -1233,7 +1345,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131248,
       "name": "Night Singing",
       "url": "https://open.spotify.com/track/6xSMndtwKtRONt6zDJs9hJ"
@@ -1321,7 +1433,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154760,
       "name": "Old Songs Never Die",
       "url": "https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR"
@@ -1339,7 +1451,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 154760,
       "name": "Old Songs Never Die",
       "url": "https://open.spotify.com/track/3FKtWyA5l5mNGEGv0uRDSm"
@@ -1441,7 +1553,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV"
@@ -1463,7 +1575,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222251,
       "name": "Prodigal Daughter",
       "url": "https://open.spotify.com/track/62GUjBiYCUCGtd5BHOIhi0"
@@ -1517,7 +1629,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 188574,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/0BtuV1jppu2onZUkzKFtFk"
@@ -1535,7 +1647,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188574,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/7mbTpKeiHkrxWYQM9pmFWE"
@@ -1687,6 +1799,24 @@
     {
       "album": {
         "name": "Cr\u00eape Paper Heart",
+        "url": "https://open.spotify.com/album/4tJMNtgIAsWqussxgBr1P3"
+      },
+      "artists": [
+        {
+          "name": "Becky Buller",
+          "url": "https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Speakin' to That Mountain",
+      "url": "https://open.spotify.com/track/3Q8cW68irK0liAevs7893q"
+    },
+    {
+      "album": {
+        "name": "Cr\u00eape Paper Heart",
         "url": "https://open.spotify.com/album/0FTQoJXH9ny0gOqYnmHXip"
       },
       "artists": [
@@ -1829,7 +1959,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221938,
       "name": "The Riveter",
       "url": "https://open.spotify.com/track/3iQTcgiYWv0LfOJlk3BtIU"
@@ -1847,7 +1977,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 221938,
       "name": "The Riveter",
       "url": "https://open.spotify.com/track/7d14MiXlkIdknKSfBUv2jq"
@@ -1935,7 +2065,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 272894,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz"
@@ -1957,7 +2087,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272894,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp"
@@ -2055,7 +2185,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221061,
       "name": "Weevils in the Grits",
       "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
@@ -2077,7 +2207,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 221061,
       "name": "Weevils in the Grits",
       "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"

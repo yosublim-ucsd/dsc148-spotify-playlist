@@ -1,12 +1,12 @@
 {
-  "description": "This Is Arch Enemy. Los temas esenciales, todos en una lista.",
-  "num_followers": 68359,
+  "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
+  "num_followers": 68362,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGNhNTExYzFmNzQwZTcxY2NkMWVjNTM3NGQ2YmE1ZDky",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDczY2U4MGRjMjU4ZDQ4MDA4YzJmOGEyNDkwZTU1OTc1",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 231773,
-      "name": "Deceiver, Deceiver",
-      "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
+      "duration_ms": 242813,
+      "name": "Symphony of Destruction - cover version",
+      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
       "duration_ms": 132400,
       "name": "Despicable Heroes",
       "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Symphony of Destruction - cover version",
-      "url": "https://open.spotify.com/track/0WxklKp98Lt2Gr3dqHBjDa"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 427871,
+  "2024-04-20": 427612,
   "date_first_scraped": "2021-12-28",
   "description": "The soundtrack to your festive get-together!",
   "name": "Christmas Party",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209360,
       "name": "8 Days of Christmas",
       "url": "https://open.spotify.com/track/2CZWUmcG9swKChEPBllPra"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209360,
       "name": "8 Days of Christmas",
       "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/7nQrUXVzVeYb0hAuabfmaP"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226240,
       "name": "At Christmas",
       "url": "https://open.spotify.com/track/461LN3UXOCqznSTqapFzL0"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226826,
       "name": "At Christmas",
       "url": "https://open.spotify.com/track/3gh7XKogco53YM1AGJ0OGD"
@@ -288,8 +288,8 @@
     },
     {
       "album": {
-        "name": "Christmas Wishes",
-        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
+        "name": "Holiday Wishes",
+        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
       "artists": [
         {
@@ -303,15 +303,15 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2024-04-19",
       "duration_ms": 166146,
-      "name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
+      "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
     },
     {
       "album": {
-        "name": "Holiday Wishes",
-        "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
+        "name": "Christmas Wishes",
+        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
       "artists": [
         {
@@ -328,7 +328,7 @@
       "date_removed": null,
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl"
+      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
     },
     {
       "album": {
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/4TJ7VNAE34mEMrvUTCRvtF"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178853,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/1MxFicnnrdo9RzFLAm4Gsf"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213880,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/1mH6tZC6iXIHPI6EixCwxw"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278946,
       "name": "I Wish It Could Be Christmas Everyday",
       "url": "https://open.spotify.com/track/59z1sKsrdxNuSl4G0MKVwA"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217466,
       "name": "Is This Christmas? - Radio Edit",
       "url": "https://open.spotify.com/track/4yifcWyiH6bbJbhKAgRZLb"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217466,
       "name": "Is This Christmas? - Radio Edit",
       "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165933,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/7N1AVQJ6MlUUjPElAPZhkS"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239466,
       "name": "J5 Christmas Medley",
       "url": "https://open.spotify.com/track/1qMFPGEDGw8RhHMcyaGoIi"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239466,
       "name": "J5 Christmas Medley",
       "url": "https://open.spotify.com/track/4vs6hDhduvVdgMdiV6WTC6"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123640,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0JoLc8rgQBJhDMolSCuRuw"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212453,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/34kSAsvs36tXZ8DaiBphUG"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266146,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209183,
       "name": "Love Me Like You - Christmas Mix",
       "url": "https://open.spotify.com/track/5wTRIbgSw1WKNUufanQSab"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209306,
       "name": "Love Me Like You - Christmas Mix",
       "url": "https://open.spotify.com/track/7ojnswb6OzsOg9B3UJbKel"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/7brBzTFzUzxwKNXbyS5sN2"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217680,
       "name": "Merry X-Mas Everybody",
       "url": "https://open.spotify.com/track/5SbmOpGupqtSQGOrRJ4ZWc"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218600,
       "name": "Merry X-Mas Everybody",
       "url": "https://open.spotify.com/track/1YlnvcS4mpYdxvwqxon0aZ"
@@ -1409,7 +1409,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205466,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/3iwZ8hg0q1kTBB5kjg0nO4"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223720,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/0z5jr9YE1siursT3dJUwDV"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 103173,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/3IV8xIrnjv7TdJY6KUmdrD"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 107266,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/35ys6iS1supcwFoxLJkFbg"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203360,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/3h7Gk0kIWjtNacFEIuoaNg"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203693,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/4pq39ESd8oPCmAH6H4Vbt9"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268186,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/5pDaRonmzAV91HPxZVeiai"
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/02wPeiptJ7S9H9eL8F6jOk"
@@ -2079,7 +2079,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
@@ -2097,7 +2097,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259226,
       "name": "Thank God It's Christmas",
       "url": "https://open.spotify.com/track/0QtJZpyfZF67QF32p41NXa"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147226,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147800,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe"
@@ -2299,7 +2299,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216626,
       "name": "White Christmas (with Shy'm)",
       "url": "https://open.spotify.com/track/3xONtQKJ7gVv77fGLKC3Kb"
@@ -2321,7 +2321,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216626,
       "name": "White Christmas (with Shy'm)",
       "url": "https://open.spotify.com/track/54fvgxr5WYXNsnmKwMc7S1"
@@ -2357,7 +2357,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
@@ -2375,7 +2375,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Remastered 2011 / Edited Version",
       "url": "https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7"

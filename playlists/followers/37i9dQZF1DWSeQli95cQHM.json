@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11392,
+  "2024-04-20": 11395,
   "date_first_scraped": "2023-07-23",
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
   "name": "Front BR",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309677,
       "name": "A Man Called Cory",
       "url": "https://open.spotify.com/track/0ThxTOnrmRXc44u4dkNsR2"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 329500,
       "name": "Autoconstru\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357128,
       "name": "Dance n' Casa",
       "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258005,
       "name": "De AK em Cima da CB1000",
       "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
@@ -439,10 +439,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397107,
       "name": "Energy Sync - Club Mix",
       "url": "https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR"
+    },
+    {
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1"
+      },
+      "artists": [
+        {
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Espelho (Malka Synthpop Rework)",
+      "url": "https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9"
     },
     {
       "album": {
@@ -515,7 +533,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 238032,
       "name": "Festa",
       "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-25",
+      "date_removed": null,
       "duration_ms": 311129,
       "name": "Fixity - Original Mix",
       "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357699,
       "name": "Galactic Highways",
       "url": "https://open.spotify.com/track/6k3EWtjkh3aAGVodMgk8fv"
@@ -645,10 +663,54 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323629,
       "name": "House Aprovado Pelo Governo",
       "url": "https://open.spotify.com/track/6M5Qw2cglL7PGAq3VS9uaI"
+    },
+    {
+      "album": {
+        "name": "Our Spacial Place",
+        "url": "https://open.spotify.com/album/1HaMtLVKUBmCP8td9QkNz3"
+      },
+      "artists": [
+        {
+          "name": "n\u00f8rus",
+          "url": "https://open.spotify.com/artist/11V5ILUaU0e00lfttXHEpz"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440000,
+      "name": "If I Never See U Again",
+      "url": "https://open.spotify.com/track/6FBnLm4SdbDt2NNpBK2hSF"
+    },
+    {
+      "album": {
+        "name": "Incarne",
+        "url": "https://open.spotify.com/album/4Zg2HeCfAX1Yb6arpZxv3s"
+      },
+      "artists": [
+        {
+          "name": "Tin Man",
+          "url": "https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK"
+        },
+        {
+          "name": "Davis",
+          "url": "https://open.spotify.com/artist/5eF6YOSwkaoA4qUp3J6SYc"
+        },
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483006,
+      "name": "Incarne",
+      "url": "https://open.spotify.com/track/0VR1N3yDJhBiqT9lqlqAAa"
     },
     {
       "album": {
@@ -663,7 +725,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369924,
       "name": "Keyboard Cats",
       "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
@@ -707,7 +769,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308000,
       "name": "Laiarai\u00e1 (LOV.ini Remix)",
       "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
@@ -751,7 +813,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215764,
       "name": "Machooka",
       "url": "https://open.spotify.com/track/6fsL0sv1oEm97D6qk2L0Vh"
@@ -903,7 +965,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 308210,
       "name": "Minguante",
       "url": "https://open.spotify.com/track/0F7pdPtwD1hAgYcgvE07P0"
@@ -939,7 +1001,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 386181,
       "name": "No Rave",
       "url": "https://open.spotify.com/track/1d4372BADKlOLV7BwBJ6T9"
@@ -957,7 +1019,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 376467,
       "name": "Odara",
       "url": "https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL"
@@ -975,7 +1037,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266133,
       "name": "Orange Sunlight",
       "url": "https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP"
@@ -1059,7 +1121,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398048,
       "name": "Proibidao - Selvagem / Trepanado Remix",
       "url": "https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2"
@@ -1219,7 +1281,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 432000,
       "name": "Shine - Dance Version",
       "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
@@ -1349,7 +1411,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 384480,
       "name": "Vou Pra Longe (Floatin')",
       "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"

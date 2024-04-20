@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 3081,
+  "2024-04-20": 3081,
   "date_first_scraped": "2023-08-07",
   "description": "Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres. ",
   "name": "Stevie Wonder: Covered",
   "tracks": [
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/76FmoUr5P5yBGMmI59TTUS"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302733,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1MbJ9k6fiq7zFJnZSaxjER"
+    },
     {
       "album": {
         "name": "For You",
@@ -21,7 +39,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302733,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/2rDyi7Vuw9l4VneeToK35D"
@@ -297,10 +315,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296880,
       "name": "I Love Every Little Thing About You",
       "url": "https://open.spotify.com/track/291yyP4mQmzdSWu3Q1BpS0"
+    },
+    {
+      "album": {
+        "name": "Stevie Wonder Presents Syreeta",
+        "url": "https://open.spotify.com/album/6zLgZl2AjJQyOYzzDF51UC"
+      },
+      "artists": [
+        {
+          "name": "Syreeta",
+          "url": "https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296880,
+      "name": "I Love Every Little Thing About You",
+      "url": "https://open.spotify.com/track/7AMf1K5MFDCXm5IVPzgf6m"
     },
     {
       "album": {
@@ -315,7 +351,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 161333,
       "name": "I Was Made to Love Her",
       "url": "https://open.spotify.com/track/2UP48WBw40vfggp53fWQ1Y"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161333,
       "name": "I Was Made To Love Her",
       "url": "https://open.spotify.com/track/3tp2vsiN4599IEQqoi9rgy"
@@ -395,7 +431,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 329560,
       "name": "Jesus Children",
       "url": "https://open.spotify.com/track/1SuNjDNslua2vWH78MDmaK"
@@ -421,10 +457,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329560,
       "name": "Jesus Children",
       "url": "https://open.spotify.com/track/6hgrKSQrK7mx0xMOMr75tY"
+    },
+    {
+      "album": {
+        "name": "Iconic: Message 4 America",
+        "url": "https://open.spotify.com/album/4yqrlUo7UkuHA4CB1IYp7r"
+      },
+      "artists": [
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335333,
+      "name": "Jesus Children of America",
+      "url": "https://open.spotify.com/track/2iW8KADpTmPugBLV7lopbg"
     },
     {
       "album": {
@@ -443,7 +497,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335333,
       "name": "Jesus Children of America (feat. Israel Houghton)",
       "url": "https://open.spotify.com/track/1oh77sYqkISM5alFlIS1vf"
@@ -519,10 +573,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171903,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/3JKQazJaCGMcpGggHefa0u"
+    },
+    {
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/380UJ5P7Rn6VDTkVECRnEj"
+      },
+      "artists": [
+        {
+          "name": "Nataly Dawn",
+          "url": "https://open.spotify.com/artist/1vCgeJQjG0SFPCC9ixbCGz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171903,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/52fcDNbtmDMmpUGMlbvWVl"
     },
     {
       "album": {
@@ -562,6 +634,24 @@
     },
     {
       "album": {
+        "name": "A Show Of Hands",
+        "url": "https://open.spotify.com/album/1SxzJTh9zlwjgzMTOz8FNa"
+      },
+      "artists": [
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177173,
+      "name": "Overjoyed",
+      "url": "https://open.spotify.com/track/04VR6iuHxm0gTz9XP4ev2G"
+    },
+    {
+      "album": {
         "name": "A Show of Hands 15",
         "url": "https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2"
       },
@@ -573,7 +663,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177173,
       "name": "Overjoyed",
       "url": "https://open.spotify.com/track/7kpnCOorFuE10kHPBGsdws"
@@ -697,10 +787,28 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270413,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/2LouKR49zIvoy2lvGi5IMP"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/2NS3pAjqtU1a60MLHuAvmC"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270413,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/32V5ffZff7oN3oYYxl8N6H"
     },
     {
       "album": {
@@ -715,7 +823,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 273213,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/1wO2D4oTnh3VygNnRi4Eca"
@@ -733,7 +841,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273213,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/3Ql5gAACwGaSpZshJM5ePe"

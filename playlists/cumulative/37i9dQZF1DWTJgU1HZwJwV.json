@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 128304,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/0BPdtwPaBWWbo2GDUsBCG8"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 120043,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6m5rP71LDIKQcISWQsnGfV"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 209975,
       "name": "En el Bosque",
       "url": "https://open.spotify.com/track/3cNTUgA4X4iMdiOKWNY8RE"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 157317,
       "name": "Floreio",
       "url": "https://open.spotify.com/track/5qse6XR40QbLoS8jRCwpXa"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 168669,
       "name": "Melody For My Best Friend",
       "url": "https://open.spotify.com/track/1IA0lgqrDrqXbiQgbo8oB2"
@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 138478,
       "name": "Moment Of Fire",
       "url": "https://open.spotify.com/track/2RGOruedyWCXpsUGlyDKtf"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 146710,
       "name": "Morgensonne",
       "url": "https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq"
@@ -5935,6 +5935,24 @@
     },
     {
       "album": {
+        "name": "Quality time",
+        "url": "https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Quality time",
+      "url": "https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX"
+    },
+    {
+      "album": {
         "name": "Quietude",
         "url": "https://open.spotify.com/album/1IfBfNQBcRUKm52sspE319"
       },
@@ -6601,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Sharing the Message",
+        "url": "https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176644,
+      "name": "Sharing the Message",
+      "url": "https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu"
+    },
+    {
+      "album": {
         "name": "Signum",
         "url": "https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB"
       },
@@ -6904,6 +6940,24 @@
       "duration_ms": 162713,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1"
+    },
+    {
+      "album": {
+        "name": "Steps ahead",
+        "url": "https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169097,
+      "name": "Steps ahead",
+      "url": "https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM"
     },
     {
       "album": {
@@ -7613,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "Togetherness",
+        "url": "https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148495,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/40qwRulvebVhIKE8s68shj"
+    },
+    {
+      "album": {
         "name": "Too Gentle",
         "url": "https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK"
       },
@@ -7786,7 +7858,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 243692,
       "name": "Triste",
       "url": "https://open.spotify.com/track/1sz5nK8klruuA3wyUilEKB"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 116064,
+  "2024-04-20": 116029,
   "date_first_scraped": "2021-12-28",
   "description": "Instrumental acoustic guitar renditions of the Christmas songs you love.",
   "name": "Christmas Peaceful Guitar",
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 112886,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112886,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/6BtuV4fSCgieGeNWPMqRMf"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209640,
       "name": "Jesu, Joy of Man's Desiring",
       "url": "https://open.spotify.com/track/4LkGFlV1izCeRL1HWIvY8a"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Jesu, Joy of Man's Desiring",
       "url": "https://open.spotify.com/track/3MboDieu1S5uxPQKHFpjyS"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158270,
       "name": "O Come O Come Emmanuel (Guitar Version)",
       "url": "https://open.spotify.com/track/1Pt6RJNt2czMZh1JBHWOke"
@@ -1455,7 +1455,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158270,
       "name": "O Come O Come Emmanuel (Guitar Version)",
       "url": "https://open.spotify.com/track/5SnfBCzQuFdVYnHDIl6csn"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147450,
       "name": "O Come, All Ye Faithful (Guitar Version)",
       "url": "https://open.spotify.com/track/2dBAE3QlE85uEVQtjrTY72"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147450,
       "name": "O Come, All Ye Faithful (Guitar Version)",
       "url": "https://open.spotify.com/track/5HiH2ZR4LixsbrPVvLr0iA"

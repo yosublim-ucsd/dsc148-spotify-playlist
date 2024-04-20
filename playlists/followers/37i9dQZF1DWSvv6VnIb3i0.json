@@ -1,9 +1,31 @@
 {
-  "2024-04-19": 235409,
+  "2024-04-20": 235544,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands hits fran\u00e7ais des ann\u00e9es 2000. Photo : Diam's",
   "name": "Hits Fran\u00e7ais 2000",
   "tracks": [
+    {
+      "album": {
+        "name": "Personne N'Est Parfait",
+        "url": "https://open.spotify.com/album/6HUlhuwOCeV4Vu9Ad1iFzO"
+      },
+      "artists": [
+        {
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        },
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329786,
+      "name": "A ma place",
+      "url": "https://open.spotify.com/track/4xDGY7Tm3burLInzkhlfTi"
+    },
     {
       "album": {
         "name": "Allo le monde",
@@ -89,10 +111,46 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232706,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/7el6SEqok66QW0WqqhYEsI"
+    },
+    {
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/7bZknZ9h1Gnv1dEpiyAvso"
+    },
+    {
+      "album": {
+        "name": "Les mots",
+        "url": "https://open.spotify.com/album/5Rc8dzu798sibwLHrk8oDB"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "C'est une belle journ\u00e9e",
+      "url": "https://open.spotify.com/track/5S7mQHUAKFYsEQOrtTKMth"
     },
     {
       "album": {
@@ -107,7 +165,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256693,
       "name": "C'est une belle journ\u00e9e",
       "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
@@ -132,6 +190,24 @@
     },
     {
       "album": {
+        "name": "C\u0153ur De Pirate",
+        "url": "https://open.spotify.com/album/71fry0hY8cte1dlWqIhPM3"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/3xuGzgRYAXHmj0dT1EOtzv"
+    },
+    {
+      "album": {
         "name": "C\u0153ur de pirate",
         "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
       },
@@ -143,7 +219,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
@@ -219,10 +295,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219960,
       "name": "D\u00e9sol\u00e9 pour hier soir",
       "url": "https://open.spotify.com/track/1OPUGXvJXEWZu6qqBr0VTF"
+    },
+    {
+      "album": {
+        "name": "Grain de sable",
+        "url": "https://open.spotify.com/album/4LLkZPv9nlbBuvdMeXYK9O"
+      },
+      "artists": [
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "D\u00e9sol\u00e9 pour hier soir",
+      "url": "https://open.spotify.com/track/4pI3b2w9WACkH3Wx5gM7ag"
     },
     {
       "album": {
@@ -419,10 +513,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248640,
       "name": "Femme Like U",
       "url": "https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y"
+    },
+    {
+      "album": {
+        "name": "La Good Life",
+        "url": "https://open.spotify.com/album/21QoWK9spLjFlmMkliwDna"
+      },
+      "artists": [
+        {
+          "name": "K.Maro",
+          "url": "https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243573,
+      "name": "Femme Like U - Radio Edit",
+      "url": "https://open.spotify.com/track/10lijBYvQh0gbkX2e3BnLR"
     },
     {
       "album": {
@@ -437,10 +549,28 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215506,
       "name": "Gar\u00e7on",
       "url": "https://open.spotify.com/track/18wOD0PpwKHf8KuvtM5sx7"
+    },
+    {
+      "album": {
+        "name": "Koxie",
+        "url": "https://open.spotify.com/album/5De83miZdE9uGDnF4viY3g"
+      },
+      "artists": [
+        {
+          "name": "Koxie",
+          "url": "https://open.spotify.com/artist/54eDBxDgfcmO6jqlKg0XLb"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Gar\u00e7on",
+      "url": "https://open.spotify.com/track/2ncSnIMALMma33FRKNFHBz"
     },
     {
       "album": {
@@ -455,10 +585,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227026,
       "name": "Il avait les mots",
       "url": "https://open.spotify.com/track/1ulV7wgYNWhulcnMrgwOuG"
+    },
+    {
+      "album": {
+        "name": "Sheryfa Luna",
+        "url": "https://open.spotify.com/album/1s0BomZpgzyfAjQESNcMTA"
+      },
+      "artists": [
+        {
+          "name": "Sheryfa Luna",
+          "url": "https://open.spotify.com/artist/5BPQfQJaq5Hx0636gwk4uA"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Il avait les mots",
+      "url": "https://open.spotify.com/track/2GHprNPynt33XoCHfEDKxD"
     },
     {
       "album": {
@@ -499,7 +647,7 @@
     {
       "album": {
         "name": "Marcher Dans Le Sable",
-        "url": "https://open.spotify.com/album/1YaNnz7y8m8SGIT7cgcmVD"
+        "url": "https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn"
       },
       "artists": [
         {
@@ -510,6 +658,24 @@
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240986,
+      "name": "J'en r\u00eave encore - Radio Edit",
+      "url": "https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH"
+    },
+    {
+      "album": {
+        "name": "Marcher Dans Le Sable",
+        "url": "https://open.spotify.com/album/1YaNnz7y8m8SGIT7cgcmVD"
+      },
+      "artists": [
+        {
+          "name": "De Palmas",
+          "url": "https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 240986,
       "name": "J'en r\u00eave encore - Radio Edit",
       "url": "https://open.spotify.com/track/3Hnk6OKqUg4QZitH2ExSwm"
@@ -534,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Le Roi Soleil (Int\u00e9grale Collector)",
+        "url": "https://open.spotify.com/album/4WOweN4lmGWZDyNcBC6cLw"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Moire",
+          "url": "https://open.spotify.com/artist/5YIaZ0ICxZyNEsATQRsxRk"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Je Fais De Toi Mon Essentiel",
+      "url": "https://open.spotify.com/track/5OjDTNdv2lM4e3WOb7OqEU"
+    },
+    {
+      "album": {
         "name": "Je fais de toi mon essentiel",
         "url": "https://open.spotify.com/album/57zABxgnCQxZRCaLY1RAIH"
       },
@@ -549,7 +733,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198106,
       "name": "Je fais de toi mon essentiel (avec Anne-Laure Girbal)",
       "url": "https://open.spotify.com/track/6H4TH5ntp7KzYePysRBcuT"
@@ -567,7 +751,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209066,
       "name": "Je serai (ta meilleure amie)",
       "url": "https://open.spotify.com/track/4FL6ttDXeXjgxXLII24wEX"
@@ -585,10 +769,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 209066,
       "name": "Je serai (ta meilleure amie)",
       "url": "https://open.spotify.com/track/5VQw18tYjbltQWFYmI3CPw"
+    },
+    {
+      "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/3RWSCAgGYrQxdyqqX0mglq"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "Je suis un homme",
+      "url": "https://open.spotify.com/track/2YNWgxevUxpjZDgW4i5Aky"
     },
     {
       "album": {
@@ -603,7 +805,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249466,
       "name": "Je suis un homme",
       "url": "https://open.spotify.com/track/33X8PxVlOvREs4URnDj9Fw"
@@ -679,10 +881,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197306,
       "name": "La lettre",
       "url": "https://open.spotify.com/track/3GRSNZGISh570blCys6RZb"
+    },
+    {
+      "album": {
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/4wmdDAMq8NaDjS3yFWX4FV"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/48zk9oD260EramgTTcsHh6"
     },
     {
       "album": {
@@ -762,6 +982,24 @@
     },
     {
       "album": {
+        "name": "Utopies Dans Le D\u00e9cor",
+        "url": "https://open.spotify.com/album/1fOao2GZ24fIO9qJ8Mo3y8"
+      },
+      "artists": [
+        {
+          "name": "Pep's",
+          "url": "https://open.spotify.com/artist/6dvyAgidTbcn9vJO1eWQ6y"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Liberta",
+      "url": "https://open.spotify.com/track/3QutrqACpwGWzywF3FVZsQ"
+    },
+    {
+      "album": {
         "name": "Utopies dans le d\u00e9cor",
         "url": "https://open.spotify.com/album/7KQWVtf0EE4HwmCN0GWZpe"
       },
@@ -773,7 +1011,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204946,
       "name": "Liberta",
       "url": "https://open.spotify.com/track/7sJBx5VyGxbLlhwloGBmyP"
@@ -817,6 +1055,28 @@
     {
       "album": {
         "name": "Boucan d'enfer",
+        "url": "https://open.spotify.com/album/1XAIYKVNzrlRmt55yytwiD"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        },
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Manhattan-Kaboul",
+      "url": "https://open.spotify.com/track/6lvkgqpLRNlF0Re01WX8dZ"
+    },
+    {
+      "album": {
+        "name": "Boucan d'enfer",
         "url": "https://open.spotify.com/album/1YQVhi1t8baYRJXDAEOvMG"
       },
       "artists": [
@@ -831,7 +1091,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230866,
       "name": "Manhattan-Kaboul",
       "url": "https://open.spotify.com/track/7eJdx83TiKsVqAzLFBelMO"
@@ -1127,10 +1387,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229426,
       "name": "Tout le bonheur du monde",
       "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
+    },
+    {
+      "album": {
+        "name": "Debout Les Yeux Ouverts",
+        "url": "https://open.spotify.com/album/5YR52hInBgTZFOBNQYIA9Y"
+      },
+      "artists": [
+        {
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Tout Le Bonheur Du Monde",
+      "url": "https://open.spotify.com/track/2l1ovp6orGRxysHpzhU7lu"
     },
     {
       "album": {
@@ -1145,10 +1423,28 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194826,
       "name": "Toutes les femmes de ta vie",
       "url": "https://open.spotify.com/track/0ZpCuFfUUgGNGvMVN5kjhc"
+    },
+    {
+      "album": {
+        "name": "L5",
+        "url": "https://open.spotify.com/album/1tO5kLF2GXzBdoJTNJEKut"
+      },
+      "artists": [
+        {
+          "name": "L5",
+          "url": "https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn"
+        }
+      ],
+      "date_added": "2024-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Toutes les femmes de ta vie",
+      "url": "https://open.spotify.com/track/3PkVPI5Qj87BCyNBUQ2pJB"
     },
     {
       "album": {
@@ -1221,7 +1517,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329786,
       "name": "\u00c0 ma place",
       "url": "https://open.spotify.com/track/38y3xAP05YHlGzPdDDN182"

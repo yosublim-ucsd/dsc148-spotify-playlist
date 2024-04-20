@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 428207,
+  "2024-04-20": 428192,
   "date_first_scraped": "2021-12-29",
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
   "name": "Chilled Reggae",
@@ -65,7 +65,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 238176,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200370,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198440,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-05",
+      "date_removed": null,
       "duration_ms": 209666,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/10h9F7m8cUY6XGJzhvtZb2"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 247591,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2ys6cWKndwCetchUXyNE2M"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 542383,
       "name": "Hope - LOCK-IN",
       "url": "https://open.spotify.com/track/6MoQ4uo9Ss5OuON9vYliXQ"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 241762,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/7kXo7sb4Lz9sBNW5KT8Zk7"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240293,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Love Overdue",
       "url": "https://open.spotify.com/track/0ClaCaTK8BdOSsP4FZbkio"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 246817,
       "name": "Lovely State Of Mind",
       "url": "https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy"
@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6dTcS6JSpAQ2NZenJt0btO"
+    },
+    {
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV"
       },
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 259880,
       "name": "New Blessings",
       "url": "https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206714,
       "name": "Patra",
       "url": "https://open.spotify.com/track/7F32a9GztNOSQxJJUH1qsO"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 180066,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272957,
       "name": "Rubble Rebel (Champion)",
       "url": "https://open.spotify.com/track/4Z5n21KUp7pcMVMaRS4ntJ"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176952,
       "name": "Scorpio's Letter",
       "url": "https://open.spotify.com/track/15P0W8dmVqtx6kw2vVd6Pn"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192044,
       "name": "Show Love",
       "url": "https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252125,
       "name": "Skankin' Sweet",
       "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/0VpJsmh0WGBthUjVinfS3k"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219478,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201522,
       "name": "Stars Align",
       "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270694,
       "name": "Straighter Roads",
       "url": "https://open.spotify.com/track/38BC1rrHVvWgYmt51cg3pw"
@@ -1525,6 +1543,32 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "album": {
+        "name": "The Herb",
+        "url": "https://open.spotify.com/album/0mZTf7Hug1HuYSJxeWOIMg"
+      },
+      "artists": [
+        {
+          "name": "King Kong",
+          "url": "https://open.spotify.com/artist/6kDCaFSkqskhFf9agShfSY"
+        },
+        {
+          "name": "Massive B",
+          "url": "https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY"
+        },
+        {
+          "name": "Bobby Konders",
+          "url": "https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225365,
+      "name": "The Herb",
+      "url": "https://open.spotify.com/track/3NAmUpcUjhJ0z2MAR0dSY5"
     },
     {
       "album": {
@@ -1661,7 +1705,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 224104,
       "name": "To See",
       "url": "https://open.spotify.com/track/2sY6QwNrA9yWZRPW2WtHTq"
@@ -1773,7 +1817,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
@@ -1791,7 +1835,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 213200,
       "name": "Welcome To Jamrock",
       "url": "https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg"

@@ -600,7 +600,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 154653,
       "name": "Bien Por Ti",
       "url": "https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG"
@@ -1501,6 +1501,32 @@
     },
     {
       "album": {
+        "name": "DUMBAI",
+        "url": "https://open.spotify.com/album/32jPIll7NE64gqohc6twQC"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "DUMBAI",
+      "url": "https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa"
+    },
+    {
+      "album": {
         "name": "D\u00e9jame Vivir",
         "url": "https://open.spotify.com/album/7tg4v929DwQa3At5yFDUn5"
       },
@@ -1938,6 +1964,24 @@
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
+    },
+    {
+      "album": {
+        "name": "Funeral 2.0",
+        "url": "https://open.spotify.com/album/5qjgTsftUlGe87IGRwvlfz"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234508,
+      "name": "Funeral 2.0",
+      "url": "https://open.spotify.com/track/25MPU7kWxscpKN4RVWC6Et"
     },
     {
       "album": {
@@ -3558,7 +3602,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 170600,
       "name": "Pasa La P\u00e1gina \"Panam\u00e1\"",
       "url": "https://open.spotify.com/track/64jJKitRKjCCKKCuShfpSl"
@@ -3696,6 +3740,24 @@
       "duration_ms": 176666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq"
+    },
+    {
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
     },
     {
       "album": {
@@ -3843,6 +3905,42 @@
     },
     {
       "album": {
+        "name": "Queri\u00e9ndonos Bien",
+        "url": "https://open.spotify.com/album/6c4WIqpwMrgNtjCPIzWfDX"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126813,
+      "name": "Queri\u00e9ndonos Bien",
+      "url": "https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm"
+    },
+    {
+      "album": {
+        "name": "Queri\u00e9ndote De M\u00e1s",
+        "url": "https://open.spotify.com/album/3g8lXdA0XXF1Nc7Kj0UNNc"
+      },
+      "artists": [
+        {
+          "name": "FAZ",
+          "url": "https://open.spotify.com/artist/4xUSrhyHFt2cjzOPqWoJM7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Queri\u00e9ndote De M\u00e1s",
+      "url": "https://open.spotify.com/track/6W06y1H0SESwZfNGYeF4bz"
+    },
+    {
+      "album": {
         "name": "Quiero",
         "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
       },
@@ -3872,7 +3970,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 183357,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/13balKJJGR2bqNFjObszuG"
@@ -3986,7 +4084,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 190760,
       "name": "S.H.E.A",
       "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
@@ -4510,7 +4608,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"

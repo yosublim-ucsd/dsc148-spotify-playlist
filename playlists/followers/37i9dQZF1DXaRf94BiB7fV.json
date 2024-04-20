@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 51031,
+  "2024-04-20": 51059,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Palak Mohan, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Divyam Sodhi & Khwaab, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1700,6 +1700,24 @@
     },
     {
       "album": {
+        "name": "Baag Bageeche",
+        "url": "https://open.spotify.com/album/68GIAZ1IV9pv3NKL9Z6uTI"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Bhandari",
+          "url": "https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Baag Bageeche",
+      "url": "https://open.spotify.com/track/391yVKTFVBqS1bqYQCrHPv"
+    },
+    {
+      "album": {
         "name": "Baarish",
         "url": "https://open.spotify.com/album/6CW4ctVt1v7MmkIdly2I9U"
       },
@@ -2349,10 +2367,28 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180124,
       "name": "Behne Do",
       "url": "https://open.spotify.com/track/75zR8cvoGL6yrXakoBukmh"
+    },
+    {
+      "album": {
+        "name": "Behne Do",
+        "url": "https://open.spotify.com/album/4rcZks1ed9aG4Ab8PA3l0B"
+      },
+      "artists": [
+        {
+          "name": "Sanjana Devarajan",
+          "url": "https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180125,
+      "name": "Behne Do",
+      "url": "https://open.spotify.com/track/5TwYWjL6aHrpBgLEI1YkBk"
     },
     {
       "album": {
@@ -5217,7 +5253,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206208,
       "name": "Drama",
       "url": "https://open.spotify.com/track/3smlPIsTWTtHcH5ImOyToa"
@@ -5989,6 +6025,24 @@
       "duration_ms": 228437,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk"
+    },
+    {
+      "album": {
+        "name": "Falsafa",
+        "url": "https://open.spotify.com/album/0qgCBEsxNwS8eGMC9ewOet"
+      },
+      "artists": [
+        {
+          "name": "Shrikanth Nair",
+          "url": "https://open.spotify.com/artist/2GwQjUQJkU7FGVXSJ3EPWj"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311216,
+      "name": "Falsafa",
+      "url": "https://open.spotify.com/track/4pZkIJLFd51zJQwrwaoWP0"
     },
     {
       "album": {
@@ -7129,7 +7183,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203530,
       "name": "Hate That I Like You",
       "url": "https://open.spotify.com/track/1FJUKNioWy7FpcySkDVCM1"
@@ -7805,7 +7859,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179624,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/4wkWDjIrSPTZD7JGidmoGQ"
@@ -9813,10 +9867,32 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220641,
       "name": "Kaafi Ho",
       "url": "https://open.spotify.com/track/1gmSrvdhHB2NBLFFf7OHxJ"
+    },
+    {
+      "album": {
+        "name": "Kaafi Ho",
+        "url": "https://open.spotify.com/album/5HbgnDzQEoaXDo66DUmApg"
+      },
+      "artists": [
+        {
+          "name": "Kakkey",
+          "url": "https://open.spotify.com/artist/2TghMvV6RorszozUWNpIYp"
+        },
+        {
+          "name": "Aalok Shrivastav",
+          "url": "https://open.spotify.com/artist/41R59MbdpXbvt7Dp8Z9S7c"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220641,
+      "name": "Kaafi Ho",
+      "url": "https://open.spotify.com/track/22T4MBv5M2MD8febsWNbTV"
     },
     {
       "album": {
@@ -13047,7 +13123,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184500,
       "name": "Mann Hi Mann",
       "url": "https://open.spotify.com/track/2VNBxLsVaPnIn0AV7dLfbd"
@@ -13635,6 +13711,24 @@
       "duration_ms": 178176,
       "name": "Mere Tum",
       "url": "https://open.spotify.com/track/3xhvRrV8fhYDi2LCD0Xice"
+    },
+    {
+      "album": {
+        "name": "Meri",
+        "url": "https://open.spotify.com/album/08Kk3HEE35l5BdMqe6Corb"
+      },
+      "artists": [
+        {
+          "name": "Gourav Sarkar",
+          "url": "https://open.spotify.com/artist/3LVnDgpQvmDZBPPzvn4UBj"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168040,
+      "name": "Meri",
+      "url": "https://open.spotify.com/track/4R9klqF2RWEmfOYqg02rFI"
     },
     {
       "album": {
@@ -14595,6 +14689,24 @@
       "duration_ms": 164342,
       "name": "Nayi Hai",
       "url": "https://open.spotify.com/track/00c1coppeAaQpvaRemO0v3"
+    },
+    {
+      "album": {
+        "name": "Nazaare",
+        "url": "https://open.spotify.com/album/4okWnRWJnVprNQv2FxmIFP"
+      },
+      "artists": [
+        {
+          "name": "Pitamber Verma",
+          "url": "https://open.spotify.com/artist/1Qxq3LLtkZ99P9QyGCy4ks"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180588,
+      "name": "Nazaare",
+      "url": "https://open.spotify.com/track/1ZTVryQnrq3CX0V3pNRGKI"
     },
     {
       "album": {
@@ -15850,6 +15962,28 @@
     },
     {
       "album": {
+        "name": "Phir Bhi Bekarar",
+        "url": "https://open.spotify.com/album/3HAcUjsJyp1BtHc043dycS"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        },
+        {
+          "name": "Zephyrtone",
+          "url": "https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Phir Bhi Bekarar",
+      "url": "https://open.spotify.com/track/3RBNus42uAT8P5GGUyINIq"
+    },
+    {
+      "album": {
         "name": "Phir Kabhi",
         "url": "https://open.spotify.com/album/78X9YPJsaCvtjk4KfnLMeo"
       },
@@ -15963,6 +16097,32 @@
       "duration_ms": 156887,
       "name": "Pink Shoes",
       "url": "https://open.spotify.com/track/16jty1IyP7fftF3gbqMPqD"
+    },
+    {
+      "album": {
+        "name": "Piya",
+        "url": "https://open.spotify.com/album/2x9Kp1gmqxqSWcDAgopyRK"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141715,
+      "name": "Piya",
+      "url": "https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T"
     },
     {
       "album": {
@@ -16997,7 +17157,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129024,
       "name": "Roye Mera Mann",
       "url": "https://open.spotify.com/track/7J0ZVT3BxoNz2B2MSoAmCR"
@@ -18797,7 +18957,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132715,
       "name": "Stolen Sunshine",
       "url": "https://open.spotify.com/track/2YUhQ2qJkOStYro1hw1gfO"
@@ -19887,7 +20047,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211902,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/7HPQgyPqnSkFEDH11cGDNk"
@@ -20137,6 +20297,32 @@
       "duration_ms": 183813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/2x1iPG4yOBpbH2ZtKvKhRq"
+    },
+    {
+      "album": {
+        "name": "Thoda Thoda",
+        "url": "https://open.spotify.com/album/1n6FmXJ7g8fJA8xOv9YOU1"
+      },
+      "artists": [
+        {
+          "name": "Rakshit Malhotra",
+          "url": "https://open.spotify.com/artist/0WKkWrV4p7Qs8suZUghiVr"
+        },
+        {
+          "name": "Rishabh Borchetia",
+          "url": "https://open.spotify.com/artist/2AYxPBFQQwFyIvR7TlvgXM"
+        },
+        {
+          "name": "Sireesha Bhagavatula",
+          "url": "https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Thoda Thoda",
+      "url": "https://open.spotify.com/track/3qJ5MZjsMKtIvTiGyArEcc"
     },
     {
       "album": {
@@ -20825,7 +21011,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 70370,
       "name": "Tujhe Dhoondta Hu",
       "url": "https://open.spotify.com/track/4YP3jBkuSFV7swUbmBJXHl"
@@ -21013,6 +21199,28 @@
       "duration_ms": 184216,
       "name": "Tum Sang",
       "url": "https://open.spotify.com/track/60uYhlD1Q5xJC4X1ThXgXl"
+    },
+    {
+      "album": {
+        "name": "Pyaar Ka Suffer",
+        "url": "https://open.spotify.com/album/1s7ruzvB2FSWtB2RLrPY8a"
+      },
+      "artists": [
+        {
+          "name": "Gen-Z Grooves",
+          "url": "https://open.spotify.com/artist/2J9Sq9LiLWMhdUjglmql1Z"
+        },
+        {
+          "name": "Ishita Singh",
+          "url": "https://open.spotify.com/artist/6vOnO8Sj2qkwfMaFw5RxhW"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118398,
+      "name": "Tum Se Pyar Hai",
+      "url": "https://open.spotify.com/track/1jlDQ1PyGC3NMBocWKhXla"
     },
     {
       "album": {

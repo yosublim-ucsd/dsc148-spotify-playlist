@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 41906,
+  "2024-04-20": 41937,
   "date_first_scraped": "2021-12-21",
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
   "name": "Blessings",
@@ -159,7 +159,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125566,
       "name": "burn for u",
       "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/4N7NekylBrZjnGQmitWo6k"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5brNzhgKWKCFlEcaFAScQD"
@@ -1747,6 +1747,24 @@
       "duration_ms": 178257,
       "name": "Die For You - the warehouse sessions",
       "url": "https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI"
+    },
+    {
+      "album": {
+        "name": "Relationship With God",
+        "url": "https://open.spotify.com/album/15av2hbgw4ofr0Oue668cL"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/6qk747IsCqU1VUZypwLCxI"
     },
     {
       "album": {
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232615,
       "name": "FYE FYE",
       "url": "https://open.spotify.com/track/4g2OxXjs5skPc9cSFwxLSd"
@@ -2699,7 +2717,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
@@ -3046,6 +3064,24 @@
     },
     {
       "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm"
+      },
+      "artists": [
+        {
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175738,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/2KZmhyKheOl8klQlHNuGEa"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/444xhOTpphGpSrqG7uSLwP"
       },
@@ -3153,7 +3189,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/69Rq57lrGf5syykFBNi3g4"
@@ -3317,7 +3353,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122392,
       "name": "I Meant It",
       "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
@@ -3532,6 +3568,32 @@
     },
     {
       "album": {
+        "name": "In Christ",
+        "url": "https://open.spotify.com/album/7rDG8GrtObQcl9AH2XtFzu"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        },
+        {
+          "name": "Akavelli",
+          "url": "https://open.spotify.com/artist/5XBo0wn5x7ihlMmOgQhz48"
+        },
+        {
+          "name": "Tomi Abdon",
+          "url": "https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "In Christ",
+      "url": "https://open.spotify.com/track/5tpdyvZ3cRVPPR6koEyg6H"
+    },
+    {
+      "album": {
         "name": "tylerhateslife",
         "url": "https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC"
       },
@@ -3543,7 +3605,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203478,
       "name": "in my head.",
       "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
@@ -3721,7 +3783,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260708,
       "name": "Jesus Called My Name",
       "url": "https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ"
@@ -4011,7 +4073,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251306,
       "name": "Life I Chose (feat. 2J Mako & GQ Dasteppa)",
       "url": "https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg"
@@ -4227,7 +4289,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
@@ -4505,7 +4567,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128300,
       "name": "mess it up",
       "url": "https://open.spotify.com/track/7m7KJInnMn0PEs8CPqHgkc"
@@ -4729,7 +4791,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 179696,
       "name": "My Bruddas",
       "url": "https://open.spotify.com/track/4VfPAgdUPrwnat0kOsbdRu"
@@ -5667,7 +5729,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193941,
       "name": "Pray For Real",
       "url": "https://open.spotify.com/track/62HxRvtceWrQ1HUEey0e7s"
@@ -5693,7 +5755,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 193941,
       "name": "Pray For Real",
       "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
@@ -6059,7 +6121,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 198591,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/0MxGwcdb4Ms0U7DvkJth2q"
@@ -6169,7 +6231,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102397,
       "name": "ROUND HERE (PART ONE)",
       "url": "https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw"
@@ -6960,6 +7022,24 @@
     },
     {
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5o1w7cbvZpFdp2JA8ZGxDR"
+      },
+      "artists": [
+        {
+          "name": "Dreamers",
+          "url": "https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175582,
+      "name": "That's What Happens",
+      "url": "https://open.spotify.com/track/5ArBOAx7lMlLd3NoM9BpzN"
+    },
+    {
+      "album": {
         "name": "The Call",
         "url": "https://open.spotify.com/album/5tfxqRohec6WiVOHYA6tHo"
       },
@@ -7147,7 +7227,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
@@ -7165,7 +7245,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187245,
       "name": "Toast - Remix",
       "url": "https://open.spotify.com/track/5Nc0d8sxVWjUoH85NuCiJU"
@@ -7883,7 +7963,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 157753,
       "name": "Woosah",
       "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
@@ -7905,7 +7985,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Wrist",
       "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"

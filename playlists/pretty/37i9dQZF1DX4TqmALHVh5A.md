@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : ELOI
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,585 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,596 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 16 | [Attitude](https://open.spotify.com/track/7x5V1JR3yO7QwpwuXOYQLC) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Attitude](https://open.spotify.com/album/7qYCBUiH3uVK3gNpusRZiF) | 2:29 |
 | 17 | [Resto Basket](https://open.spotify.com/track/3SdMH600ZTeaeSFcQuAxE6) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Resto Basket](https://open.spotify.com/album/6Tg1oD0Qo1hmVytzqvd96i) | 2:58 |
 | 18 | [KLNX](https://open.spotify.com/track/3ZBddPuRshTebTdeZNRRnr) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [KLNX](https://open.spotify.com/album/19VEDVCNaVICCxnjhCrCVm) | 3:30 |
-| 19 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 |
-| 20 | [Serpent Mental](https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Serpent Mental](https://open.spotify.com/album/4japQNj9fIt6eZo9673y1h) | 3:55 |
+| 19 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 |
+| 20 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 |
 | 21 | [The Mouse Song](https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [The Mouse Song](https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0) | 3:33 |
 | 22 | [Soustraction](https://open.spotify.com/track/6puJaBG3ECZSMWuICFDGIX) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [ADDITION / SOUSTRACTION](https://open.spotify.com/album/3rewEAyDU74VfTIqSmTBWk) | 4:00 |
 | 23 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Le saut du tigre](https://open.spotify.com/track/2HWc8pXCVL3D3INJshlyYp) | [Aquaserge](https://open.spotify.com/artist/1XOKresOiQtBmduOEskf4s) | [Le saut du tigre](https://open.spotify.com/album/66OhazmOAiQAUw4kJ3R7GN) | 3:10 |
 | 50 | [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 |
 
-Snapshot ID: `MTcxMzQ3NzYwMCwwMDAwMDAwMDU5YTFkOTEzYjFiNDQxYzI0ZjVmYTRkMjgzZTQyNmVl`
+Snapshot ID: `MTcxMzUxNzQzNywwMDAwMDAwMGFkNjU0MjU3MzE4M2ZkZTE2MTM3Yzk1ZWFlZDBlOTA3`

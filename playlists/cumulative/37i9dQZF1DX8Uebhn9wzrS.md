@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,916 songs - 3 day 0 hr 59 min
+1,919 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,7 +620,7 @@
 | [Fresh 6.8?](https://open.spotify.com/track/3ZMCgSjeIggizyg3820sFy) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Fresh 6.8?](https://open.spotify.com/album/3Me8pah3c60IidZI0R2EFs) | 2:02 | 2023-01-13 | 2023-11-25 |
 | [Fresh Air](https://open.spotify.com/track/1JAFfEsW0swrZtPdb9k0MJ) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Breathing](https://open.spotify.com/album/65lI5xnf571BWfFbwMu38f) | 2:32 | 2022-12-02 |  |
 | [fresh brew](https://open.spotify.com/track/0c2OGxZ5mUitYu0nClQBIW) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [fresh brew](https://open.spotify.com/album/2T1cSabDmh0KMDkZCGvo1S) | 2:13 | 2022-05-13 | 2022-11-12 |
-| [Fresh Convo](https://open.spotify.com/track/2TQPmHzg5IOKhACgEDBzOF) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Fresh Convo](https://open.spotify.com/album/1hPZP8aDlkBKhXW8vSa4EA) | 2:00 | 2023-03-08 |  |
+| [Fresh Convo](https://open.spotify.com/track/2TQPmHzg5IOKhACgEDBzOF) | [Robertson](https://open.spotify.com/artist/2EzlZPJxXWKsLlQBJUEw28) | [Fresh Convo](https://open.spotify.com/album/1hPZP8aDlkBKhXW8vSa4EA) | 2:00 | 2023-03-08 | 2024-04-20 |
 | [Fresh Juice](https://open.spotify.com/track/3jSI6gN3eD79IbszeAzwrc) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Fresh Juice](https://open.spotify.com/album/4r9rHIMUDLFi57P2aGanEZ) | 3:00 | 2022-11-11 | 2023-03-25 |
 | [Fresh Tires](https://open.spotify.com/track/6LLsU0zVgPcQKb7Rnf1MeV) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Fresh Tires](https://open.spotify.com/album/7oQp36kWOf04mfm2LLnSiO) | 2:33 | 2022-12-16 |  |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
@@ -930,7 +930,7 @@
 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 | 2024-03-08 |  |
 | [Listen](https://open.spotify.com/track/7qw7kzv9dioHte3XY5MVnJ) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Listen](https://open.spotify.com/album/3LsLzJIgkNTN7ZlelPGvj8) | 2:24 | 2023-03-08 | 2024-02-09 |
 | [lite](https://open.spotify.com/track/4IXfJbHFwjkDKLKBS9IZwK) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [lite](https://open.spotify.com/album/3pd6RWbrq8w1QzkrIPHXxJ) | 1:59 | 2023-12-15 |  |
-| [Little Did I Know](https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Little Did I Know](https://open.spotify.com/album/0N7Jz53U5I1wJfQ7tSDmVs) | 2:18 | 2023-12-22 |  |
+| [Little Did I Know](https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [Little Did I Know](https://open.spotify.com/album/0N7Jz53U5I1wJfQ7tSDmVs) | 2:18 | 2023-12-22 | 2024-04-20 |
 | [Little Gizmo](https://open.spotify.com/track/6esyeDe38f70UQ6SrwNqxB) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Little Gizmo](https://open.spotify.com/album/0MzAoikBA5kimZwGw4gBud) | 2:49 | 2024-01-12 |  |
 | [little pleasures](https://open.spotify.com/track/7oXwwzULPtCZHT7eCkXxIC) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [little pleasures](https://open.spotify.com/album/38FHCzF51Q9sSlIKQ7sHXC) | 2:02 | 2024-02-23 |  |
 | [Little Waves](https://open.spotify.com/track/6qo8HnjJda3Qmq7Rz9grjD) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Thomas Prime](https://open.spotify.com/artist/0g5fxcwv27dcy9iZz2GOq4) | [Little Waves](https://open.spotify.com/album/1o8d0S1TJQDDedjoZ64JQo) | 2:53 | 2022-04-22 | 2022-11-12 |
@@ -947,7 +947,7 @@
 | [Lofi Chills](https://open.spotify.com/track/5AIieq46ttlXzCUbbUSlfb) | [Faded Colors](https://open.spotify.com/artist/6mv2rXvtqW9ELifLRCPD3w), [Layers](https://open.spotify.com/artist/7DrYhFJgZejq1tztifxlU6) | [Lofi Chills](https://open.spotify.com/album/1AsxWsJiKbncVKzccKxeHX) | 2:36 | 2022-11-11 | 2023-03-25 |
 | [Lofi Dad Joke Aficionado](https://open.spotify.com/track/5b9pde7o6a43zLwuJQBivT) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL) | [Lofi Dad Joke Aficionado](https://open.spotify.com/album/5aWY8ART6X9meOmFdBGKhb) | 2:19 | 2022-04-15 | 2022-06-03 |
 | [lofi jam](https://open.spotify.com/track/7HQmkAioOUG8ZxPkfcEw5p) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [lofi jam](https://open.spotify.com/album/6dsQvoFTSMBp7e3rwyzWf6) | 2:19 | 2022-04-15 | 2022-08-19 |
-| [Lofi Love Letters](https://open.spotify.com/track/789uQasgZdah7LSojyotDI) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Lofi Love Letters](https://open.spotify.com/album/2CAnay3Wx9e0o1yrqthFDj) | 2:03 | 2024-01-19 |  |
+| [Lofi Love Letters](https://open.spotify.com/track/789uQasgZdah7LSojyotDI) | [Trixie](https://open.spotify.com/artist/3BHWIx02zIYjPsVrwJ9QYL) | [Lofi Love Letters](https://open.spotify.com/album/2CAnay3Wx9e0o1yrqthFDj) | 2:03 | 2024-01-19 | 2024-04-20 |
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2022-11-11 |  |
 | [London Calling](https://open.spotify.com/track/3Rma06ObNiWcTwDlClo1mB) | [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN) | [London Calling](https://open.spotify.com/album/4gBDKJ2HdnUqybh3Haqs8m) | 1:34 | 2022-12-16 | 2023-09-16 |
 | [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-06-06 |  |
@@ -1139,6 +1139,7 @@
 | [New Season](https://open.spotify.com/track/4KFkKyUl1er3ta67yoQHHz) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [New Season](https://open.spotify.com/album/6dE9jnDDLfbCkhCkbHp3W9) | 2:00 | 2023-11-24 |  |
 | [New Year](https://open.spotify.com/track/3EXgLJULkj8T7oAlCArdcf) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [New Year](https://open.spotify.com/album/5msYL3SaE47h6BQiAgFQX5) | 2:44 | 2023-01-20 | 2023-09-14 |
 | [New Years Day](https://open.spotify.com/track/2nkNmG4NpHxtgsWQM4fzqE) | [The Precocious Birds](https://open.spotify.com/artist/5oLT0V8Xp31OtLkLvUH07U) | [Brief Fantasies](https://open.spotify.com/album/6o1aWNPHo9fLuolkk0HvYH) | 2:39 | 2022-06-03 | 2022-11-12 |
+| [New York](https://open.spotify.com/track/3n3sAbq1sUfR3c7qHYZO7X) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [New York](https://open.spotify.com/album/6UJwDulNaShOPSZPznDisy) | 1:53 | 2024-04-12 |  |
 | [New York Morning](https://open.spotify.com/track/4QPZbcWaaode79SlVLjyMY) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [New York Morning](https://open.spotify.com/album/1yGL2kXS6iTmtuh4i4uFov) | 2:13 | 2022-11-18 | 2023-04-21 |
 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 | 2023-09-22 |  |
 | [Next Chapter](https://open.spotify.com/track/1iPLQ6VARP7lFaE45ezw3W) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Next Chapter](https://open.spotify.com/album/6P1Rhjg3KWMHTXPXzj9qtS) | 1:36 | 2022-04-15 | 2022-05-27 |
@@ -1595,6 +1596,7 @@
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 | 2022-11-26 |
 | [Sugah Kick](https://open.spotify.com/track/0jvBTSg9Rm8EDuhLg16f6N) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Plectrum](https://open.spotify.com/album/1zRI27Dk6Su1M9lvnrPYTo) | 2:08 | 2022-04-15 | 2022-10-14 |
 | [Sugar Kane](https://open.spotify.com/track/5eaN2h2Fzziw7l6XlnHcGb) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Sugar Kane](https://open.spotify.com/album/4Hhs2fheLvSYR9Ci4cRuOl) | 2:25 | 2023-06-06 |  |
+| [sultan](https://open.spotify.com/track/7uxWoUoWE3TEeofSKlCXDo) | [Trixpot](https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK) | [sultan](https://open.spotify.com/album/1umC63bOf9MCYZPHBKHjoA) | 2:26 | 2024-04-12 |  |
 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1kEdK5L1BLpMjtPu1gGxPI) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 | 2022-04-15 | 2022-10-01 |
 | [Summer Fling](https://open.spotify.com/track/025fnb5QpOzoJEIdUJhCIx) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Summer Fling](https://open.spotify.com/album/1Qr4i28xsPR7XtTHYTbMBH) | 2:08 | 2023-11-17 |  |
 | [Summer Haze](https://open.spotify.com/track/5CEC9H6oG7XGQvpPiXmTxt) | [analog tree](https://open.spotify.com/artist/3yfFEvqJTCbZ5VgH6yphFs), [Laure\-l](https://open.spotify.com/artist/7F4gUvRt2aQ3qznEzhUNv1) | [Summer Haze](https://open.spotify.com/album/4Z4Aw6mJ3AofuCNF3N2ZbB) | 1:51 | 2022-11-18 | 2022-12-03 |
@@ -1617,6 +1619,7 @@
 | [Sunflower Fields](https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunflower Fields](https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z) | 1:38 | 2023-03-24 | 2024-02-09 |
 | [Sunglasses](https://open.spotify.com/track/7B7DI99P9P2vK6Y7t8GqJL) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Sunglasses](https://open.spotify.com/album/0bidB45sL12fYqXsRRB2VU) | 2:01 | 2022-07-22 | 2022-08-19 |
 | [Sungold](https://open.spotify.com/track/3Q572SCyptN5irJMQQvjLK) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm) | [Sungold](https://open.spotify.com/album/1NbREtZqFQekpdFQWF0HIF) | 2:43 | 2022-06-03 | 2022-11-19 |
+| [Sunlight](https://open.spotify.com/track/5fjtH0fMWdYf7CAvibpNNp) | [Yuki Leopard](https://open.spotify.com/artist/5dtXDgpsb6cRaFZUm2rWbE) | [Sunlight](https://open.spotify.com/album/533UxdqUzpaIA0g55PmdgZ) | 2:26 | 2024-04-12 |  |
 | [sunny day dreaming](https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [sunny day dreaming](https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm) | 2:54 | 2024-01-05 |  |
 | [Sunny Memories](https://open.spotify.com/track/6SPFqeX7xcrFal3grZB46o) | [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Sunny Memories](https://open.spotify.com/album/5124khQQ3GQmWU1SKwZtyo) | 2:06 | 2022-07-22 | 2022-08-12 |
 | [Sunny Side Up](https://open.spotify.com/track/6dm7WJaojB6PoGbeSWCsZ7) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Sunny Side Up](https://open.spotify.com/album/2B3m5QghqotMLdgKYcMen0) | 2:02 | 2022-08-05 | 2022-11-12 |

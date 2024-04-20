@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 122431,
+  "2024-04-20": 122265,
   "date_first_scraped": "2024-01-21",
   "description": "\u5077\u7df4\u4e0d\u662f\u7f6a\u3001\u6296\u97f3\u7121\u6240\u8b02\u3001\u6700\u65b0\u66f2\u76ee\u8b93\u4f60\u5168\u53f0\u5305\u5ec2\u4efb\u610f\u8d70\u8df3\uff01",
   "name": "\u6211\u611b K \u6b4c",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313281,
       "name": "Love Me True",
       "url": "https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259053,
       "name": "Personal Angel",
       "url": "https://open.spotify.com/track/5zblxS4ZHlhsTR2LuwTwYh"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249903,
       "name": "Redbreast - Netflix Series \"Let's Talk About CHU\" Theme Song",
       "url": "https://open.spotify.com/track/2eHweJpHGYtp5BcBdx08k9"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245108,
       "name": "Who Doesn\u2019t Wanna",
       "url": "https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g"
@@ -1272,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "\u5ef6\u9577\u6bd4\u8cfd Keep Fighting",
+        "url": "https://open.spotify.com/album/3fh7kZ3pPBsEKH1m5aWVMN"
+      },
+      "artists": [
+        {
+          "name": "TANK \u5442\u5efa\u5fe0",
+          "url": "https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259053,
+      "name": "\u5c08\u5c6c\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/5hrPOTXZL5GPQDMZydBmon"
+    },
+    {
+      "album": {
         "name": "\u4eca\u5929\u5f88OK",
         "url": "https://open.spotify.com/album/3gllPSfbFAa7yk7PJGeODc"
       },
@@ -1614,6 +1632,24 @@
     },
     {
       "album": {
+        "name": "\u90fd\u662f\u56e0\u70ba\u611b",
+        "url": "https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg"
+      },
+      "artists": [
+        {
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313281,
+      "name": "\u6211\u5f88\u597d\u9a19",
+      "url": "https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO"
+    },
+    {
+      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
       },
@@ -1827,10 +1863,28 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
+    },
+    {
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
       "album": {
@@ -2310,6 +2364,24 @@
     },
     {
       "album": {
+        "name": "JUD \u9673\u6cf3\u5e0c \u9996\u5f35\u8ff7\u4f60\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/3wG4nyN6tc8sv61dWFbOh3"
+      },
+      "artists": [
+        {
+          "name": "JUD \u9673\u6cf3\u5e0c",
+          "url": "https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249903,
+      "name": "\u77e5\u66f4 (Netflix\u5f71\u96c6\u300a\u611b\u611b\u5167\u542b\u5149\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/4vydpYll42PEtZJnJIY4IM"
+    },
+    {
+      "album": {
         "name": "Am I Who I Am",
         "url": "https://open.spotify.com/album/4UNHITlg3vOCdwV2qMwwl1"
       },
@@ -2585,6 +2657,24 @@
       "duration_ms": 228413,
       "name": "\u8a8d\u611b",
       "url": "https://open.spotify.com/track/1FlxaEDo7hem6lCg7kmEIN"
+    },
+    {
+      "album": {
+        "name": "\u738b",
+        "url": "https://open.spotify.com/album/6dQdCtYPXh5uUDXvL5YEZn"
+      },
+      "artists": [
+        {
+          "name": "Yoga Lin",
+          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245108,
+      "name": "\u8ab0\u4e0d\u60f3",
+      "url": "https://open.spotify.com/track/5z8xJ7R5dlO2r9X2ioBBE3"
     },
     {
       "album": {

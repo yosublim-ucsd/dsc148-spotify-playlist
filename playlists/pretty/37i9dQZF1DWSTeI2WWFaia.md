@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,983 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,998 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 41 | [Griselda Express \(with Westside Gunn, Conway The Machine & Rick Hyde\)](https://open.spotify.com/track/3WanwKuwk826e61JQwejQQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Hyde](https://open.spotify.com/artist/5bgr1sPXFeiNuS4vARMZp1) | [Everybody Can't Go](https://open.spotify.com/album/13IanJ8zx7YcCJ5yIvArIq) | 5:45 |
 | 42 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 |
 | 43 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 |
-| 44 | [plz don’t cut my wings \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 3:38 |
-| 45 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
+| 44 | [Flavors of Karma](https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 4:34 |
+| 45 | [plz don’t cut my wings \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 3:38 |
 | 46 | [Daddy Kane \(feat\. Action Bronson\)](https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [The Elephant Man's Bones](https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf) | 2:54 |
 | 47 | [Instincts](https://open.spotify.com/track/7bA0Di2pbdscrttwpwrTjp) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Instincts](https://open.spotify.com/album/2lQfIDJwaRfrr5Hdty8Yv5) | 3:56 |
 | 48 | [Flow](https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8) | [Jourden](https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u) | [Flow](https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc) | 2:42 |

@@ -1,12 +1,12 @@
 {
   "description": "smooth drifting only",
-  "num_followers": 333717,
+  "num_followers": 334223,
   "original_name": "cosmic phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMTcyNzQwMCwwMDAwMDAwMDg5YTRjZWFmMmQ2MTg4MWQzNDcyYTY5Y2IwNzE0YWFi",
+  "snapshot_id": "MTcxMzU0Mzg2NiwwMDAwMDAwMDM1YjRiOTgwZTM3ZTk3Y2I5ZDY3MWQ3YzZjMzljMDMy",
   "tracks": [
     {
       "added_at": "2024-03-29 15:50:00",
@@ -111,6 +111,26 @@
       "duration_ms": 114105,
       "name": "NXSTY BLOOD",
       "url": "https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L"
+    },
+    {
+      "added_at": "2024-04-19 16:24:26",
+      "album": {
+        "name": "DETROIT",
+        "url": "https://open.spotify.com/album/7CXdMJp09lC15ESOZlHxbX"
+      },
+      "artists": [
+        {
+          "name": "ZODIVK",
+          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "HOSPICEMANE",
+          "url": "https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm"
+        }
+      ],
+      "duration_ms": 109776,
+      "name": "DETROIT",
+      "url": "https://open.spotify.com/track/5w3OUOof6tX2j6X89x0D7R"
     },
     {
       "added_at": "2024-03-29 15:50:00",
@@ -1315,22 +1335,6 @@
     {
       "added_at": "2024-03-29 15:50:00",
       "album": {
-        "name": "Ridge Crest",
-        "url": "https://open.spotify.com/album/4Rp8x8ZeJjVX0aQAnCGYNy"
-      },
-      "artists": [
-        {
-          "name": "dxprxsslve",
-          "url": "https://open.spotify.com/artist/61QWo0cPeQFZt2U1gEjyl9"
-        }
-      ],
-      "duration_ms": 172486,
-      "name": "Ridge Crest",
-      "url": "https://open.spotify.com/track/4wQG1yyeTSoDCppLzBXJ9m"
-    },
-    {
-      "added_at": "2024-03-29 15:50:00",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ"
       },
@@ -1679,6 +1683,22 @@
     {
       "added_at": "2024-03-29 15:50:00",
       "album": {
+        "name": "Sakura's Shadows",
+        "url": "https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH"
+      },
+      "artists": [
+        {
+          "name": "my!lane",
+          "url": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or"
+        }
+      ],
+      "duration_ms": 163829,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI"
+    },
+    {
+      "added_at": "2024-03-29 15:50:00",
+      "album": {
         "name": "SUICIDE YEAR",
         "url": "https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1"
       },
@@ -1779,22 +1799,6 @@
       "duration_ms": 206889,
       "name": "Spacewave",
       "url": "https://open.spotify.com/track/2WzK3sBkdRm0VvfSKJjXCu"
-    },
-    {
-      "added_at": "2024-03-29 15:50:00",
-      "album": {
-        "name": "Sakura's Shadows",
-        "url": "https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH"
-      },
-      "artists": [
-        {
-          "name": "my!lane",
-          "url": "https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or"
-        }
-      ],
-      "duration_ms": 163829,
-      "name": "This Feeling",
-      "url": "https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI"
     }
   ],
   "unique_name": "cosmic phonk",

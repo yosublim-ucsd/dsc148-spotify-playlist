@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4829,
+  "2024-04-20": 4830,
   "date_first_scraped": "2022-01-10",
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois en 2022. Photo: Loud #SpotifyWrapped",
   "name": "Le meilleur du rap qu\u00e9b\u00e9cois 2022",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162778,
       "name": "3 accords",
       "url": "https://open.spotify.com/track/1zqx1XQ2k1nuIHVA8KDY5J"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 162778,
       "name": "3 accords",
       "url": "https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146400,
       "name": "Mauvaise Humeur",
       "url": "https://open.spotify.com/track/46lwu7OK2U1p7F4Y649MvX"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 146400,
       "name": "Mauvaise Humeur",
       "url": "https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat"
@@ -1625,7 +1625,7 @@
     {
       "album": {
         "name": "Aucune promesse",
-        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+        "url": "https://open.spotify.com/album/2OZKGU45NHYs64Tq0N0Vcg"
       },
       "artists": [
         {
@@ -1640,6 +1640,28 @@
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Rien de moins",
+      "url": "https://open.spotify.com/track/6xT4dYDyyiBCOqMdxCrCUR"
+    },
+    {
+      "album": {
+        "name": "Aucune promesse",
+        "url": "https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 174067,
       "name": "Rien de moins",
       "url": "https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0"

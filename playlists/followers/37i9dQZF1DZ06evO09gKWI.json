@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 331,
+  "2024-04-20": 331,
   "date_first_scraped": "2023-12-31",
   "description": "This is Bivolt. The essential tracks, all in one playlist.",
   "name": "This Is Bivolt",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 194413,
       "name": "Dose Dupla",
       "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 156288,
       "name": "M\u00fasica Vai Transmitir - Ao Vivo",
       "url": "https://open.spotify.com/track/3mSUoylWBqxtmpkCxgqcsO"

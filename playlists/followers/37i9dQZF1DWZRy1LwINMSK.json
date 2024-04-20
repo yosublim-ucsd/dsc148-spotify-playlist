@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 107483,
+  "2024-04-20": 107479,
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Lleflight.",
+  "description": "La casa del trap chileno al mando de Tobal Mj, Cris Mj & Kail BRL.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -795,7 +795,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196694,
       "name": "Como Lo So\u00f1amos",
       "url": "https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198000,
       "name": "Como Lo So\u00f1amos",
       "url": "https://open.spotify.com/track/5XrnoEO5tgKrpg2jLFoglw"
@@ -919,6 +919,28 @@
       "duration_ms": 241495,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/4eMRhv8upvXUYIEytqTFCT"
+    },
+    {
+      "album": {
+        "name": "Diabla Llorens",
+        "url": "https://open.spotify.com/album/12V54VE5FmoOcq2QWLv9Jn"
+      },
+      "artists": [
+        {
+          "name": "Bby Sowl",
+          "url": "https://open.spotify.com/artist/2d0aBDmcK49NFCgnMI6BIR"
+        },
+        {
+          "name": "Tito Heiz",
+          "url": "https://open.spotify.com/artist/4tZ34WhdturpNq5tUNUwe6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178071,
+      "name": "Diabla Llorens",
+      "url": "https://open.spotify.com/track/3ZKCz9ugdd2Tk5Ji7m7RLA"
     },
     {
       "album": {
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247015,
       "name": "Fondo de Bikini",
       "url": "https://open.spotify.com/track/68Jl8FraBQ5spMGFbZMQNG"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 247015,
       "name": "Fondo de Bikini",
       "url": "https://open.spotify.com/track/7tzj3k0Qm2g5oeD6TVdyoC"
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176678,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/1OIKecKxcQVrVUdtEbI8EP"
@@ -1827,7 +1849,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 176678,
       "name": "Intuici\u00f3n",
       "url": "https://open.spotify.com/track/2W5Wn1uCzCe198G4YQCFYc"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362281,
       "name": "Like Boss - Remix (feat. Duki, Bizarrap, Akapellah, Polima Westcoast, Moonkey, Zanto, Santoz)",
       "url": "https://open.spotify.com/track/2H2pkZBzWDX2TzGW7sp014"
@@ -2337,7 +2359,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144466,
       "name": "MaMa",
       "url": "https://open.spotify.com/track/3bOawk8qClklX3sEhefu96"
@@ -2355,7 +2377,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-27",
+      "date_removed": null,
       "duration_ms": 144466,
       "name": "MaMa",
       "url": "https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe"
@@ -2635,7 +2657,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 232320,
       "name": "Mi Trap",
       "url": "https://open.spotify.com/track/1ClVzLNM120B8JIWs6aF1x"
@@ -2661,7 +2683,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232320,
       "name": "Mi Trap",
       "url": "https://open.spotify.com/track/1GWETx8pAGHNXYsLyB1asj"
@@ -2749,7 +2771,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167991,
       "name": "Mode On, Marcianeke #05",
       "url": "https://open.spotify.com/track/6aFtRDWUyybfR3578mB3Bv"
@@ -3419,7 +3441,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 178646,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/4KjGQAOF88wve6WeVu5hhD"
@@ -3445,10 +3467,36 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178646,
       "name": "Pretty Face",
       "url": "https://open.spotify.com/track/4ph3KcM6ofrigPKpb6mNY6"
+    },
+    {
+      "album": {
+        "name": "Que Brille Sola Mami",
+        "url": "https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC"
+      },
+      "artists": [
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kail BRL",
+          "url": "https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195004,
+      "name": "Que Brille Sola Mami",
+      "url": "https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob"
     },
     {
       "album": {
@@ -3891,7 +3939,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "Sismo",
       "url": "https://open.spotify.com/track/12k3cUC5NGSljgZKZTyv8R"
@@ -3913,7 +3961,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157674,
       "name": "Sismo",
       "url": "https://open.spotify.com/track/43Ck3mpcuSWeTQZPRDF4KU"
@@ -4539,7 +4587,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 161606,
       "name": "VIBRANDO ALTO",
       "url": "https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu"
@@ -4561,7 +4609,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161606,
       "name": "VIBRANDO ALTO",
       "url": "https://open.spotify.com/track/7rBe1bOi4uR0Vy7AwpRDpZ"
@@ -4579,7 +4627,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154991,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd"
@@ -4597,7 +4645,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154991,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
@@ -4695,7 +4743,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182892,
       "name": "Vivo Como Quiero",
       "url": "https://open.spotify.com/track/7JK8Z5ETSuzCaEW2SkQhV4"
@@ -4717,7 +4765,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183050,
       "name": "Vivo Como Quiero",
       "url": "https://open.spotify.com/track/4Zop3VgmXAkUXqzNZqqOzn"
@@ -4773,7 +4821,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223020,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu"
@@ -4799,7 +4847,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223020,
       "name": "V\u00e1monos (feat. Nfx & DrefQuila)",
       "url": "https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV"

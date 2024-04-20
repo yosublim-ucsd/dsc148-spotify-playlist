@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 49078,
+  "2024-04-20": 49131,
   "date_first_scraped": "2023-02-25",
   "description": "feel the wind in your hair with these rock favorites, new and old.",
   "name": "Easy Rider",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308120,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "album": {
+        "name": "The Essential Blue \u00d6yster Cult",
+        "url": "https://open.spotify.com/album/6NNrQJ8ojvbfFzoUjjABo4"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308640,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/2NL4BBBSgypHnxUKmQdYcT"
     },
     {
       "album": {
@@ -219,7 +237,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204521,
       "name": "Everybody's Gotta Live",
       "url": "https://open.spotify.com/track/53KaWf8R44BwbEwKEkvlUq"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 204521,
       "name": "Everybody\u2019s Gotta Live",
       "url": "https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb"
@@ -417,10 +435,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182800,
       "name": "I Saw the Light",
       "url": "https://open.spotify.com/track/0B1zVsLqmV9ibIFdNS5tGs"
+    },
+    {
+      "album": {
+        "name": "Definitive Rock: Todd Rundgren",
+        "url": "https://open.spotify.com/album/6N9UA60fsFnP4gHoyQwgJE"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176653,
+      "name": "I Saw the Light - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2QNMAvCnpIN6P43f8HPKp1"
     },
     {
       "album": {
@@ -735,6 +771,24 @@
     {
       "album": {
         "name": "No Other",
+        "url": "https://open.spotify.com/album/5pCs9qZgw8VCzahyfAgiio"
+      },
+      "artists": [
+        {
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308533,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/5neFHiejZX5OmTD5ZtJexC"
+    },
+    {
+      "album": {
+        "name": "No Other",
         "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
       "artists": [
@@ -745,7 +799,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308533,
       "name": "No Other",
       "url": "https://open.spotify.com/track/6gzhmgjSvFuwTLc6XyRv2Q"
@@ -914,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+    },
+    {
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -925,7 +997,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"

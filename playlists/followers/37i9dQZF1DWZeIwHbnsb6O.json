@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 277732,
+  "2024-04-20": 277449,
   "date_first_scraped": "2023-12-19",
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos",
   "name": "Los 70 M\u00e9xico",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/01ZWyUUyY8keELL1LdSjwf"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218013,
+      "name": "Al Final",
+      "url": "https://open.spotify.com/track/6J3qAoV9V326KU29uHLr2B"
+    },
+    {
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220466,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/3yeT1oIBRGuEhOb3OCvL2z"
@@ -96,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Puro Rock (CD1)",
+        "url": "https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274720,
+      "name": "Ciudad Perdida",
+      "url": "https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1"
+    },
+    {
+      "album": {
         "name": "Roma (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3fbJSth7xYdLAphGOSqJl5"
       },
@@ -107,7 +143,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277000,
       "name": "Ciudad Perdida",
       "url": "https://open.spotify.com/track/0lywm4XToptnQjfpzS9vks"
@@ -133,7 +169,7 @@
     {
       "album": {
         "name": "Las Mejores Rondallas de Mexico",
-        "url": "https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp"
+        "url": "https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q"
       },
       "artists": [
         {
@@ -144,6 +180,24 @@
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Corazon de roca",
+      "url": "https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI"
+    },
+    {
+      "album": {
+        "name": "Las Mejores Rondallas de Mexico",
+        "url": "https://open.spotify.com/album/1wRZWdP0gam1RChALjDjGp"
+      },
+      "artists": [
+        {
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 176404,
       "name": "Corazon de Roca",
       "url": "https://open.spotify.com/track/1zdYTb2KOgrdp0MPlcHyCl"
@@ -179,10 +233,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144866,
       "name": "De Vez En Vez",
       "url": "https://open.spotify.com/track/5J3Mje9KE1dr42oVpe1QNn"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/34FPXkANKuTO0ZixD9fqrm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "De Vez En Vez",
+      "url": "https://open.spotify.com/track/49crz2PzxM5sy8aFeVIWDM"
     },
     {
       "album": {
@@ -251,10 +323,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "album": {
+        "name": "Brillantes - Jose Jose",
+        "url": "https://open.spotify.com/album/3olQZ2Bjes0ujqc3aVvWYI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/3O0VgO1XOxiJSQnThWWPv3"
     },
     {
       "album": {
@@ -359,10 +449,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176560,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
+    },
+    {
+      "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/29gcpcXiLczD2NJS34YdLg"
     },
     {
       "album": {
@@ -402,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop"
+      },
+      "artists": [
+        {
+          "name": "Pedrito Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166160,
+      "name": "La de la Mochila Azul",
+      "url": "https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j"
+    },
+    {
+      "album": {
         "name": "Serie De Coleccion 15 Autenticos Exitos",
         "url": "https://open.spotify.com/album/3Lz4uqn0OvbBvwhmxtB1gS"
       },
@@ -413,10 +539,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166693,
       "name": "La de la Mochila Azul - Tema Remasterizado",
       "url": "https://open.spotify.com/track/5WrWZ1ptm6FRtLyVgr9Bf2"
+    },
+    {
+      "album": {
+        "name": "Tesoros De Coleccion - Gualberto Castro",
+        "url": "https://open.spotify.com/album/1larO2IxJUB00ju9MTGTfv"
+      },
+      "artists": [
+        {
+          "name": "Gualberto Castro",
+          "url": "https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "La Felicidad",
+      "url": "https://open.spotify.com/track/4HfazXWeoXF1Tg4IRQUz7U"
     },
     {
       "album": {
@@ -431,7 +575,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212960,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/2vVqZQifzXZY6j3buwnhPC"
@@ -457,7 +601,7 @@
     {
       "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
-        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
+        "url": "https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA"
       },
       "artists": [
         {
@@ -468,9 +612,45 @@
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg"
+    },
+    {
+      "album": {
+        "name": "Rock, Balada y Sentimiento, Vol. I",
+        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 199262,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
+    },
+    {
+      "album": {
+        "name": "Los Nenes con Los Nenes",
+        "url": "https://open.spotify.com/album/1VFwdg4Yzw62omxQ7ose4t"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161786,
+      "name": "Los nenes con los nenes",
+      "url": "https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH"
     },
     {
       "album": {
@@ -485,7 +665,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161985,
       "name": "Los Nenes Con los Nenes",
       "url": "https://open.spotify.com/track/6naFSjDQESFuw9Hv7v2ZOd"
@@ -546,6 +726,24 @@
     },
     {
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231760,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Rom\u00e1nticos (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL"
       },
@@ -557,7 +755,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234493,
       "name": "Mi Forma De Sentir",
       "url": "https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd"
@@ -665,10 +863,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185186,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/00rGmWgFkJ3qBnbAVUr8tj"
+    },
+    {
+      "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
     },
     {
       "album": {
@@ -726,6 +942,24 @@
     },
     {
       "album": {
+        "name": "Sucesos Musicales",
+        "url": "https://open.spotify.com/album/55AnSsIpBATUlxZoPSiqC5"
+      },
+      "artists": [
+        {
+          "name": "Los Chicanos",
+          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Puente de Piedra",
+      "url": "https://open.spotify.com/track/1IXYAbCJ860RFdYgnse2FD"
+    },
+    {
+      "album": {
         "name": "Los Chicanos",
         "url": "https://open.spotify.com/album/3IKNnCogFvXlBdnwcN6uWW"
       },
@@ -737,7 +971,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221493,
       "name": "Puente de Piedra",
       "url": "https://open.spotify.com/track/2zGV8MKVGeTwfG3TF0OIWt"
@@ -755,10 +989,46 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291053,
       "name": "Que Alegre Va Mar\u00eda",
       "url": "https://open.spotify.com/track/50TLovGoqCAnyHj4k7Y7r4"
+    },
+    {
+      "album": {
+        "name": "Que Alegre Va Mar\u00eda",
+        "url": "https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN"
+      },
+      "artists": [
+        {
+          "name": "Imelda Miller",
+          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292506,
+      "name": "Que Alegre Va Mar\u00eda",
+      "url": "https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF"
+    },
+    {
+      "album": {
+        "name": "Los Joao - Quedate",
+        "url": "https://open.spotify.com/album/2ZcSYMy0gzMQjSnT3PVNJL"
+      },
+      "artists": [
+        {
+          "name": "Los Jo\u00e3o",
+          "url": "https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214854,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/6eyWgog31WtU2IG1irXU9l"
     },
     {
       "album": {
@@ -791,7 +1061,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214854,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/7yPWpgmpZfP4xKf5PMjXNm"
@@ -816,6 +1086,24 @@
     },
     {
       "album": {
+        "name": "Las N\u00famero 1 de Manoella Torres",
+        "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/1qIlPTAcSHD6MJTr4qIJJr"
+    },
+    {
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -827,7 +1115,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197360,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
@@ -953,10 +1241,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235400,
       "name": "Una L\u00e1grima - Una Lacrima",
       "url": "https://open.spotify.com/track/2eO8p7beidTFpSGhwaexwJ"
+    },
+    {
+      "album": {
+        "name": "Las Numero 1 De Estela Nu\u00f1ez",
+        "url": "https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq"
+      },
+      "artists": [
+        {
+          "name": "Estela Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Una L\u00e1grima - Una Lacrima",
+      "url": "https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5"
     },
     {
       "album": {
@@ -989,10 +1295,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231493,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/4rEybMVb5H7glCSbezlEAL"
+    },
+    {
+      "album": {
+        "name": "Simplemente Lo Mejor...Victor Yturbe \"El Piruli\"",
+        "url": "https://open.spotify.com/album/7uifn5SvzCTCMffh4u7n8o"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231040,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/6V13qiStrqVyBnbK9QSZlI"
     },
     {
       "album": {
@@ -1025,10 +1349,46 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184813,
       "name": "Vive",
       "url": "https://open.spotify.com/track/4YTsQ1axezXF9S6DmX45LS"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/34FPXkANKuTO0ZixD9fqrm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/0pJdq9MuSNqcGzFaZBDDMr"
+    },
+    {
+      "album": {
+        "name": "Historia De Un Idolo Vol.II",
+        "url": "https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Volver Volver",
+      "url": "https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4"
     },
     {
       "album": {
@@ -1043,10 +1403,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180733,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    },
+    {
+      "album": {
+        "name": "Diego Verdaguer En Los 70's",
+        "url": "https://open.spotify.com/album/4v8s9F4HZ0fPMLa5sHj0yp"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0ccJhHqaQM1SzA7xVA4Mqi"
     },
     {
       "album": {
@@ -1061,10 +1439,28 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242253,
       "name": "Volver\u00e9",
       "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
+    },
+    {
+      "album": {
+        "name": "Que Alegre Va Mar\u00eda",
+        "url": "https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9"
+      },
+      "artists": [
+        {
+          "name": "Imelda Miller",
+          "url": "https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J"
+        }
+      ],
+      "date_added": "2019-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163706,
+      "name": "Voy a Rifar Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n"
     },
     {
       "album": {
@@ -1079,7 +1475,7 @@
       ],
       "date_added": "2019-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164720,
       "name": "Voy a Rifar Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4IAL8at0FaflOwRM50fkh9"

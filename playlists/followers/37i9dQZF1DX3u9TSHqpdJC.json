@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 209144,
+  "2024-04-20": 209110,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Maryon. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Brooke Daya. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144187,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/5cyeEMdqMmg0epS1laIYIE"
@@ -10067,7 +10067,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
@@ -10139,7 +10139,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163093,
       "name": "City",
       "url": "https://open.spotify.com/track/67upU8uOiheMRpgYK6Ru8W"
@@ -11225,7 +11225,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243762,
       "name": "Control",
       "url": "https://open.spotify.com/track/10okvnC1neFd2vqHvbPS6R"
@@ -16845,7 +16845,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179313,
       "name": "Everything's Not Fine",
       "url": "https://open.spotify.com/track/6fvFzv3h94tKr9SWhR6SSh"
@@ -23026,6 +23026,24 @@
     },
     {
       "album": {
+        "name": "He's Dancing So Well (I'm Better)",
+        "url": "https://open.spotify.com/album/7J738KJmycLtjRfN2Uk9FQ"
+      },
+      "artists": [
+        {
+          "name": "Asbj\u00f8rn",
+          "url": "https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180394,
+      "name": "He's Dancing So Well (I'm Better)",
+      "url": "https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG"
+    },
+    {
+      "album": {
         "name": "head games",
         "url": "https://open.spotify.com/album/3hAzpPsTEScYjhjAvSUwGH"
       },
@@ -23081,6 +23099,24 @@
       "duration_ms": 175853,
       "name": "Headfirst",
       "url": "https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X"
+    },
+    {
+      "album": {
+        "name": "Healing Out of Spite",
+        "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
+      },
+      "artists": [
+        {
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "Healing Out of Spite",
+      "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
       "album": {
@@ -24702,6 +24738,24 @@
     },
     {
       "album": {
+        "name": "homesafe",
+        "url": "https://open.spotify.com/album/4Ro0WlwVoDM1IxXRurXrRn"
+      },
+      "artists": [
+        {
+          "name": "VIBI",
+          "url": "https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185676,
+      "name": "homesafe",
+      "url": "https://open.spotify.com/track/7e98b6waQfERo4LvxLBhmW"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/1VTRh2Zyf3YNvchEOT7T31"
       },
@@ -26073,7 +26127,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239154,
       "name": "I Dated A Monster",
       "url": "https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK"
@@ -32326,6 +32380,24 @@
     },
     {
       "album": {
+        "name": "Live Or Die",
+        "url": "https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx"
+      },
+      "artists": [
+        {
+          "name": "Brooke Daye",
+          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151314,
+      "name": "Live Or Die",
+      "url": "https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt"
+    },
+    {
+      "album": {
         "name": "Livin' Without",
         "url": "https://open.spotify.com/album/0RtjJUKs3Wg873NHAjVf9L"
       },
@@ -35091,7 +35163,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/0882GzD9srKQG4CvIWWbWo"
@@ -36707,7 +36779,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/0lejxzLZHbUC3reBoa3Zk9"
@@ -36725,7 +36797,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206042,
       "name": "Moon Girl",
       "url": "https://open.spotify.com/track/7nJtQwoQ6k1SEaNRW3cmUn"
@@ -37723,7 +37795,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186254,
       "name": "Nature Song",
       "url": "https://open.spotify.com/track/05VJciw9yX9yDVTyBEWWqv"
@@ -40446,6 +40518,24 @@
     },
     {
       "album": {
+        "name": "Only Like A Woman Can",
+        "url": "https://open.spotify.com/album/7HPYbwTJxyeDg6ldeI0YII"
+      },
+      "artists": [
+        {
+          "name": "Lily Papas",
+          "url": "https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218559,
+      "name": "Only Like A Woman Can",
+      "url": "https://open.spotify.com/track/6RXwegAIYne5TgA7Vf6A5n"
+    },
+    {
+      "album": {
         "name": "Only One on Earth",
         "url": "https://open.spotify.com/album/3RySD1bu8wmJDRKcOoD8wj"
       },
@@ -41896,6 +41986,24 @@
     },
     {
       "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/5XjFDl6uxHa69kd2fW40hr"
+      },
+      "artists": [
+        {
+          "name": "Fraser Churchill",
+          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/1LtNEYgneVIjcl9Kcu231Q"
+    },
+    {
+      "album": {
         "name": "Emerald Year",
         "url": "https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR"
       },
@@ -43201,6 +43309,24 @@
       "duration_ms": 138621,
       "name": "pretty",
       "url": "https://open.spotify.com/track/5Lz5Uinbzye5zMLt7HZoma"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4etUDQRuWlkbZpGUvGayPe"
+      },
+      "artists": [
+        {
+          "name": "Maggie Ries",
+          "url": "https://open.spotify.com/artist/07n13C6YYI7HZbMmrV1ON4"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136829,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/7jkLkvAvKIftqUsR4fU6wL"
     },
     {
       "album": {
@@ -44611,6 +44737,24 @@
       "duration_ms": 215000,
       "name": "Red Light",
       "url": "https://open.spotify.com/track/5KFoSLKurNj8vc9AitjmSg"
+    },
+    {
+      "album": {
+        "name": "Red Sleeves",
+        "url": "https://open.spotify.com/album/6cIihd51u6nEiMslbVYROm"
+      },
+      "artists": [
+        {
+          "name": "MAIH",
+          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Red Sleeves",
+      "url": "https://open.spotify.com/track/1Qqdue32M5hZRxrqXtPCbu"
     },
     {
       "album": {
@@ -48443,7 +48587,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177534,
       "name": "Sinister",
       "url": "https://open.spotify.com/track/5g3VLhRVLUpWJghanBJkMm"
@@ -52501,6 +52645,24 @@
       "duration_ms": 181569,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/2y80GJZFZE3vdd63XXuiW4"
+    },
+    {
+      "album": {
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/4rQGjmvmaINePcD10QJerM"
+      },
+      "artists": [
+        {
+          "name": "Joe Serafini",
+          "url": "https://open.spotify.com/artist/6fu9TecMw6TInkRRyXObeu"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180374,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/0u8ZnR82n2uZJJMiRZjnhz"
     },
     {
       "album": {

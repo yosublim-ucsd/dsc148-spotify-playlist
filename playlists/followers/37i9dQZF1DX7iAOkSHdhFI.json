@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 18098,
+  "2024-04-20": 18091,
   "date_first_scraped": "2022-05-15",
   "description": "The rise of the world's most influential punk band.",
   "name": "Green Day: The Early Years",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138296,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/2KBVzYt6iS1drCaSiBzPb2"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138296,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/3k1Eq5tlk7Gi22DtWicYFi"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244722,
       "name": "She",
       "url": "https://open.spotify.com/track/3MSHU8LTXUFf5GvDeDJnco"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244722,
       "name": "She",
       "url": "https://open.spotify.com/track/6u9WQNDUbBrJHcGrPKI76U"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230097,
       "name": "Welcome To Paradise",
       "url": "https://open.spotify.com/track/1XN6GUhNfKeOacK2Gj8mJD"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2017-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230097,
       "name": "Welcome To Paradise",
       "url": "https://open.spotify.com/track/7H3X9tX72Mr7TjxpqxSo0P"

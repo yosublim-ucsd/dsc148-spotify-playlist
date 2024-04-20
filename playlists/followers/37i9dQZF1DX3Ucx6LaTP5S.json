@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 246687,
+  "2024-04-20": 246650,
   "date_first_scraped": "2022-04-20",
   "description": "It's a good day to be a My Day!",
   "name": "This Is DAY6",
@@ -17,14 +17,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188204,
       "name": "1 to 10",
       "url": "https://open.spotify.com/track/47xwbgURPngE5yMhKBi50z"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -35,7 +35,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 188204,
       "name": "1 to 10",
       "url": "https://open.spotify.com/track/5rzsyz15ulv7yJykUxRJrj"
@@ -53,14 +53,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194386,
       "name": "121U",
       "url": "https://open.spotify.com/track/2KtZbv3i7eobJwLc8enieR"
     },
     {
       "album": {
-        "name": "Remember Us : Youth Part 2",
+        "name": "Remember Us : Youth, Pt. 2",
         "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
       },
       "artists": [
@@ -71,7 +71,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 194386,
       "name": "121U",
       "url": "https://open.spotify.com/track/6KyMCzvrP5pGHFS1LgBaKZ"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173419,
       "name": "365247",
       "url": "https://open.spotify.com/track/1lPpLrtNooA16XuDQ9MRyf"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 173419,
       "name": "365247",
       "url": "https://open.spotify.com/track/6y722oXVv5JxS8aUuogxV5"
@@ -125,14 +125,14 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258052,
       "name": "above the clouds",
       "url": "https://open.spotify.com/track/1yK3UpUUace4yhFFL1uaHp"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 258052,
       "name": "above the clouds",
       "url": "https://open.spotify.com/track/4rChXUoYp281MB2tPL4vMm"
@@ -161,14 +161,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212878,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/3mdbuqdxMNoVf2GPZrUcEF"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -179,10 +179,28 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 212878,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/4IIzisEAQJ0pDkvHChn9O4"
+    },
+    {
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224198,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/322t99AIkTbD4lew9tvdgs"
     },
     {
       "album": {
@@ -197,7 +215,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224198,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/7BJC522RfQFAGvYBksR78F"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 195502,
       "name": "all the things you wanted",
       "url": "https://open.spotify.com/track/0RAhlLRonolyLi2zAcFc7t"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195502,
       "name": "all the things you wanted",
       "url": "https://open.spotify.com/track/52whWw3KoBFHATz8sHoPPU"
@@ -251,14 +269,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208736,
       "name": "Beautiful Feeling",
       "url": "https://open.spotify.com/track/54RGYiFHPPeM9IrflosXb0"
     },
     {
       "album": {
-        "name": "Remember Us : Youth Part 2",
+        "name": "Remember Us : Youth, Pt. 2",
         "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
       },
       "artists": [
@@ -269,7 +287,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 208736,
       "name": "Beautiful Feeling",
       "url": "https://open.spotify.com/track/5Sl8fL5jXQiH0uwgyTIX0B"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221368,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/5gBMDX31s0uvslfUtMLHKV"
@@ -305,7 +323,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 221368,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/7wPKlkoPDyeDcMpaGizvDk"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196262,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W"
@@ -341,7 +359,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196285,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/2rbfCOgXMPoBLBrK2wLX5K"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257130,
       "name": "Colors",
       "url": "https://open.spotify.com/track/48y8hqLMxYtKYwroWqdkts"
@@ -377,7 +395,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 257130,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49rRoH4DZcUlbeBQlDgN8c"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 229293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/5dhZMPumW81ipov9bpz6nu"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206431,
       "name": "Cover",
       "url": "https://open.spotify.com/track/6U6qCPRJfahTspeXjgCSSH"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 206431,
       "name": "Cover",
       "url": "https://open.spotify.com/track/7MvhufnZEiAsf2x45ZK3MR"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 223190,
       "name": "DANCE DANCE",
       "url": "https://open.spotify.com/track/30LuvfdiCtpw7Tki3PmkBb"
@@ -485,14 +503,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223190,
       "name": "DANCE DANCE",
       "url": "https://open.spotify.com/track/6DYkLt9JPsf3obewkAnamY"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -503,7 +521,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 204997,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/5Ld7wZn4IYCVa4sgsAB9Ft"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204997,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/5q8jQnweIge2tgVP86hdfu"
@@ -539,10 +557,28 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205149,
       "name": "days gone by",
       "url": "https://open.spotify.com/track/3E1Z2J1Q0pcAl1EPpzvR9Z"
+    },
+    {
+      "album": {
+        "name": "Remember Us : Youth, Pt. 2",
+        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205149,
+      "name": "days gone by",
+      "url": "https://open.spotify.com/track/5vubdGDI1f6Dgq8l9kYOXV"
     },
     {
       "album": {
@@ -557,7 +593,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 227143,
       "name": "Deep in love",
       "url": "https://open.spotify.com/track/0DzB1tFmtrW5PU8tX9XijW"
@@ -575,7 +611,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227143,
       "name": "Deep in love",
       "url": "https://open.spotify.com/track/6sL4EWcNio9C5N8x4DgcXu"
@@ -611,14 +647,14 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209779,
       "name": "everyday we fight",
       "url": "https://open.spotify.com/track/4CimQqD7nmLNIEQFBwaoiJ"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -629,7 +665,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 209779,
       "name": "everyday we fight",
       "url": "https://open.spotify.com/track/7HRJoeFhdhM0Ukv026dgAA"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 207808,
       "name": "For me",
       "url": "https://open.spotify.com/track/4VA4px7fJHnQfR0IND4obq"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207808,
       "name": "For me",
       "url": "https://open.spotify.com/track/6PziemkTNAmPuSYezhlvXt"
@@ -701,7 +737,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 189786,
       "name": "from the ending of a tragedy",
       "url": "https://open.spotify.com/track/4M6jP0RbcvSg14eL4RrsaS"
@@ -719,7 +755,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189786,
       "name": "from the ending of a tragedy",
       "url": "https://open.spotify.com/track/7rfyK5CqNvDHC4EtZ0hfuE"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187320,
       "name": "Goodbye Winter",
       "url": "https://open.spotify.com/track/30HClBbNNXeXezYzJzjT6e"
@@ -773,9 +809,9 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 187320,
-      "name": "Goodbye winter",
+      "name": "Goodbye Winter",
       "url": "https://open.spotify.com/track/6cf0GCjuqAwlfFDrNLlhtw"
     },
     {
@@ -791,7 +827,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197605,
       "name": "Guard You",
       "url": "https://open.spotify.com/track/4niblKZlhxVGqovEBCJbWZ"
@@ -834,8 +870,8 @@
     },
     {
       "album": {
-        "name": "Remember Us : Youth Part 2",
-        "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
+        "name": "Remember Us : Youth, Pt. 2",
+        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
       },
       "artists": [
         {
@@ -848,11 +884,29 @@
       "date_removed": null,
       "duration_ms": 177557,
       "name": "Headache",
+      "url": "https://open.spotify.com/track/04XmAoRBg3oZdc3cMb52iJ"
+    },
+    {
+      "album": {
+        "name": "Remember Us : Youth Part 2",
+        "url": "https://open.spotify.com/album/6UyeGSJoWaTCDXunoimIoh"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 177557,
+      "name": "Headache",
       "url": "https://open.spotify.com/track/4NgOXJPLmX1X2iYOYHihFc"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -863,7 +917,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 227185,
       "name": "Healer",
       "url": "https://open.spotify.com/track/3LPGSFnV3zANLiXQiQGjOx"
@@ -881,7 +935,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227185,
       "name": "Healer",
       "url": "https://open.spotify.com/track/7kC5Q1Ai6RSshkuFXCcsMG"
@@ -899,7 +953,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232041,
       "name": "Hi Hello",
       "url": "https://open.spotify.com/track/0zDnaAWKRpibCTuSNHT8yL"
@@ -917,7 +971,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 232041,
       "name": "Hi Hello",
       "url": "https://open.spotify.com/track/5nd63yWhfWq5VKX7r6aFMI"
@@ -935,7 +989,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 202606,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/3XLWCoZubMt1WPp7TmSNAP"
@@ -953,7 +1007,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202606,
       "name": "Home Alone",
       "url": "https://open.spotify.com/track/5X4AFw9JSedXacca9Y5bMO"
@@ -971,7 +1025,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 201848,
       "name": "How Can I Say",
       "url": "https://open.spotify.com/track/3lUTXq1JLSDQX4qBRHMBdU"
@@ -989,7 +1043,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201848,
       "name": "How Can I Say",
       "url": "https://open.spotify.com/track/5VerWktMK3SgtSbcMJXeXG"
@@ -1007,7 +1061,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 204395,
       "name": "How to love",
       "url": "https://open.spotify.com/track/0eYv585XqQBswrj2aLrDWU"
@@ -1025,7 +1079,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204395,
       "name": "How to love",
       "url": "https://open.spotify.com/track/4ro1AzayMeG7GWkjnrexqK"
@@ -1043,15 +1097,51 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249819,
       "name": "hurt road",
       "url": "https://open.spotify.com/track/1HUNpxohGEBTjNifa9ahOL"
     },
     {
       "album": {
+        "name": "Remember Us : Youth, Pt. 2",
+        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249819,
+      "name": "hurt road",
+      "url": "https://open.spotify.com/track/3GqdYA40CzErF1Um7ZzK5P"
+    },
+    {
+      "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 240604,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/3h46bzn7XYQteB2pLB6eIj"
+    },
+    {
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
@@ -1064,7 +1154,7 @@
       "date_removed": null,
       "duration_ms": 240604,
       "name": "I like you",
-      "url": "https://open.spotify.com/track/3h46bzn7XYQteB2pLB6eIj"
+      "url": "https://open.spotify.com/track/54oqfjjT3vSqS72LMmTdSI"
     },
     {
       "album": {
@@ -1079,7 +1169,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234534,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
@@ -1097,7 +1187,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 234534,
       "name": "I Loved You",
       "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
@@ -1115,10 +1205,28 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218737,
       "name": "I Need Somebody",
       "url": "https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8"
+    },
+    {
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218737,
+      "name": "I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "album": {
@@ -1133,7 +1241,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 227159,
       "name": "I Smile",
       "url": "https://open.spotify.com/track/4hD74G2sLm0lxcRW5Jnl6X"
@@ -1151,7 +1259,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227159,
       "name": "I Smile",
       "url": "https://open.spotify.com/track/6Cd3yyEqcG4LsmUCs1DLze"
@@ -1169,7 +1277,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 218678,
       "name": "I Wait",
       "url": "https://open.spotify.com/track/0ZO2iSS12JTftv10cSCYf8"
@@ -1187,7 +1295,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218678,
       "name": "I Wait",
       "url": "https://open.spotify.com/track/2ucxenk7DMnImzGMXOIFrd"
@@ -1205,7 +1313,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 223538,
       "name": "I Would",
       "url": "https://open.spotify.com/track/0dYpPDvC5XA0E7LcrvGWOA"
@@ -1223,7 +1331,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223538,
       "name": "I Would",
       "url": "https://open.spotify.com/track/14GROeHpGT7elxuRYpGkQm"
@@ -1241,7 +1349,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 194148,
       "name": "I'm Serious",
       "url": "https://open.spotify.com/track/3iFjNnlsAsC9OcE3P1yLEW"
@@ -1259,7 +1367,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194148,
       "name": "I'm Serious",
       "url": "https://open.spotify.com/track/5pvRlGWjTy6Y3e5BIn8Ux0"
@@ -1285,7 +1393,7 @@
     {
       "album": {
         "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/25DJKM1c41jOlDG716autl"
+        "url": "https://open.spotify.com/album/6FShBZFJ2H6OEIXOrhcX6L"
       },
       "artists": [
         {
@@ -1296,6 +1404,24 @@
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229973,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/0682jZkOYxyttK29Qrk6d0"
+    },
+    {
+      "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/25DJKM1c41jOlDG716autl"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 229973,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/55uIELYi6Ykc2YVVOe68xx"
@@ -1313,7 +1439,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202750,
       "name": "Like a flowing wind",
       "url": "https://open.spotify.com/track/081NOQjHZSMSnmeZ3rNzyt"
@@ -1331,7 +1457,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 202750,
       "name": "Like a flowing wind",
       "url": "https://open.spotify.com/track/6RW5fxlCyOxfBJbru1v9ol"
@@ -1349,14 +1475,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222765,
       "name": "Love me or Leave me",
       "url": "https://open.spotify.com/track/4srbKZGPFWK1rqVFS9KDFR"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -1367,7 +1493,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 222765,
       "name": "Love me or Leave me",
       "url": "https://open.spotify.com/track/7F9HWeJf4BTUzpj3B0CQKT"
@@ -1385,7 +1511,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223083,
       "name": "LOVE PARADE",
       "url": "https://open.spotify.com/track/3cppKGBLYhmYU9r5APbIwa"
@@ -1403,7 +1529,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 223083,
       "name": "LOVE PARADE",
       "url": "https://open.spotify.com/track/6nklsJnZ6OimouWLm80Xuc"
@@ -1421,7 +1547,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 215790,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/4r2pzvLIdg0Zgk5Bef7mIV"
@@ -1439,7 +1565,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215790,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/6W8dT3CMFlVIwfsnnYLL0D"
@@ -1457,7 +1583,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195684,
       "name": "Not Mine",
       "url": "https://open.spotify.com/track/09vCm1gYxlBSi6ijArnczi"
@@ -1475,7 +1601,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 195684,
       "name": "Not Mine",
       "url": "https://open.spotify.com/track/67C8NRYbI2XwiYilezmxZQ"
@@ -1493,7 +1619,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 198425,
       "name": "ONE",
       "url": "https://open.spotify.com/track/01ZedLPM6De5HPt5crdRQf"
@@ -1511,14 +1637,14 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198425,
       "name": "ONE",
       "url": "https://open.spotify.com/track/1OhCgra07fEThNjnRleZqy"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -1529,7 +1655,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 237888,
       "name": "Only",
       "url": "https://open.spotify.com/track/0pl5A0K1kXws0xkClbd6iN"
@@ -1547,7 +1673,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237888,
       "name": "Only",
       "url": "https://open.spotify.com/track/4CFSn8D1ZGNTzQiVEKvJV8"
@@ -1565,7 +1691,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 197442,
       "name": "OUCH",
       "url": "https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k"
@@ -1583,7 +1709,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197442,
       "name": "OUCH",
       "url": "https://open.spotify.com/track/4e3ojkw2uMECuKuPOQhwx3"
@@ -1605,7 +1731,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 196661,
       "name": "Out of the Blue",
       "url": "https://open.spotify.com/track/6HqSsiX26QDecMBJyV5nj3"
@@ -1627,7 +1753,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196661,
       "name": "Out of the Blue (Duet with Song Heejin)",
       "url": "https://open.spotify.com/track/2tsqYaAoyvZ53hUKXTrBfq"
@@ -1645,7 +1771,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa"
@@ -1663,7 +1789,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 217972,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
@@ -1699,7 +1825,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
@@ -1717,7 +1843,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175836,
       "name": "Shoot Me",
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
@@ -1735,14 +1861,14 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222251,
       "name": "so let\u2019s love",
       "url": "https://open.spotify.com/track/0p3flPNocJa64LB7pZDiTZ"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -1753,10 +1879,28 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 222251,
       "name": "so let\u2019s love",
       "url": "https://open.spotify.com/track/7IDUo5rlyHw08w8l3UpAcE"
+    },
+    {
+      "album": {
+        "name": "Shoot Me : Youth, Part. 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ"
     },
     {
       "album": {
@@ -1771,7 +1915,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202453,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1tVXHdJZbv9H5ZHpJ4zpHZ"
@@ -1789,14 +1933,32 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251854,
       "name": "Still",
       "url": "https://open.spotify.com/track/2vtAf3rLV9i96x2z8n8N0V"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "Shoot Me : Youth, Part. 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251854,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6DXROAQPfkfduzcbihXRsw"
+    },
+    {
+      "album": {
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -1807,7 +1969,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 228003,
       "name": "STOP",
       "url": "https://open.spotify.com/track/2kEXwegoUocARVri2uvgVH"
@@ -1825,7 +1987,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228003,
       "name": "STOP",
       "url": "https://open.spotify.com/track/4Ra12xZQOiwSSYjUNcvyBZ"
@@ -1843,7 +2005,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 227240,
       "name": "Sweet Chaos",
       "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
@@ -1861,7 +2023,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227240,
       "name": "Sweet Chaos",
       "url": "https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm"
@@ -1897,14 +2059,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233400,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/1YxYFl55wiAStPzwWzxq7H"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -1915,7 +2077,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 233400,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/4SYo5SpfduhCqibT8XUHaJ"
@@ -1933,7 +2095,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 205575,
       "name": "Time of Our Life",
       "url": "https://open.spotify.com/track/21BoUOSvHlXgcEhiA4T1nA"
@@ -1951,7 +2113,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205588,
       "name": "Time of Our Life -Japanese ver.- - Japanese ver.",
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"
@@ -1969,7 +2131,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227596,
       "name": "Voiceless",
       "url": "https://open.spotify.com/track/1QhL0FXOskul3uJLpbV2pL"
@@ -1987,7 +2149,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 227596,
       "name": "Voiceless",
       "url": "https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB"
@@ -2005,7 +2167,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 218640,
       "name": "WALK",
       "url": "https://open.spotify.com/track/2x7EgC67bll68OmgPinCtX"
@@ -2023,7 +2185,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218640,
       "name": "WALK",
       "url": "https://open.spotify.com/track/6uBWMoDZITSfEicLPuMW8l"
@@ -2041,7 +2203,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215786,
       "name": "Wanna Go Back",
       "url": "https://open.spotify.com/track/5t9oAvGxFKqqIqzm68bRrq"
@@ -2059,7 +2221,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 215786,
       "name": "Wanna Go Back",
       "url": "https://open.spotify.com/track/7lvYniMPVbh78IEaVifmm6"
@@ -2077,14 +2239,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205528,
       "name": "WARNING!",
       "url": "https://open.spotify.com/track/15CsBenIaqN4P61vQqMO9s"
     },
     {
       "album": {
-        "name": "Shoot Me : Youth Part 1",
+        "name": "Shoot Me : Youth, Part. 1",
         "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
       },
       "artists": [
@@ -2095,7 +2257,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 205528,
       "name": "WARNING!",
       "url": "https://open.spotify.com/track/6P3opmvaRieLo5vLKRPbjy"
@@ -2113,7 +2275,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "WE",
       "url": "https://open.spotify.com/track/2SNtOsVWRff0MZncgeYW3K"
@@ -2131,7 +2293,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230746,
       "name": "WE",
       "url": "https://open.spotify.com/track/73ZstMbTmOYuT7QtIdg5G1"
@@ -2157,7 +2319,7 @@
     {
       "album": {
         "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
@@ -2168,6 +2330,24 @@
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 232666,
+      "name": "What Can I Do",
+      "url": "https://open.spotify.com/track/1JezeCx4BBNaJqHlZKXNmj"
+    },
+    {
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 232666,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/6XDXbIZZvSh0SbET20iWyE"
@@ -2185,14 +2365,32 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226422,
       "name": "When you love someone",
       "url": "https://open.spotify.com/track/16jkx6TcZMqL3OiK7aHm9A"
     },
     {
       "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2020-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226422,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/66kaQ6mH75Gt2KQjVnNmR2"
+    },
+    {
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
         "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
       },
       "artists": [
@@ -2203,7 +2401,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
@@ -2221,7 +2419,7 @@
       ],
       "date_added": "2020-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
@@ -2239,14 +2437,14 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218984,
       "name": "You make Me",
       "url": "https://open.spotify.com/track/0l0OsrmY6qp8SnMnkCJFsF"
     },
     {
       "album": {
-        "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
+        "name": "The Book of Us: Negentropy - Chaos Swallowed up in Love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
       "artists": [
@@ -2257,7 +2455,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 218984,
       "name": "You make Me",
       "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
@@ -2275,7 +2473,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
@@ -2293,7 +2491,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
@@ -2311,14 +2509,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -2329,7 +2527,7 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"
@@ -2347,14 +2545,14 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209259,
       "name": "Zombie (English Ver.)",
       "url": "https://open.spotify.com/track/5CnK81FQ3DqTQae9ZBLQ7V"
     },
     {
       "album": {
-        "name": "The Book of Us : The Demon",
+        "name": "The Book of Us: The Demon",
         "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
@@ -2365,208 +2563,10 @@
       ],
       "date_added": "2020-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 209259,
-      "name": "Zombie - English Ver.",
+      "name": "Zombie - English Version",
       "url": "https://open.spotify.com/track/3h34cQPPddk4x9cluPIAvv"
-    },
-    {
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 226422,
-      "name": "\uadf8\ub807\ub354\ub77c\uace0\uc694 When you love someone",
-      "url": "https://open.spotify.com/track/66kaQ6mH75Gt2KQjVnNmR2"
-    },
-    {
-      "album": {
-        "name": "DAYDREAM",
-        "url": "https://open.spotify.com/album/6FShBZFJ2H6OEIXOrhcX6L"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 229973,
-      "name": "\ub193\uc544 \ub193\uc544 \ub193\uc544 Letting Go",
-      "url": "https://open.spotify.com/track/0682jZkOYxyttK29Qrk6d0"
-    },
-    {
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
-    },
-    {
-      "album": {
-        "name": "Remember Us : Youth Part 2",
-        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 177557,
-      "name": "\ub450\ud1b5 Headache",
-      "url": "https://open.spotify.com/track/04XmAoRBg3oZdc3cMb52iJ"
-    },
-    {
-      "album": {
-        "name": "Remember Us : Youth Part 2",
-        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 249819,
-      "name": "\uc544\ud508 \uae38 hurt road",
-      "url": "https://open.spotify.com/track/3GqdYA40CzErF1Um7ZzK5P"
-    },
-    {
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 202453,
-      "name": "\uc5b4\uca4c\ub2e4 \ubcf4\ub2c8 Somehow",
-      "url": "https://open.spotify.com/track/0uLgxIVjt4CaUyvM3jcmQJ"
-    },
-    {
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 251854,
-      "name": "\uc6d0\ud558\ub2c8\uae4c Still",
-      "url": "https://open.spotify.com/track/6DXROAQPfkfduzcbihXRsw"
-    },
-    {
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 240604,
-      "name": "\uc88b\uc544\ud569\ub2c8\ub2e4 I like you",
-      "url": "https://open.spotify.com/track/54oqfjjT3vSqS72LMmTdSI"
-    },
-    {
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 232666,
-      "name": "\uc88b\uc740\uac78 \ubb50 \uc5b4\ub5a1\ud574 What Can I Do",
-      "url": "https://open.spotify.com/track/1JezeCx4BBNaJqHlZKXNmj"
-    },
-    {
-      "album": {
-        "name": "Remember Us : Youth Part 2",
-        "url": "https://open.spotify.com/album/5lJXj9X4Yl52xJq1sQzQB9"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 205149,
-      "name": "\ud589\ubcf5\ud588\ub358 \ub0a0\ub4e4\uc774\uc5c8\ub2e4 days gone by",
-      "url": "https://open.spotify.com/track/5vubdGDI1f6Dgq8l9kYOXV"
-    },
-    {
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "date_added": "2020-05-12",
-      "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
-      "duration_ms": 224198,
-      "name": "\ud63c\uc790\uc57c All Alone",
-      "url": "https://open.spotify.com/track/322t99AIkTbD4lew9tvdgs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Ucx6LaTP5S"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 219079,
+  "2024-04-20": 219099,
   "date_first_scraped": "2022-06-10",
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
   "name": "Caf\u00e9 Bossa",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266986,
       "name": "Bluchanga",
       "url": "https://open.spotify.com/track/1zxMcomnqXDoPipY4ACR8t"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266986,
       "name": "Bluchanga",
       "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180665,
       "name": "Bossa Got The Blues",
       "url": "https://open.spotify.com/track/2l8rsGvh5MJL4gF0K479BA"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180665,
       "name": "Bossa Got The Blues",
       "url": "https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/2Ioq4XghscznKAsUJGQP1D"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267488,
       "name": "Choro de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6wn4H2ORKskGU81H6Hpook"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169760,
       "name": "Chuvas De Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168600,
       "name": "Chuvas De Ver\u00e3o - Remastered 2006",
       "url": "https://open.spotify.com/track/3qhFhiaQrfkejwjSFqjfmR"
@@ -725,10 +725,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183106,
       "name": "Coisa No. 10",
       "url": "https://open.spotify.com/track/7HqQRraGY6iHIjgxwFdjaA"
+    },
+    {
+      "album": {
+        "name": "Ouro Negro",
+        "url": "https://open.spotify.com/album/1WrpDqFJbBpmo85pLhwkUK"
+      },
+      "artists": [
+        {
+          "name": "Moacir Santos",
+          "url": "https://open.spotify.com/artist/74Hj9zxTTcTgjv3Kh0PozZ"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Coisa N\u00ba 10",
+      "url": "https://open.spotify.com/track/7IDT1CPTBq6B8zpgbqVZYG"
     },
     {
       "album": {
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188597,
       "name": "India (Tarde De Sol)",
       "url": "https://open.spotify.com/track/1O5NM6DEmroU160palBrX7"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265861,
       "name": "Ing\u00eanuo",
       "url": "https://open.spotify.com/track/5WdwAOjgo2uE6xdnHfbRRx"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265861,
       "name": "Ing\u00eanuo",
       "url": "https://open.spotify.com/track/6WYUy3Pv1X47qy39ee9cGR"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216706,
       "name": "Meios",
       "url": "https://open.spotify.com/track/1h9pUIVYwc0Hjp9ZEMisy1"
@@ -1369,25 +1387,25 @@
           "url": "https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9"
         },
         {
-          "name": "Jorge Solovera",
-          "url": "https://open.spotify.com/artist/3Tjm4zNHgFByjq82aLX9N1"
-        },
-        {
-          "name": "Sebastian Notini",
-          "url": "https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6"
-        },
-        {
           "name": "Aline Falc\u00e3o",
           "url": "https://open.spotify.com/artist/3XlZKXZNlvhOyPJe9TaGHn"
         },
         {
+          "name": "Jorge Solovera",
+          "url": "https://open.spotify.com/artist/3Tjm4zNHgFByjq82aLX9N1"
+        },
+        {
           "name": "ldson galter",
           "url": "https://open.spotify.com/artist/64UaxNjcHxcChL4253pwYV"
+        },
+        {
+          "name": "Sebastian Notini",
+          "url": "https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6"
         }
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217455,
       "name": "Meios",
       "url": "https://open.spotify.com/track/03w5Y87L53zqYGvTIlUj2W"
@@ -1470,7 +1488,7 @@
     },
     {
       "album": {
-        "name": "Nada e\u0301 Melhor do Que Voce\u0302",
+        "name": "Nada \u00e9 Melhor do Que Voc\u00ea",
         "url": "https://open.spotify.com/album/4yeo6ypBhNze7MFGea6FOi"
       },
       "artists": [
@@ -1481,9 +1499,9 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275574,
-      "name": "Nada e\u0301 Melhor do Que Voce\u0302",
+      "name": "Nada \u00e9 Melhor do Que Voc\u00ea",
       "url": "https://open.spotify.com/track/0TLIFxZVyJ8gU7FJHRy6Pg"
     },
     {
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275574,
       "name": "Nada \u00e9 Melhor Do Que Voc\u00ea",
       "url": "https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199866,
       "name": "O Morro Nao Tem Vez",
       "url": "https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200866,
       "name": "O Morro N\u00e3o Tem Vez",
       "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199040,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/555nuYZPtb7Gvs05LoqSL1"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/0TUGYKNM0EJCkCHKDbVmYO"
@@ -1845,7 +1863,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 224415,
       "name": "Quinze Pras Sete na Vila",
       "url": "https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224415,
       "name": "Quinze Pras Sete na Vila",
       "url": "https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174133,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/044fQ35cLbMVwta0KyN5dM"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 310680,
       "name": "Se Acontecer",
       "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310680,
       "name": "Se Acontecer",
       "url": "https://open.spotify.com/track/7komzDHdZsnmHDuPiTVddq"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265000,
       "name": "Ternura Do Saber",
       "url": "https://open.spotify.com/track/5lBmQ842hAMBZvsEmJhIK0"
@@ -2363,7 +2381,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Ternura do Saber - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq"
@@ -2443,7 +2461,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172949,
       "name": "Um Caso Perdido",
       "url": "https://open.spotify.com/track/4iRdzybP9SgiBqFrdRjVg6"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172949,
       "name": "Um Caso Perdido",
       "url": "https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq"
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180641,
       "name": "Vaidoso",
       "url": "https://open.spotify.com/track/30wH1ebVpN4yCfXqEbNhMG"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180641,
       "name": "Vaidoso",
       "url": "https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176733,
       "name": "Vivo Sohando - Stereo Version",
       "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173506,
       "name": "Vivo Sonhando",
       "url": "https://open.spotify.com/track/1k5uGD16xxHlDzXTyUo5iS"
@@ -2797,7 +2815,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188597,
       "name": "\u00cdndia - Tarde de Sol",
       "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 52992,
+  "2024-04-20": 53010,
   "date_first_scraped": "2023-08-20",
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Monika Kruse's track IDs",
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375712,
       "name": "Heavy Mental",
       "url": "https://open.spotify.com/track/5WVBKX7vgFzJBGJL0OynIs"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 375712,
       "name": "Heavy Mental",
       "url": "https://open.spotify.com/track/7xC3QWFXihruSUAGg0yV2p"
@@ -4429,10 +4429,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 593449,
       "name": "The Beat Just Goes Straight on and On",
       "url": "https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q"
+    },
+    {
+      "album": {
+        "name": "The Beat Just Goes Straight On And On",
+        "url": "https://open.spotify.com/album/4CUfZ5Ujfctd6HXr65WZtj"
+      },
+      "artists": [
+        {
+          "name": "Perry & Rhodan",
+          "url": "https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593449,
+      "name": "The Beat Just Goes Straight On And On",
+      "url": "https://open.spotify.com/track/1Y0OHYrteTswnjo72YKUL5"
     },
     {
       "album": {

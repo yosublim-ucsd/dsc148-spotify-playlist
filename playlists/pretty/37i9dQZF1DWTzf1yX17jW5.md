@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,463 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,474 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 52 | [CNTRTE](https://open.spotify.com/track/6T1BqggkRJsqYDzdQs7boL) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [CNTRTE](https://open.spotify.com/album/2DbXHug7av6nbs0PQf7bwU) | 2:46 |
 | 53 | [Recoger](https://open.spotify.com/track/66UNqQkLP3vwoAK9FnxFca) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Recoger](https://open.spotify.com/album/2FiYyjIorlmOa9dD7STI05) | 2:12 |
 | 54 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/4ZjUdbFR4lQRPCev91pQNk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/1GEAE5S8LPDE0n9yrcJiSJ) | 1:57 |
-| 55 | [River](https://open.spotify.com/track/4tZCAD2myjzONvRWoDMulN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:03 |
-| 56 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 55 | [SOS](https://open.spotify.com/track/26p68PG4mrL9tXpan62sv6) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 3:02 |
+| 56 | [River](https://open.spotify.com/track/4tZCAD2myjzONvRWoDMulN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:03 |
 | 57 | [Leave](https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo) | [The Szns](https://open.spotify.com/artist/1xtTjrNozye1Gnzq6KkuvU), [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [Leave](https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs) | 2:54 |
 | 58 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
 | 59 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 63 | [Jersey Club Movie](https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Jersey Club Movie](https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN) | 1:37 |
 | 64 | [All In My Head](https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [All In My Head](https://open.spotify.com/album/4BLSfmhCOxS2VVSQ7tPaBV) | 2:14 |
 | 65 | [4AM](https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Jaye EL](https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz) | [4AM](https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7) | 1:54 |
-| 66 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
-| 67 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 |
+| 66 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 |
+| 67 | [Pretty Girl](https://open.spotify.com/track/6O8qiaMZOwgC0lEkTVuu9x) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Pretty Girl](https://open.spotify.com/album/1vfo2y4jCMjVXo2XZ6oA5h) | 2:15 |
 | 68 | [Ride](https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Marriott](https://open.spotify.com/artist/3sotQBK04iF2DkV7DfQ1Vs), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Ride](https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv) | 2:39 |
 | 69 | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/track/7rOyc2gkZkWgT2g4LIbqTD) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [In The Night \(feat\. Bandmanrill\)](https://open.spotify.com/album/7azk253Tycfnk5vQKbiWTM) | 3:32 |
 | 70 | [Love You](https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv) | [Curly J](https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl) | [Love You](https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn) | 2:26 |

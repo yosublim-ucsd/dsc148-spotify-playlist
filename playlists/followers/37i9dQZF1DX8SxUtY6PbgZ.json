@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 110870,
+  "2024-04-20": 110898,
   "date_first_scraped": "2022-05-30",
   "description": "Ambient at the movies; great atmospheric, ethereal film soundtracks.",
   "name": "Ambient Film Scores",
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219933,
       "name": "Back To Belgrade",
       "url": "https://open.spotify.com/track/5y7bCDAzB0rnTs7HJtdv75"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 219933,
       "name": "Back To Belgrade",
       "url": "https://open.spotify.com/track/6cF3vVSEmD9MvXvQgG1xf2"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/7aS8e5XKVWDcbyn06mF9fz"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 80000,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/3EfXB0To1zCbgDgPkSt9pR"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 80000,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/6ruyXKuE1vlY2TiNCs0nx5"
@@ -599,6 +599,24 @@
     {
       "album": {
         "name": "Zoe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0k9gJeP90EHroHnByh3KfW"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93226,
+      "name": "I Wonder Why You Made Me",
+      "url": "https://open.spotify.com/track/17FuODcrxtu7UBgXDkDmvC"
+    },
+    {
+      "album": {
+        "name": "Zoe (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1tPmgsiqyozSJNHAMVQ0Ds"
       },
       "artists": [
@@ -609,7 +627,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93226,
       "name": "I Wonder Why You Made Me",
       "url": "https://open.spotify.com/track/2H0ixG9xHasR39dl4Y6hgj"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159556,
       "name": "Imagining Buffalo",
       "url": "https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159556,
       "name": "Imagining Buffalo",
       "url": "https://open.spotify.com/track/7DTNppXH1FmXdSos20cwqP"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 129521,
       "name": "Manipulated Living",
       "url": "https://open.spotify.com/track/1TFZ7n3bBWT1cN7Zrzx6lF"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129521,
       "name": "Manipulated Living",
       "url": "https://open.spotify.com/track/73yN3DpMfVNLdDFazijDUT"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295853,
       "name": "Monsters Theme",
       "url": "https://open.spotify.com/track/3CKstYFeiGJMGgRpHWbUGE"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295853,
       "name": "Monsters Theme",
       "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128647,
       "name": "Open Foe",
       "url": "https://open.spotify.com/track/2MQl9KSDTXUYy2FiKm11XI"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 128648,
       "name": "Open Foe",
       "url": "https://open.spotify.com/track/115o25eNWvQv8k3zvadRBc"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193960,
       "name": "Opening Title",
       "url": "https://open.spotify.com/track/6pYRLSxc9O9KWF53xjoHu1"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193960,
       "name": "Opening Title",
       "url": "https://open.spotify.com/track/6zrCYtsrqdLR4l3BXO8FVK"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122600,
       "name": "Philosophy of Time Travel",
       "url": "https://open.spotify.com/track/0DEJS2xr5tSNDDmhiBdCM5"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 122600,
       "name": "Philosophy of Time Travel",
       "url": "https://open.spotify.com/track/279OmEUbE1uSLMT9usR4nb"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 723579,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/1FKeutbl2sFHk81ZQqR105"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 723579,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/3M0YZKONqBRpxPMDTKA1WP"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217906,
       "name": "The Thing",
       "url": "https://open.spotify.com/track/5SWRcQ31mBn5pGuhftU5dU"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217906,
       "name": "The Thing",
       "url": "https://open.spotify.com/track/6QFLyznMxoXuffRCmxK6CO"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137000,
       "name": "Title",
       "url": "https://open.spotify.com/track/3N5DU8yxyasg4hyHhIjNyz"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Title",
       "url": "https://open.spotify.com/track/7pRtdexXhJ8NKOHTBFrPOG"
@@ -1645,10 +1663,28 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265637,
       "name": "Tree Synthesisers",
       "url": "https://open.spotify.com/track/6STwGnK99tM0QbveXFCvss"
+    },
+    {
+      "album": {
+        "name": "You Were Never Really Here (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0bSyJm9sa1dJs8B8Zybw8i"
+      },
+      "artists": [
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265637,
+      "name": "Tree Synthesisers",
+      "url": "https://open.spotify.com/track/7wAXCfTk755WoJ5TM5Z0E8"
     },
     {
       "album": {
@@ -1757,7 +1793,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156170,
       "name": "What Do You Know?",
       "url": "https://open.spotify.com/track/4PYkiul9hjpW4RNSHRrJRR"
@@ -1779,7 +1815,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156170,
       "name": "What Do You Know?",
       "url": "https://open.spotify.com/track/6VCwwRPHsfaQLwxmUBD0hR"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247893,
       "name": "What If We Could?",
       "url": "https://open.spotify.com/track/1WarbadpH0uRaeELcPhTOv"
@@ -1837,7 +1873,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247897,
       "name": "What If We Could?",
       "url": "https://open.spotify.com/track/74OLST8WbPGinOStWNqYTN"

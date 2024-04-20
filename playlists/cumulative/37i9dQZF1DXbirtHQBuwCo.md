@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Izykite\)
 
-684 songs - 1 day 12 hr 40 min
+685 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [lies](https://open.spotify.com/track/3lubWbCsbUxNDspenMfweM) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:19 | 2022-07-25 | 2022-08-03 |
 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 | 2022-06-18 | 2022-07-05 |
 | [Like a Dream \(Feat\. Mingginyu, TRADE L, Touch the Sky\)](https://open.spotify.com/track/1wKoQyKMKXnjkkMlNuZA14) | [HD BL4CK](https://open.spotify.com/artist/0hcNEkXJ9p0fVTsuFeNbZd), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk) | [Like a Dream \(Feat\. Mingginyu, TRADE L, Touch the Sky\)](https://open.spotify.com/album/7o3eV7XuFrYI4TxmSWk2cT) | 3:03 | 2024-04-12 | 2024-04-19 |
-| [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-19 |  |
+| [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-19 | 2024-04-20 |
 | [LIKE A FOOL \(feat\. JUNNY\)](https://open.spotify.com/track/6wJ3GO2aNL328aR2nL27V7) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:27 | 2022-05-11 | 2022-07-19 |
 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-19 |  |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-27 | 2023-12-14 |
@@ -672,6 +672,7 @@
 | [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-03 | 2022-11-23 |
 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-07-15 |
+| [YES \(feat\. Jay Park, REDDY\)](https://open.spotify.com/track/7LlIANXlJFhzDHGqugugTp) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Diminished](https://open.spotify.com/album/6YX73BggU7ueaQzV9PKXiO) | 2:46 | 2024-04-19 |  |
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2024-01-17 |  |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-21 | 2023-11-02 |
 | [You are special](https://open.spotify.com/track/2CNG54Mbrfw5EvmXE0370Y) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You are special](https://open.spotify.com/album/2vtpyCgI3m6igo2dKJQqTV) | 3:24 | 2024-01-23 | 2024-02-07 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2306,
+  "2024-04-20": 2309,
   "date_first_scraped": "2023-07-06",
   "description": "\uac00\uc7a5 \ud2b8\ub80c\ub514\ud55c \uc608\uc220 \uacbd\ud5d8 Sync Next 23\uc758 \ucc38\uc5ec \uc544\ud2f0\uc2a4\ud2b8\uac00 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!)",
   "name": "Sync Next 23",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 188347,
       "name": "A Fish Map",
       "url": "https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188934,
       "name": "A Fish Map",
       "url": "https://open.spotify.com/track/5yMr8TkBo7mMFAtbB1LPTz"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 287210,
       "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4BFB5iUZSnsHJL69VEU9rf"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287210,
       "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4FiHyAEbe8UH8Oy4rFewkQ"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 265983,
       "name": "Good Night Good Dream",
       "url": "https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280789,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/0ienAKret1Pd5rqqQUJS6j"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 280789,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332250,
       "name": "Light",
       "url": "https://open.spotify.com/track/3vmhYKR2p23IoEfVrQg0iL"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-16",
+      "date_removed": null,
       "duration_ms": 332250,
       "name": "Light",
       "url": "https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx"
@@ -663,10 +663,46 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257866,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/4HwJtUuaLTfl9eP8iYdIjr"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/5BxHfyGk49gqbg5BdW6FO4"
+    },
+    {
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/1Xo2u01VXusDDGAX88DAj1"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/5odaVZOxf5RNGLwhXY5OAg"
     },
     {
       "album": {
@@ -681,7 +717,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212158,
       "name": "Sundays - Just Piano Version",
       "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
@@ -743,7 +779,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217500,
       "name": "There is A Wolf",
       "url": "https://open.spotify.com/track/2YNrv84MQ5SA4jZ8k3Us9d"
@@ -761,7 +797,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
@@ -779,7 +815,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
       "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"

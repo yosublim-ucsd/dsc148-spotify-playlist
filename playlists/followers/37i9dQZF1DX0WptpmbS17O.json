@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 100838,
+  "2024-04-20": 100865,
   "date_first_scraped": "2022-10-13",
   "description": "I'd come back if you'd just call",
   "name": "longing",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 207820,
       "name": "68",
       "url": "https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207845,
       "name": "68",
       "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
@@ -93,9 +93,9 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 190266,
-      "name": "A Life Where We Work Out (feat. Kaitlin Butts)",
+      "name": "A Life Where We Work Out",
       "url": "https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F"
     },
     {
@@ -115,7 +115,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190266,
       "name": "A Life Where We Work Out (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/5UyBjTBy4XxqQT2qHksbo0"
@@ -169,10 +169,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
     },
     {
       "album": {
@@ -266,6 +284,24 @@
     },
     {
       "album": {
+        "name": "anything",
+        "url": "https://open.spotify.com/album/2e3TrMSoC2IdX6tksQwpls"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202047,
+      "name": "anything",
+      "url": "https://open.spotify.com/track/4DtEcOoqORcOaiYl4HQGsS"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -277,7 +313,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
@@ -595,10 +631,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207732,
       "name": "Everybody Loves Her",
       "url": "https://open.spotify.com/track/0Gpo90Y7YYws4TK9ptQXCt"
+    },
+    {
+      "album": {
+        "name": "Everybody Loves Her",
+        "url": "https://open.spotify.com/album/1Uu5tfLVUtivxaNOhCnPJk"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207732,
+      "name": "Everybody Loves Her",
+      "url": "https://open.spotify.com/track/2LZUblCRjVSo4uMvyjeC1h"
     },
     {
       "album": {
@@ -743,10 +797,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213293,
       "name": "Half of Me",
       "url": "https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX"
+    },
+    {
+      "album": {
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/454yeYs9PxTEwGmZf6OBpa"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Half of Me",
+      "url": "https://open.spotify.com/track/5mlm2bxH3ne3P4c5x1Nzq9"
     },
     {
       "album": {
@@ -945,7 +1017,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229505,
       "name": "Kentucky Sky",
       "url": "https://open.spotify.com/track/0U2l0UpHPDGAkrh9jeDTsM"
@@ -963,7 +1035,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 229505,
       "name": "Kentucky Sky",
       "url": "https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn"
@@ -1165,7 +1237,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 228115,
       "name": "No, Pedal Steel",
       "url": "https://open.spotify.com/track/0ijVRmoMHk1uNhM6YHvdhe"
@@ -1183,7 +1255,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228115,
       "name": "No, Pedal Steel",
       "url": "https://open.spotify.com/track/33Ym9lYGDDhFeS3ZzSfP9t"
@@ -1302,6 +1374,28 @@
     },
     {
       "album": {
+        "name": "Live on Red Barn Radio",
+        "url": "https://open.spotify.com/album/3w3OOXhV8CFk7KZLMZtlyq"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "The Highwall",
+          "url": "https://open.spotify.com/artist/6KwfJPmA5Q4toytrCwNEI5"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Shake the Frost",
+      "url": "https://open.spotify.com/track/4k96wvkOOh4QWTRDNSwjW1"
+    },
+    {
+      "album": {
         "name": "Live on Red Barn Radio I & II",
         "url": "https://open.spotify.com/album/7lf0m3iNU59X4r8udCQcB6"
       },
@@ -1313,7 +1407,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175120,
       "name": "Shake the Frost (Live)",
       "url": "https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o"
@@ -1331,7 +1425,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
@@ -1349,7 +1443,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7KgpoK5WCefGCvjMl635Nh"
@@ -1367,7 +1461,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 291761,
       "name": "So Long, Honey",
       "url": "https://open.spotify.com/track/11HXGSToW21uxNRl8kKBbu"
@@ -1385,7 +1479,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291761,
       "name": "So Long, Honey",
       "url": "https://open.spotify.com/track/5lgLYRy0KTluByvOQbCucp"
@@ -1493,7 +1587,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
@@ -1511,7 +1605,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
@@ -1587,7 +1681,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233062,
       "name": "The Fear of Losing This",
       "url": "https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t"
@@ -1605,7 +1699,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 233062,
       "name": "The Fear of Losing This",
       "url": "https://open.spotify.com/track/5iwOkLRedNpGvymiknisHn"
@@ -1666,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Unknown / Nth",
+        "url": "https://open.spotify.com/album/1VNpBzbjtkEhAwa3vGelHP"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280106,
+      "name": "Unknown / Nth",
+      "url": "https://open.spotify.com/track/1Qd2xhbAtS1MP5UW2BUfqj"
+    },
+    {
+      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -1677,7 +1789,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb"
@@ -1869,10 +1981,46 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
+    },
+    {
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"
+    },
+    {
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268293,
+      "name": "Would That I",
+      "url": "https://open.spotify.com/track/0L3oQdYUvVbsOOPJSkZ3C3"
     },
     {
       "album": {
@@ -1887,7 +2035,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268293,
       "name": "Would That I",
       "url": "https://open.spotify.com/track/37zuIvk4KBkAxxLJsxJaHq"

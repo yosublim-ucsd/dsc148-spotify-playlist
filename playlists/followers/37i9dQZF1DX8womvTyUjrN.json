@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 283951,
+  "2024-04-20": 283545,
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Los Mesoneros",
+  "description": "Fresh Latin pop on the rise. Cover: i\u00f1igo quintero",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -187,6 +187,24 @@
       "duration_ms": 198214,
       "name": "5 estrellas",
       "url": "https://open.spotify.com/track/5yszl4UEZcnrXdTmkawdjw"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/7acoLTImpkXhfwCAUDdWbh"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194785,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/4ieFblgI29t6eFCxuZH6Dp"
     },
     {
       "album": {
@@ -433,7 +451,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156258,
       "name": "ag\u00fcita con sal",
       "url": "https://open.spotify.com/track/3ECMn8Zl2A1o1lQBxg9xvb"
@@ -2288,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/6YCDCVP0WYNKNs8IqZk7Nd"
+      },
+      "artists": [
+        {
+          "name": "Adri Torron",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153238,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3NhxDBtn24bkzzgCPMVJFz"
+    },
+    {
+      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
       },
@@ -2503,7 +2539,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180720,
       "name": "Contrav\u00eda",
       "url": "https://open.spotify.com/track/0RF0vTHsseW7qa0hO4Nlac"
@@ -3069,7 +3105,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222187,
       "name": "DESASTRE",
       "url": "https://open.spotify.com/track/6GUKOpUYvQtgHoCpcTmhWk"
@@ -3113,6 +3149,24 @@
       "duration_ms": 164307,
       "name": "descomplicados",
       "url": "https://open.spotify.com/track/6LAU7C4wP7JKX2ejdoD4Jm"
+    },
+    {
+      "album": {
+        "name": "ES SOLO M\u00daSICA",
+        "url": "https://open.spotify.com/album/3dSpkvGKm8sUghxdS1pvwE"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173741,
+      "name": "Desconocido",
+      "url": "https://open.spotify.com/track/10pstCVmtxdb4TZ0pL4IjH"
     },
     {
       "album": {
@@ -4421,7 +4475,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 82833,
       "name": "flores",
       "url": "https://open.spotify.com/track/0hhPjc9JW9AFSrB58erX5X"
@@ -5277,6 +5331,24 @@
       "duration_ms": 159440,
       "name": "Juro Que",
       "url": "https://open.spotify.com/track/0XQr7djQbD7KWO5u4T2OkD"
+    },
+    {
+      "album": {
+        "name": "KAI",
+        "url": "https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "KAI",
+      "url": "https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ"
     },
     {
       "album": {
@@ -7085,6 +7157,24 @@
       "duration_ms": 213033,
       "name": "MOTEL CALIFORNIA",
       "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
+    },
+    {
+      "album": {
+        "name": "moto",
+        "url": "https://open.spotify.com/album/6daDnEVfb8lYmVrqyXENHC"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185832,
+      "name": "moto",
+      "url": "https://open.spotify.com/track/4qdnvjHEvN8F1oPqvM8K1U"
     },
     {
       "album": {
@@ -9562,6 +9652,24 @@
     },
     {
       "album": {
+        "name": "Reir pa no llorar",
+        "url": "https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164949,
+      "name": "Reir pa no llorar",
+      "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
+    },
+    {
+      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/5z8AwFMABjNes5hfKhvrea"
       },
@@ -10035,7 +10143,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176489,
       "name": "Segunda Parte",
       "url": "https://open.spotify.com/track/116yQ8HR9Azrlf5ZxMXgNU"
@@ -11557,6 +11665,24 @@
       "duration_ms": 171113,
       "name": "TuTuRu",
       "url": "https://open.spotify.com/track/1EogpG7fkDaEPRxSdAfyWe"
+    },
+    {
+      "album": {
+        "name": "Tuvimos Futuro",
+        "url": "https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211030,
+      "name": "Tuvimos Futuro",
+      "url": "https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j"
     },
     {
       "album": {

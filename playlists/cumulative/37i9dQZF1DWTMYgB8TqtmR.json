@@ -4221,7 +4221,7 @@
     },
     {
       "album": {
-        "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+        "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
       "artists": [
@@ -4242,7 +4242,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175803,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+      "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
@@ -9524,6 +9524,24 @@
       "duration_ms": 176267,
       "name": "Psykos",
       "url": "https://open.spotify.com/track/3LpEvBoyEnGQcu1ofaJ5AQ"
+    },
+    {
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "album": {

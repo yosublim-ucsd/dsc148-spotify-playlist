@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 115286,
+  "2024-04-20": 115280,
   "date_first_scraped": "2021-12-28",
   "description": "Uplifting and happy jazz christmas classics.",
   "name": "Feel Good Christmas",
@@ -123,7 +123,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162559,
       "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered",
       "url": "https://open.spotify.com/track/27icEh09mKhDVMcxgvu7cK"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162426,
       "name": "(Everybody's Waitin' For) The Man With The Bag - Remastered 1996",
       "url": "https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih"
@@ -372,6 +372,28 @@
     },
     {
       "album": {
+        "name": "Wonderful World - Louis Armstrong Original Jazz Classics",
+        "url": "https://open.spotify.com/album/1GS7osBm4ULKtkE6NSqDHS"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173746,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/5FDj2xATUL2z68Ww8Bhmtp"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175001,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
@@ -449,7 +471,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 205320,
       "name": "Christmas Is Coming",
       "url": "https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC"
@@ -485,7 +507,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205320,
       "name": "Christmas Is Coming",
       "url": "https://open.spotify.com/track/69hH2X1SjculOZEOahrWQQ"
@@ -503,7 +525,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/6o6DStpgZIzSyfpz0tRu8M"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159903,
       "name": "Christmas Night In Harlem",
       "url": "https://open.spotify.com/track/332PGtU23efyGgyilfneG8"
@@ -569,7 +591,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159833,
       "name": "Christmas Night In Harlem - Single Version",
       "url": "https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 154306,
       "name": "Christmas Time All Over the World",
       "url": "https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/5QeFN5OzkgWTVo9zO799ph"
@@ -811,7 +833,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
@@ -1173,7 +1195,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208026,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
@@ -1191,7 +1213,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208026,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/2T00SUWXZJoRl5nyvNGeST"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165588,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/1JsOdx0Tj3p6iJDauh63sK"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163600,
       "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
       "url": "https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1"
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/0BCVQHXk8HY6Uip5gK2lrv"
@@ -1527,7 +1549,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174090,
       "name": "Man With The Bag",
       "url": "https://open.spotify.com/track/6hDObWDLZG5GoEySmtSjAF"
@@ -1545,7 +1567,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/0cbzNKDJPIpNOKfBGiRmn2"
@@ -1581,7 +1603,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126284,
       "name": "Mary's Boy Child",
       "url": "https://open.spotify.com/track/7HuThzVZqpdfCSGZAfZbiS"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146022,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
@@ -1735,7 +1757,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917"
@@ -1769,7 +1791,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196800,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/3CJ2KbL3dQ3UBlcOwvrBw4"
@@ -1827,7 +1849,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193240,
       "name": "Poppa Santa Claus",
       "url": "https://open.spotify.com/track/6xF6R6029v5XsSL0yFFW2X"
@@ -1871,7 +1893,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194866,
       "name": "Poppa Santa Claus - Single Version",
       "url": "https://open.spotify.com/track/3By2EZ4GEcaiLQRfyyf8vP"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139880,
       "name": "Ring Those Christmas Bells",
       "url": "https://open.spotify.com/track/2YA3CMWrGfQeLxtiS4zFZO"
@@ -1979,7 +2001,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189497,
       "name": "Santa Claus Got Stuck (In My Chimney)",
       "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
@@ -2001,7 +2023,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189497,
       "name": "Santa Claus Got Stuck (In My Chimney)",
       "url": "https://open.spotify.com/track/0ZgXBiDC9TW81HGVA0m7qz"
@@ -2139,7 +2161,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147751,
       "name": "Shake Hands With Santa Claus",
       "url": "https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3"
@@ -2157,7 +2179,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145333,
       "name": "Shake Hands with Santa Claus - Mono Recording",
       "url": "https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT"
@@ -2251,7 +2273,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144373,
       "name": "Skating",
       "url": "https://open.spotify.com/track/1rGZUPEI3iq6HYmI0V6a98"
@@ -2287,7 +2309,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-18",
+      "date_removed": null,
       "duration_ms": 145640,
       "name": "Skating",
       "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
@@ -2433,7 +2455,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/2SYfeTvbD7cjxDRCm6LSTe"
@@ -2463,7 +2485,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 176379,
       "name": "The Very Best Day This Year",
       "url": "https://open.spotify.com/track/4tS8ySaehAjC9hd54xCesZ"
@@ -2533,7 +2555,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
@@ -2551,7 +2573,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1210,
+  "2024-04-20": 1210,
   "date_first_scraped": "2023-05-16",
   "description": "Celebrate Mommy with these family-friendly tunes.",
   "name": "I Love You, Mommy",
@@ -61,7 +61,7 @@
     {
       "album": {
         "name": "Licensed to Move",
-        "url": "https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v"
+        "url": "https://open.spotify.com/album/6sLaVAxbWz6DhyemezQY1I"
       },
       "artists": [
         {
@@ -72,6 +72,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 131873,
+      "name": "Following My Mom Around",
+      "url": "https://open.spotify.com/track/5e7U9Zp6ciJ71UCHgVSvZM"
+    },
+    {
+      "album": {
+        "name": "Licensed to Move",
+        "url": "https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 131873,
       "name": "Following My Mom Around",
       "url": "https://open.spotify.com/track/5hdF9iC9kSaLSq4bnGAxtg"
@@ -277,7 +295,7 @@
     {
       "album": {
         "name": "Mothers Day",
-        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+        "url": "https://open.spotify.com/album/6fUuImMgDamRp1K6SLj7Of"
       },
       "artists": [
         {
@@ -288,6 +306,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194270,
+      "name": "I Want to be Like Mommy",
+      "url": "https://open.spotify.com/track/0216c6lFJlaLajJXFiBqkx"
+    },
+    {
+      "album": {
+        "name": "Mothers Day",
+        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194270,
       "name": "I Want to be Like Mommy",
       "url": "https://open.spotify.com/track/2JUzsgxxEnXw0UedVPGg1o"
@@ -349,7 +385,7 @@
     {
       "album": {
         "name": "Love Bug",
-        "url": "https://open.spotify.com/album/2uaC3lAGlZv8hxxGHx1S6w"
+        "url": "https://open.spotify.com/album/0lqaZrC9T2ahymVX1S0L3b"
       },
       "artists": [
         {
@@ -360,6 +396,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 137666,
+      "name": "Mama Loves It",
+      "url": "https://open.spotify.com/track/7B6gbsDfsXGXPUlAoI6Oia"
+    },
+    {
+      "album": {
+        "name": "Love Bug",
+        "url": "https://open.spotify.com/album/2uaC3lAGlZv8hxxGHx1S6w"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 137666,
       "name": "Mama Loves It",
       "url": "https://open.spotify.com/track/7MCTcFklv8p43JOrAcYd3M"
@@ -385,7 +439,7 @@
     {
       "album": {
         "name": "Mothers Day",
-        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+        "url": "https://open.spotify.com/album/6fUuImMgDamRp1K6SLj7Of"
       },
       "artists": [
         {
@@ -396,6 +450,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 180161,
+      "name": "Mom and Daughter Song",
+      "url": "https://open.spotify.com/track/6DfFi5TcVJDnU8OJcMXG7b"
+    },
+    {
+      "album": {
+        "name": "Mothers Day",
+        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 180161,
       "name": "Mom and Daughter Song",
       "url": "https://open.spotify.com/track/7KOETCj66ndXwYCNW962Eu"
@@ -493,7 +565,7 @@
     {
       "album": {
         "name": "Mommy, Mommy!",
-        "url": "https://open.spotify.com/album/1FouBgja6EuWwKYrk4ZPJF"
+        "url": "https://open.spotify.com/album/0uLRyVbEksbcxnIFBLSMtI"
       },
       "artists": [
         {
@@ -506,7 +578,7 @@
       "date_removed": null,
       "duration_ms": 116925,
       "name": "Mommy, Mommy!",
-      "url": "https://open.spotify.com/track/6rjWweBkNhm8uNamaxaSNa"
+      "url": "https://open.spotify.com/track/07I2VwsA56bADeaab20hSy"
     },
     {
       "album": {
@@ -521,7 +593,43 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 116925,
+      "name": "Mommy, Mommy!",
+      "url": "https://open.spotify.com/track/6rjWweBkNhm8uNamaxaSNa"
+    },
+    {
+      "album": {
+        "name": "Mommy, Mommy!",
+        "url": "https://open.spotify.com/album/0uLRyVbEksbcxnIFBLSMtI"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 118656,
+      "name": "Mother's Day",
+      "url": "https://open.spotify.com/track/30xBFGHfy1zgARcehgAus6"
+    },
+    {
+      "album": {
+        "name": "Mommy, Mommy!",
+        "url": "https://open.spotify.com/album/1FouBgja6EuWwKYrk4ZPJF"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 118656,
       "name": "Mother's Day",
       "url": "https://open.spotify.com/track/4ZbcvaGNRLkdXpgBITVPCy"
@@ -593,10 +701,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120000,
       "name": "My Mommy is a Super Mommy",
       "url": "https://open.spotify.com/track/1am3rdVaWHJMufruC8acrz"
+    },
+    {
+      "album": {
+        "name": "Mommy, Mommy!",
+        "url": "https://open.spotify.com/album/0uLRyVbEksbcxnIFBLSMtI"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "My Mommy is a Super Mommy",
+      "url": "https://open.spotify.com/track/2b1fngqI8LmMOB4RDguCZp"
     },
     {
       "album": {
@@ -611,10 +737,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170066,
       "name": "My Mommy Song",
       "url": "https://open.spotify.com/track/1td2pKXIeUugkWMUEUK7pe"
+    },
+    {
+      "album": {
+        "name": "Mothers Day",
+        "url": "https://open.spotify.com/album/6fUuImMgDamRp1K6SLj7Of"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "My Mommy Song",
+      "url": "https://open.spotify.com/track/7hFJ9xag5kjzYWeHmgrAfb"
     },
     {
       "album": {

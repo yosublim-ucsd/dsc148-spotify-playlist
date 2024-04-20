@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Magdalena Wawra, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,824 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,837 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 13 | [Fiesta](https://open.spotify.com/track/3lqDeSw3cY5esGvYJWDmK7) | [LEANDER](https://open.spotify.com/artist/4vfPWGAtczR80hRCKUBaSc) | [Fiesta](https://open.spotify.com/album/1aXRy2rsLGBXlgoqDotuN9) | 2:58 |
 | 14 | [Pandora](https://open.spotify.com/track/4M9MBDb4Ty4MTVleaZ5312) | [Potato Beach](https://open.spotify.com/artist/4lKJZchjK4Br82GwnsodLP) | [Dip In](https://open.spotify.com/album/2KCI1jqUU2CqBjlfyFk78t) | 3:31 |
 | 15 | [Computer](https://open.spotify.com/track/2gsdUuwXGj7afUxELxmOxH) | [Das Seminar](https://open.spotify.com/artist/4g9WDdIWqQ1mSZLOmIFH7c) | [Computer](https://open.spotify.com/album/2p6Rctw05yYcWTXKX1EOd5) | 3:03 |
-| 16 | [Sonne Nervt](https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab) | [Andi G](https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS) | [Sonne Nervt](https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj) | 2:18 |
+| 16 | [Sonne Nervt](https://open.spotify.com/track/0e1FxQ2jM6JZabqE41xtab) | [monty & robin](https://open.spotify.com/artist/69C6sc7ZESVdDTjMmauEQS) | [Sonne Nervt](https://open.spotify.com/album/5XZc8XeNSgXQxCs9FN79Kj) | 2:18 |
 | 17 | [Television](https://open.spotify.com/track/78DPcZ9xY3UCchuQHnvDIc) | [ANT ENOCH](https://open.spotify.com/artist/0ex51vgneM2buiVP366poW) | [Television](https://open.spotify.com/album/30jJn3P84TI2hjXAjUAzlM) | 3:13 |
 | 18 | [heat](https://open.spotify.com/track/4OHyPU40HNe3qHMqk2S169) | [Cossmo](https://open.spotify.com/artist/0wxtbXn34Qg45YLDZEyxuz) | [airplane mode](https://open.spotify.com/album/4qEVH8Dt5AruQvQpU7w3iL) | 3:10 |
 | 19 | [RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s) | [zwanzignullvier](https://open.spotify.com/artist/7b2YyCNNfUDxyDOb2KGE80) | [RAUS](https://open.spotify.com/album/56PQBozC5ENhFrZxNMmXJd) | 3:16 |

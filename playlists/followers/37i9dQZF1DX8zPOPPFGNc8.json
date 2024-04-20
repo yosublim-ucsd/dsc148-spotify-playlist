@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 14935,
+  "2024-04-20": 14949,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
   "name": "Tommy Brown's Taste",
@@ -115,7 +115,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191533,
       "name": "Bashment Time (feat. Mr. Easy)",
       "url": "https://open.spotify.com/track/0D9VHACaA1aaW6mf03qqD8"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "Bashment Time Featuring Mr. Easy",
       "url": "https://open.spotify.com/track/0muTVrgm3x7FUPXCglIBlP"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 250986,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220960,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/2fE1hcjUxlLxXrZusTEJlq"
@@ -389,7 +389,7 @@
       },
       "artists": [
         {
-          "name": "Cam\u2019ron",
+          "name": "Cam'ron",
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 220960,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/2vN5Hb3lVKRHj0LzBvafzo"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
@@ -757,7 +757,7 @@
       },
       "artists": [
         {
-          "name": "Cam\u2019ron",
+          "name": "Cam'ron",
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
@@ -905,10 +905,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178066,
       "name": "Sucky Ducky",
       "url": "https://open.spotify.com/track/2JDb4hjA4JK4PoI47Ra492"
+    },
+    {
+      "album": {
+        "name": "Planet Reggae",
+        "url": "https://open.spotify.com/album/38tVRDQNrHpY1RWowEJK29"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179626,
+      "name": "Sucky Ducky",
+      "url": "https://open.spotify.com/track/2h44QUzS5IscTJX4Rndrmg"
     },
     {
       "album": {
@@ -1083,10 +1101,32 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
+    },
+    {
+      "album": {
+        "name": "Wild Side (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209476,
+      "name": "Wild Side (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M"
     },
     {
       "album": {

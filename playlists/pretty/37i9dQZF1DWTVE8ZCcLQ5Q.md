@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,124 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,727 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 63 | [Trem Bala](https://open.spotify.com/track/1IJvvl30UCU5pwqiQ6ESFL) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Eldorado Music](https://open.spotify.com/artist/1lwFarWDLOruW7UiLwhvv8) | [Trem Bala](https://open.spotify.com/album/6YZ5ViirT28npvybtFtx42) | 1:56 |
 | 64 | [Na Mente](https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Na Mente](https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW) | 2:04 |
 | 65 | [Contrai](https://open.spotify.com/track/43bcJZ3Q0sxxPXPW9o5xE6) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Martinnz](https://open.spotify.com/artist/0DmKopdHbrBA1OVgTdwqcw) | [Contrai](https://open.spotify.com/album/5O2GGOafAOjpSG6yr6Krgm) | 3:00 |
-| 66 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
-| 67 | [Santana Amarelo](https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Santana Amarelo](https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P) | 3:03 |
-| 68 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
+| 66 | [Vênus](https://open.spotify.com/track/0BLl7ykY95c40yMYW5iPjQ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Vênus](https://open.spotify.com/album/1sDQNKjF3tZsLJgtaGnagx) | 2:57 |
+| 67 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
+| 68 | [Santana Amarelo](https://open.spotify.com/track/68DsnQjAUwCQqzl7AwAq6l) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [Nochica](https://open.spotify.com/artist/7KXVP4FXUjg321zasfnoBZ) | [Santana Amarelo](https://open.spotify.com/album/2I3a1NXZt4AdF5LqltpY7P) | 3:03 |
 | 69 | [Movimento \- Spotify Singles](https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Movimento \- Spotify Singles](https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ) | 2:38 |
 | 70 | [Vai Com Calma](https://open.spotify.com/track/4AN6cNIdzN87leIjzcYHE7) | [SH1FT](https://open.spotify.com/artist/4Jd5igGCAn61KCtrznCuCD), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t) | [Vai Com Calma](https://open.spotify.com/album/5ZaAnTOSuwFfbslG3rhZQQ) | 2:16 |
 | 71 | [Bounce](https://open.spotify.com/track/4LVy45tSEfOwGA9Pp1Kho6) | [NID4](https://open.spotify.com/artist/6bQ2LmPXQBukr21rUgOJXd), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Nick Dilla](https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j) | [Bounce](https://open.spotify.com/album/0LoNbzVBsDjLIVT7HkwDOe) | 3:38 |

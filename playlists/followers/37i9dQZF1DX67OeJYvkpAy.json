@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 90226,
+  "2024-04-20": 90224,
   "date_first_scraped": "2022-04-14",
   "description": "the best of the deep end. cover: Prinz",
   "name": "lofi rap",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128261,
       "name": "18+",
       "url": "https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5"
@@ -101,13 +101,13 @@
       },
       "artists": [
         {
-          "name": "JBee",
+          "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "4am",
       "url": "https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193714,
       "name": "4am",
       "url": "https://open.spotify.com/track/7afBX5p6Qw5RPfpedhEMWS"
@@ -214,12 +214,12 @@
         },
         {
           "name": "Jbandz",
-          "url": "https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg"
+          "url": "https://open.spotify.com/artist/4vG3ns25IXxTaMisoVaLxU"
         }
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 134193,
       "name": "Again",
       "url": "https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134234,
       "name": "Again",
       "url": "https://open.spotify.com/track/0oBMJ4PEkiU6jSabrP3Z82"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195200,
       "name": "Alone With You",
       "url": "https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195200,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/7AK01WpnqURCRFbOX4LOHa"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 167653,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/5NZFqe9zArfB2WRxpGp4Vj"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168135,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/2CKeKX8NIkbLj54F6qp7xD"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191611,
       "name": "Day and Night",
       "url": "https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 192052,
       "name": "Day and Night (Prodbyjak)",
       "url": "https://open.spotify.com/track/3Goa3sQx9cwGIk67iP1Mqf"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 182608,
       "name": "Derby To Moston",
       "url": "https://open.spotify.com/track/488gyYhx0kuJzJvMEXtouL"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182601,
       "name": "Derby to Moston",
       "url": "https://open.spotify.com/track/6UBZCTkCEHceMPMouEIdDY"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133090,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/4KX39Q6MDuzwYb4RWalM6o"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 203046,
       "name": "Everyone Keeps Asking",
       "url": "https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203046,
       "name": "Everyone Keeps Asking",
       "url": "https://open.spotify.com/track/5CnA7Zd6DNijdo3l7xruLr"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 138110,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138135,
       "name": "Frozen Gold",
       "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-14",
+      "date_removed": null,
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181044,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6gm42cBRMXY3uyiO8SvgMP"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 187402,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187617,
       "name": "Hoods Hottest",
       "url": "https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "I Thought I'd Die In Your Arms",
       "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
@@ -1825,7 +1825,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176680,
       "name": "I Thought I\u2019d Die In Your Arms",
       "url": "https://open.spotify.com/track/4b3pxifcb2ZdFWcutsC5Ik"
@@ -1843,7 +1843,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/09ZklXJx5nKCvZ8gm0Fhpw"
@@ -1879,7 +1879,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 150884,
       "name": "I Wanna Start My Life Again",
       "url": "https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
@@ -1951,7 +1951,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189781,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/6YuuPifFt2Oa4Flm6ttPHm"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 97436,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97477,
       "name": "Late Night Trips",
       "url": "https://open.spotify.com/track/3L39OdJrfnGfy3XSZA10Yd"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159753,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 159764,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1OVkxs6N32KszTbvWRftjj"
@@ -2223,7 +2223,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 214883,
       "name": "Love Don't Change",
       "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
@@ -2245,7 +2245,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215063,
       "name": "Love Don't Change",
       "url": "https://open.spotify.com/track/0Mrqm8cGahrzooiKmCE9lu"
@@ -2263,7 +2263,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp"
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6SHx5TR6SqJdGiwi8tlObe"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt 2",
       "url": "https://open.spotify.com/track/5w0OFvbgCjnbq9TK4vzVXL"
@@ -2391,7 +2391,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 125995,
       "name": "Mad About Bars - S5-E8 Pt2",
       "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
@@ -2413,7 +2413,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181090,
       "name": "Married To Music",
       "url": "https://open.spotify.com/track/062H0gbvraLlfXPJRzg7e5"
@@ -2435,7 +2435,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 181090,
       "name": "Married To Music",
       "url": "https://open.spotify.com/track/0BzkXAdyJcycv5eij2YzaQ"
@@ -2488,12 +2488,12 @@
       "artists": [
         {
           "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/52iJWJJfz31W1mLZ9gXmt5"
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 207249,
       "name": "Meaning Of Love",
       "url": "https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3"
@@ -2511,7 +2511,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207307,
       "name": "Meaning Of Love",
       "url": "https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 153045,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb"
@@ -2601,7 +2601,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 168751,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/1qSTiAFlGJY9aJVgreRF8D"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170062,
       "name": "No Emotions",
       "url": "https://open.spotify.com/track/5iSCp2kkb7UzpZavOMXhbA"
@@ -2771,7 +2771,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163723,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/5TZAWFQYqHyzCVC8KjMkYD"
@@ -2789,7 +2789,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 165405,
       "name": "No Pain",
       "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
@@ -2807,7 +2807,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT"
@@ -2843,7 +2843,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192004,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
@@ -2901,7 +2901,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-27",
+      "date_removed": null,
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn"
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW"
@@ -3165,7 +3165,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-24",
+      "date_removed": null,
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199705,
       "name": "She Comes & Goes",
       "url": "https://open.spotify.com/track/70PZ5vXHGujPPDZ18mj6A1"
@@ -3291,7 +3291,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 111250,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/2AV46a5bSajsxuchx4YKm7"
@@ -3309,7 +3309,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111253,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
@@ -3607,7 +3607,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 177464,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI"
@@ -3625,7 +3625,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180047,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
@@ -3643,7 +3643,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 194148,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ"
@@ -3661,7 +3661,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195558,
       "name": "The Talking Stage Game",
       "url": "https://open.spotify.com/track/75FaJdvovFsDgzm5pjvE6X"
@@ -3715,7 +3715,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181047,
       "name": "Too Cold 4 You Here (Sweater Weather)",
       "url": "https://open.spotify.com/track/2E8m0c6O141CrhoDGdTsDk"
@@ -3733,7 +3733,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 181047,
       "name": "Too Cold 4 You Here (Sweater Weather)",
       "url": "https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa"
@@ -3791,7 +3791,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
@@ -3813,7 +3813,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203128,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
@@ -3849,7 +3849,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 205053,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/0wCWfjqo0FV1CDseDGD0cV"
@@ -3867,7 +3867,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 161232,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161425,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/76ldXW0puAk2q8YhpFASxH"
@@ -4023,7 +4023,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
@@ -4041,7 +4041,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156053,
       "name": "Why you gotta lie?",
       "url": "https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb"

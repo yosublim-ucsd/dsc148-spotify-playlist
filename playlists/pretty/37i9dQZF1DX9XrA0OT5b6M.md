@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,067 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,088 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 28 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 |
 | 29 | [Free Will](https://open.spotify.com/track/1eeLvr5hYtgD1tqQkjlAN2) | [Ruppina](https://open.spotify.com/artist/3fISRzJmOrPlXYL6CIPeHM) | [Ruppina](https://open.spotify.com/album/5bB2Ctsi6X0QTWPfU71dZu) | 4:46 |
 | 30 | [FAITH](https://open.spotify.com/track/3MW8LSQ4LACmutnFCRISyJ) | [Ruppina](https://open.spotify.com/artist/3fISRzJmOrPlXYL6CIPeHM) | [Ruppina II](https://open.spotify.com/album/3SilZYp3w4HtzlxTT9FkWD) | 4:17 |
-| 31 | [A to Z \- ONE PIECE Edition](https://open.spotify.com/track/62kH8daI4ouLVcJRZzum6w) | [松井麻維](https://open.spotify.com/artist/1iAT4IDkq9D1Nx5GS6ZNBC) | [ONE PIECE Arrange Collection \(EUROBEAT\)](https://open.spotify.com/album/7kwFXNw8C2Jx5Yr15ajvJA) | 3:21 |
+| 31 | [A to Z\(ONE PIECE Edition\)](https://open.spotify.com/track/62kH8daI4ouLVcJRZzum6w) | [松井麻維](https://open.spotify.com/artist/1iAT4IDkq9D1Nx5GS6ZNBC) | [ONE PIECE Arrange Collection"EUROBEAT"](https://open.spotify.com/album/7kwFXNw8C2Jx5Yr15ajvJA) | 3:21 |
 | 32 | [エターナルポーズ](https://open.spotify.com/track/53FC7Hz9CaWLrYMiIYzDnI) | [Asia Engineer](https://open.spotify.com/artist/74wZs5STRphhABONtu04tt) | [エターナルポーズ](https://open.spotify.com/album/5TuF8BaJ6bEOWHPVSSIZBX) | 5:03 |
 | 33 | [Dear friends](https://open.spotify.com/track/5YRUnOfaenrnqNQOWiB5OB) | [TRIPLANE](https://open.spotify.com/artist/1NbiRwxHImuLW8Ym0fBzAH) | [home](https://open.spotify.com/album/4Gk4dFaOPaX7wtX34e6MaV) | 4:30 |
 | 34 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 |

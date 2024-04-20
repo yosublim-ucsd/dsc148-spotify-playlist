@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 453628,
+  "2024-04-20": 453726,
   "date_first_scraped": "2022-04-19",
   "description": "masquerades, moonlit encounters, and locking eyes across the ballroom",
   "name": "royalcore",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 706000,
       "name": "Adagio for Strings and Organ in G Minor",
       "url": "https://open.spotify.com/track/7BmRd83zm8CHffrAPe2ZR7"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 708933,
       "name": "Adagio for Strings and Organ in G Minor",
       "url": "https://open.spotify.com/track/7bvuOKIFqMyRSkLozmaoRg"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183266,
       "name": "Ancient Airs And Dances, Suite No. 3, P. 172: 3. Siciliana",
       "url": "https://open.spotify.com/track/1htHR9FmSnAu3N2JM1zm9J"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184248,
       "name": "Ancient Airs and Dances: Suite III, Siciliana",
       "url": "https://open.spotify.com/track/54lJBbBjMshjZtym5S1j2V"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 316653,
       "name": "Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140413,
       "name": "Kingdom Dance",
       "url": "https://open.spotify.com/track/0KbACwf5LFPSQqJJ3LNQXs"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140413,
       "name": "Kingdom Dance - From \"Tangled\"/Score",
       "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262746,
       "name": "Moonlight Lullaby (Piano and Orchestra)",
       "url": "https://open.spotify.com/track/112neUVPQrN3TjtZCl0OyG"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 262746,
       "name": "Moonlight Lullaby - Piano and Orchestra",
       "url": "https://open.spotify.com/track/5g8k0hmfrG82OsZUsBDRBU"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319973,
       "name": "Mozart: Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 429227,
       "name": "Pavane pour une infante d\u00e9funte, M. 19 (Version for Orchestra)",
       "url": "https://open.spotify.com/track/2DmlTLFphBLAIACKPsLAQH"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 429227,
       "name": "Pavane pour une infante d\u00e9funte, M. 19 (Version for Orchestra)",
       "url": "https://open.spotify.com/track/4lK8YqLWkYQgOIFU9feTqU"
@@ -1389,10 +1389,40 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151506,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
       "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "album": {
@@ -1507,7 +1537,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 204251,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen",
       "url": "https://open.spotify.com/track/2S9IQTWq2AsiKNztp6m3XZ"
@@ -1529,7 +1559,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204251,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen",
       "url": "https://open.spotify.com/track/3hUTE3r2qC1UiKXEMjd87Y"
@@ -1726,36 +1756,6 @@
     },
     {
       "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 151506,
-      "name": "Spring 1 - 2012",
-      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
-    },
-    {
-      "album": {
         "name": "Discovering Mendelssohn",
         "url": "https://open.spotify.com/album/4kx3vz3ZZj1XoqhewXx4jQ"
       },
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 277720,
       "name": "Suite No. 3 in D Major, BWV 1068: II. Air",
       "url": "https://open.spotify.com/track/5NX38moHuIqulZhJjVAK2g"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277720,
       "name": "Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: II. Air",
       "url": "https://open.spotify.com/track/3P15Mx8jlZd6CPrf9rGXBV"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 278360,
       "name": "The Village: Morning",
       "url": "https://open.spotify.com/track/0nyDhaZfQN7uw071Fpq8pg"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278360,
       "name": "The Village: Morning",
       "url": "https://open.spotify.com/track/6fv5zOzFVGSJBF2N8NCgG2"
@@ -2114,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Traitor (arr. String Quartet (inspired by Bridgerton))",
+        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222466,
+      "name": "Traitor (arr. String Quartet (inspired by Bridgerton))",
+      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
+    },
+    {
+      "album": {
         "name": "Traitor (Arr. for String Quartet / Inspired by Bridgerton)",
         "url": "https://open.spotify.com/album/1TEqV9AjxOrPcRkf4T6gvz"
       },
@@ -2125,28 +2143,10 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222466,
       "name": "Traitor - Arr. for String Quartet / Inspired by Bridgerton",
       "url": "https://open.spotify.com/track/6UrKD7QtUP5rJNkYafHXOU"
-    },
-    {
-      "album": {
-        "name": "Traitor [arr. String Quartet (inspired by Bridgerton)]",
-        "url": "https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga"
-      },
-      "artists": [
-        {
-          "name": "Music Lab Collective",
-          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
-      "duration_ms": 222466,
-      "name": "Traitor - arr. String Quartet (inspired by Bridgerton)",
-      "url": "https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca"
     },
     {
       "album": {
@@ -2173,7 +2173,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218893,
       "name": "Una Fantasia (String Orchestra Version)",
       "url": "https://open.spotify.com/track/2d9Kp4CT3GNLKNlbtbtjBG"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 218893,
       "name": "Una fantasia - String Orchestra Version",
       "url": "https://open.spotify.com/track/7e19iixIbdGGYuJmz5SyxX"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201133,
       "name": "Violin Concerto in A Minor, BWV 1041: I. Allegro",
       "url": "https://open.spotify.com/track/4Qme5WqyFjuvWpclAajLWu"
@@ -2347,13 +2347,13 @@
           "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
         },
         {
-          "name": "Helmut Muller-Bruhl",
+          "name": "Helmut M\u00fcller-Br\u00fchl",
           "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
         }
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201133,
       "name": "Violin Concerto in A Minor, BWV 1041: I. Allegro",
       "url": "https://open.spotify.com/track/5Tfe8u2Y3kjfozLD6tZdxP"

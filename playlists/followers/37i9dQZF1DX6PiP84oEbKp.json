@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5995,
+  "2024-04-20": 5994,
   "date_first_scraped": "2021-12-28",
   "description": "A pride playlist for the whole family. Cover: JoJo Siwa",
   "name": "ROY G BIV",
@@ -105,10 +105,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/53jnnqFSRGMDB9ADrNriCA"
     },
     {
       "album": {
@@ -159,7 +177,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183653,
       "name": "Boy Or Girl Colour",
       "url": "https://open.spotify.com/track/2P65xZN3MzNxxMBoKJEIye"
@@ -177,7 +195,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183653,
       "name": "Boy or Girl Colour",
       "url": "https://open.spotify.com/track/4t0917UONxsUhyiQvjIeEE"
@@ -575,24 +593,6 @@
     {
       "album": {
         "name": "Nonstop",
-        "url": "https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
-        }
-      ],
-      "date_added": "2021-08-27",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
-      "duration_ms": 140025,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld"
-    },
-    {
-      "album": {
-        "name": "Nonstop",
         "url": "https://open.spotify.com/album/3Rfex8n3nRVBZyN0JX059j"
       },
       "artists": [
@@ -611,6 +611,24 @@
     {
       "album": {
         "name": "Nonstop",
+        "url": "https://open.spotify.com/album/75Ihw1IDFXtLMkqqLE57xg"
+      },
+      "artists": [
+        {
+          "name": "Jojo Siwa (Kids)",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140025,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/07sscPQA6fR2yGVf3vMmld"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
         "url": "https://open.spotify.com/album/6b9STxR1fsmemwH0C2DlIH"
       },
       "artists": [
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140025,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/7M0S9UOrhrWM0Ce7Tkl8QT"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 53972,
       "name": "Play It Loud",
       "url": "https://open.spotify.com/track/0PrCmeLBJHrXCvhV7HJbzu"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 53972,
       "name": "Play It Loud",
       "url": "https://open.spotify.com/track/4HHvuJOM3WCIjbL7OUoC6k"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157121,
       "name": "Snowpeople",
       "url": "https://open.spotify.com/track/0vuDGOYwfuqM3SQaVFs7D1"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 157121,
       "name": "Snowpeople",
       "url": "https://open.spotify.com/track/1qFWXT8iWQIuDOAUXoqZV4"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 76933,
       "name": "Some Girls Have Short Hair",
       "url": "https://open.spotify.com/track/0uaEO7D5FuGAOj8GeWGLFp"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 76933,
       "name": "Some Girls Have Short Hair",
       "url": "https://open.spotify.com/track/1n9inNjAfarRPFsSw3ErCm"

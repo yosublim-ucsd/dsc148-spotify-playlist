@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 26494,
+  "2024-04-20": 26517,
   "date_first_scraped": "2022-08-25",
   "description": "<a href=\"spotify:artist:1aIWC7EGIcWotOZ8LNHH9j\">Jad Halal</a>'s favorite tracks. Updated regularly. Curated by Jad Halal. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jad Halal's track IDs",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 315380,
       "name": "7 Seconds",
       "url": "https://open.spotify.com/track/0oTlIKCkZIoDlNR6TMZsGn"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315380,
       "name": "7 Seconds",
       "url": "https://open.spotify.com/track/5jcwno0cS1H268LWyYpof1"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 383606,
       "name": "Amore",
       "url": "https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383606,
       "name": "Amore",
       "url": "https://open.spotify.com/track/3LvAMGMQt0GEPSBrDFxkRB"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407359,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/2hcsrCxx6PVrV21fAxt1k4"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 408000,
       "name": "Desperado - Vocal Mix",
       "url": "https://open.spotify.com/track/5SDO2GkFtXM0PD5jpymcBD"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 371803,
       "name": "Mambo Jambo",
       "url": "https://open.spotify.com/track/1n0d2fCAQCdohS6YPnXKWB"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 371803,
       "name": "Mambo Jambo",
       "url": "https://open.spotify.com/track/1rSjmBi8rvl1mJg1eAOkan"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223604,
       "name": "Somebody - Edit",
       "url": "https://open.spotify.com/track/6sGmDThWXd16RUqAI4VRFz"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 223604,
       "name": "Somebody - Edit",
       "url": "https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3"
@@ -2691,7 +2691,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 504590,
       "name": "What To Do - &ME Remix",
       "url": "https://open.spotify.com/track/0RMQgXHIBTsAVcaS7qahLq"
@@ -2713,7 +2713,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 504590,
       "name": "What To Do - &ME Remix",
       "url": "https://open.spotify.com/track/3PpvhYXmJdfoxeXGWJmeas"
@@ -2925,7 +2925,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 381720,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/0qLp8n67H96dA3L0ySGb0l"
@@ -2943,7 +2943,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381720,
       "name": "Yumi",
       "url": "https://open.spotify.com/track/3AYRPb2JAD4GZ6L6LeHoj5"

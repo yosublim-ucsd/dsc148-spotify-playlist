@@ -4,11 +4,11 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-580 songs - 1 day 17 hr 13 min
+581 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [$ea Pimp](https://open.spotify.com/track/11KBYCu1z3GfjRNbHr5yc3) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Jackal](https://open.spotify.com/album/5d9OHsawKvbTG3D50nCMU4) | 4:37 | 2022-02-17 |  |
+| [$ea Pimp](https://open.spotify.com/track/11KBYCu1z3GfjRNbHr5yc3) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Jackal](https://open.spotify.com/album/5d9OHsawKvbTG3D50nCMU4) | 4:37 | 2022-02-17 | 2024-04-20 |
 | [1/500](https://open.spotify.com/track/1i9t7kJgDkSKDr64JAxzlg) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [OCCUPIED DETECTIVE Vol.5 Stalker](https://open.spotify.com/album/3DWWNrtbZQpTPaofhNnKQB) | 4:06 | 2022-06-10 | 2022-06-30 |
 | [37 Surrey Street](https://open.spotify.com/track/0jCwKvfyosti2lDoTrDV0Y) | [Sir Hiss](https://open.spotify.com/artist/5eUlRqUYUY2rsuw7ZWTXTK) | [Selenki](https://open.spotify.com/album/0hPxl3pfPkxIpjMwfnT3Ei) | 4:27 | 2022-05-06 | 2022-06-11 |
 | [3Klane](https://open.spotify.com/track/3ZaMplHfMrKQytFSeufC6Z) | [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7), [Jakes & Joker](https://open.spotify.com/artist/39gojVmCwgRtsvX5PwpYuN), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [3Klane / Modem](https://open.spotify.com/album/19YUY4lY16JltlJV9ndRE5) | 4:14 | 2022-02-17 | 2022-04-07 |
@@ -276,7 +276,7 @@
 | [Lies](https://open.spotify.com/track/3XxpibWu8B2ZIRD3HFksZC) | [NotLö](https://open.spotify.com/artist/0UmpDfZvwJpXxsOBaKmW5Z), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Lies](https://open.spotify.com/album/08duicoxqT3mKn6Y2FOz8j) | 3:12 | 2023-03-17 |  |
 | [Life Without Meaning](https://open.spotify.com/track/56mPUqA3PwxGKTNXR9giQu) | [Soukah](https://open.spotify.com/artist/243gr62h7yfUDhuznWXRpF) | [Life Without Meaning / You Can Run Much Faster](https://open.spotify.com/album/52xZv0kPf4kxhWvlnYlp9A) | 5:16 | 2022-02-17 | 2024-01-19 |
 | [Light Transmission](https://open.spotify.com/track/0JyboEk7HNGbCBfyAHUIbR) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Alandazu EP](https://open.spotify.com/album/4XlxezT0hwytoRYiMYMa88) | 5:39 | 2022-03-25 | 2022-04-26 |
-| [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/album/0IuffqK8EOxmYQfAlis7QF) | 2:38 | 2023-09-29 | 2024-04-04 |
+| [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/track/4LVcRkElDaOWOC4SfO3LRm) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC), [dêtre](https://open.spotify.com/artist/22H63n9LhxdWcljuWiNNGT) | [Lightspeed \(feat\. dêtre\)](https://open.spotify.com/album/0IuffqK8EOxmYQfAlis7QF) | 2:38 | 2023-09-29 |  |
 | [Like That](https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Like That](https://open.spotify.com/album/0WHJCUT9x9kd3FyjAPZS3b) | 3:12 | 2023-10-27 |  |
 | [Limits](https://open.spotify.com/track/0I9tcuy5MfjZQyVrtJXUxy) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Fractals](https://open.spotify.com/album/7exs0W7HrIu3T3oR0kX9oS) | 5:58 | 2022-02-17 | 2022-07-02 |
 | [Lion](https://open.spotify.com/track/5vrN7cbh6FK5ThqdtbQQPW) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Lion EP](https://open.spotify.com/album/7a7AK0fIqXXx3m40R18Df1) | 4:29 | 2022-02-17 | 2022-07-28 |
@@ -448,6 +448,7 @@
 | [Shuriken](https://open.spotify.com/track/6Q4h3t4NS4UDL8P2jsuYS7) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Headland](https://open.spotify.com/artist/1lgQK2ZzhWHY54kWPABNAb) | [Shuriken](https://open.spotify.com/album/4BSyCTMEaBAgIasCcT001h) | 6:00 | 2023-06-09 | 2023-08-24 |
 | [Sick Fing](https://open.spotify.com/track/2YWWbTRdDpwympJPudyZlM) | [Stillhead](https://open.spotify.com/artist/6kAJ3c9QA35wGowhDQeaya) | [Sick Fing](https://open.spotify.com/album/3DWjqUtrpV32qaHWwyrhkd) | 4:12 | 2022-07-01 | 2022-10-22 |
 | [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 | 2024-03-22 |  |
+| [Simplicity](https://open.spotify.com/track/4VlfpC3JkhxPhZtypJ1j0U) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Simplicity](https://open.spotify.com/album/6WZDjTXxLKKviWuAgd71xv) | 3:52 | 2024-04-19 |  |
 | [Single Entity](https://open.spotify.com/track/6boVvpFAMZgqdoFOPnHaGx) | [Killawatt](https://open.spotify.com/artist/0WaR9ydw7sZikp1dfHV8Xc) | [This Is Dubstep 2013](https://open.spotify.com/album/3662bNO8Ynjc0kMXvo1BXW) | 5:36 | 2022-02-17 | 2022-07-24 |
 | [Sinker](https://open.spotify.com/track/0FnaZWJgBpObO0SsIiy3Cb) | [Goth\-Trad](https://open.spotify.com/artist/133pV477MVSsj1MHgsrIc9) | [Sinker / Sunbeam VIP](https://open.spotify.com/album/1NWNgQdgp03DVaMtEguJ6c) | 5:15 | 2022-02-17 | 2022-04-08 |
 | [Skanka](https://open.spotify.com/track/3M2l5Rh3qLjHzgVEWbyAbZ) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Skanka](https://open.spotify.com/album/6VdZkGxkcdhZebv9u7solf) | 3:41 | 2022-02-17 |  |
@@ -498,7 +499,7 @@
 | [Swank](https://open.spotify.com/track/7BJyAdedrmdtvJWkcab48n) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Fractals](https://open.spotify.com/album/7exs0W7HrIu3T3oR0kX9oS) | 4:10 | 2022-02-17 | 2022-04-29 |
 | [Sweet & Sour](https://open.spotify.com/track/61uCfCSfafUlGhY4yhOhp7) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk) | [Sweet & Sour](https://open.spotify.com/album/160Vz5WDOWAnLVgH66yuZD) | 4:30 | 2023-08-25 |  |
 | [Sweet Doughs](https://open.spotify.com/track/7znIZu8XQvnBHRY5OVCaOK) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Sweet Doughs](https://open.spotify.com/album/758JCrohSgvY4NJtRbmuXG) | 3:34 | 2022-02-17 | 2022-07-30 |
-| [Sworda](https://open.spotify.com/track/5Kb6VKVsDanGOM43JQpdt9) | [Freddy Todd](https://open.spotify.com/artist/4BwM43tn51Mq0Dn8NMB5zk) | [Chaos Hotline](https://open.spotify.com/album/0qIggK0LErMy5obdnPzcHG) | 4:15 | 2024-02-23 |  |
+| [Sworda](https://open.spotify.com/track/5Kb6VKVsDanGOM43JQpdt9) | [Freddy Todd](https://open.spotify.com/artist/4BwM43tn51Mq0Dn8NMB5zk) | [Chaos Hotline](https://open.spotify.com/album/0qIggK0LErMy5obdnPzcHG) | 4:15 | 2024-02-23 | 2024-04-20 |
 | [System Skank](https://open.spotify.com/track/2xHLsrKZvzr9kAiZwha3pP) | [Sabab](https://open.spotify.com/artist/2F5eYjt1JbzHU3goBgDRV4) | [Fittest of The Fittest EP](https://open.spotify.com/album/5eaFqpKnAohyRBlETZI7ge) | 5:15 | 2022-02-17 | 2022-10-02 |
 | [Tabula](https://open.spotify.com/track/53sCpqLOuxNmqaGJIakXPQ) | [Foamplate](https://open.spotify.com/artist/2QaEAd5s6mZkvrItP2yYYP) | [Tabula / Deadly Habit](https://open.spotify.com/album/57eTxzjyN2zDkApfmwWKLj) | 6:27 | 2022-07-08 | 2022-08-22 |
 | [Tabula](https://open.spotify.com/track/6XArhS3fDmOttqXifOX5pn) | [Foamplate](https://open.spotify.com/artist/2QaEAd5s6mZkvrItP2yYYP) | [Tabula / Deadly Habit](https://open.spotify.com/album/0EW6YXDsI0yku3le8cqAth) | 6:27 | 2022-02-17 | 2022-07-29 |

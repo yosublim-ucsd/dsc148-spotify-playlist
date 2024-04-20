@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 120896,
+  "2024-04-20": 120932,
   "date_first_scraped": "2023-02-14",
   "description": "Bringing out the best of latest love tracks\nCover : The Family Star",
   "name": "Latest Romance Telugu",
@@ -253,6 +253,32 @@
       "duration_ms": 238000,
       "name": "Anukokunda Chusane (From \"Grandhalayam\")",
       "url": "https://open.spotify.com/track/6cYvTUZIyGkkv7e19tW0AF"
+    },
+    {
+      "album": {
+        "name": "Om Bheem Bush",
+        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
+      },
+      "artists": [
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211670,
+      "name": "Anuvanuvuu",
+      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
       "album": {
@@ -671,7 +697,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 205215,
       "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
       "url": "https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN"
@@ -701,7 +727,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205215,
       "name": "Chanuvuga Chusina (From \"Peddha Kapu - 1\")",
       "url": "https://open.spotify.com/track/48ZF74Oi3xueh0757PvEYf"
@@ -1143,7 +1169,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230425,
       "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\")",
       "url": "https://open.spotify.com/track/368K2vpr06WF92JU7cDAnD"
@@ -1169,7 +1195,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 230425,
       "name": "Gaganaala-Love is in the Air (From \"Operation Valentine\") (Telugu)",
       "url": "https://open.spotify.com/track/3laPdjIsdYtkilT6c5N1dn"
@@ -1437,7 +1463,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 211295,
       "name": "Inka Inka (From \"Naa Saami Ranga\")",
       "url": "https://open.spotify.com/track/3Tmry3mvrMXSQDxqkFezqC"
@@ -1463,7 +1489,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211295,
       "name": "Inka Inka (From \"Naa Saami Ranga\")",
       "url": "https://open.spotify.com/track/1XEO0GOd3Ds453Ee0uXJLk"
@@ -1507,7 +1533,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
       "url": "https://open.spotify.com/track/6YuOxaMb7UC3gL8snkZvHL"
@@ -1529,7 +1555,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 224477,
       "name": "Jaanavule (From \"BRO\")",
       "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"
@@ -1753,7 +1779,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
       "url": "https://open.spotify.com/track/3JJyz9Y9nOKkP4VciucAPh"
@@ -1779,7 +1805,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279670,
       "name": "Kallatho Kaatesinave (From \"Rudramkota\")",
       "url": "https://open.spotify.com/track/7zJK7oXQnuzKGu7ctgpkdb"
@@ -2087,7 +2113,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246997,
       "name": "Maaye Chesi (From \"Devil - The British Secret Agent\")",
       "url": "https://open.spotify.com/track/1Mi843sbuuWmx0JQwiDq5F"
@@ -2113,7 +2139,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 246997,
       "name": "Maaye Chesi (From \"Devil - The British Secret Agent\")",
       "url": "https://open.spotify.com/track/3NJa12j9bLQ7eZHg0JNrRD"
@@ -2901,6 +2927,32 @@
     {
       "album": {
         "name": "Gandeevadhari Arjuna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5AeyZe923QisS2s9VyDIs3"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Elvya",
+          "url": "https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Nee Jathai",
+      "url": "https://open.spotify.com/track/3vl82UXmY4KEk8cYc8Qq8i"
+    },
+    {
+      "album": {
+        "name": "Gandeevadhari Arjuna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4GEBKVxYcebjsTSQOndDym"
       },
       "artists": [
@@ -2919,7 +2971,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234000,
       "name": "Nee Jathai",
       "url": "https://open.spotify.com/track/5tnfQ6duDT5puWQgXdM3iu"
@@ -3093,7 +3145,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 228031,
       "name": "Neelaa Nannilaa",
       "url": "https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi"
@@ -3111,7 +3163,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228031,
       "name": "Neelaa Nannilaa",
       "url": "https://open.spotify.com/track/4Tp8Sl7Bul4D40vAlDvx0C"
@@ -3617,10 +3669,36 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282636,
       "name": "Oh Madam (From \"Aa Okkati Adakku\")",
       "url": "https://open.spotify.com/track/469cEOKrNx6i174DME9w60"
+    },
+    {
+      "album": {
+        "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+        "url": "https://open.spotify.com/album/4w6Yk9BowBhqsXiqMA7m6A"
+      },
+      "artists": [
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282636,
+      "name": "Oh Madam (From \"Aa Okkati Adakku\")",
+      "url": "https://open.spotify.com/track/2SrTDN6saJjGUH8rbl5uz3"
     },
     {
       "album": {
@@ -3705,7 +3783,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 224554,
       "name": "Oh Na Madhu (From \"Month Of Madhu\")",
       "url": "https://open.spotify.com/track/1Q3toQpRmia59SoJpo8m0g"
@@ -3735,7 +3813,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224554,
       "name": "Oh Na Madhu (From \"Month Of Madhu\")",
       "url": "https://open.spotify.com/track/1Bw2vPShbMpG1icqIfsKlW"
@@ -3861,10 +3939,36 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258000,
       "name": "Paravasame Paravasame (From \"Narayana & Co\")",
       "url": "https://open.spotify.com/track/2pRvXeJbRMgNAOVPAYTEVW"
+    },
+    {
+      "album": {
+        "name": "Paravasame Paravasame (From \"Narayana And Co\")",
+        "url": "https://open.spotify.com/album/30i3MJ3Be1LT24JHRcbzFQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Josyabhatla",
+          "url": "https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "K. Pranati",
+          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Paravasame Paravasame (From \"Narayana And Co\")",
+      "url": "https://open.spotify.com/track/10UULk3rJivW6YHsP60Una"
     },
     {
       "album": {
@@ -4241,7 +4345,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218842,
       "name": "Sarada Saradaga (From \"Saindhav\")",
       "url": "https://open.spotify.com/track/1fOr0ysbNOkHy23yJ5IR1a"
@@ -4267,7 +4371,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 218842,
       "name": "Sarada Saradaga (From \"Saindhav\") (Telugu)",
       "url": "https://open.spotify.com/track/7vhRfB1xkdItr7e6ilLYxS"
@@ -4699,7 +4803,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255445,
       "name": "Vennello Aadapilla",
       "url": "https://open.spotify.com/track/4WFMMeXBuMgoNabiRjAWLc"
@@ -4825,10 +4929,36 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201600,
       "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
       "url": "https://open.spotify.com/track/2LVsSLBBcf75ORYtRcYIO9"
+    },
+    {
+      "album": {
+        "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
+        "url": "https://open.spotify.com/album/3O58tTvMyhvd9LYjNDansR"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Yedo Yedo Maaya (From \"Bhimaa\")",
+      "url": "https://open.spotify.com/track/1QBTZy7E6aLKQFuyimNn0m"
     },
     {
       "album": {

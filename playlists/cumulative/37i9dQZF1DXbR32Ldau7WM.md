@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now!  Cover: The Birthday
 
-1,024 songs - 2 day 19 hr 49 min
+1,025 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
 | [FOREVER](https://open.spotify.com/track/3A29FbPw6xYGQBMhJJQjAi) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [FOREVER](https://open.spotify.com/album/04D5rni6S285fGQnaNKo6b) | 4:36 | 2022-05-10 | 2022-06-19 |
 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 | 2022-06-07 | 2022-09-30 |
+| [From Noon Till Dawn](https://open.spotify.com/track/1JvKz4nqanQxbc8behZqbM) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC), [田中邦和](https://open.spotify.com/artist/6KN1LZmCvjzsIsOl5ntwuK) | [21st CENTURY ROCK BAND](https://open.spotify.com/album/10c8wTjSC2XV3aUMa5VgqG) | 3:49 | 2024-04-03 |  |
 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 | 2022-07-05 | 2023-06-28 |
 | [Fuel](https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Fuel](https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs) | 3:29 | 2022-05-17 | 2023-05-10 |
 | [Fusen Sanka](https://open.spotify.com/track/4TOSbBEsPsUhoZTPCkFlPk) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 4:14 | 2022-12-31 | 2023-11-18 |
@@ -748,7 +749,7 @@
 | [タイマン・ファンタジー](https://open.spotify.com/track/1kSoNgf1LSTEQ1NWmqZEwT) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [タイマン・ファンタジー](https://open.spotify.com/album/5hvWTCctUZlwPPEtfFGnuG) | 5:08 | 2022-12-06 | 2022-12-21 |
 | [タタカエブリバディ](https://open.spotify.com/track/6HuaMfd51muvgrwhJs4F9X) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [タタカエブリバディ](https://open.spotify.com/album/1F6ZHIzZ37d6AmY6OyOaV0) | 4:20 | 2022-05-10 | 2022-07-24 |
 | [ダニ](https://open.spotify.com/track/1ZcYKVMKwn6Nc3V0e3PR5V) | [GOLDEN BOMBER](https://open.spotify.com/artist/2BHobTrfUdKWd84nLdMViA) | [COMPACT DISC](https://open.spotify.com/album/6eSqLM101PkLtOunSsmjYe) | 4:29 | 2023-02-07 | 2023-02-09 |
-| [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 | 2024-01-23 |  |
+| [チャイコフスキーでよろしく](https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:26 | 2024-01-23 | 2024-04-20 |
 | [チョイス](https://open.spotify.com/track/0k9m6iduQbeTeqxxFHZ62z) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:55 | 2023-07-11 | 2023-07-19 |
 | [チョイス](https://open.spotify.com/track/7eSRFqmnYepZtjJ4IdrlNT) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:55 | 2023-07-11 | 2023-07-13 |
 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2022-12-31 |  |

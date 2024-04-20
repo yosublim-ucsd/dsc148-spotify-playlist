@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12368,
+  "2024-04-20": 12386,
   "date_first_scraped": "2023-09-18",
   "description": "pra entrar e ficar na onda",
   "name": "Jersey BR",
@@ -513,7 +513,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/5lZ33ZXDIUDAskmS1XgvqU"
@@ -1011,6 +1011,28 @@
       "duration_ms": 208036,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/1Pq1ZyRXgFXZwmCbIFCfOP"
+    },
+    {
+      "album": {
+        "name": "Ditando o Ritmo",
+        "url": "https://open.spotify.com/album/5bt85BUeiWwI4lbjMe9LQH"
+      },
+      "artists": [
+        {
+          "name": "J. Sosa",
+          "url": "https://open.spotify.com/artist/3XiiUWVj1hgtF7cKvQUuKF"
+        },
+        {
+          "name": "LaNaz",
+          "url": "https://open.spotify.com/artist/34tCjQmwaWsjfyYjqpfaMb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Ditando o Ritmo",
+      "url": "https://open.spotify.com/track/3SLrH1NHFunOjvK9wLCz31"
     },
     {
       "album": {
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131173,
       "name": "G5",
       "url": "https://open.spotify.com/track/0yhMGrf0Kd0RYK3cQdptdH"
@@ -1537,7 +1559,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 131173,
       "name": "G5",
       "url": "https://open.spotify.com/track/3Yg4nn1ECtptmQfniWAOn2"
@@ -1701,6 +1723,46 @@
       "duration_ms": 83897,
       "name": "Incomum (Jersey Club Br)",
       "url": "https://open.spotify.com/track/2pWtj88cqyaSOLLJLo6xMQ"
+    },
+    {
+      "album": {
+        "name": "Jeito que ela mente",
+        "url": "https://open.spotify.com/album/45iJ1aFJkYsCp21doTrrWA"
+      },
+      "artists": [
+        {
+          "name": "Vidal",
+          "url": "https://open.spotify.com/artist/10duOEQIy2Bhu9Dm1SIMtI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139043,
+      "name": "Jeito que ela mente",
+      "url": "https://open.spotify.com/track/21Q001YAzkZ26L2XF6hOvs"
+    },
+    {
+      "album": {
+        "name": "DEBI & L\u00d3IDE",
+        "url": "https://open.spotify.com/album/11VLHVG0lXAt332d7Y01qe"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "JERSEY CLUB",
+      "url": "https://open.spotify.com/track/2QdvoOLbv0hh8CE2utchpO"
     },
     {
       "album": {
@@ -2025,6 +2087,32 @@
       "duration_ms": 260538,
       "name": "Mexe Mexe",
       "url": "https://open.spotify.com/track/0PKOVSMvvmAvQaVgtZVt6n"
+    },
+    {
+      "album": {
+        "name": "MISS YOU",
+        "url": "https://open.spotify.com/album/2gmWmAfNYARlwqLu58Ufuq"
+      },
+      "artists": [
+        {
+          "name": "TRXVELER",
+          "url": "https://open.spotify.com/artist/31VaidRoI1NnHfyY8SxSL7"
+        },
+        {
+          "name": "da99y",
+          "url": "https://open.spotify.com/artist/78p7U6WueOjS7mtvSCBnl2"
+        },
+        {
+          "name": "acronym.",
+          "url": "https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110817,
+      "name": "MISS YOU",
+      "url": "https://open.spotify.com/track/04kFjJ9hiRgNLfjF4nQAGA"
     },
     {
       "album": {
@@ -2635,7 +2723,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 128086,
       "name": "Postura de Braba",
       "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
@@ -3313,6 +3401,24 @@
       "duration_ms": 150400,
       "name": "Tudo Que Pedir",
       "url": "https://open.spotify.com/track/3Vfm4zFtNB65PAnmYtRrNn"
+    },
+    {
+      "album": {
+        "name": "Tudo Que \u00e9 Natural \u00e9 Melhor",
+        "url": "https://open.spotify.com/album/3ZffERyVRBEnioc7Rd0fSD"
+      },
+      "artists": [
+        {
+          "name": "Ven\u00e2ncio",
+          "url": "https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Tudo Que \u00e9 Natural \u00e9 Melhor",
+      "url": "https://open.spotify.com/track/6ryw9MM4cxLzJ9Qw0FfMFj"
     },
     {
       "album": {

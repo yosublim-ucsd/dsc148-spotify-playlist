@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5495,
+  "2024-04-20": 5519,
   "date_first_scraped": "2023-10-28",
   "description": "Sleepy, cosy piano music for snoozing, power naps and relaxation. ",
   "name": "Nap Time",
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
@@ -1491,6 +1491,24 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
     },
     {
       "album": {
@@ -1620,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm"
+      },
+      "artists": [
+        {
+          "name": "Dawn Huntley",
+          "url": "https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg"
+    },
+    {
+      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231"
       },
@@ -1639,6 +1675,24 @@
     {
       "album": {
         "name": "Lyra",
+        "url": "https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw"
+      },
+      "artists": [
+        {
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP"
+    },
+    {
+      "album": {
+        "name": "Lyra",
         "url": "https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF"
       },
       "artists": [
@@ -1649,7 +1703,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
@@ -2546,6 +2600,24 @@
     },
     {
       "album": {
+        "name": "Slow Movements",
+        "url": "https://open.spotify.com/album/5utCrR0B4LDVvgCpeRVKIX"
+      },
+      "artists": [
+        {
+          "name": "Claire Lerdier",
+          "url": "https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Slow Movements",
+      "url": "https://open.spotify.com/track/5Ts7azb9QNWm8r64F4QZap"
+    },
+    {
+      "album": {
         "name": "Slow Sorrow",
         "url": "https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx"
       },
@@ -2773,10 +2845,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/3mZ1vH8XtCcBL1HNrHfGWU"
+    },
+    {
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/4Ge1CzxVa3ZYyBktNopMjq"
+      },
+      "artists": [
+        {
+          "name": "Mikael Sapin",
+          "url": "https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135969,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"
     },
     {
       "album": {
@@ -3141,6 +3231,24 @@
     {
       "album": {
         "name": "Waves",
+        "url": "https://open.spotify.com/album/3BkQQlkS7ROeILw3aoJ2zu"
+      },
+      "artists": [
+        {
+          "name": "Astrid Evans",
+          "url": "https://open.spotify.com/artist/4f3z31SdUpS0auVOk6h2Vj"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144575,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3Q4SprlTUVDg4HkH0e9vQR"
+    },
+    {
+      "album": {
+        "name": "Waves",
         "url": "https://open.spotify.com/album/0ERpE5TAYb6GSInWr0v6dI"
       },
       "artists": [
@@ -3151,7 +3259,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144334,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4POl5mnK3ZDe6crPzkxW9L"
@@ -3421,10 +3529,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167000,
       "name": "\u00d3tta",
       "url": "https://open.spotify.com/track/1HIsNXsMp337FECrM521V0"
+    },
+    {
+      "album": {
+        "name": "\u00d3tta",
+        "url": "https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh"
+      },
+      "artists": [
+        {
+          "name": "Stef\u00e1n Hafsteinsson",
+          "url": "https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "\u00d3tta",
+      "url": "https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7FUaCNVd2fs"

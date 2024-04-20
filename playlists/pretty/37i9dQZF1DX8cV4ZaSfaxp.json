@@ -1,6 +1,6 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Taeha(\ud0dc\ud558)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 51573,
+  "num_followers": 51581,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "SAY SOMETHING",
-      "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "SAY SOMETHING",
+      "url": "https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "MORE & MORE",
         "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 191986,
       "name": "SWEET SUMMER DAY",
       "url": "https://open.spotify.com/track/6UrML9LyuaBWgZV3nFLLGl"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Plastic Candy",
-        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
-      },
-      "artists": [
-        {
-          "name": "HaSeul",
-          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Plastic Candy",
-      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "First Winter",
         "url": "https://open.spotify.com/album/7Kudn82wLhfFfxLVhi9VhA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 240853,
       "name": "First Winter",
       "url": "https://open.spotify.com/track/5eWw4OyW26hL51XFSTkTPg"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Plastic Candy",
+        "url": "https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ"
+      },
+      "artists": [
+        {
+          "name": "HaSeul",
+          "url": "https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Plastic Candy",
+      "url": "https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
-      },
-      "artists": [
-        {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "AOA 4th Mini Album Good Luck",
         "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 236031,
       "name": "10 Seconds",
       "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "The Story Of The Year (feat. Wonwoo)",
+        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Wonwoo",
+          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
+        }
+      ],
+      "duration_ms": 253948,
+      "name": "The Story Of The Year (feat. Wonwoo)",
+      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 214560,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "The Story Of The Year (feat. Wonwoo)",
-        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
-      },
-      "artists": [
-        {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "Wonwoo",
-          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
-        }
-      ],
-      "duration_ms": 253948,
-      "name": "The Story Of The Year (feat. Wonwoo)",
-      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "MINI",
-        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+        "name": "What's Your Number? - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
       },
       "artists": [
         {
-          "name": "LIM JIMIN",
-          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Loveholic",
-      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+      "duration_ms": 240970,
+      "name": "What's Your Number?",
+      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "MINI",
+        "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
+      },
+      "artists": [
+        {
+          "name": "LIM JIMIN",
+          "url": "https://open.spotify.com/artist/6MR6N2h4KSNmJ26OSrROYh"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Loveholic",
+      "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29"
       },
@@ -1279,38 +1295,6 @@
       "duration_ms": 203573,
       "name": "It`s Been A While (Maxim City Summer Life c.f)",
       "url": "https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "What's Your Number? - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7DHBtzFbNw2eYLRlz45tyC"
-      },
-      "artists": [
-        {
-          "name": "ZHOUMI",
-          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
-        }
-      ],
-      "duration_ms": 240970,
-      "name": "What's Your Number?",
-      "url": "https://open.spotify.com/track/2sz51U97nSzNWJIsCSNH89"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Drive to 1980 Love",
-        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
-      },
-      "artists": [
-        {
-          "name": "JANE POP",
-          "url": "https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Drive to 1980 Love",
-      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1335,38 +1319,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "AQUA CITY",
-        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 216578,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Rainbow note",
-        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "Line 1",
-      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1387,6 +1339,22 @@
       "duration_ms": 278226,
       "name": "Forget You (Feat. Rainbow note, Louie)",
       "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "AQUA CITY",
+        "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        }
+      ],
+      "duration_ms": 216578,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1419,6 +1387,38 @@
       "duration_ms": 208085,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "Line 1",
+      "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Drive to 1980 Love",
+        "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
+      },
+      "artists": [
+        {
+          "name": "JANE POP",
+          "url": "https://open.spotify.com/artist/7G6b59wjxcAlNpSCmfig5u"
+        }
+      ],
+      "duration_ms": 191103,
+      "name": "Drive to 1980 Love",
+      "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
+        "name": "My Universe - Home Recording Project #4",
+        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
       "artists": [
         {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+          "name": "W24",
+          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
         }
       ],
-      "duration_ms": 241542,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
+      "duration_ms": 200000,
+      "name": "My Universe - Home Recording Project #4",
+      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1487,22 +1487,6 @@
       "duration_ms": 162709,
       "name": "City",
       "url": "https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "My Universe - Home Recording Project #4",
-        "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
-      },
-      "artists": [
-        {
-          "name": "W24",
-          "url": "https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "My Universe - Home Recording Project #4",
-      "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1543,22 +1527,6 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t"
       },
@@ -1579,6 +1547,38 @@
       "duration_ms": 212750,
       "name": "Midnight (feat. SFC.JGR & B JYUN.)",
       "url": "https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 241542,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
+      },
+      "artists": [
+        {
+          "name": "NO_ON",
+          "url": "https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Passing Light",
+      "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+    },
+    {
+      "added_at": "2024-04-19 06:17:12",
+      "album": {
         "name": "INCHEON CITYPOP Vol. 1",
         "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2024-04-19 06:17:12",
       "album": {
-        "name": "Passing",
-        "url": "https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3"
+        "name": "Temperature of Love",
+        "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
       },
       "artists": [
         {
-          "name": "NO_ON",
-          "url": "https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz"
+          "name": "Yoon Jisung",
+          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
         }
       ],
-      "duration_ms": 179393,
-      "name": "Passing Light",
-      "url": "https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav"
+      "duration_ms": 226440,
+      "name": "Love Counseling",
+      "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
     },
     {
       "added_at": "2024-04-19 06:17:12",
@@ -1667,22 +1683,6 @@
       "duration_ms": 146800,
       "name": "City 1:00",
       "url": "https://open.spotify.com/track/0JsaFslY2aeK0gTWfASl9O"
-    },
-    {
-      "added_at": "2024-04-19 06:17:12",
-      "album": {
-        "name": "Temperature of Love",
-        "url": "https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jisung",
-          "url": "https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Love Counseling",
-      "url": "https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

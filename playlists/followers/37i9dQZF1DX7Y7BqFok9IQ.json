@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 201520,
+  "2024-04-20": 201606,
   "date_first_scraped": "2022-05-26",
   "description": "The best of modern blues rock. Cover: Slash",
   "name": "Modern Blues Rock",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225877,
       "name": "6AM",
       "url": "https://open.spotify.com/track/1KqpIJN0QHQisjKwTIQkL1"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/2MofpH5ZRvvVjF8MnjpqTA"
+      },
+      "artists": [
+        {
+          "name": "Kris Barras Band",
+          "url": "https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225877,
+      "name": "6AM",
+      "url": "https://open.spotify.com/track/2BfsuErJSI9t2TZb4kUW4h"
     },
     {
       "album": {
@@ -71,7 +89,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/0y4hx5uMm5RYImWtXVl21y"
@@ -89,7 +107,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 229720,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/4QcFM4sEayM4QjvIQjF3bE"
@@ -197,7 +215,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203364,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4BsPswOqGrJhsUzdCVTPN0"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 203364,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 188182,
       "name": "Between Me and the Devil",
       "url": "https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264760,
       "name": "Black Speakers",
       "url": "https://open.spotify.com/track/1nsSAObs1qdg5cRtzS9qCm"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 264760,
       "name": "Black Speakers",
       "url": "https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 164645,
       "name": "Bomb Through the Breeze",
       "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164645,
       "name": "Bomb Through The Breeze",
       "url": "https://open.spotify.com/track/7gLgvdBxycylxnP9iwdvuD"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275200,
       "name": "Half-Tongue",
       "url": "https://open.spotify.com/track/0zuZit0pFlvRaI7D24VUus"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "Half-Tongue",
       "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
@@ -1599,10 +1617,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249870,
       "name": "Head Above Water",
       "url": "https://open.spotify.com/track/32bIll1Vlij9BjKa2e8clR"
+    },
+    {
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/7G3LyQlS9IMeVGSuCfZNVg"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249870,
+      "name": "Head Above Water",
+      "url": "https://open.spotify.com/track/3dgcweKpM3I28H0P4u7n9s"
     },
     {
       "album": {
@@ -1624,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/0xBgohteXtPrS9CSpOgowo"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241400,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/0hqFW37pMx89xTCQ0lwho6"
+    },
+    {
+      "album": {
         "name": "Old Habits",
         "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
       },
@@ -1635,7 +1689,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241400,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/3YwxGSSl5AhI1FbAAPJXLi"
@@ -1660,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "Hippies On Acid",
+        "url": "https://open.spotify.com/album/3rsV38yQiVfMuHbUnwK0Ms"
+      },
+      "artists": [
+        {
+          "name": "7Horse",
+          "url": "https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225669,
+      "name": "Hippies On Acid",
+      "url": "https://open.spotify.com/track/0WMUGMUTLVK6beba2ZkPu1"
+    },
+    {
+      "album": {
         "name": "The Last Resort",
         "url": "https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ"
       },
@@ -1671,7 +1743,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225669,
       "name": "Hippies On Acid",
       "url": "https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk"
@@ -2021,7 +2093,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227199,
       "name": "In Stride",
       "url": "https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e"
@@ -2039,7 +2111,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "In Stride",
       "url": "https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha"
@@ -2147,10 +2219,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189460,
       "name": "Just Takes Time",
       "url": "https://open.spotify.com/track/4NfUTIqcPzLTcL7Owbezt7"
+    },
+    {
+      "album": {
+        "name": "The Fighter",
+        "url": "https://open.spotify.com/album/0locPix5B1BTCUuIO5b172"
+      },
+      "artists": [
+        {
+          "name": "Simon McBride",
+          "url": "https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189460,
+      "name": "Just Takes Time",
+      "url": "https://open.spotify.com/track/6L72riHp7EkFg2KauN3yqY"
     },
     {
       "album": {
@@ -2173,7 +2263,7 @@
     {
       "album": {
         "name": "Karma",
-        "url": "https://open.spotify.com/album/07FCM8eqY33fC2pXikSD3Y"
+        "url": "https://open.spotify.com/album/6x0l7ialjgA1jwJ1OvEDan"
       },
       "artists": [
         {
@@ -2184,6 +2274,24 @@
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240484,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/6ALXjAfjb7cZkNYvmbf419"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/07FCM8eqY33fC2pXikSD3Y"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 240484,
       "name": "Karma",
       "url": "https://open.spotify.com/track/6wFtwvkZ0j0ldpQkc1RvRn"
@@ -2205,7 +2313,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212972,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/3k1GpN1mzkzpXsJun3T5br"
@@ -2227,7 +2335,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-05",
+      "date_removed": null,
       "duration_ms": 212972,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/6eUXiwxjHI3RblcwckJ7Qq"
@@ -2285,10 +2393,28 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257600,
       "name": "Let Me Through",
       "url": "https://open.spotify.com/track/1OPMX3mOqbfdLkAufCqcrs"
+    },
+    {
+      "album": {
+        "name": "Dodge and Burn",
+        "url": "https://open.spotify.com/album/0AnU1H6jDN6QHN2xMgWHJc"
+      },
+      "artists": [
+        {
+          "name": "The Dead Weather",
+          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
+        }
+      ],
+      "date_added": "2020-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257600,
+      "name": "Let Me Through",
+      "url": "https://open.spotify.com/track/1XjkqaFUMBZjbMWxdrNR9L"
     },
     {
       "album": {
@@ -2339,7 +2465,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/2TpeHwzSGTdy3WSqEzmLwd"
@@ -2357,7 +2483,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193986,
       "name": "Light Of The Moon",
       "url": "https://open.spotify.com/track/6fZqH2RSqDS0DWIi1US4BO"
@@ -2393,7 +2519,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 199800,
       "name": "Little Thing Gone Wild",
       "url": "https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk"
@@ -2411,7 +2537,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199800,
       "name": "Little Thing Gone Wild",
       "url": "https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh"
@@ -2501,7 +2627,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203720,
       "name": "Love and Devotion",
       "url": "https://open.spotify.com/track/1BvKwd2VSY9sVBPSDLSlbt"
@@ -2519,7 +2645,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 203720,
       "name": "Love and Devotion",
       "url": "https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP"
@@ -2681,10 +2807,28 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240293,
       "name": "Mornin' Blues",
       "url": "https://open.spotify.com/track/22dz0TTHjShdEitvI5J3xq"
+    },
+    {
+      "album": {
+        "name": "Mornin' Blues",
+        "url": "https://open.spotify.com/album/1oREAZvJLRkzkX9KE30VRn"
+      },
+      "artists": [
+        {
+          "name": "Chris App",
+          "url": "https://open.spotify.com/artist/2frhD5z9g7Cax2GOzT8xHw"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Mornin' Blues",
+      "url": "https://open.spotify.com/track/6FXbEJR1ngoqZvFDoTI8TW"
     },
     {
       "album": {
@@ -2940,6 +3084,28 @@
     },
     {
       "album": {
+        "name": "Oh Well",
+        "url": "https://open.spotify.com/album/3DDmCdqJLOiK1ak8Ks8axQ"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273520,
+      "name": "Oh Well (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/6iX3H2Gxm2F0YFLm5UuG1U"
+    },
+    {
+      "album": {
         "name": "Oh Well feat. Chris Stapleton",
         "url": "https://open.spotify.com/album/0Rl9omLw3rdkK7OiSnHGAG"
       },
@@ -2955,7 +3121,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273520,
       "name": "Oh Well feat. Chris Stapleton",
       "url": "https://open.spotify.com/track/6xvriZfsi9MZ8TAE2wqY2z"
@@ -3081,10 +3247,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242933,
       "name": "One Thing I Feared",
       "url": "https://open.spotify.com/track/1KK0CRO47v2pYmKfct9GbD"
+    },
+    {
+      "album": {
+        "name": "One Thing I Feared",
+        "url": "https://open.spotify.com/album/2EDbBAMjZP9V35vICdeOYo"
+      },
+      "artists": [
+        {
+          "name": "Clockwork Wolf & Co.",
+          "url": "https://open.spotify.com/artist/3N1cCECrhToZ1M6fMpKGBo"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "One Thing I Feared",
+      "url": "https://open.spotify.com/track/5q6lNs2xlM8OTcM9ipZ46M"
     },
     {
       "album": {
@@ -3099,7 +3283,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 243697,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/19rYgN2ghhCLtXg8Uf1FwS"
@@ -3117,7 +3301,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243697,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/2r350C33U7HK2gpj0nSP1E"
@@ -3207,7 +3391,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 225309,
       "name": "Painted Horse",
       "url": "https://open.spotify.com/track/2FWKa4zEa6lrdTDuGNMur9"
@@ -3225,7 +3409,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225309,
       "name": "Painted Horse",
       "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
@@ -3243,7 +3427,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225053,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
@@ -3261,7 +3445,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 225093,
       "name": "Pick Your Poison",
       "url": "https://open.spotify.com/track/2oXl8o2g4iPAEZL1YbmYVH"
@@ -3629,7 +3813,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh"
@@ -3651,7 +3835,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g"
@@ -3731,7 +3915,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 269326,
       "name": "Solar Fire",
       "url": "https://open.spotify.com/track/65gFWCRdKZD19F32AHhtmK"
@@ -3757,7 +3941,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269326,
       "name": "Solar Fire",
       "url": "https://open.spotify.com/track/733EFKmEIutt7NJ5LBN3Kk"
@@ -3797,7 +3981,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
@@ -3815,7 +3999,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
@@ -3851,7 +4035,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 200787,
       "name": "Stone's Throw",
       "url": "https://open.spotify.com/track/3yryKlZnD9rlmE8Vm2AOV1"
@@ -3869,7 +4053,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200787,
       "name": "Stone's Throw",
       "url": "https://open.spotify.com/track/65BmUqyPuH4QLfQjcoJPFL"
@@ -3941,7 +4125,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 173253,
       "name": "Suit in the Back",
       "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
@@ -3959,7 +4143,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173253,
       "name": "Suit in the Back",
       "url": "https://open.spotify.com/track/53vycZVVC4nbAgwQy3q5YU"
@@ -4067,7 +4251,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf"
@@ -4085,7 +4269,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 197782,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6O5Mg4jkIM3EJmphJTCEon"
@@ -4193,7 +4377,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5"
@@ -4211,7 +4395,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219586,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7v2sAn8Epk75eyuN7V1Xol"
@@ -4283,7 +4467,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 239120,
       "name": "The Mould",
       "url": "https://open.spotify.com/track/1jPljtqOC6hH1imHy4NcLy"
@@ -4301,7 +4485,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239120,
       "name": "The Mould",
       "url": "https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ"
@@ -4391,7 +4575,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
@@ -4409,7 +4593,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt"
@@ -4427,7 +4611,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ"
@@ -4445,7 +4629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Them That Matter Don't Mind",
       "url": "https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK"
@@ -5031,7 +5215,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 235828,
       "name": "Woolamai",
       "url": "https://open.spotify.com/track/0wXOSacytCzfXqt98sEXLe"
@@ -5049,7 +5233,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235840,
       "name": "Woolamai",
       "url": "https://open.spotify.com/track/7bdTFAhATxC9bIxBGGyI3E"
@@ -5107,7 +5291,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232103,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/3rPv5WnpW2rfiNubXzjBXn"
@@ -5125,7 +5309,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 232103,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 146333,
+  "2024-04-20": 146283,
   "date_first_scraped": "2022-01-01",
   "description": "Slow instrumental Jazz for evening listening pleasure.",
   "name": "Evening Jazz",
@@ -4721,7 +4721,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272585,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/368cbpZzyCxc564UhTULxA"
@@ -4747,7 +4747,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272585,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8"

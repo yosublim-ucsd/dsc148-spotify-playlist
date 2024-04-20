@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Nicki Minaj. De viktigste sporene samlet i \u00e9n spilleliste.",
+  "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
   "name": "This Is Nicki Minaj",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 237840,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ"
@@ -1272,7 +1272,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 220466,
       "name": "Truffle Butter",
       "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"

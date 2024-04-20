@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 42454,
+  "2024-04-20": 42482,
   "date_first_scraped": "2022-09-09",
   "description": "Spa treatment role-play and ASMR massage sounds to give you tingles and help you relax.",
   "name": "ASMR Massage",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 196500,
       "name": "ASMR Take a Bath with Me, Pt. 2",
       "url": "https://open.spotify.com/track/3LMKY3gm8ODiAp58ZVM7Ro"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196500,
       "name": "ASMR Take a Bath with Me, Pt. 2",
       "url": "https://open.spotify.com/track/7v87pqdX327uORNqtZOZQc"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 135500,
       "name": "Drying Ears Off",
       "url": "https://open.spotify.com/track/08jSo3MBeMb8Txo43DsPJh"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135500,
       "name": "Drying Ears Off",
       "url": "https://open.spotify.com/track/5cM9f4vVzhJHMzXBcVx4WH"
@@ -359,10 +359,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375100,
       "name": "Ear Massage with a Lotion",
       "url": "https://open.spotify.com/track/6hl3yYM5lCxwR6pODqpsYq"
+    },
+    {
+      "album": {
+        "name": "ASMR Sleepy Pleasures - Ear Massage (No Talking)",
+        "url": "https://open.spotify.com/album/2mgCCWyJn3H0tIDoqO9o5a"
+      },
+      "artists": [
+        {
+          "name": "StacyAster",
+          "url": "https://open.spotify.com/artist/6ZuYMPNSu2akHdw976s2R5"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375380,
+      "name": "Ear Massage with a Lotion",
+      "url": "https://open.spotify.com/track/3SWmTPJhVpFemxwym0l12P"
     },
     {
       "album": {
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 367200,
       "name": "Lotion Ear Massage Pt. 1",
       "url": "https://open.spotify.com/track/0gdo2UXeAnAp8ZQmO4wd9n"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367200,
       "name": "Lotion Ear Massage Pt. 1",
       "url": "https://open.spotify.com/track/2JNIfNuAYm33btPUXwSTvx"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 233952,
       "name": "Lotion Ear Massage Pt. 3",
       "url": "https://open.spotify.com/track/0nowugrt5Fn1wdX7BjwbTD"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233952,
       "name": "Lotion Ear Massage Pt. 3",
       "url": "https://open.spotify.com/track/2i4Q1ws0zYUbk6aGHEalLR"
@@ -691,7 +709,7 @@
     {
       "album": {
         "name": "Lotion Massage",
-        "url": "https://open.spotify.com/album/5J8XSFmWNqHdEhi0XJwUMX"
+        "url": "https://open.spotify.com/album/4NgeaakDHNsYSnNclKcK6r"
       },
       "artists": [
         {
@@ -702,6 +720,24 @@
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Lotion Massage",
+      "url": "https://open.spotify.com/track/5B4acUlwy0HpifceTkdU5f"
+    },
+    {
+      "album": {
+        "name": "Lotion Massage",
+        "url": "https://open.spotify.com/album/5J8XSFmWNqHdEhi0XJwUMX"
+      },
+      "artists": [
+        {
+          "name": "ASMR Cherry Crush",
+          "url": "https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 270000,
       "name": "Lotion Massage",
       "url": "https://open.spotify.com/track/7pEOu3sNcSPdBP7XMTQHoh"
@@ -755,7 +791,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233812,
       "name": "Muscle Massage",
       "url": "https://open.spotify.com/track/7AhE5d2ZLVovBK1pAKP3vv"
@@ -773,7 +809,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 233812,
       "name": "Muscle Massage",
       "url": "https://open.spotify.com/track/7ab1mcQODvA2ItfnOzrn5p"
@@ -791,10 +827,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 458000,
       "name": "Oil and Lotion Ear Massage, Pt. 1",
       "url": "https://open.spotify.com/track/56eRIbddAsBVUVRkgnsuaI"
+    },
+    {
+      "album": {
+        "name": "Oil and Lotion Ear Massage",
+        "url": "https://open.spotify.com/album/7BK9vpSXkaKnznhHA8igPW"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458000,
+      "name": "Oil and Lotion Ear Massage, Pt. 1",
+      "url": "https://open.spotify.com/track/5oHthuMwZbisdYoCwf17NZ"
     },
     {
       "album": {
@@ -827,10 +881,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 566000,
       "name": "Oil and Lotion Ear Massage, Pt. 4",
       "url": "https://open.spotify.com/track/0AqM6cD3BwxuYIl6QXQxUn"
+    },
+    {
+      "album": {
+        "name": "Oil and Lotion Ear Massage",
+        "url": "https://open.spotify.com/album/7BK9vpSXkaKnznhHA8igPW"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566000,
+      "name": "Oil and Lotion Ear Massage, Pt. 4",
+      "url": "https://open.spotify.com/track/1iRAhv5gT7lxliFZfkwTnv"
     },
     {
       "album": {
@@ -863,7 +935,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 170500,
       "name": "Oil Massage",
       "url": "https://open.spotify.com/track/2Fx7a076YEnsuA0y3rakpK"
@@ -881,7 +953,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170500,
       "name": "Oil Massage",
       "url": "https://open.spotify.com/track/6zl4uiCSDE1RyH55jrV9gX"
@@ -899,7 +971,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214000,
       "name": "Real Relaxing Brushing Sounds, Pt. 1",
       "url": "https://open.spotify.com/track/15ZXjwZ7zHME5i1s2Ov2sG"
@@ -917,7 +989,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Real Relaxing Brushing Sounds, Pt. 1",
       "url": "https://open.spotify.com/track/5bm749aVIDoQylFc2si4W2"
@@ -935,7 +1007,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148000,
       "name": "Real Relaxing Brushing Sounds, Pt. 4",
       "url": "https://open.spotify.com/track/1kYA2IGzg8FQWm2ISv2BwY"
@@ -953,7 +1025,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Real Relaxing Brushing Sounds, Pt. 4",
       "url": "https://open.spotify.com/track/4XkXOG54er6R5YBQtUZp7w"
@@ -1007,7 +1079,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 506500,
       "name": "Scalp Massage",
       "url": "https://open.spotify.com/track/3K9vwqX5tIKaYl1vQGgi7G"
@@ -1025,7 +1097,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 506500,
       "name": "Scalp Massage",
       "url": "https://open.spotify.com/track/6bsNh4lg4e1fAwCw5hl5cx"
@@ -1097,7 +1169,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 346562,
       "name": "Tingly Lice Check, Pt. 4",
       "url": "https://open.spotify.com/track/4GD6WaO6S88JW6u99OCRte"
@@ -1115,7 +1187,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346562,
       "name": "Tingly Lice Check, Pt. 4",
       "url": "https://open.spotify.com/track/7GKeGFrZ3jTjVpEIjT4tv8"

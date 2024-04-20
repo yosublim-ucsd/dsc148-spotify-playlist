@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 408080,
+  "2024-04-20": 408206,
   "date_first_scraped": "2022-12-03",
   "description": "This is Rkive of RM. Indigo. \ud83d\udc9c",
   "name": "This Is RM",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 186186,
       "name": "All Day (with Tablo)",
       "url": "https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3"
@@ -65,7 +65,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186186,
       "name": "All Day (with Tablo)",
       "url": "https://open.spotify.com/track/3PgnXyzWXrEoE0oQdLMF3M"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 112606,
       "name": "badbye",
       "url": "https://open.spotify.com/track/7L8JKDh4yB5rCcg2Rp4yvz"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112606,
       "name": "badbye (with eAeon)",
       "url": "https://open.spotify.com/track/6CYJojwhuUyTTL5G6AsDHf"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114026,
       "name": "Change pt.2",
       "url": "https://open.spotify.com/track/2hMvhh9FiCB6njOYR7tkT8"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 114026,
       "name": "Change pt.2",
       "url": "https://open.spotify.com/track/7vPMugKcYwnX9Dh7SrLFHF"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 196507,
       "name": "Closer (with Paul Blanco, Mahalia)",
       "url": "https://open.spotify.com/track/5AmBIWCnsLscPSYsfCApBy"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196507,
       "name": "Closer (with Paul Blanco, Mahalia)",
       "url": "https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu"
@@ -351,10 +351,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214920,
       "name": "Don't ever say love me (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
+    },
+    {
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "Don't ever say love me (Feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
     },
     {
       "album": {
@@ -373,7 +395,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 222493,
       "name": "everythingoes",
       "url": "https://open.spotify.com/track/7bSJAuXjyhlTcz5CfoNDdt"
@@ -395,7 +417,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222493,
       "name": "everythingoes (with Nell)",
       "url": "https://open.spotify.com/track/0ZUtat3yQpzMRMJ9Qmz5k0"
@@ -413,7 +435,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 271805,
       "name": "forever rain",
       "url": "https://open.spotify.com/track/0MBLKSjisnYtP4J6KYYT1T"
@@ -431,7 +453,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271805,
       "name": "forever rain",
       "url": "https://open.spotify.com/track/42DD4cLqkprJPih3YxXkAO"
@@ -449,7 +471,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 162295,
       "name": "Forg_tful (with Kim Sawol)",
       "url": "https://open.spotify.com/track/3XKI5295qhFbwNesz3ollU"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162295,
       "name": "Forg_tful (with Kim Sawol)",
       "url": "https://open.spotify.com/track/1mrS1j5cwaffpXsthTb2Qx"
@@ -511,7 +533,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 226189,
       "name": "Hectic (with Colde)",
       "url": "https://open.spotify.com/track/3wEr5lmE7oaC3qhCbJTY8B"
@@ -533,10 +555,28 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226189,
       "name": "Hectic (with Colde)",
       "url": "https://open.spotify.com/track/3ZCuqvHYhjDlliRH9oCs77"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1vuZRBjsQH7B8x6wLFe9nz"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171023,
+      "name": "Intro : Persona",
+      "url": "https://open.spotify.com/track/1e60XXx2p9W87HCEZlnaB3"
     },
     {
       "album": {
@@ -551,7 +591,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171023,
       "name": "Intro : Persona",
       "url": "https://open.spotify.com/track/2GXWzWPsYlTZcvVW8JIu69"
@@ -569,7 +609,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166020,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/49iPCmLYg3SS8r2MXcbR1N"
@@ -587,7 +627,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 166020,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/50y0OQgar3BnwTt1pXdYsM"
@@ -605,7 +645,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 205833,
       "name": "moonchild",
       "url": "https://open.spotify.com/track/4fwYALz7GwmXgS8QTRjDEJ"
@@ -623,7 +663,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205833,
       "name": "moonchild",
       "url": "https://open.spotify.com/track/6BnciRM9jyEP9cEjvoN5eI"
@@ -641,7 +681,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 193963,
       "name": "No.2 (with parkjiyoon)",
       "url": "https://open.spotify.com/track/5ky45fGKbzGYilDewlBD6Z"
@@ -663,7 +703,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193963,
       "name": "No.2 (with parkjiyoon)",
       "url": "https://open.spotify.com/track/2sXaFMTkBHYrEgfGJ2y27a"
@@ -749,7 +789,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
@@ -767,7 +807,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 275954,
       "name": "seoul (prod. HONNE)",
       "url": "https://open.spotify.com/track/4VcKLbECzwOQTYe3Sut6xJ"
@@ -841,7 +881,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 175328,
       "name": "Still Life (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw"
@@ -863,7 +903,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175328,
       "name": "Still Life (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre"
@@ -885,7 +925,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196529,
       "name": "Strange (feat. RM)",
       "url": "https://open.spotify.com/track/5sF4GOOSRELn8zn6DDGzUP"
@@ -907,7 +947,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 196529,
       "name": "Strange (feat. RM)",
       "url": "https://open.spotify.com/track/6x2arhzc99oGlqM82V0mnd"
@@ -947,7 +987,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208936,
       "name": "tokyo",
       "url": "https://open.spotify.com/track/2YCTRzLwXgiNvbod8xuCHl"
@@ -965,7 +1005,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 208936,
       "name": "tokyo",
       "url": "https://open.spotify.com/track/3RvScmBWbdbnOVMF6FMcXI"
@@ -1009,7 +1049,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194384,
       "name": "uhgood",
       "url": "https://open.spotify.com/track/5u9Pr2CujzeWFZJPALBPqQ"
@@ -1027,7 +1067,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 194384,
       "name": "uhgood",
       "url": "https://open.spotify.com/track/5vI1exL3zFhqFWDSL9fq5H"
@@ -1045,7 +1085,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q"
@@ -1067,7 +1107,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273499,
       "name": "Wild Flower (with youjeen)",
       "url": "https://open.spotify.com/track/1AZjCZSGEjlxUufFQwSszF"
@@ -1107,7 +1147,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 233688,
       "name": "Yun (with Erykah Badu)",
       "url": "https://open.spotify.com/track/40xpKrnumGPEvHcw1kuL9R"
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233688,
       "name": "Yun (with Erykah Badu)",
       "url": "https://open.spotify.com/track/3F3PuqGinS2T1ePmjUTw9t"

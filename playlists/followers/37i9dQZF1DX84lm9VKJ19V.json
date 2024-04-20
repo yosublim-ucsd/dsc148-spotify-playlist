@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 85087,
+  "2024-04-20": 85095,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6nxWCVXbOlEVRexSbLsTer\">Flume</a>'s favourite tracks. Updated regularly. Curated by Flume. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Flume's track IDs",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241832,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/4ZNd0qIzp0j2gD3mYn33v1"
@@ -71,10 +71,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 241832,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6qp8QKv42nmSrLNQ0VvJin"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Time",
+        "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "At First Sight",
+      "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
     },
     {
       "album": {
@@ -93,7 +115,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207920,
       "name": "At First Sight",
       "url": "https://open.spotify.com/track/2N23G2u90HZs4wD2HrK0GT"
@@ -133,7 +155,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166666,
       "name": "Blue (Flume Remix)",
       "url": "https://open.spotify.com/track/24xKxcxrCfWtOgonPByVNB"
@@ -155,7 +177,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "Blue - Flume Remix",
       "url": "https://open.spotify.com/track/0chpQTaECrCZBusarf71Ql"
@@ -209,10 +231,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198000,
       "name": "Can't See Your Face Anymore",
       "url": "https://open.spotify.com/track/1CvBeKh7m3dySJXPtBntda"
+    },
+    {
+      "album": {
+        "name": "Wonder What",
+        "url": "https://open.spotify.com/album/58ZluyMJasajqCJHICmt7Y"
+      },
+      "artists": [
+        {
+          "name": "Swan Lingo",
+          "url": "https://open.spotify.com/artist/3tATVVBQ7Xo8B3lNJVYc0x"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Can't See Your Face Anymore",
+      "url": "https://open.spotify.com/track/1zXIhajEW5sppvyu9pu9Tt"
     },
     {
       "album": {
@@ -289,7 +329,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 225573,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu"
@@ -307,7 +347,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225573,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/7rBMPlE0MXMgYLRtqkN8gt"
@@ -343,7 +383,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 336659,
       "name": "FANTAZIA",
       "url": "https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM"
@@ -361,7 +401,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336659,
       "name": "FANTAZIA",
       "url": "https://open.spotify.com/track/5YcJp0fqzgYQodloOnwEIl"
@@ -521,7 +561,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320352,
       "name": "HOME - Special Request Remix",
       "url": "https://open.spotify.com/track/0LOiXbC3TjKz7EMETW6tXo"
@@ -547,10 +587,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 322392,
       "name": "HOME - Special Request Remix",
       "url": "https://open.spotify.com/track/394z8B6HlnaabwLLKk6Y8A"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/0ClaGJPlguxHVrC4b264Yy"
+      },
+      "artists": [
+        {
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311505,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/0zSBlryohtjEgRRaM19DYz"
     },
     {
       "album": {
@@ -565,7 +623,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311505,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/51V26aKn1FQ5RQXhQbIeWs"
@@ -587,10 +645,32 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260186,
       "name": "I Fell in Love",
       "url": "https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH"
+    },
+    {
+      "album": {
+        "name": "I Fell In Love",
+        "url": "https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Xenia Rubinos",
+          "url": "https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "I Fell In Love",
+      "url": "https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s"
     },
     {
       "album": {
@@ -623,7 +703,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
@@ -641,7 +721,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
@@ -677,7 +757,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212213,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/20vrVR0N1Y0zAJNmvnQJyg"
@@ -695,7 +775,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 212213,
       "name": "Is It Cold In The Water?",
       "url": "https://open.spotify.com/track/292h0AOEEmddv9wIWnrDl4"
@@ -779,7 +859,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191537,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
@@ -801,7 +881,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
@@ -921,7 +1001,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 137092,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/2Lho7mxHpPgTmaWLnpK2Vs"
@@ -965,7 +1045,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137092,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW"
@@ -983,7 +1063,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": null,
       "duration_ms": 257975,
       "name": "NOVV",
       "url": "https://open.spotify.com/track/10o2dzZBBMl0XUSeXtLUTk"
@@ -1001,7 +1081,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257975,
       "name": "NOVV",
       "url": "https://open.spotify.com/track/4XMN5KHIaXHJ0LGdqHHJ8U"
@@ -1067,10 +1147,36 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151053,
       "name": "Only My Honesty Matters",
       "url": "https://open.spotify.com/track/2ips2RYfSiOdfDQMctNXIb"
+    },
+    {
+      "album": {
+        "name": "B.E.D",
+        "url": "https://open.spotify.com/album/4FnAdGkQlG93le8UzmyR6q"
+      },
+      "artists": [
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+        },
+        {
+          "name": "\u00c9tienne de Cr\u00e9cy",
+          "url": "https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7"
+        },
+        {
+          "name": "Delilah Holliday",
+          "url": "https://open.spotify.com/artist/1Jcu8RReH3v0k4Zmll7VFZ"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "Only My Honesty Matters",
+      "url": "https://open.spotify.com/track/4IPnFWw8kNJ81R7qO3hq1L"
     },
     {
       "album": {
@@ -1133,7 +1239,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 166919,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz"
@@ -1155,7 +1261,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166919,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6zt4DdMRYAFHNQj3D6BE0q"
@@ -1275,7 +1381,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 271826,
       "name": "Spectacular Anthem",
       "url": "https://open.spotify.com/track/5CTS5Nq4cdT5mgCav4FkgV"
@@ -1297,7 +1403,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271826,
       "name": "Spectacular Anthem",
       "url": "https://open.spotify.com/track/7ziEkzmh9Wy7Et5WSJC9Zo"
@@ -1345,7 +1451,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199130,
       "name": "The Difference (Willaris. K Remix)",
       "url": "https://open.spotify.com/track/45M0L8i5qsBiOr38BEdxYs"
@@ -1371,7 +1477,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 199130,
       "name": "The Difference - Willaris. K Remix",
       "url": "https://open.spotify.com/track/3k45LqVsI4GoELWfOdd5eZ"
@@ -1407,7 +1513,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-20",
+      "date_removed": null,
       "duration_ms": 204545,
       "name": "When I Go",
       "url": "https://open.spotify.com/track/1ZD51kpXHiTNqymmz3Yy6b"
@@ -1425,7 +1531,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204545,
       "name": "When I Go",
       "url": "https://open.spotify.com/track/5EKXcCIPjXO0VxsQwArvd1"

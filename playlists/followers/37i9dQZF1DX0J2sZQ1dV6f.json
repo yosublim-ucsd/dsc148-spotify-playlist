@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 156876,
+  "2024-04-20": 157141,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Alex Favela, Yeri Mua, Eugenio Esquivel & Sebastian Esquivel. ",
   "name": "Electro Corridos",
@@ -359,10 +359,28 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132680,
       "name": "Aluc\u00edn",
       "url": "https://open.spotify.com/track/2AMiYBJMXLrtgFLjThWr3D"
+    },
+    {
+      "album": {
+        "name": "Aluc\u00edn",
+        "url": "https://open.spotify.com/album/7d6MUaCnWh9Pe2onrC3AFn"
+      },
+      "artists": [
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132680,
+      "name": "Aluc\u00edn",
+      "url": "https://open.spotify.com/track/6a4ZdbyvRIm7JMZdFne9Kw"
     },
     {
       "album": {
@@ -399,7 +417,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/0yBcdmjFu13pmOCowHGpzJ"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174000,
       "name": "ALV",
       "url": "https://open.spotify.com/track/3PenLzruF1GMpjSmcPJkH2"
@@ -3655,7 +3673,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
@@ -3677,7 +3695,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
@@ -3729,7 +3747,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
@@ -3759,7 +3777,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139842,
       "name": "Guisao",
       "url": "https://open.spotify.com/track/5BCZ5v6C5wjGXb2AVbJeTe"
@@ -6291,7 +6309,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140000,
       "name": "Pacas y Pacas",
       "url": "https://open.spotify.com/track/1hFg6ilfrckIhcz0IBmp2b"
@@ -6313,7 +6331,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Pacas y Pacas",
       "url": "https://open.spotify.com/track/0iutN9Rt2kmHhPVKBNfinY"
@@ -7225,6 +7243,24 @@
     {
       "album": {
         "name": "Puro 3 Letras",
+        "url": "https://open.spotify.com/album/3zEziitiFHYbhPeoM8DnVm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Silva",
+          "url": "https://open.spotify.com/artist/1NVLrvVSGd2ukeQ69T7gDE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Puro 3 Letras",
+      "url": "https://open.spotify.com/track/4N31JLWd0Na8Dj5phlS73t"
+    },
+    {
+      "album": {
+        "name": "Puro 3 Letras",
         "url": "https://open.spotify.com/album/5pshOxUCAJfUeOo6gk4rEt"
       },
       "artists": [
@@ -7235,7 +7271,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186000,
       "name": "Puro 3 Letras",
       "url": "https://open.spotify.com/track/5OT6AqQpERX1YKjt7DZOU4"
@@ -8965,6 +9001,28 @@
     {
       "album": {
         "name": "EL REY DEL DEMBOW",
+        "url": "https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "TRAKA",
+      "url": "https://open.spotify.com/track/2UAmkhEPYWeFZQGNQja4WJ"
+    },
+    {
+      "album": {
+        "name": "EL REY DEL DEMBOW",
         "url": "https://open.spotify.com/album/3ZONXDp5lBlScH7helYBko"
       },
       "artists": [
@@ -8979,7 +9037,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130750,
       "name": "TRAKA",
       "url": "https://open.spotify.com/track/2oPR7Jvuo5OkT3NYS1YWYC"

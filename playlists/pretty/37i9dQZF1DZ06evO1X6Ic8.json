@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 771101,
+  "num_followers": 770992,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDMwMGZiYThiOWFhMjgyOGM3ZWYzMjZjYTUwOTIxMjg2",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGY5ZDViZTk4YTgzYWM1ZDgzMjFjZmFjNjM1NGNhMGM4",
   "tracks": [
     {
       "added_at": null,
@@ -567,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 152208,
-      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
-      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 127342,
-      "name": "Then Because She Goes",
-      "url": "https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spinning (with Charli XCX & The 1975)",
         "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 127342,
+      "name": "Then Because She Goes",
+      "url": "https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 1975 (Deluxe)",
         "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244653,
       "name": "Undo",
       "url": "https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+        "url": "https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 152208,
+      "name": "Now Is The Hour (The New Look: Season 1 (Apple TV+ Original Series Soundtrack))",
+      "url": "https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr"
     },
     {
       "added_at": null,

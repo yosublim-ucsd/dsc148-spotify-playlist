@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 318094,
+  "2024-04-20": 318102,
   "date_first_scraped": "2022-01-09",
   "description": "Canciones de despecho para cantarle a quien te rompi\u00f3 el coraz\u00f3n.",
   "name": "Reggaet\u00f3n para Tu Ex",
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127826,
       "name": "Me Llora",
       "url": "https://open.spotify.com/track/1Ol7FO6dLtlTEzeZaRd1FO"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 127826,
       "name": "Me Llora",
       "url": "https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K"
@@ -1257,6 +1257,28 @@
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+    },
+    {
+      "album": {
+        "name": "Mirame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157453,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "album": {
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
@@ -1683,7 +1705,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM"
@@ -1781,7 +1803,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242466,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/35J2nr0F47saNaZfx2cwxd"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200000,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/6DvegFVEmni4OW9uAREVvO"
@@ -2047,7 +2069,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/7AHyJpRRigc9TuR1FZBC9l"
@@ -2123,7 +2145,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201280,
       "name": "Sigo Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk"
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201280,
       "name": "Sigo Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6qDF4wWL49CAVbgT7yuHl8"
@@ -2617,6 +2639,28 @@
       "duration_ms": 277106,
       "name": "UN PESO",
       "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
+    },
+    {
+      "album": {
+        "name": "UNA RAYA M\u00c1S",
+        "url": "https://open.spotify.com/album/2dR6j7w98qJLlzEHRuQKOh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "UNA RAYA M\u00c1S",
+      "url": "https://open.spotify.com/track/6xXbyR2OEM4GlnvKH1t45Z"
     },
     {
       "album": {

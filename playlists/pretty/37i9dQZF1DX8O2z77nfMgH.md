@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Ryan Castro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,718 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,848 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [En Peligro De Extinción](https://open.spotify.com/track/0TsutzEE81PwAJG75E5KfE) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sindicato Del Ritmo](https://open.spotify.com/album/0mVVMaafx2ABmoAGVWqBoA) | 3:45 |
 | 56 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
 | 57 | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu) | 4:36 |
-| 58 | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB) | 2:49 |
-| 59 | [Queriéndonos Bien](https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Queriéndonos Bien](https://open.spotify.com/album/6c4WIqpwMrgNtjCPIzWfDX) | 2:06 |
-| 60 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 |
-| 61 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 |
-| 62 | [La Era de los Monstruos](https://open.spotify.com/track/3hjyxB7JF9RdLYbnxwoZ8O) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [La Era de los Monstruos](https://open.spotify.com/album/3p524bCgyYxW0AssSD1es5) | 3:10 |
-| 63 | [Ani Oni](https://open.spotify.com/track/6X805fVzhajIpPDApla2AM) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ani Oni / Fantasma](https://open.spotify.com/album/5MMClJXjiSN0UlHyjPxKVz) | 3:00 |
-| 64 | [Falling From Grace](https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Valerie](https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7) | 4:14 |
+| 58 | [Lo Dejaría Todo](https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Lo Dejaría Todo](https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38) | 3:22 |
+| 59 | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB) | 2:49 |
+| 60 | [Queriéndonos Bien](https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Queriéndonos Bien](https://open.spotify.com/album/6c4WIqpwMrgNtjCPIzWfDX) | 2:06 |
+| 61 | [24 Horas](https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [24 Horas](https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le) | 3:38 |
+| 62 | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Algo Bueno Tenía Que Tener \(Bogotá\)](https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz) | 3:30 |
+| 63 | [La Era de los Monstruos](https://open.spotify.com/track/3hjyxB7JF9RdLYbnxwoZ8O) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [La Era de los Monstruos](https://open.spotify.com/album/3p524bCgyYxW0AssSD1es5) | 3:10 |
+| 64 | [Ani Oni](https://open.spotify.com/track/6X805fVzhajIpPDApla2AM) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ani Oni / Fantasma](https://open.spotify.com/album/5MMClJXjiSN0UlHyjPxKVz) | 3:00 |
+| 65 | [Falling From Grace](https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Valerie](https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7) | 4:14 |
 
 Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMGVkNzRiMTEwOTc3MmQ5ZDUwNzY3NTRkOWY2YjEzYjdh`

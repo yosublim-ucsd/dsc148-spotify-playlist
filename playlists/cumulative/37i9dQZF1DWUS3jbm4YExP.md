@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-679 songs - 2 day 0 hr 49 min
+680 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Cosmica Italiana](https://open.spotify.com/track/2MnoxB4cB4ahqYxVHiIPxV) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/1GNIrKx3NgBQRsPihSf4qn) | 3:16 | 2021-10-06 | 2022-07-25 |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/54ajuaWk3qWWM2IRfDKnul) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Coup de foudre à Thessalonique](https://open.spotify.com/album/2DUeBPypI4SmJ4Nr6HQQ4m) | 4:22 | 2021-10-06 | 2022-07-23 |
 | [Coup de foudre à Thessalonique](https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd) | [Florian Pellissier Quintet](https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx) | [Bijou voyou caillou](https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14) | 4:22 | 2021-10-06 | 2023-10-21 |
+| [Crache La Douleur](https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4) | [Fanga](https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG) | [Contemporary Afro Beat](https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE) | 5:05 | 2024-04-12 |  |
 | [Criminal](https://open.spotify.com/track/58QTb74vjao3Wg99nb0Akr) | [The Spy From Cairo](https://open.spotify.com/artist/36C73GYwgP8rqwCjUyswoS), [Mambe Rodriguez](https://open.spotify.com/artist/7sAgoWclcaiAZyBQVIWd77) | [Criminal](https://open.spotify.com/album/4qibOzAneFCtZRApyluWq4) | 3:32 | 2022-02-15 | 2022-04-18 |
 | [Crux Australis](https://open.spotify.com/track/1pWWrnSxMW5DniwdPXDE3B) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Darío Abdala](https://open.spotify.com/artist/7CfkX18xoIBT9BAFZdh1m3) | [Crux Australis](https://open.spotify.com/album/5NnNrnljeZVpPsW2lPfg4M) | 5:06 | 2023-02-28 | 2023-04-21 |
 | [Crystal Sand](https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:31 | 2024-03-08 |  |
@@ -390,7 +391,7 @@
 | [Mango Season](https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Mango Season](https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES) | 2:27 | 2024-01-05 |  |
 | [Mano de Fatima](https://open.spotify.com/track/66vLZytisIBNQiQz4qn6n5) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [Mano de Fatima](https://open.spotify.com/album/6ZJ6wDxhI7dvFnw8abL199) | 3:55 | 2022-02-15 | 2022-07-24 |
 | [Mapenzi Hayana Daktari \- Frankie Francis Edit](https://open.spotify.com/track/1jxygT17oQRehikRe37es9) | [Nairobi Matata Jazz](https://open.spotify.com/artist/5RAu0asi0IqQbMuzLjj1zm), [Frankie Francis](https://open.spotify.com/artist/4v7upfGmNDHTJUgdwbvxDS) | [Kenya Special Remix EP](https://open.spotify.com/album/14YcsJWinjwSB0cQdhym9a) | 6:05 | 2023-08-31 | 2023-12-05 |
-| [Mapenzi Hayana Daktari \- Frankie Francis Edit](https://open.spotify.com/track/4QIvczQeuOGAsQ4FpgrMUI) | [Nairobi Matata Jazz](https://open.spotify.com/artist/5RAu0asi0IqQbMuzLjj1zm), [Frankie Francis](https://open.spotify.com/artist/4v7upfGmNDHTJUgdwbvxDS) | [Kenya Special Remix](https://open.spotify.com/album/1s1Yq7SAzQRh7tIvXN9djX) | 6:05 | 2024-04-12 |  |
+| [Mapenzi Hayana Daktari \- Frankie Francis Edit](https://open.spotify.com/track/4QIvczQeuOGAsQ4FpgrMUI) | [Nairobi Matata Jazz](https://open.spotify.com/artist/5RAu0asi0IqQbMuzLjj1zm), [Frankie Francis](https://open.spotify.com/artist/4v7upfGmNDHTJUgdwbvxDS) | [Kenya Special Remix](https://open.spotify.com/album/1s1Yq7SAzQRh7tIvXN9djX) | 6:05 | 2024-04-12 | 2024-04-20 |
 | [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-02 |  |
 | [Maragato \- Radio Edit](https://open.spotify.com/track/4cQ15lnJj2NXRRLkBBbvdi) | [Club Makumba](https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ) | [Maragato \(Radio Edit\)](https://open.spotify.com/album/38YA6TrQNaJQrzzkAUqCWz) | 3:52 | 2023-11-23 | 2024-03-19 |
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2021-10-06 |  |

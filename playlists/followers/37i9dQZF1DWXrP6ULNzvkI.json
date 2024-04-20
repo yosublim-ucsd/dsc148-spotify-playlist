@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6434,
+  "2024-04-20": 6440,
   "date_first_scraped": "2023-01-19",
   "description": "Our editors' picks of the best Fresh Finds tracks from around the world this year. Cover: Katherine Li #SpotifyWrapped",
   "name": "Fresh Finds: Class of 2022",
@@ -53,10 +53,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212830,
       "name": "All Over This Party",
       "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
+    },
+    {
+      "album": {
+        "name": "All Over This Party",
+        "url": "https://open.spotify.com/album/13e7JK7tZP3rp11Q8RfYSf"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212830,
+      "name": "All Over This Party",
+      "url": "https://open.spotify.com/track/6pUwmSDbjOrvvNpfWKQLt5"
     },
     {
       "album": {
@@ -219,7 +237,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168514,
       "name": "Bones (God Like You)",
       "url": "https://open.spotify.com/track/0kTKVGy9Lny3ERIf4rlKHG"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 168514,
       "name": "Bones (God Like You)",
       "url": "https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH"
@@ -273,7 +291,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
@@ -291,10 +309,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
+    },
+    {
+      "album": {
+        "name": "Can You See Me",
+        "url": "https://open.spotify.com/album/1Ln5RFG2T2ba4aVHsvxPcy"
+      },
+      "artists": [
+        {
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210930,
+      "name": "Can You See Me",
+      "url": "https://open.spotify.com/track/1TTwQU1gcGQV6oXpmznGoa"
     },
     {
       "album": {
@@ -309,7 +345,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211533,
       "name": "Can You See Me",
       "url": "https://open.spotify.com/track/60qXxZSTxeywlOaQOcvl1H"
@@ -433,6 +469,24 @@
     {
       "album": {
         "name": "Essa Mina",
+        "url": "https://open.spotify.com/album/3eaQmIHdcfnwCq68lJzKYH"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370946,
+      "name": "Essa Mina",
+      "url": "https://open.spotify.com/track/1D7rwwv3n4ChKvS3CyMiGL"
+    },
+    {
+      "album": {
+        "name": "Essa Mina",
         "url": "https://open.spotify.com/album/2Jm2d9xJna8Yd1gcKqeWc7"
       },
       "artists": [
@@ -461,7 +515,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370946,
       "name": "Essa Mina",
       "url": "https://open.spotify.com/track/6dOgG8Pmiv3jRgJsz4Nkf2"
@@ -537,7 +591,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 158466,
       "name": "Flight of the Crows",
       "url": "https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N"
@@ -555,7 +609,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158466,
       "name": "Flight of the Crows",
       "url": "https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6"
@@ -591,7 +645,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172773,
       "name": "gimme all ur luv",
       "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
@@ -609,7 +663,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 173823,
       "name": "gimme all ur luv",
       "url": "https://open.spotify.com/track/7bKMO3og5pWUJV5g6VtZwp"
@@ -681,7 +735,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5"
@@ -699,7 +753,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
@@ -771,7 +825,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 218218,
       "name": "Haunted by Potential",
       "url": "https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc"
@@ -789,7 +843,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218218,
       "name": "Haunted by Potential",
       "url": "https://open.spotify.com/track/6VzmUPRsALYM7FLfTs8GwF"
@@ -1009,7 +1063,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134549,
       "name": "la cumbia del cucuy",
       "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
@@ -1027,7 +1081,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 135370,
       "name": "La Cumbia Del Cucuy",
       "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
@@ -1071,7 +1125,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 196142,
       "name": "Line",
       "url": "https://open.spotify.com/track/1VdILQlpAs1WR20E0mLreP"
@@ -1089,7 +1143,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199732,
       "name": "Line",
       "url": "https://open.spotify.com/track/6qEk7zRk98ripxgNOj9nue"
@@ -1179,7 +1233,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/5ICjRLHOxUv6gcRbr2ux9Z"
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
@@ -1241,7 +1295,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii"
@@ -1259,7 +1313,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 216852,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/7JONeaUwRAPZvrXBrhGq4E"
@@ -1303,10 +1357,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "album": {
+        "name": "Oysters in My Pocket",
+        "url": "https://open.spotify.com/album/3P7aj8IIQtpBozvpTRfMoZ"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162338,
+      "name": "Oysters in My Pocket",
+      "url": "https://open.spotify.com/track/4TdE8b1J7nRoaLCbCCN5cR"
     },
     {
       "album": {
@@ -1339,7 +1411,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113239,
       "name": "Post Nut Clarity",
       "url": "https://open.spotify.com/track/0x4OOb9FGytaKhWbZv2PzM"
@@ -1375,7 +1447,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 113239,
       "name": "Post Nut Clarity",
       "url": "https://open.spotify.com/track/6ZqYNVWAseR8ySw7oR8eId"
@@ -1447,7 +1519,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
@@ -1465,7 +1537,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
@@ -1599,7 +1671,7 @@
     {
       "album": {
         "name": "Summer Love",
-        "url": "https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq"
+        "url": "https://open.spotify.com/album/05mmPNGroDOEiOgo4vpIxh"
       },
       "artists": [
         {
@@ -1610,6 +1682,24 @@
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235464,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/0eFKx8VwwDiFWFtP3XLHvv"
+    },
+    {
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/5rZfNDMajoJcaEZX0duZtq"
+      },
+      "artists": [
+        {
+          "name": "Bambina",
+          "url": "https://open.spotify.com/artist/7dKQ4jc9y35k3P5dKWsLL1"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 235464,
       "name": "Summer Love",
       "url": "https://open.spotify.com/track/6864esbZ0WOrK05LZ0w0de"
@@ -1653,6 +1743,24 @@
     {
       "album": {
         "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV"
+    },
+    {
+      "album": {
+        "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
       },
       "artists": [
@@ -1681,7 +1789,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223119,
       "name": "Tennessee Orange",
       "url": "https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ"

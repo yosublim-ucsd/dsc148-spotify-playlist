@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 241947,
+  "2024-04-20": 242127,
   "date_first_scraped": "2022-11-02",
   "description": "El que por su gusto muere, hasta la muerte la sabe. Las historias de nuestro M\u00e9xico con Alfredo Olivas \ud83d\udc80\ud83e\udea6\ud83d\udc90",
   "name": "Corridos de la Muerte",
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 221543,
       "name": "El Dia Que Me Vaya - En Vivo",
       "url": "https://open.spotify.com/track/2rHDmTFBUhDoZiBND9XFbx"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221543,
       "name": "El D\u00eda Que Me Vaya - En Vivo",
       "url": "https://open.spotify.com/track/5x64i2xsqGHq6PNqwR3xsr"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/0drxfRtLx9xMFAahZKGdh8"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 145826,
       "name": "En Vida",
       "url": "https://open.spotify.com/track/7LNtyuekYHiZ99UxkrfCQR"
@@ -587,6 +587,28 @@
     {
       "album": {
         "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/3HCd4oEcqBbgqYQHEAIptu"
+    },
+    {
+      "album": {
+        "name": "12 Kilates Puros Corridos",
         "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183893,
       "name": "Las Tres Tumbas",
       "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
@@ -626,6 +648,24 @@
     },
     {
       "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
+    },
+    {
+      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -637,7 +677,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192440,
       "name": "Laurita Garza",
       "url": "https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS"
@@ -839,7 +879,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140308,
       "name": "Naci\u00f3 Pa'Leyenda",
       "url": "https://open.spotify.com/track/7kgJhdRt91bD8HLFpO8LTA"
@@ -857,7 +897,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 140308,
       "name": "Naci\u00f3 Pa'Leyenda",
       "url": "https://open.spotify.com/track/7yjXLXGXtwMGDqsEbOXB46"
@@ -959,7 +999,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
       "url": "https://open.spotify.com/track/6EubqUdydkHdtnXStHOlVN"
@@ -985,7 +1025,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 178150,
       "name": "Que Me Entierren Con la Banda",
       "url": "https://open.spotify.com/track/6Hcz9PRsiOpU051JQaHvz1"
@@ -1091,7 +1131,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199836,
       "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
@@ -1103,13 +1143,17 @@
       },
       "artists": [
         {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
           "name": "Los Buchones de Culiacan",
           "url": "https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa"
         }
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 199866,
       "name": "Trato De Muerte (feat. Los Buchones De Culiacan)",
       "url": "https://open.spotify.com/track/3Co7rxpt17f78kj4WSa1FZ"
@@ -1127,7 +1171,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Trece Cielos (Con Cerveza Victoria)",
       "url": "https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT"
@@ -1145,7 +1189,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207960,
       "name": "Trece Cielos (Con Cerveza Victoria)",
       "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"

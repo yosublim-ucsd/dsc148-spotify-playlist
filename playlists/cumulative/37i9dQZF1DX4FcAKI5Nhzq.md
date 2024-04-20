@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: BOYNEXTDOOR
 
-1,037 songs - 2 day 8 hr 52 min
+1,038 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [U MAD](https://open.spotify.com/track/2qR0mMrgwO099ONpl2B0II) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 2:50 | 2021-01-25 | 2021-05-11 |
 | [U&Iverse](https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [U&Iverse](https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo) | 3:24 | 2022-07-25 | 2022-09-09 |
 | [UGLY](https://open.spotify.com/track/3p5SJW1Jb4EvSEXrpShQzm) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Un: SEEN](https://open.spotify.com/album/6lPOFQarc48hDHdFYcVdzQ) | 3:21 | 2024-01-29 | 2024-03-15 |
+| [Ugly \- Spotify Singles](https://open.spotify.com/track/1hewNMWyHhb2zLZMOIPVWq) | [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Spotify Singles](https://open.spotify.com/album/3DSGgDuYRFGpmZjvm4sP3S) | 2:23 | 2024-04-19 |  |
 | [Ugly Dance](https://open.spotify.com/track/42M4c2TDlaJgNz08vsEoYD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [CITY OF ONF](https://open.spotify.com/album/63O0HEANLojQMAIM4czm3P) | 3:18 | 2021-05-05 | 2021-06-18 |
 | [Uh\-Heung](https://open.spotify.com/track/6ZqN3lxg9UjZCdOZAAquU6) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 7th Single Album ′CHASE EPISODE 3\. BEUM′](https://open.spotify.com/album/5AceFoyAzJIlqz5Y6EvkY7) | 3:00 | 2022-10-06 | 2022-12-31 |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-15 | 2024-03-15 |

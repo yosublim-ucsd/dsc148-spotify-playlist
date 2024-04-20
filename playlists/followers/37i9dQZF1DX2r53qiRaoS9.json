@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 51464,
+  "2024-04-20": 51416,
   "date_first_scraped": "2023-07-25",
   "description": "Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.",
   "name": "Masala Bhangra",
@@ -117,6 +117,28 @@
     {
       "album": {
         "name": "Bom Diggy - Single",
+        "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Bom Diggy",
+      "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
+    },
+    {
+      "album": {
+        "name": "Bom Diggy - Single",
         "url": "https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2"
       },
       "artists": [
@@ -131,7 +153,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207692,
       "name": "Bom Diggy",
       "url": "https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37"
@@ -307,10 +329,28 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197333,
       "name": "Daru Band",
       "url": "https://open.spotify.com/track/5ykIUH7FqS7J9rMIGx07sj"
+    },
+    {
+      "album": {
+        "name": "Daru Band",
+        "url": "https://open.spotify.com/album/419F65C5oUVOVDPqgwJ12t"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Daru Band",
+      "url": "https://open.spotify.com/track/6o1Pu5qBxa9JzsKOYDbJzV"
     },
     {
       "album": {
@@ -513,7 +553,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 188606,
       "name": "Jaani Tera Naa",
       "url": "https://open.spotify.com/track/0LZA36VEmc6n0Y7X29zIgE"
@@ -531,7 +571,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188638,
       "name": "Jaani Tera Naa",
       "url": "https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo"
@@ -892,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Punjabi Film Top 10",
+        "url": "https://open.spotify.com/album/4N4WTuSFMLWDb6zDm9jSf0"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Pasand Jatt Di",
+      "url": "https://open.spotify.com/track/52sbsDX2uun6alHa3NIhL1"
+    },
+    {
+      "album": {
         "name": "Pasand Jatt Di (From \"Qismat\") - Single",
         "url": "https://open.spotify.com/album/0kJA5yHLsDMA0cll0LitIB"
       },
@@ -907,7 +965,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194680,
       "name": "Pasand Jatt Di (From \"Qismat\")",
       "url": "https://open.spotify.com/track/6PpAjLBEPg6pWS2zRM2aaP"
@@ -951,10 +1009,32 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185500,
       "name": "PRADA",
       "url": "https://open.spotify.com/track/4CxTBbdPUiwk2dSUrcg9CD"
+    },
+    {
+      "album": {
+        "name": "Prada",
+        "url": "https://open.spotify.com/album/7rQXwz0QDBSB0S0kavDEgK"
+      },
+      "artists": [
+        {
+          "name": "The Doorbeen",
+          "url": "https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc"
+        },
+        {
+          "name": "Shreya Sharma",
+          "url": "https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/6NLzzwFbAD1imLXGBMj9jo"
     },
     {
       "album": {
@@ -1191,10 +1271,32 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165128,
       "name": "Taare Balliye",
       "url": "https://open.spotify.com/track/1fj1gSkScVWLznaWAVe413"
+    },
+    {
+      "album": {
+        "name": "Taare Balliye",
+        "url": "https://open.spotify.com/album/7HzCAOx09hTH4u7tStdf3S"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Sargun Mehta",
+          "url": "https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165128,
+      "name": "Taare Balliye",
+      "url": "https://open.spotify.com/track/79aAeCSTk4CeRJWEgVWqEL"
     },
     {
       "album": {
@@ -1337,7 +1439,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181846,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/1C7nptPXHHUbByNpQwcbZX"
@@ -1363,6 +1465,28 @@
       "duration_ms": 181846,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/31QGKUEo7ZH8dRbKSWQy25"
+    },
+    {
+      "album": {
+        "name": "Lakeeran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4HxRmGwtrZSj8vkvOVM8kv"
+      },
+      "artists": [
+        {
+          "name": "Zora Randhawa",
+          "url": "https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3"
+        },
+        {
+          "name": "Rupali",
+          "url": "https://open.spotify.com/artist/6iGI9AvcDdGMu6lkbxHsOA"
+        }
+      ],
+      "date_added": "2024-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181955,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/2xm1LoXyIt6W43JdpO3Bjl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2r53qiRaoS9"

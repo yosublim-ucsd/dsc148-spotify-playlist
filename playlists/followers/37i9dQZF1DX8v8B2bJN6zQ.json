@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 43953,
+  "2024-04-20": 43961,
   "date_first_scraped": "2022-01-21",
   "description": "M\u00fasica eletr\u00f4nica para aquele treino de peso.",
   "name": "Power Training",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "bad vibes \"/",
       "url": "https://open.spotify.com/track/4o4m3uL98OFGAVCY4WhsYa"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "bad vibes \"/",
       "url": "https://open.spotify.com/track/5qRKhuxccR1inzrWEX0Dqs"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 143040,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/2F1ppuYwY0sNjjJMPL90aL"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143040,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212459,
       "name": "Help (Habstrakt Remix)",
       "url": "https://open.spotify.com/track/6H8Sn4FMIBN8oyyLL6DLNk"
@@ -901,7 +901,7 @@
       },
       "artists": [
         {
-          "name": "GHASTLY",
+          "name": "Ghastly",
           "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         },
         {
@@ -915,9 +915,9 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 212459,
-      "name": "Help - Habstrakt Remix",
+      "name": "Help (Habstrakt Remix)",
       "url": "https://open.spotify.com/track/7vuRaD7q2ajQU3xLQupl9T"
     },
     {
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5PLfjUnpV6eFXymcsXwa37"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184611,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151940,
       "name": "Last One",
       "url": "https://open.spotify.com/track/00qWdSDe3TW81D10dsTLuY"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 151940,
       "name": "Last One",
       "url": "https://open.spotify.com/track/61yMjxM2ratUj6mZZ9S7WM"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158709,
       "name": "Push The Feeling On",
       "url": "https://open.spotify.com/track/0NWkVDrjlHYHGWWQdShmos"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158709,
       "name": "Push The Feeling On",
       "url": "https://open.spotify.com/track/7MRzjgoS72BNFT2pcToJGJ"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Quarentoxic",
       "url": "https://open.spotify.com/track/1kbA0ogOM9fWT4dDHMsa8y"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193548,
       "name": "Quarentoxic",
       "url": "https://open.spotify.com/track/6FqIzYdOJD29Xf3y7cOyWF"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
@@ -1761,7 +1761,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 150468,
       "name": "Sitar - Radio Edit",
       "url": "https://open.spotify.com/track/29qxPs0rlgFm66EEeAhoNC"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150468,
       "name": "Sitar - Radio Edit",
       "url": "https://open.spotify.com/track/0XtXW7RwXBlcLV64XqW03S"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/1KuYN9iWN7tO7dSxGnxZOc"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164516,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/6EJ0MQNjga0strXUOLiQXf"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "SONG SIX - CloZee Remix",
       "url": "https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219743,
       "name": "SONG SIX - CloZee Remix",
       "url": "https://open.spotify.com/track/39Ve9SKesVMbaI5q4JblmH"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206000,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/2WV4LZpp6Tvr8wbUyLzKAX"
@@ -2029,7 +2029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/7qM0UyfnElkpDE45C3zagN"
@@ -2323,7 +2323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/2v8UL40Ar3MlaPrdz81PDs"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144000,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/64CQmRKekdMxt1JEpvglHT"

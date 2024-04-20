@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 183298,
+  "2024-04-20": 183474,
   "date_first_scraped": "2022-02-17",
   "description": "wandering the forest as the fog floats through the trees",
   "name": "gloomcore",
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 291553,
       "name": "Animism",
       "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "As Bright as the Night",
       "url": "https://open.spotify.com/track/7dTFtjtn0P1SmCDMdgm1DA"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 148786,
       "name": "Dark Spring",
       "url": "https://open.spotify.com/track/7iCt4GaiTrd0h5EOs6PYW8"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 452869,
       "name": "For Horror Eats The Light",
       "url": "https://open.spotify.com/track/5N4723h6DlwmmbpuNA895G"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 947666,
       "name": "Helpless Child",
       "url": "https://open.spotify.com/track/0hiPJhnFoew9Qm8kOrtYoG"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 947666,
       "name": "Helpless Child",
       "url": "https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389530,
       "name": "Lie Beneath the Stars",
       "url": "https://open.spotify.com/track/1zSuezypJNKfab1FnC83HG"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256394,
       "name": "Sea Creatures",
       "url": "https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206340,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 260482,
       "name": "Snowa",
       "url": "https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190250,
       "name": "stardust",
       "url": "https://open.spotify.com/track/2gDx1fgbqzXAnoul9C2ELa"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 190250,
       "name": "stardust",
       "url": "https://open.spotify.com/track/71M0d7047A3ZLTQSKZt94p"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 159972,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318786,
       "name": "The Marble Eye",
       "url": "https://open.spotify.com/track/5tWSQ1cXoMBafYnEwmSVkS"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 405946,
       "name": "T\u00f3mi\u00f0 Titrar",
       "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"

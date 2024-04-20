@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 489029,
+  "2024-04-20": 488361,
   "date_first_scraped": "2022-01-13",
   "description": "Real Rap. All Pressure. Cover: Sexyy Red",
   "name": "Pressure",
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102872,
       "name": "6000 Degrees (AH HA)",
       "url": "https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128000,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7"
@@ -3607,7 +3607,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "FINE AS CAN BE (feat. Latto)",
       "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
@@ -5681,7 +5681,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175880,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv"
@@ -8915,7 +8915,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 139931,
       "name": "Selling",
       "url": "https://open.spotify.com/track/4cQzKnVFTYNmlaJnls9lAL"
@@ -9329,6 +9329,24 @@
       "duration_ms": 161230,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0eN3LYdvUOq7Z1WOpd48g3"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1ouCQgTJioODJSEmuaF3ml"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq"
     },
     {
       "album": {
@@ -10839,7 +10857,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 116191,
       "name": "UP, LIT. FREESTYLE",
       "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
@@ -10989,7 +11007,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144961,
       "name": "Wassup Gway",
       "url": "https://open.spotify.com/track/0CtuA9sDnOAU3NM8bHIMyu"

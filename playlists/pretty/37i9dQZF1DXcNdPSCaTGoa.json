@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 20 years of  <a href=\"https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=RA5rgdt2RX-n7beSCAHzBQ\">Thandiswa's</a>  Zabalaza. ",
-  "num_followers": 55792,
+  "num_followers": 55805,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Brothers",
-          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Ngeke Ndiphinde",
-      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 258106,
       "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
       "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Brothers",
+          "url": "https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs"
+        }
+      ],
+      "duration_ms": 240293,
+      "name": "Ngeke Ndiphinde",
+      "url": "https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
-        "name": "BullDawgz First Lady",
-        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
-      },
-      "artists": [
-        {
-          "name": "Mshoza",
-          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Kortes (Kasi Luv)",
-      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
         "name": "Vintage Sounds of Johannesburg",
         "url": "https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2024-03-22 07:01:39",
       "album": {
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
+      },
+      "artists": [
+        {
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 247630,
       "name": "Sbali",
       "url": "https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV"
-    },
-    {
-      "added_at": "2024-03-22 07:01:39",
-      "album": {
-        "name": "Skhanda Republic",
-        "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
-      },
-      "artists": [
-        {
-          "name": "K.O",
-          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
-        },
-        {
-          "name": "Kid X",
-          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
-        }
-      ],
-      "duration_ms": 226321,
-      "name": "Caracara",
-      "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
     },
     {
       "added_at": "2024-03-22 07:01:39",
@@ -703,6 +683,26 @@
       "duration_ms": 451466,
       "name": "Y U 4 Me",
       "url": "https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu"
+    },
+    {
+      "added_at": "2024-03-22 07:01:39",
+      "album": {
+        "name": "Skhanda Republic",
+        "url": "https://open.spotify.com/album/0i15VXopYrR8o0iHP5VCcf"
+      },
+      "artists": [
+        {
+          "name": "K.O",
+          "url": "https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z"
+        },
+        {
+          "name": "Kid X",
+          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
+        }
+      ],
+      "duration_ms": 226321,
+      "name": "Caracara",
+      "url": "https://open.spotify.com/track/4A9say7qoHC3LJTFtK77CY"
     },
     {
       "added_at": "2024-03-22 07:01:39",

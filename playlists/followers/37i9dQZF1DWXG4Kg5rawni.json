@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 100371,
+  "2024-04-20": 100230,
   "date_first_scraped": "2022-09-15",
   "description": "Amor aben\u00e7oado por Deus.",
   "name": "Gospel Rom\u00e2ntico",
@@ -100,6 +100,24 @@
     },
     {
       "album": {
+        "name": "Um Novo Tempo",
+        "url": "https://open.spotify.com/album/2yKqbPEloAzH6Z8fZqwcMD"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219010,
+      "name": "Amor Sem Limites",
+      "url": "https://open.spotify.com/track/1BUk7jF8F7peNqQhnCHRaS"
+    },
+    {
+      "album": {
         "name": "As Melhores De Cristina Mel",
         "url": "https://open.spotify.com/album/1pCgFUNr27yWZKsIYsCtjK"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Amor Sem Limites",
       "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
@@ -339,10 +357,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244613,
       "name": "Desde o Primeiro Momento",
       "url": "https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K"
+    },
+    {
+      "album": {
+        "name": "Tempo de Sorrir",
+        "url": "https://open.spotify.com/album/5sHf5cFAOYtNTDsMBc3Xuu"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244613,
+      "name": "Desde o Primeiro Momento (From This Moment On)",
+      "url": "https://open.spotify.com/track/1njj1mJZ0y90gQIWJreZBd"
     },
     {
       "album": {
@@ -676,6 +712,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/545ATgP3waowyr2Eon7QxT"
+      },
+      "artists": [
+        {
+          "name": "Elaine de Jesus",
+          "url": "https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247946,
+      "name": "Metade de Mim",
+      "url": "https://open.spotify.com/track/41zJghIq4FRn3KmjdYVenE"
+    },
+    {
+      "album": {
         "name": "Sem Compara\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY"
       },
@@ -691,7 +745,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248569,
       "name": "Metade de Mim",
       "url": "https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0"
@@ -1035,7 +1089,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 227855,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
@@ -1053,7 +1107,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227856,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/4XiC5sMUQvbnN0UTKzZYcd"
@@ -1223,10 +1277,28 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276413,
       "name": "Sonho",
       "url": "https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse"
+    },
+    {
+      "album": {
+        "name": "M\u00e3os Vazias",
+        "url": "https://open.spotify.com/album/3g2trsrZn97asGFOm1E3kT"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276413,
+      "name": "Sonho",
+      "url": "https://open.spotify.com/track/69o9QV1oOFbbpyUqjQfaQr"
     },
     {
       "album": {

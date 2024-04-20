@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 330000,
       "name": "Azure Dragon",
       "url": "https://open.spotify.com/track/61EcOtWCcbIIduDSlpRneD"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 255029,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1TuSdRRhFDISLBx1PlHeGK"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 160430,
       "name": "Make Amends (feat. Kyan Palmer)",
       "url": "https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 180000,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
@@ -2521,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/5gHPafzM3lVX2xlmjCZnYW"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "alltalk",
+          "url": "https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1oQcyICs4dnGG0rHMvaROt"
+    },
+    {
+      "album": {
         "name": "Party In Miami (The Remixes)",
         "url": "https://open.spotify.com/album/31Wg5Bhdr0xaLinxAjmjYj"
       },
@@ -2851,6 +2873,32 @@
     },
     {
       "album": {
+        "name": "RIOT (Curbi Remix)",
+        "url": "https://open.spotify.com/album/7wJKTljt6tVUWJFPFSj9qw"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165710,
+      "name": "RIOT - Curbi Remix",
+      "url": "https://open.spotify.com/track/141Wmp3tD5OEqY3PrfryWj"
+    },
+    {
+      "album": {
         "name": "Ripped",
         "url": "https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6"
       },
@@ -3063,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Sippin' Yak",
+        "url": "https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146230,
+      "name": "Sippin' Yak",
+      "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
+    },
+    {
+      "album": {
         "name": "Mini Motors",
         "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
       },
@@ -3194,7 +3260,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 206904,
       "name": "Stereo Function",
       "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
@@ -3518,7 +3584,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 148346,
       "name": "Toxic 4 Me",
       "url": "https://open.spotify.com/track/42rKk0fwnMTAKgwWyuvldO"
@@ -3867,6 +3933,36 @@
     },
     {
       "album": {
+        "name": "Wema (Anorre Remix)",
+        "url": "https://open.spotify.com/album/1PQ6rDZcEiNFWWFTsRxSzT"
+      },
+      "artists": [
+        {
+          "name": "SOLR",
+          "url": "https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Anorre",
+          "url": "https://open.spotify.com/artist/26TRIoeGpch6h8plv1siMh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Wema - Anorre Remix",
+      "url": "https://open.spotify.com/track/3A0OGZ8qR9BgQgDpXnXkJT"
+    },
+    {
+      "album": {
         "name": "Westside",
         "url": "https://open.spotify.com/album/6uGoTMFwu9mxx5B6NibinR"
       },
@@ -3882,6 +3978,28 @@
       "duration_ms": 176248,
       "name": "Westside",
       "url": "https://open.spotify.com/track/2Rc6ivoghl3HERJ9bbqEWo"
+    },
+    {
+      "album": {
+        "name": "Veni, Vidi, Vici",
+        "url": "https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "When The Beat Bang",
+      "url": "https://open.spotify.com/track/596Z1Gm3PiCIdaX0ZnNcBm"
     },
     {
       "album": {
@@ -3994,7 +4112,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 165333,
       "name": "XTC",
       "url": "https://open.spotify.com/track/4RMOH93IUkNUjEKcvZCzq0"
@@ -4016,6 +4134,24 @@
       "duration_ms": 198739,
       "name": "Yonkis",
       "url": "https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd"
+    },
+    {
+      "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/5XYwClzOyPlC0FTRKtINS4"
+      },
+      "artists": [
+        {
+          "name": "Pnut & Jelly",
+          "url": "https://open.spotify.com/artist/59ATYSXW0zXoyuXjdlB6w1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/5ccV6fBXyEu8HUwgEQi1EV"
     },
     {
       "album": {

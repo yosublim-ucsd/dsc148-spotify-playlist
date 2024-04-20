@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 1676,
+  "2024-04-20": 1767,
   "date_first_scraped": "2024-04-05",
   "description": "Songs that make Paul Mescal feel something, including some from his new film All Of Us Strangers. Welcome to <a href=\"spotify:genre:0JQ5IMCbQBLz83ugJwU5zb\">mixtape</a>, a curator's playground.",
   "name": "Mixtape #8 Paul Mescal \"Songs to make you feel something\"",
   "tracks": [
+    {
+      "album": {
+        "name": "Cherry Tree",
+        "url": "https://open.spotify.com/album/3H9mJKAMQDukU8ZtV01jQS"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "About Today",
+      "url": "https://open.spotify.com/track/1RRjWXfo6LRWnXaNG26S38"
+    },
     {
       "album": {
         "name": "Cherry Tree (2021 Remaster)",
@@ -17,10 +35,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250760,
       "name": "About Today - 2021 Remaster",
       "url": "https://open.spotify.com/track/2w55zgyrG40D5ppKj4XxdK"
+    },
+    {
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1MNMrkTgHWom5Mm4xb0X0Q"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393866,
+      "name": "Accidental Babies",
+      "url": "https://open.spotify.com/track/1NW827b9O2oRNTGuJdXvOL"
     },
     {
       "album": {
@@ -35,7 +71,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393866,
       "name": "Accidental Babies",
       "url": "https://open.spotify.com/track/1fOvW60gaeWtUCgjneOxnS"
@@ -97,10 +133,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "Between The Bars",
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
     },
     {
       "album": {
@@ -123,7 +177,7 @@
     {
       "album": {
         "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
       },
       "artists": [
         {
@@ -134,6 +188,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149880,
+      "name": "Butchered Tongue",
+      "url": "https://open.spotify.com/track/2fuTf4PvkLWAAVHetDc5yL"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 149880,
       "name": "Butchered Tongue",
       "url": "https://open.spotify.com/track/38U4hYYzUbydvJ4J5YZEy6"
@@ -177,7 +249,7 @@
     {
       "album": {
         "name": "Wake Up Calls",
-        "url": "https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD"
+        "url": "https://open.spotify.com/album/553j48Nz4NFnIsV4Bk2wef"
       },
       "artists": [
         {
@@ -188,6 +260,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Cuckoo Song",
+      "url": "https://open.spotify.com/track/2DcC0jhDVcdSanjts0enu8"
+    },
+    {
+      "album": {
+        "name": "Wake Up Calls",
+        "url": "https://open.spotify.com/album/74ExKX0TXhIQE30UrTiPlD"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 185266,
       "name": "Cuckoo Song",
       "url": "https://open.spotify.com/track/5zqCzVj317vQkwVHqQcvZA"
@@ -379,10 +469,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+    },
+    {
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s"
     },
     {
       "album": {
@@ -445,7 +553,7 @@
     {
       "album": {
         "name": "Jump Rope Gazers",
-        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
+        "url": "https://open.spotify.com/album/4Z1Gd51o8MYS9waOBaZYTi"
       },
       "artists": [
         {
@@ -456,6 +564,24 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 312182,
+      "name": "Jump Rope Gazers",
+      "url": "https://open.spotify.com/track/5ip5ezZbIZxjzMLz8oKKHn"
+    },
+    {
+      "album": {
+        "name": "Jump Rope Gazers",
+        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 312182,
       "name": "Jump Rope Gazers",
       "url": "https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp"
@@ -664,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Cardinal",
+        "url": "https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287480,
+      "name": "Size of the Moon",
+      "url": "https://open.spotify.com/track/4qku0LL7dN67zppzvxkBha"
+    },
+    {
+      "album": {
         "name": "Cardinal (Expanded Edition)",
         "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
       },
@@ -675,7 +819,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287480,
       "name": "Size of the Moon",
       "url": "https://open.spotify.com/track/6U66c9UHBSeEpYprkigXtv"
@@ -729,10 +873,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315239,
       "name": "The Back Of Her",
       "url": "https://open.spotify.com/track/23On8HJ0UHL7QWBN7zLroz"
+    },
+    {
+      "album": {
+        "name": "Pull The Right Rope",
+        "url": "https://open.spotify.com/album/1zJWPGP8JFdpypvANgL1KQ"
+      },
+      "artists": [
+        {
+          "name": "Junior Brother",
+          "url": "https://open.spotify.com/artist/2CdmJGEGEkzPZ966NCmtKz"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315239,
+      "name": "The Back Of Her",
+      "url": "https://open.spotify.com/track/2YQr4Zh2TsIABHW1TbuvEs"
     },
     {
       "album": {
@@ -747,10 +909,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220546,
       "name": "The Foggy Dew",
       "url": "https://open.spotify.com/track/0T9vOCFjgwqodrkW7xiOPy"
+    },
+    {
+      "album": {
+        "name": "The Hare's Lament",
+        "url": "https://open.spotify.com/album/1I5bxEzJcGz5kSbMtt1J8M"
+      },
+      "artists": [
+        {
+          "name": "Ye Vagabonds",
+          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "The Foggy Dew",
+      "url": "https://open.spotify.com/track/5lZqHKXD7XLIZEolr6zYVB"
     },
     {
       "album": {
@@ -791,7 +971,7 @@
     {
       "album": {
         "name": "Been Listening",
-        "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
+        "url": "https://open.spotify.com/album/5pVQFcAnWn1Z402qJ42YpV"
       },
       "artists": [
         {
@@ -806,6 +986,28 @@
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252853,
+      "name": "The Water",
+      "url": "https://open.spotify.com/track/4sfxlJnfTMhlLjhbuRJtqm"
+    },
+    {
+      "album": {
+        "name": "Been Listening",
+        "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
+      },
+      "artists": [
+        {
+          "name": "Johnny Flynn",
+          "url": "https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
@@ -831,7 +1033,7 @@
     {
       "album": {
         "name": "Live in Dublin",
-        "url": "https://open.spotify.com/album/2MS3CxVbdtmwbzgJDYpiNw"
+        "url": "https://open.spotify.com/album/4RZJRkuJDQti87QNDAypdM"
       },
       "artists": [
         {
@@ -848,7 +1050,47 @@
       "date_removed": null,
       "duration_ms": 394946,
       "name": "We The Drowned - Live In Dublin",
+      "url": "https://open.spotify.com/track/3YR5dkL60IL7SbrozAWTlZ"
+    },
+    {
+      "album": {
+        "name": "Live in Dublin",
+        "url": "https://open.spotify.com/album/2MS3CxVbdtmwbzgJDYpiNw"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        },
+        {
+          "name": "stargaze",
+          "url": "https://open.spotify.com/artist/6ArmVuGn8UtsupvhL3suRy"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 394946,
+      "name": "We The Drowned - Live In Dublin",
       "url": "https://open.spotify.com/track/4WNcpkg5l4WSYBg4IyMhCm"
+    },
+    {
+      "album": {
+        "name": "Between the Earth and Sky",
+        "url": "https://open.spotify.com/album/2zwjcGmmeGg6PoNPZjiVhA"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349028,
+      "name": "What Will We Do When We Have No Money?",
+      "url": "https://open.spotify.com/track/356Rs4ekembJtl6EhowLTR"
     },
     {
       "album": {
@@ -863,7 +1105,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349028,
       "name": "What Will We Do When We Have No Money?",
       "url": "https://open.spotify.com/track/7uRtBOvqokTBsNBjBhKOZx"

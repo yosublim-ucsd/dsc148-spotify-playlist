@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 30951,
+  "2024-04-20": 30963,
   "date_first_scraped": "2023-05-19",
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Pina Colada Blues",
   "name": "Malayalam Indie",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198691,
       "name": "Aakasham",
       "url": "https://open.spotify.com/track/0vi4EJnVhAt6mYN60M98yh"
@@ -57,6 +57,24 @@
       "duration_ms": 198691,
       "name": "Aakasham",
       "url": "https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX"
+    },
+    {
+      "album": {
+        "name": "Aakasham",
+        "url": "https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3"
+      },
+      "artists": [
+        {
+          "name": "Aromal Chekaver",
+          "url": "https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201347,
+      "name": "Aakasham",
+      "url": "https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu"
     },
     {
       "album": {
@@ -253,10 +271,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267913,
       "name": "Arutharuthu",
       "url": "https://open.spotify.com/track/1jopcodc8BmM3BsvM0NvEE"
+    },
+    {
+      "album": {
+        "name": "Rithu",
+        "url": "https://open.spotify.com/album/4RWpgYfWPwxuTlUnwpE18I"
+      },
+      "artists": [
+        {
+          "name": "Project Malabaricus",
+          "url": "https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l"
+        },
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267913,
+      "name": "Arutharuthu",
+      "url": "https://open.spotify.com/track/2d40W8qyOzFRRlINyDZSwI"
     },
     {
       "album": {
@@ -283,6 +323,24 @@
     {
       "album": {
         "name": "Athe Nila (From \"I'm Original\")",
+        "url": "https://open.spotify.com/album/3uGz7Gre9ElmbvP5akT4G1"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275733,
+      "name": "Athe Nila (From \"I'm Original\") by Job Kurian",
+      "url": "https://open.spotify.com/track/1a2xwbwGVHUYGFcVGKyEtC"
+    },
+    {
+      "album": {
+        "name": "Athe Nila (From \"I'm Original\")",
         "url": "https://open.spotify.com/album/5phkYqqusaDalMGg6qsGcw"
       },
       "artists": [
@@ -293,7 +351,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275733,
       "name": "Athe Nila (From \"I'm Original\") by Job Kurian",
       "url": "https://open.spotify.com/track/6JBA5WfUCN5vyZ30SYdkmk"
@@ -329,10 +387,28 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207604,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207604,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh"
     },
     {
       "album": {
@@ -501,7 +577,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4d8u6nDK0hRliTXQ8lDKdt"
@@ -523,7 +599,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Chayapattu",
       "url": "https://open.spotify.com/track/4y7DF2YwXJPcYpX9mFl8pW"
@@ -1767,7 +1843,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349786,
       "name": "Manavyalakinchara (Mist of Capricorn)",
       "url": "https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q"
@@ -1785,7 +1861,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 349786,
       "name": "Manavyalakinchara (Mist of Capricorn)",
       "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"
@@ -2473,7 +2549,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 335750,
       "name": "Pilleranu",
       "url": "https://open.spotify.com/track/0yf1E6IHDdHb3iDeJseptM"
@@ -2495,7 +2571,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 335750,
       "name": "Pilleranu",
       "url": "https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd"
@@ -2607,7 +2683,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 537295,
       "name": "Rangapura Vihara",
       "url": "https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM"
@@ -2625,7 +2701,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 537295,
       "name": "Rangapura Vihara",
       "url": "https://open.spotify.com/track/56H5p48Xeq6icOZxKLDe7o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,790 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,856 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 34 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
 | 35 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 |
 | 36 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
-| 37 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
-| 38 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
+| 37 | [El Sol No Regresa](https://open.spotify.com/track/7jy5URBQ0eJrtuvgihUBob) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Covers](https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh) | 3:13 |
+| 38 | [Te Perdonaría](https://open.spotify.com/track/59GiiVw3zIjLjxKsw8qYef) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Te Perdonaría](https://open.spotify.com/album/07RKZoRaIAU01NpC5LnJXD) | 2:43 |
 | 39 | [Gotas de Agua Dulce](https://open.spotify.com/track/1lNwxGWTLo2NOEQcszIWTB) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Gotas de Agua Dulce](https://open.spotify.com/album/0qIwz78hTB7PjXNYDPXced) | 2:55 |
 | 40 | [No Me Quiero Enamorar](https://open.spotify.com/track/2gElMedQqwBruHVfmIPcuV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/5dTyit7m5HJ2q5S0zFKhyP) | 2:39 |
 | 41 | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/track/1aUfM1dau8x2Zcrbm6JZeZ) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL) | [Colgando En Tus Manos \(En Vivo\)](https://open.spotify.com/album/3RxqQkDJNnDtGkz9cAITm5) | 3:23 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 56 | [Hawai](https://open.spotify.com/track/3IDF1BcNLIIW25U4eZwLC7) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Nuevo Camino](https://open.spotify.com/album/2xsWSJbMDqj8w5wYsjcDIx) | 3:40 |
 | 57 | [Ojos Marrones](https://open.spotify.com/track/4Y3fR2YZYo7YjJDz8dUCQJ) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:40 |
 | 58 | [Antología](https://open.spotify.com/track/5Bns0V29ADfLoVAkgam4bM) | [Latente](https://open.spotify.com/artist/5s7Atmj5PYIx5UvyMwldBz) | [Antología](https://open.spotify.com/album/4gyDXZJJ5IXdyWw5lfeYok) | 4:06 |
-| 59 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
+| 59 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
 | 60 | [La Curiosidad](https://open.spotify.com/track/750Jft4koW1yoribM3DtzT) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Convencido](https://open.spotify.com/album/5jpPKL9NiWm7hVlLU6uHkb) | 3:32 |
 | 61 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0) | 2:50 |
 | 62 | [Cupido](https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Cupido](https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU) | 3:27 |
-| 63 | [Los Santos](https://open.spotify.com/track/0JgFV5s9UNFEArrjhPXDGk) | [Grupo otro estilo](https://open.spotify.com/artist/0eOpVjUVJbfkZidyb44JI8) | [Los Santos](https://open.spotify.com/album/4SdznpnZKggzhR7Aff2N2l) | 4:03 |
+| 63 | [La Bachata](https://open.spotify.com/track/2bLRsJAcqwiLSvkwOyKtkk) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [Vete](https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK) | 3:17 |
 | 64 | [La Fresa](https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4) | 2:54 |
 | 65 | [Ocean \(Versión Norteño\)](https://open.spotify.com/track/1pvk9aZ2aZvfVumOUZu4zc) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Ocean \(Versión Norteño\)](https://open.spotify.com/album/5C5lBJSmjLAF87w9yXW6px) | 3:07 |
 | 66 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |

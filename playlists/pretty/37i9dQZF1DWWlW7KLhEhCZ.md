@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: LH CHUCRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,809 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,759 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 13 | [Yakuza](https://open.spotify.com/track/0LbHGxKrhxULsAyj93ih6M) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Isaiah Reece](https://open.spotify.com/artist/0A9cRcABC3BfRTQcxeI8T9) | [Yakuza](https://open.spotify.com/album/6vRqjKlYZtBmtNWh0N5LgR) | 2:29 |
 | 14 | [Bellingham](https://open.spotify.com/track/3GTpSnNTSh4QOKE9aM8gmI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Bellingham](https://open.spotify.com/album/77tDGgpRLeX6TSXjtgRZOs) | 1:53 |
 | 15 | [Olha Pra Mim](https://open.spotify.com/track/2GjTqXEbrGdNxQDzW0LpY6) | [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Meu Momento](https://open.spotify.com/album/5rgYDyO3pOgkzNkm6m6jfc) | 2:18 |
-| 16 | [Surfar no Beat](https://open.spotify.com/track/5XFFUtXFiK2wit0sbX8YJO) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Phl Noturnboy](https://open.spotify.com/artist/3xzXbXnMXRjX0iTA1czAKg) | [Escola De Trap](https://open.spotify.com/album/3eW2UQ0NXO9uWmSjWS6dW8) | 2:09 |
+| 16 | [Surfar no Beat](https://open.spotify.com/track/5XFFUtXFiK2wit0sbX8YJO) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [Escola De Trap](https://open.spotify.com/album/3eW2UQ0NXO9uWmSjWS6dW8) | 2:09 |
 | 17 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 18 | [Perfil \#92 \- Maldito Bendito](https://open.spotify.com/track/1WdmBRiobAoO6yASiPQPbr) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7) | [Perfil \#92 \- Maldito Bendito](https://open.spotify.com/album/5dhL2ENO5CbWkxP3XU4C3l) | 3:22 |
 | 19 | [Dois Lados](https://open.spotify.com/track/7JJM0hEk80D8Sn08AzrYBL) | [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd), [TrapHits](https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW) | [Dois Lados](https://open.spotify.com/album/3VlzEdi1fvyVV0v5zvKTdL) | 2:55 |

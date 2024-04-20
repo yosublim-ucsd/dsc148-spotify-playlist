@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6296644,
+  "2024-04-20": 6291456,
   "date_first_scraped": "2022-01-02",
   "description": "Diz A\u00ed Qual \u00c9 O Plano e os funks mais \ud83d\udd11 do Brasil. Foto: Mc IG, Mc Ryan SP, Oruam, Mc GH do 7, MC GP, Mc Nego Micha, Mc PH, Mc Luki, Mc Poze do Rodo.",
   "name": "Funk Hits",
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 157216,
       "name": "DAN\u00c7A PRA ME PROVOCAR",
       "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157216,
       "name": "DAN\u00c7A PRA ME PROVOCAR",
       "url": "https://open.spotify.com/track/6zdL0aLZs6g61SPGrlMvrM"
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/0SIqUxweTuwVQnTYOpHaEI"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140307,
       "name": "Mega a Cura Antidepressiva",
       "url": "https://open.spotify.com/track/60foquI0jndvp1YJEJrU0A"
@@ -3693,10 +3693,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "Mega a Cura Antidepressiva",
       "url": "https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk"
+    },
+    {
+      "album": {
+        "name": "MEGA FUNK LOST",
+        "url": "https://open.spotify.com/album/5QuEEXjrT3chFSBnsRlsCS"
+      },
+      "artists": [
+        {
+          "name": "DJ Maninho",
+          "url": "https://open.spotify.com/artist/4XZR4NawJ2XBNzaINpqrI5"
+        },
+        {
+          "name": "DJ Dudu",
+          "url": "https://open.spotify.com/artist/2kge0I5DHgUgkmFXRey3iw"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161304,
+      "name": "MEGA FUNK LOST",
+      "url": "https://open.spotify.com/track/4kF6c7oMaNnkTlVTPvpipy"
     },
     {
       "album": {
@@ -3749,7 +3771,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161284,
       "name": "Mega Funk Lost",
       "url": "https://open.spotify.com/track/1xWnRVOZiVLkSIJbNRfiy8"

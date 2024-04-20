@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-288 songs - 18 hr 35 min
+289 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [The Image of You \(Remains in My Memory\)](https://open.spotify.com/track/47VBwKrb9UrN66EXXG71iT) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Hometown Cha\-Cha\-Cha, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/5VkqpwpP2YPufmWxtVinbi) | 3:09 | 2022-06-24 | 2022-07-21 |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-06-09 | 2022-06-21 |
 | [The Only Reason](https://open.spotify.com/track/7L0sdabB8ORxLAPaHd9k4K) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/45AZsZfx4wTLps1b1DVdRX) | 4:02 | 2022-06-24 | 2022-07-12 |
-| [The Painted On The Moonlight](https://open.spotify.com/track/2SCOjgC1DSu7XskVTo0Wzl) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Dearest \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0xxKDsA1uPsxzqIE5wTneS) | 4:04 | 2024-04-04 |  |
+| [The Painted On The Moonlight](https://open.spotify.com/track/2SCOjgC1DSu7XskVTo0Wzl) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [My Dearest \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0xxKDsA1uPsxzqIE5wTneS) | 4:04 | 2024-04-04 | 2024-04-20 |
 | [Think of You](https://open.spotify.com/track/3fnhqgNnzE3eALxismWcpv) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/6KtI28DkWKsxRvLm9ylKU3) | 4:23 | 2022-05-11 | 2022-07-29 |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2024-04-03 |  |
 | [Time, like a shining star](https://open.spotify.com/track/4SBbY7GP2BCugTmZ8uhzC9) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5qcdTdgUCunW6VV7Mkblpx) | 3:18 | 2022-05-11 | 2022-07-29 |
@@ -261,6 +261,7 @@
 | [With You](https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Descendants Of The Sun Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6) | 4:14 | 2024-04-04 |  |
 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2022-06-24 |  |
 | [You Are My Everything](https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [태양의 후예 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6hEeL5DGfL0fffPGGUDvqq) | 4:00 | 2022-05-11 | 2022-07-29 |
+| [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2024-04-04 |  |
 | [You Are My World](https://open.spotify.com/track/3RYVWLRwdRaneGvLBcw4lH) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [The Legend Of The Blue Sea \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gcdtxj0SD33TZezuNRe6j) | 3:37 | 2022-05-11 | 2022-07-16 |
 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 | 2024-04-03 |  |
 | [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 | 2024-04-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Tito Double P, Jaziel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,020 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,280 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 5 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 6 | [Desde La Prisión 19](https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Desde La Prisión 19](https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj) | 2:55 |
 | 7 | [El LP](https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El LP](https://open.spotify.com/album/03znBeyglN3fms5BClz1mv) | 3:39 |
-| 8 | [Traigo Una 40](https://open.spotify.com/track/0R0PKsDGwRX4uU2T5rTbKw) | [Saul y Samuel](https://open.spotify.com/artist/0OVfrgqnjrYUA9J2apvGxG), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Traigo Un 40](https://open.spotify.com/album/57C2zWjDBp5uaJULRYyQwJ) | 3:12 |
+| 8 | [Traigo Una 40](https://open.spotify.com/track/0R0PKsDGwRX4uU2T5rTbKw) | [Saul y Samuel](https://open.spotify.com/artist/0OVfrgqnjrYUA9J2apvGxG), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Traigo Una 40](https://open.spotify.com/album/57C2zWjDBp5uaJULRYyQwJ) | 3:12 |
 | 9 | [Me Ven X LA](https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew) | [Me Ven X LA](https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS) | 2:38 |
 | 10 | [Iniciales SV](https://open.spotify.com/track/3cVI9zik0Se9ursMgFBw6R) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Iniciales SV](https://open.spotify.com/album/66T32PrE8X6ZHLLn9YgP0e) | 2:32 |
 | 11 | [Cedo la Palabra](https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj) | [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Cedo la Palabra](https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG) | 3:00 |

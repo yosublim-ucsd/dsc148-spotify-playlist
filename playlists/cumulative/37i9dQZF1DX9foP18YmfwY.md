@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-146 songs - 11 hr 25 min
+147 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Exaltado \- Ao Vivo](https://open.spotify.com/track/3jARfDXmV195P6y1NWHa82) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Exaltado](https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO) | 4:40 | 2023-09-01 | 2023-11-25 |
 | [Faça Um Milagre \- Ao Vivo](https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Faça Um Milagre \(Ao Vivo\)](https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6) | 4:22 | 2023-04-15 |  |
 | [Grande Rei](https://open.spotify.com/track/37jZ64zOqm1yROHKO03aAJ) | [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi), [Eugênio Jorge](https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi), [Cassiano Meirelles](https://open.spotify.com/artist/749liqUrfpcjEFsIaXa7Sd) | [Grande Rei](https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN) | 4:00 | 2022-09-02 |  |
+| [Grandioso És Tu](https://open.spotify.com/track/5LkIMhyTEFyxpmfgWM2Qsf) | [Padre Jairo Silva](https://open.spotify.com/artist/4eo5bx5qx5h1RyVuQiBEQr), [Padre Antônio Maria](https://open.spotify.com/artist/5fffowYi9eGg1NsC89N4D1) | [Grandioso És Tu](https://open.spotify.com/album/41ki8G4JJZXRcjEBu12XM3) | 5:46 | 2024-04-19 |  |
 | [Gratidão](https://open.spotify.com/track/7HNWsPfEjtkQmxMG4FysJE) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Gratidão](https://open.spotify.com/album/2noPc51yFBvs8Zhmg9j63G) | 3:57 | 2022-09-02 | 2023-03-18 |
 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 | 2022-09-02 |  |
 | [Graças Pai](https://open.spotify.com/track/6pri33zFFO8My7Y8YYEiPw) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 10](https://open.spotify.com/album/44fYiBYQ0dFCxzzcUEiMKK) | 4:22 | 2023-07-14 | 2023-09-02 |
@@ -87,7 +88,7 @@
 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F) | 4:41 | 2023-11-24 |  |
 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 | 2022-11-25 | 2023-12-23 |
 | [Maria Vem](https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L) | [Liah Soares](https://open.spotify.com/artist/1ojneByyCAgtfQFdzOZV4X) | [Maria Vem](https://open.spotify.com/album/2mvaM4CyYE0oWzUu1a7VNK) | 4:00 | 2023-09-01 |  |
-| [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 | 2023-11-24 |  |
+| [Maria, Mãe e Rainha](https://open.spotify.com/track/14GmPiDPsP4WMmeorXYDdX) | [Padre Alexandre Spena](https://open.spotify.com/artist/5TQRT5gGmuqswBjVBIrtMl), [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [Maria, Mãe e Rainha](https://open.spotify.com/album/1IJ7RefzvJFgJO7NREVLtX) | 3:45 | 2023-11-24 | 2024-04-20 |
 | [Me Aceita de Volta](https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim 9](https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU) | 10:36 | 2022-09-02 |  |
 | [Me Leva](https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Me Leva](https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r) | 11:36 | 2023-12-22 |  |
 | [Melhor e Mais Feliz \(Kolkata\)](https://open.spotify.com/track/17mbb4CG9cxAqexzRwQyzr) | [Celina Borges](https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n) | [Top 10 Celina Borges](https://open.spotify.com/album/0OmOX6xwf1ZJiZ1JRDeopp) | 4:13 | 2022-09-02 | 2023-05-06 |

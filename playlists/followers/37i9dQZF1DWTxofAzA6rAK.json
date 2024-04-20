@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 64444,
+  "2024-04-20": 64519,
   "date_first_scraped": "2021-12-29",
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
   "name": "Back a Yard",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 226977,
       "name": "25/8",
       "url": "https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227040,
       "name": "25/8",
       "url": "https://open.spotify.com/track/1TcB4qgfMXaiLDIE9DlimJ"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165703,
       "name": "Beethoven",
       "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165703,
       "name": "Beethtoven",
       "url": "https://open.spotify.com/track/39npGGRn8PCNVIBmZaEx6b"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155391,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/265JbObZUl1Gt14qBkkqnG"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 155391,
       "name": "Bermuda Triangle",
       "url": "https://open.spotify.com/track/3LwafVvOzaAsuZoMfFW9lj"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198716,
       "name": "Bufu",
       "url": "https://open.spotify.com/track/1nRg4wYz5qbayok2YFYUrG"
@@ -495,10 +495,32 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 198716,
       "name": "Bufu",
       "url": "https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX"
+    },
+    {
+      "album": {
+        "name": "Bun Fi Bun (Fast)",
+        "url": "https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z"
+      },
+      "artists": [
+        {
+          "name": "IQ",
+          "url": "https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149493,
+      "name": "Bun Fi Bun (Fast)",
+      "url": "https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq"
     },
     {
       "album": {
@@ -517,7 +539,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149493,
       "name": "Bun Fi Bun - Fast",
       "url": "https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250212,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/1cc282JtAEefN7O792U5P5"
@@ -611,7 +633,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250357,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 172552,
       "name": "Clip Tall",
       "url": "https://open.spotify.com/track/739LurvLBsXBgJJBLZzm27"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172552,
       "name": "Clip Tall",
       "url": "https://open.spotify.com/track/75x8qpBoEV0A6joMaU6jBw"
@@ -687,7 +709,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/0vdsBH9VEZnOaFRzz0wYQP"
@@ -709,7 +731,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193469,
       "name": "Condensed Milk",
       "url": "https://open.spotify.com/track/6CqQVBWhL00BV2DfsxXoaZ"
@@ -767,7 +789,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186723,
       "name": "Cree",
       "url": "https://open.spotify.com/track/6wEcOXUgeVUlrzgnNVhOqh"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176069,
       "name": "Dirt Bounce",
       "url": "https://open.spotify.com/track/2taOCWw2kDDQuISz8b9cpc"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 176069,
       "name": "Dirt Bounce",
       "url": "https://open.spotify.com/track/2v8fm0qBLnk7y9s7AylvaU"
@@ -1371,7 +1393,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 136323,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/5gbt4T7oUtLs2nkDfN0XvZ"
@@ -1393,7 +1415,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136385,
       "name": "Glock 40",
       "url": "https://open.spotify.com/track/1CVaaz9RwS2UgWWAcleX42"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 196115,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2cTpCY1OfCMuXlH0K2ztw6"
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196115,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/3tP5YkONgQz9eMu5P97RA9"
@@ -1685,7 +1707,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/0ISsHuxxDpoGl0HBZZosvT"
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
@@ -1919,7 +1941,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160313,
       "name": "Live Large",
       "url": "https://open.spotify.com/track/5Ms3QmYcPCOg07BFYKcYkE"
@@ -1955,7 +1977,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/1tCcOw0WZuKRkW5xl9EhMm"
@@ -1973,7 +1995,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178200,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/7mxpbEr40ApaC4wzKdSkuq"
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/4eTwvH4pVt5U4kPfYgQQ19"
@@ -2159,7 +2181,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163866,
       "name": "Ocean Wave",
       "url": "https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq"
@@ -2297,7 +2319,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 178599,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/1oVOsqeVthHmALeMn38oqN"
@@ -2315,7 +2337,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178599,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL"
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221016,
       "name": "Piana",
       "url": "https://open.spotify.com/track/1dts9tOA7h5in0W9ADk7DR"
@@ -2369,7 +2391,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221016,
       "name": "Piana",
       "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
@@ -2463,7 +2485,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
@@ -2481,7 +2503,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171145,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 159216,
       "name": "Racketeer",
       "url": "https://open.spotify.com/track/2zLPeZ5T1ZLGiYLzHV1kCn"
@@ -2543,7 +2565,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186654,
       "name": "Riches Wii a Pree",
       "url": "https://open.spotify.com/track/6iT95NOUvQpPjjEnEoO5dP"
@@ -2565,7 +2587,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 186654,
       "name": "Riches Wii a Pree",
       "url": "https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4"
@@ -2613,7 +2635,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180610,
       "name": "Rocket Launcher",
       "url": "https://open.spotify.com/track/0ewYjU1bxDmtmTzv28Yhlo"
@@ -2665,7 +2687,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180610,
       "name": "Rocket Launcher (feat. Rich The Kid & Popcaan)",
       "url": "https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx"
@@ -2683,7 +2705,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae"
@@ -2701,7 +2723,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 207856,
       "name": "Roll Deep",
       "url": "https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk"
@@ -2959,7 +2981,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 160313,
       "name": "Skeng Live Large",
       "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
@@ -3145,7 +3167,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 216470,
       "name": "Still A Bleed",
       "url": "https://open.spotify.com/track/79fwXVlKbDYOmU5AuzaJnq"
@@ -3163,7 +3185,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216528,
       "name": "Still a Bleed",
       "url": "https://open.spotify.com/track/34uBKj0bzsVkI70I8Xvpab"
@@ -3269,7 +3291,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193569,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0CowtwmJJ6m8dz9UBj80tE"
@@ -3291,7 +3313,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 193569,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB"
@@ -3309,7 +3331,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY"
@@ -3327,7 +3349,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU"
@@ -3345,7 +3367,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208835,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
@@ -3363,7 +3385,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 208835,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G"
@@ -3465,7 +3487,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192052,
       "name": "Try Dat",
       "url": "https://open.spotify.com/track/0xOuKUSSRKZ3CXrFcpmipS"
@@ -3483,7 +3505,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192156,
       "name": "Try Dat",
       "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
@@ -3577,7 +3599,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
@@ -3595,7 +3617,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139093,
       "name": "Verified Choppa 2",
       "url": "https://open.spotify.com/track/7FEpKqQvTaVUYabWIsDLlL"
@@ -3723,7 +3745,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/2OFvClbKLxtHeVMb3O1pOX"
@@ -3741,7 +3763,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
@@ -3781,7 +3803,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 162360,
       "name": "Who Cares",
       "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
@@ -3901,7 +3923,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
@@ -3923,7 +3945,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 157800,
       "name": "Yahoo Boyz",
       "url": "https://open.spotify.com/track/66WY3lKgXd61ls1lD2cNPI"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 70657,
+  "2024-04-20": 70706,
   "date_first_scraped": "2023-09-29",
   "description": "Les classiques du zouk. Photo : Fanny J",
   "name": "Zouk All Stars",
@@ -79,6 +79,24 @@
       "duration_ms": 322339,
       "name": "Amour impossible",
       "url": "https://open.spotify.com/track/2V5RBUUwk6trHsUX1G1sQg"
+    },
+    {
+      "album": {
+        "name": "Zouker, Vol. 1",
+        "url": "https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC"
+      },
+      "artists": [
+        {
+          "name": "Richard Birman",
+          "url": "https://open.spotify.com/artist/2voWjJRm5QFln1Rve9xvbs"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "Am\u00e9lia",
+      "url": "https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx"
     },
     {
       "album": {
@@ -245,10 +263,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182853,
       "name": "Elles demandent",
       "url": "https://open.spotify.com/track/20Vw5eQCMhosK8N1h7RPkx"
+    },
+    {
+      "album": {
+        "name": "Medhy Custos (Bonus Elles demandent Feat. Admiral T.)",
+        "url": "https://open.spotify.com/album/22XZ6XxUOPP89254uzlNQ3"
+      },
+      "artists": [
+        {
+          "name": "Medhy Custos",
+          "url": "https://open.spotify.com/artist/4yUROciHRAtEr2S3h33qZd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "Elles demandent",
+      "url": "https://open.spotify.com/track/6SGLeYh7sH3auF3R40ISZw"
     },
     {
       "album": {
@@ -369,6 +405,24 @@
     {
       "album": {
         "name": "Bane",
+        "url": "https://open.spotify.com/album/4PHKOwhggOMWpKVm9V73f1"
+      },
+      "artists": [
+        {
+          "name": "Oliver N'Goma",
+          "url": "https://open.spotify.com/artist/2uxhKBl696bCNHmtO9rnWc"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340133,
+      "name": "Icole",
+      "url": "https://open.spotify.com/track/5ZPw54sbGbbOO0ST5bbhoT"
+    },
+    {
+      "album": {
+        "name": "Bane",
         "url": "https://open.spotify.com/album/7dZ9BFB6xW8PaY6Qh1VvZZ"
       },
       "artists": [
@@ -379,7 +433,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342760,
       "name": "Icole",
       "url": "https://open.spotify.com/track/5clnOzNnhNOYWMjFKEot3e"
@@ -459,7 +513,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242000,
       "name": "Kerinha",
       "url": "https://open.spotify.com/track/2nYC5cjEVohvfYx1b4svPf"
@@ -517,7 +571,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275666,
       "name": "La t\u00eate dans les \u00e9toiles",
       "url": "https://open.spotify.com/track/1ag08XRri60Inyqur8DULw"
@@ -569,6 +623,24 @@
       "duration_ms": 266333,
       "name": "Le coup de soleil",
       "url": "https://open.spotify.com/track/1bL91d7y9VN31swIJEMCjl"
+    },
+    {
+      "album": {
+        "name": "Les Grands Succ\u00e8s De Battery Cremil",
+        "url": "https://open.spotify.com/album/5wZfN9IhRcseIZ9RZBMobL"
+      },
+      "artists": [
+        {
+          "name": "Battery Cremil",
+          "url": "https://open.spotify.com/artist/7j1Cq8wprHBrqsNmRqsoSL"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337946,
+      "name": "Len Mou Raid",
+      "url": "https://open.spotify.com/track/02RpRGFZrEJsUWAqL8DD9o"
     },
     {
       "album": {
@@ -631,10 +703,32 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238416,
       "name": "Ma Reine (Version Zouk)",
       "url": "https://open.spotify.com/track/0xdigvJSNF5wrS8jxnBV9N"
+    },
+    {
+      "album": {
+        "name": "Ma Reine (Version Zouk)",
+        "url": "https://open.spotify.com/album/2Xcy38zWCGbWu5h7iQBq5u"
+      },
+      "artists": [
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        },
+        {
+          "name": "Admiral T",
+          "url": "https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238471,
+      "name": "Ma Reine - Version Zouk",
+      "url": "https://open.spotify.com/track/1zXND21qqDId2MqxLX891Y"
     },
     {
       "album": {
@@ -834,6 +928,28 @@
     },
     {
       "album": {
+        "name": "Yen ki lanmou",
+        "url": "https://open.spotify.com/album/1e78o5EFQCBtTEUveWazR7"
+      },
+      "artists": [
+        {
+          "name": "Jocelyne Beroard",
+          "url": "https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB"
+        },
+        {
+          "name": "Kassav'",
+          "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288053,
+      "name": "Pa Bizwen Pal\u00e9",
+      "url": "https://open.spotify.com/track/0Gn6BjTdojJYxgPN6hJGV6"
+    },
+    {
+      "album": {
         "name": "Alibi",
         "url": "https://open.spotify.com/album/0wUtizUcQyIebLLynh4JZq"
       },
@@ -925,7 +1041,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268083,
       "name": "Sensasyon",
       "url": "https://open.spotify.com/track/19AvUQjwbsMVCdJnRdpINM"
@@ -1033,10 +1149,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278600,
       "name": "Sy\u00e9 bwa",
       "url": "https://open.spotify.com/track/0eI5kOHA6raJvt2aj61zwg"
+    },
+    {
+      "album": {
+        "name": "Vini Pou",
+        "url": "https://open.spotify.com/album/4IbLTNdcAqDT2xyePb7Db2"
+      },
+      "artists": [
+        {
+          "name": "Kassav'",
+          "url": "https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Sy\u00e9 Bwa",
+      "url": "https://open.spotify.com/track/6VRYU02zS0eTij6zUimVE4"
     },
     {
       "album": {
@@ -1149,10 +1283,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266666,
       "name": "Vini dou",
       "url": "https://open.spotify.com/track/5SgzHvTty3hEQtedanwuoM"
+    },
+    {
+      "album": {
+        "name": "Le Collector (2009-2015)",
+        "url": "https://open.spotify.com/album/2sQXsuH5xNlTf1YvBGiC1N"
+      },
+      "artists": [
+        {
+          "name": "Victor O",
+          "url": "https://open.spotify.com/artist/4fgrqYvn91Z7ERoT9nbwkk"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267666,
+      "name": "Vini dou",
+      "url": "https://open.spotify.com/track/3azdCW8QjHxMsbNzSmUNaa"
     },
     {
       "album": {

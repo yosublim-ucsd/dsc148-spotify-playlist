@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44305,
+  "num_followers": 44293,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjQ3NixjNzY4YjRhNmVkMWU4MjZkZTk1ODQwYjI5YmM3ZGE5YzE2OWZhZmUy",
+  "snapshot_id": "NjQ3OCxkODVlMTgxY2NlNmExM2M5ZGVhNjQzMGNiNzczMmI3NTYzY2Q3NTRl",
   "tracks": [
+    {
+      "added_at": "2024-04-19 15:58:33",
+      "album": {
+        "name": "Future Unfold",
+        "url": "https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w"
+    },
+    {
+      "added_at": "2024-04-19 15:58:16",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 121959,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
+    },
     {
       "added_at": "2024-04-12 12:32:03",
       "album": {

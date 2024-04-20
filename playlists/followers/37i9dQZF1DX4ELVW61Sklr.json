@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 187784,
+  "2024-04-20": 187535,
   "date_first_scraped": "2021-12-21",
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
   "name": "R&B Christmas",
@@ -115,7 +115,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 175347,
       "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251040,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 261213,
       "name": "Christmas, Love, and You",
       "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 317847,
       "name": "Christmastime is here",
       "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269866,
       "name": "Deck the Halls / Silent Night",
       "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 249760,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 265927,
       "name": "Greatest Gift",
       "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "In Love at Christmas",
       "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202007,
       "name": "Just Ain't Christmas",
       "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154920,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259500,
       "name": "Let It Snow (with dvsn)",
       "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 296255,
       "name": "Mary Did You Know",
       "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237393,
       "name": "Might As Well Have Coal (with Baby Tate)",
       "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
@@ -1761,6 +1761,24 @@
       "duration_ms": 237393,
       "name": "Might As Well Have Coal (with Baby Tate)",
       "url": "https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh"
+    },
+    {
+      "album": {
+        "name": "Christmas 3 Pack",
+        "url": "https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "My Only Christmas Wish",
+      "url": "https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a"
     },
     {
       "album": {
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365720,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168826,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 195816,
       "name": "Spend Christmas With You",
       "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264186,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
@@ -2851,7 +2869,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232840,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 276960,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218146,
       "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 237660,
       "name": "Wishlist (feat. PJ Morton)",
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178998,
       "name": "You Bring The Love",
       "url": "https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 74275,
+  "2024-04-20": 74276,
   "date_first_scraped": "2024-02-03",
   "description": "New tunes from Ireland for your discovery. Cover: Oscar Blue",
   "name": "A Breath of Fresh \u00c9ire",
@@ -93,6 +93,24 @@
       "duration_ms": 211437,
       "name": "501s",
       "url": "https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM"
     },
     {
       "album": {
@@ -223,7 +241,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173705,
       "name": "Big Pharma (Withdrawal)",
       "url": "https://open.spotify.com/track/2PrAI62XtqYSaubDYT7vNP"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120024,
       "name": "FourFour",
       "url": "https://open.spotify.com/track/6UESDM5sT8nzLNwzBSpapT"
@@ -807,10 +825,28 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
     },
     {
       "album": {
@@ -1251,7 +1287,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223636,
       "name": "Most Days",
       "url": "https://open.spotify.com/track/14HFeNYXN0FobPUp5WpvON"
@@ -1309,6 +1345,24 @@
       "duration_ms": 257853,
       "name": "Naive",
       "url": "https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth"
+    },
+    {
+      "album": {
+        "name": "Need to Know",
+        "url": "https://open.spotify.com/album/7arildWPenXFAMVd49yYJt"
+      },
+      "artists": [
+        {
+          "name": "Tidah",
+          "url": "https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc"
     },
     {
       "album": {
@@ -1691,7 +1745,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309040,
       "name": "See You In a Year and a Half",
       "url": "https://open.spotify.com/track/53JxyMqGibF07pBJ7aA2HJ"
@@ -1839,6 +1893,24 @@
       "duration_ms": 202009,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/3Y8JD0yfiETnw5u5H6zF9E"
+    },
+    {
+      "album": {
+        "name": "Socks",
+        "url": "https://open.spotify.com/album/08QYFEvpcrYZLSTn5yZqEr"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225265,
+      "name": "Socks",
+      "url": "https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1"
     },
     {
       "album": {
@@ -2327,6 +2399,24 @@
       "duration_ms": 204136,
       "name": "Yellow Dresser",
       "url": "https://open.spotify.com/track/56AZAPH8L1lPAEUZgP5kJj"
+    },
+    {
+      "album": {
+        "name": "You'll Be The Last To Know",
+        "url": "https://open.spotify.com/album/2gYjwAgcvgTvJrbKtLgTuz"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179419,
+      "name": "You'll Be The Last To Know",
+      "url": "https://open.spotify.com/track/6rZk7MkrMCiW5KkrRw9zvO"
     },
     {
       "album": {

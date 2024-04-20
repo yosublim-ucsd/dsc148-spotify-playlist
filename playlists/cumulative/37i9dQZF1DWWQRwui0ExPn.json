@@ -34708,7 +34708,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 163468,
       "name": "Envision",
       "url": "https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ"
@@ -37594,7 +37594,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 123428,
       "name": "Fender Bender",
       "url": "https://open.spotify.com/track/3pjPkqTACSQHtQIgPJWSPN"
@@ -38872,7 +38872,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 84460,
       "name": "fixed width",
       "url": "https://open.spotify.com/track/4cp6VuQ8JM3jHn6lyN28gz"
@@ -45321,6 +45321,24 @@
     },
     {
       "album": {
+        "name": "Gomen",
+        "url": "https://open.spotify.com/album/6UUqBncjpXC8CNBdX2AiVA"
+      },
+      "artists": [
+        {
+          "name": "Aitobaiku",
+          "url": "https://open.spotify.com/artist/6gSKO7qtjLIxagi1tfq4xu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178478,
+      "name": "Gomen",
+      "url": "https://open.spotify.com/track/6mTxWAVpRTmCeyy8KTSvsT"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5KIVevm18orsdanqyUjxAK"
       },
@@ -48064,6 +48082,24 @@
       "duration_ms": 133000,
       "name": "Have a rest",
       "url": "https://open.spotify.com/track/0zkganJISD1VbG6MuBhaLw"
+    },
+    {
+      "album": {
+        "name": "Have You Ever Seen Anything So Beautiful?",
+        "url": "https://open.spotify.com/album/26msii7Z288wFo1x3IGiYU"
+      },
+      "artists": [
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104394,
+      "name": "Have You Ever Seen Anything So Beautiful?",
+      "url": "https://open.spotify.com/track/44njZosQwT8msM0QtaLQ2M"
     },
     {
       "album": {
@@ -54512,6 +54548,28 @@
     {
       "album": {
         "name": "Inhale",
+        "url": "https://open.spotify.com/album/3eaN0vsSHrdltdZRBMLSRo"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137468,
+      "name": "Inhale",
+      "url": "https://open.spotify.com/track/4ZM8ZZ3yoKQ3iW4nwlq8ia"
+    },
+    {
+      "album": {
+        "name": "Inhale",
         "url": "https://open.spotify.com/album/258Qpq4cFXFlT71n5eWuBE"
       },
       "artists": [
@@ -57244,6 +57302,28 @@
       "duration_ms": 155675,
       "name": "Jet Ski Gelato Bounce",
       "url": "https://open.spotify.com/track/2hEQkVgYAPXi8fvg7WPBVp"
+    },
+    {
+      "album": {
+        "name": "Jetty",
+        "url": "https://open.spotify.com/album/3G4KpeSficpNohQd8qG1Zi"
+      },
+      "artists": [
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Tonion",
+          "url": "https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113087,
+      "name": "Jetty",
+      "url": "https://open.spotify.com/track/3k6Hq6Yjiv8GXTewJmWg3B"
     },
     {
       "album": {
@@ -60698,7 +60778,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 126071,
       "name": "Lance",
       "url": "https://open.spotify.com/track/0fBThonKxYp4ThGqlWS3qe"
@@ -63192,7 +63272,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 170999,
       "name": "Life of an NPC",
       "url": "https://open.spotify.com/track/5fwCrVlpXABeuPopviPeGG"
@@ -66609,6 +66689,28 @@
     },
     {
       "album": {
+        "name": "Lovelights",
+        "url": "https://open.spotify.com/album/6Iqu9YahqReKgoltwyXIXZ"
+      },
+      "artists": [
+        {
+          "name": "Sandy Mental",
+          "url": "https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3"
+        },
+        {
+          "name": "Lichtboje",
+          "url": "https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114985,
+      "name": "Lovelights",
+      "url": "https://open.spotify.com/track/3JrqM3cP0mrZ0E4ahijZNy"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/2TGKbnavx9dLm7RWR5pIGg"
       },
@@ -67386,7 +67488,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 139500,
       "name": "Lulling",
       "url": "https://open.spotify.com/track/4gMqyLBYE4jBOaP6eYf08o"
@@ -84467,6 +84569,24 @@
     },
     {
       "album": {
+        "name": "pain au chocolat",
+        "url": "https://open.spotify.com/album/4rThDwmMhTvVW09mT3Qxon"
+      },
+      "artists": [
+        {
+          "name": "giannis wang",
+          "url": "https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "pain au chocolat",
+      "url": "https://open.spotify.com/track/2HU2Jl2cIylPOyuUaYapkj"
+    },
+    {
+      "album": {
         "name": "Painted",
         "url": "https://open.spotify.com/album/1zISiMEimeomRkztIVVSHE"
       },
@@ -89858,6 +89978,24 @@
       "duration_ms": 160733,
       "name": "Pure Imagination",
       "url": "https://open.spotify.com/track/3xoJXWkFYjYgyzIQzME8js"
+    },
+    {
+      "album": {
+        "name": "purity",
+        "url": "https://open.spotify.com/album/1cYXcSfRVYWMuKxZw9A5UF"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "purity",
+      "url": "https://open.spotify.com/track/5xiKbif0Y1vz8RddFxyyzo"
     },
     {
       "album": {
@@ -97736,7 +97874,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 93571,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/0QZQqs0ieyCslR6IAJD4cc"
@@ -99560,7 +99698,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 110000,
       "name": "Silver Apples",
       "url": "https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i"
@@ -106438,6 +106576,28 @@
       "duration_ms": 106609,
       "name": "Stella",
       "url": "https://open.spotify.com/track/0QOqZlaCnEZ8fJ6eiKXLIl"
+    },
+    {
+      "album": {
+        "name": "Stellar",
+        "url": "https://open.spotify.com/album/2yu4PnaPiuCcciLJas8vFK"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lo-Fi",
+          "url": "https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/3f7Cw7fpC6y0jcIZw5j2Qr"
     },
     {
       "album": {
@@ -114423,6 +114583,24 @@
     },
     {
       "album": {
+        "name": "Missed Opportunities",
+        "url": "https://open.spotify.com/album/7fGkda7qkIpGs3hskqsnpv"
+      },
+      "artists": [
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125783,
+      "name": "The Pull",
+      "url": "https://open.spotify.com/track/5JNa8EmvSOkoRn8WyEPMdQ"
+    },
+    {
+      "album": {
         "name": "Meltdown at the Toy Factory",
         "url": "https://open.spotify.com/album/3DsZXB4lnAaVZYTcB11nQw"
       },
@@ -114452,7 +114630,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 104107,
       "name": "The Quilted Giraffe",
       "url": "https://open.spotify.com/track/1tRpQwnHyJ1zodI0L6hyyn"

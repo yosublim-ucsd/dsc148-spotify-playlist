@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 34826,
+  "2024-04-20": 34824,
   "date_first_scraped": "2022-06-10",
   "description": "Rock that was on repeat during the summers of the 2000s.",
   "name": "00s Summer Rock",
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262333,
       "name": "Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170253,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172866,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226133,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/0RHPoliIwT6ddbPugZNitX"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226626,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
@@ -521,8 +521,8 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
-      "duration_ms": 162600,
+      "date_removed": null,
+      "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/7AB0cUXnzuSlAnyHOqmrZr"
     },
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246333,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4oJ4XZwQA2cLMBnRtYSSIb"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246333,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7zQ5nqAKKfk0gtBgV70gyq"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216066,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216360,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/6jWLyg8AuMQ9LtIB2UlfOF"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232680,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233026,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185586,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186634,
       "name": "I Write Sins Not Tragedies",
       "url": "https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222453,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/64IcdRqfcN5rwqSqJpQDDe"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223091,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/2VfqriSJNnNAWTsRwFPVtV"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/0YmUts6QtHUEmKCASWLuHr"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186173,
       "name": "Is It Any Wonder?",
       "url": "https://open.spotify.com/track/5xT8JXJSyHYNfC11OFqzFL"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222106,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/7d8GetOsjbxYnlo6Y9e5Kw"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "Not Meant To Be",
       "url": "https://open.spotify.com/track/0ysA0Ufa2mTZeZfPKo9ypx"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215400,
       "name": "Not Meant to Be",
       "url": "https://open.spotify.com/track/5xyACR2lzIyzFepF4qlAas"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/5txH6topQylTHnb4lZMdQ1"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189400,
       "name": "Pork And Beans",
       "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252040,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255493,
       "name": "Rockstar - 2020 Remaster",
       "url": "https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN"
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231920,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/47wPvRG8FEwbZP22UBgTQr"
@@ -1947,7 +1947,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -2019,7 +2019,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169306,
       "name": "She Moves In Her Own Way",
       "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188960,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
@@ -2091,7 +2091,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188960,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
@@ -2109,7 +2109,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297640,
       "name": "Smokers Outside The Hospital Doors",
       "url": "https://open.spotify.com/track/2ibNhXeLiX8fm7KQtQUIgl"
@@ -2127,7 +2127,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 297640,
       "name": "Smokers Outside the Hospital Doors",
       "url": "https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197160,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/59XNy4523UcEvQfYM8fdQB"
@@ -2185,7 +2185,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197200,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196546,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/1VfySzafN2UQPQFVfM3gz9"
@@ -2239,7 +2239,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196546,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/1xDPUKoyQuIiea7Le9ZNgn"
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
@@ -2293,7 +2293,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY"
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"

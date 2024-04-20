@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2816,
+  "2024-04-20": 2814,
   "date_first_scraped": "2023-09-29",
   "description": "Chantez ces comptines \u00e0 vos enfants... et n'oubliez pas les gestes!",
   "name": "Ainsi font font font",
@@ -51,10 +51,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 91994,
       "name": "Ainsi font, font, font",
       "url": "https://open.spotify.com/track/6YBMiyDbvr2Kb2qB99WV4C"
+    },
+    {
+      "album": {
+        "name": "20 chansons & comptines de Petit Ours Brun, Vol. 3",
+        "url": "https://open.spotify.com/album/3jryX8DBp4N1jNOsqi259K"
+      },
+      "artists": [
+        {
+          "name": "Petit Ours Brun",
+          "url": "https://open.spotify.com/artist/7340OsTF1020eifmQT8HeV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93026,
+      "name": "Ainsi font, font, font",
+      "url": "https://open.spotify.com/track/4r42jF60e6Q8pfpN3yTOC8"
     },
     {
       "album": {
@@ -202,6 +220,28 @@
     },
     {
       "album": {
+        "name": "Les plus belles comptines d'Okoo",
+        "url": "https://open.spotify.com/album/73rdKrKBXqKV17QpOC9Mck"
+      },
+      "artists": [
+        {
+          "name": "Kad Merad",
+          "url": "https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8"
+        },
+        {
+          "name": "Nolwenn Leroy",
+          "url": "https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Dans sa maison un grand cerf - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/2dyJKZyoxTE6FiCbBzw6lX"
+    },
+    {
+      "album": {
         "name": "Dans sa maison un grand cerf (Les plus belles comptines d'Okoo)",
         "url": "https://open.spotify.com/album/7sVKIIkUq1ANcWZBMHaTZB"
       },
@@ -217,7 +257,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181173,
       "name": "Dans sa maison un grand cerf - Les plus belles comptines d'Okoo",
       "url": "https://open.spotify.com/track/5VlNJRsRhXGGxVqdMYGILd"
@@ -347,10 +387,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209005,
       "name": "Jean Petit qui danse",
       "url": "https://open.spotify.com/track/31hqhNMdqOTI894c6mR3LR"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines de Petit Ours Brun, Vol. 2",
+        "url": "https://open.spotify.com/album/791ZAabEhUDEzicOI9b7wb"
+      },
+      "artists": [
+        {
+          "name": "Petit Ours Brun",
+          "url": "https://open.spotify.com/artist/7340OsTF1020eifmQT8HeV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Jean Petit qui danse",
+      "url": "https://open.spotify.com/track/5QFl85RICZKnjJWct4zBjS"
     },
     {
       "album": {
@@ -416,6 +474,28 @@
     },
     {
       "album": {
+        "name": "Mon imagier des r\u00e9cr\u00e9s",
+        "url": "https://open.spotify.com/album/0QljaCzvsjqJKSOFj2XKQz"
+      },
+      "artists": [
+        {
+          "name": "Bernard Davois",
+          "url": "https://open.spotify.com/artist/0vKnQ73yLGbg7SlL68rpNq"
+        },
+        {
+          "name": "Jean-Phillipe Crespin",
+          "url": "https://open.spotify.com/artist/1yS4WeHKx30JjNmV7g59h1"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72173,
+      "name": "Le facteur n'est pas pass\u00e9",
+      "url": "https://open.spotify.com/track/1i9yffcCZxrulp1orjAH6U"
+    },
+    {
+      "album": {
         "name": "Mon imagier des r\u00e9cr\u00e9s (Comptine)",
         "url": "https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D"
       },
@@ -431,7 +511,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72173,
       "name": "Le facteur n'est pas pass\u00e9 - Comptine",
       "url": "https://open.spotify.com/track/4q6FTsYXCsZUBWJVbh74wG"
@@ -665,10 +745,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 40003,
       "name": "Pomme de reinette et pomme d'api",
       "url": "https://open.spotify.com/track/7vgCw8AiOzjiwDGwUFOeOE"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines de Petit Ours Brun, Vol. 1",
+        "url": "https://open.spotify.com/album/5xRw4Ly8tnA6niEjpxl5Iw"
+      },
+      "artists": [
+        {
+          "name": "Petit Ours Brun",
+          "url": "https://open.spotify.com/artist/7340OsTF1020eifmQT8HeV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40266,
+      "name": "Pomme de reinette et pomme d'api",
+      "url": "https://open.spotify.com/track/4rPpLrP19RJex4nHvh9Zyr"
     },
     {
       "album": {
@@ -763,10 +861,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120010,
       "name": "Sur le pont d'Avignon",
       "url": "https://open.spotify.com/track/3Wyb7Z6qhumaRrAC1shAT7"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines de Petit Ours Brun, Vol. 1",
+        "url": "https://open.spotify.com/album/5xRw4Ly8tnA6niEjpxl5Iw"
+      },
+      "artists": [
+        {
+          "name": "Petit Ours Brun",
+          "url": "https://open.spotify.com/artist/7340OsTF1020eifmQT8HeV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120933,
+      "name": "Sur le pont d'Avignon",
+      "url": "https://open.spotify.com/track/63pzvYangtZtxTEfUOgJlg"
     },
     {
       "album": {
@@ -781,10 +897,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198149,
       "name": "Tape tape dans tes mains",
       "url": "https://open.spotify.com/track/4kZrl2XN9G6qbE17bQmHkI"
+    },
+    {
+      "album": {
+        "name": "Tout Jean Ren\u00e9",
+        "url": "https://open.spotify.com/album/2cMa5Q5QiArW0qPGxK03Lk"
+      },
+      "artists": [
+        {
+          "name": "Jean Ren\u00e9",
+          "url": "https://open.spotify.com/artist/62xg7Dj10uZUHswBlCYIkI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Tape tape dans tes mains",
+      "url": "https://open.spotify.com/track/6H0uUGM2BwzXOqrkVt8DX3"
     },
     {
       "album": {
@@ -806,6 +940,28 @@
     },
     {
       "album": {
+        "name": "Mon imagier des r\u00e9cr\u00e9s",
+        "url": "https://open.spotify.com/album/0QljaCzvsjqJKSOFj2XKQz"
+      },
+      "artists": [
+        {
+          "name": "Bernard Davois",
+          "url": "https://open.spotify.com/artist/0vKnQ73yLGbg7SlL68rpNq"
+        },
+        {
+          "name": "Jean-Phillipe Crespin",
+          "url": "https://open.spotify.com/artist/1yS4WeHKx30JjNmV7g59h1"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87973,
+      "name": "Trois p'tits chats",
+      "url": "https://open.spotify.com/track/41oKrlt3MVduk4SacHbERN"
+    },
+    {
+      "album": {
         "name": "Mon imagier des r\u00e9cr\u00e9s (Comptine)",
         "url": "https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D"
       },
@@ -821,7 +977,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87973,
       "name": "Trois p'tits chats - Comptine",
       "url": "https://open.spotify.com/track/5Dw2CffaEfOrkqHstuP5X4"
@@ -893,10 +1049,28 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126733,
       "name": "Un \u00e9l\u00e9phant qui se balan\u00e7ait - Les plus belles comptines d'Okoo",
       "url": "https://open.spotify.com/track/23dwpRvxImSXGWXSFJ2ldh"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo",
+        "url": "https://open.spotify.com/album/73rdKrKBXqKV17QpOC9Mck"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Un \u00e9l\u00e9phant qui se balan\u00e7ait - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/7mwevPAnZ4aEhZzFXO6Blb"
     },
     {
       "album": {

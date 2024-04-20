@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 296300,
+  "2024-04-20": 296399,
   "date_first_scraped": "2022-12-24",
   "description": "\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u306eAyase\u3001\u30dc\u30fc\u30ab\u30eb\u306eikura\u304b\u3089\u306a\u308b\u300c\u5c0f\u8aac\u3092\u97f3\u697d\u306b\u3059\u308b\u30e6\u30cb\u30c3\u30c8\u300d\u3001YOASOBI\u306e\u697d\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is YOASOBI",
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166426,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK"
@@ -677,6 +677,24 @@
     {
       "album": {
         "name": "THE BOOK 2",
+        "url": "https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "\u3082\u3057\u3082\u547d\u304c\u63cf\u3051\u305f\u3089",
+      "url": "https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z"
+    },
+    {
+      "album": {
+        "name": "THE BOOK 2",
         "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
       },
       "artists": [
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201626,
       "name": "\u3082\u3057\u3082\u547d\u304c\u63cf\u3051\u305f\u3089",
       "url": "https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6"
@@ -1059,6 +1077,24 @@
       "duration_ms": 248523,
       "name": "\u591c\u306b\u99c6\u3051\u308b - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/2qJnXUokBc5b38TAEOGnUx"
+    },
+    {
+      "album": {
+        "name": "\u5927\u6b63\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "\u5927\u6b63\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e"
     },
     {
       "album": {

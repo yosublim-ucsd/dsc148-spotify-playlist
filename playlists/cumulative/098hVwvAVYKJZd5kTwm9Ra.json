@@ -3887,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Wasteland, Baby! (Special Edition)",
+        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Why Would You Be Loved",
+      "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"
+    },
+    {
+      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },

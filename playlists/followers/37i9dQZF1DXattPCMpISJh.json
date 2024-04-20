@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 116287,
+  "2024-04-20": 116439,
   "date_first_scraped": "2022-08-06",
   "description": "A new take on a classic sound. Cover: Idina Menzel",
   "name": "Nu-Disco",
@@ -1535,7 +1535,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 239817,
       "name": "Feel Good Too",
       "url": "https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239817,
       "name": "Feel Good Too",
       "url": "https://open.spotify.com/track/5bTWUSy1Xwm8bNwbc419wP"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206355,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/34gwWYhg66Zw6hcQlfvDPp"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 206355,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/6Dca0REtMaazrwoI5YS0ib"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197619,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/6QUNymj6kTcUelNwJofuF0"
@@ -2025,7 +2025,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 197619,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/6bVQzNKYsvxwFlsoChGfyf"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 220512,
       "name": "Giving Nothing - Art of Tones Remix",
       "url": "https://open.spotify.com/track/317zxAW9vxOXTkYV6tRquA"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220512,
       "name": "Giving Nothing - Art of Tones Remix",
       "url": "https://open.spotify.com/track/32PbGgrt7KVKbnrOnFDjcH"
@@ -2408,6 +2408,32 @@
     },
     {
       "album": {
+        "name": "In the Dark (Aeroplane Remix)",
+        "url": "https://open.spotify.com/album/1ycWhFxMnzOmo6P57qSsWM"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Aeroplane",
+          "url": "https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "In the Dark (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/03jzGrt5ZUdTmV3UGtB4ZK"
+    },
+    {
+      "album": {
         "name": "In The Dark (Aeroplane Remix)",
         "url": "https://open.spotify.com/album/7lO7pL2T6Khbm9Q1enYj9V"
       },
@@ -2427,7 +2453,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227533,
       "name": "In The Dark - Aeroplane Remix",
       "url": "https://open.spotify.com/track/6FLuLyHNnBAHrFxn3ov7ve"
@@ -2923,7 +2949,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F"
@@ -2941,7 +2967,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
@@ -3193,7 +3219,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164124,
       "name": "Move",
       "url": "https://open.spotify.com/track/1mEen9l4C0Kq6gYBGARXoS"
@@ -3211,7 +3237,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 164124,
       "name": "Move",
       "url": "https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ"
@@ -3557,7 +3583,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 212001,
       "name": "Paradise (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK"
@@ -3579,7 +3605,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212001,
       "name": "Paradise (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4XAcDBwWvD5ZxrZWlcVUq7"
@@ -3619,7 +3645,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233757,
       "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
       "url": "https://open.spotify.com/track/766vYpMcjhccL5cd2L46rY"
@@ -3649,6 +3675,32 @@
       "duration_ms": 233757,
       "name": "Passion (feat. Nile Rodgers) - Fred Falke Remix",
       "url": "https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ"
+    },
+    {
+      "album": {
+        "name": "Passion (Fred Falke Remix)",
+        "url": "https://open.spotify.com/album/0rjoJ1jxcuH9oj3VxKf0R9"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233757,
+      "name": "Passion - Fred Falke Remix",
+      "url": "https://open.spotify.com/track/4HAc0WfZuD55cCalXxcvdB"
     },
     {
       "album": {
@@ -3751,7 +3803,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 182314,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0"
@@ -3773,7 +3825,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182314,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/7EXaXpZWbySCGLGzQu00CD"
@@ -3883,7 +3935,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164501,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU"
@@ -4849,7 +4901,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225457,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/1Vkn7qPTWmEl6yDR46RjAN"
@@ -4867,7 +4919,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 225457,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c"
@@ -5031,7 +5083,7 @@
     {
       "album": {
         "name": "Last Man Dancing",
-        "url": "https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2"
+        "url": "https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt"
       },
       "artists": [
         {
@@ -5046,6 +5098,28 @@
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Voices (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/4NwqRvKoLaREF9Nt11sOka"
+    },
+    {
+      "album": {
+        "name": "Last Man Dancing",
+        "url": "https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2"
+      },
+      "artists": [
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 266693,
       "name": "Voices (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY"

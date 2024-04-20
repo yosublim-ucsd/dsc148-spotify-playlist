@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 297013,
+  "2024-04-20": 297124,
   "date_first_scraped": "2022-05-20",
   "description": "Start your day right and wake up with some calm and cool Jazz.",
   "name": "Jazzy Morning",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133208,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 133208,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY"
@@ -155,6 +155,24 @@
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
+    },
+    {
+      "album": {
+        "name": "A Minor Thing",
+        "url": "https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217968,
+      "name": "A Minor Thing",
+      "url": "https://open.spotify.com/track/0zysTPrA9fFSX2JGiYIcZm"
     },
     {
       "album": {
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203189,
       "name": "Cherry Stone",
       "url": "https://open.spotify.com/track/0KZfDnUWPFIHWUZwI1I9sR"
@@ -3284,6 +3302,24 @@
     },
     {
       "album": {
+        "name": "I Must Have...",
+        "url": "https://open.spotify.com/album/3j2pW9MYuiSTeNZhUEyizJ"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193113,
+      "name": "I Must Have...",
+      "url": "https://open.spotify.com/track/3f0xlekdmFFhKD3uubnbPs"
+    },
+    {
+      "album": {
         "name": "I Remember You",
         "url": "https://open.spotify.com/album/1fRZ3SYAcAoTeiK2h7SNE0"
       },
@@ -3785,6 +3821,24 @@
       "duration_ms": 251893,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0"
+    },
+    {
+      "album": {
+        "name": "It Should Be Me",
+        "url": "https://open.spotify.com/album/298HSzl0sEZe3QSLDSo71s"
+      },
+      "artists": [
+        {
+          "name": "Isabella's Mining",
+          "url": "https://open.spotify.com/artist/7JphRXQUrlkk4qeyOVsKPn"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191217,
+      "name": "It Should Be Me",
+      "url": "https://open.spotify.com/track/0h3L9JLMXpDzdudaVJMaho"
     },
     {
       "album": {
@@ -6082,6 +6136,24 @@
     },
     {
       "album": {
+        "name": "Pat Martino",
+        "url": "https://open.spotify.com/album/4eEXOgqH5r4yh4osqngzF9"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252252,
+      "name": "Pat Martino",
+      "url": "https://open.spotify.com/track/09XxsZnELeHeNzIwrUFuDO"
+    },
+    {
+      "album": {
         "name": "Pearl-button",
         "url": "https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb"
       },
@@ -6285,6 +6357,24 @@
       "duration_ms": 192248,
       "name": "Railroad Tracks",
       "url": "https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB"
+    },
+    {
+      "album": {
+        "name": "Reflecting",
+        "url": "https://open.spotify.com/album/23IlVPwP8Iu0V92QJxOVXf"
+      },
+      "artists": [
+        {
+          "name": "Chestnut Street Trio",
+          "url": "https://open.spotify.com/artist/2XyIoQNaBNpu3ucMG4euc8"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236367,
+      "name": "Reflecting",
+      "url": "https://open.spotify.com/track/76g53Xbc9tqKPcQiUkKx2X"
     },
     {
       "album": {
@@ -6718,6 +6808,24 @@
     },
     {
       "album": {
+        "name": "Six Copies",
+        "url": "https://open.spotify.com/album/6RBOorpn7m71FYN3RnBfww"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199974,
+      "name": "Six Copies",
+      "url": "https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8"
+    },
+    {
+      "album": {
         "name": "Skating",
         "url": "https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY"
       },
@@ -6938,6 +7046,24 @@
     },
     {
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7EA2dwsFpmf7ly4y6HJPuh"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236151,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/2GcsjMayUVpsgl0ohWhDpe"
+    },
+    {
+      "album": {
         "name": "Someone Elses Love",
         "url": "https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv"
       },
@@ -7115,6 +7241,24 @@
       "duration_ms": 221875,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz"
+    },
+    {
+      "album": {
+        "name": "Spend More Than Make",
+        "url": "https://open.spotify.com/album/5aTyK6gCKIa3wvUdKfalt7"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179061,
+      "name": "Spend More Than Make",
+      "url": "https://open.spotify.com/track/2GlhNN9XoiMYvXXT1bqF2x"
     },
     {
       "album": {
@@ -7766,6 +7910,24 @@
     },
     {
       "album": {
+        "name": "The Moment We Said Goodbye",
+        "url": "https://open.spotify.com/album/71JjX05H3qRf7hoiKzEszO"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232115,
+      "name": "The Moment We Said Goodbye",
+      "url": "https://open.spotify.com/track/4StMdVMtMG4IlZF8GmGyb9"
+    },
+    {
+      "album": {
         "name": "The More I See You",
         "url": "https://open.spotify.com/album/7G3KKQGJOvw0SyJu4cIQ0Y"
       },
@@ -8393,6 +8555,24 @@
       "duration_ms": 226962,
       "name": "Unspoken Love",
       "url": "https://open.spotify.com/track/1wAZQsmkq7lrW6Kt7ttTd6"
+    },
+    {
+      "album": {
+        "name": "Up And Streak",
+        "url": "https://open.spotify.com/album/5KoV5QWKSVwBzPuGdNSPOC"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge Trio",
+          "url": "https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Up And Streak",
+      "url": "https://open.spotify.com/track/1i4lRoAoLTJc5OoCGY8H7J"
     },
     {
       "album": {

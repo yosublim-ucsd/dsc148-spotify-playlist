@@ -2,9 +2,9 @@
 
 ### [Influence 💅 Hot Girl Era 2024](https://open.spotify.com/playlist/6j2ZnN1A2xcWQMELm6hcdI)
 
-> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Chlöe
+> The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Lola Brooke
 
-450 songs - 22 hr 19 min
+454 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Champagne Problems](https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Champagne Problems](https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF) | 2:22 | 2022-10-07 | 2023-07-29 |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 |  |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-06-03 | 2023-07-29 |
+| [chill like that](https://open.spotify.com/track/5PThZUzaBqA9l4J4CDW0Cm) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [chill like that](https://open.spotify.com/album/4LSq1Mp7qhNPOj65tS2IEF) | 2:34 | 2024-04-19 |  |
 | [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-06-03 | 2023-07-29 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-29 |  |
 | [Cleopatra](https://open.spotify.com/track/7L5v02KAUhLwsBCAGxLolx) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Cleopatra](https://open.spotify.com/album/0IKfyr8ORgZJ7UIfVMxEVK) | 3:20 | 2022-06-03 | 2023-02-05 |
@@ -107,6 +108,7 @@
 | [Crying On Your Birthday](https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Crying On Your Birthday](https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn) | 3:48 | 2023-12-08 |  |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2022-06-03 | 2023-07-29 |
 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 | 2023-12-08 |  |
+| [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 | 2024-04-19 |  |
 | [Death By Laundry](https://open.spotify.com/track/0JP60xkryW8yNwvZHGayCq) | [Sarah Crean](https://open.spotify.com/artist/5tbb3BtKz6wc1qQmjmgfe0) | [Death By Laundry](https://open.spotify.com/album/21qzZzlYA3PBPtQxpqVTGK) | 3:40 | 2023-08-04 |  |
 | [Delincuente](https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Delincuente](https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta) | 3:46 | 2022-10-21 | 2023-07-29 |
 | [Deserve It](https://open.spotify.com/track/397dW1gxjoAA0vVklODoO2) | [Levent Geiger](https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG) | [Deserve It](https://open.spotify.com/album/00Fxv2036uAPxZ9OW53yGM) | 2:47 | 2023-12-08 |  |
@@ -276,6 +278,7 @@
 | [Naughty](https://open.spotify.com/track/16riImh0ERdUi9qQz4jimg) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Naughty + Wanna Love You](https://open.spotify.com/album/6I4UTLON8myJP43oyluaMu) | 2:39 | 2024-01-12 |  |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2022-06-03 | 2023-03-25 |
 | [Need You \- feat\. Zion Foster](https://open.spotify.com/track/5beZvzaWqpkoflCPj1flU6) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [Need You \(feat\. Zion Foster\)](https://open.spotify.com/album/2jwUhi1AhT3zGSKIuCL3uu) | 3:09 | 2022-10-28 | 2023-07-29 |
+| [Neighborhood Hero](https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 2:56 | 2024-04-19 |  |
 | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2lXQX3uhFHRYGBE6xR3tic) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Never Lose Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w) | 2:45 | 2023-12-08 |  |
 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 | 2024-03-15 |  |
 | [No Boys Allowed](https://open.spotify.com/track/3852HBM5GEmZ9NNvmWXZoe) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [No Boys Allowed](https://open.spotify.com/album/1X35eDky87vE6mOd6mrRBS) | 2:58 | 2023-06-02 |  |
@@ -376,6 +379,7 @@
 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 | 2024-02-12 |  |
 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 | 2023-06-16 |  |
 | [Someone Better](https://open.spotify.com/track/6g7vmvWmMqAJCdIU38J4pC) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Someone Better](https://open.spotify.com/album/4YZhf1VSWJ52JtT4vwhrNI) | 2:49 | 2023-03-24 |  |
+| [Something To Listen To](https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [Something To Listen To](https://open.spotify.com/album/19pZSaoSylW9hTSrcwxHYq) | 2:13 | 2024-04-19 |  |
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-23 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2022-06-03 | 2023-02-05 |
 | [Speak Up](https://open.spotify.com/track/5YZGn9s5e6YMXbcgks2nOZ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Speak Up](https://open.spotify.com/album/5k6MkIqPglsnDjDdx6m9H3) | 3:07 | 2023-08-18 |  |

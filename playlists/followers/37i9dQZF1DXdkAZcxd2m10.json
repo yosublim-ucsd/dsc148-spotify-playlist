@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 24582,
+  "2024-04-20": 24602,
   "date_first_scraped": "2023-09-28",
   "description": "La playlist oficial de A trav\u00e9s de mi ventana.  <a href=\u201chttps://www.netflix.com/title/81388078\u201d>Ver en Netflix </a> \n",
   "name": "A trav\u00e9s de mi ventana",
@@ -191,7 +191,7 @@
     {
       "album": {
         "name": "Cape God",
-        "url": "https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H"
+        "url": "https://open.spotify.com/album/4J8jmljF3FvpyhPjyB1fae"
       },
       "artists": [
         {
@@ -202,6 +202,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 172880,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/4GSqiK9YdVNhilXMFtCiQB"
+    },
+    {
+      "album": {
+        "name": "Cape God",
+        "url": "https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 172880,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6KF3l0dtaqHanpwJVmz3mB"
@@ -949,7 +967,7 @@
     {
       "album": {
         "name": "Recuerdos un poco antes y un poco despues de conocer a 1 xico (el mio)",
-        "url": "https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL"
+        "url": "https://open.spotify.com/album/0tbpAaKlBefe9o1MtMpC7W"
       },
       "artists": [
         {
@@ -960,6 +978,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Tocame el culo",
+      "url": "https://open.spotify.com/track/4hqvrAyYHK9TCZysfeTB2V"
+    },
+    {
+      "album": {
+        "name": "Recuerdos un poco antes y un poco despues de conocer a 1 xico (el mio)",
+        "url": "https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 157500,
       "name": "Tocame el culo",
       "url": "https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe"

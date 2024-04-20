@@ -4,7 +4,7 @@
 
 > Your weekly rock update\. Cover: Fontaines D.C.
 
-1,043 songs - 2 day 9 hr 54 min
+1,045 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,10 +182,10 @@
 | [chicago](https://open.spotify.com/track/6SkptVZ2SEfSJRxV84TMsR) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [chicago](https://open.spotify.com/album/18wcMl1vO8YBg4Xrq0Dwm7) | 3:04 | 2024-01-12 | 2024-02-10 |
 | [CHOKER](https://open.spotify.com/track/4BhDkugxAaXgS0k6fxa6jW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [CHOKER](https://open.spotify.com/album/3uAsQcyJAS9hAfZKrNYBvL) | 3:20 | 2023-03-03 | 2023-04-29 |
 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-03-15 | 2024-04-19 |
-| [Chompin' at the Bit](https://open.spotify.com/track/58PH2hBt3rp0LCdqtq4sKE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Trouble EP](https://open.spotify.com/album/2FWIsmGnh56nHH8cSOOk24) | 3:01 | 2024-04-19 |  |
+| [Chompin' at the Bit](https://open.spotify.com/track/58PH2hBt3rp0LCdqtq4sKE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Trouble EP](https://open.spotify.com/album/2FWIsmGnh56nHH8cSOOk24) | 3:01 | 2024-04-19 | 2024-04-20 |
 | [Cicada](https://open.spotify.com/track/1G2JfPGXBbVgVnBtk0ToxD) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [One Day](https://open.spotify.com/album/3hMj3XLQTq6irh3C0U1HdD) | 4:29 | 2023-02-10 | 2023-04-01 |
 | [City of Angels](https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [City of Angels](https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af) | 2:12 | 2024-03-15 |  |
-| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 |  |
+| [Classical](https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Classical](https://open.spotify.com/album/5feyAYllLDkJZtc0ZOkBnJ) | 4:19 | 2024-03-15 | 2024-04-20 |
 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 | 2024-04-05 | 2024-04-19 |
 | [Clay Feet](https://open.spotify.com/track/7CJkmupnhIhgdDuPMBpSMD) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Clay Feet](https://open.spotify.com/album/5IXXU7lT4HFRSryIRwfiZF) | 3:39 | 2023-07-14 | 2023-09-16 |
 | [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 | 2023-11-17 | 2024-01-13 |
@@ -350,6 +350,7 @@
 | [Give It Back to Me](https://open.spotify.com/track/5XdQJhxNoH6XCKMqjp8ibG) | [Francis of Delirium](https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif) | [Give It Back to Me](https://open.spotify.com/album/0YRdgQKM1I5xEThuYDMPq0) | 4:22 | 2024-02-16 | 2024-03-23 |
 | [Give Me A Reason Why](https://open.spotify.com/track/4GcSIWC2iSRG8IjRYR393G) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [Give Me A Reason Why](https://open.spotify.com/album/0a8FY5YkU3CNShk1wy7a5Z) | 3:10 | 2024-01-12 | 2024-02-24 |
 | [GLOFS](https://open.spotify.com/track/35ZQUE0DuUFEptq5LJv6nI) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [GLOFS \(feat\. Rou Reynolds of Enter Shikari\)](https://open.spotify.com/album/4DVMNKOHTvzJVVgiHNBPn9) | 3:52 | 2023-11-24 | 2024-01-13 |
+| [GOLDEN](https://open.spotify.com/track/5zK7NgcGJqb08X5cLLfrby) | [Family Man](https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB) | [ICONOCLAST](https://open.spotify.com/album/4i8aKvwu0tt21e95SVl7lB) | 3:40 | 2024-04-19 |  |
 | [Goldfish](https://open.spotify.com/track/6NnSXQbwQEEc224TjftXya) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Goldfish](https://open.spotify.com/album/6S6gqcWWRledJ24fK2B4cR) | 2:35 | 2023-02-10 | 2023-04-15 |
 | [Gone](https://open.spotify.com/track/2N00RnLgnk4g9mrTHIViHy) | [Geddy Lee](https://open.spotify.com/artist/1mVhi0LYM9U7DEZNrKyC0l) | [The Lost Demos](https://open.spotify.com/album/4me6wWFc3aF7gEPlNFzFm8) | 4:15 | 2023-12-08 | 2024-01-20 |
 | [Good Ol Days](https://open.spotify.com/track/3cZreNPb0hNWeHeamr88jR) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 4:54 | 2023-08-25 | 2023-09-30 |
@@ -508,7 +509,7 @@
 | [LEAVE ME ALONE](https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [LEAVE ME ALONE](https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH) | 3:35 | 2024-03-22 |  |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-25 | 2023-09-30 |
 | [Left Me Out To Die](https://open.spotify.com/track/5A40rzOHlMBPZ5Typ7kxjb) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [PRINCE OF THE UNDERGROUND](https://open.spotify.com/album/2VIABGmLDRn9twkThfT8Yz) | 2:53 | 2023-04-21 | 2023-06-17 |
-| [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-15 |  |
+| [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-03-15 | 2024-04-20 |
 | [Legends Never Die](https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Legends Never Die](https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW) | 2:57 | 2023-08-18 | 2023-09-23 |
 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 | 2023-08-25 | 2023-09-30 |
 | [Let Me Out](https://open.spotify.com/track/4IUZViuv8cdwJPw1IdmpIG) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:12 | 2023-02-10 | 2023-03-04 |
@@ -689,7 +690,7 @@
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-17 | 2024-01-13 |
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-10 | 2023-04-09 |
 | [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 | 2023-10-27 | 2023-12-23 |
-| [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 |  |
+| [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 | 2024-04-20 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-24 | 2023-04-09 |
 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 | 2024-02-16 | 2024-03-23 |
 | [Popstar](https://open.spotify.com/track/3lWdYES9kp95unr6wxJQRb) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Popstar \(feat\. Låpsley\)](https://open.spotify.com/album/7epnGZBPPyHsA8cP6liUOq) | 2:58 | 2024-03-08 | 2024-04-13 |
@@ -899,6 +900,7 @@
 | [The Joke](https://open.spotify.com/track/3Ml2TX8o5reIR0mAEXVhvv) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [The Joke](https://open.spotify.com/album/1o8K4bT1jZ8ayWT8uc0cyf) | 2:51 | 2023-05-19 | 2023-08-19 |
 | [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 | 2023-02-10 | 2023-04-15 |
 | [The Knock](https://open.spotify.com/track/7xm6gxaOBemqmU3KjriBx5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [The Knock / Soldiers Of Love](https://open.spotify.com/album/3NFcWx0CCnq7D177zszg8F) | 3:32 | 2023-11-24 | 2024-01-13 |
+| [The Last Drag](https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 6:10 | 2024-04-19 |  |
 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2023-12-09 |
 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 | 2023-03-31 | 2023-06-17 |
 | [The Matrix](https://open.spotify.com/track/0bpmBKuehVqxXeYtdeTqEG) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [The Matrix](https://open.spotify.com/album/6gqw69YjxD8oXGZ2rp1pPd) | 3:21 | 2023-11-03 | 2024-01-06 |

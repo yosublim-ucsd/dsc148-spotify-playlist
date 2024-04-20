@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 67253,
+  "2024-04-20": 67414,
   "date_first_scraped": "2023-08-12",
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
   "name": "techno party",
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Cover Up My Face",
+        "url": "https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204591,
+      "name": "Cover Up My Face",
+      "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"
+    },
+    {
+      "album": {
         "name": "Crusade",
         "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
       },
@@ -523,10 +541,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179400,
       "name": "Crusade - Club Edit",
       "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
+    },
+    {
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/5qzhVqrg6xV9Ex18ZuKD6A"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/7x3ni6d5mJRS2QwrbO1ktr"
     },
     {
       "album": {
@@ -575,7 +611,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -605,7 +641,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
@@ -1059,7 +1095,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW"
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
@@ -1389,6 +1425,28 @@
       "duration_ms": 149610,
       "name": "Jump Dance Move Bounce",
       "url": "https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa"
+    },
+    {
+      "album": {
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/7KBpd01fC9KhsxYDDmrXbB"
+      },
+      "artists": [
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334615,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/4xKkpbUcrVoYrIXu7Xgzo9"
     },
     {
       "album": {
@@ -1793,7 +1851,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/1YWLrDcr0yl0GfeDvuGX1z"
@@ -1998,6 +2056,32 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/0WOXfzinWC4ACoMv7L8KJa"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Besomorph",
+          "url": "https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko"
+        },
+        {
+          "name": "Hedara",
+          "url": "https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121384,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
+    },
+    {
+      "album": {
         "name": "On Off / Fast Forward",
         "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
       },
@@ -2140,24 +2224,24 @@
     },
     {
       "album": {
-        "name": "Oui mais Non (Remix)",
+        "name": "Oui mais Non (Nicolas Julian Remix)",
         "url": "https://open.spotify.com/album/0lkocvL7as5pbxEVzm83lD"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
           "name": "SM:LY",
           "url": "https://open.spotify.com/artist/51mRBkF1rU3x37NMHJ5teX"
+        },
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 162338,
-      "name": "Oui mais Non - Remix",
+      "name": "Oui mais Non - Nicolas Julian Remix",
       "url": "https://open.spotify.com/track/36ZvYgWivlGx3G11YXReLL"
     },
     {
@@ -2361,7 +2445,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 164475,
       "name": "Pjanoo",
       "url": "https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR"
@@ -2687,7 +2771,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205696,
       "name": "Rock With Me",
       "url": "https://open.spotify.com/track/4JOOUSb29WBiwpH47QUmif"
@@ -2891,7 +2975,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132696,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/5SzPoxOGAl1mGWsT36KLcC"
@@ -2909,7 +2993,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 132700,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65"

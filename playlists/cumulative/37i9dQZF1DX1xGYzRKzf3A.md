@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-184 songs - 11 hr 31 min
+186 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ando Pedo Y Ella Esta Aqui](https://open.spotify.com/track/2W3QTyPSI5Zg1a4Cm3UMvd) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [La Revancha Del Principe Charro](https://open.spotify.com/album/3IZaue2sfl2uX7qOYOx9gg) | 3:35 | 2023-06-16 |  |
 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 | 2023-06-16 |  |
 | [Ay Hombe](https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 5:21 | 2023-06-16 |  |
+| [Ayúdame a olvidar](https://open.spotify.com/track/3ZoViNzPip6N0dwBXcRUXJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Trayectoria](https://open.spotify.com/album/3vSXHqTX4uqCajsC1ijBUo) | 2:50 | 2023-11-08 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-06-16 |  |
 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 | 2023-06-16 |  |
 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\)](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 | 2023-06-16 |  |
@@ -74,6 +75,7 @@
 | [El Gallo Moro](https://open.spotify.com/track/1iQeJDK2YMwy0mSvMxtkV4) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Wepe Jepe](https://open.spotify.com/album/7D9L6rKQbickno8hZKTS72) | 3:42 | 2023-11-08 |  |
 | [El Mariguanito](https://open.spotify.com/track/4AezsL4zt0MT0o0KgEiOP5) | [Los Kombolokos](https://open.spotify.com/artist/186zc9g3W3zfjfQZqEu9Zd) | [Kumbia Regia](https://open.spotify.com/album/1fLoR8ZZ2mxj9qpOjo3sTf) | 4:37 | 2023-11-08 |  |
 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2023-06-16 |  |
+| [El Sonido De Tu Voz](https://open.spotify.com/track/6RtZYoM4rNdoDVgbwfOK2V) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 2:50 | 2023-11-08 |  |
 | [Ella](https://open.spotify.com/track/0hODFwvCUqhgKO5ItsEg4W) | [Los Primeritos de Colombia](https://open.spotify.com/artist/55VPstkLrGtMofUyy9QNW8) | [La Fiesta de Maria Dolores](https://open.spotify.com/album/0aIozctoWa0yPo2bL0qIrl) | 3:24 | 2023-11-08 |  |
 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 | 2023-06-16 |  |
 | [Eras](https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [Eras](https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg) | 3:39 | 2023-11-08 |  |
@@ -98,7 +100,7 @@
 | [La Cumbia Rebaja](https://open.spotify.com/track/78ls4TlaIOP9fJoEJiD8w0) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Cuando el Hombre Llega a Viejo](https://open.spotify.com/album/2X92nMtrA02l1TkO1w7jaP) | 3:24 | 2023-06-16 |  |
 | [La Cumbia Rikitiki](https://open.spotify.com/track/6huH7y9hDkK8cnAdXKczML) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Cumbia Rikitiki](https://open.spotify.com/album/1hs5GUntUBlOTjDndubrj7) | 5:24 | 2023-11-08 |  |
 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 | 2023-06-16 |  |
-| [La Faldita Coqueta](https://open.spotify.com/track/31SbMTXzEeAvXXxKQaBOzI) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 3:36 | 2023-11-08 |  |
+| [La Faldita Coqueta](https://open.spotify.com/track/31SbMTXzEeAvXXxKQaBOzI) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [El Condor Legendario](https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG) | 3:36 | 2023-11-08 | 2024-04-20 |
 | [La Flechita \- En Vivo](https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' La Raza \(En Vivo\)](https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q) | 2:14 | 2023-06-16 | 2024-04-19 |
 | [La Negra Nelly](https://open.spotify.com/track/12cnheTHhx1smy789gzgoI) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Celso Piña y Su Ronda Bogotá](https://open.spotify.com/album/3qObbF5FHiTByhAuuuDsFL) | 4:02 | 2023-11-08 |  |
 | [La Pava Congona](https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [La Fiebre](https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA) | 3:09 | 2023-11-08 | 2024-04-19 |
@@ -150,7 +152,7 @@
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-06-16 |  |
 | [Quien Perdera](https://open.spotify.com/track/6UsPWRpytDo7qZUzqxO4fA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Estan De Moda](https://open.spotify.com/album/1Fkn6Cz8jObUYOeDqk7OMQ) | 4:45 | 2023-06-16 |  |
 | [Quiero Volar](https://open.spotify.com/track/5eHBwnbKua85GTAOaSaMqn) | [Jorge Meza](https://open.spotify.com/artist/6tZZ41M87iMusAZqcEDqSt), [y Su Tropicolombia](https://open.spotify.com/artist/1j6CwJDQ5JAwZJsYuIS0Yc) | [Quiero Volar](https://open.spotify.com/album/4xe7zD2yjkpRElKHwT9eYW) | 4:46 | 2023-11-08 | 2024-04-19 |
-| [Quiero Volar](https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Exitos De Oro](https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy) | 4:46 | 2023-06-16 |  |
+| [Quiero Volar](https://open.spotify.com/track/4KjYJXjnkHfEtJtSNUX2CO) | [Jorge Meza Y Su Tropi Colombia](https://open.spotify.com/artist/745IcJOBUvnbNsDKAMyUVa) | [25 Exitos De Oro](https://open.spotify.com/album/4Jdm5lcAdUPVswN57HShNy) | 4:46 | 2023-06-16 | 2024-04-20 |
 | [Quiero Volar](https://open.spotify.com/track/4WU4Bliu90KAVOXymgmraL) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jr\. Santiago](https://open.spotify.com/artist/4VN2AdbQ4MoBdtix3JbA21), [Julián Rojas](https://open.spotify.com/artist/3TXxyYKiTBCD2kpenWIUCu) | [La Combinacion Vallenata Elite Vol\. 5](https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6) | 4:57 | 2023-06-16 |  |
 | [Quisiera Ser Una Lágrima](https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7) | 2:58 | 2023-06-16 |  |
 | [Quizás](https://open.spotify.com/track/5NWwksSbX0VUFO8AhQwZKG) | [Javier Lopez](https://open.spotify.com/artist/4y3dI4VrvBA830auuPgiiI) | [Quizás](https://open.spotify.com/album/6kuKiRH3LIEs2QIylPiyGS) | 4:31 | 2023-11-08 |  |

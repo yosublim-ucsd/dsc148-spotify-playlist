@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 54434,
+  "2024-04-20": 54343,
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot;, Enrique Iglesias &amp; El Alfa &quot;La Botella&quot;",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot; Cover: Sky Rompiendo X Rauw Alejandro  ",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -3348,6 +3348,24 @@
     },
     {
       "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
+    },
+    {
+      "album": {
         "name": "De 100 a 0",
         "url": "https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc"
       },
@@ -4900,6 +4918,28 @@
     },
     {
       "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+    },
+    {
+      "album": {
         "name": "Espina De Rosa - Spotify Singles",
         "url": "https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc"
       },
@@ -5331,6 +5371,32 @@
       "duration_ms": 176606,
       "name": "Fr\u00eda",
       "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+    },
+    {
+      "album": {
+        "name": "Fr\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176606,
+      "name": "Fr\u00eda - Remix",
+      "url": "https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q"
     },
     {
       "album": {
@@ -11787,6 +11853,24 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+    },
+    {
+      "album": {
+        "name": "Reir pa no llorar",
+        "url": "https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164949,
+      "name": "Reir pa no llorar",
+      "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
     },
     {
       "album": {

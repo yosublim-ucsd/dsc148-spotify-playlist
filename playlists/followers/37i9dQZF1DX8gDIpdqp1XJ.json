@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 872772,
+  "2024-04-20": 872576,
   "date_first_scraped": "2021-12-21",
   "description": "The best of modern psychedelic rock, neo-psychedelic, and psychedelic indie. Cover: Suki Waterhouse",
   "name": "Modern Psychedelia",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "A Song About the Sun",
       "url": "https://open.spotify.com/track/2ylXMli4RzeVjIhRsjdoWn"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210000,
       "name": "A Song About the Sun",
       "url": "https://open.spotify.com/track/3yVfX4uOLz0lVhHsXxFNTV"
@@ -863,6 +863,24 @@
     {
       "album": {
         "name": "Another Year Gone",
+        "url": "https://open.spotify.com/album/4d7MKGdzzophizF1NsVCNQ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Stone",
+          "url": "https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104400,
+      "name": "Another Year Gone",
+      "url": "https://open.spotify.com/track/1961kjoExqGsKWnUbDyO5w"
+    },
+    {
+      "album": {
+        "name": "Another Year Gone",
         "url": "https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q"
       },
       "artists": [
@@ -891,7 +909,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104400,
       "name": "Another Year Gone",
       "url": "https://open.spotify.com/track/5rYhRfcdleiDw2df0Ogzuw"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -5535,7 +5553,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 333173,
       "name": "Gamma Rays (Sean Ono Lennon Remix)",
       "url": "https://open.spotify.com/track/1u87YKsVkulCvckDBtTfqv"
@@ -5557,7 +5575,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333173,
       "name": "Gamma Rays - Sean Ono Lennon Remix",
       "url": "https://open.spotify.com/track/1i2n0psXd2lqsDsAmw6Y0I"
@@ -8963,7 +8981,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219936,
       "name": "Love It Is Not Love",
       "url": "https://open.spotify.com/track/4AdxNCK4spTXJJVge9mDJb"
@@ -8985,7 +9003,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 219936,
       "name": "Love It Is Not Love",
       "url": "https://open.spotify.com/track/6Vt9VWwLberr7ByuYsTmti"
@@ -11383,10 +11401,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213053,
       "name": "Oval Stones",
       "url": "https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1"
+    },
+    {
+      "album": {
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Oval Stones",
+      "url": "https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg"
     },
     {
       "album": {
@@ -11816,6 +11852,24 @@
     },
     {
       "album": {
+        "name": "Pet Rock",
+        "url": "https://open.spotify.com/album/61tIYqsat7AeJHQBSpWtpn"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165413,
+      "name": "Pet Rock",
+      "url": "https://open.spotify.com/track/5nvAWyXQfFexcvnbmdcgBg"
+    },
+    {
+      "album": {
         "name": "I Killed Your Dog",
         "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
       },
@@ -11827,7 +11881,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165413,
       "name": "Pet Rock",
       "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
@@ -12475,7 +12529,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 152563,
       "name": "Restless Thoughts",
       "url": "https://open.spotify.com/track/3fJaQLBjTjl0TmXhff9TdL"
@@ -12493,7 +12547,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152563,
       "name": "Restless Thoughts",
       "url": "https://open.spotify.com/track/6rx2PKLSvz4El2ZW5o1skH"
@@ -12941,7 +12995,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 234583,
       "name": "Scattered Dreams",
       "url": "https://open.spotify.com/track/0A4yWwcpwp35JWPHGQ24X9"
@@ -12977,7 +13031,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234583,
       "name": "Scattered Dreams",
       "url": "https://open.spotify.com/track/73h8sk37Djar1B3LV3A6nQ"
@@ -13591,10 +13645,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279480,
       "name": "Sink or Swim",
       "url": "https://open.spotify.com/track/1lddVTsxR1k0waF1NqTbbn"
+    },
+    {
+      "album": {
+        "name": "Time Lapsed",
+        "url": "https://open.spotify.com/album/6LlWK24TVZ8066wwckUASq"
+      },
+      "artists": [
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279480,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/6VlC18qCEjg2SGu2LppRoe"
     },
     {
       "album": {
@@ -15515,7 +15587,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 362523,
       "name": "The Skin And The Glove",
       "url": "https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O"
@@ -15533,7 +15605,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362523,
       "name": "The Skin And The Glove",
       "url": "https://open.spotify.com/track/5OWzC2szdxlxz1Pbx4Lj9n"
@@ -16188,6 +16260,24 @@
     },
     {
       "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/3CBTerGgXOMnroRVAi5EvH"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360300,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/202tkd4WPwHoXMMjcYnLXW"
+    },
+    {
+      "album": {
         "name": "Flying Wig",
         "url": "https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm"
       },
@@ -16199,7 +16289,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360300,
       "name": "Twin",
       "url": "https://open.spotify.com/track/4fHfYHQCg4xOwnjdS35lH4"

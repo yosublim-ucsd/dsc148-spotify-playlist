@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 183031,
+  "2024-04-20": 183053,
   "date_first_scraped": "2023-08-25",
-  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Zoe Gotusso",
+  "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Rosario Ortega y Delfina Campos.",
   "name": "Modo Ac\u00fastico",
   "tracks": [
     {
@@ -93,10 +93,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208240,
       "name": "A Primera Vista",
       "url": "https://open.spotify.com/track/0vLTOf24syMlJDuaWZfihc"
+    },
+    {
+      "album": {
+        "name": "Mil Noches y un Instante (En Vivo en el Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/0FEw1ELbSr36VjZRlOhpbx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208240,
+      "name": "A Primera Vista - En Vivo",
+      "url": "https://open.spotify.com/track/5ILO4muNGt6OcH0sEQjyTG"
     },
     {
       "album": {
@@ -129,7 +147,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
@@ -141,13 +159,13 @@
       },
       "artists": [
         {
-          "name": "Mariano Godoy",
+          "name": "Godoy",
           "url": "https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR"
         }
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 242784,
       "name": "Acuarela",
       "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
@@ -165,10 +183,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251853,
       "name": "Agua Marfil",
       "url": "https://open.spotify.com/track/4lOP4BFzkPCECQTcVJgZPL"
+    },
+    {
+      "album": {
+        "name": "Amado M\u00edo (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/25fo0NUtp8CfwO3YNTlcV3"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144425,
+      "name": "Amado M\u00edo (Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7tsjGnzRBEKq6tN0fhlGea"
     },
     {
       "album": {
@@ -241,7 +277,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Arrancacorazones - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul"
@@ -277,7 +313,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
@@ -295,7 +331,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203805,
       "name": "Bajo el Sol",
       "url": "https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu"
@@ -447,7 +483,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183493,
       "name": "Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
@@ -657,7 +693,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218827,
       "name": "Desapego",
       "url": "https://open.spotify.com/track/6PscXiZTVBaoEzDAMr46uN"
@@ -675,10 +711,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176270,
       "name": "Desaprender",
       "url": "https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ"
+    },
+    {
+      "album": {
+        "name": "Hecho a la Antigua",
+        "url": "https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222643,
+      "name": "Dime Que No - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5mDOxSFtO6zkQFUJfOsRA0"
     },
     {
       "album": {
@@ -693,7 +747,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337538,
       "name": "DOCTORA II",
       "url": "https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79"
@@ -777,7 +831,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171573,
       "name": "El Callej\u00f3n de los Milagros",
       "url": "https://open.spotify.com/track/4VRPUoFBtTFcwco6YNFEx8"
@@ -795,7 +849,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302731,
       "name": "El Farolito (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
@@ -835,6 +889,24 @@
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320600,
+      "name": "El Tesoro - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
     },
     {
       "album": {
@@ -965,7 +1037,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232263,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
@@ -1026,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "album": {
         "name": "Frontera / Fuji",
         "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
       },
@@ -1037,7 +1127,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278964,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
@@ -1135,7 +1225,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
@@ -1153,7 +1243,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128981,
       "name": "La Danza del Espacio Tiempo",
       "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
@@ -1171,7 +1261,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160533,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/0BRtjY6BHMic4e901yeGil"
@@ -1193,10 +1283,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262978,
       "name": "La Pibita",
       "url": "https://open.spotify.com/track/5y1fGA0357uOjtoN3iPsnF"
+    },
+    {
+      "album": {
+        "name": "La Sal",
+        "url": "https://open.spotify.com/album/3WuIVMYIs4MJvW4iCame1O"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207544,
+      "name": "La Sal",
+      "url": "https://open.spotify.com/track/3L2wfB3OYUvpbg2hm9gHEs"
     },
     {
       "album": {
@@ -1211,7 +1323,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276200,
       "name": "La \u00daltima L\u00e1grima",
       "url": "https://open.spotify.com/track/0cHVi2rirbT62DlX3uabke"
@@ -1392,6 +1504,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Gran Rex",
+        "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260813,
+      "name": "Me Est\u00e1s Tratando Mal - En Vivo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP"
+    },
+    {
+      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1403,7 +1533,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264180,
       "name": "Me Gusta (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe"
@@ -1425,7 +1555,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
@@ -1501,7 +1631,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 273985,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in"
@@ -1541,7 +1671,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 136132,
       "name": "M\u00e1gica",
       "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
@@ -1559,7 +1689,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265080,
       "name": "M\u00edrenla (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
@@ -1577,10 +1707,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272873,
       "name": "Nada Tengo",
       "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
+    },
+    {
+      "album": {
+        "name": "Nataci\u00f3n (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4kzkWxw8Mx0O2jvphkJuVh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221824,
+      "name": "Nataci\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1yBoSHwB98478ukWVGp0Qq"
     },
     {
       "album": {
@@ -1635,7 +1783,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196044,
       "name": "Nunca Quise",
       "url": "https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx"
@@ -1689,7 +1837,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
@@ -1707,7 +1855,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 198405,
       "name": "Oma",
       "url": "https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM"
@@ -1743,7 +1891,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 279994,
       "name": "Paloma - Romaphonic",
       "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
@@ -1779,7 +1927,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 271266,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
@@ -1949,10 +2097,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173209,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
     },
     {
       "album": {
@@ -1971,6 +2141,24 @@
       "duration_ms": 239115,
       "name": "Scarlett O'hara - Ac\u00fastico",
       "url": "https://open.spotify.com/track/47qOoHuaQ4vLqLbNGIFboF"
+    },
+    {
+      "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Seguir Viviendo Sin Tu Amor - Acustico",
+      "url": "https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL"
     },
     {
       "album": {
@@ -2155,7 +2343,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
@@ -2249,7 +2437,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
@@ -2329,7 +2517,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180778,
       "name": "Un D\u00eda Lo Encontr\u00e9",
       "url": "https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw"
@@ -2387,7 +2575,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277520,
       "name": "Un Pacto",
       "url": "https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA"
@@ -2409,6 +2597,28 @@
       "duration_ms": 295160,
       "name": "Un Pacto - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
+    },
+    {
+      "album": {
+        "name": "Celesteacustica",
+        "url": "https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe"
+      },
+      "artists": [
+        {
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Una Canci\u00f3n Diferente",
+      "url": "https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE"
     },
     {
       "album": {
@@ -2445,6 +2655,24 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
+    },
+    {
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165503,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN"
     },
     {
       "album": {

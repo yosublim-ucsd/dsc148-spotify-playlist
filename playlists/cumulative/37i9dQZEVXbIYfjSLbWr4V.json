@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "KRVSH!",
+        "url": "https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt"
+      },
+      "artists": [
+        {
+          "name": "BOOTY LEAK",
+          "url": "https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx"
+        },
+        {
+          "name": "HOMINID",
+          "url": "https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h"
+        },
+        {
+          "name": "C\u00d8V3R1st",
+          "url": "https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103819,
+      "name": "KRVSH!",
+      "url": "https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy"
+    },
+    {
+      "album": {
         "name": "Cristoforo Colombo",
         "url": "https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg"
       },
@@ -2414,7 +2440,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 147000,
       "name": "\u0423\u0442\u0440\u043e",
       "url": "https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr"

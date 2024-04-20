@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 189900,
+  "2024-04-20": 189916,
   "date_first_scraped": "2022-05-26",
   "description": "A collection of songs from Tony Hawk's Pro Skater 1 + 2.",
   "name": "Tony Hawk's Pro Skater 1 + 2",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 225680,
       "name": "Afraid of Heights",
       "url": "https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225680,
       "name": "Afraid of Heights",
       "url": "https://open.spotify.com/track/1MJ2PGCxb3DWkd7ES6Z2Nw"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233239,
       "name": "Bass",
       "url": "https://open.spotify.com/track/22ws6uOt1pfpG1fP8I0QGo"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0"
@@ -192,24 +192,6 @@
     },
     {
       "album": {
-        "name": "bloody valentine",
-        "url": "https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "date_added": "2020-07-28",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 205015,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5"
-    },
-    {
-      "album": {
         "name": "Rock Gym Workout",
         "url": "https://open.spotify.com/album/3GviLEhdfqHM3qjMl3Th7F"
       },
@@ -228,6 +210,24 @@
     },
     {
       "album": {
+        "name": "bloody valentine",
+        "url": "https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2020-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205015,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5"
+    },
+    {
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186069,
       "name": "Bomb Drop",
       "url": "https://open.spotify.com/track/1MAnAUtRTzqnviymxYHTAg"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186069,
       "name": "Bomb Drop",
       "url": "https://open.spotify.com/track/1U9DTcVgCPu7GEZXMeQ4Uu"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178893,
       "name": "Confisco",
       "url": "https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "Confisco",
       "url": "https://open.spotify.com/track/68uBfK67y4ZKD45qHJYaw7"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194826,
       "name": "Connect To Consume",
       "url": "https://open.spotify.com/track/4AedKkOIuagtOQ6uvxWfiN"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "Connect To Consume",
       "url": "https://open.spotify.com/track/5GybndUlmvM1wzM6liWsdp"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 130694,
       "name": "Duck Eat Duck World",
       "url": "https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130694,
       "name": "Duck Eat Duck World",
       "url": "https://open.spotify.com/track/3eFSgjJcMxLPvhk42FZycQ"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 231836,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/34csddijqvOGw4HlgNMStZ"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231836,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/3P0VV8RBhb1M1ThEkFseh9"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195480,
       "name": "IN-TO-IT",
       "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-16",
+      "date_removed": null,
       "duration_ms": 196413,
       "name": "IN-TO-IT",
       "url": "https://open.spotify.com/track/1h2nlMzL1hFRaSMKuUHaDB"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158651,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/2jjWhewOLTIPaPeJpWizo1"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 158651,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/5U2djvPDRMcW4JjKuETuWa"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127986,
       "name": "Mid 20's Skateboarder",
       "url": "https://open.spotify.com/track/2YMyri03SS5w5cA0yicarQ"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 127986,
       "name": "Mid 20's Skateboarder",
       "url": "https://open.spotify.com/track/6NiVbUwxuTETC56The3Sup"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153400,
       "name": "Misery Guts",
       "url": "https://open.spotify.com/track/3Tfq8Ba1jAFipLb4HLgt6x"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153400,
       "name": "Misery Guts",
       "url": "https://open.spotify.com/track/4nFEpqglSpknKNaGLT8jeX"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227506,
       "name": "Pin the Tail on the Donkey",
       "url": "https://open.spotify.com/track/3z0i5xf1iiEoiuhkTPKp3w"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2020-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "Pin the Tail on the Donkey",
       "url": "https://open.spotify.com/track/5G1ExEKtOyNbF9pIzSR98C"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156160,
       "name": "Same In The End",
       "url": "https://open.spotify.com/track/3kGt9uxpJzKTxwp2uJHrU5"
@@ -1089,7 +1089,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156506,
       "name": "Same In The End",
       "url": "https://open.spotify.com/track/4B6dMwXS6q8pw1HBWV8Cc8"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191216,
       "name": "Slow Learner",
       "url": "https://open.spotify.com/track/3anIPGbdjxjkbwtHoBG4W4"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191216,
       "name": "Slow Learner",
       "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
@@ -1215,7 +1215,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 129981,
       "name": "South",
       "url": "https://open.spotify.com/track/4P4oazg6dLImZsqNAb9JlZ"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129981,
       "name": "South",
       "url": "https://open.spotify.com/track/4yrJzFzE6IiSUbVNlUuMjV"
@@ -1357,7 +1357,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 202573,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/41hKOXSa1WMSpdQgsgK0fc"
@@ -1375,7 +1375,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202573,
       "name": "West Coast",
       "url": "https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys"

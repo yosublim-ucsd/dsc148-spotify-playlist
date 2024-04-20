@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with From Ashes To New.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,953 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,032 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,21 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 31 | [RED](https://open.spotify.com/track/6fv8sI48halTMxJBLqUEmv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:54 |
 | 32 | [Feed Them To The Wolves](https://open.spotify.com/track/67edfnqe1CBj0hk8Ya9wD4) | [Sicksense](https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc), [Vicky Psarakis](https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ) | [Fools Tomorrow](https://open.spotify.com/album/1SzBtNNSVGA7qa010TFXTX) | 4:05 |
 | 33 | [Everything](https://open.spotify.com/track/0aBFPOcQfWPQZvdLx2jWmq) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Truth Killer](https://open.spotify.com/album/6YKRSUJ7jo99IYvHeOx5aT) | 4:18 |
-| 34 | [DAMN](https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down \(Deluxe\)](https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm) | 3:37 |
-| 35 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 |
-| 36 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 |
-| 37 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 |
-| 38 | [Fractured](https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Fractured](https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya) | 3:42 |
-| 39 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 |
-| 40 | [Delusion](https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11) | [DEAR MOTHER](https://open.spotify.com/artist/1i6SXeSvmfhKqHTAxQx5rg) | [Necessary Darkness](https://open.spotify.com/album/3F9I77amZjv9FRrCBoe4zE) | 3:47 |
-| 41 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
-| 42 | [UNBOUND](https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf), [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [UNBOUND](https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ) | 3:27 |
-| 43 | [CROWNLESS](https://open.spotify.com/track/6y5zUqiBOaCurKUFiDUEvu) | [.bHP](https://open.spotify.com/artist/2bHod84ma4lUUDwiToxWEE) | [.bHP](https://open.spotify.com/album/3laPdouBLWJl03QEnPR4HB) | 3:33 |
-| 44 | [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 |
-| 45 | [Rain Check](https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Rain Check](https://open.spotify.com/album/0VlmhR3IrwULQWiOJYeIoJ) | 3:31 |
-| 46 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 |
-| 47 | [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 |
-| 48 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 |
-| 49 | [Veins](https://open.spotify.com/track/1BWQNAch1SIeTWz0RLvc1O) | [Splutter](https://open.spotify.com/artist/7gLhHWy22zWmhRSbmDuPsG) | [Veins](https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1) | 3:15 |
+| 34 | [Kraken Down](https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be) | [FiveByFive](https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW) | [Phuck Around Phind Out](https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1) | 3:23 |
+| 35 | [DAMN](https://open.spotify.com/track/444DpGSmnesBw9WiySbdHx) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down \(Deluxe\)](https://open.spotify.com/album/5WdK1rqJzIGuT11HRzvClm) | 3:37 |
+| 36 | [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 |
+| 37 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 |
+| 38 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 |
+| 39 | [Fractured](https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Fractured](https://open.spotify.com/album/70CjNkRxogynvPUn3pJgya) | 3:42 |
+| 40 | [Black Star](https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Project Regeneration, Vol\. 2](https://open.spotify.com/album/0vOqG6qLoZ7JPJ3vfRuajk) | 4:00 |
+| 41 | [Delusion](https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11) | [DEAR MOTHER](https://open.spotify.com/artist/1i6SXeSvmfhKqHTAxQx5rg) | [Necessary Darkness](https://open.spotify.com/album/3F9I77amZjv9FRrCBoe4zE) | 3:47 |
+| 42 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 |
+| 43 | [UNBOUND](https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9) | [Indigo Blaze](https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf), [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [UNBOUND](https://open.spotify.com/album/6yV7TTaBOu1rwivcDLVUXJ) | 3:27 |
+| 44 | [CROWNLESS](https://open.spotify.com/track/6y5zUqiBOaCurKUFiDUEvu) | [.bHP](https://open.spotify.com/artist/2bHod84ma4lUUDwiToxWEE) | [.bHP](https://open.spotify.com/album/3laPdouBLWJl03QEnPR4HB) | 3:33 |
+| 45 | [King Of The Hill](https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [King Of The Hill](https://open.spotify.com/album/3WBxnWsAsNTIePp0KSnJOi) | 3:26 |
+| 46 | [Rain Check](https://open.spotify.com/track/1esltG8upzhcpAQkhCwddG) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Rain Check](https://open.spotify.com/album/0VlmhR3IrwULQWiOJYeIoJ) | 3:31 |
+| 47 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 |
+| 48 | [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 |
+| 49 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 |
+| 50 | [Veins](https://open.spotify.com/track/1BWQNAch1SIeTWz0RLvc1O) | [Splutter](https://open.spotify.com/artist/7gLhHWy22zWmhRSbmDuPsG) | [Veins](https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1) | 3:15 |
 
 Snapshot ID: `MTcxMzQ5OTI2MCwwMDAwMDAwMGU0YTc3ZWM0ZmM3MDIxYjk0MGQ1MmE5OTdiNzhjNWY2`

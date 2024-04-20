@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 69128,
+  "2024-04-20": 69150,
   "date_first_scraped": "2022-02-17",
   "description": "Music from the early days of Ambient. ",
   "name": "Ambient 1970s",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313480,
       "name": "Ahoi",
       "url": "https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313480,
       "name": "Ahoi",
       "url": "https://open.spotify.com/track/3d1wCqEBcj5H2IgK9G3YHZ"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263362,
       "name": "An Index Of Metals V",
       "url": "https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 263362,
       "name": "An Index Of Metals V",
       "url": "https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 275560,
       "name": "Ancient Leaves",
       "url": "https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275560,
       "name": "Ancient Leaves",
       "url": "https://open.spotify.com/track/2DmQQYVJwZl9Bb83bDJIzM"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 594757,
       "name": "Blues Nile",
       "url": "https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 594757,
       "name": "Blues Nile",
       "url": "https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1394160,
       "name": "Garden Of Paradise",
       "url": "https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1394160,
       "name": "Garden Of Paradise - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 512091,
       "name": "Gloaming",
       "url": "https://open.spotify.com/track/7AZRjbDLxQQMOZFA3qI6DA"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 512092,
       "name": "Gloaming",
       "url": "https://open.spotify.com/track/56ARoXVByxL6Op5XTWa6qa"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242630,
       "name": "Ode to an African Violet",
       "url": "https://open.spotify.com/track/3XJYJVFiiC785DuFqVdhbQ"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242630,
       "name": "Ode to an African Violet",
       "url": "https://open.spotify.com/track/3Zrlem2yff4LUlcIz6TWvl"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-01",
+      "date_removed": null,
       "duration_ms": 460640,
       "name": "Oxygene, Pt. 1",
       "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 459000,
       "name": "Oxyg\u00e8ne, Pt. 1",
       "url": "https://open.spotify.com/track/1pCOM5VEp8DKmg8OYJYhHv"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 377844,
       "name": "The Heavenly Music Corporation I",
       "url": "https://open.spotify.com/track/4jtmi6X0S8GcPZv7rsqXaL"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377844,
       "name": "The Heavenly Music Corporation I",
       "url": "https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239000,
       "name": "The Walrus Hunt",
       "url": "https://open.spotify.com/track/1LKINMTUrB1iQPmf8QGctA"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241560,
       "name": "The Walrus Hunt",
       "url": "https://open.spotify.com/track/7Mk4d10rtE47X30lsdFpyT"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229861,
       "name": "Toucan Ocean",
       "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 229861,
       "name": "Toucan Ocean",
       "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232826,
       "name": "Tribal Secret",
       "url": "https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 232826,
       "name": "Tribal Secret",
       "url": "https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 329468,
       "name": "Wind On Water",
       "url": "https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329468,
       "name": "Wind On Water",
       "url": "https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "Wind On Wind",
       "url": "https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193280,
       "name": "Wind On Wind",
       "url": "https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4"

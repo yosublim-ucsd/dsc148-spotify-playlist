@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1853,
+  "2024-04-20": 1853,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
   "name": "Zack Bia's Taste",
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/67gsMz7IUC9sun9DuUqVDE"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193328,
       "name": "PGT",
       "url": "https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-02",
+      "date_removed": null,
       "duration_ms": 193328,
       "name": "PGT",
       "url": "https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs"
@@ -793,10 +793,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158728,
       "name": "Proud",
       "url": "https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt"
+    },
+    {
+      "album": {
+        "name": "proud",
+        "url": "https://open.spotify.com/album/4bjKxCXgkALEfVAJSE06OQ"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158728,
+      "name": "proud",
+      "url": "https://open.spotify.com/track/7s2LDcpMI32Dy7jqJXanIm"
     },
     {
       "album": {
@@ -854,6 +872,24 @@
     },
     {
       "album": {
+        "name": "Talk 2 Me",
+        "url": "https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
+    },
+    {
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -865,7 +901,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
@@ -989,6 +1025,24 @@
     {
       "album": {
         "name": "4NEM",
+        "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "Yes Sir",
+      "url": "https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk"
+    },
+    {
+      "album": {
+        "name": "4NEM",
         "url": "https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy"
       },
       "artists": [
@@ -1035,7 +1089,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248372,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/6Sn6WyJl9Xd2iWTfprdLCC"

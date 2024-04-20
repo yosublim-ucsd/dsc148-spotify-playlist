@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 628174,
+  "2024-04-20": 628199,
   "date_first_scraped": "2021-12-21",
   "description": "Deep House in all its shapes and colours.",
   "name": "Deep House Blend",
@@ -222,6 +222,32 @@
     },
     {
       "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/4laJoI4wRtF1SJpIR2mjrr"
+      },
+      "artists": [
+        {
+          "name": "Yannek Maunz",
+          "url": "https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj"
+        },
+        {
+          "name": "Johanson",
+          "url": "https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN"
+        },
+        {
+          "name": "Feral Garden",
+          "url": "https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343414,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/6KGCfq4NWeRuU2wnT1Cr7F"
+    },
+    {
+      "album": {
         "name": "Alone (andhim Remix)",
         "url": "https://open.spotify.com/album/5dAIxyXI3nmT0IogiHaid6"
       },
@@ -415,7 +441,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
@@ -1071,7 +1097,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 420272,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
@@ -1169,7 +1195,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 147076,
       "name": "Clifton 4th",
       "url": "https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh"
@@ -1227,7 +1253,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 214408,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
@@ -1315,7 +1341,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
@@ -1337,7 +1363,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 275369,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
@@ -1533,11 +1559,15 @@
         {
           "name": "Mollono.Bass",
           "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        },
+        {
+          "name": "India Lovis",
+          "url": "https://open.spotify.com/artist/30EFBe0hjXNdyDoUtmDV1G"
         }
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 305741,
       "name": "Dancer In The Dark",
       "url": "https://open.spotify.com/track/3pYyBOW5DEfM5CjNLknnRZ"
@@ -1907,7 +1937,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 387302,
       "name": "Diving Into Minds - Club Mix",
       "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
@@ -2083,7 +2113,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi"
@@ -2807,7 +2837,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 476000,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/7dXeRXvSYwuAtFwi2JBDXi"
@@ -3069,7 +3099,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 286423,
       "name": "I WON'T STAY",
       "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
@@ -3397,7 +3427,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
@@ -3491,7 +3521,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 420115,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/3q0bx1u5sP4KYE3XldP0PP"
@@ -3911,7 +3941,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
@@ -4071,7 +4101,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 342813,
       "name": "Malmedy",
       "url": "https://open.spotify.com/track/2tBkZtLiwS21plFaRcDrDP"
@@ -4123,7 +4153,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 465500,
       "name": "Matangi",
       "url": "https://open.spotify.com/track/07nVOOusinceXoUPH4ko89"
@@ -4225,7 +4255,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176949,
       "name": "Milkshake 20 (Alex Wann Remix)",
       "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
@@ -4597,7 +4627,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373487,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
@@ -4751,7 +4781,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
@@ -4861,7 +4891,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239925,
       "name": "Ode Ireti - Nitefreak Remix",
       "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
@@ -5211,7 +5241,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-14",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
@@ -5559,7 +5589,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 226229,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/5e5IW2XLqA67asAqMNr5Um"
@@ -5807,7 +5837,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 251520,
       "name": "Second Line",
       "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
@@ -6043,7 +6073,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
@@ -6203,7 +6233,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431419,
       "name": "Speed of Sound",
       "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
@@ -6597,7 +6627,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
@@ -7023,7 +7053,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
@@ -7195,7 +7225,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249779,
       "name": "Weightless (jamesjamesjames Remix)",
       "url": "https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC"
@@ -7265,7 +7295,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 6271,
+  "2024-04-20": 6298,
   "date_first_scraped": "2022-05-13",
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
   "name": "Latin House",
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190476,
       "name": "Asi Lo Grita",
       "url": "https://open.spotify.com/track/5eXAJrSoUOx9LfNDm2svO7"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390013,
       "name": "Baile Go",
       "url": "https://open.spotify.com/track/66sIS8GvfZxKQ2v6bNc2RY"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "Buscando Money",
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -983,6 +983,24 @@
       "duration_ms": 174000,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J"
+    },
+    {
+      "album": {
+        "name": "Coquetilla",
+        "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
+      },
+      "artists": [
+        {
+          "name": "Blue Man",
+          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129957,
+      "name": "Coquetilla",
+      "url": "https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn"
     },
     {
       "album": {
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228214,
       "name": "Ecua",
       "url": "https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 265778,
       "name": "Espantap\u00e1jaros - Captain Planet Remix",
       "url": "https://open.spotify.com/track/4m7PfIMZoBtdL4LZ0qtP8W"
@@ -1711,6 +1729,28 @@
       "duration_ms": 166620,
       "name": "Everybody Salsa - Andruss Remix",
       "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+    },
+    {
+      "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/58BgCwpp9EDYVOzQw9jODk"
+      },
+      "artists": [
+        {
+          "name": "Krexxton",
+          "url": "https://open.spotify.com/artist/7iccXT3ByPJNIjHe3nwXir"
+        },
+        {
+          "name": "MAR\u00cdARROSA",
+          "url": "https://open.spotify.com/artist/6kaJ3A4a3SjwyBSzPPuYEm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/5t1fv5EJKjmuqfiI7zpeNn"
     },
     {
       "album": {
@@ -2031,7 +2071,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "HAVANA",
       "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
@@ -2093,7 +2133,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
@@ -2223,7 +2263,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192230,
       "name": "La Gente",
       "url": "https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2"
@@ -2509,7 +2549,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 201720,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM"
@@ -2567,7 +2607,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183875,
       "name": "Locco",
       "url": "https://open.spotify.com/track/2axewNoOiyGrtELfrTHv9r"
@@ -2813,7 +2853,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195952,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
@@ -2875,7 +2915,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "Morena",
       "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
@@ -3186,6 +3226,24 @@
     },
     {
       "album": {
+        "name": "Salzzati",
+        "url": "https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw"
+      },
+      "artists": [
+        {
+          "name": "Bruno Bona",
+          "url": "https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316757,
+      "name": "Periquito",
+      "url": "https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn"
+    },
+    {
+      "album": {
         "name": "Piano de la Selva",
         "url": "https://open.spotify.com/album/3eeNuUpzHKLg0rTSTcMh0D"
       },
@@ -3481,7 +3539,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183810,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
@@ -3575,7 +3633,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198320,
       "name": "Sarava",
       "url": "https://open.spotify.com/track/0bszKc6KnjdZxtLjUMFs52"
@@ -3839,7 +3897,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173760,
       "name": "Tambor",
       "url": "https://open.spotify.com/track/6qnFcaCqGR8ZQy3s0o4Ebm"
@@ -3886,6 +3944,24 @@
     },
     {
       "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/2Hy9l4nv7LKZaEIwKwjsby"
+      },
+      "artists": [
+        {
+          "name": "Ollie BC",
+          "url": "https://open.spotify.com/artist/7crjp3htKFvWTqzRjdnjmQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv"
+    },
+    {
+      "album": {
         "name": "Tikitro",
         "url": "https://open.spotify.com/album/5urqD5lw9nAIFh5QQDWECs"
       },
@@ -3923,7 +3999,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190393,
       "name": "Tocate",
       "url": "https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy"
@@ -4187,7 +4263,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"

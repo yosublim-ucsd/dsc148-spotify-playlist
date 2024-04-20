@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 694420,
+  "2024-04-20": 694330,
   "date_first_scraped": "2021-12-21",
   "description": "Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.",
   "name": "This Is Beethoven",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340960,
       "name": "2 Rondos, Op. 51: Rondo in C Major, Op. 51, No. 1",
       "url": "https://open.spotify.com/track/2twAG1D9XkF8NJg3N79Ay8"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 457533,
       "name": "Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 - II. Adagio un poco mosso",
       "url": "https://open.spotify.com/track/1tI5Tzj3l9aEgmuFemCXyH"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373665,
       "name": "Beethoven: Rage Over A Lost Penny, Op. 129",
       "url": "https://open.spotify.com/track/2YFuTzAr02YYroPwI6vTi1"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1248040,
       "name": "Cello Sonata in G Minor, Op. 5 No. 2: I. Adagio sostenuto e espressivo - Allegro molto pi\u00f9 tosto presto",
       "url": "https://open.spotify.com/track/5UjbsPgFS4NboqCuEmQIE8"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1248040,
       "name": "Cello Sonata in G Minor, Op. 5 No. 2: I. Adagio sostenuto e espressivo - Allegro molto pi\u00f9 tosto presto",
       "url": "https://open.spotify.com/track/6Q11it7GH2FsBQ4v8Xsy2M"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 540813,
       "name": "Egmont, Op. 84: Overture",
       "url": "https://open.spotify.com/track/2cN3DKBEAq7MAc6aUElXVJ"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 540813,
       "name": "Egmont, Op. 84: Overture",
       "url": "https://open.spotify.com/track/6MWFPcXCZNSxDM49mUhlKR"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383840,
       "name": "Fidelio, Op. 72: Overture",
       "url": "https://open.spotify.com/track/3IjkKx4Jcun93Iw5dpKFUC"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 384120,
       "name": "Fidelio, Op. 72: Overture",
       "url": "https://open.spotify.com/track/6Nd1boj38nQIh6QlUAT2sI"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 363000,
       "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: III. Rondo. Molto allegro",
       "url": "https://open.spotify.com/track/6kXUHNWBrQ2Nhuh6nDkEp6"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363000,
       "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: III. Rondo: Molto allegro",
       "url": "https://open.spotify.com/track/2lYWgS1Qk3cgfdK2DD5Apr"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1147000,
       "name": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato",
       "url": "https://open.spotify.com/track/5g9f8tdbqs0yesSoHeFo62"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1147000,
       "name": "Piano Concerto No. 4 in G Major, Op. 58: I. Allegro moderato",
       "url": "https://open.spotify.com/track/626IyHboCqGtygvuS9ceyW"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321253,
       "name": "Piano Concerto No. 4 in G Major, Op. 58: II. Andante con moto",
       "url": "https://open.spotify.com/track/5e131xp60LgOBBfZ53gNc2"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 321253,
       "name": "Piano concerto No. 4 in G Major, Op. 58: II. Andante con moto",
       "url": "https://open.spotify.com/track/7KjV4AO7IocLtgKEjojyvx"
@@ -1530,6 +1530,36 @@
     },
     {
       "album": {
+        "name": "Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
+        "url": "https://open.spotify.com/album/6stW3WOaUyEQDSzF1XI9gj"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457533,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73: 2. Adagio un poco mosso",
+      "url": "https://open.spotify.com/track/6iqZ4Wv7OQbT18Mi31eI7w"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Concertos 1-5",
         "url": "https://open.spotify.com/album/4iLhGksq5xF6gKVuIeARFy"
       },
@@ -1560,36 +1590,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": II. Adagio un poco mosso",
-        "url": "https://open.spotify.com/album/6stW3WOaUyEQDSzF1XI9gj"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
-      "duration_ms": 457533,
-      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73: II. Adagio un poco mosso",
-      "url": "https://open.spotify.com/track/6iqZ4Wv7OQbT18Mi31eI7w"
-    },
-    {
-      "album": {
         "name": "Famous Composers: Beethoven",
         "url": "https://open.spotify.com/album/2nvWBRVKX7WV5yooKV593o"
       },
@@ -1612,6 +1612,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
+        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397773,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A"
+    },
+    {
+      "album": {
         "name": "Beethoven: The Piano Sonatas",
         "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
       },
@@ -1627,10 +1649,32 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403333,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/630zE7N1xPxdK2Zz4S3rPA"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
+        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132693,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": II. Allegretto",
+      "url": "https://open.spotify.com/track/2fMWJcBQQY5dZK7F9thrVC"
     },
     {
       "album": {
@@ -1671,7 +1715,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132933,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": II. Allegretto",
       "url": "https://open.spotify.com/track/7lo7NTRhtbbiwKODiMRsR7"
@@ -1693,7 +1737,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 461400,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
       "url": "https://open.spotify.com/track/2OQzVmgl8WoNEYDdOLSEOf"
@@ -1722,6 +1766,28 @@
     },
     {
       "album": {
+        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
+        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462533,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
+      "url": "https://open.spotify.com/track/1SryZ16iuLbxe6Nv58VgVG"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonatas Nos. 17, 21, and 26",
         "url": "https://open.spotify.com/album/3drlZGupiEWqp0XUBdjSG4"
       },
@@ -1737,7 +1803,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 375560,
       "name": "Piano Sonata No. 17 in D Minor, Op. 31, No. 2, \"Tempest\": III. Allegretto",
       "url": "https://open.spotify.com/track/5J4N8WUsSAPiptMJkh61gp"
@@ -1759,7 +1825,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375560,
       "name": "Piano Sonata No. 17 in D Minor, Op. 31, No. 2, \"Tempest\": III. Allegretto",
       "url": "https://open.spotify.com/track/5tW5kc7yTNjw3HdygD2AWW"
@@ -1781,7 +1847,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 576066,
       "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai",
       "url": "https://open.spotify.com/track/00yYXbhTp3OxFVyitVc68f"
@@ -1803,7 +1869,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 576066,
       "name": "Piano Sonata No. 23 in F Minor, Op. 57 \"Appassionata\": I. Allegro assai",
       "url": "https://open.spotify.com/track/14WjblUmCMjojNBGlvTUKX"
@@ -1935,7 +2001,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361240,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: Vivace, ma non troppo - Adagio espressivo - Prestissimo",
       "url": "https://open.spotify.com/track/3NaaA3POD2SYaDNTnjYyFb"
@@ -1957,7 +2023,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 361240,
       "name": "Piano Sonata No. 30 in E Major, Op. 109: Vivace, ma non troppo - Adagio espressivo - Prestissimo",
       "url": "https://open.spotify.com/track/5JOqO9qTuQo6zQRy9RkMlv"
@@ -2027,72 +2093,6 @@
       "duration_ms": 265640,
       "name": "Piano Sonata No. 8 In C Minor, Op. 13 -\"Path\u00e9tique\": 3. Rondo (Allegro) - Live",
       "url": "https://open.spotify.com/track/4Cfc0OGMViDPGspOK3zogx"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
-        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 397773,
-      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
-      "url": "https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
-        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 132693,
-      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": II. Allegretto",
-      "url": "https://open.spotify.com/track/2fMWJcBQQY5dZK7F9thrVC"
-    },
-    {
-      "album": {
-        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
-        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 462533,
-      "name": "Piano Sonata No.14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
-      "url": "https://open.spotify.com/track/1SryZ16iuLbxe6Nv58VgVG"
     },
     {
       "album": {
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 373665,
       "name": "Rage Over A Lost Penny, Op. 129",
       "url": "https://open.spotify.com/track/3QnU25Zw23qOUugdtTWgsY"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340960,
       "name": "Rondo in C Major, Op. 51, No. 1",
       "url": "https://open.spotify.com/track/3Q7ugGdmbwgzlyAJqsXdux"
@@ -2465,7 +2465,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 584295,
       "name": "Sonata For Violin And Piano No.5 In F, Op.24 - \"Spring\": 1. Allegro",
       "url": "https://open.spotify.com/track/6QzTQbDkDz6eG4GTFIo4KD"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 521986,
       "name": "String Quartet No. 12 in E-Flat Major, Op. 127: III. Scherzando vivace",
       "url": "https://open.spotify.com/track/2JWcCQfJU7WNbWv95AOFNX"
@@ -2531,7 +2531,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 521986,
       "name": "String Quartet No. 12 in E-Flat Major, Op. 127: III. Scherzando vivace",
       "url": "https://open.spotify.com/track/5JiHlQRtDDmE6r6pGPOsbF"
@@ -2575,7 +2575,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123773,
       "name": "String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto",
       "url": "https://open.spotify.com/track/2KyP3cnZ4ZWuLY11rfbAAs"
@@ -2597,7 +2597,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123773,
       "name": "String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto",
       "url": "https://open.spotify.com/track/2ZjhhB3kZP6Zufmjuv2TWC"
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 955575,
       "name": "String Quartet No. 15 in A Minor, Op. 132: III. Molto adagio",
       "url": "https://open.spotify.com/track/29zyFqKZKjQyggUXDzA2Ov"
@@ -2663,7 +2663,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 955575,
       "name": "String Quartet No. 15 in A Minor, Op. 132: III. Molto adagio",
       "url": "https://open.spotify.com/track/4L3fzc3JVxxGQYMMqQEs1T"
@@ -2729,7 +2729,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265026,
       "name": "String Quartet No. 4 in C Minor, Op. 18 No. 4: IV. Allegretto - Prestissimo",
       "url": "https://open.spotify.com/track/1mh4fiGXjpCKjNQlzqRctw"
@@ -2751,7 +2751,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265026,
       "name": "String Quartet No. 4 in C Minor, Op. 18, No. 4: IV. Allegro",
       "url": "https://open.spotify.com/track/7D4RFaf0BEiXAK5pTNmhfh"
@@ -2803,7 +2803,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 412373,
       "name": "String Trio in G Major, Op. 9, No. 1: II. Adagio, ma non tanto, e cantabile",
       "url": "https://open.spotify.com/track/0WfBNpCVhhhcz4iYAHZlnD"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 412373,
       "name": "String Trio in G Major, Op. 9, No. 1: II. Adagio, ma non tanto, e cantabile",
       "url": "https://open.spotify.com/track/2CtvwBpTeygNT6krWxkSpC"
@@ -2841,7 +2841,7 @@
     {
       "album": {
         "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+        "url": "https://open.spotify.com/album/0PAk3K7qPNlaUHemxJvSst"
       },
       "artists": [
         {
@@ -2857,12 +2857,12 @@
           "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "date_added": "2022-07-22",
+      "date_added": "2021-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 695893,
       "name": "Symphony No. 2 in D Major, Op. 36: I. Adagio molto - Allegro con brio",
-      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
+      "url": "https://open.spotify.com/track/6CYcGn9ovbglDC9FwLX2VF"
     },
     {
       "album": {
@@ -2885,7 +2885,59 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 695893,
+      "name": "Symphony No. 2 in D Major, Op. 36: I. Adagio molto - Allegro con brio",
+      "url": "https://open.spotify.com/track/7uzXSsbbOJjGeRQ3cCKi4z"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/0PAk3K7qPNlaUHemxJvSst"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 553546,
+      "name": "Symphony No. 2 in D Major, Op. 36: II. Larghetto",
+      "url": "https://open.spotify.com/track/2nSFJWthPNzDgQtxwXy4Sb"
+    },
+    {
+      "album": {
+        "name": "Beethoven: The Symphonies",
+        "url": "https://open.spotify.com/album/1rhH8zUG5xka0e3ETED4hP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 553546,
       "name": "Symphony No. 2 in D Major, Op. 36: II. Larghetto",
       "url": "https://open.spotify.com/track/6NXGfvlzfwoO44etLpbuAf"
@@ -2918,32 +2970,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/0PAk3K7qPNlaUHemxJvSst"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 695893,
-      "name": "Symphony No. 2 in D, Op. 36: 1. Adagio molto - Allegro con brio",
-      "url": "https://open.spotify.com/track/6CYcGn9ovbglDC9FwLX2VF"
-    },
-    {
-      "album": {
         "name": "Beethoven: Symphonies Nos. 3 & 8",
         "url": "https://open.spotify.com/album/4HLl7EUm9DX3QzxVIv3SEn"
       },
@@ -2963,7 +2989,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353106,
       "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
       "url": "https://open.spotify.com/track/04oC1CD0QDhTddFXd81HkB"
@@ -2989,7 +3015,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 353133,
       "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
       "url": "https://open.spotify.com/track/0Ut50NfW3aDlZTDZtjt0mY"
@@ -3111,7 +3137,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
@@ -3137,7 +3163,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 442000,
       "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
       "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
@@ -3189,7 +3215,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309466,
       "name": "Symphony No. 5 in C Minor, Op. 67: III. Allegro",
       "url": "https://open.spotify.com/track/5l4gqZGDx5epelGEzExs4S"
@@ -3215,7 +3241,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 309466,
       "name": "Symphony No. 5 in C Minor, Op. 67: III. Allegro",
       "url": "https://open.spotify.com/track/7ojkji0OYCOpl3UMy92gEf"
@@ -3289,7 +3315,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 492093,
       "name": "Symphony No. 7 in A Major, Op. 92: II. Allegretto",
       "url": "https://open.spotify.com/track/7rNqzJyixZm8V5RO1NQnRd"
@@ -3307,7 +3333,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 492093,
       "name": "Symphony No. 7 in A major, Op. 92: II. Allegretto",
       "url": "https://open.spotify.com/track/65hj3rUPw4yC3keFjvtCo1"
@@ -3333,7 +3359,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 530293,
       "name": "Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",
       "url": "https://open.spotify.com/track/0LFjvtI8eJAUkzGIo8OMPA"
@@ -3359,7 +3385,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 530293,
       "name": "Symphony No. 7 in A Major, Op. 92: IV. Allegro con brio",
       "url": "https://open.spotify.com/track/0kG3Q9OBWHXVsI1X9z9Ol8"
@@ -3496,32 +3522,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: The Symphonies",
-        "url": "https://open.spotify.com/album/0PAk3K7qPNlaUHemxJvSst"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 553546,
-      "name": "Symphony No.2 in D, Op.36: 2. Larghetto",
-      "url": "https://open.spotify.com/track/2nSFJWthPNzDgQtxwXy4Sb"
-    },
-    {
-      "album": {
         "name": "Beethoven: Triple Concerto & Symphony No. 7 (Live)",
         "url": "https://open.spotify.com/album/4bK6SxJ5LuL8qTIT7LDPrE"
       },
@@ -3613,7 +3613,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1527680,
       "name": "Violin Concerto In D, Op. 61: 1. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/1btQUVMuLy6Sw4ysYHAOlY"
@@ -3681,7 +3681,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1527680,
       "name": "Violin Concerto In D, Op. 61: 1. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/66Mh6IWPI02pYBS91bYGdH"
@@ -3779,7 +3779,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 619386,
       "name": "Violin Concerto In D, Op. 61: 3. Rondo (Allegro)",
       "url": "https://open.spotify.com/track/66hvITACAbv34aYv8ZcxYp"
@@ -3813,10 +3813,40 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 620266,
       "name": "Violin Concerto In D, Op. 61: 3. Rondo (Allegro)",
       "url": "https://open.spotify.com/track/6xUVkfF78q62KdZTLrMxDN"
+    },
+    {
+      "album": {
+        "name": "Sibelius: Violin Concerto In D Minor, Op.47 / Beethoven: Violin Romance No.1 In G Major / Brahms: Violin Concerto In D, Op.77 (The Originals)",
+        "url": "https://open.spotify.com/album/5NiRPUBfIRVKGdiCnhAtdp"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393253,
+      "name": "Violin Romance No. 1 In G Major, Op. 40",
+      "url": "https://open.spotify.com/track/2S3qN8s6dS8QR5PthnqI2P"
     },
     {
       "album": {
@@ -3843,7 +3873,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393333,
       "name": "Violin Romance No. 1 In G Major, Op. 40",
       "url": "https://open.spotify.com/track/0T7K3VnOeKjrJeisfJZLra"
@@ -3910,36 +3940,6 @@
     },
     {
       "album": {
-        "name": "Sibelius: Violin Concerto In D Minor, Op.47 / Beethoven: Violin Romance No.1 In G Major / Brahms: Violin Concerto In D, Op.77 (The Originals)",
-        "url": "https://open.spotify.com/album/5NiRPUBfIRVKGdiCnhAtdp"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 393253,
-      "name": "Violin Romance No.1 In G Major, Op.40",
-      "url": "https://open.spotify.com/track/2S3qN8s6dS8QR5PthnqI2P"
-    },
-    {
-      "album": {
         "name": "Beethoven: Violin Sonatas Nos.4 & 5 \"Spring\"",
         "url": "https://open.spotify.com/album/7reZAOexZqvIfjeAdIWq3i"
       },
@@ -3959,7 +3959,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 580826,
       "name": "Violin Sonata No. 5 in F Major, Op. 24 \"Spring\": I. Allegro",
       "url": "https://open.spotify.com/track/298QgpoW98lsDj7IK5ShHc"
@@ -4011,7 +4011,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 386706,
       "name": "Violin Sonata No. 9 in A Major, Op. 47 \"Kreutzer\": III. Finale. Presto",
       "url": "https://open.spotify.com/track/2QYyAimPPFvDGxGA5LBgki"
@@ -4037,7 +4037,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 386706,
       "name": "Violin Sonata No. 9 in A Major, Op. 47, \"Kreutzer\": III. Finale: Presto",
       "url": "https://open.spotify.com/track/5vcgwdmEmxsKETHQePWGGy"

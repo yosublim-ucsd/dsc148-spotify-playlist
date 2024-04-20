@@ -1,6 +1,6 @@
 {
   "description": "C\u00e1rgate de energia con el eclipse solar ",
-  "num_followers": 25826,
+  "num_followers": 25866,
   "original_name": "Eclipse Solar ",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "added_at": "2024-03-27 21:09:50",
+      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 205573,
       "name": "Quiero Ver",
       "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
-    },
-    {
-      "added_at": "2024-03-27 21:09:50",
-      "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 314173,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
     },
     {
       "added_at": "2024-03-27 21:09:50",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-03-27 21:09:50",
       "album": {
-        "name": "Eat, Pray, Love",
-        "url": "https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1"
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
+      "duration_ms": 271400,
+      "name": "Perd\u00ed Mi Ojo de Venado",
+      "url": "https://open.spotify.com/track/4YKBYzHTtBZA2P12N5VomO"
     }
   ],
   "unique_name": "Eclipse Solar ",

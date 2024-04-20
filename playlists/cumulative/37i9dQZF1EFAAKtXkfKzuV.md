@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-66 songs - 3 hr 5 min
+67 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Versprich mir du gehst](https://open.spotify.com/track/1nIfneoBS1iYRcdWPYqgq4) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Versprich mir du gehst](https://open.spotify.com/album/0pK7yVTUsuHjDWV9BGw8nm) | 2:58 | 2024-01-27 | 2024-01-29 |
 | [Versprich mir du gehst](https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:58 | 2024-01-28 |  |
 | [Was weiß ich schon](https://open.spotify.com/track/0EwlWEJ8TkA8UUTOmrsyiM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 2:34 | 2024-03-11 |  |
+| [Was zu verlieren](https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:28 | 2024-04-19 |  |
 | [We're Done](https://open.spotify.com/track/1ZmP8k7gRkFnHU5WT5f3qm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Zoe Maxwell](https://open.spotify.com/artist/642AbhxMV1HpvwV4kMAFmw) | [We're Done](https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u) | 2:59 | 2023-06-29 |  |
 | [Wenn mein Herz wieder bricht](https://open.spotify.com/track/2JCNmjkXZ9XZaGYGy15QOL) | [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Wenn mein Herz wieder bricht](https://open.spotify.com/album/4Fq0A9Ayu7gKZaPsghKFw4) | 3:14 | 2023-06-29 |  |
 | [When I Wake Up](https://open.spotify.com/track/6URUyQLdPdKgCySVgryLpH) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 2:54 | 2023-06-29 |  |

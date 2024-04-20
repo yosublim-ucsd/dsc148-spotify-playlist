@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Trueno & Nicky Jam
 
-6,731 songs - 14 day 17 hr 36 min
+6,734 songs - 14 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 | 2022-10-07 | 2022-10-15 |
 | [7 Letras](https://open.spotify.com/track/4IG95yfRQZhTxfFtHzCEji) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Así Me Siento Hoy](https://open.spotify.com/album/0kefZe88v1Muy6YFe0adCe) | 2:53 | 2022-05-27 | 2022-06-04 |
 | [7 Meses](https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [7 Meses](https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR) | 2:55 | 2024-03-15 | 2024-03-23 |
+| [7 Vidas](https://open.spotify.com/track/4ieFblgI29t6eFCxuZH6Dp) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [7 Vidas](https://open.spotify.com/album/7acoLTImpkXhfwCAUDdWbh) | 3:14 | 2024-04-19 |  |
 | [700 Días](https://open.spotify.com/track/5H4uu49Rvh8TL9WkF0AULI) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [700 Días](https://open.spotify.com/album/12nVcYLWZyQ6ML9r3C3eHR) | 3:08 | 2022-06-10 | 2022-06-18 |
 | [700 Flores](https://open.spotify.com/track/4cLzgYIgW8Lqad7ipDxSU0) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [700 Flores](https://open.spotify.com/album/0FJkaoCs5S50aMPpIDo7Id) | 2:22 | 2024-02-09 | 2024-02-17 |
 | [7000 Km a Madrid](https://open.spotify.com/track/2WYb5Hm2CZhfGtmlY25jPP) | [El Yonka](https://open.spotify.com/artist/5wyypFnWe76Vw0S6dRPnP6), [Reynier Mariño](https://open.spotify.com/artist/5iT0SEiYDqj8U84sGZjgGF) | [7000 Km a Madrid](https://open.spotify.com/album/7Bej6MPEczLrhaYc9Pw16p) | 3:18 | 2023-04-07 | 2023-04-15 |
@@ -5609,6 +5610,7 @@
 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 | 2023-02-24 | 2023-03-04 |
 | [Smash Hits Sessions: Fireball](https://open.spotify.com/track/2mmD0fM1PxfD1QzDIewCmg) | [Smash Hits](https://open.spotify.com/artist/5WPggSPnnyS5quU7qUJKyB), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Smash Hits Sessions: Fireball](https://open.spotify.com/album/0I5srpDKbWYGlvyKP6Jf55) | 2:34 | 2023-07-28 | 2023-08-05 |
 | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/track/4pj68dTcvGVXgzD7qWAGEd) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [SMP \(Sol, Mar y Playa\) \(with Farruko & Wisin\)](https://open.spotify.com/album/7eoNzwrC6Hs8kYNSgAQEkE) | 4:33 | 2022-04-01 | 2022-04-09 |
+| [So High](https://open.spotify.com/track/1QrBIMTIramCrU6B1v2DPr) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [So High](https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw) | 2:46 | 2024-04-19 |  |
 | [Sober](https://open.spotify.com/track/3VNAXsDEg5UfFVaacClbAZ) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [2016](https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL) | 3:42 | 2024-03-29 | 2024-04-06 |
 | [Sobran Motivos](https://open.spotify.com/track/3VjnYQbAVQLXbiR9gf1qnD) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Sobran Motivos](https://open.spotify.com/album/1XBhgrD9hTQXz53QxkwQxh) | 4:00 | 2022-06-17 | 2022-06-25 |
 | [Sobrenatural](https://open.spotify.com/track/3Y1qpzuVijchoFsnsoXEah) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Sobrenatural](https://open.spotify.com/album/6OwLG0sDsLlruI8JToGkew) | 3:09 | 2022-01-21 | 2022-01-29 |
@@ -6014,6 +6016,7 @@
 | [tiroteAo](https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [tiroteAo](https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh) | 2:33 | 2023-12-08 | 2023-12-16 |
 | [TKILA](https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [TKILA](https://open.spotify.com/album/2SvKuNmLXp4a9zt2BpCf5h) | 2:36 | 2024-01-19 | 2024-01-27 |
 | [TNT](https://open.spotify.com/track/333ABrYFF167f1S7UysiO3) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV), [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [TNT](https://open.spotify.com/album/0zcLHwrA7kV75InWNx0pS9) | 2:53 | 2022-12-02 | 2022-12-10 |
+| [To The Beat](https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [To The Beat](https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au) | 2:32 | 2024-04-19 |  |
 | [TO' ESTO ES TUYO](https://open.spotify.com/track/3sFGJUJ4Dk8WYsahfZaPgM) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [TO' ESTO ES TUYO](https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn) | 3:13 | 2022-12-09 | 2022-12-17 |
 | [To' Los Dias](https://open.spotify.com/track/245z8vpBHuubYEDUvz8gON) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [To' Los Dias](https://open.spotify.com/album/6UB2jNqiQ4ns5zt9XsHdhO) | 3:22 | 2023-02-10 | 2023-02-18 |
 | [To' Los Días](https://open.spotify.com/track/1wqdPAMMCgkjapI6YEsL0P) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [To' Los Días](https://open.spotify.com/album/0vWxSxlOr4gstpjfDXp6DI) | 3:38 | 2022-05-13 | 2022-05-20 |

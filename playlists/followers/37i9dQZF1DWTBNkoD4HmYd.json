@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 388454,
+  "2024-04-20": 388480,
   "date_first_scraped": "2021-12-21",
   "description": "A selection of highlights from Vivaldi's celebrated concertos and choral works, proving there's way more to this red-headed baroque legend than just The Four Seasons.",
   "name": "This Is Vivaldi",
@@ -29,7 +29,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212853,
       "name": "Bassoon Concerto in C Major, RV 473: I. Allegro",
       "url": "https://open.spotify.com/track/03iqXyCD2DEzdo6M6rAky7"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212853,
       "name": "Bassoon Concerto in C Major, RV 473: I. Allegro",
       "url": "https://open.spotify.com/track/63fLm1fW6spUdRgF6jqpBK"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172160,
       "name": "Bassoon Concerto in C Major, RV 474: I. Allegro",
       "url": "https://open.spotify.com/track/0B1ZXsZZB5qSOIex3VARnw"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172160,
       "name": "Bassoon Concerto in C Major, RV 474: I. Allegro",
       "url": "https://open.spotify.com/track/5x6conkFofQWv2kKwYwcGF"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231546,
       "name": "Bassoon Concerto in F Major, RV 485: I. Allegro",
       "url": "https://open.spotify.com/track/6gM1DA8Cr34Dcp5H3mPf6O"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231546,
       "name": "Bassoon Concerto in F Major, RV 485: I. Allegro",
       "url": "https://open.spotify.com/track/78HVMjnGsAudX4kIA7wilL"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197093,
       "name": "Cello Concerto in B-Flat Major, RV 423: I. Allegro",
       "url": "https://open.spotify.com/track/2o3QK3FLkD4CVn0xvj9Xj7"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197093,
       "name": "Cello Concerto in B-Flat Major, RV 423: I. Allegro",
       "url": "https://open.spotify.com/track/5YcJofCVD4Umqiqp2KiNDF"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202866,
       "name": "Cello Concerto in D Minor, RV 407: I. Allegro",
       "url": "https://open.spotify.com/track/0JNDWe6fCiTL6N0CotmdCe"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202866,
       "name": "Cello Concerto in D Minor, RV 407: I. Allegro",
       "url": "https://open.spotify.com/track/2h012RNvxEE5mqeKUKfIi7"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188266,
       "name": "Cello Concerto in G Minor, RV 416: III. Allegro",
       "url": "https://open.spotify.com/track/5gSZ1yErjxw3Rp0gUupU2U"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188266,
       "name": "Cello Concerto in G Minor, RV 416: III. Allegro",
       "url": "https://open.spotify.com/track/7EXJrZRm1oDPCjCVp0kqcy"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230986,
       "name": "Chamber Concerto in D Major, RV 95, \"La pastorella\" (arr. for recorder and orchestra): II. Largo",
       "url": "https://open.spotify.com/track/5TWP2c4dIxJjej8MHr4OZY"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230986,
       "name": "Chamber Concerto in D Major, RV 95, \"La pastorella\": II. Largo (Arr. For recorder and orchestra)",
       "url": "https://open.spotify.com/track/0O2ewkadecJRbns5UYu0RS"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "Concerto for 2 Violins in A Minor, RV 523: I. Allegro molto",
       "url": "https://open.spotify.com/track/19A8C6U7ulm8Oc0WQaajWp"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244600,
       "name": "Concerto for 2 Violins in A Minor, RV 523: I. Allegro molto",
       "url": "https://open.spotify.com/track/7HYpAkbObRWUmvp754VZCH"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181066,
       "name": "Concerto For 4 Violins In D Major, Op. 3, No. 1, RV 549: I. Allegro",
       "url": "https://open.spotify.com/track/6Vbrz1HNZy79M8YXoC6MRT"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Concerto for 4 Violins in D Major, Op. 3, No. 1, RV 549: I. Allegro",
       "url": "https://open.spotify.com/track/2laDCLfjMm8zT5aGRwamJW"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 1. (Allegro giusto)",
       "url": "https://open.spotify.com/track/19uZ9EujStZLHD19ORTlRq"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231533,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 1. (Allegro giusto)",
       "url": "https://open.spotify.com/track/3IBo6REkZpvZsUTYZbd9Or"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308426,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/42LRjYQYJeogQINxQo0BcJ"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147600,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/3Htqdp3sfxvPoNx7aDwflH"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152733,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 3. Allegro",
       "url": "https://open.spotify.com/track/4ATrXpJdnYW2eOeeYdXMVG"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202960,
       "name": "Concerto for Oboe and Bassoon in G Major, RV 545: I. Andante molto",
       "url": "https://open.spotify.com/track/0COiTzBMUkI3PhgcbEFgli"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202960,
       "name": "Concerto for Oboe and Bassoon in G Major, RV 545: I. Andante molto",
       "url": "https://open.spotify.com/track/2AEMImKfQhUelMIpFKCGpl"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143000,
       "name": "Concerto for Recorder, Oboe and 2 Violins in C Major, RV 87: III. Allegro assai",
       "url": "https://open.spotify.com/track/4pYCd97GgGccI8o90t8Wbv"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Concerto for Recorder, Oboe and 2 Violins in C Major, RV 87: III. Allegro assai",
       "url": "https://open.spotify.com/track/5sPZReD8VztfqAGJlhGY1N"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 98600,
       "name": "Concerto for Strings in A Minor, RV 161: I. Allegro",
       "url": "https://open.spotify.com/track/3DPMLNS1sTGikj4I0su7rP"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 98600,
       "name": "Concerto for Strings in A Minor, RV 161: I. Allegro",
       "url": "https://open.spotify.com/track/6tcTKTzid5MnguRqMXfmpq"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 79840,
       "name": "Concerto for Strings in G Major, RV 151, \"Alla Rustica\": I. Presto",
       "url": "https://open.spotify.com/track/5cM8gFBSjkCm4INulurbuM"
@@ -1547,7 +1547,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 79840,
       "name": "Concerto for Strings in G Major, RV 151, \"Alla Rustica\": I. Presto",
       "url": "https://open.spotify.com/track/7HB1REjjalFLSXgXlAAwFs"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264200,
       "name": "Concerto Grosso In G Minor, Op. 3, No. 2, RV 578: I. Adagio E Spiccato - Allegro",
       "url": "https://open.spotify.com/track/5VNlUlsA6yZLzDzEctTkst"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264200,
       "name": "Concerto Grosso in G Minor, Op. 3, No. 2, RV 578: I. Adagio e spiccato - Allegro",
       "url": "https://open.spotify.com/track/5f9KHFwZBbnkWoHNnUXVuu"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267613,
       "name": "Concerto In D Major For 2 Violins, Strings & Continuo, RV 511: 2. Largo",
       "url": "https://open.spotify.com/track/1bzZ07QjPJoXsjdinN8jfj"
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267613,
       "name": "Concerto In D Major For 2 Violins, Strings & Continuo, RV 511: 2. Largo",
       "url": "https://open.spotify.com/track/1ynk38YsWYdO3RdPpJmqo2"
@@ -1895,7 +1895,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196866,
       "name": "Concerto in D Major, RV 90, \"Il gardellino\": II. Largo",
       "url": "https://open.spotify.com/track/3DnmqUMWbCaXv8qm315ZcM"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Concerto in D Major, RV 90, \"Il gardellino\": II. Largo",
       "url": "https://open.spotify.com/track/7K0vkQVlZOytCDf6OkABg4"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105530,
       "name": "Concerto in G Minor, RV 157: I. Allegro",
       "url": "https://open.spotify.com/track/2WdIitSFbB7Er3y5PPh9xf"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 105530,
       "name": "Concerto in G Minor, RV 157: I. Allegro",
       "url": "https://open.spotify.com/track/6zYMmgMN98HRTlkFTXNb2p"
@@ -2051,7 +2051,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 69800,
       "name": "Flute Concerto In G Minor, Op.10, No.2, RV439 - \"La notte\": 3. Largo",
       "url": "https://open.spotify.com/track/1oVwU8KczhTe0JBMcQG4x3"
@@ -2207,7 +2207,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69800,
       "name": "Flute Concerto In G Minor, Op.10, No.2, RV439 - \"La notte\": 3. Largo",
       "url": "https://open.spotify.com/track/7e3nqbNF7GjmUTspupRx4o"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167093,
       "name": "Laudate pueri Dominum, RV 600: Sit nomen Domini benedictum",
       "url": "https://open.spotify.com/track/51rCaDuahvdcUWzHPTbARj"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167093,
       "name": "Laudate pueri Dominum, RV 600: Sit nomen Domini benedictum",
       "url": "https://open.spotify.com/track/5bk3tZuNVfH6kdfMSuuvbE"
@@ -2453,7 +2453,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169880,
       "name": "Nisi Dominus aedificaverit domum",
       "url": "https://open.spotify.com/track/5lTZgMZobfxCHv8X3RnpIB"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169880,
       "name": "Nisi Dominus, RV 608: Nisi Dominus aedificaverit domum",
       "url": "https://open.spotify.com/track/3tGAemu93uRU1vwblakvYU"
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123106,
       "name": "Oboe Concerto in C Major, RV 452: II. Adagio",
       "url": "https://open.spotify.com/track/0ON7LeIWChOhxhMHZY4qLZ"
@@ -2649,7 +2649,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123106,
       "name": "Oboe Concerto in C Major, RV 452: II. Adagio",
       "url": "https://open.spotify.com/track/6POfrpc0tv287bg8lpfsRs"
@@ -2721,7 +2721,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172560,
       "name": "Oboe Concerto in D Minor, Op. 8 No. 9, RV 454: I. Allegro",
       "url": "https://open.spotify.com/track/3GhfAfbNiJFMOXszHkDNaE"
@@ -2759,7 +2759,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172560,
       "name": "Oboe Concerto in D Minor, Op. 8, No. 9, RV 454: I. Allegro",
       "url": "https://open.spotify.com/track/1a16xRnwulLs4VuaeOQejg"
@@ -2789,10 +2789,40 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151506,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
       "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2021-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "album": {
@@ -2849,7 +2879,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184893,
       "name": "Sonata No. 4 in A Major, Op. 13, RV 59, \"Il pastor fido\": II. Allegro ma non presto",
       "url": "https://open.spotify.com/track/0GqkdKlkJnlBvXskIA5WXu"
@@ -2879,7 +2909,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184893,
       "name": "Sonata No. 4 in A Major, Op. 13, RV 59, \"Il pastor fido\": II. Allegro ma non presto",
       "url": "https://open.spotify.com/track/6F44R6JFGTn10ghD7ITrSO"
@@ -2939,7 +2969,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 81120,
       "name": "Sonata No. 6 in G Minor, Op. 13, RV 58, \"Il pastor fido\": III. Largo",
       "url": "https://open.spotify.com/track/39cRm00OAb9Zka4zWjMymr"
@@ -2969,40 +2999,10 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 81120,
       "name": "Sonata No. 6 in G Minor, Op. 13, RV 58, \"Il pastor fido\": III. Largo",
       "url": "https://open.spotify.com/track/5WWUsX4mQVm5sXMZbKGkPN"
-    },
-    {
-      "album": {
-        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
-        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Daniel Hope",
-          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
-        },
-        {
-          "name": "Konzerthaus Kammerorchester Berlin",
-          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
-        },
-        {
-          "name": "Andre de Ridder",
-          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
-        }
-      ],
-      "date_added": "2021-07-06",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 151506,
-      "name": "Spring 1 - 2012",
-      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
     },
     {
       "album": {
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 810466,
       "name": "Stabat Mater dolorosa",
       "url": "https://open.spotify.com/track/5OQgKxzeOL5GHdbM5IJKXW"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 810466,
       "name": "Stabat mater, RV 621: Stabat Mater dolorosa",
       "url": "https://open.spotify.com/track/2WbIYxPe15imyA6W1kvpZ9"
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "Violin Concerto in C Major, RV 184: III. Allegro",
       "url": "https://open.spotify.com/track/3JQiNlVcyflzXS1qhcRsTo"
@@ -3231,7 +3231,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207306,
       "name": "Violin Concerto in C Major, RV 184: III. Allegro",
       "url": "https://open.spotify.com/track/5gZ9wFqlg8lZIcLYRjuTiK"
@@ -3287,7 +3287,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166266,
       "name": "Violin Concerto in D Major, RV 228: I. Allegro non troppo ma vigoroso",
       "url": "https://open.spotify.com/track/0qxV4vP9Td33eweWijvCK8"
@@ -3317,7 +3317,7 @@
       ],
       "date_added": "2021-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166266,
       "name": "Violin Concerto in D Major, RV 228: I. Allegro non troppo ma vigoroso",
       "url": "https://open.spotify.com/track/4cYHwhbkqpRRrXJlo2pgn7"

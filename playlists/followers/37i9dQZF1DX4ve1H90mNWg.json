@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 19265,
+  "2024-04-20": 19280,
   "date_first_scraped": "2022-02-25",
   "description": "Texas music breaking waves. \n Cover:  <a href=\"spotify:artist:181bsRPaVXVlUKXrxwZfHK\">Megan Thee Stallion</a>",
   "name": "Ripple Effect: Texas",
@@ -4941,7 +4941,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Hot",
       "url": "https://open.spotify.com/track/0Revfe4sVWf3hZqIV8SZCv"
@@ -4959,7 +4959,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "Hot",
       "url": "https://open.spotify.com/track/6Dm5PSDdMvkwgmxeYLmtDP"
@@ -6552,6 +6552,28 @@
     },
     {
       "album": {
+        "name": "When I Was Dead (Original Version)",
+        "url": "https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230117,
+      "name": "Master Peace (feat. OG Bobby Billions)",
+      "url": "https://open.spotify.com/track/2GveCv0PxGQ5ZnCcjZkpyO"
+    },
+    {
+      "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
       },
@@ -6567,7 +6589,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230117,
       "name": "Master Peace (feat. OG Bobby Billions)",
       "url": "https://open.spotify.com/track/53lr5OfKYB7MoYsHI5psrR"
@@ -7529,7 +7551,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 187981,
       "name": "Nothing But The Blood",
       "url": "https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3"
@@ -7551,7 +7573,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188063,
       "name": "Nothing But The Blood",
       "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"

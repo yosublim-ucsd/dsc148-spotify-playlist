@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 837731,
+  "2024-04-20": 837488,
   "date_first_scraped": "2021-12-21",
   "description": "Keep calm with instrumental acoustic tracks.",
   "name": "Calming Acoustic",
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158500,
       "name": "Airy",
       "url": "https://open.spotify.com/track/0LzC1O0g6M2Z9uKmeqmynu"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180209,
       "name": "Akturu",
       "url": "https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA"
@@ -691,6 +691,24 @@
       "duration_ms": 196036,
       "name": "Another Perspective",
       "url": "https://open.spotify.com/track/7hx5wUFiy40D5nviyVCNdh"
+    },
+    {
+      "album": {
+        "name": "Another Time",
+        "url": "https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145103,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq"
     },
     {
       "album": {
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179780,
       "name": "Cristal",
       "url": "https://open.spotify.com/track/1ymqH61lj4FCjkzT9gQ040"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155821,
       "name": "Disheartening Sky",
       "url": "https://open.spotify.com/track/0fbbPMsg9C2YIaIY0JTAOT"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126282,
       "name": "Dolphins",
       "url": "https://open.spotify.com/track/5Z7nI5WL04irpxEi5qGUrO"
@@ -3536,6 +3554,24 @@
     },
     {
       "album": {
+        "name": "Endless Path",
+        "url": "https://open.spotify.com/album/2kx0113Z17cfo8Vwd6KPmF"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139682,
+      "name": "Endless Path",
+      "url": "https://open.spotify.com/track/67Q6qfYO7qXJjsIXbzZeJ4"
+    },
+    {
+      "album": {
         "name": "Endless Sun",
         "url": "https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf"
       },
@@ -3767,7 +3803,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198245,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/0UPq6MPuNF3QV1G15sjNqU"
@@ -4941,7 +4977,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192656,
       "name": "Hugsanir",
       "url": "https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1"
@@ -5157,7 +5193,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132375,
       "name": "I'm Coming Home To You",
       "url": "https://open.spotify.com/track/2fPgNS9Q6hMc0vzO4RLuEY"
@@ -5247,7 +5283,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176714,
       "name": "Imja Tse",
       "url": "https://open.spotify.com/track/0ihTAiX3o5zttzHd7m8FFg"
@@ -5301,7 +5337,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145233,
       "name": "In good company",
       "url": "https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN"
@@ -5319,7 +5355,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177191,
       "name": "In Love Again",
       "url": "https://open.spotify.com/track/3fPLzICJgsoHFWL17jCWb7"
@@ -5949,7 +5985,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154374,
       "name": "Laguna Colorada",
       "url": "https://open.spotify.com/track/3J2QDxVOOmQKalHgfU8LUx"
@@ -7015,7 +7051,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127750,
       "name": "Maybe It's Not Too Late",
       "url": "https://open.spotify.com/track/2OPSOulWZFo8pu0cOwBEOE"
@@ -7177,10 +7213,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137231,
       "name": "Memories of Home",
       "url": "https://open.spotify.com/track/0bWmjjk2B9A6ulTRQkX6BZ"
+    },
+    {
+      "album": {
+        "name": "Memories Of The Future",
+        "url": "https://open.spotify.com/album/7ylbAOT4YTqIPkkE7ggxeg"
+      },
+      "artists": [
+        {
+          "name": "Em Monet",
+          "url": "https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164750,
+      "name": "Memories Of The Future",
+      "url": "https://open.spotify.com/track/6JIOxiOgdh1xWJEOYRcpm7"
     },
     {
       "album": {
@@ -7541,7 +7595,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128981,
       "name": "Mozzafiato",
       "url": "https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA"
@@ -8621,7 +8675,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129782,
       "name": "Pine Barrens",
       "url": "https://open.spotify.com/track/5bLgfdDvNBcuVUgczhA4j5"
@@ -8859,6 +8913,24 @@
       "duration_ms": 137916,
       "name": "Pure As You",
       "url": "https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8"
+    },
+    {
+      "album": {
+        "name": "Quality time",
+        "url": "https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164347,
+      "name": "Quality time",
+      "url": "https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX"
     },
     {
       "album": {
@@ -9269,7 +9341,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186763,
       "name": "san luca",
       "url": "https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu"
@@ -9449,7 +9521,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176598,
       "name": "Say it First",
       "url": "https://open.spotify.com/track/629DN0qMDPVhEyQnQ3LxHy"
@@ -9690,6 +9762,24 @@
     },
     {
       "album": {
+        "name": "Sharing the Message",
+        "url": "https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl"
+      },
+      "artists": [
+        {
+          "name": "Ciara Lowry",
+          "url": "https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176644,
+      "name": "Sharing the Message",
+      "url": "https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu"
+    },
+    {
+      "album": {
         "name": "Reise um die Welt",
         "url": "https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK"
       },
@@ -9723,6 +9813,24 @@
       "duration_ms": 153911,
       "name": "Shift Of Focus",
       "url": "https://open.spotify.com/track/7MYziA9LrwwtlYlRGqTOTE"
+    },
+    {
+      "album": {
+        "name": "Siena Dreamin'",
+        "url": "https://open.spotify.com/album/22Ru9VDOPhOkxGFYWdR6au"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "Siena Dreamin'",
+      "url": "https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc"
     },
     {
       "album": {
@@ -9899,7 +10007,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231232,
       "name": "Slow Us Down",
       "url": "https://open.spotify.com/track/2pJVa3BEetPJLgBUCaVW7n"
@@ -10223,7 +10331,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204733,
       "name": "sonnenkerze",
       "url": "https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8"
@@ -10277,7 +10385,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149531,
       "name": "Sorrowful Disappearance",
       "url": "https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l"
@@ -10461,6 +10569,24 @@
       "duration_ms": 114536,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3IwotLyzLEwvnVV5tK3LxX"
+    },
+    {
+      "album": {
+        "name": "Steps ahead",
+        "url": "https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169097,
+      "name": "Steps ahead",
+      "url": "https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM"
     },
     {
       "album": {
@@ -11393,7 +11519,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120337,
       "name": "Through Wildflowers",
       "url": "https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3"
@@ -11447,7 +11573,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154751,
       "name": "Toque Suave",
       "url": "https://open.spotify.com/track/1fGMb8mMRfE81obtzM8K8p"
@@ -11663,7 +11789,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149577,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/3ciRi9v3G3MWMzTNE15WnT"
@@ -12167,7 +12293,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215841,
       "name": "Waialeale",
       "url": "https://open.spotify.com/track/7u7MQvmsGsn8r77faeriZj"
@@ -12185,7 +12311,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232129,
       "name": "Waimea Falls",
       "url": "https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 241316,
+  "2024-04-20": 241065,
   "date_first_scraped": "2022-05-30",
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
   "name": "Starring Shah Rukh Khan",
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349493,
       "name": "Ae Ajnabi",
       "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 289373,
       "name": "Chaand Taare",
       "url": "https://open.spotify.com/track/0898lqIxzKWzUZxb5zT7C9"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 420466,
       "name": "Hum to Deewane Huye (From \"Baadshah\")",
       "url": "https://open.spotify.com/track/5qG6jYnBmGMdKS1WiZBgj5"
@@ -1641,7 +1641,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383375,
       "name": "Koi Na Koi Chahiye - From \"Deewana\"",
       "url": "https://open.spotify.com/track/2SIi6cD1f9VrDnd5MUSpIG"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 366853,
       "name": "Maahi Ve",
       "url": "https://open.spotify.com/track/7Czm0vv2sYL5z4P51KY66e"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397080,
       "name": "Noor E Khuda",
       "url": "https://open.spotify.com/track/55fSZWdcvMPJga3LbiV8jN"
@@ -2370,6 +2370,32 @@
     },
     {
       "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Ravi \"Rags\" Khote",
+          "url": "https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353880,
+      "name": "Pretty Woman",
+      "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
+    },
+    {
+      "album": {
         "name": "Asoka (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz"
       },
@@ -2489,7 +2515,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 310453,
       "name": "Ruk Ja O Dil Deewane",
       "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG"
@@ -2633,7 +2659,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365706,
       "name": "Sajdaa",
       "url": "https://open.spotify.com/track/395gJWcJQK0C3GJfHAn7f6"
@@ -2867,7 +2893,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278546,
       "name": "Tere Naina",
       "url": "https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc"
@@ -2893,6 +2919,28 @@
       "duration_ms": 199643,
       "name": "Tu Hi Hai",
       "url": "https://open.spotify.com/track/5b9x5sRIzAgXQw0dhGORO1"
+    },
+    {
+      "album": {
+        "name": "Darr",
+        "url": "https://open.spotify.com/album/0SSsQAifKHIRj0ezX88QzS"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366573,
+      "name": "Tu Mere Samne",
+      "url": "https://open.spotify.com/track/2FArWjBAnAmh4IpxWQGCpq"
     },
     {
       "album": {
@@ -2955,7 +3003,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302093,
       "name": "Tujhe Dekha To",
       "url": "https://open.spotify.com/track/6dFQ3W3xuG4ll7cNjIsN2Q"
@@ -3097,7 +3145,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 347453,
       "name": "Tumhi Dekho Naa",
       "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
@@ -3137,7 +3185,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 434300,
       "name": "Woh Ladki Jo",
       "url": "https://open.spotify.com/track/4A15QHUraE6rrP0Co6S3lG"
@@ -3307,7 +3355,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 353693,
       "name": "Zara Sa Jhoom Loon Main",
       "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
@@ -3351,7 +3399,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264000,
       "name": "Zinda Banda (From \"Jawan\")",
       "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"

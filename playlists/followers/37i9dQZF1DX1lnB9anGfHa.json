@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 219133,
+  "2024-04-20": 219173,
   "date_first_scraped": "2022-03-28",
   "description": "A journey into the unknown, dark, and experimental.",
   "name": "Terra Incognita",
@@ -295,7 +295,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 259648,
       "name": "An Ocean",
       "url": "https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136546,
       "name": "Chills Me to the Bone",
       "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164598,
       "name": "Dicen",
       "url": "https://open.spotify.com/track/23hHf7aRBMesANVdtp2stv"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 520719,
       "name": "Dois Litorais",
       "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
@@ -1189,6 +1189,24 @@
     {
       "album": {
         "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187632,
+      "name": "Even It Out",
+      "url": "https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O"
+    },
+    {
+      "album": {
+        "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
       },
       "artists": [
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187632,
       "name": "Even It Out",
       "url": "https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI"
@@ -1224,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "THE QUANTA SERIES",
+        "url": "https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389266,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm"
+    },
+    {
+      "album": {
         "name": "QUANTA 1:11",
         "url": "https://open.spotify.com/album/4jyP4GfDaIoOK6Go2r7Cjr"
       },
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396071,
       "name": "EVER",
       "url": "https://open.spotify.com/track/7aCzefzfqsKNC8umZyJ85g"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 96420,
       "name": "Gumar (Moon)",
       "url": "https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp"
@@ -1611,7 +1647,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 258366,
       "name": "I Am You - Space Afrika Remix",
       "url": "https://open.spotify.com/track/2dqc2QouSxBbbPpu84peJh"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 320409,
       "name": "Ki moun ou ye",
       "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
@@ -2194,6 +2230,24 @@
     },
     {
       "album": {
+        "name": "lover's spit plays in the background",
+        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "lover's spit plays in the background",
+      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
+    },
+    {
+      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
@@ -2205,10 +2259,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363346,
       "name": "Makkuroi Mizu",
       "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34)",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "album": {
@@ -2320,6 +2392,24 @@
     },
     {
       "album": {
+        "name": "Death Is Home",
+        "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
+      },
+      "artists": [
+        {
+          "name": "A\u00efsha Devi",
+          "url": "https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272990,
+      "name": "Mind Era",
+      "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"
+    },
+    {
+      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
       },
@@ -2335,6 +2425,24 @@
       "duration_ms": 273533,
       "name": "Moans",
       "url": "https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd"
+    },
+    {
+      "album": {
+        "name": "Mojik (Your Waves)",
+        "url": "https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193584,
+      "name": "Mojik (Your Waves)",
+      "url": "https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S"
     },
     {
       "album": {
@@ -2829,7 +2937,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410397,
       "name": "Oracles",
       "url": "https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp"
@@ -2953,7 +3061,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 585901,
       "name": "Pillar",
       "url": "https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs"
@@ -3149,7 +3257,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221163,
       "name": "r(EMOTE)",
       "url": "https://open.spotify.com/track/0j4oE7wt2ejFjqNKRcc2rW"
@@ -3171,6 +3279,24 @@
       "duration_ms": 221163,
       "name": "r(EMOTE)",
       "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
+    },
+    {
+      "album": {
+        "name": "Raat Ki Rani",
+        "url": "https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE"
     },
     {
       "album": {
@@ -3399,7 +3525,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 344074,
       "name": "Selalu",
       "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
@@ -3511,7 +3637,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220909,
       "name": "Strange Delights",
       "url": "https://open.spotify.com/track/1F2VWdI3nGfJHvohV1EzRM"
@@ -3601,7 +3727,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215482,
       "name": "Teeth Agape",
       "url": "https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1"
@@ -3623,6 +3749,24 @@
       "duration_ms": 215482,
       "name": "Teeth Agape",
       "url": "https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO"
+    },
+    {
+      "album": {
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     },
     {
       "album": {
@@ -3753,7 +3897,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
@@ -3985,7 +4129,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202083,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/4cdatGZQkKpBKZOiXptz5I"
@@ -4525,7 +4669,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239640,
       "name": "Who Gives a Thought",
       "url": "https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV"

@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: \bLoopy(\ub8e8\ud53c)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 213878,
+  "num_followers": 213897,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "Drive mE cRaZy",
-        "url": "https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Drive mE cRaZy",
-      "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
         "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 261120,
       "name": "BYE BYE BYE (feat. Sion)",
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "Drive mE cRaZy",
+        "url": "https://open.spotify.com/album/2vckNenVlFyIZDN3UTQYZA"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Drive mE cRaZy",
+      "url": "https://open.spotify.com/track/1dWCQTQeAHZQhAKUVsWOg6"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 276152,
       "name": "Tomorrow (Feat. GIRIBOY, BIG Naughty)",
       "url": "https://open.spotify.com/track/7K31QxS2DmTBxdYldd8yqf"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "UNSTEADY",
-        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
       },
       "artists": [
         {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 184840,
-      "name": "I BE LIKE (Feat. SOLE)",
-      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1155,6 +1151,26 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
+        "name": "UNSTEADY",
+        "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "I BE LIKE (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 174644,
       "name": "Beautiful (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/3J6NzKxov6PDE1LC99gXV8"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
+        "name": "Beautiful (feat. B.I)",
+        "url": "https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 163639,
+      "name": "Beautiful (feat. B.I)",
+      "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 180813,
       "name": "2AM (Feat. CAMO)",
       "url": "https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
-        "name": "LATELY",
-        "url": "https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "LATELY (Feat. Hoody)",
-      "url": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+        "name": "LATELY",
+        "url": "https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk"
       },
       "artists": [
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
+      "duration_ms": 231613,
+      "name": "LATELY (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1563,6 +1567,22 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -1575,6 +1595,22 @@
       "duration_ms": 116722,
       "name": "00:01",
       "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "BAPPI",
+        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "BAPPI",
+      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1599,26 +1635,6 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "Beautiful (feat. B.I)",
-        "url": "https://open.spotify.com/album/2UaXHvolN0TrODffdIxHs5"
-      },
-      "artists": [
-        {
-          "name": "basecamp",
-          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 163639,
-      "name": "Beautiful (feat. B.I)",
-      "url": "https://open.spotify.com/track/1ge1KSTMkRr6xLL3xjiLmx"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
         "name": "Don't go (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP"
       },
@@ -1639,18 +1655,22 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "BAPPI",
-        "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
       },
       "artists": [
         {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "KEITA",
+          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
         }
       ],
-      "duration_ms": 174900,
-      "name": "BAPPI",
-      "url": "https://open.spotify.com/track/6Xshz1Cjgiux8HfEuJZHSk"
+      "duration_ms": 163373,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1671,26 +1691,6 @@
       "duration_ms": 193986,
       "name": "Workaholic (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
-        "name": "Metronome",
-        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "KEITA",
-          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Metronome",
-      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "Just Like This",
-        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+        "name": "JAMI (feat. THAMA)",
+        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Otis Lim",
+          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
         },
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 199733,
-      "name": "Just Like This (Feat. george)",
-      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+      "duration_ms": 184277,
+      "name": "JAMI (feat. THAMA)",
+      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1787,6 +1787,26 @@
       "duration_ms": 195459,
       "name": "One More Night (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/1kZwWtijucTV6LRUrGn51f"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1815,26 +1835,6 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "JAMI (feat. THAMA)",
-        "url": "https://open.spotify.com/album/24Mz6ldfMoP8TAnVcJ7D4k"
-      },
-      "artists": [
-        {
-          "name": "Otis Lim",
-          "url": "https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 184277,
-      "name": "JAMI (feat. THAMA)",
-      "url": "https://open.spotify.com/track/1ScFrFA0uUsy9rTuSSsGNr"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -1855,22 +1855,6 @@
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
-        "name": "Novel",
-        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "What Should I do",
-      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1911,22 +1895,18 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "Sick of Love",
-        "url": "https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs"
+        "name": "Novel",
+        "url": "https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9"
       },
       "artists": [
         {
-          "name": "BOYCOLD",
-          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 174800,
-      "name": "I can\u2019t be cool (with Leellamarz)",
-      "url": "https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X"
+      "duration_ms": 222293,
+      "name": "What Should I do",
+      "url": "https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY"
     },
     {
       "added_at": "2024-04-18 05:40:49",
@@ -1951,22 +1931,6 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp"
-    },
-    {
-      "added_at": "2024-04-18 05:40:49",
-      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
       },
@@ -1983,26 +1947,54 @@
     {
       "added_at": "2024-04-18 05:40:49",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "Sick of Love",
+        "url": "https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "BOYCOLD",
+          "url": "https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 174800,
+      "name": "I can\u2019t be cool (with Leellamarz)",
+      "url": "https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp"
+    },
+    {
+      "added_at": "2024-04-18 05:40:49",
+      "album": {
+        "name": "I Am Yours",
+        "url": "https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 211640,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

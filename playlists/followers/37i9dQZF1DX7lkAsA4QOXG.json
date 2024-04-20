@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 126059,
+  "2024-04-20": 126114,
   "date_first_scraped": "2022-09-17",
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
   "name": "Jazz Covers",
   "tracks": [
+    {
+      "album": {
+        "name": "River: The Joni Letters",
+        "url": "https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/0KAySWy3E1U629TK0xwJOP"
+    },
     {
       "album": {
         "name": "Legendary Recordings: Herbie Hancock",
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456480,
       "name": "A Case Of You - Short Version",
       "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
@@ -107,7 +125,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 289653,
       "name": "A Day In The Life",
       "url": "https://open.spotify.com/track/1P2vPz7FqmxdSAnSloCWc8"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239186,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 282737,
       "name": "Bullet With Butterfly Wings",
       "url": "https://open.spotify.com/track/0z38GGHZCfVbbXloSW7p1B"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131773,
       "name": "Cecilia",
       "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232522,
       "name": "Chelsea Morning",
       "url": "https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 349413,
       "name": "Circle Game",
       "url": "https://open.spotify.com/track/1nznIr3ZHzQFYoQZ6s98ri"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263453,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/06gNa1Rs8ivtJ3V9vSVNWB"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 263453,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB"
@@ -1383,6 +1401,24 @@
     {
       "album": {
         "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294293,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0vwiOFVhknyIMu7TkFDbWo"
+    },
+    {
+      "album": {
+        "name": "Pointless Nostalgic",
         "url": "https://open.spotify.com/album/4AD8H57Um3MlSuuqN4fZNv"
       },
       "artists": [
@@ -1429,7 +1465,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294364,
       "name": "High And Dry - Remastered",
       "url": "https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn"
@@ -1581,7 +1617,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/0ZhF5IXGeWPAyYe6dGP3LF"
@@ -1599,7 +1635,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 303680,
       "name": "I Can\u2019t Make You Love Me",
       "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
@@ -1697,7 +1733,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
@@ -1723,7 +1759,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 318086,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/7g5oxgxTNFTmlkf3B06zsD"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 209338,
       "name": "If It's Magic",
       "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
@@ -1846,6 +1882,36 @@
     },
     {
       "album": {
+        "name": "Whole Lotta Love: The Music of Led Zeppelin",
+        "url": "https://open.spotify.com/album/6cMcEVbbkRqL640ToyX3kg"
+      },
+      "artists": [
+        {
+          "name": "Obed Calvaire",
+          "url": "https://open.spotify.com/artist/6LbNXRQZMLpMJ4E1S1d1Dm"
+        },
+        {
+          "name": "Kevin Hays",
+          "url": "https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J"
+        },
+        {
+          "name": "Bob Franceschini",
+          "url": "https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4"
+        },
+        {
+          "name": "Orlando Le Fleming",
+          "url": "https://open.spotify.com/artist/6SW6dyOPmcKpO0ZwiUDZj5"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411020,
+      "name": "Immigrant Song",
+      "url": "https://open.spotify.com/track/4P8HAphnGilaQ7lIR3dfd5"
+    },
+    {
+      "album": {
         "name": "What's It All About?",
         "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
       },
@@ -1901,7 +1967,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 390613,
       "name": "It's Alright Ma (I'm Only Bleeding)",
       "url": "https://open.spotify.com/track/1w3W1n1FedV8aVZkE00uMu"
@@ -1935,7 +2001,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261853,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
@@ -2267,7 +2333,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 552186,
       "name": "Masters Of War",
       "url": "https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7"
@@ -2369,7 +2435,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
@@ -2387,7 +2453,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 247253,
       "name": "Mother Stands for Comfort",
       "url": "https://open.spotify.com/track/5e7Cm6pTeymXvHKfsXyJMx"
@@ -2449,7 +2515,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160280,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd"
@@ -2467,10 +2533,28 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 160786,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/5Eh00DCKRf5t8HAl84oNAl"
+    },
+    {
+      "album": {
+        "name": "Don't Talk (Put Your Head on My Shoulder)",
+        "url": "https://open.spotify.com/album/5yZjhFDydVDlGniKbYRxTJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338569,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/6d5fObrERJ7Az4cz58CXPU"
     },
     {
       "album": {
@@ -2485,7 +2569,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378346,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3R3qPpiWfYbSqwgS7A8Ypy"
@@ -2887,10 +2971,28 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303186,
       "name": "She's Leaving Home - Live",
       "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
+    },
+    {
+      "album": {
+        "name": "Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International",
+        "url": "https://open.spotify.com/album/0TWZh4CgXyEhMVyl1ti3IE"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "Simple Twist of Fate",
+      "url": "https://open.spotify.com/track/28IN2Ge0jrHsyCEhXslsfK"
     },
     {
       "album": {
@@ -3011,7 +3113,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/3sFuasoQLakdxnTh3vJ5ix"
@@ -3033,7 +3135,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320893,
       "name": "Streets Of Philadelphia",
       "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
@@ -3237,7 +3339,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315266,
       "name": "The Fool on the Hill",
       "url": "https://open.spotify.com/track/1kUNTX5gPEJAU1R5z1kZEz"
@@ -3331,7 +3433,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 224171,
       "name": "True Love Waits (Radiohead)",
       "url": "https://open.spotify.com/track/0Z5FjFtvNrYgAOwLHWQX2R"
@@ -3349,7 +3451,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224171,
       "name": "True Love Waits (Radiohead)",
       "url": "https://open.spotify.com/track/6os2m5ftH4LYEkum1BfP3O"
@@ -3481,7 +3583,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210593,
       "name": "When Most I Wink - Sonnet 43",
       "url": "https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb"
@@ -3499,7 +3601,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202200,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
@@ -3535,7 +3637,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216120,
       "name": "Wind Cries Mary",
       "url": "https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm"
@@ -3579,10 +3681,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216093,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
+    },
+    {
+      "album": {
+        "name": "Rock Swings",
+        "url": "https://open.spotify.com/album/0lu611O6t7E8sd9E2LkImh"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/7rAYud7r0T46QFoK1hG1eU"
     },
     {
       "album": {
@@ -3651,7 +3771,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 162480,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6c6XaTu2VM32NHxtYZUWMY"
@@ -3669,10 +3789,44 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261920,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm"
+    },
+    {
+      "album": {
+        "name": "The Boy Next Door",
+        "url": "https://open.spotify.com/album/5sRAARt1vXMVsC2bAuS2JP"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "David Newton",
+          "url": "https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy"
+        },
+        {
+          "name": "Jim Tomlinson",
+          "url": "https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+        },
+        {
+          "name": "Matt Home",
+          "url": "https://open.spotify.com/artist/6sYQ9bCdEmdHHY1TBQXe80"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "You've Got A Friend",
+      "url": "https://open.spotify.com/track/0tzpPgaBndJ7KflHxmoPWS"
     },
     {
       "album": {
@@ -3705,7 +3859,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-27",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/24OIsbpu9BxMxYcCnNpPal"
@@ -3723,7 +3877,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt"
@@ -3753,7 +3907,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 270847,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P"
@@ -3783,7 +3937,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270847,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/66IhdjAa4bWFnRh1Edo0HN"

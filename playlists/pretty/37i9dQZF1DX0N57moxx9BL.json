@@ -1,6 +1,6 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 148524,
+  "num_followers": 148538,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Eulogies",
         "url": "https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "HEAVEN DON'T CRY",
+        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "HEAVEN DON'T CRY",
+      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -351,18 +351,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "HEAVEN DON'T CRY",
-        "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
         }
       ],
-      "duration_ms": 265706,
-      "name": "HEAVEN DON'T CRY",
-      "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "duration_ms": 256893,
+      "name": "ANOTHER PLACE",
+      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "End of the World (feat. Disciple)",
         "url": "https://open.spotify.com/album/0Q1AFMxli6GteApY75WWGY"
       },
@@ -483,38 +499,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
-      },
-      "artists": [
-        {
-          "name": "Phinehas",
-          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
-        }
-      ],
-      "duration_ms": 283741,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "EXILE",
-        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
-      },
-      "artists": [
-        {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        }
-      ],
-      "duration_ms": 256893,
-      "name": "ANOTHER PLACE",
-      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
       },
@@ -531,34 +515,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+        "name": "In the Night",
+        "url": "https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7"
       },
       "artists": [
         {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+          "name": "Phinehas",
+          "url": "https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0"
         }
       ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Listen Friend",
-        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
-      },
-      "artists": [
-        {
-          "name": "Above Only",
-          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
-        }
-      ],
-      "duration_ms": 272281,
-      "name": "Listen Friend",
-      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
+      "duration_ms": 283741,
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -583,6 +551,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Listen Friend",
+        "url": "https://open.spotify.com/album/5Thzd8nKXasMl4q0rTKo4M"
+      },
+      "artists": [
+        {
+          "name": "Above Only",
+          "url": "https://open.spotify.com/artist/5xHX5hLVen1uvA6THTO7Tn"
+        }
+      ],
+      "duration_ms": 272281,
+      "name": "Listen Friend",
+      "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "The Executioner",
         "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 247124,
       "name": "The Executioner",
       "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
-      },
-      "artists": [
-        {
-          "name": "All For The King",
-          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "The Shelter",
-      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
       },
@@ -843,34 +827,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Death Stare",
-        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
       },
       "artists": [
         {
-          "name": "The Protest",
-          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+          "name": "All For The King",
+          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
         }
       ],
-      "duration_ms": 248972,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Honor & Glory",
-        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
-      },
-      "artists": [
-        {
-          "name": "Honor & Glory",
-          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
-        }
-      ],
-      "duration_ms": 271159,
-      "name": "Fear of Missing Out",
-      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+      "duration_ms": 258706,
+      "name": "The Shelter",
+      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -887,6 +855,22 @@
       "duration_ms": 253740,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Death Stare",
+        "url": "https://open.spotify.com/album/2RxRyFBmCUY7KplNaAux3i"
+      },
+      "artists": [
+        {
+          "name": "The Protest",
+          "url": "https://open.spotify.com/artist/3BTiVMFvgOUbi1I0WWVAbA"
+        }
+      ],
+      "duration_ms": 248972,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5WKpzbWHqprXmQb4ohlQed"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -911,18 +895,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+        "name": "Honor & Glory",
+        "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
       "artists": [
         {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+          "name": "Honor & Glory",
+          "url": "https://open.spotify.com/artist/16bPRQeTKQ7kM03xe3n3e6"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+      "duration_ms": 271159,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -939,6 +923,22 @@
       "duration_ms": 245080,
       "name": "Coming Clean",
       "url": "https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+      },
+      "artists": [
+        {
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "What Are You Waiting For",
+        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
+      },
+      "artists": [
+        {
+          "name": "Futur",
+          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
+        }
+      ],
+      "duration_ms": 199252,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "What Are You Waiting For",
-        "url": "https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9"
-      },
-      "artists": [
-        {
-          "name": "Futur",
-          "url": "https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9"
-        }
-      ],
-      "duration_ms": 199252,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "The Seventh Seal",
         "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 214728,
       "name": "The Seventh Seal (feat. Ulf Christiansson)",
       "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "feel nothing.",
-        "url": "https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf"
+        "name": "DEFENSE MECHANISM",
+        "url": "https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR"
       },
       "artists": [
         {
-          "name": "Corey Wise",
-          "url": "https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j"
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        },
+        {
+          "name": "Max Cavalera",
+          "url": "https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf"
         }
       ],
-      "duration_ms": 197647,
-      "name": "feel nothing.",
-      "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
+      "duration_ms": 217693,
+      "name": "DEFENSE MECHANISM",
+      "url": "https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "DEFENSE MECHANISM",
-        "url": "https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR"
+        "name": "feel nothing.",
+        "url": "https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
-        },
-        {
-          "name": "Max Cavalera",
-          "url": "https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf"
+          "name": "Corey Wise",
+          "url": "https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j"
         }
       ],
-      "duration_ms": 217693,
-      "name": "DEFENSE MECHANISM",
-      "url": "https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7"
+      "duration_ms": 197647,
+      "name": "feel nothing.",
+      "url": "https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h"
     },
     {
       "added_at": "2023-11-17 22:08:15",

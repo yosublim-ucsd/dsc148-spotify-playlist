@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 908814,
+  "2024-04-20": 908869,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Netherlands.",
   "name": "Top 50 - Netherlands",
@@ -4965,6 +4965,28 @@
     {
       "album": {
         "name": "Champions League",
+        "url": "https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142001,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/0VrTqrs9O9mi3dhY4RWuQI"
+    },
+    {
+      "album": {
+        "name": "Champions League",
         "url": "https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec"
       },
       "artists": [
@@ -4979,7 +5001,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142001,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol"
@@ -5771,7 +5793,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 182587,
       "name": "Daba Die Daba Daa",
       "url": "https://open.spotify.com/track/1a7sr4v7f7tAig5fl68Vir"
@@ -13227,7 +13249,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -14203,7 +14225,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -14589,6 +14611,32 @@
     {
       "album": {
         "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/3dRqNeEDVvJGR1Q5vTBuA5"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188039,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/6gSOmyYx9Wh90kcipUKfNa"
+    },
+    {
+      "album": {
+        "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/4A2PB1hCtF2tcmUsaa9jYO"
       },
       "artists": [
@@ -14607,7 +14655,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188039,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/7CqWn1gA0R9tCFTpTOcLLZ"
@@ -17843,10 +17891,32 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf"
+    },
+    {
+      "album": {
+        "name": "Mwaki",
+        "url": "https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
     },
     {
       "album": {
@@ -29751,7 +29821,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi - NL",
       "url": "https://open.spotify.com/track/3nwtDjoxFe0M9Dn1ULKiQe"

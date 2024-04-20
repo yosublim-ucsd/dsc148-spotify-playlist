@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-820 songs - 2 day 5 hr 57 min
+821 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [friends](https://open.spotify.com/track/0K958nrYqQ94HznXAQ8cWi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [friends](https://open.spotify.com/album/6fxDSk0nnIRStLtvRRGJl8) | 3:49 | 2022-10-27 | 2023-05-13 |
 | [friends](https://open.spotify.com/track/4Yo0r2wyWLIOVzAnyJwbIc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:50 | 2023-06-27 | 2023-07-19 |
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-01 | 2023-09-06 |
-| [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 |  |
+| [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-04-20 |
 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 | 2022-07-27 | 2022-08-17 |
 | [Getsuyou no Dance](https://open.spotify.com/track/51zSpfOogDG3NqCsVfI8O0) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Shikousei](https://open.spotify.com/album/0WYt2Vo6QgYJeB3KHWUhgV) | 3:22 | 2022-09-25 | 2022-10-26 |
 | [Gift](https://open.spotify.com/track/77VV0IhRZikqbVz6eLMIpY) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [LOVE DRIVE](https://open.spotify.com/album/05UHHOq9BVELWwF5Xuqceg) | 4:06 | 2024-02-20 |  |
@@ -249,6 +249,7 @@
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
+| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 |  |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2023-11-10 | 2024-04-19 |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2023-11-10 |  |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
@@ -634,7 +635,7 @@
 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 | 2022-05-24 | 2022-07-29 |
 | [シュプール](https://open.spotify.com/track/5jbEk0qaloLbLSp2MInRzl) | [DEEN](https://open.spotify.com/artist/1Tg3cYxIGONHrwVagR1QlG) | [シュプール](https://open.spotify.com/album/2vfxMDrwJPp5W2c3shcE2D) | 3:47 | 2022-05-24 | 2022-07-14 |
 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 | 2022-12-13 | 2024-04-17 |
-| [シラフ](https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R) | 3:40 | 2023-06-20 | 2023-06-22 |
+| [シラフ](https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R) | 3:40 | 2023-06-20 |  |
 | [シルクのカーディガン](https://open.spotify.com/track/0x672Wfq58Hq63RRCZuNrU) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY) | [シルクのカーディガン](https://open.spotify.com/album/0muk59f6rTTaYplWMMhwIn) | 4:46 | 2022-08-30 | 2022-09-07 |
 | [シンクロニシティ \- シングルバージョン](https://open.spotify.com/track/2YUb06hE99nM7023P69ksK) | [Rinapon](https://open.spotify.com/artist/5rTWFvJ8dggdYp0Kr4Ohcf) | [シンクロニシティ \(シングルバージョン\)](https://open.spotify.com/album/5j3rH4kI7R5LoAbpxZDKSq) | 5:00 | 2022-06-07 | 2022-07-27 |
 | [シンプル・ラブ feat\. 佐々木詩織](https://open.spotify.com/track/2mudoDEVfAtKFV4VNddaCC) | [PAPER MOON PROJECT](https://open.spotify.com/artist/0Y4i2EgSgrjmUCyT3UxCn9), [佐々木詩織](https://open.spotify.com/artist/0Fs6az4macUnUxwgSvHsEI) | [シンプル・ラブ feat\. 佐々木詩織](https://open.spotify.com/album/0N8IGVQ6OvHYamqAGezZ3l) | 4:12 | 2023-04-04 | 2023-04-26 |
@@ -793,7 +794,7 @@
 | [真空](https://open.spotify.com/track/1RrvJAxJivlXwm0j6QUW7t) | [YUJI NAKADA](https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS) | [MOONAGE](https://open.spotify.com/album/0NTio3e2DJlseuJsFUQQeb) | 4:04 | 2023-04-25 | 2023-05-10 |
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
 | [眩しい、眩しすぎる](https://open.spotify.com/track/0GgTd7vT5PgAmLhNl49i9k) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:52 | 2024-03-26 | 2024-04-19 |
-| [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2023-08-29 |  |
+| [眩しい、眩しすぎる](https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [眩しい、眩しすぎる \- Single](https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW) | 3:54 | 2023-08-29 | 2024-04-20 |
 | [眩しい街、黒い犬](https://open.spotify.com/track/4iWMAej6JVsPKf0TrmkhsF) | [sty](https://open.spotify.com/artist/1Bx5PeSHoY8IjIOZMnBo3Z) | [City & Bops](https://open.spotify.com/album/53fKjDCrTAVr9MU4fkXFsc) | 3:07 | 2022-05-24 | 2022-06-02 |
 | [瞳惚れ](https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [瞳惚れ](https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss) | 4:17 | 2022-10-27 | 2023-02-22 |
 | [硝子窓](https://open.spotify.com/track/7jCSLx1qIlvj7LHiWe1sBD) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:39 | 2023-12-12 | 2024-01-31 |

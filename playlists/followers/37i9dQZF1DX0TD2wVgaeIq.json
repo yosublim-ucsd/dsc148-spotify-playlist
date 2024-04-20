@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 72580,
+  "2024-04-20": 72675,
   "date_first_scraped": "2023-07-08",
   "description": "Beautiful bansuri flute and sitar from India. ",
   "name": "Relaxing Ragas",
@@ -71,10 +71,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403773,
       "name": "Antar Naad (Call Within)",
       "url": "https://open.spotify.com/track/1NkhkjIxfLcXeQoQ21a6M4"
+    },
+    {
+      "album": {
+        "name": "Divine Dimension: Bansuri Flute Meditiations",
+        "url": "https://open.spotify.com/album/2YSY3H6O2NQimEDtBY90UH"
+      },
+      "artists": [
+        {
+          "name": "Rajendra Teredesai",
+          "url": "https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403773,
+      "name": "Antar Naad (Call Within)",
+      "url": "https://open.spotify.com/track/38XSfEdIVskgPWJC9wVMEC"
     },
     {
       "album": {
@@ -439,10 +457,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 454186,
       "name": "Ekatmaan (Divine Oneness)",
       "url": "https://open.spotify.com/track/09JESITgsjI0XUIIXBU2ig"
+    },
+    {
+      "album": {
+        "name": "Divine Dimension: Bansuri Flute Meditiations",
+        "url": "https://open.spotify.com/album/2YSY3H6O2NQimEDtBY90UH"
+      },
+      "artists": [
+        {
+          "name": "Rajendra Teredesai",
+          "url": "https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454186,
+      "name": "Ekatmaan (Divine Oneness)",
+      "url": "https://open.spotify.com/track/7C5TM7Xm37zDnRbrsz24Xo"
     },
     {
       "album": {
@@ -721,7 +757,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 374133,
       "name": "Meeting of Two Oceans",
       "url": "https://open.spotify.com/track/76PToF9tQlklwSUbt4RNbk"
@@ -739,7 +775,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374160,
       "name": "Meeting Of Two Oceans",
       "url": "https://open.spotify.com/track/7drPBuHo0GQZqRZhLvM7dQ"
@@ -837,6 +873,24 @@
     {
       "album": {
         "name": "Divine Dimension: Bansuri Flute Meditiations",
+        "url": "https://open.spotify.com/album/2YSY3H6O2NQimEDtBY90UH"
+      },
+      "artists": [
+        {
+          "name": "Rajendra Teredesai",
+          "url": "https://open.spotify.com/artist/2ny041Q4aafztLPkWWDdjj"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284853,
+      "name": "Param Gyan Rahasya (Mystery of the Eternal)",
+      "url": "https://open.spotify.com/track/1J0j24iOdVUApt3tqMwA1g"
+    },
+    {
+      "album": {
+        "name": "Divine Dimension: Bansuri Flute Meditiations",
         "url": "https://open.spotify.com/album/76GzjOK13C5TeJkjWPKAZv"
       },
       "artists": [
@@ -865,7 +919,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287000,
       "name": "Param Gyan Rahasya (Mystery of the Eternal)",
       "url": "https://open.spotify.com/track/5hoKh6MYg8NunGCFGgZTx4"
@@ -1105,7 +1159,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 553280,
       "name": "Raga - Brindavani",
       "url": "https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo"
@@ -1123,7 +1177,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 553280,
       "name": "Raga Brindavani: Alap",
       "url": "https://open.spotify.com/track/42i2BVvCd0PzHbpUHRBXsc"
@@ -1303,7 +1357,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 309013,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT"
@@ -1321,7 +1375,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309024,
       "name": "Shiva's Meditation",
       "url": "https://open.spotify.com/track/2PIOLxy5u0q2KzbAE2gG2b"
@@ -1361,10 +1415,32 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192473,
       "name": "Siddharthas Echoes",
       "url": "https://open.spotify.com/track/0VB1Djbd1gnDZzhLHopYIf"
+    },
+    {
+      "album": {
+        "name": "Siddharthas Echoes",
+        "url": "https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b"
+      },
+      "artists": [
+        {
+          "name": "Vedic Moon",
+          "url": "https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7"
+        },
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Siddharthas Echoes",
+      "url": "https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm"
     },
     {
       "album": {
@@ -1541,7 +1617,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 397480,
       "name": "Tranquil Sunset",
       "url": "https://open.spotify.com/track/58cCbafr6TZ4u1T4u4weTI"
@@ -1559,7 +1635,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397486,
       "name": "Tranquil Sunset",
       "url": "https://open.spotify.com/track/2IeJpqjaD2taFXlJWX3ru0"

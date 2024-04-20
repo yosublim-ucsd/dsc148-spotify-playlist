@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 105032,
+  "2024-04-20": 105070,
   "date_first_scraped": "2022-05-30",
   "description": "Please consider donating to Hawai'i Community Foundation's <a href=\"https://www.hawaiicommunityfoundation.org/maui-strong?fbclid=IwAR13k_bWcOzvA0EM6bF6CSmkSktK8G[%E2%80%A6]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ\">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui. ",
   "name": "All the Aloha: Native Hawaii",
@@ -69,7 +69,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259266,
       "name": "'\u00dclili E - vocal duet with David Kamakahi",
       "url": "https://open.spotify.com/track/3bk9omZQSOmqpEo19iz1Xp"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256466,
       "name": "A Place In The Sun",
       "url": "https://open.spotify.com/track/3dXFwE9yIXuotnjN7wsP2N"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256466,
       "name": "A Place In The Sun (feat. Jack Johnson with Paula Fuga)",
       "url": "https://open.spotify.com/track/1g9zSBL1faQ12FBBuvVlZ5"
@@ -325,6 +325,24 @@
     {
       "album": {
         "name": "Grateful",
+        "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP"
+    },
+    {
+      "album": {
+        "name": "Grateful",
         "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
       },
       "artists": [
@@ -339,7 +357,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220440,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ"
@@ -555,7 +573,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310973,
       "name": "Ipo Lei Manu",
       "url": "https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G"
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313133,
       "name": "Ipo Lei Manu",
       "url": "https://open.spotify.com/track/5WyLpJPhodJDTTgtJEbq71"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282706,
       "name": "Lei 'Awapuhi",
       "url": "https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279640,
       "name": "Lei 'Awapuhi (Yellow Ginger Lei)",
       "url": "https://open.spotify.com/track/65u37xoJP0KacbWz40chq9"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Popoki Slack Key - Instrumental",
       "url": "https://open.spotify.com/track/63Fq2OlIJKdNK1kSl54iv5"
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 260784,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/0DF1Vus2YUnfnLdsqekXBZ"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260784,
       "name": "Prisoner of Love",
       "url": "https://open.spotify.com/track/27dhf3MNqSiNCSX5Z7le3E"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162960,
       "name": "P\u014dpoki Slack Key",
       "url": "https://open.spotify.com/track/1WtCzz23wlFimz0MxN4TQv"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224986,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/2bDmYeA5ovrMJQJ9AR1Mxj"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224986,
       "name": "Simple Love Song",
       "url": "https://open.spotify.com/track/6fyj8DYAUlrjDcJBOVnYEB"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269613,
       "name": "Wahine 'Ilikea",
       "url": "https://open.spotify.com/track/7ctTIxYYyYYQ58pzkRrYiR"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269626,
       "name": "Wahine 'Ilikea",
       "url": "https://open.spotify.com/track/1MtfC9i9HHG6DCXClvbwxw"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151920,
       "name": "Whee Ha Swing",
       "url": "https://open.spotify.com/track/2yfmFza2MM6TV3QBvC138Z"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157493,
       "name": "Whee Ha Swing",
       "url": "https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257799,
       "name": "\u016alili E (feat. David Kamakahi)",
       "url": "https://open.spotify.com/track/2QzWe2SeKCft3DWKO7DuBS"

@@ -4,7 +4,7 @@
 
 > Todos pro alto, cada um com o seu\. Foto: Danzo
 
-374 songs - 19 hr 34 min
+375 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [40 Graus](https://open.spotify.com/track/79A9iGFQH99jsX5utuO0wU) | [Meno Will](https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [40 Graus](https://open.spotify.com/album/5HxNKy2cBYYXVClbp8R8MZ) | 3:17 | 2022-04-08 | 2022-04-23 |
 | [7 Galo](https://open.spotify.com/track/3RbKKxD82F8VZKqSGxTaxk) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [Eo Ppt](https://open.spotify.com/artist/6Vco5rCTxBDQQjt5MShA9L), [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha) | [7 Galo](https://open.spotify.com/album/3IUE2l0rbXzT7x0QCILLxo) | 3:48 | 2022-09-23 | 2022-10-08 |
 | [7 NOVINHA PRA 2 MLK \- BONUS TRACK](https://open.spotify.com/track/53d5THIukxStMHSJrGOOvu) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 3:00 | 2023-10-13 |  |
+| [762](https://open.spotify.com/track/0JM6FI0rlkhIUIctTgpsAy) | [Ryan.4l](https://open.spotify.com/artist/6J4XzStfOx8YQGkd5xYIYU), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ), [Phl Notunrboy](https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr) | [762](https://open.spotify.com/album/4wj9nyzdc2lkeJb1RNIMs9) | 2:27 | 2024-04-19 |  |
 | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga) | 5:02 | 2022-03-18 |  |
 | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [A Cara do Crime 2 \(Cansou de Playboy\)](https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0) | 4:25 | 2022-03-18 | 2023-10-18 |
 | [A Noite](https://open.spotify.com/track/2mcw9Bzsc9FXgZJdXZsrSg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [A Noite](https://open.spotify.com/album/7KVMxEXWpwjtM0tDXW6vbe) | 3:22 | 2022-08-12 | 2022-08-27 |

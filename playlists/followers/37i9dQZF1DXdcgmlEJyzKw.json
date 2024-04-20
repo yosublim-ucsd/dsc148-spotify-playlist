@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 38188,
+  "2024-04-20": 38208,
   "date_first_scraped": "2022-02-08",
   "description": "Early explorations with recorded sounds as instruments -  the groundwork for sampling as we know it today.",
   "name": "Musique Concr\u00e8te",
@@ -263,9 +263,9 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 368800,
-      "name": "Dies Irae",
+      "name": "Dies irae",
       "url": "https://open.spotify.com/track/3ekTbi14cj5gjg1HXj1XFv"
     },
     {
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 412240,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/1EDH57CTAQM2EIsH7FDBA8"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 412240,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/3T3RTyI10f6eQBa38NAi0i"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 798200,
       "name": "Pentes",
       "url": "https://open.spotify.com/track/0OYyCSTLAicBotZXMHuMYI"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 798200,
       "name": "Pentes - 1974",
       "url": "https://open.spotify.com/track/6phMu2LfjPKujoeXdUhjTG"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364653,
       "name": "Requiem - Dies Irae",
       "url": "https://open.spotify.com/track/6uF9axYewaCh9c33FxIbAH"
@@ -1112,12 +1112,12 @@
       "artists": [
         {
           "name": "Phil Young",
-          "url": "https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly"
+          "url": "https://open.spotify.com/artist/6GkXUhXuVxMAM6SjAT2HfZ"
         }
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 28369,
       "name": "Science & Industry",
       "url": "https://open.spotify.com/track/5pAZhawFE5XMjnSWApssUg"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 31680,
       "name": "Science and Industry",
       "url": "https://open.spotify.com/track/7jCdR2wBBmGI9ZXZVGb5Ln"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154309,
       "name": "Whirling",
       "url": "https://open.spotify.com/track/2hjJ5lklAnK7EMlnCHcaaZ"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154309,
       "name": "Whirling",
       "url": "https://open.spotify.com/track/2mWkAjNIpkqyblLWVstIV3"
@@ -1383,7 +1383,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 109223,
       "name": "Wire Recorder Piece",
       "url": "https://open.spotify.com/track/6B8EIKs90a7PAlUxMT5Szo"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117666,
       "name": "Wire Recorder Piece",
       "url": "https://open.spotify.com/track/6qUPW7YB1fHN2J2HMAY7bv"

@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 277000,
       "name": "Me Dejaste Sin Nada",
       "url": "https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw"
@@ -2288,6 +2288,24 @@
       "duration_ms": 284421,
       "name": "Una Hoja en Blanco",
       "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
+    },
+    {
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284586,
+      "name": "Ven a Mi",
+      "url": "https://open.spotify.com/track/1g2ZA7SEOEio0tiPRuKQlS"
     },
     {
       "album": {

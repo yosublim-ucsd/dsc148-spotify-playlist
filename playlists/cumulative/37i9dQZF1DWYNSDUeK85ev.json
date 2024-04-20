@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto (Session #9)",
+        "url": "https://open.spotify.com/album/0ngWXQa5OZeQmUvkNPsLek"
+      },
+      "artists": [
+        {
+          "name": "Cristian JS",
+          "url": "https://open.spotify.com/artist/3vlE4er6k5ngHKWhEQa04u"
+        },
+        {
+          "name": "Dj Martin Meluz",
+          "url": "https://open.spotify.com/artist/1r8Xlr10rdMyQChWzfUJTz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63687,
+      "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto - Session #9",
+      "url": "https://open.spotify.com/track/2tomu9yL0c4LbnwGXtZLmf"
+    },
+    {
+      "album": {
         "name": "Dupla Galactica",
         "url": "https://open.spotify.com/album/0s6CLBmyJTzYYvQvfIkX0S"
       },
@@ -6018,7 +6040,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 198720,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21962,
+  "2024-04-20": 21973,
   "date_first_scraped": "2023-10-10",
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
   "name": "Electro Folklore",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 270666,
       "name": "Adi\u00f3s pueblito de Iruya - Guaz\u00fa Remix",
       "url": "https://open.spotify.com/track/3hH6WqLMwcjN5tweLTx8Mv"
@@ -65,7 +65,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293990,
       "name": "Agua de La Tierra - Nicola Cruz Remix",
       "url": "https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5"
@@ -83,7 +83,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "Aisito",
       "url": "https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy"
@@ -105,7 +105,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377684,
       "name": "Alma",
       "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137104,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
@@ -309,10 +309,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338630,
       "name": "A\u00f1oranza en las Yungas",
       "url": "https://open.spotify.com/track/6NpLNDr5HA3tQVmCmVyzMd"
+    },
+    {
+      "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338630,
+      "name": "A\u00f1oranza en las Yungas",
+      "url": "https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4"
     },
     {
       "album": {
@@ -407,7 +425,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314854,
       "name": "Belleza en el Aire - Remix",
       "url": "https://open.spotify.com/track/6oi6cJTZ2ZgSSud6Obd8tR"
@@ -425,10 +443,46 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304093,
       "name": "Bienvenidos: Maiche Anawateuo",
       "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
+    },
+    {
+      "album": {
+        "name": "Cada Uno con Su Bandera",
+        "url": "https://open.spotify.com/album/64VFo7Z9zmG9AQUVARHhvh"
+      },
+      "artists": [
+        {
+          "name": "Dat Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243072,
+      "name": "Cada Uno con Su Bandera",
+      "url": "https://open.spotify.com/track/15TMCqDL4fOiAv8AX5ckIi"
+    },
+    {
+      "album": {
+        "name": "A Guide to the Birdsong of South America",
+        "url": "https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp"
+      },
+      "artists": [
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228019,
+      "name": "Capuchino Pecho Blanco",
+      "url": "https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI"
     },
     {
       "album": {
@@ -443,7 +497,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228019,
       "name": "Capuchino Pecho Blanco",
       "url": "https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp"
@@ -461,7 +515,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248941,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn"
@@ -479,10 +533,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 325933,
       "name": "Carnabailito",
       "url": "https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK"
+    },
+    {
+      "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241538,
+      "name": "Carnabailito",
+      "url": "https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix"
     },
     {
       "album": {
@@ -501,6 +573,28 @@
       "duration_ms": 172421,
       "name": "CARNAVALITO DEL DUENDE",
       "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
+    },
+    {
+      "album": {
+        "name": "Ca\u00f1averal",
+        "url": "https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Ca\u00f1averal",
+      "url": "https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d"
     },
     {
       "album": {
@@ -537,7 +631,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296258,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/57579JMa428PUzNyRHRtsm"
@@ -577,10 +671,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "Coplita",
       "url": "https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj"
+    },
+    {
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Miriam Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Coplita",
+      "url": "https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC"
     },
     {
       "album": {
@@ -595,7 +711,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192017,
       "name": "Coraz\u00f3n Amanecido",
       "url": "https://open.spotify.com/track/5HgZ1BSj5hdaPZwpiCaA02"
@@ -617,10 +733,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263428,
       "name": "Coraz\u00f3n de Agua",
       "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy"
     },
     {
       "album": {
@@ -653,7 +791,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332024,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT"
@@ -679,7 +817,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Cuando Oigo Sonar la Caja (Ruido Selecto Remix)",
       "url": "https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV"
@@ -731,7 +869,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 362653,
       "name": "CUMBIA ORIENTAL",
       "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
@@ -819,7 +957,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203000,
       "name": "El 34",
       "url": "https://open.spotify.com/track/2PRinPnrt1LQwCjFq6uan5"
@@ -899,7 +1037,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 300250,
       "name": "El tiempo de las cosas que frenan",
       "url": "https://open.spotify.com/track/0KadCh4wyXRyAGBxrFEesw"
@@ -925,6 +1063,28 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ"
     },
     {
       "album": {
@@ -965,6 +1125,32 @@
       "duration_ms": 192495,
       "name": "Gurisito Cosmico",
       "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+    },
+    {
+      "album": {
+        "name": "HACIA EL MAR (Pol Nada Remix)",
+        "url": "https://open.spotify.com/album/4B1SL9dLGBJCOx7JFfo4x3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Braile",
+          "url": "https://open.spotify.com/artist/659Vlm5tMVPeKVZG8h9VZT"
+        },
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319817,
+      "name": "HACIA EL MAR - Pol Nada Remix",
+      "url": "https://open.spotify.com/track/3RevMlORUCSBeVpNNH9D1G"
     },
     {
       "album": {
@@ -1079,10 +1265,32 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/5t34pVFdmAjwMXlCOzxJyy"
+    },
+    {
+      "album": {
+        "name": "Jallalla",
+        "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340616,
+      "name": "La Frontera",
+      "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
     },
     {
       "album": {
@@ -1157,10 +1365,36 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187163,
       "name": "La L\u00ednea del R\u00edo",
       "url": "https://open.spotify.com/track/70M7NOGgvfBDTZtk4RE6ZX"
+    },
+    {
+      "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/6mrRqGRAlSKITzEOqldUeT"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "San Ignacio",
+          "url": "https://open.spotify.com/artist/1VYIR2nkuWXMAeWMppKjcr"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248746,
+      "name": "La L\u00ednea del R\u00edo - San Ignacio & Pol Nada Remix",
+      "url": "https://open.spotify.com/track/4QjDr4c2f7RMdK0h0DI091"
     },
     {
       "album": {
@@ -1219,7 +1453,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260867,
       "name": "Los Pajaros",
       "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
@@ -1289,6 +1523,28 @@
       "duration_ms": 275256,
       "name": "Madre de la Sierra",
       "url": "https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2"
+    },
+    {
+      "album": {
+        "name": "Margarita y Margarito (Remix)",
+        "url": "https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg"
+      },
+      "artists": [
+        {
+          "name": "Las 3 Marias",
+          "url": "https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx"
+        },
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351340,
+      "name": "Margarita y Margarito (Remix)",
+      "url": "https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ"
     },
     {
       "album": {
@@ -1413,6 +1669,24 @@
     {
       "album": {
         "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
+        "url": "https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241023,
+      "name": "Peoncito de Estancia - Kaleema Remix",
+      "url": "https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh"
+    },
+    {
+      "album": {
+        "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
         "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
       "artists": [
@@ -1427,7 +1701,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241023,
       "name": "Peoncito de Estancia - Kaleema Remix",
       "url": "https://open.spotify.com/track/0zIiND609voPOWidaLjnYi"
@@ -1449,10 +1723,50 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314009,
       "name": "Que Bailen",
       "url": "https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb"
+    },
+    {
+      "album": {
+        "name": "Que Bailen",
+        "url": "https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314009,
+      "name": "Que Bailen",
+      "url": "https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I"
+    },
+    {
+      "album": {
+        "name": "Terrapl\u00e9n",
+        "url": "https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q"
+      },
+      "artists": [
+        {
+          "name": "Terrapl\u00e9n",
+          "url": "https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Quita La Pena",
+      "url": "https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d"
     },
     {
       "album": {
@@ -1489,7 +1803,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181992,
       "name": "Reverdecer - Remix",
       "url": "https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB"
@@ -1511,6 +1825,24 @@
       "duration_ms": 295073,
       "name": "Rio Contento",
       "url": "https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety"
+    },
+    {
+      "album": {
+        "name": "CARNABAILITO",
+        "url": "https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB"
+      },
+      "artists": [
+        {
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Se que no Vas a Volver",
+      "url": "https://open.spotify.com/track/5HF4UKMAJa20x0fRZrNuce"
     },
     {
       "album": {
@@ -1609,7 +1941,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233012,
       "name": "Sueno en Paraguay",
       "url": "https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro"
@@ -1689,7 +2021,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276029,
       "name": "Te digo Wayno",
       "url": "https://open.spotify.com/track/3LNqP7VsReHq4OY0PNhd7A"
@@ -1715,6 +2047,32 @@
       "duration_ms": 245000,
       "name": "Te Quer\u00eda - Chancha V\u00eda Circuito Remix",
       "url": "https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe"
+    },
+    {
+      "album": {
+        "name": "Telesita",
+        "url": "https://open.spotify.com/album/5WDUa04DUTsxiaV2521HxI"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        },
+        {
+          "name": "Natalia Schvartz",
+          "url": "https://open.spotify.com/artist/6tCc6HPX9zyO6D6hcTax05"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264323,
+      "name": "Telesita",
+      "url": "https://open.spotify.com/track/0RGqEIfquYU64MxQlCVtqL"
     },
     {
       "album": {
@@ -1788,6 +2146,42 @@
     },
     {
       "album": {
+        "name": "Tilcara",
+        "url": "https://open.spotify.com/album/5nCu0disdQEhv74qkksFIg"
+      },
+      "artists": [
+        {
+          "name": "Apuna",
+          "url": "https://open.spotify.com/artist/6aQnkgpCB0Zq7GjONZyd4g"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "Tilcara",
+      "url": "https://open.spotify.com/track/4ByBsOC6VsOfkg2SDBQT2q"
+    },
+    {
+      "album": {
+        "name": "Toca",
+        "url": "https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Toca",
+      "url": "https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4"
+    },
+    {
+      "album": {
         "name": "Muta",
         "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
       },
@@ -1799,7 +2193,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210680,
       "name": "Toca",
       "url": "https://open.spotify.com/track/07VELk4yHZ0MpGndajSrMX"
@@ -1875,7 +2269,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232013,
       "name": "Viajante",
       "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
@@ -1923,6 +2317,24 @@
     {
       "album": {
         "name": "Campo",
+        "url": "https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP"
+    },
+    {
+      "album": {
+        "name": "Campo",
         "url": "https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6"
       },
       "artists": [
@@ -1955,7 +2367,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189030,
       "name": "Zorzal",
       "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 59101,
+  "2024-04-20": 59177,
   "date_first_scraped": "2023-02-08",
   "description": "Melodic house and techno to concentrate the mind.",
   "name": "Melodic Rhythm Focus",
@@ -163,10 +163,32 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190000,
       "name": "Biologically Unique",
       "url": "https://open.spotify.com/track/1w0YqmsRPGnUhw5WPCjbwL"
+    },
+    {
+      "album": {
+        "name": "Destroying the Commons - (The Noam Chomsky Music Project)",
+        "url": "https://open.spotify.com/album/2V9uLzbnL5NcRq9TkoTfbX"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        },
+        {
+          "name": "Ian Urbina",
+          "url": "https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Biologically Unique",
+      "url": "https://open.spotify.com/track/2VukibQEo7pjNYXdPyOGqL"
     },
     {
       "album": {
@@ -517,10 +539,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288029,
       "name": "Faded Memories (Mixed)",
       "url": "https://open.spotify.com/track/2TO4pqzHjdo6GlY0c9vCyb"
+    },
+    {
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/3dKrZT2Ewo4Pgq4U03pdwY"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288029,
+      "name": "Faded Memories - Mixed",
+      "url": "https://open.spotify.com/track/7hUgRTjqAoWPrmvfjdfTQr"
     },
     {
       "album": {
@@ -618,6 +658,28 @@
     },
     {
       "album": {
+        "name": "Freedom (Original Mix)",
+        "url": "https://open.spotify.com/album/2KvceQDbrBZp9wA5VQcJNP"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283645,
+      "name": "Freedom - Original Mix",
+      "url": "https://open.spotify.com/track/5qv8RDbrZMdmXs23yqavHY"
+    },
+    {
+      "album": {
         "name": "fabric presents Mind Against: Exclusives",
         "url": "https://open.spotify.com/album/4gyiwaMaa84mwDuDbTLEPi"
       },
@@ -633,7 +695,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283645,
       "name": "Freedom - Original Mix",
       "url": "https://open.spotify.com/track/6wVaytq9Ssa01nMhKJELWO"
@@ -669,7 +731,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
@@ -687,7 +749,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221090,
       "name": "Home",
       "url": "https://open.spotify.com/track/6ekLy1OsrYdLMbcqc0KZ8G"
@@ -817,10 +879,28 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227834,
       "name": "Light Beam",
       "url": "https://open.spotify.com/track/3ElJuZPmBGeyZotv1yrusW"
+    },
+    {
+      "album": {
+        "name": "In Another Lifetime",
+        "url": "https://open.spotify.com/album/3rbRgdfalHwqQSDIj1zVze"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227834,
+      "name": "Light Beam",
+      "url": "https://open.spotify.com/track/7oa2Dt5BBn8qAfPm713RXR"
     },
     {
       "album": {
@@ -977,7 +1057,7 @@
     {
       "album": {
         "name": "DISPOSABLE SOCIETY (DELUXE)",
-        "url": "https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H"
+        "url": "https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF"
       },
       "artists": [
         {
@@ -998,12 +1078,12 @@
       "date_removed": null,
       "duration_ms": 207360,
       "name": "Meds - yuma. Remix",
-      "url": "https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ"
+      "url": "https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc"
     },
     {
       "album": {
         "name": "DISPOSABLE SOCIETY (DELUXE)",
-        "url": "https://open.spotify.com/album/4ydB44OU7hMXY65PJroOnF"
+        "url": "https://open.spotify.com/album/2ToPwhMJhWGPPr1JXY0f6H"
       },
       "artists": [
         {
@@ -1011,7 +1091,7 @@
           "url": "https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH"
         },
         {
-          "name": "yuma.",
+          "name": "YUMA",
           "url": "https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0"
         },
         {
@@ -1021,10 +1101,10 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": "2024-04-19",
       "duration_ms": 207360,
       "name": "Meds - yuma. Remix",
-      "url": "https://open.spotify.com/track/3VbGkKIFxuUP6fAcmKwEYc"
+      "url": "https://open.spotify.com/track/3aIjxH92Y5thPmaJZV8EtZ"
     },
     {
       "album": {
@@ -1807,7 +1887,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217195,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/72JL5YYqI41JDrgpXOqiwg"
@@ -1829,7 +1909,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 217195,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/7toCMhnVo1qctxl8IK8l9K"

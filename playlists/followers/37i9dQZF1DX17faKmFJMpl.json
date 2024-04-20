@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 3595,
+  "2024-04-20": 3596,
   "date_first_scraped": "2022-05-30",
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
   "name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242826,
       "name": "4 Life (feat. YURI)",
       "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
@@ -43,10 +43,36 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 242826,
       "name": "4 Life (Feat. Yuri)",
       "url": "https://open.spotify.com/track/7sFUq6W4gdE4xUwA2bBy0m"
+    },
+    {
+      "album": {
+        "name": "Still-A-Live (Club Master Plan Last Live Album)",
+        "url": "https://open.spotify.com/album/3PrWzEpXjeQYGeI7zWeddq"
+      },
+      "artists": [
+        {
+          "name": "\uc6d0\uc36c",
+          "url": "https://open.spotify.com/artist/7dy2Iukbsr1ds1cxHfSpP3"
+        },
+        {
+          "name": "Nodo",
+          "url": "https://open.spotify.com/artist/4YhhSCN4MzSpKAD8bfjbB3"
+        },
+        {
+          "name": "Blood",
+          "url": "https://open.spotify.com/artist/0uQNESRwfBKuhWkfuKoJJY"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352306,
+      "name": "A Letter \uc11c\uc0ac",
+      "url": "https://open.spotify.com/track/0FY6YdORGb53GPNQ1UHm8o"
     },
     {
       "album": {
@@ -65,7 +91,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238133,
       "name": "A Long Time Ago (feat. Heritage)",
       "url": "https://open.spotify.com/track/0ECcBoAhm3VML4sTbfSXgn"
@@ -87,7 +113,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "A Long Time Ago (feat. Heritage)",
       "url": "https://open.spotify.com/track/6bLu24iP5lJZoCe8mONpXL"
@@ -139,7 +165,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
@@ -235,7 +261,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291333,
       "name": "Alchemy (feat. Kebee, Paloalto)",
       "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
@@ -261,7 +287,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 291333,
       "name": "Alchemy \uc5f0\uae08\uc220\uc0ac (Feat. Kebee, Paloalto)",
       "url": "https://open.spotify.com/track/0mY8oNpzAbWwJIVEerVqw7"
@@ -279,7 +305,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 276306,
       "name": "Around Us",
       "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
@@ -373,7 +399,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220880,
       "name": "BAAAM (Feat. Muzie of UV)",
       "url": "https://open.spotify.com/track/1Zhu3hBdD87txCgJvj3jrU"
@@ -391,7 +417,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307475,
       "name": "Baby Don'T Cry",
       "url": "https://open.spotify.com/track/0Fpjb7QcpOQldTpPbVdadK"
@@ -443,7 +469,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 259160,
       "name": "Be Free (feat. Verbal Jint, Sean2Slow)",
       "url": "https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA"
@@ -461,7 +487,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 249946,
       "name": "Beatz 4 Da Streetz",
       "url": "https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7"
@@ -559,7 +585,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204750,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/57dAn3xBS8XfKeWJBmoTCC"
@@ -577,7 +603,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy"
@@ -613,7 +639,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 272706,
       "name": "Burning The Bridges Behind \ubc30\uc218\uc758 \uc9c4",
       "url": "https://open.spotify.com/track/3hfBuDKj3DOfhPWeCzVvZu"
@@ -635,7 +661,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201066,
       "name": "But I Go",
       "url": "https://open.spotify.com/track/3aLFsHsklwOV1yatI8Z9ZQ"
@@ -657,7 +683,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201066,
       "name": "But I Go (Feat. Juvie Train Of Buga Kingz)",
       "url": "https://open.spotify.com/track/1xxnt98uxXi956Acu3Kx2g"
@@ -675,7 +701,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250866,
       "name": "CHO",
       "url": "https://open.spotify.com/track/5CmKZpxzC8xaFLzXFZUDUY"
@@ -755,7 +781,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202500,
       "name": "Classic",
       "url": "https://open.spotify.com/track/2jjLNku7WN4Mn4RY19QVrb"
@@ -865,7 +891,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255346,
       "name": "Dice",
       "url": "https://open.spotify.com/track/5aHQ4PvKTjs5thoKbGGium"
@@ -997,7 +1023,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235253,
       "name": "Don Quixote \ub3c8\ud0a4\ud638\ud14c (feat. Realslow)",
       "url": "https://open.spotify.com/track/22ALrulRzldazLgc0Syvpg"
@@ -1019,7 +1045,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 276120,
       "name": "Don Quixote \ub3c8\ud0a4\ud638\ud14c (feat. Simo) - 2006 Remix",
       "url": "https://open.spotify.com/track/4JphvFx65fbQxXrWJ5qDTU"
@@ -1037,7 +1063,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239052,
       "name": "Drama - 2021 Remaster",
       "url": "https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB"
@@ -1063,7 +1089,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 221746,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/1eHkxL1JMeQoUGqmkXCu9q"
@@ -1089,7 +1115,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221746,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3UkVMgfOi815K5da9exWM3"
@@ -1133,7 +1159,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213173,
       "name": "Favorite (feat. Dynamicduo)",
       "url": "https://open.spotify.com/track/0yxUK59a4jBkmwVVJyW6c7"
@@ -1173,7 +1199,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208066,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/6RCgCE0UuHV3FaLwE3DSwa"
@@ -1195,7 +1221,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "Feeling You (feat. \uc0db\ubcc4 Satbyeol)",
       "url": "https://open.spotify.com/track/7DrZq2baW5oY8gLxs4vJgB"
@@ -1249,7 +1275,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 76560,
       "name": "Giant",
       "url": "https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf"
@@ -1267,7 +1293,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302773,
       "name": "Gilmak",
       "url": "https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY"
@@ -1325,7 +1351,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224893,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
@@ -1423,7 +1449,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 184160,
       "name": "Hip Hop Down Hip Hop \ud799\ud569\ub2e4\uc6b4 \ud799\ud569",
       "url": "https://open.spotify.com/track/1kUUHpKeoOTL1j6ALxQrf2"
@@ -1575,7 +1601,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227013,
       "name": "Hiphop Music (feat. Lim Jeong Hee)",
       "url": "https://open.spotify.com/track/15x7ZH3FVq146zBXEiS13P"
@@ -1641,7 +1667,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "I Don't Give a F**k",
       "url": "https://open.spotify.com/track/7rzA8J89ASSb9pTFWqvjrB"
@@ -1667,7 +1693,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228066,
       "name": "I Don't Give a F**k (With DEADP, DEEPFLOW)",
       "url": "https://open.spotify.com/track/5JLuYzihQrbSUChde9wCFn"
@@ -1783,7 +1809,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233000,
       "name": "Lastman Standing",
       "url": "https://open.spotify.com/track/46P9ESmF3WAGEpllZFAWbd"
@@ -1877,7 +1903,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240840,
       "name": "Little Thug Kid",
       "url": "https://open.spotify.com/track/1AnuoG3yUsCJWRTmsHz9Fh"
@@ -1895,7 +1921,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266066,
       "name": "Little Thug Kid 2",
       "url": "https://open.spotify.com/track/6KGHEB4hbz50HdfjdS60Bw"
@@ -1913,7 +1939,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 266066,
       "name": "Little Thug Kid 2 \uaf2c\ub9c8 \ub2ec\uac74\uc774 2",
       "url": "https://open.spotify.com/track/1zEY6NpfK4AXxUUxko2rfJ"
@@ -1957,7 +1983,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 241263,
       "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
       "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
@@ -2019,7 +2045,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229120,
       "name": "Neva Lose (feat. 237)",
       "url": "https://open.spotify.com/track/2I0IPGSGsjQwXj2D9iGhxw"
@@ -2053,7 +2079,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 256574,
       "name": "Never Give Up \u2161 (Feat. \uc190\ubc15\uc0ac, \uc624\uc804\ub3c4\uc0ac, DJ Uzi, Rich)",
       "url": "https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE"
@@ -2071,7 +2097,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186973,
       "name": "New-$-Cool - Jiggy Fellaz",
       "url": "https://open.spotify.com/track/5xwdzYgQFK9ALpeqb95Cnc"
@@ -2115,7 +2141,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237333,
       "name": "No. 3 (feat. Sol' Flower)",
       "url": "https://open.spotify.com/track/0ld6OTonElmaIg1PLfbxZD"
@@ -2177,7 +2203,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247666,
       "name": "Nu Skool",
       "url": "https://open.spotify.com/track/330s3OIUha9yPqm8WPsDOG"
@@ -2195,7 +2221,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247666,
       "name": "Nu Skool",
       "url": "https://open.spotify.com/track/75tS3ruH8ETPe92vOIMHG3"
@@ -2287,7 +2313,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276066,
       "name": "One Nation (feat. DJ R2, Bone Thugs-n-Harmony, BAECHIGI, Outsider, Illinit, \ucde8\ub7a9, Leo Kekoa)",
       "url": "https://open.spotify.com/track/0SwKwiD9RGhgBBLQ0kLCBC"
@@ -2313,7 +2339,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234520,
       "name": "One Way",
       "url": "https://open.spotify.com/track/0o8oqMHJ1YLMk0bqQvCxoX"
@@ -2330,7 +2356,7 @@
         },
         {
           "name": "Soulman",
-          "url": "https://open.spotify.com/artist/07SUTciFmjTvoxFHt8x2Vy"
+          "url": "https://open.spotify.com/artist/2byXk8UtNJKEyt9qHnd7SH"
         },
         {
           "name": "Verbal Jint",
@@ -2339,7 +2365,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 234520,
       "name": "One Way (feat. Verbal Jint & Soulman)",
       "url": "https://open.spotify.com/track/00Q0kI5etexakqmNEF0Coh"
@@ -2429,7 +2455,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187506,
       "name": "P-type The Big Cat",
       "url": "https://open.spotify.com/track/1XuvgpB0E6hPRAtMRpPvJV"
@@ -2531,7 +2557,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 263186,
       "name": "Platonic",
       "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
@@ -2549,7 +2575,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 164354,
       "name": "Radio - 2021 Remaster",
       "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
@@ -2645,7 +2671,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313893,
       "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
       "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
@@ -2681,10 +2707,40 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279146,
-      "name": "Resume pt.2",
+      "name": "Resume Pt.2",
       "url": "https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp"
+    },
+    {
+      "album": {
+        "name": "Superior Vol.2 - Seoul City's Finest",
+        "url": "https://open.spotify.com/album/0inR9U2ispTxUMi9bokwbE"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        },
+        {
+          "name": "Lil' Joe",
+          "url": "https://open.spotify.com/artist/5jczXhYt2ZHqZVVafx4IZg"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318213,
+      "name": "Right Here, Right Now (Feat. BILL STAX, Lil' Joe, Verbal Jint)",
+      "url": "https://open.spotify.com/track/4xUHu4Js2cd4ca9W3rMjjv"
     },
     {
       "album": {
@@ -2787,7 +2843,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227960,
       "name": "Solo To The Top 2 (feat. Kim Bum Soo)",
       "url": "https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz"
@@ -2803,13 +2859,13 @@
           "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
         },
         {
-          "name": "Kim Bum Soo",
+          "name": "KIM BUMSOO",
           "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227960,
       "name": "Solo To The Top 2 \uc815\uc0c1\uc744 \ud5a5\ud55c \ub3c5\uc8fc 2 (Feat. Kim Bum Soo)",
       "url": "https://open.spotify.com/track/5UzBhnEl5xTU4K0lJTesoA"
@@ -2899,7 +2955,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230797,
       "name": "Spell My Name Right - Original Version",
       "url": "https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq"
@@ -2933,17 +2989,13 @@
       },
       "artists": [
         {
-          "name": "Mad Clown",
-          "url": "https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
         }
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 216741,
       "name": "Strike The Gold",
       "url": "https://open.spotify.com/track/0LNjB969ynI0xEPHNx8PCD"
@@ -2969,7 +3021,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216967,
       "name": "Strike The Gold (feat. The Quiett)",
       "url": "https://open.spotify.com/track/1rNfanETuJbKQhVpZtV8V5"
@@ -3017,7 +3069,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222911,
       "name": "Superstar (feat. Celma)",
       "url": "https://open.spotify.com/track/7yAGggmGxkcSr37n8kn2XA"
@@ -3083,7 +3135,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254400,
       "name": "Three Dopeboyz (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/74Q5gW006ZD5iIaVYB1EhO"
@@ -3127,7 +3179,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 272213,
       "name": "Three Pirates (Feat. YDG)",
       "url": "https://open.spotify.com/track/3SpidEKQSR7EqL6qA0ueny"
@@ -3197,7 +3249,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230506,
       "name": "Twisted Words",
       "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
@@ -3245,7 +3297,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256693,
       "name": "U-turn (Feat. Verbal Jint)",
       "url": "https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP"
@@ -3263,7 +3315,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248026,
       "name": "Underground",
       "url": "https://open.spotify.com/track/2MZLnU6nsGjB9qemy0SIZB"
@@ -3385,7 +3437,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 172421,
       "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
       "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
@@ -3403,7 +3455,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 237906,
       "name": "Windbag Three Brothers and Spinner Park",
       "url": "https://open.spotify.com/track/3oEmiVqBam9ivEPIVt63PQ"
@@ -3457,7 +3509,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 186177,
       "name": "ZZamba Flex",
       "url": "https://open.spotify.com/track/6zW5FlmgTohMaL7fwQuKmg"
@@ -3675,7 +3727,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237400,
       "name": "\ub0b4\ub9ac\ub9c9 (feat. Tablo, Mithra Jin)",
       "url": "https://open.spotify.com/track/5TdSTn8VjEHE611v4Uhw3o"
@@ -3793,7 +3845,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 253453,
       "name": "\ub5a0\ubc84\ub9ac Pt. 2 (feat. Pocyomkin, 1 Kyne, Sean2slow & \ub354\ube14\ucf00\uc774)",
       "url": "https://open.spotify.com/track/1dfWtvnNCvMXE7kJOyZAF2"
@@ -3853,7 +3905,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "\ub611\ubc14\ub85c \uac78\uc5b4\uac00 (feat. Redroc & \ub3c4\ub07c)",
       "url": "https://open.spotify.com/track/1JqFbX69FRMVZCb6TGiWh0"
@@ -3879,7 +3931,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "\ub611\ubc14\ub85c \uac78\uc5b4\uac00 (feat. Redroc & \ub3c4\ub07c)",
       "url": "https://open.spotify.com/track/6LY8SLZE6WahwaAluvocrb"
@@ -3941,7 +3993,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224973,
       "name": "\ub9c8\ubd80",
       "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
@@ -3963,7 +4015,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 224973,
       "name": "\ub9c8\ubd80 Horseman (feat. The Quiett)",
       "url": "https://open.spotify.com/track/2nR0PsyF1tzy6fqEz84ACg"
@@ -3999,7 +4051,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191573,
       "name": "\ub9c8\uc774\ub3d9\ud48d",
       "url": "https://open.spotify.com/track/59SvswsfxIXboMr9cjfn1y"
@@ -4047,7 +4099,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-21",
+      "date_removed": null,
       "duration_ms": 166974,
       "name": "\ubc15\uad50\uc8fc \uc804\uc131\uc2dc\ub300",
       "url": "https://open.spotify.com/track/471yf20erR95AOOzVeGcZU"
@@ -4069,7 +4121,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226373,
       "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG Sung Eun)",
       "url": "https://open.spotify.com/track/2RVjDCmtwaBf8RBq9kQGY8"
@@ -4091,7 +4143,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226373,
       "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG)",
       "url": "https://open.spotify.com/track/2WXdxJC5ccIdqaEkT6IkPi"
@@ -4109,7 +4161,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 200933,
       "name": "\ubd88\ud55c\ub2f9's oblige",
       "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
@@ -4175,7 +4227,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 331426,
       "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
       "url": "https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh"
@@ -4193,7 +4245,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331426,
       "name": "\ubfcc\ub9ac\uae4a\uc740 \ub098\ubb34",
       "url": "https://open.spotify.com/track/2s65pwHpdE4qURvCTAKNj1"
@@ -4219,7 +4271,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
@@ -4291,7 +4343,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294986,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
       "url": "https://open.spotify.com/track/2TU1lpHBd1C0DvvSsdVdiI"
@@ -4309,7 +4361,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 295186,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?!",
       "url": "https://open.spotify.com/track/579cWJAuA8z2pC0iw3660T"
@@ -4327,7 +4379,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 279643,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt. 2",
       "url": "https://open.spotify.com/track/4YA9h4ADqXp8xcQ4VUHETX"
@@ -4345,7 +4397,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278639,
       "name": "\uc544\uc5d0\uc774\uc624\uc6b0 \uc5b4 ?! Pt.2",
       "url": "https://open.spotify.com/track/0Xp0DHasuTlxYUntHoJJ2r"
@@ -4363,7 +4415,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228240,
       "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
       "url": "https://open.spotify.com/track/4kmIEThorIgS5RewYcPgkJ"
@@ -4381,7 +4433,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228240,
       "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
       "url": "https://open.spotify.com/track/5DMjrMLMtjy4q3S1mjoyeR"
@@ -4435,7 +4487,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378733,
       "name": "\uc61b \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/3yQ2vYKJTVjbghlnHo4S1d"
@@ -4453,7 +4505,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 378733,
       "name": "\uc61b \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/4fLxywbDuOTa5Ht8UMcSZF"
@@ -4471,7 +4523,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191360,
       "name": "\uc678\ud1a8\uc774",
       "url": "https://open.spotify.com/track/33ZvABHS83cF1LCupoJTKQ"
@@ -4489,7 +4541,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "\uc678\ud1a8\uc774",
       "url": "https://open.spotify.com/track/5eRAZCLutVhc6Ig652gTyI"
@@ -4533,7 +4585,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
@@ -4555,7 +4607,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204466,
       "name": "\uc778\uc0dd \ubb50 \uc788\uc5b4? (feat. \uc591\ub3d9\uadfc)",
       "url": "https://open.spotify.com/track/3NkbTBpGNKQSFLpHu1q9vd"
@@ -4577,7 +4629,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "\uc778\uc0dd \ubb50 \uc788\uc5b4? (feat. \uc591\ub3d9\uadfc)",
       "url": "https://open.spotify.com/track/4wLUEhXVak95Iwg7H8nVgW"
@@ -4599,7 +4651,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230560,
       "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
       "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
@@ -4643,7 +4695,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233853,
       "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC META)",
       "url": "https://open.spotify.com/track/30JGnjLogyEBhcn3AlgQZV"
@@ -4665,7 +4717,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 233853,
       "name": "\uc8fd\uc74c\uc758 \uc608\uc220 (feat. MC Meta)",
       "url": "https://open.spotify.com/track/3ynP72sQ4W9m43cn8DkVnG"
@@ -4683,7 +4735,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 231235,
       "name": "\uc990\uac70\uc6b4 \uc0dd\ud65c",
       "url": "https://open.spotify.com/track/1497gstQL5iceFZJ5vb2ti"
@@ -4725,21 +4777,13 @@
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "MC META",
-          "url": "https://open.spotify.com/artist/07rwmkNYYA2KFxHQ12Slo7"
+          "name": "Soul Company",
+          "url": "https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ"
         }
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 298870,
       "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43",
       "url": "https://open.spotify.com/track/1vlSyTeLdjluMaIZGSa0UR"
@@ -4769,7 +4813,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297215,
       "name": "\uc9c4\ud759 \uc18d\uc5d0\uc11c \ud53c\ub294 \uaf43 (feat. Kebee, MC Meta)",
       "url": "https://open.spotify.com/track/5WLb1qH7UsgqYITkNzBaiF"
@@ -4827,7 +4871,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230120,
       "name": "\ud53c\uc5d0\ub85c\uc758 \ub208\ubb3c (feat. Moowoong)",
       "url": "https://open.spotify.com/track/2ItTuAhdxuZvGBO3k7yvT8"
@@ -4889,7 +4933,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 307487,
       "name": "\ud55c\uad6d\uc778",
       "url": "https://open.spotify.com/track/0PMCOifKyHiOzlZjLLg0gF"
@@ -4979,7 +5023,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277306,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/13NieYoXXcIUaQgXdkldej"
@@ -4997,7 +5041,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 277306,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/3fYqXfzjf7srb50yl9aWsB"
@@ -5041,7 +5085,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182033,
       "name": "\ud76c\uadc0\uc885 (feat. YDG)",
       "url": "https://open.spotify.com/track/4K9utewCqeRnV2Q64Daflb"

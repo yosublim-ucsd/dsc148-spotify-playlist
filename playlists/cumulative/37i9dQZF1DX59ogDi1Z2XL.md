@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: NAV & Metro Boomin
 
-1,452 songs - 2 day 19 hr 12 min
+1,453 songs - 2 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,6 +1031,7 @@
 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 | 2023-02-24 | 2023-09-02 |
 | [Problems](https://open.spotify.com/track/6NGy4ggUImgt0pdVUbVqvi) | [86LOVE](https://open.spotify.com/artist/2I2mBsrn9VipdyXtAwFHE1) | [Problems](https://open.spotify.com/album/1gwAz2tbzOuHdAxImmiEtG) | 2:42 | 2023-03-17 | 2023-04-29 |
 | [Problems Over Peace](https://open.spotify.com/track/7ups0PLQ1oiRnkneh3SQSD) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Problems Over Peace](https://open.spotify.com/album/7hXz1jeclKqFSWwl2QjN5w) | 2:38 | 2024-04-05 |  |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-19 |  |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-04 | 2022-11-26 |
 | [Pz Don't Trip](https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Pz Don't Trip](https://open.spotify.com/album/0cgRf1y5HysQvQJs63yLDp) | 2:59 | 2023-07-14 | 2023-10-14 |
 | [Queendom](https://open.spotify.com/track/4aJrYKNmUbPhNPMNaamlDe) | [Domanique Grant](https://open.spotify.com/artist/4Q5NpY4101N3zqetlKFk7B) | [Queendom](https://open.spotify.com/album/7pJ0sGsVoLQmDbYj2SayPG) | 2:19 | 2022-10-28 | 2022-12-17 |

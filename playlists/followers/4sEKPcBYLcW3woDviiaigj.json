@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 592,
+  "2024-04-20": 592,
   "date_first_scraped": "2021-12-21",
   "description": "Give in to the season, with the ultimate collection of classic snow songs.",
   "name": "50 Songs for Snow",
@@ -11,7 +11,7 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],

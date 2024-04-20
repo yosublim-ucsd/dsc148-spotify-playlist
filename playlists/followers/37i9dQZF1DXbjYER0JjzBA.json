@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 45556,
+  "2024-04-20": 45547,
   "date_first_scraped": "2023-12-26",
   "description": "The tracklist to your holiday movie soundtrack. ",
   "name": "Holiday Movie Hits",
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "Christmas With The Kranks",
+        "url": "https://open.spotify.com/album/1nWXFIHFmuBRUH6NhIXSsQ"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126866,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/6ad93zI93tAFHaYhO9mtZa"
+    },
+    {
+      "album": {
         "name": "Elvis' Christmas Album",
         "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
       },
@@ -93,7 +111,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -187,10 +205,28 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "Christmas Time Is Here - Vocal",
+      "url": "https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0"
     },
     {
       "album": {
@@ -221,7 +257,7 @@
     {
       "album": {
         "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
-        "url": "https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4"
+        "url": "https://open.spotify.com/album/3kj7HdzemSO0W8rp7l9zJt"
       },
       "artists": [
         {
@@ -232,6 +268,24 @@
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182158,
+      "name": "First Christmas (That I Loved You) - From The Netflix Film Let It Snow",
+      "url": "https://open.spotify.com/track/5GEVVAnsDePwDMHKDunpda"
+    },
+    {
+      "album": {
+        "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
+        "url": "https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4"
+      },
+      "artists": [
+        {
+          "name": "Shameik Moore",
+          "url": "https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 182158,
       "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
       "url": "https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB"
@@ -575,10 +629,28 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
     },
     {
       "album": {
@@ -658,6 +730,28 @@
     },
     {
       "album": {
+        "name": "The Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/208rmXdjs6mywkQRQw0xni"
+    },
+    {
+      "album": {
         "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
       },
@@ -673,7 +767,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237866,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/6E5SW8hID03jCoUQG1BApL"
@@ -861,10 +955,28 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210266,
       "name": "Walking in the Air - The Story of the Snowman edit",
       "url": "https://open.spotify.com/track/2SlPxY0UmlVdCnGMfXFTLK"
+    },
+    {
+      "album": {
+        "name": "The Snowman",
+        "url": "https://open.spotify.com/album/2FcJpDHg4WaTcmqtPzJeuF"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Walking in the Air - The Story of the Snowman edit",
+      "url": "https://open.spotify.com/track/0RYUIDRICZyjwlHz9jWPJy"
     },
     {
       "album": {
@@ -915,7 +1027,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183000,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/4rp2Hr51C99Nx5AC9GfSeI"
@@ -941,7 +1053,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 177480,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"

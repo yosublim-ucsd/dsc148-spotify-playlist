@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 497209,
+  "2024-04-20": 497113,
   "date_first_scraped": "2021-12-28",
   "description": "All the festive faves to soundtrack your very merry Christmas!",
   "name": "Christmas Favourites",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/1Vwa96loe5FeAjyE4Z1KuA"
+      },
+      "artists": [
+        {
+          "name": "Burl Ives",
+          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2HbKKeBC5tZcrVqt7N4kXl"
+    },
+    {
+      "album": {
         "name": "Cosy Christmas Tunes",
         "url": "https://open.spotify.com/album/7IrygJtjkpJj6z7lWm0vAr"
       },
@@ -71,28 +89,10 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
-    },
-    {
-      "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/1Vwa96loe5FeAjyE4Z1KuA"
-      },
-      "artists": [
-        {
-          "name": "Burl Ives",
-          "url": "https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN"
-        }
-      ],
-      "date_added": "2021-12-23",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 132346,
-      "name": "A Holly Jolly Christmas - Single Version",
-      "url": "https://open.spotify.com/track/2HbKKeBC5tZcrVqt7N4kXl"
     },
     {
       "album": {
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/7nQrUXVzVeYb0hAuabfmaP"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130266,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/0auIzEykQA9mQ5VZ4c0gMt"
@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/1dEbs4jIsFhiNKSJ0Sexs1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Barnes",
+          "url": "https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/7rQkRuIDW9UhAQT0uuuoWh"
+    },
+    {
+      "album": {
         "name": "I Believe In Father Christmas EP",
         "url": "https://open.spotify.com/album/6RvE3NTJQI7P732gb8o4zD"
       },
@@ -219,7 +237,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139760,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2wIOEh6QNccqsHYEPZTrRP"
@@ -255,7 +273,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 139893,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/5JBRAkR2DS1rsUQgxcj23t"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254200,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Christmas All Over Again",
       "url": "https://open.spotify.com/track/3nCcFA1iiehndgGSddMiV2"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178853,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/1MxFicnnrdo9RzFLAm4Gsf"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222533,
       "name": "Do They Know It's Christmas? - 1984 Version",
       "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243786,
       "name": "Driving Home For Christmas - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/66mB55sZuDHlXt3vAcVkXf"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -619,7 +637,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182360,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 131733,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/2xvxRzlLQxVIKRuaWi3Bax"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131733,
       "name": "Frosty The Snowman",
       "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213880,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175840,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1ta7346unwX9mJOqbSB9wD"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175840,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/47X9nPgLBHEGts5tFwpF6S"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267306,
       "name": "How to Make Gravy",
       "url": "https://open.spotify.com/track/6rEOqC9CQW7kzelaDivh65"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268911,
       "name": "How To Make Gravy",
       "url": "https://open.spotify.com/track/72tIvJRS5lTCjWQRjwjBQC"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123640,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0JoLc8rgQBJhDMolSCuRuw"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126360,
       "name": "Jingle Bell Rock - Daryl's Version",
       "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266146,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/0QPYn15U8IQHKcH2LDfrek"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155600,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/7inXu0Eaeg02VsM8kHNvzM"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone - Remastered",
       "url": "https://open.spotify.com/track/23lpJkE7jJ4BVQhc3lj0VM"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "One Wish (For Christmas)",
       "url": "https://open.spotify.com/track/5nTuQBSjMML1tcgheI2YsY"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252240,
       "name": "One Wish (For Christmas)",
       "url": "https://open.spotify.com/track/6pPLhUHaxNy37eIUNYu5JL"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 125826,
       "name": "Rockin' Around The Christmas Tree - Single Version",
       "url": "https://open.spotify.com/track/1XBc4r6ltXjkFJBrsttwIF"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163760,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2YRAHBcCATVlCgVQg8Mitd"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/5uww9kBIHfRKs9F3C1FAKN"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/1zOnUH1tBBLYREt1hgzvgf"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272333,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/10HDoLPz2bucGBkoNEjDHW"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261613,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/341h4Vfj9HJMm2tNDX3ARw"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152266,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/7FIcV2kEiO2mvvMbxU5Jkn"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153520,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/1KUKcrbrjN6pBrIN1xtQX5"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221826,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/3MMzhB1pbabgZc51N3GzUl"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 221826,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/6ezuSFl2RsptFG7hyZLWVT"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147226,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147800,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/5eK52eAjFLLBNhOUIuBnBe"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 132066,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0X6I1Ze2wVESyvyRkqdMsq"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133213,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"

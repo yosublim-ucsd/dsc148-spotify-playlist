@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 926434,
+  "2024-04-20": 925898,
   "date_first_scraped": "2021-12-21",
   "description": "Metalcore at its finest. Cover: Knocked Loose",
   "name": "The Core",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 226240,
       "name": "21 Gun Salute",
       "url": "https://open.spotify.com/track/0dAeZUKHCo70CusGsluvDz"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226240,
       "name": "21 Gun Salute",
       "url": "https://open.spotify.com/track/20Ov4hI7Z5xh9NkLMMf0db"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 219428,
       "name": "Better Before",
       "url": "https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219428,
       "name": "Better Before",
       "url": "https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232620,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 232620,
       "name": "Black Sheep",
       "url": "https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ"
@@ -2873,7 +2873,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb"
@@ -2891,7 +2891,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
@@ -4884,6 +4884,24 @@
     },
     {
       "album": {
+        "name": "Drag Me Out",
+        "url": "https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer"
+    },
+    {
+      "album": {
         "name": "Drag Me Under",
         "url": "https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H"
       },
@@ -5447,7 +5465,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211846,
       "name": "Everything You Wanted",
       "url": "https://open.spotify.com/track/2U6Q6k3BlUpKpds9i6YEsQ"
@@ -5465,7 +5483,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 211846,
       "name": "Everything You Wanted",
       "url": "https://open.spotify.com/track/3BrT8IC9flGHw78gzPLifE"
@@ -8195,7 +8213,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 240082,
       "name": "It's Hell Down Here",
       "url": "https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH"
@@ -8213,7 +8231,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240082,
       "name": "It's Hell Down Here",
       "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
@@ -9177,7 +9195,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244935,
       "name": "Lost In The Fall",
       "url": "https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9"
@@ -9195,7 +9213,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 244935,
       "name": "Lost In The Fall",
       "url": "https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2"
@@ -9669,7 +9687,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/3PcbdPfxHNUo8LeWPEBnQT"
@@ -9691,7 +9709,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192176,
       "name": "Misery (feat. Atreyu)",
       "url": "https://open.spotify.com/track/6fkc33TnVtVRGEgGBWRY09"
@@ -11347,7 +11365,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347373,
       "name": "Perpetual Terminal",
       "url": "https://open.spotify.com/track/4Sa3ILVhdU197MT78j1QOa"
@@ -11365,9 +11383,9 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 347373,
-      "name": "Perpetual Terminal",
+      "name": "Perpetual | Terminal",
       "url": "https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5"
     },
     {
@@ -11661,7 +11679,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251684,
       "name": "Pushing The Pink Envelope",
       "url": "https://open.spotify.com/track/0ktqowpZZ3losVs1xUf9lg"
@@ -11679,7 +11697,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 251684,
       "name": "Pushing The Pink Envelope",
       "url": "https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS"
@@ -14105,7 +14123,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184830,
       "name": "Thank You, Again (feat. Phil Bozeman)",
       "url": "https://open.spotify.com/track/1gdNdUdDmVpwVV2c6LgOIW"
@@ -14127,7 +14145,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 184830,
       "name": "Thank You, Again (feat. Phil Bozeman)",
       "url": "https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i"
@@ -15943,7 +15961,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3"
@@ -15961,7 +15979,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
@@ -16307,10 +16325,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253388,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/5amiUEezPSB9yXMxXpz4Dh"
+    },
+    {
+      "album": {
+        "name": "Half Living Things",
+        "url": "https://open.spotify.com/album/1j7zqEn1vwEA5yfGnRdq9q"
+      },
+      "artists": [
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253388,
+      "name": "Whenever You're Ready",
+      "url": "https://open.spotify.com/track/67IofcurxzjTsqgzhUatrZ"
     },
     {
       "album": {

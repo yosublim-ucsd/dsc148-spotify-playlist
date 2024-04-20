@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 39411,
+  "2024-04-20": 39402,
   "date_first_scraped": "2023-08-09",
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
   "name": "Pitchfork Music Festival CDMX",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183983,
       "name": "Ahora Veo M\u00e1s Claro",
       "url": "https://open.spotify.com/track/3IxfjphxfPUtU6fS6X4OIm"
@@ -791,10 +791,28 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "album": {
+        "name": "Night Time, My Time",
+        "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9"
     },
     {
       "album": {
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 223350,
       "name": "I Keep A Mirror In My Pocket",
       "url": "https://open.spotify.com/track/22QvEX17f3D7vaGCg4mxr8"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223350,
       "name": "I Keep A Mirror In My Pocket",
       "url": "https://open.spotify.com/track/763IJTeglBtae0KprFnzPG"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 190293,
       "name": "reveal yourself",
       "url": "https://open.spotify.com/track/0YjRE5ut3J4exRx40kLtg6"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/0OAWwXN72mqpT12LDfQcAK"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3"

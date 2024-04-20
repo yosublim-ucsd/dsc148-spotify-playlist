@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 452529,
+  "2024-04-20": 452944,
   "date_first_scraped": "2022-05-13",
-  "description": "you just had to be there. cover: Monica",
+  "description": "you just had to be there. cover: Lauryn Hill",
   "name": "mid:nite storm ",
   "tracks": [
     {
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 331133,
       "name": "Down A** B**ch",
       "url": "https://open.spotify.com/track/4Z69sHFf60gZbdgdd9sBBq"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332293,
       "name": "Down A** B**ch",
       "url": "https://open.spotify.com/track/2eTJ14pjbaVBmXKohkTihY"
@@ -5193,6 +5193,24 @@
     {
       "album": {
         "name": "Keshia Chant\u00e9",
+        "url": "https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY"
+      },
+      "artists": [
+        {
+          "name": "Keshia Chant\u00e9",
+          "url": "https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R"
+    },
+    {
+      "album": {
+        "name": "Keshia Chant\u00e9",
         "url": "https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI"
       },
       "artists": [
@@ -5203,7 +5221,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215440,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv"

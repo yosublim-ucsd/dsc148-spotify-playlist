@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 533650,
+  "2024-04-20": 533468,
   "date_first_scraped": "2022-04-22",
   "description": "Los pr\u00f3ceres de la historia del rock nacional. El Novio de M\u00e9xico en portada.",
   "name": "Iconos del Rock Mexicano",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 123386,
       "name": "Abuso de autoridad",
       "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
@@ -111,6 +111,24 @@
       "duration_ms": 219000,
       "name": "Afroman",
       "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
+    },
+    {
+      "album": {
+        "name": "Rebota (F=KX)2",
+        "url": "https://open.spotify.com/album/7i40q5hprq8zKeQze2xW9H"
+      },
+      "artists": [
+        {
+          "name": "Resorte",
+          "url": "https://open.spotify.com/artist/29AMdFTZ4Ahs3fFXIq8Dic"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/4Om8q2itxIhPZ8eC5BY19U"
     },
     {
       "album": {
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241626,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
@@ -291,7 +309,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-27",
+      "date_removed": null,
       "duration_ms": 252986,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/1Ou8VdIw39ATdskqSnAaFo"
@@ -327,7 +345,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
@@ -349,6 +367,24 @@
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4DfVAYN8VThaZCkobv0HJV"
+    },
+    {
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/3l1cQGtnmRxVgTRh8YxHnb"
+      },
+      "artists": [
+        {
+          "name": "Santa Sabina",
+          "url": "https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296080,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/6yQBYwuxv3NPERnSuzdcRb"
     },
     {
       "album": {
@@ -399,7 +435,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248939,
       "name": "Bestia",
       "url": "https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
@@ -547,7 +583,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231080,
       "name": "Camila",
       "url": "https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj"
@@ -691,7 +727,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224200,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
@@ -817,7 +853,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
@@ -853,7 +889,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 277800,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B"
@@ -877,12 +913,12 @@
           "url": "https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO"
         },
         {
-          "name": "Kazz",
-          "url": "https://open.spotify.com/artist/5wgG38Y31ihqo1V1si4mIl"
+          "name": "Roberto Casas Torres",
+          "url": "https://open.spotify.com/artist/5UDBBukBCBMrBKjrOhjyuN"
         },
         {
           "name": "Neon",
-          "url": "https://open.spotify.com/artist/6SkzBpjalUBejEPzerVAAX"
+          "url": "https://open.spotify.com/artist/47UqGCZS8g1V6ZnFKAkK0A"
         },
         {
           "name": "Fr\u00e1ncisco Familiar",
@@ -907,7 +943,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 242720,
       "name": "Cuando Pase el Temblor - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
       "url": "https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA"
@@ -1177,7 +1213,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 218426,
       "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
       "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
@@ -1231,7 +1267,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215413,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx"
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 218866,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/5y1Oro1appc8YWwgCsPXGx"
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157106,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241040,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/52qnF2MPtBAdGj31IP6OXU"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
@@ -1648,12 +1684,12 @@
       "artists": [
         {
           "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/355rOJoYm2XkLj5iAHSWAv"
+          "url": "https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF"
         }
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 240360,
       "name": "Est\u00e1tico",
       "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
@@ -1743,7 +1779,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 283333,
       "name": "Here We Kum - MTV Unplugged",
       "url": "https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz"
@@ -1779,7 +1815,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Horror Amor",
       "url": "https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz"
@@ -1815,7 +1851,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269880,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270533,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
@@ -1869,7 +1905,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
@@ -1887,7 +1923,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 160893,
       "name": "Ja, Ja, Ja",
       "url": "https://open.spotify.com/track/00YFVZpB91oVB7wIwEUiZ8"
@@ -1923,7 +1959,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 275586,
       "name": "Jurame",
       "url": "https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb"
@@ -2013,7 +2049,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
@@ -2085,7 +2121,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265740,
       "name": "La Flotadera",
       "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
@@ -2305,7 +2341,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175080,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
@@ -2381,7 +2417,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260426,
       "name": "Mas - Remastered",
       "url": "https://open.spotify.com/track/3BoIHWjO48jLcdFby2P8D3"
@@ -2421,7 +2457,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 179973,
       "name": "Me Enamor\u00e9 En La Cola De Las Torillas",
       "url": "https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63"
@@ -2443,6 +2479,24 @@
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Me Quieres Cotorrear",
+      "url": "https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR"
     },
     {
       "album": {
@@ -2547,7 +2601,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
@@ -2655,7 +2709,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 322040,
       "name": "Nasty Sex",
       "url": "https://open.spotify.com/track/1XoFXjGDhvFrIy6xT7WlcR"
@@ -2709,7 +2763,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228534,
       "name": "No Es Que No Te Quiera",
       "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
@@ -2727,7 +2781,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227066,
       "name": "No Huyas De Mi",
       "url": "https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po"
@@ -2817,7 +2871,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194880,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
@@ -2835,7 +2889,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303506,
       "name": "Norte - Bonus",
       "url": "https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW"
@@ -2853,7 +2907,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
@@ -3037,7 +3091,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 167226,
       "name": "Paquita Disco",
       "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
@@ -3073,7 +3127,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222333,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/44iy4xK9Dtk4XSNAHJu7Ha"
@@ -3467,7 +3521,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
@@ -3503,7 +3557,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131039,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
@@ -3557,7 +3611,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 205200,
       "name": "Sobre Natural",
       "url": "https://open.spotify.com/track/5ObT21PnQHQN7LMP3ItLZf"
@@ -3575,7 +3629,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248093,
       "name": "Sol de Medianoche",
       "url": "https://open.spotify.com/track/7sRYqqUGrmHsM9X8XX8h2G"
@@ -3647,7 +3701,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191000,
       "name": "Soun Tha Mi Primer Amor - Remastered",
       "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
@@ -3683,10 +3737,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "album": {
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "album": {
@@ -3957,7 +4029,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254275,
       "name": "Un Toque M\u00e1gico",
       "url": "https://open.spotify.com/track/39bxZQn6wJ4TmO6ZoY9AhJ"
@@ -4029,7 +4101,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 100480,
       "name": "Vente en Mi Boca",
       "url": "https://open.spotify.com/track/5Zwg9L8RVPl04ZCmfK7vdV"
@@ -4083,7 +4155,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Voto Latino",
       "url": "https://open.spotify.com/track/6InAFCfwjgsUtDoaOCwwZL"
@@ -4101,7 +4173,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178400,
       "name": "Voto Latino",
       "url": "https://open.spotify.com/track/3w8eRp9mjGY48zpmIJ920R"
@@ -4155,7 +4227,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194426,
       "name": "Ya Tus Amigos",
       "url": "https://open.spotify.com/track/2VjHUrKQqaaK8SKGeGmpnx"
@@ -4191,7 +4263,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257519,
       "name": "\u00bfA D\u00f3nde Van los Muertos?",
       "url": "https://open.spotify.com/track/1EnD6nyUG8FvCR1WH8V1cB"
@@ -4253,7 +4325,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/6THT788gESlEehya5KtiAo"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,623 songs - 3 day 12 hr 19 min
+1,624 songs - 3 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Grapejuice](https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2022-05-21 | 2022-05-28 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-09-16 |  |
+| [Grizzly](https://open.spotify.com/track/5LTkOyKoB44q6q6TSxNx7H) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Grizzly](https://open.spotify.com/album/4MJga50uGk0Fmk2tgwZEXi) | 2:42 | 2024-04-19 |  |
 | [Gucci m/ UG](https://open.spotify.com/track/5EclZlK0jk41E296EyIb79) | [Kode.59](https://open.spotify.com/artist/5El2l94FrkyNaTIA5ksK4Q), [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Nabolagets Helter](https://open.spotify.com/album/09prVF1uylWy2MfPLiY5f1) | 1:57 | 2024-02-10 | 2024-02-12 |
 | [gud vær snill la meg bli](https://open.spotify.com/track/15ECUqelDATVKncbeVcXtt) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2024](https://open.spotify.com/album/0wHUBrwizQWTnCeBMVOuS6) | 2:57 | 2024-02-19 | 2024-02-25 |
 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 | 2022-01-08 | 2022-01-17 |
@@ -929,7 +930,7 @@
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-11 | 2024-03-17 |
 | [Loyal \(feat\. Isah\)](https://open.spotify.com/track/2M2ZmLhg1u62z3CPdA5b6E) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Loyal \(feat\. Isah\)](https://open.spotify.com/album/7kC7rRk40ww6ecoifuE6yM) | 3:03 | 2023-10-07 | 2023-10-09 |
 | [Ludvig Daae](https://open.spotify.com/track/5TyFg2tdUPtBVKm7ZRevGk) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Ludvig Daae](https://open.spotify.com/album/0iHaRVUqMPyTPJGI8zE1tF) | 1:48 | 2021-11-23 | 2022-02-19 |
-| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2024-04-02 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2024-04-02 | 2024-04-20 |
 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 | 2022-12-02 |
 | [Lykke te](https://open.spotify.com/track/4vXBW2z1uXXyMvCkDG6c5Z) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Lykke te](https://open.spotify.com/album/39ktLXlXx02WGz3mUZTxXS) | 2:44 | 2022-05-28 | 2022-08-09 |
 | [Lykkelig uten meg](https://open.spotify.com/track/3w03UCzYa9dsykfl0Ag3Jh) | [Sebastian Zalo](https://open.spotify.com/artist/5CGn9wJhdFhjB3DoU7LHX0) | [Lykkelig uten meg](https://open.spotify.com/album/2GSgIdppEVCoIGLs5YBA3q) | 3:30 | 2022-05-07 | 2022-05-22 |

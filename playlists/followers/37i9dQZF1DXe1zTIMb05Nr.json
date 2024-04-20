@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 42860,
+  "2024-04-20": 42914,
   "date_first_scraped": "2023-04-15",
   "description": "Live performances by Metallica.",
   "name": "Metallica Live",
   "tracks": [
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259800,
+      "name": "- Human - Live",
+      "url": "https://open.spotify.com/track/5kfSRmjf9aSougnHL6KgLH"
+    },
     {
       "album": {
         "name": "Metallica Through The Never (Music from the Motion Picture)",
@@ -17,10 +35,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 557733,
       "name": "...And Justice for All (Live)",
       "url": "https://open.spotify.com/track/56GEAKYqvZd4FVNIKzFSta"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557733,
+      "name": "...And Justice For All - Live",
+      "url": "https://open.spotify.com/track/54VZWrJKwSbOqrnAA50JCm"
     },
     {
       "album": {
@@ -39,10 +75,32 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373973,
       "name": "All Within My Hands (Live)",
       "url": "https://open.spotify.com/track/4kmgecaibuuVDBmlzDO6Du"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373973,
+      "name": "All Within My Hands - Live",
+      "url": "https://open.spotify.com/track/4yE0IGEKGGd1w2rWlUywK8"
     },
     {
       "album": {
@@ -57,10 +115,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341693,
       "name": "Am I Evil? (Live in Mexico City)",
       "url": "https://open.spotify.com/track/7CtTnD577jekH458V0Uf3P"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341693,
+      "name": "Am I Evil? - Live In Mexico City",
+      "url": "https://open.spotify.com/track/1xsLPR6WIrvMFGZbLezzkx"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444666,
+      "name": "Battery (Live with the SFSO)",
+      "url": "https://open.spotify.com/track/6oFkYgA97CaQOBOeDwG1DT"
     },
     {
       "album": {
@@ -75,7 +169,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 444666,
       "name": "Battery - Live with the SFSO",
       "url": "https://open.spotify.com/track/2T9a3ToWrj8ijGUzCtlRNz"
@@ -93,10 +187,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 366292,
       "name": "Bleeding Me (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
       "url": "https://open.spotify.com/track/7dlzncZrDLdeP2U7aWfKj5"
+    },
+    {
+      "album": {
+        "name": "Helping Hands\u2026Live & Acoustic At The Masonic",
+        "url": "https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366292,
+      "name": "Bleeding Me - Live At The Masonic, San Francisco, CA - November 3rd, 2018",
+      "url": "https://open.spotify.com/track/7eqcrdEjPosFJlvCQVsvRm"
     },
     {
       "album": {
@@ -115,10 +227,50 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401295,
       "name": "Confusion (Live)",
       "url": "https://open.spotify.com/track/40EPUsKIP6KMXy0tkkIhdL"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401295,
+      "name": "Confusion - Live",
+      "url": "https://open.spotify.com/track/74ipwWk1JxGtqZjKNq57rm"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403173,
+      "name": "Creeping Death - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/5WmMFJ6qMLMaL3sOw8CuXF"
     },
     {
       "album": {
@@ -133,7 +285,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403173,
       "name": "Creeping Death - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/6bNGesDZKFasyWYS5BAWxG"
@@ -151,10 +303,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 421426,
       "name": "Cyanide (Live)",
       "url": "https://open.spotify.com/track/0wbh6SnZE3wMCMuJxg9NNO"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421426,
+      "name": "Cyanide - Live",
+      "url": "https://open.spotify.com/track/4hy9NhrFfpIXGUzD9XxXDd"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326000,
+      "name": "Devil's Dance - Live",
+      "url": "https://open.spotify.com/track/3I4tEaOcF0wtl6179DqbZb"
     },
     {
       "album": {
@@ -169,7 +357,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326000,
       "name": "Devil's Dance - Live with the SFSO",
       "url": "https://open.spotify.com/track/6sJT6EIer5VO2T05Qbg3cC"
@@ -187,10 +375,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 449595,
       "name": "Disposable Heroes (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
       "url": "https://open.spotify.com/track/2AcKy1BQI9I3ApTH42hiJ3"
+    },
+    {
+      "album": {
+        "name": "Helping Hands\u2026Live & Acoustic At The Masonic",
+        "url": "https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449595,
+      "name": "Disposable Heroes - Live At The Masonic, San Francisco, CA - November 3rd, 2018",
+      "url": "https://open.spotify.com/track/3cClZLOM7hI85vz4Qzn55V"
     },
     {
       "album": {
@@ -205,10 +411,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 447773,
       "name": "Enter Sandman (Live in Mexico City)",
       "url": "https://open.spotify.com/track/4hhU32QuGlRshHRE8wXEgw"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447773,
+      "name": "Enter Sandman - Live In Mexico City",
+      "url": "https://open.spotify.com/track/0og9mxaVpqYdU0W528Nrr6"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444093,
+      "name": "Fade To Black - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/0UvXZqrjsJFBWn25AgaErD"
     },
     {
       "album": {
@@ -223,7 +465,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 444093,
       "name": "Fade to Black - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/1NlC4RUcqTU11CYRCQJuSQ"
@@ -241,10 +483,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272000,
       "name": "For Whom the Bell Tolls - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/1rG3nJTZyRjklXf8VMq8cx"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "For Whom The Bell Tolls - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/6QHP1q0NHVurG65w1u88yk"
     },
     {
       "album": {
@@ -281,10 +541,32 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 497466,
       "name": "Halo on Fire (Live)",
       "url": "https://open.spotify.com/track/1gM1LjcNF8mVO15fBVQo99"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497466,
+      "name": "Halo On Fire - Live",
+      "url": "https://open.spotify.com/track/5pEBCke4Ft8N5v8jww1eUn"
     },
     {
       "album": {
@@ -299,10 +581,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210080,
       "name": "Hardwired - Live at U.S. Bank Stadium, Minneapolis, MN - August 20th, 2016",
       "url": "https://open.spotify.com/track/6cVHdquegEopMxjVrztawo"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210145,
+      "name": "Hardwired - Live at U.S. Bank Stadium, Minneapolis, MN - August 20th, 2016",
+      "url": "https://open.spotify.com/track/59pAzK4CoDd9KMSPxBhHp0"
     },
     {
       "album": {
@@ -317,10 +617,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438506,
       "name": "Harvester of Sorrow (Live in Mexico City)",
       "url": "https://open.spotify.com/track/1HOrB4LPlKBC9tyX0bPNjs"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438506,
+      "name": "Harvester Of Sorrow - Live In Mexico City",
+      "url": "https://open.spotify.com/track/2AKNtvN11xeEmhgPjbv1nc"
     },
     {
       "album": {
@@ -335,10 +653,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188013,
       "name": "Helpless - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/3gGCLCvp1iniDou3oQX7fF"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Helpless - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/6PhNEXzFuZL0JxYBa6BfjA"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/7HcHPb1P9mubh0vyDdawAv"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284626,
+      "name": "Hero Of The Day (Live with the SFSO)",
+      "url": "https://open.spotify.com/track/6CegLoiZXSdPSyexrf8Ju3"
     },
     {
       "album": {
@@ -353,7 +707,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284626,
       "name": "Hero Of The Day - Live with the SFSO",
       "url": "https://open.spotify.com/track/64PaBtqwPjhOg40JJCaWMo"
@@ -371,10 +725,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279866,
       "name": "Hit The Lights (Live)",
       "url": "https://open.spotify.com/track/4l5mXDSuZ3cnI6eWQMTOrb"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "Hit The Lights - Live",
+      "url": "https://open.spotify.com/track/6kxWS2BZneKHOfP5ZZJBEv"
     },
     {
       "album": {
@@ -389,7 +761,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259800,
       "name": "Human - Live with the SFSO",
       "url": "https://open.spotify.com/track/5fsJYr9OnwU1jBfrK0th9s"
@@ -407,10 +779,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313120,
       "name": "Jump in the Fire - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/3novFzen6wOB45QLjIkavx"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313120,
+      "name": "Jump In The Fire - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/4xYPSuzqUARLxmRxUANNTu"
     },
     {
       "album": {
@@ -425,10 +815,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 505360,
       "name": "Master of Puppets (Live)",
       "url": "https://open.spotify.com/track/41sVWpRzx9EW7qhpPSr3Af"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505360,
+      "name": "Master Of Puppets - Live",
+      "url": "https://open.spotify.com/track/6C2Pz56gT0JzsqR84dDv91"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367480,
+      "name": "Metal Militia - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/0t4F4mVU032tdNanITXhna"
     },
     {
       "album": {
@@ -443,7 +869,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367480,
       "name": "Metal Militia - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/6hDQ99tIlC1S8OC2CpIMNU"
@@ -465,10 +891,32 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377800,
       "name": "Moth Into Flame (Live)",
       "url": "https://open.spotify.com/track/35YBgQqJmonhnnrukXqZXl"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377800,
+      "name": "Moth Into Flame - Live",
+      "url": "https://open.spotify.com/track/27oBnGKPph4BtZKKjd9b2j"
     },
     {
       "album": {
@@ -483,10 +931,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194426,
       "name": "Motorbreath (Live in Mexico City)",
       "url": "https://open.spotify.com/track/3kErlnWMLD7rg6IWfST8Yd"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194426,
+      "name": "Motorbreath - Live In Mexico City",
+      "url": "https://open.spotify.com/track/71vUjozYsSYnsfXP9dISS6"
     },
     {
       "album": {
@@ -505,10 +971,32 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330106,
       "name": "No Leaf Clover (Live)",
       "url": "https://open.spotify.com/track/3GTmmIGmU3htgNun6b1KBX"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330106,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/4HcGbZ4n4j1rObwTmix9Ca"
     },
     {
       "album": {
@@ -523,10 +1011,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381666,
       "name": "Nothing Else Matters (Live in Mexico CIty)",
       "url": "https://open.spotify.com/track/3aHsyt4NnRzrW2bYutgN9d"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407760,
+      "name": "Nothing Else Matters - Live",
+      "url": "https://open.spotify.com/track/5jEfQZmmwwKymr9cfmgfsd"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381666,
+      "name": "Nothing Else Matters - Live In Mexico City",
+      "url": "https://open.spotify.com/track/1271Iy1yemslnS5hk8UEpd"
     },
     {
       "album": {
@@ -541,7 +1065,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 407266,
       "name": "Nothing Else Matters - Live with the SFSO",
       "url": "https://open.spotify.com/track/5kFv1XqZifUS3gPfFSrnjW"
@@ -559,10 +1083,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382293,
       "name": "Of Wolf and Man (Live in Mexico City)",
       "url": "https://open.spotify.com/track/4cwQcWL0Al95wSGg0oHaSB"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382293,
+      "name": "Of Wolf And Man - Live In Mexico City",
+      "url": "https://open.spotify.com/track/41koVRByCGWNHfyygAu4R6"
     },
     {
       "album": {
@@ -584,6 +1126,24 @@
     },
     {
       "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598906,
+      "name": "Outlaw Torn - Live",
+      "url": "https://open.spotify.com/track/4oagjVtaFWiWhlBPjteWtN"
+    },
+    {
+      "album": {
         "name": "Helping Hands...Live & Acoustic at The Masonic",
         "url": "https://open.spotify.com/album/3KESkLVC8ivaWmZAoDinoc"
       },
@@ -595,10 +1155,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 482543,
       "name": "Please Don't Judas Me (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
       "url": "https://open.spotify.com/track/3JfhXW83sC2StLrHME2gmP"
+    },
+    {
+      "album": {
+        "name": "Helping Hands\u2026Live & Acoustic At The Masonic",
+        "url": "https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482543,
+      "name": "Please Don't Judas Me - Live At The Masonic, San Francisco, CA - November 3rd, 2018",
+      "url": "https://open.spotify.com/track/4eTf0Acq0vEUwLeitqgObO"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416360,
+      "name": "Ride The Lightning - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/3PsOKzSMblyhXCUPwsnNFZ"
     },
     {
       "album": {
@@ -613,7 +1209,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416360,
       "name": "Ride the Lightning - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/4dr6uMWtxJT3HgkFk9usO0"
@@ -631,15 +1227,51 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 367106,
       "name": "Sad But True (Live in Mexico City)",
       "url": "https://open.spotify.com/track/246F6v76CuIkRkgcIgBBi6"
     },
     {
       "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367106,
+      "name": "Sad But True - Live In Mexico City",
+      "url": "https://open.spotify.com/track/7KTxoPcWhxMbiG0qo0erQJ"
+    },
+    {
+      "album": {
         "name": "Live S**t: Binge & Purge",
         "url": "https://open.spotify.com/album/4iBN00FZaKlaXVYfxV7bBQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 1088333,
+      "name": "Seek & Destroy (Live in Mexico City)",
+      "url": "https://open.spotify.com/track/4KNmrguOd4soanvj33WTuT"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
       },
       "artists": [
         {
@@ -651,8 +1283,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 1088333,
-      "name": "Seek & Destroy (Live in Mexico City)",
-      "url": "https://open.spotify.com/track/4KNmrguOd4soanvj33WTuT"
+      "name": "Seek & Destroy - Live In Mexico City",
+      "url": "https://open.spotify.com/track/26lbbO6Ano27X1FO3tLnGb"
     },
     {
       "album": {
@@ -667,10 +1299,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332200,
       "name": "Stone Cold Crazy (Live in Mexico City)",
       "url": "https://open.spotify.com/track/5p3hyJFgz56jj4FozxuWkV"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332200,
+      "name": "Stone Cold Crazy - Live In Mexico City",
+      "url": "https://open.spotify.com/track/5flMxaGWOhIhgaYhxs5bEV"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574266,
+      "name": "The Call Of Ktulu - Live",
+      "url": "https://open.spotify.com/track/7vxLun2SVGuJII6DkbyMso"
     },
     {
       "album": {
@@ -685,7 +1353,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 574266,
       "name": "The Call Of Ktulu - Live with the SFSO",
       "url": "https://open.spotify.com/track/7KLL4TSjeDuFo6VtM9gNWk"
@@ -707,10 +1375,50 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 506853,
       "name": "The Day that Never Comes (Live)",
       "url": "https://open.spotify.com/track/5bpoBNwWolJcSlZRi3UPHx"
+    },
+    {
+      "album": {
+        "name": "S&M2",
+        "url": "https://open.spotify.com/album/7Hc3m7konwS0ugyN8vJhNg"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506853,
+      "name": "The Day That Never Comes - Live",
+      "url": "https://open.spotify.com/track/5icLTeOSXTvkLIi08P2k4g"
+    },
+    {
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct (Deluxe)",
+        "url": "https://open.spotify.com/album/4bcUiX49wpmDRhrC8TvDWV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319240,
+      "name": "The Four Horsemen - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
+      "url": "https://open.spotify.com/track/4pYCEWQ03MDD9o2Af4ak4Z"
     },
     {
       "album": {
@@ -725,7 +1433,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319240,
       "name": "The Four Horsemen - Live at Rasputin Music, Berkeley, CA - April 16th, 2016",
       "url": "https://open.spotify.com/track/62gX0I6LuowSBMFdgSQkxl"
@@ -743,10 +1451,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342800,
       "name": "The Memory Remains (Live)",
       "url": "https://open.spotify.com/track/5fQQDsc1SxPYADUTD2EV2N"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342800,
+      "name": "The Memory Remains - Live",
+      "url": "https://open.spotify.com/track/0a6H4khB7nEbTH91L0Tpdk"
     },
     {
       "album": {
@@ -761,7 +1487,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 598906,
       "name": "The Outlaw Torn - Live with the SFSO",
       "url": "https://open.spotify.com/track/7C9TNEdXSMJjuJS5hczUXj"
@@ -769,7 +1495,7 @@
     {
       "album": {
         "name": "S&M",
-        "url": "https://open.spotify.com/album/3kVRcb2fuCcKcqltzczxRP"
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
       },
       "artists": [
         {
@@ -780,6 +1506,24 @@
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 446866,
+      "name": "The Thing That Should Not Be - Live",
+      "url": "https://open.spotify.com/track/4y9IRABVc2TzATl8mTkexk"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/3kVRcb2fuCcKcqltzczxRP"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 446666,
       "name": "The Thing That Should Not Be - Live with the SFSO",
       "url": "https://open.spotify.com/track/37DziDjAAxRySqsYGNYBlW"
@@ -797,10 +1541,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 408000,
       "name": "The Unforgiven (Live in Mexico City)",
       "url": "https://open.spotify.com/track/0vJLun1cVa9x6bTKQH8mKM"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "The Unforgiven - Live In Mexico City",
+      "url": "https://open.spotify.com/track/3uCu6F2HwWRUjlUxMzsIsT"
     },
     {
       "album": {
@@ -815,10 +1577,46 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226933,
       "name": "Through The Never (Live in Mexico City)",
       "url": "https://open.spotify.com/track/6EA543paJpFe3GJPop7Mt9"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Through The Never - Live In Mexico City",
+      "url": "https://open.spotify.com/track/6IhsQ3Uh4ZiFOEmiHu3mcS"
+    },
+    {
+      "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "Until It Sleeps - Live",
+      "url": "https://open.spotify.com/track/4GVS3i2hzZZaL1OZigNafO"
     },
     {
       "album": {
@@ -833,7 +1631,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269973,
       "name": "Until It Sleeps - Live with the SFSO",
       "url": "https://open.spotify.com/track/282rwnxfCemhohGXpwbi3X"
@@ -851,10 +1649,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312555,
       "name": "Veteran of the Psychic Wars (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
       "url": "https://open.spotify.com/track/2YYPHHUzqXJYdmVzwvRzv4"
+    },
+    {
+      "album": {
+        "name": "Helping Hands\u2026Live & Acoustic At The Masonic",
+        "url": "https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312555,
+      "name": "Veteran of the Psychic Wars - Live At The Masonic, San Francisco, CA - November 3rd, 2018",
+      "url": "https://open.spotify.com/track/7Lq6wrFU9TAI2h3gToWJaQ"
     },
     {
       "album": {
@@ -869,10 +1685,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399426,
       "name": "Welcome Home (Sanitarium) (Live in Mexico City)",
       "url": "https://open.spotify.com/track/04CeQpd8Hv8jQ7hlc0Nq5J"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399426,
+      "name": "Welcome Home (Sanitarium) - Live In Mexico City",
+      "url": "https://open.spotify.com/track/3LhRd4iKvLzlTUaZv7stu9"
     },
     {
       "album": {
@@ -887,10 +1721,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274037,
       "name": "When A Blind Man Cries (Live at The Masonic, San Francisco, CA - November 3rd, 2018)",
       "url": "https://open.spotify.com/track/2NekeB2yqC2ZibAYNdncbz"
+    },
+    {
+      "album": {
+        "name": "Helping Hands\u2026Live & Acoustic At The Masonic",
+        "url": "https://open.spotify.com/album/5tEW32iyrRuYPQQ4bwUiCf"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274037,
+      "name": "When A Blind Man Cries - Live At The Masonic, San Francisco, CA - November 3rd, 2018",
+      "url": "https://open.spotify.com/track/7DgWnccOmJEfXpu4wEfBQG"
     },
     {
       "album": {
@@ -905,10 +1757,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 378280,
       "name": "Wherever I May Roam (Live)",
       "url": "https://open.spotify.com/track/1iH0ZaENhDbWOWesMa8GcY"
+    },
+    {
+      "album": {
+        "name": "Metallica Through The Never (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0ecPxTAKqXdr2MJYdYOM7e"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378280,
+      "name": "Wherever I May Roam - Live",
+      "url": "https://open.spotify.com/track/3k4fUKBy9D5OXQtfaX1fms"
     },
     {
       "album": {
@@ -923,10 +1793,28 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333666,
       "name": "Whiplash (Live in Mexcio City)",
       "url": "https://open.spotify.com/track/4MNXN43j4bEHxypCxPjA6F"
+    },
+    {
+      "album": {
+        "name": "Live Sh*t: Binge & Purge (Live In Mexico City)",
+        "url": "https://open.spotify.com/album/6TXWP5SAhTB9P0GN4tOT0B"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333666,
+      "name": "Whiplash - Live In Mexico City",
+      "url": "https://open.spotify.com/track/6ApwU7sRS3C4Za0gYgFXnw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1zTIMb05Nr"

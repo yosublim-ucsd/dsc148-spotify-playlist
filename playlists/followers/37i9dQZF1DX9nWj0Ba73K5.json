@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 33089,
+  "2024-04-20": 33090,
   "date_first_scraped": "2022-01-02",
   "description": "Featuring the 'Noteable' songwriters who create your favorite songs. Cover: Nicolle Galyon\n",
   "name": "Country Songwriters",
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/0VDwexFkbhb7kNAnJwfcsh"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208986,
       "name": "Don't Blink",
       "url": "https://open.spotify.com/track/2P3j9QelzILN9OP7zGVVnW"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 240440,
       "name": "Either",
       "url": "https://open.spotify.com/track/2OWHy2piQ5aamjenrRKkQi"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240440,
       "name": "Either",
       "url": "https://open.spotify.com/track/7H3BRHk8UJHaOIgQwcXtGc"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251489,
       "name": "Happy Children",
       "url": "https://open.spotify.com/track/3DAmiBXJkHj9YqV1UjJw0s"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 251489,
       "name": "Happy Children",
       "url": "https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb"
@@ -2491,7 +2491,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247760,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/2fs202sJKe2eG5DonowLBT"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 247760,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT"
@@ -2669,7 +2669,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181837,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/2eDD02w1Nm7nAelUAu1p2v"
@@ -2687,7 +2687,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 181837,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/6jaCDrO3yOtQkxz98cU5Wl"
@@ -2795,7 +2795,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179541,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf"
@@ -2813,7 +2813,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179541,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/4iHI9yGjIiDe9tmOz6Zben"
@@ -2835,7 +2835,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188333,
       "name": "No More of 'Em",
       "url": "https://open.spotify.com/track/0o3dSb5poDTE1ae8io3w23"
@@ -2857,7 +2857,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "No More of 'Em",
       "url": "https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe"
@@ -3611,7 +3611,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281400,
       "name": "Southern Curiosity",
       "url": "https://open.spotify.com/track/5wD8QpSlFNZCE4WXNnbVCp"
@@ -3629,7 +3629,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 281400,
       "name": "Southern Curiosity",
       "url": "https://open.spotify.com/track/73PVliArlrMWpzZEWShWV0"
@@ -4513,7 +4513,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-28",
+      "date_removed": null,
       "duration_ms": 157840,
       "name": "Walks On Whiskey",
       "url": "https://open.spotify.com/track/38Kr23AF7ClWkD8Tiew0Vj"
@@ -4531,7 +4531,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157840,
       "name": "Walks on Whiskey",
       "url": "https://open.spotify.com/track/7C5KYt5hyCqy0kMAq9jbEQ"
@@ -4647,7 +4647,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225573,
       "name": "What Whiskey Does (feat. Hillary Lindsey)",
       "url": "https://open.spotify.com/track/5YZj3Lb2WUgjlLoXYb2Wq2"
@@ -4669,7 +4669,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 226173,
       "name": "What Whiskey Does (feat. Hillary Lindsey)",
       "url": "https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM"

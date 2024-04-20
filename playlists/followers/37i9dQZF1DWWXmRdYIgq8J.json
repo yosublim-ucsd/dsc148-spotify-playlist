@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 20176,
+  "2024-04-20": 20185,
   "date_first_scraped": "2021-12-28",
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
   "name": "Pass The Chutney",
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232258,
       "name": "Balama",
       "url": "https://open.spotify.com/track/0YWBtnNdMdEuh8RK8AXDXg"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 232258,
       "name": "Balama",
       "url": "https://open.spotify.com/track/7mApM1xZlAiyJHT1xHn88S"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 224966,
       "name": "Balkissoon",
       "url": "https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224966,
       "name": "Balkissoon",
       "url": "https://open.spotify.com/track/4dbTsPxGxBKxVfF6ME1YWE"
@@ -381,6 +381,28 @@
     {
       "album": {
         "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Circus",
         "url": "https://open.spotify.com/album/2Fd7EJGE8564lHxKQclwAE"
       },
       "artists": [
@@ -395,36 +417,10 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy"
-    },
-    {
-      "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        },
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "date_added": "2021-10-21",
-      "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "album": {
@@ -569,7 +565,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183533,
       "name": "Chutney Bachannal",
       "url": "https://open.spotify.com/track/5P0X7qfDz1XsrlOi31vi1g"
@@ -587,7 +583,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183533,
       "name": "Chutney Bachannal",
       "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
@@ -779,7 +775,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121138,
       "name": "Dip",
       "url": "https://open.spotify.com/track/6l6RCCV2A9u3SHIt3mvaiN"
@@ -797,7 +793,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 122618,
       "name": "Dip",
       "url": "https://open.spotify.com/track/2NWKeFC8heQQ9AkxctKN4X"
@@ -1113,7 +1109,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 202080,
       "name": "Indian Gyal",
       "url": "https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0"
@@ -1135,7 +1131,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202080,
       "name": "Indian Gyal",
       "url": "https://open.spotify.com/track/2Vwpai1MSuaBJRXnMjAa3Y"
@@ -1419,7 +1415,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201163,
       "name": "Legend",
       "url": "https://open.spotify.com/track/5Ry1vM7AHWyygE3TDq8Gco"
@@ -1437,7 +1433,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-19",
+      "date_removed": null,
       "duration_ms": 201163,
       "name": "Legend",
       "url": "https://open.spotify.com/track/6e5mgv3aosMtxjI15UssZp"
@@ -1531,7 +1527,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274626,
       "name": "Mor Tor",
       "url": "https://open.spotify.com/track/7oCilb334fFHHuYlpDE4RR"
@@ -1553,7 +1549,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Mor Tor (feat. Rikki Jai)",
       "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"
@@ -1827,7 +1823,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Radica",
       "url": "https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22"
@@ -1845,7 +1841,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264346,
       "name": "Radica",
       "url": "https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU"
@@ -2137,7 +2133,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238053,
       "name": "Yard Fowl",
       "url": "https://open.spotify.com/track/0ig6iNhu240WdlFNdEO8z6"
@@ -2159,7 +2155,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 238053,
       "name": "Yard Fowl",
       "url": "https://open.spotify.com/track/6YOozIEU54Llwp9nXczxBW"

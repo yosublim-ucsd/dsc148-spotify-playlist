@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2199,
+  "2024-04-20": 2199,
   "date_first_scraped": "2023-02-15",
   "description": "Featuring LIT killah, Bad Bunny, Tego Calder\u00f3n & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #023",
@@ -65,10 +65,32 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
       "album": {
@@ -117,7 +139,7 @@
     {
       "album": {
         "name": "Ella Quiere Beber (Remix)",
-        "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
+        "url": "https://open.spotify.com/album/6lNu03TCXIXoalIH2r65Xm"
       },
       "artists": [
         {
@@ -132,6 +154,28 @@
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219357,
+      "name": "Ella Quiere Beber - Remix",
+      "url": "https://open.spotify.com/track/2cYnZNzFRFK0H7vSNxPsUq"
+    },
+    {
+      "album": {
+        "name": "Ella Quiere Beber (Remix)",
+        "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 219357,
       "name": "Ella Quiere Beber - Remix",
       "url": "https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw"
@@ -153,6 +197,28 @@
       "duration_ms": 210546,
       "name": "Esta Noche de Travesuras",
       "url": "https://open.spotify.com/track/0AEVupnoNEKPU81AOuPwjS"
+    },
+    {
+      "album": {
+        "name": "Flow Music Presenta: Flow la Discoteka",
+        "url": "https://open.spotify.com/album/1MMh3d7RB45nWDOekQ9cGZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212533,
+      "name": "Esta Noche de Travesuras (feat. Hector el Father)",
+      "url": "https://open.spotify.com/track/6TT2GzEieukcMFQkCWw2Tm"
     },
     {
       "album": {
@@ -335,7 +401,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212739,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/4BLIFDDhS6zByPJrjIK3jR"
@@ -371,10 +437,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160569,
       "name": "Perreando Y Llorando",
       "url": "https://open.spotify.com/track/6HJE6WqRM9VsARnBlz5fci"
+    },
+    {
+      "album": {
+        "name": "Perreando Y Llorando",
+        "url": "https://open.spotify.com/album/28koaqOfc2TJOmmS05FfY3"
+      },
+      "artists": [
+        {
+          "name": "Meth Math",
+          "url": "https://open.spotify.com/artist/1avO1wALC75qKqIUpkJh0T"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160569,
+      "name": "Perreando Y Llorando",
+      "url": "https://open.spotify.com/track/7obOj4rHWrOewdePe0F47k"
     },
     {
       "album": {
@@ -517,7 +601,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146903,
       "name": "The Club",
       "url": "https://open.spotify.com/track/0QQ41jQenaJbjYU0UXj3vE"
@@ -539,7 +623,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 146903,
       "name": "The Club",
       "url": "https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty"
@@ -579,10 +663,28 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218386,
       "name": "Unica",
       "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
+    },
+    {
+      "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/1Uat1dUvnse4TlneMoZT98"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219682,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/6752EZMgXswvRBH3N2PilO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYiLIxWhPONZ"

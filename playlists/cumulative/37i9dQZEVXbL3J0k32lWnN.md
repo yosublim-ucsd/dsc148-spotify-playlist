@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,495 songs - 3 day 5 hr 55 min
+1,496 songs - 3 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-05 |
 | [Bellevue \(feat\. D1MA\)](https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [Bellevue \(feat\. D1MA\)](https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe) | 2:34 | 2024-02-24 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-06-04 | 2022-10-16 |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-19 |  |
 | [benny](https://open.spotify.com/track/0OA5FSqjpBLstcdYg8PujX) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [benny](https://open.spotify.com/album/3TnqijPnjNbf3oWlWhGONN) | 3:44 | 2024-01-20 | 2024-02-18 |
 | [benny](https://open.spotify.com/track/2ykxx5MAliDB8rVOjzJMWE) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [un hommage](https://open.spotify.com/album/4Ydw6xK3N8zsLkmNC7Loxz) | 3:44 | 2024-03-03 | 2024-03-10 |
 | [Bentley](https://open.spotify.com/track/2uFYncMY5Srs1f3AL3r6Do) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Lys Over Land 1](https://open.spotify.com/album/2NJaPWjalZ41VDHlywGyq3) | 3:12 | 2022-06-18 | 2022-06-23 |
@@ -711,7 +712,7 @@
 | [Januar til December](https://open.spotify.com/track/3eBZvO3q5DlsC8q578fVmK) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Januar til December](https://open.spotify.com/album/3M6Mm4PXOPoV7wF5vt4YYT) | 2:46 | 2023-10-21 | 2023-10-23 |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-30 | 2024-02-04 |
 | [JEG ER ALMINDELIG](https://open.spotify.com/track/6ZBBA4FoCfyZX6CS3NGqxM) | [ROSÉL](https://open.spotify.com/artist/68qzFAN4togCedlRiLWshZ) | [JEG ER ALMINDELIG](https://open.spotify.com/album/0omE59KGMGoZb3dPVxxBay) | 2:58 | 2023-04-02 | 2023-05-14 |
-| [Jeg Er En Gamer](https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt) | [Thomas](https://open.spotify.com/artist/48TDXlvrRdpiXio8IjkP4z) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:54 | 2024-02-25 |  |
+| [Jeg Er En Gamer](https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt) | [Thomas](https://open.spotify.com/artist/48TDXlvrRdpiXio8IjkP4z) | [MGP 2024](https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay) | 2:54 | 2024-02-25 | 2024-04-20 |
 | [Jeg Hader Dig, Jeg Elsker Dig](https://open.spotify.com/track/49Pz0LmwSxs0OEQm9NQzDt) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [KNUSTE HJERTER HELER ALDRIG](https://open.spotify.com/album/4NWhKlIpVlBy1fzIGSNRcl) | 2:44 | 2023-02-11 | 2023-02-13 |
 | [Jeg ka li hvordan du gør det\. \(feat\. Artigeardit\)](https://open.spotify.com/track/60ladPBYAyWDWLe7KPhYJq) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Jeg ka li hvordan du gør det\. \(feat\. Artigeardit\)](https://open.spotify.com/album/6rbEbGP1QeFeDlLJGboACy) | 2:36 | 2023-06-03 | 2023-06-07 |
 | [Jeg Ka' Rigtig Godt Li' Dig \(feat\. andreas odbjerg\)](https://open.spotify.com/track/5Zll07pbDGEStWriPWKwuP) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:06 | 2024-03-23 | 2024-04-03 |

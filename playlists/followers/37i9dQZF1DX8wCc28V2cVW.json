@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 189251,
+  "2024-04-20": 189256,
   "date_first_scraped": "2022-06-10",
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
   "name": "FINAL FANTASY",
@@ -1210,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "FFVII\u30e1\u30a4\u30f3\u30c6\u30fc\u30de Battle Edit - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/2EEhGS65kA0IYgryIvhNGz"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY VII Original Soundtrack",
         "url": "https://open.spotify.com/album/2x9uZkJTGLxXHDm8rztQGK"
       },
@@ -1455,10 +1473,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210750,
       "name": "Find the Flame",
       "url": "https://open.spotify.com/track/6PWwohPvdhMIhEAIfyB6J6"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XVI Original Soundtrack (Prelude)",
+        "url": "https://open.spotify.com/album/1rwbr1bWfiK00Q12bLhhRi"
+      },
+      "artists": [
+        {
+          "name": "\u7956\u5805 \u6b63\u6176",
+          "url": "https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212930,
+      "name": "Find the Flame",
+      "url": "https://open.spotify.com/track/4ahsjUsmtIkED1w6a6M2Ev"
     },
     {
       "album": {
@@ -1697,6 +1733,28 @@
     {
       "album": {
         "name": "FINAL FANTASY XVI Original Soundtrack (Prelude)",
+        "url": "https://open.spotify.com/album/1rwbr1bWfiK00Q12bLhhRi"
+      },
+      "artists": [
+        {
+          "name": "\u7956\u5805 \u6b63\u6176",
+          "url": "https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe"
+        },
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147352,
+      "name": "Land of Eikons",
+      "url": "https://open.spotify.com/track/2NyfBV0brlT35dpmUizPRl"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XVI Original Soundtrack (Prelude)",
         "url": "https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu"
       },
       "artists": [
@@ -1711,7 +1769,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147352,
       "name": "Land of Eikons",
       "url": "https://open.spotify.com/track/7qqr7CbTfqsdMeEHkot4sp"
@@ -1751,7 +1809,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128973,
       "name": "Listen to the Cries of the Planet - Battle Edit - FF7 Rebirth OST Ver.",
       "url": "https://open.spotify.com/track/045utA30J7qEztw4u14FS6"
@@ -1769,7 +1827,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 221266,
       "name": "Luca",
       "url": "https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu"
@@ -1841,7 +1899,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220200,
       "name": "Main Theme of FFVII - Battle Edit - FF7 Rebirth OST Ver.",
       "url": "https://open.spotify.com/track/7ozHFZzGPbUiCHQkcz7dO3"
@@ -1967,10 +2025,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112394,
       "name": "My Lady",
       "url": "https://open.spotify.com/track/276sedtnIqaj5LM92cJkLf"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XVI Original Soundtrack (Prelude)",
+        "url": "https://open.spotify.com/album/1rwbr1bWfiK00Q12bLhhRi"
+      },
+      "artists": [
+        {
+          "name": "\u7956\u5805 \u6b63\u6176",
+          "url": "https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112394,
+      "name": "My Lady",
+      "url": "https://open.spotify.com/track/6mYQDwYLuFpMZn0DXkizgH"
     },
     {
       "album": {
@@ -2493,7 +2569,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218240,
       "name": "Rufus's Welcoming Ceremony - Seventh, Ten-Hut! - FF7 Rebirth OST Ver.",
       "url": "https://open.spotify.com/track/4zzh3RcLlPopX7GAcC3Ohx"
@@ -3123,10 +3199,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362531,
       "name": "To Sail Forbidden Seas",
       "url": "https://open.spotify.com/track/6mTYogytP7xgRHaoCeBndS"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XVI Original Soundtrack (Prelude)",
+        "url": "https://open.spotify.com/album/1rwbr1bWfiK00Q12bLhhRi"
+      },
+      "artists": [
+        {
+          "name": "\u7956\u5805 \u6b63\u6176",
+          "url": "https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362531,
+      "name": "To Sail Forbidden Seas",
+      "url": "https://open.spotify.com/track/7wRZS1kCsrNsjL2pVDqilA"
     },
     {
       "album": {
@@ -3163,7 +3257,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191000,
       "name": "Toward Mt. Nibel - FF7 Rebirth OST Ver.",
       "url": "https://open.spotify.com/track/1bacdKqUaHst7BIXB8Xa82"
@@ -3361,7 +3455,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236240,
       "name": "With Heavy Heart - A Seabreeze Stroll - FF7 Rebirth OST Ver.",
       "url": "https://open.spotify.com/track/4azpo7CK0AmX6jjWU5Iz02"
@@ -3415,7 +3509,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405293,
       "name": "Yeul's Theme",
       "url": "https://open.spotify.com/track/4bJcsstaAf36WJZHny1oLf"
@@ -3782,6 +3876,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u30cb\u30d6\u30eb\u5c71\u3092\u76ee\u6307\u3057\u3066 - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/2yrPXEJY3DiU8IEcXLeWHb"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/75wUZM2w087CXGXLvCm6Lc"
       },
@@ -3923,6 +4035,24 @@
       "duration_ms": 193573,
       "name": "\u30d6\u30ec\u30a4\u30ba\u30a8\u30c3\u30b8",
       "url": "https://open.spotify.com/track/7cYK8Z5PeWLL8iH0RkxAsg"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "\u30eb\u30fc\u30d5\u30a1\u30a6\u30b9\u6b53\u8fce\u5f0f\u5178 -\u30b8\u30e5\u30ce\u30f3\u306e\u30c6\u30fc\u30de- - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/4qZuNEmKlm32MhFZPL38xf"
     },
     {
       "album": {
@@ -4070,6 +4200,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24"
+      },
+      "artists": [
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236240,
+      "name": "\u60f3\u3044\u3092\u80f8\u306b -\u6f6e\u98a8\u306b\u62b1\u304b\u308c\u3066- - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/5IvYDPGeAJzbQ7yLqwuQKX"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY VI Original Soundtrack",
         "url": "https://open.spotify.com/album/2TSNplroV3of8oQ9aSw6bT"
       },
@@ -4121,6 +4269,28 @@
       "duration_ms": 224160,
       "name": "\u65c5\u306e\u9014\u4e2d\u3067",
       "url": "https://open.spotify.com/track/3x1RUZccB8ADbYT3vAf9yz"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY VII REBIRTH Original Soundtrack (Preview Version)",
+        "url": "https://open.spotify.com/album/3dx5bXpcxW9qmfxhfoJz24"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6 \u7fd4\u592a\u6717",
+          "url": "https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq"
+        },
+        {
+          "name": "\u690d\u677e \u4f38\u592b",
+          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128973,
+      "name": "\u661f\u306e\u58f0\u304c\u805e\u3053\u3048\u308b Battle Edit - FF7 Rebirth OST Ver.",
+      "url": "https://open.spotify.com/track/0Z2vRsillUInyxeaD6cn8d"
     },
     {
       "album": {

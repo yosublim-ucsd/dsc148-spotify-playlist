@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 76379,
+  "2024-04-20": 76472,
   "date_first_scraped": "2023-03-20",
   "description": "Country rap hits of today and tomorrow.",
   "name": "Country Rap",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 191695,
       "name": "A Little Too Far",
       "url": "https://open.spotify.com/track/0IYTStpc8Iux9ImzTQvlFu"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191695,
       "name": "A Little Too Far",
       "url": "https://open.spotify.com/track/6u4QyCtJYymSgcpz3mdaQo"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207629,
       "name": "Backyard Lullaby",
       "url": "https://open.spotify.com/track/2p8mjCnBQfoecW5rQxj8lr"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 207629,
       "name": "Backyard Lullaby",
       "url": "https://open.spotify.com/track/3A1DKJEl8D6tRmr4Fnssz0"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153258,
       "name": "Chop An Axe",
       "url": "https://open.spotify.com/track/2pxzoKcBWd7rqrL63dnyqS"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 153258,
       "name": "Chop An Axe",
       "url": "https://open.spotify.com/track/7GtRhC9Akk38hpP1aiyfr6"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123762,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 123762,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210661,
       "name": "Country Boy Swag",
       "url": "https://open.spotify.com/track/3rbRSCT3RPBl5J1o1ihANo"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 210661,
       "name": "Country Boy Swag",
       "url": "https://open.spotify.com/track/6c0IDzUOmZnDJOiHFu7q4F"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209058,
       "name": "Country Made",
       "url": "https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 209058,
       "name": "Country Made",
       "url": "https://open.spotify.com/track/2dzQTTYxfcKpH8PncC3SkE"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 158240,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/6iP3HRpbWj0iPd8gTSQgCn"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158240,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/7uEdrlfBe89dRbU6NUX7cw"
@@ -1297,6 +1297,24 @@
     {
       "album": {
         "name": "Parachute",
+        "url": "https://open.spotify.com/album/0ZzfgzLIpiIPOpVopokjPg"
+      },
+      "artists": [
+        {
+          "name": "Upchurch",
+          "url": "https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211498,
+      "name": "Holler Boys",
+      "url": "https://open.spotify.com/track/1XsTcnVnJqjjXXLBRqXWmD"
+    },
+    {
+      "album": {
+        "name": "Parachute",
         "url": "https://open.spotify.com/album/0x1pqWmdjByJt0lVEUr99c"
       },
       "artists": [
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211498,
       "name": "Holler Boys",
       "url": "https://open.spotify.com/track/3z0dzcrMa0e9TpP6xxKwaU"
@@ -1351,10 +1369,50 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283280,
       "name": "Hunger in My Stomach",
       "url": "https://open.spotify.com/track/4JcoMt9O0jUumJG2PoJGss"
+    },
+    {
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/7C1JUuLHcxYTV87kB92xEC"
+      },
+      "artists": [
+        {
+          "name": "Overtime",
+          "url": "https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283280,
+      "name": "Hunger in My Stomach",
+      "url": "https://open.spotify.com/track/4hexDDErC1cS0SF4Eqrz8k"
+    },
+    {
+      "album": {
+        "name": "Hunnids In A Honky Tonk (feat. Paul Wall)",
+        "url": "https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197668,
+      "name": "Hunnids In A Honky Tonk (feat. Paul Wall)",
+      "url": "https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU"
     },
     {
       "album": {
@@ -1391,10 +1449,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180532,
       "name": "I Break Down",
       "url": "https://open.spotify.com/track/3HrgCysmgDJpAGRrigxEq6"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz"
+      },
+      "artists": [
+        {
+          "name": "FJ Outlaw",
+          "url": "https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ"
+        },
+        {
+          "name": "Savannah Dexter",
+          "url": "https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180532,
+      "name": "I Break Down",
+      "url": "https://open.spotify.com/track/5mcePHeMAUwHNOsh5bDNJU"
     },
     {
       "album": {
@@ -1765,7 +1845,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 489360,
       "name": "Outback (Extended Remix)",
       "url": "https://open.spotify.com/track/1TCEkwRoCOeqLSj7IxYSd3"
@@ -1815,7 +1895,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 489360,
       "name": "Outback (Extended Remix)",
       "url": "https://open.spotify.com/track/5ycmDZVfvCFRIwALkTFwbb"
@@ -1965,7 +2045,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192818,
       "name": "Ride 4 Me",
       "url": "https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH"
@@ -1983,7 +2063,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 192818,
       "name": "Ride 4 Me",
       "url": "https://open.spotify.com/track/7yyEXTDz5p8BrN60dmYOJ3"
@@ -2115,10 +2195,32 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179253,
       "name": "Son Of The Dirty South",
       "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
+    },
+    {
+      "album": {
+        "name": "Son Of The Dirty South",
+        "url": "https://open.spotify.com/album/4GLrwjbdcgzlW3MGWJFarS"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs"
     },
     {
       "album": {
@@ -2309,7 +2411,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 200682,
       "name": "Times We Had",
       "url": "https://open.spotify.com/track/07BnMSbUANs8DDRZ1HDoy8"
@@ -2335,7 +2437,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200682,
       "name": "Times We Had",
       "url": "https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy"
@@ -2437,7 +2539,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237720,
       "name": "Unlive (with Yelawolf)",
       "url": "https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj"
@@ -2481,7 +2583,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "Unlive (with Yelawolf)",
       "url": "https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4"
@@ -2507,7 +2609,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg"
@@ -2533,10 +2635,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 225578,
       "name": "Way of Life",
       "url": "https://open.spotify.com/track/772E0ETHUfEwT5gJJOXW0C"
+    },
+    {
+      "album": {
+        "name": "When I Pull Up",
+        "url": "https://open.spotify.com/album/6NmIZGdsfYh21Fz2vFRI8K"
+      },
+      "artists": [
+        {
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "When I Pull Up",
+      "url": "https://open.spotify.com/track/36YL11gGDlMvhPvrIOYqQn"
     },
     {
       "album": {
@@ -2551,7 +2671,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146666,
       "name": "When I Pull Up",
       "url": "https://open.spotify.com/track/7aHzBx4XwGc0e1d7sKd5Md"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 99486,
+  "2024-04-20": 99500,
   "date_first_scraped": "2023-10-07",
   "description": "madi diaz x lennon stella collab & so much more!",
   "name": "juniper",
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
@@ -1857,7 +1857,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
@@ -2131,10 +2131,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
     },
     {
       "album": {
@@ -2322,6 +2340,42 @@
     },
     {
       "album": {
+        "name": "Maine/The Sink",
+        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293389,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
+    },
+    {
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/3AiBf52cAcDxVpFnfx8Xjr"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211187,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/7ksg8Q9dVls297TACKj91s"
+    },
+    {
+      "album": {
         "name": "Greg Mendez",
         "url": "https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik"
       },
@@ -2495,7 +2549,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
@@ -2513,7 +2567,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
@@ -2939,7 +2993,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/2YhLF7zIxcitEkobaGAMmU"
@@ -2957,7 +3011,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 296929,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj"
@@ -3011,7 +3065,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/3RyPOX98HHEYQholV0RBYF"
@@ -3029,7 +3083,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231724,
       "name": "Rearview",
       "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
@@ -3329,6 +3383,24 @@
     {
       "album": {
         "name": "Slipping Through My Fingers",
+        "url": "https://open.spotify.com/album/0koTZdaOlOsITAVODhjAAp"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263500,
+      "name": "Slipping Through My Fingers",
+      "url": "https://open.spotify.com/track/5GRarkYarOgejsLCxLprQD"
+    },
+    {
+      "album": {
+        "name": "Slipping Through My Fingers",
         "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
       },
       "artists": [
@@ -3339,7 +3411,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263500,
       "name": "Slipping Through My Fingers",
       "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
@@ -3884,6 +3956,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245541,
+      "name": "The Smallest Man Who Ever Lived",
+      "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
+    },
+    {
+      "album": {
         "name": "The Trek",
         "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
       },
@@ -3978,6 +4068,24 @@
     },
     {
       "album": {
+        "name": "To Watch The World Spin Without You",
+        "url": "https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "To Watch The World Spin Without You",
+      "url": "https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1"
+    },
+    {
+      "album": {
         "name": "To Watch the World Spin Without You",
         "url": "https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh"
       },
@@ -3989,7 +4097,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152346,
       "name": "To Watch the World Spin Without You",
       "url": "https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0"

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-263 songs - 17 hr 42 min
+264 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 | 2022-06-20 | 2023-05-23 |
 | [La Luna](https://open.spotify.com/track/3Yxc08PwQ9uRUt5bkDll2I) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [La Luna](https://open.spotify.com/album/1zoVH0wshtj6gJgmt3jJhz) | 3:37 | 2022-06-20 | 2023-05-20 |
 | [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 | 2023-08-04 |  |
-| [Last Dance](https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Last Dance](https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9) | 3:29 | 2023-07-21 |  |
+| [Last Dance](https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Last Dance](https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9) | 3:29 | 2023-07-21 | 2024-04-20 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2023-05-19 |  |
 | [Leave Me Behind](https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q), [Dux](https://open.spotify.com/artist/4KhjcdYNau3U89mU0hLuqr) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:45 | 2023-05-19 |  |
 | [Lela And Mari](https://open.spotify.com/track/35G6DJGmimKwIVhr6xeCLb) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Travel Stories](https://open.spotify.com/album/0Kb6SRz55D3nyaXwM0ugzU) | 6:12 | 2021-07-24 | 2023-05-20 |
@@ -226,6 +226,7 @@
 | [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 | 2023-09-25 |  |
 | [Something On My Mind](https://open.spotify.com/track/4AX83kHpGolbsCozHtRpJY) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/3RnC5qHBCqZ0Ztjriu9H9U) | 3:36 | 2024-04-19 |  |
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-08 | 2024-04-19 |
+| [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-19 |  |
 | [Spice Run](https://open.spotify.com/track/0chAFMgYUeaiZ5Z0C3X6JQ) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/34fLn0Jy7bi8bpkJRT0Pqm) | 5:49 | 2022-06-20 | 2023-05-20 |
 | [Spice Run](https://open.spotify.com/track/1TkJTS4V23IjVDUxaMWhyf) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Spice Run](https://open.spotify.com/album/39FVH5JgmFDDGxkF99QsIL) | 5:49 | 2021-07-24 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/1ir8ns7QddbM18F7UOa096) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l) | [Stand Up](https://open.spotify.com/album/0RYjPzxyHrBPebqHtUbtIY) | 2:26 | 2024-03-22 | 2024-04-19 |

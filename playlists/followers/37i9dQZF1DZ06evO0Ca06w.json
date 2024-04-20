@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12945,
+  "2024-04-20": 12948,
   "date_first_scraped": "2021-12-29",
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
   "name": "This Is Miriam Makeba",
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 165236,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/3062myCqbd64JVkqSYi5qg"
@@ -2125,7 +2125,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 180174,
       "name": "Pata Pata - Stereo Version",
       "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153373,
       "name": "The Click Song",
       "url": "https://open.spotify.com/track/329ss78X6RxaEa6iN1SsH8"
@@ -3043,7 +3043,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171001,
       "name": "Yetentu Tizaleny - Mono Version",
       "url": "https://open.spotify.com/track/1EUh45Yap9LpQ7kLbCaTSw"

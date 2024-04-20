@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 117760,
+  "2024-04-20": 117874,
   "date_first_scraped": "2023-12-30",
   "description": "\u00a1Las canciones rancheras de Luismi!",
   "name": "Luis Miguel: Ranchero",
@@ -305,10 +305,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202760,
       "name": "La Gloria Eres Tu",
       "url": "https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "La Gloria Eres Tu",
+      "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD"
     },
     {
       "album": {
@@ -511,7 +529,7 @@
     {
       "album": {
         "name": "Romances",
-        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
       "artists": [
         {
@@ -522,6 +540,24 @@
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 260600,
+      "name": "Noche De Ronda",
+      "url": "https://open.spotify.com/track/3uv0XgCPkTcOWGZJChstLJ"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 260600,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/7c3Qsn4lCTdVKiuxItqC03"
@@ -719,10 +755,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185040,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/5kB8WUUla9s2w7yXD7h4CQ"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185040,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 118541,
+  "2024-04-20": 118535,
   "date_first_scraped": "2023-02-18",
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Morat",
   "name": "Pop Colombia",
@@ -61,6 +61,24 @@
       "duration_ms": 187605,
       "name": "23",
       "url": "https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3"
+    },
+    {
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/4SHVF6pqNpYoWjYeROe5le"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218972,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/6dOZaQaueSGM05NdOczDFE"
     },
     {
       "album": {
@@ -409,6 +427,28 @@
     {
       "album": {
         "name": "Bella (Remix)",
+        "url": "https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU"
+      },
+      "artists": [
+        {
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "Bella - Remix",
+      "url": "https://open.spotify.com/track/0SKhd6uBssOAqEvlLuUr3s"
+    },
+    {
+      "album": {
+        "name": "Bella (Remix)",
         "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
       },
       "artists": [
@@ -423,10 +463,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218360,
       "name": "Bella - Remix",
       "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
+    },
+    {
+      "album": {
+        "name": "Besos En Guerra",
+        "url": "https://open.spotify.com/album/4XoiA4NiNcjYPmJV8INiQE"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229442,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1d0c62VFYauOOgxZ2eFUxx"
     },
     {
       "album": {
@@ -445,7 +507,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
@@ -629,7 +691,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
@@ -651,6 +713,24 @@
       "duration_ms": 195552,
       "name": "C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/2Ur0FiCEof5GoKsZDR9eyR"
+    },
+    {
+      "album": {
+        "name": "Antonia Jones",
+        "url": "https://open.spotify.com/album/5gcE6WCcD8zCfXvttpqwZt"
+      },
+      "artists": [
+        {
+          "name": "Antonia Jones",
+          "url": "https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Dejarlos Entrar",
+      "url": "https://open.spotify.com/track/5CesWiJGZ2pHlNYik6FBHz"
     },
     {
       "album": {
@@ -1379,10 +1459,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219228,
       "name": "La Estrategia",
       "url": "https://open.spotify.com/track/3mbCqi22KYjndD56qCykyP"
+    },
+    {
+      "album": {
+        "name": "La Estrategia",
+        "url": "https://open.spotify.com/album/3oGY6wgJ5gsh8QOADB6gHJ"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219228,
+      "name": "La Estrategia",
+      "url": "https://open.spotify.com/track/5fqE4mcMADOX0qTuIlpLZL"
     },
     {
       "album": {
@@ -1603,10 +1701,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/5FaSOHFMF5MaeUUDsq8lLG"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207856,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4zAmejUNIsPCWsj5t1lGo4"
     },
     {
       "album": {
@@ -1735,6 +1851,24 @@
     {
       "album": {
         "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0ANgi1tSAd3ZL3jLBP0Cct"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172926,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/311zbdjnHkGQAVvVWUpnzK"
+    },
+    {
+      "album": {
+        "name": "Me Gustas",
         "url": "https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91"
       },
       "artists": [
@@ -1745,7 +1879,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172926,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
@@ -1976,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "No Hay Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/2s4avhyZ6V7PbFVM6vPStc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197680,
+      "name": "No Hay Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/6wos8Ds5FKMe33GjBHRake"
+    },
+    {
+      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -1987,7 +2139,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199733,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
@@ -2322,6 +2474,24 @@
     },
     {
       "album": {
+        "name": "Por Hacerme el Bueno",
+        "url": "https://open.spotify.com/album/3M97oXb58OyZJrO8PdWaLp"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252374,
+      "name": "Por Hacerme el Bueno",
+      "url": "https://open.spotify.com/track/5kTBmo3zNcnlm6saZRFrHR"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Nos Quedamos?",
         "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
       },
@@ -2333,10 +2503,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252481,
       "name": "Por Hacerme el Bueno",
       "url": "https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek"
+    },
+    {
+      "album": {
+        "name": "Por Pura Curiosidad",
+        "url": "https://open.spotify.com/album/2gw6EVoQ8B0kK8Fsr6Cshn"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203832,
+      "name": "Por Pura Curiosidad",
+      "url": "https://open.spotify.com/track/1kLTaKK1qbtGuxggUtz8iz"
     },
     {
       "album": {
@@ -2351,7 +2539,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205242,
       "name": "Por Pura Curiosidad",
       "url": "https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy"
@@ -2740,6 +2928,24 @@
     },
     {
       "album": {
+        "name": "Simples Corazones",
+        "url": "https://open.spotify.com/album/4nrV5Id8yrr3f8ZvyCgFkG"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "Simples Corazones",
+      "url": "https://open.spotify.com/track/6SVEw266UzbkAKfCLeBPGy"
+    },
+    {
+      "album": {
         "name": "Agust\u00edn",
         "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
       },
@@ -2755,7 +2961,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243042,
       "name": "Simples Corazones (feat. Melendi)",
       "url": "https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U"
@@ -2933,7 +3139,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162181,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR"
@@ -3163,6 +3369,28 @@
     {
       "album": {
         "name": "Tu Boca Y La Luna",
+        "url": "https://open.spotify.com/album/6JfJllak7zt7nHOrjxGKMP"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        },
+        {
+          "name": "Martina La Peligrosa",
+          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157317,
+      "name": "Tu Boca Y La Luna",
+      "url": "https://open.spotify.com/track/3PvFp8J1cylf64wSk6vSZQ"
+    },
+    {
+      "album": {
+        "name": "Tu Boca Y La Luna",
         "url": "https://open.spotify.com/album/7lpcWjAiYabaqHaoW7PUjK"
       },
       "artists": [
@@ -3177,7 +3405,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157317,
       "name": "Tu Boca Y La Luna",
       "url": "https://open.spotify.com/track/7iWRX4dsq8NZCHQY0JmzbN"

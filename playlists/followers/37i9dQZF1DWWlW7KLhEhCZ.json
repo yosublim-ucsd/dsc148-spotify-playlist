@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 93809,
+  "2024-04-20": 93759,
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Nebrugg",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: LH CHUCRO",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 440000,
       "name": "Altatrap #7 - O Plano",
       "url": "https://open.spotify.com/track/1Ai7vXX72o6fr4bsq4TTip"
@@ -3986,6 +3986,32 @@
     },
     {
       "album": {
+        "name": "Brotou uma P!ranha",
+        "url": "https://open.spotify.com/album/6jX0Nz2S4cq3DQlRFohE5u"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160629,
+      "name": "Brotou uma P!ranha",
+      "url": "https://open.spotify.com/track/3VqAUdeNOHJqheiVit9gyl"
+    },
+    {
+      "album": {
         "name": "Buchanan's",
         "url": "https://open.spotify.com/album/59M8fxmPJeGM5zq4JqbP0n"
       },
@@ -5757,7 +5783,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83180,
       "name": "Como que eu movimento essa grana ?",
       "url": "https://open.spotify.com/track/41C9wdvSMImTmML9REiDRE"
@@ -8045,7 +8071,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/3PYfYGJdwe38j4DGAbFoxM"
@@ -8071,7 +8097,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 137739,
       "name": "Doce Amargo",
       "url": "https://open.spotify.com/track/7sprGJodPMEvV62jQZwB8r"
@@ -8107,10 +8133,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132735,
       "name": "Dogg",
       "url": "https://open.spotify.com/track/4klxyGLBxUZDP1bx302VMn"
+    },
+    {
+      "album": {
+        "name": "Dois Lados",
+        "url": "https://open.spotify.com/album/3VlzEdi1fvyVV0v5zvKTdL"
+      },
+      "artists": [
+        {
+          "name": "Rare Kidd",
+          "url": "https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Dois Lados",
+      "url": "https://open.spotify.com/track/7JJM0hEk80D8Sn08AzrYBL"
     },
     {
       "album": {
@@ -8181,6 +8229,28 @@
       "duration_ms": 143111,
       "name": "Dono do Jogo",
       "url": "https://open.spotify.com/track/7HPNcm9QLTmtVShavw2A7i"
+    },
+    {
+      "album": {
+        "name": "Dono Do Morro",
+        "url": "https://open.spotify.com/album/1e2ZjrdomPu2tBGXVyT2K2"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Dono Do Morro",
+      "url": "https://open.spotify.com/track/6FkrWmDwc4w3YwMG3tWYTh"
     },
     {
       "album": {
@@ -9869,7 +9939,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "Fant\u00e1stico",
       "url": "https://open.spotify.com/track/1OhJE8RgWeKXvMEj9TBYB3"
@@ -9895,7 +9965,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180800,
       "name": "Fant\u00e1stico",
       "url": "https://open.spotify.com/track/4dvka1VID5nh8iBQSFYP58"
@@ -18776,6 +18846,28 @@
     },
     {
       "album": {
+        "name": "Perfil #92 - Maldito Bendito",
+        "url": "https://open.spotify.com/album/5dhL2ENO5CbWkxP3XU4C3l"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Perfil #92 - Maldito Bendito",
+      "url": "https://open.spotify.com/track/1WdmBRiobAoO6yASiPQPbr"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/3YIVhG7GqCTMp6tb0PHcKc"
       },
@@ -23063,7 +23155,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 198293,
       "name": "Space Ship",
       "url": "https://open.spotify.com/track/52gknpCEWSbJoAQkNOGFF3"
@@ -23085,7 +23177,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198293,
       "name": "Space Ship",
       "url": "https://open.spotify.com/track/5X3WZeWLdhyEYiFilIEiCG"
@@ -26549,7 +26641,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 95403,
       "name": "Zero",
       "url": "https://open.spotify.com/track/1Of1tSeyWVKdmSUCS5DJAu"

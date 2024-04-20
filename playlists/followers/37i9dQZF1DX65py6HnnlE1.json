@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 692137,
+  "2024-04-20": 691878,
   "date_first_scraped": "2022-01-21",
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
   "name": "Bachata Classics",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 325506,
       "name": "Amiga Veneno",
       "url": "https://open.spotify.com/track/7n8cKJDktV6TeKZTcR5k8y"
@@ -60,6 +60,24 @@
     },
     {
       "album": {
+        "name": "Old School Bachata",
+        "url": "https://open.spotify.com/album/5atPwcttstCkSkPGT6s9vT"
+      },
+      "artists": [
+        {
+          "name": "Ramon Cordero",
+          "url": "https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/782ucUaVl6HFE5vtb6tizp"
+    },
+    {
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/3otGSsBAcUPiucY8PMYqZG"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191529,
       "name": "Amor del Bueno",
       "url": "https://open.spotify.com/track/2egwnJt2bLB7dAtW1t16uD"
@@ -107,9 +125,9 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 302960,
-      "name": "Ay hombre",
+      "name": "Ay hombe",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
     },
     {
@@ -143,7 +161,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/3H9GcHKKJyZ9TEOLKlJ1U5"
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257079,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
@@ -334,6 +352,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/2Z1FwdTgIXnrHv0Zmy99YB"
+      },
+      "artists": [
+        {
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Con el Pecho y el Corazon",
+      "url": "https://open.spotify.com/track/2kBL9Ila19Bv1nQRcVPeKD"
+    },
+    {
+      "album": {
         "name": "15 Exitos Marino Perez",
         "url": "https://open.spotify.com/album/2GgcIpvyFqjJl2AhEWodLK"
       },
@@ -345,7 +381,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170600,
       "name": "Con El Pecho Y El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OsH0T56LpWn3GPGNlGijR"
@@ -385,6 +421,24 @@
       "duration_ms": 359773,
       "name": "Coraz\u00f3n Culpable",
       "url": "https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt"
+    },
+    {
+      "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/0DeMaV8nrFWNYN4w56xm8Y"
     },
     {
       "album": {
@@ -453,7 +507,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 235560,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
@@ -471,7 +525,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235996,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/3hCzPmdh5AhxFYBZMfFOgP"
@@ -539,15 +593,11 @@
         {
           "name": "Frank Reyes",
           "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        },
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 266109,
       "name": "De Punta a Punta Aka una Mujer Como Tu",
       "url": "https://open.spotify.com/track/1NUPZxaOkmlVwc40rytSGH"
@@ -565,7 +615,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233320,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/5RR49uwtf6kMHYRCU2b6A1"
@@ -583,7 +633,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "De Rodillas Te Pido",
       "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
@@ -667,7 +717,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270480,
       "name": "Donde Estan Esos Amigos",
       "url": "https://open.spotify.com/track/0PLpw3w76h4mVnXUDnveRG"
@@ -685,7 +735,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270576,
       "name": "Donde Estan Esos Amigos",
       "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
@@ -703,7 +753,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299146,
       "name": "Donde Estar\u00e1",
       "url": "https://open.spotify.com/track/7oJ5gMtXIjVyx9plzoFkHU"
@@ -793,7 +843,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 293537,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
@@ -811,7 +861,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293543,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/0r55uL83PpPjKguZMRJ0Ly"
@@ -865,7 +915,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219866,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
@@ -883,7 +933,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 219866,
       "name": "El profesor",
       "url": "https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd"
@@ -995,7 +1045,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282708,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd"
@@ -1031,7 +1081,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250106,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
@@ -1049,7 +1099,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251428,
       "name": "Estoy Perdido",
       "url": "https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm"
@@ -1067,7 +1117,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0H6hDn1jaralA0JtSsW5DU"
@@ -1085,7 +1135,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 266320,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
@@ -1139,7 +1189,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245400,
       "name": "Fr\u00edo Fr\u00edo",
       "url": "https://open.spotify.com/track/1UzxNNiJhUPngbfANRlQqM"
@@ -1157,7 +1207,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255280,
       "name": "Hasta El Fin",
       "url": "https://open.spotify.com/track/4p1Bggx2fygzjjepd0Eit0"
@@ -1211,7 +1261,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
@@ -1229,7 +1279,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254346,
       "name": "Hoy Te VI Pasar",
       "url": "https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr"
@@ -1319,7 +1369,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184706,
       "name": "La Hormiguita",
       "url": "https://open.spotify.com/track/5FNE4lOC3iU9ItMxlt5NdG"
@@ -1337,7 +1387,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "La Quiero y Es Ajena",
       "url": "https://open.spotify.com/track/3vlG0VhDV0DU4P9kMHKyyZ"
@@ -1481,7 +1531,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 298640,
       "name": "Me Dejaste Abandonado",
       "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
@@ -1521,7 +1571,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 344893,
       "name": "Me Voy De Ti",
       "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
@@ -1539,7 +1589,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345000,
       "name": "Me Voy de Ti",
       "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
@@ -1593,7 +1643,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239906,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
@@ -1629,7 +1679,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240026,
       "name": "Mi Ni\u00f1a - Bachata Version",
       "url": "https://open.spotify.com/track/3Ed337L8k9XN4Cje0mr7p6"
@@ -1799,6 +1849,24 @@
     {
       "album": {
         "name": "Pura Bachata",
+        "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
+      },
+      "artists": [
+        {
+          "name": "Marino Perez",
+          "url": "https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184579,
+      "name": "No la Quiero Ver Con Otro",
+      "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
+    },
+    {
+      "album": {
+        "name": "Pura Bachata",
         "url": "https://open.spotify.com/album/42r5AIbVielDT0MKt80idK"
       },
       "artists": [
@@ -1809,7 +1877,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184619,
       "name": "No la Quiero Ver Con Otro",
       "url": "https://open.spotify.com/track/7MbSL1f89YJGjuRmWLKlhf"
@@ -1943,7 +2011,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177600,
       "name": "Pena Por Ti",
       "url": "https://open.spotify.com/track/1HX2dU4tr8PfvS648S0Xtz"
@@ -1961,7 +2029,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Pena Por Ti",
       "url": "https://open.spotify.com/track/7lNGtKmnHaxotSKonqiSVl"
@@ -2051,7 +2119,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-25",
+      "date_removed": null,
       "duration_ms": 254240,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/3CWgv82JBVeL9KX48BNLmb"
@@ -2069,7 +2137,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254240,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/1GBbK7hyxKpYGgT8EHKsRI"
@@ -2087,7 +2155,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281560,
       "name": "Por Mi Timidez",
       "url": "https://open.spotify.com/track/5GYDLehClDE0qcEc9nxxVi"
@@ -2325,7 +2393,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259026,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/0xdykckHenBXiOxo8jiraJ"
@@ -2379,7 +2447,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204893,
       "name": "Sentimiento de Amor",
       "url": "https://open.spotify.com/track/34FUq3P5k5vc49MfO9kYGP"
@@ -2397,7 +2465,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 206892,
       "name": "Sentimiento De Amor (HD Digital Remastered)",
       "url": "https://open.spotify.com/track/70qTmNsWvjD4OSC7CycA6k"
@@ -2440,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "En Persona",
+        "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "Si Tu Me Dejas",
+      "url": "https://open.spotify.com/track/2eMCoeD8MWC7sCTnMQTSkP"
+    },
+    {
+      "album": {
         "name": "Exitos de Ayer y Hoy",
         "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
       },
@@ -2469,7 +2555,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170000,
       "name": "Si T\u00fa Me Dices Ven (El Lodo)",
       "url": "https://open.spotify.com/track/18jpbSZVA950uq9JiwahHQ"
@@ -2487,7 +2573,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -2505,10 +2591,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp"
+    },
+    {
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312506,
+      "name": "Solo Sin Ella",
+      "url": "https://open.spotify.com/track/5ZYOvhism99dkMEnHf7EZc"
     },
     {
       "album": {
@@ -2523,7 +2627,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313000,
       "name": "Solo Sin Ella",
       "url": "https://open.spotify.com/track/1SEUuVeY2PfXGmr2GKOYVH"
@@ -2649,7 +2753,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239666,
       "name": "Tu Eres Ajena - Bachata",
       "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
@@ -2667,7 +2771,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193293,
       "name": "Tu Eres Mi Hembra",
       "url": "https://open.spotify.com/track/6VG22s0gnTLHXsE3b0tTcY"
@@ -2721,7 +2825,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269490,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
@@ -2739,7 +2843,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269493,
       "name": "Vagabundo, Borracho y Loco",
       "url": "https://open.spotify.com/track/7HaK3CjawpQc6kKJXAIrcw"
@@ -2793,7 +2897,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 279880,
       "name": "Vine a Decirte Adios",
       "url": "https://open.spotify.com/track/7gz5kxYuat0XNOPgmPEg40"
@@ -2811,10 +2915,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310613,
       "name": "Vocales de amor",
       "url": "https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa"
+    },
+    {
+      "album": {
+        "name": "El Duque de la Bachata",
+        "url": "https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi"
+      },
+      "artists": [
+        {
+          "name": "Joan Soriano",
+          "url": "https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310613,
+      "name": "Vocales de amor",
+      "url": "https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2"
     },
     {
       "album": {

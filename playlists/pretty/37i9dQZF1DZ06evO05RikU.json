@@ -1,12 +1,12 @@
 {
-  "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 41490,
+  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
+  "num_followers": 41471,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDJiYTY2OWUxNWVhOGM2YTI1ZTE4ZmQ5YTRjNmUzMmJj",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDBiMWIzOGQzMDY2ZmU1ODBiMDE1MWYwZjM1NjljN2Q5",
   "tracks": [
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Est\u00e1s T\u00fa",
         "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 177607,
       "name": "Cuando Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,

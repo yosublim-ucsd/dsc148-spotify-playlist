@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Marioo
+> Get your fill of vibes straight out of Tanzania\. Cover: Platform
 
 383 songs - 21 hr 49 min
 

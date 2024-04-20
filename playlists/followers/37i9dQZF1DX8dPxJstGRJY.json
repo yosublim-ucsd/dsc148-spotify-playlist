@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 291409,
+  "2024-04-20": 291607,
   "date_first_scraped": "2021-12-28",
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
   "name": "Classical Crossover",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 260226,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF"
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260226,
       "name": "A Million Dreams",
       "url": "https://open.spotify.com/track/7i6fhlzpTeObDTsISlsU8Z"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230760,
       "name": "Air en sol",
       "url": "https://open.spotify.com/track/6mP0PMfnTzvf4dSNU8W1ts"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228751,
       "name": "Air sur la corde de Sol - Suite pour orchestre No 3, BWV 1068",
       "url": "https://open.spotify.com/track/5ivf8uOExXktY0aMgwFodc"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 318666,
       "name": "Caruso",
       "url": "https://open.spotify.com/track/0tTbk9bpoFRDa19eVghS4d"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319493,
       "name": "Caruso",
       "url": "https://open.spotify.com/track/5hV0uMeGIUtKASyf25htAo"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224382,
       "name": "Grande amore",
       "url": "https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224680,
       "name": "Grande amore",
       "url": "https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221613,
       "name": "Make Me a Channel of Your Peace (Arr. by Simon Lole)",
       "url": "https://open.spotify.com/track/0vBTnSkwQIOaO2iCHjb3d6"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 221613,
       "name": "Make Me a Channel of Your Peace - Arr. by Simon Lole",
       "url": "https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229219,
       "name": "Mononoke Hime",
       "url": "https://open.spotify.com/track/3UdYeHpaN6LSl1Gf1dhlbs"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 229219,
       "name": "Mononoke Hime",
       "url": "https://open.spotify.com/track/63jBZRDHRrY7X1BklH4mJ1"
@@ -804,24 +804,6 @@
     },
     {
       "album": {
-        "name": "Pure (Includes Bonus Tracks and Exclusive Track)",
-        "url": "https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5"
-      },
-      "artists": [
-        {
-          "name": "Hayley Westenra",
-          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
-        }
-      ],
-      "date_added": "2021-09-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 193493,
-      "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
-      "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
-    },
-    {
-      "album": {
         "name": "River Of Dreams - The Very Best of Hayley Westenra",
         "url": "https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r"
       },
@@ -845,10 +827,40 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193333,
       "name": "Never Say Goodbye (Adapted From \"Pavane, M. 19\")",
       "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
+    },
+    {
+      "album": {
+        "name": "Pure (Includes Bonus Tracks and Exclusive Track)",
+        "url": "https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        {
+          "name": "Ian Dean",
+          "url": "https://open.spotify.com/artist/5a06Tw8O8XuZ5ACLKxVXp6"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2021-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Never Say Goodbye (Adapted From \"Pavane, M. 19\")",
+      "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
     },
     {
       "album": {
@@ -1235,7 +1247,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268933,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6PJRw5icjh5FnFd7jNUmbG"
@@ -1257,7 +1269,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268933,
       "name": "The Prayer",
       "url": "https://open.spotify.com/track/6zlY4xmlgqvn4LxjzoS2mz"
@@ -1301,7 +1313,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248866,
       "name": "These Are Special Times",
       "url": "https://open.spotify.com/track/7nmumY8ELmqBhXPCF9IBBc"
@@ -1345,7 +1357,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248866,
       "name": "These Are The Special Times (Momenti Splendidi)",
       "url": "https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO"
@@ -1374,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Diva: The Singles Collection",
+        "url": "https://open.spotify.com/album/5WlVnriYOxYo6Q7PpM7yEQ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        },
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246480,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/3p02ss31ywBaZcqh7Vq9sx"
+    },
+    {
+      "album": {
         "name": "Romanza (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW"
       },
@@ -1389,7 +1423,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246266,
       "name": "Time To Say Goodbye - English Version",
       "url": "https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG"
@@ -1481,7 +1515,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 209480,
       "name": "Volare",
       "url": "https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ"
@@ -1515,7 +1549,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209480,
       "name": "Volare",
       "url": "https://open.spotify.com/track/5MzDXB17CWraVOgA0igdL6"

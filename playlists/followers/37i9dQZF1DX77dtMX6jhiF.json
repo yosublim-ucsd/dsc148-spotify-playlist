@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12981,
+  "2024-04-20": 12987,
   "date_first_scraped": "2022-10-03",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
   "name": "Damson Idris' Taste",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128651,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/0hi5V0ExKfjCz9zLxhVAcl"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 128651,
       "name": "Bare Wit Me",
       "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
@@ -331,10 +331,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/3GIChxHmuLmBm5PTNZGDtj"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs"
     },
     {
       "album": {
@@ -469,7 +487,7 @@
     {
       "album": {
         "name": "Messiah",
-        "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
+        "url": "https://open.spotify.com/album/1dWwjV25uEwyCr2jVDntvP"
       },
       "artists": [
         {
@@ -480,6 +498,24 @@
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/4Wno0fG64h2dQwZf7dGYet"
+    },
+    {
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/5HdrqQZiSy2VEnCvuxOiij"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 179400,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5LZeYIkOIvhNTDPzQdIN56"
@@ -569,10 +605,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
     },
     {
       "album": {
@@ -617,7 +671,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314262,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2hKkbHoxUV0wWF0RWQIYyi"
@@ -643,7 +697,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 314262,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4CUoTkHeYj5RYxWbH44EK0"
@@ -687,7 +741,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 234271,
       "name": "Quarantine Wifey (feat. JID)",
       "url": "https://open.spotify.com/track/6U2FHhnZNxZcgE1fTIgv3d"
@@ -709,7 +763,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234271,
       "name": "Quarantine Wifey [Feat. JID]",
       "url": "https://open.spotify.com/track/6LlHSVifWMOA0APfUu3mdm"
@@ -807,7 +861,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 350583,
       "name": "The Birds Pt. 2",
       "url": "https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs"
@@ -825,7 +879,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 350640,
       "name": "The Birds Pt. 2",
       "url": "https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC"
@@ -923,7 +977,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
@@ -941,7 +995,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/5A3TwAmhxbQ1qZCJ8N2H8C"
@@ -959,7 +1013,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 178400,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/33fgHbTXA4hVRriK2W1khx"
@@ -977,7 +1031,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178400,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw"
@@ -1049,7 +1103,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 726026,
       "name": "Trouble Sleep Yanga Wake Am",
       "url": "https://open.spotify.com/track/3oN1f3zptjGz1UQqPX6jsL"
@@ -1067,7 +1121,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 726026,
       "name": "Trouble Sleep Yanga Wake Am",
       "url": "https://open.spotify.com/track/4fSGItb7Y1uOGfSoZDadhn"

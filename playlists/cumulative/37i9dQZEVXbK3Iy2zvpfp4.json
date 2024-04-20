@@ -16542,7 +16542,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -22855,6 +22855,28 @@
     },
     {
       "album": {
+        "name": "MY PROBLEM$ ARE OVERLOOKED",
+        "url": "https://open.spotify.com/album/1dNY01CcbMguW16m0lSfi7"
+      },
+      "artists": [
+        {
+          "name": "Atheo",
+          "url": "https://open.spotify.com/artist/4JKX7cp3FU1qrpPCpjQMeD"
+        },
+        {
+          "name": "LUJA",
+          "url": "https://open.spotify.com/artist/4uVJQ3ehmUtJvjixgCZB3l"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181090,
+      "name": "MY PROBLEM$ ARE OVERLOOKED",
+      "url": "https://open.spotify.com/track/5gPfu9yGjK4fdw22aJaNSr"
+    },
+    {
+      "album": {
         "name": "My Sister's Crown",
         "url": "https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp"
       },
@@ -23650,7 +23672,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 116875,
       "name": "neodch\u00e1dzaj.",
       "url": "https://open.spotify.com/track/4linJU8AThNtyK3Vglt6A8"
@@ -32196,7 +32218,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 255118,
       "name": "So\u00f1ar",
       "url": "https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10245,
+  "2024-04-20": 10245,
   "date_first_scraped": "2022-11-18",
   "description": "Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent. Cover: Brandy in Best. Christmas. Ever. ",
   "name": "Netflix Holidays Official Playlist",
@@ -83,6 +83,24 @@
     {
       "album": {
         "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
+        "url": "https://open.spotify.com/album/6pJJt55QFmYnoFkKUGSiUj"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
+      "url": "https://open.spotify.com/track/06brLYLA4DVwITVbbRuvm9"
+    },
+    {
+      "album": {
+        "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
         "url": "https://open.spotify.com/album/4Lr5JXPMnBd2gqWBBLmNcS"
       },
       "artists": [
@@ -93,7 +111,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193920,
       "name": "Angels from the Realms of Glory (from the Netflix Film A Castle For Christmas)",
       "url": "https://open.spotify.com/track/5QB64gwD8o0JKMLKPKSp2c"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195374,
       "name": "Everybody Loves Christmas",
       "url": "https://open.spotify.com/track/4Gq6cezJ21QZZ8EJHRN2JL"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 196465,
       "name": "Everybody Loves Christmas",
       "url": "https://open.spotify.com/track/2FpQtDVsANiElh8gZ9M5Al"
@@ -693,6 +711,24 @@
     {
       "album": {
         "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5bjWdBx64POBYiUny759hy"
+    },
+    {
+      "album": {
+        "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/5MfeQZrrNfMqcaq03U9qOr"
       },
       "artists": [
@@ -703,7 +739,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203653,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5xDrO9DEDJGUQGfyoHvgDJ"
@@ -1115,10 +1151,28 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166032,
       "name": "Single All The Way (from the Netflix Film)",
       "url": "https://open.spotify.com/track/6uLogps4678Egq6OMwPsLS"
+    },
+    {
+      "album": {
+        "name": "Single All The Way (from the Netflix Film)",
+        "url": "https://open.spotify.com/album/57es9n5EOQYBWRcfkOzJt6"
+      },
+      "artists": [
+        {
+          "name": "Dan Finnerty",
+          "url": "https://open.spotify.com/artist/0TvxNJPCKcZnKn6WZ1xrEG"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166032,
+      "name": "Single All The Way (from the Netflix Film)",
+      "url": "https://open.spotify.com/track/7sQ8B9tLi6dGYWLQBQZqEQ"
     },
     {
       "album": {
@@ -1310,6 +1364,28 @@
     },
     {
       "album": {
+        "name": "The Spirit of Christmas (Music from the Netflix Film The Christmas Chronicles 2)",
+        "url": "https://open.spotify.com/album/72BnRZA1f8HAntfsxJc41q"
+      },
+      "artists": [
+        {
+          "name": "Kurt Russell",
+          "url": "https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc"
+        },
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "date_added": "2023-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222365,
+      "name": "The Spirit of Christmas",
+      "url": "https://open.spotify.com/track/03sd782v0L8zmiyz3Gx7b6"
+    },
+    {
+      "album": {
         "name": "The Spirit of Christmas (Music from the Netflix Film \"The Christmas Chronicles 2\")",
         "url": "https://open.spotify.com/album/4D6crli0aIrdut5wAG4FiL"
       },
@@ -1325,7 +1401,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222365,
       "name": "The Spirit of Christmas (Music from the Netflix Film \"The Christmas Chronicles 2\")",
       "url": "https://open.spotify.com/track/1BAIUOoXqsjjVwILbHlTqa"

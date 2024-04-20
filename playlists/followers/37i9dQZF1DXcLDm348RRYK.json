@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 520377,
+  "2024-04-20": 519582,
   "date_first_scraped": "2020-11-03",
   "description": "Shut out the noise around you with these acoustic instrumentals.",
   "name": "Acoustic Concentration",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243693,
       "name": "Addison' Walk",
       "url": "https://open.spotify.com/track/1YGeTQcRrUbqLyWMQ5petV"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243693,
       "name": "Addisons Walk",
       "url": "https://open.spotify.com/track/0fCcTqBnCik2XXNsMBoMVW"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111893,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/266OUcgyIExZvOMvMijQbk"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 111893,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/6ti9Ul1G1QlXoKj8hhKY4a"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218973,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/3d8oIEIdoU2ZWVmiGvdGCE"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4QyN2UtrOHiYAUc248HkF6"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262506,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/2Dh8vHME7Y2FbYNfqOr8hk"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262506,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/4jT0pYL8kOre3DpafKAlk6"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162377,
       "name": "III",
       "url": "https://open.spotify.com/track/6ouYWHCM2va84d4YbYg6sH"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162377,
       "name": "III",
       "url": "https://open.spotify.com/track/4uELMm83OPdD3Qmqzicbjr"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153680,
       "name": "Lighthouse Avenue",
       "url": "https://open.spotify.com/track/05TB3UJhwJsUWPAOXow8fF"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153680,
       "name": "Lighthouse Avenue",
       "url": "https://open.spotify.com/track/5aRVhOcDAdJw3lUyuVPdFU"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210906,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/0JUa8PNsS6fvWz2Keb5KLq"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211040,
       "name": "Night After Sidewalk",
       "url": "https://open.spotify.com/track/5V8lsCRhYJCTO8eVGpdUcI"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130573,
       "name": "Song for a Rainy Morning",
       "url": "https://open.spotify.com/track/0PBGWP4sUKjOFBsl8zrs3A"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130573,
       "name": "Song for a Rainy Morning",
       "url": "https://open.spotify.com/track/5gUzjMonKIJ8wNdvcilhY5"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149013,
       "name": "Song For Irene",
       "url": "https://open.spotify.com/track/02oAqE4RUmemtnHDBMgkWl"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149013,
       "name": "Song For Irene",
       "url": "https://open.spotify.com/track/250Y5ghha5UHY1mMgWZ2nD"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186956,
       "name": "Song for Lucas",
       "url": "https://open.spotify.com/track/0u6tOpKjCa02bbIJ2b8879"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186956,
       "name": "Song for Lucas",
       "url": "https://open.spotify.com/track/3ytuOgTzcvazyZF5ltF0dh"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167750,
       "name": "Tabula Rasa",
       "url": "https://open.spotify.com/track/0TsMuOgOA6yvoe76RvLBz2"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167750,
       "name": "Tabula Rasa",
       "url": "https://open.spotify.com/track/6rbpQhCpV8dAUlBG6LjObv"

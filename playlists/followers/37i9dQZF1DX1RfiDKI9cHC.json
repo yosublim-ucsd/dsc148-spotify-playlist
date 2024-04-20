@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 7029,
+  "2024-04-20": 7060,
   "date_first_scraped": "2023-12-09",
   "description": "These are the songs that have shaped <a href=\"https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp?si=87a2593f6abb427a\">Scowl's<a/> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\">here</a>.",
   "name": "COUNTER//CULTURE: Scowl",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231066,
       "name": "All Things Ordinary",
       "url": "https://open.spotify.com/track/0319aZdGSQRknC3R23c6J1"
+    },
+    {
+      "album": {
+        "name": "Designing a Nervous Breakdown",
+        "url": "https://open.spotify.com/album/42fsY10FqhlkSbkJA4lUCJ"
+      },
+      "artists": [
+        {
+          "name": "The Anniversary",
+          "url": "https://open.spotify.com/artist/1mi3Fx4j7ektT97ycLSxl8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231066,
+      "name": "All Things Ordinary",
+      "url": "https://open.spotify.com/track/0oZkYnk4LWRDD43JbsINb7"
     },
     {
       "album": {
@@ -233,14 +251,14 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224813,
       "name": "Feelin' Myself",
       "url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG"
     },
     {
       "album": {
-        "name": "Ronald Dregan For President 2004: Dreganomics",
+        "name": "Ronald Dregan: Dreganomics",
         "url": "https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b"
       },
       "artists": [
@@ -251,7 +269,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 224813,
       "name": "Fellin' Myself",
       "url": "https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109159,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 109159,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b"

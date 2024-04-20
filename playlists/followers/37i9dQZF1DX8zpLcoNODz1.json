@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1370,
+  "2024-04-20": 1373,
   "date_first_scraped": "2023-09-08",
   "description": "Featuring Yeruza, Rauw Alejandro, Feid & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #067",
@@ -123,10 +123,28 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170731,
       "name": "El Papi",
       "url": "https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs"
+    },
+    {
+      "album": {
+        "name": "El Papi",
+        "url": "https://open.spotify.com/album/5IErHXIHg87j2wlH36BpXh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "date_added": "2023-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170781,
+      "name": "El Papi",
+      "url": "https://open.spotify.com/track/5QyUhnJWnndTxBYCA6EMRy"
     },
     {
       "album": {

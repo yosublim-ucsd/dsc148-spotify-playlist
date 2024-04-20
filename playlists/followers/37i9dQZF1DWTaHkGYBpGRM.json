@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 155310,
+  "2024-04-20": 155460,
   "date_first_scraped": "2022-04-19",
   "description": "Long distance is hard, but true love knows no boundaries.",
   "name": "Long Distance",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162046,
       "name": "All I Do Is Dream of You",
       "url": "https://open.spotify.com/track/1Cxx2ec6iADMThJFeKSOzl"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 162046,
       "name": "All I Do Is Dream of You",
       "url": "https://open.spotify.com/track/5eximiWUaKZdE1y1zHbVwL"
@@ -97,10 +97,28 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
+        "name": "In A Perfect World (Deluxe)",
+        "url": "https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2jTidefcsTu6VQhpIImJrt"
     },
     {
       "album": {
@@ -115,7 +133,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 306600,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q"
@@ -209,7 +227,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "And Counting...",
       "url": "https://open.spotify.com/track/4j5HhMARs2HUN8IXpRv8Xw"
@@ -245,7 +263,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282128,
       "name": "And Counting\u2026",
       "url": "https://open.spotify.com/track/3N1LywtcwVOmjq8EbMWpCn"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269233,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54"
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269233,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/6PiR6zBrj0JUMnIT88OtZv"
@@ -479,10 +497,28 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz"
     },
     {
       "album": {
@@ -635,10 +671,28 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198133,
       "name": "Half the World Away",
       "url": "https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor"
+    },
+    {
+      "album": {
+        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Half The World Away",
+      "url": "https://open.spotify.com/track/21HfUACOv1lgBiYocruoW8"
     },
     {
       "album": {
@@ -689,7 +743,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225973,
       "name": "Hearts Without Chains",
       "url": "https://open.spotify.com/track/1MLMgjYMNq4uWcMvwSLDEy"
@@ -725,7 +779,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225978,
       "name": "Hearts Without Chains",
       "url": "https://open.spotify.com/track/6AutTq7YZaZbsxunX9dcxb"
@@ -761,7 +815,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210173,
       "name": "Home",
       "url": "https://open.spotify.com/track/1EAgPzRbK9YmdOESSMUm6P"
@@ -779,7 +833,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 210173,
       "name": "Home",
       "url": "https://open.spotify.com/track/4rsW3WCZBGwhHfJWuHRwyT"
@@ -851,7 +905,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211413,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt"
@@ -869,7 +923,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211426,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd"
@@ -887,7 +941,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229303,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/2TUzU4IkfH8kcvY2MUlsd2"
@@ -905,7 +959,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229303,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/4gIKec1woB9bIWIG8K7SZn"
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/3n5te2xbUAPjzAnhLgA42z"
@@ -1017,7 +1071,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj"
@@ -1147,7 +1201,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Long Drive",
       "url": "https://open.spotify.com/track/28WClWvliFajAplluwtX2J"
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230746,
       "name": "Long Drive",
       "url": "https://open.spotify.com/track/6keUc6LHhh1HkJfE87bnG9"
@@ -1255,7 +1309,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197546,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2WKeTEvN7Wq8O40PoaMb3b"
@@ -1327,7 +1381,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197685,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4ogp5UEEagtt5gbM1QDgTY"
@@ -1363,7 +1417,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 276706,
       "name": "Miss You More",
       "url": "https://open.spotify.com/track/1wD6f9X1WanpowSYMGTcNm"
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276706,
       "name": "Miss You More",
       "url": "https://open.spotify.com/track/5E6I37a1kshvyeeFpaSpEf"
@@ -1435,7 +1489,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161320,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/0wlXEOayij7q9lHAjonUY8"
@@ -1471,7 +1525,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161346,
       "name": "Montreal",
       "url": "https://open.spotify.com/track/7JwZiJ4ImRnTGGjIDIUKMY"
@@ -1507,7 +1561,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334826,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/7zC7Ib9pBRPMtJQUCyEbPJ"
@@ -1525,7 +1579,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 334800,
       "name": "Muscle Memory - Acoustic",
       "url": "https://open.spotify.com/track/4F2L1Y8plDsHxnSuAb5s2g"
@@ -1579,7 +1633,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193981,
       "name": "Oceans Away",
       "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
@@ -1597,7 +1651,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194013,
       "name": "Oceans Away",
       "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
@@ -1669,7 +1723,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
@@ -1723,7 +1777,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224280,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/7qAKvYovBPy0xYHhTPDvzx"
@@ -1759,7 +1813,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224285,
       "name": "Please Stay",
       "url": "https://open.spotify.com/track/78iOQlrQHIglLkFDBUl28s"
@@ -1803,24 +1857,6 @@
     {
       "album": {
         "name": "Rather Be with You",
-        "url": "https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "date_added": "2022-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 199704,
-      "name": "Rather Be with You - Acoustic",
-      "url": "https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm"
-    },
-    {
-      "album": {
-        "name": "Rather Be with You",
         "url": "https://open.spotify.com/album/1VTHEGSEWZ8ob1kGSJXt4x"
       },
       "artists": [
@@ -1831,10 +1867,28 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
+      "duration_ms": 199704,
+      "name": "Rather Be with You (Acoustic)",
+      "url": "https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb"
+    },
+    {
+      "album": {
+        "name": "Rather Be with You",
+        "url": "https://open.spotify.com/album/4gfAeJv9CKKraAUEqEQOqs"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 199704,
       "name": "Rather Be with You - Acoustic",
-      "url": "https://open.spotify.com/track/7fS708BKUj1zNyejmuZxDb"
+      "url": "https://open.spotify.com/track/2rNIGwLuQauPp8qLFuQnzm"
     },
     {
       "album": {
@@ -1849,7 +1903,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "Rivers And Roads",
       "url": "https://open.spotify.com/track/1vhWwkwqqOHCcOcxhRmxOF"
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
@@ -1961,7 +2015,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202520,
       "name": "Set The Fire To The Third Bar",
       "url": "https://open.spotify.com/track/2PQb0GbjqxVobQPaPuBg8x"
@@ -2027,7 +2081,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203613,
       "name": "Set The Fire To The Third Bar",
       "url": "https://open.spotify.com/track/5g0afUZsh5hiXBOT3eXuwd"
@@ -2189,7 +2243,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238013,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/6K3Hstx2CBhYFQy3KCwffp"
@@ -2207,7 +2261,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/6yEtRJIe0jxNxk4QIGJZLv"
@@ -2225,7 +2279,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 360093,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/3USei2Ja58VV6yOypYNjfN"
@@ -2261,7 +2315,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/39dnj8G8DK6I1JmNOZKeZO"
@@ -2359,7 +2413,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165213,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/3K9PY33TKt25UXX6YymFQq"
@@ -2377,7 +2431,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
@@ -2395,7 +2449,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "To Whom It May Concern",
       "url": "https://open.spotify.com/track/0iTqedrMdiwnUXKiUjtxAl"
@@ -2413,7 +2467,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211360,
       "name": "To Whom It May Concern",
       "url": "https://open.spotify.com/track/3gpbB4hh2KjY3q8di87TpN"
@@ -2471,7 +2525,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182480,
       "name": "Train Song",
       "url": "https://open.spotify.com/track/02ww0c8o8q5oKwjjKx5Qjn"
@@ -2493,7 +2547,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182480,
       "name": "Train Song",
       "url": "https://open.spotify.com/track/6qtd7bgsCE6Ioi2cv2vboK"
@@ -2627,7 +2681,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225933,
       "name": "Wish You Were Here - Acoustic Version",
       "url": "https://open.spotify.com/track/4eomQoKVWHk5NsU7XExfqD"
@@ -2645,7 +2699,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225986,
       "name": "Wish You Were Here - Acoustic Version",
       "url": "https://open.spotify.com/track/4rmfjaAl0kWsyznoJU2ws3"

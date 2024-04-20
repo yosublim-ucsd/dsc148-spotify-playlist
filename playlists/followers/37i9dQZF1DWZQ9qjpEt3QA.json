@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 74731,
+  "2024-04-20": 74652,
   "date_first_scraped": "2022-06-09",
   "description": "Cruising through a shimmering night with the current City Pop wave from Asia.",
   "name": "Neon Lights",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 188320,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188320,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/2tGjh54bikVc5x3dl1pUKx"
@@ -307,24 +307,6 @@
     {
       "album": {
         "name": "Coffee's on Me",
-        "url": "https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K"
-      },
-      "artists": [
-        {
-          "name": "Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 222893,
-      "name": "Coffee's on Me",
-      "url": "https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn"
-    },
-    {
-      "album": {
-        "name": "Coffee's on Me",
         "url": "https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD"
       },
       "artists": [
@@ -343,6 +325,24 @@
     {
       "album": {
         "name": "Coffee's on Me",
+        "url": "https://open.spotify.com/album/1BwY5tsTSAZu1UZFUWyW9K"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Coffee's on Me",
+      "url": "https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn"
+    },
+    {
+      "album": {
+        "name": "Coffee's on Me",
         "url": "https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL"
       },
       "artists": [
@@ -353,7 +353,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223266,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190363,
       "name": "Give Me The Light",
       "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 190363,
       "name": "Give Me The Light",
       "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
@@ -678,6 +678,28 @@
     },
     {
       "album": {
+        "name": "Groovin",
+        "url": "https://open.spotify.com/album/0lIIrN2fJnQS2gwxVmN5GV"
+      },
+      "artists": [
+        {
+          "name": "JINex",
+          "url": "https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT"
+        },
+        {
+          "name": "Jue",
+          "url": "https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202499,
+      "name": "Groovin",
+      "url": "https://open.spotify.com/track/2ayXROMw6bYBUgL4zVpbma"
+    },
+    {
+      "album": {
         "name": "Groovin (Feat. Jue)",
         "url": "https://open.spotify.com/album/6oTEsDbZevj1Q0XJIMPlwk"
       },
@@ -737,7 +759,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204000,
       "name": "Groovin (Feat. Jue)",
       "url": "https://open.spotify.com/track/27Dw4pJjgbOpGLbDh1lmzZ"
@@ -925,10 +947,32 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217000,
       "name": "Last Train",
       "url": "https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa"
+    },
+    {
+      "album": {
+        "name": "Last Train (\u30e9\u30b9\u30c8\u30c8\u30ec\u30a4\u30f3) feat. THREE1989",
+        "url": "https://open.spotify.com/album/284nyVnKxahjLinogbkHx5"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        },
+        {
+          "name": "THREE1989",
+          "url": "https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Last Train (\u30e9\u30b9\u30c8\u30c8\u30ec\u30a4\u30f3) feat. THREE1989",
+      "url": "https://open.spotify.com/track/1F4K1lri0LDhIdgUZXrsB4"
     },
     {
       "album": {
@@ -943,7 +987,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238791,
       "name": "LAVLA",
       "url": "https://open.spotify.com/track/0Gt5raD0hne7nc3OhRla5M"
@@ -961,7 +1005,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238791,
       "name": "LAVLA",
       "url": "https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU"
@@ -1019,7 +1063,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215105,
       "name": "Manila",
       "url": "https://open.spotify.com/track/74IGeughWZR1GnipPWuKoB"
@@ -1037,7 +1081,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 215144,
       "name": "Manila",
       "url": "https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN"
@@ -1349,7 +1393,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Para Sa Bawat Tala",
       "url": "https://open.spotify.com/track/1XCAAVAfZQYnNymGIf87Ci"
@@ -1367,7 +1411,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226507,
       "name": "Para Sa Bawat Tala",
       "url": "https://open.spotify.com/track/3jU6WHhEH37QrkcLx1f9UR"
@@ -1403,7 +1447,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275891,
       "name": "Plastic Love",
       "url": "https://open.spotify.com/track/0K9rIsZfdlzAoOEWyeFQYM"
@@ -1421,7 +1465,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275891,
       "name": "Plastic Love",
       "url": "https://open.spotify.com/track/2qxTmEfGbBGMSJrwu4Ez1v"
@@ -1439,7 +1483,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227285,
       "name": "PODCAST",
       "url": "https://open.spotify.com/track/0yPjTrXN41ONUZVhyZQtg9"
@@ -1457,7 +1501,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227285,
       "name": "Podcast",
       "url": "https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO"
@@ -1847,7 +1891,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343616,
       "name": "Summer, Anyway",
       "url": "https://open.spotify.com/track/2UnKYBjiwH3AK14PXJRWzv"
@@ -1865,28 +1909,10 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343616,
       "name": "Summer, Anyway (Monthly Project 2020 June Yoon Jong Shin)",
       "url": "https://open.spotify.com/track/5dhBFsbrOcZhLbJFImgvsd"
-    },
-    {
-      "album": {
-        "name": "CASSA NOVA",
-        "url": "https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH"
-      },
-      "artists": [
-        {
-          "name": "Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 281053,
-      "name": "Summum Bonum",
-      "url": "https://open.spotify.com/track/09bEFRkwyd648AXubqQxir"
     },
     {
       "album": {
@@ -1908,6 +1934,24 @@
     },
     {
       "album": {
+        "name": "CASSA NOVA",
+        "url": "https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281053,
+      "name": "Summum Bonum",
+      "url": "https://open.spotify.com/track/09bEFRkwyd648AXubqQxir"
+    },
+    {
+      "album": {
         "name": "Cassa Nova",
         "url": "https://open.spotify.com/album/5o6i6YQEXWa8oNy38aHrrI"
       },
@@ -1919,7 +1963,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281053,
       "name": "Summum Bonum",
       "url": "https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q"
@@ -2249,7 +2293,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204680,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/2eKuOevIr05volaJLCs3NO"
@@ -2267,7 +2311,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 204680,
       "name": "Virtual World",
       "url": "https://open.spotify.com/track/3GlQyFwsP9SbqDbLws67FO"
@@ -2329,7 +2373,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212750,
       "name": "With The Star",
       "url": "https://open.spotify.com/track/6VnJgvlgo77jyLusb0GIfh"
@@ -2583,7 +2627,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241500,
       "name": "\u0e42\u0e23\u0e04\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a",
       "url": "https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I"
@@ -2601,7 +2645,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241500,
       "name": "\u0e42\u0e23\u0e04\u0e41\u0e2d\u0e1a\u0e0a\u0e2d\u0e1a (Love Fever)",
       "url": "https://open.spotify.com/track/5iDMOWPzjW8ZgSY5cjqdmM"
@@ -2681,7 +2725,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245500,
       "name": "\u5225\u6025\u8457\u8aaa\u59b3\u611b\u6211\u5230\u5929\u9577\u5730\u4e45",
       "url": "https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj"
@@ -2699,7 +2743,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245500,
       "name": "\u5225\u6025\u8457\u8aaa\u59b3\u611b\u6211\u5230\u5929\u9577\u5730\u4e45",
       "url": "https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl"
@@ -2753,7 +2797,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13"
@@ -2771,7 +2815,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v"

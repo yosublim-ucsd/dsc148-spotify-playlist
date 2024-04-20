@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-208 songs - 11 hr 15 min
+209 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 | 2020-12-08 |  |
 | [Emmanuelle](https://open.spotify.com/track/4z1OqFDJgOtIvwtWd4y9y5) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Instrumentales](https://open.spotify.com/album/0FIcezHxPSZeHeHrYQFSEm) | 3:03 | 2020-12-08 |  |
 | [Fandango](https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb) | 3:41 | 2020-12-08 | 2024-04-19 |
-| [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 | 2020-12-08 |  |
+| [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 | 2020-12-08 | 2024-04-20 |
 | [Feels So Good](https://open.spotify.com/track/23t7nI1hZUjQQgBbV7DMCn) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [20th Century Masters: The Millennium Collection: Best of Chuck Mangione](https://open.spotify.com/album/40Mz9UtpZcwBHwZnqLPOyZ) | 9:38 | 2020-12-08 | 2022-07-29 |
 | [Feels So Good](https://open.spotify.com/track/2M7EflZCPCqqRLB9hy5MDy) | [Chuck Mangione](https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6) | [Feels So Good](https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD) | 9:42 | 2020-12-08 | 2024-04-19 |
 | [Flauta de Pan](https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ) | [Mario Gonzales Guerra](https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU) | [El Sonido de la Flauta de Pan \- The Sound Of The Panflute](https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl) | 3:18 | 2020-12-08 |  |
@@ -91,6 +91,7 @@
 | [Imágenes](https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm) | [Johnny Days Orchestra](https://open.spotify.com/artist/6ddwnoAVajTGZa2ikrJqaY) | [Los Recuerdos Están Hechos de Esto Vol\. 1](https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof) | 3:09 | 2020-12-08 | 2023-05-30 |
 | [Imágenes](https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F) | [Orquesta Cuerdas Y Metales](https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7) | [Presentando a La Orquesta Cuerdas y Metales](https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y) | 3:09 | 2020-12-08 | 2024-03-04 |
 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 | 2020-12-08 |  |
+| [Joy](https://open.spotify.com/track/595cpLYdeN3s7C4CqJbZus) | [Apollo 100](https://open.spotify.com/artist/6v0kvTi9pOI2ZFrWGQhdsc) | [Boogie Nights \#2 \(More Music From The Original Motion Picture\)](https://open.spotify.com/album/5Vh4H5yxqnzIBfCAws53Hb) | 2:43 | 2020-12-08 |  |
 | [Joy](https://open.spotify.com/track/09fMq1Nd85MfCVTvF4YOsx) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Love Is All Around: Lite Pop of The '70s](https://open.spotify.com/album/5piCXoQpkvN5pM8QtVaSov) | 2:48 | 2020-12-08 | 2023-04-29 |
 | [Joy](https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp) | [Satellite Orchestra](https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw) | [Stay Awhile](https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA) | 2:48 | 2020-12-08 | 2024-04-19 |
 | [Kiss of Fire](https://open.spotify.com/track/15P3eW9xG4WnfvVvHFYQS8) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:39 | 2020-12-08 |  |

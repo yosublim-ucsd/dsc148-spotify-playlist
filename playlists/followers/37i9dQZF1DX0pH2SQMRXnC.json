@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1288856,
+  "2024-04-20": 1288805,
   "date_first_scraped": "2021-12-21",
   "description": "Only the biggest Hardstyle tracks!",
   "name": "Hardstyle Bangers",
@@ -189,7 +189,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 197471,
       "name": "Adrenaline Overload",
       "url": "https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195200,
       "name": "Call Me A Spaceman - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/01s9faleC0omVs2oEFzCyp"
@@ -1681,6 +1681,24 @@
       "duration_ms": 120187,
       "name": "Can Can (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Outta My Head",
+        "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156378,
+      "name": "Can't Get You Outta My Head",
+      "url": "https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf"
     },
     {
       "album": {
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 227500,
       "name": "Code Of The Warrior",
       "url": "https://open.spotify.com/track/1jpg0FjnPxm9WxszLJ60b2"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 250838,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/1YlZ6MetMORMdsrwWXLV85"
@@ -2185,7 +2203,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 262550,
       "name": "Come Take My Hand - Ran-D Remix",
       "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
@@ -2475,7 +2493,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252236,
       "name": "Dance With The Devil",
       "url": "https://open.spotify.com/track/2gAdorDt9YDRvI6QW3AI26"
@@ -2649,7 +2667,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233600,
       "name": "Das Boot",
       "url": "https://open.spotify.com/track/5qhB24xr7TbpHmpNXOAeMC"
@@ -3223,7 +3241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210163,
       "name": "Dragonborn part 3 (Oceans Apart)",
       "url": "https://open.spotify.com/track/6c0vdY5EZOx8g95uWcp3uI"
@@ -5053,7 +5071,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158038,
       "name": "Geisterbahn",
       "url": "https://open.spotify.com/track/0b368rOCLexAaKX2fXPnFj"
@@ -5083,6 +5101,32 @@
       "duration_ms": 158038,
       "name": "Geisterbahn",
       "url": "https://open.spotify.com/track/3GfekUqRs89wav4gyACmJy"
+    },
+    {
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
     },
     {
       "album": {
@@ -5269,7 +5313,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 212129,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs"
@@ -5765,7 +5809,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
@@ -6065,7 +6109,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142400,
       "name": "Human Error",
       "url": "https://open.spotify.com/track/3OBRKvtaxmh64E15OgIuif"
@@ -6823,7 +6867,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177166,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6GXB5IyqwhZMdyYqpPkW1X"
@@ -7043,7 +7087,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6JRzMGFKTgf5c76qV6uT9F"
@@ -7065,7 +7109,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183993,
       "name": "Jupiter - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/6m04xxSJv2P5VfNbuhsdEy"
@@ -7899,7 +7943,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 289548,
       "name": "Lost Without You (Defqon.1 2023 Closing Theme)",
       "url": "https://open.spotify.com/track/1FNEbCXAXweJOBLrtOFNsL"
@@ -8059,7 +8103,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 235500,
       "name": "Magnetism",
       "url": "https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk"
@@ -8085,7 +8129,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
@@ -8705,7 +8749,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158400,
       "name": "Muzika - Sefa Remix",
       "url": "https://open.spotify.com/track/0NVHRsxOwvf6mcGqrDrhiG"
@@ -8862,6 +8906,24 @@
     },
     {
       "album": {
+        "name": "Never Go To Sleep",
+        "url": "https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160001,
+      "name": "Never Go To Sleep",
+      "url": "https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp"
+    },
+    {
+      "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/04Jeg1qvzqUKsEzSUx1IG9"
       },
@@ -8881,7 +8943,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197762,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/2GgZKNF9U4koBfmSuFAUoA"
@@ -9671,7 +9733,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
@@ -10241,7 +10303,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 316800,
       "name": "Primal Energy (Defqon.1 2020 Anthem)",
       "url": "https://open.spotify.com/track/4WCjWUQGf66gxE6Re95Brp"
@@ -10473,7 +10535,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
@@ -10985,7 +11047,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 237057,
       "name": "Rise Again (Defqon.1 2022 Closing Theme)",
       "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
@@ -11411,7 +11473,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213400,
       "name": "Shabaka",
       "url": "https://open.spotify.com/track/12fXkI2VEpXy1xohgnOQlS"
@@ -11851,7 +11913,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188076,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
@@ -12357,7 +12419,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 197468,
       "name": "Summer Secrets",
       "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
@@ -12445,7 +12507,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182454,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2C9y2VMcVTxCRtxT3Afwqu"
@@ -13285,7 +13347,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 331798,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/7EOZRhI98MiZQXJI8bNIKQ"
@@ -13523,7 +13585,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166400,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/667VsfRZBPcI42mfFvgYpl"
@@ -14391,7 +14453,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 219477,
       "name": "Vendetta - X-Qlusive OST",
       "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
@@ -14607,6 +14669,28 @@
       "duration_ms": 250312,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/1bW1Y5WzeOiKXsJQGCYlVr"
+    },
+    {
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl"
     },
     {
       "album": {
@@ -15177,7 +15261,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168919,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"

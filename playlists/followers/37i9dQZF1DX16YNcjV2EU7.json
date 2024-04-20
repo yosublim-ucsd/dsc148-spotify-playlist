@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2579,
+  "2024-04-20": 2736,
   "date_first_scraped": "2024-04-06",
   "description": "These are the songs that have shaped <a href=\"spotify:artist:6Z4kwq0LOaYQW2CqudoOIk\">Amira Elfeky's</a> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\"> here.",
   "name": "COUNTER//CULTURE: Amira Elfeky",
@@ -143,10 +143,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
+    },
+    {
+      "album": {
+        "name": "Colourmeinkindness",
+        "url": "https://open.spotify.com/album/70yn72rS28G1jieaBHlZhY"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227340,
+      "name": "Covet",
+      "url": "https://open.spotify.com/track/2PiQfbqUmOfRf3vQbrHKVj"
     },
     {
       "album": {
@@ -515,7 +533,7 @@
     {
       "album": {
         "name": "Tonight (demo)",
-        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+        "url": "https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y"
       },
       "artists": [
         {
@@ -526,6 +544,24 @@
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193391,
+      "name": "Tonight (demo)",
+      "url": "https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB"
+    },
+    {
+      "album": {
+        "name": "Tonight (demo)",
+        "url": "https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194666,
       "name": "Tonight (demo)",
       "url": "https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD"

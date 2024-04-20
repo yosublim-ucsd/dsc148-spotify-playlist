@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-261 songs - 16 hr 28 min
+262 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Nothing Left](https://open.spotify.com/track/711OrRL5PGxPS6fJGVxs8f) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void EP](https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd) | 4:27 | 2024-01-12 |  |
 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2021-08-20 | 2023-01-05 |
 | [Oh My God](https://open.spotify.com/track/5KeMe6s7NC1h9Xg7CgDbYO) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Oh My God](https://open.spotify.com/album/1f2OVhqcB3vM5oev9MiYLx) | 4:12 | 2021-08-20 | 2024-04-10 |
+| [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-04-19 |  |
 | [One Hand Killing](https://open.spotify.com/track/4CAYapDnN4OZC8QnOvmIib) | [Twelve Foot Ninja](https://open.spotify.com/artist/3swwiYEQQzPNGvMdEhqReR) | [Outlier](https://open.spotify.com/album/7HSNQl2xKaGTZF70H4QXIb) | 4:28 | 2022-07-25 | 2023-01-04 |
 | [One Step Closer](https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2021-08-20 |  |
 | [Only for the Weak](https://open.spotify.com/track/0JBQnLKfLXmlkquabLtAgd) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Clayman](https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd) | 4:54 | 2022-01-24 | 2023-01-04 |

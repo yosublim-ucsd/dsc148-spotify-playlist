@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 65064,
+  "2024-04-20": 65060,
   "date_first_scraped": "2022-12-28",
   "description": "Le cin\u00e9ma \u00e7a s'\u00e9coute aussi.",
   "name": "BO & Pop Corn",
@@ -211,10 +211,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197333,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/5F7I0CfdEnVSPlwFabMyIi"
+    },
+    {
+      "album": {
+        "name": "Back To The Future (Original Motion Picture Soundtrack / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0ljBxAkQyTKVXudfE34wAL"
+      },
+      "artists": [
+        {
+          "name": "The Outatime Orchestra",
+          "url": "https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195188,
+      "name": "Back To The Future - From \"Back To The Future\" Original Score/End Credits",
+      "url": "https://open.spotify.com/track/1QV4g4uyxy8Xdl7tk0dnDv"
     },
     {
       "album": {
@@ -273,10 +291,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162446,
       "name": "Bang Bang (My Baby Shot Me Down)",
       "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160440,
+      "name": "Bang Bang - My Baby Shot Me Down",
+      "url": "https://open.spotify.com/track/1s2I9Q7zAE78m7aVZOq3ug"
     },
     {
       "album": {
@@ -585,10 +621,32 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
+    },
+    {
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5p0H50uFCdWTpLY640HoPc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "City Of Stars - From \"La La Land\" Soundtrack",
+      "url": "https://open.spotify.com/track/6s9LhJVqxnTjmUJHOeawnU"
     },
     {
       "album": {
@@ -639,10 +697,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
+    },
+    {
+      "album": {
+        "name": "Le fabuleux destin d'Am\u00e9lie Poulain (Bande originale de film)",
+        "url": "https://open.spotify.com/album/3HJyNEMgfUh37Q6wpmtXL0"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+      "url": "https://open.spotify.com/track/1Re30B3AC2Ra8n4f2xsDW3"
     },
     {
       "album": {
@@ -664,6 +740,24 @@
     },
     {
       "album": {
+        "name": "The Best of Bond...James Bond",
+        "url": "https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/5OMdH6KUl5VcMnAkqOYNJ7"
+    },
+    {
+      "album": {
         "name": "Let Me Sing and I'm Happy",
         "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
       },
@@ -675,7 +769,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161933,
       "name": "Diamonds Are Forever",
       "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
@@ -758,6 +852,24 @@
     },
     {
       "album": {
+        "name": "E.T. The Extra Terrestrial (Original Soundtrack - 20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/6qbtlYI0l4Fpj3hJ7e9jGY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229293,
+      "name": "End Credits - Soundtrack Reissue (2002)",
+      "url": "https://open.spotify.com/track/49kKT4dFOjFSMmQ0KIpfeY"
+    },
+    {
+      "album": {
         "name": "E.T. The Extra Terrestrial",
         "url": "https://open.spotify.com/album/3Pood3AEXTNuRqXlEvLLUf"
       },
@@ -769,7 +881,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229293,
       "name": "End Credits - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/5NHDsqd1YrYqTJxaLddelw"
@@ -1242,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
+    },
+    {
+      "album": {
         "name": "30 ans d\u00e9j\u00e0 : 1993",
         "url": "https://open.spotify.com/album/294IjjnQiJFJeMQsSxxRzN"
       },
@@ -1253,7 +1383,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314186,
       "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5ZOkjjskGZAeGSTcpHD3wZ"
@@ -1554,6 +1684,24 @@
     },
     {
       "album": {
+        "name": "The Godfather (Soundtrack)",
+        "url": "https://open.spotify.com/album/1omMQEIiKOo8NwtYD6dJai"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Love Theme From \"The Godfather\"",
+      "url": "https://open.spotify.com/track/7Es2gcDpA0ma6zEqgP6Wuc"
+    },
+    {
+      "album": {
         "name": "The Godfather",
         "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
       },
@@ -1591,7 +1739,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158960,
       "name": "Love Theme From \"The Godfather\" - From \"The Godfather\" Soundtrack",
       "url": "https://open.spotify.com/track/0OJ0eNR9c53PkfXuwX3DJ0"
@@ -1638,8 +1786,8 @@
     },
     {
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+        "name": "Star Wars: Le R\u00e9veil de la Force (Bande Originale du Film)",
+        "url": "https://open.spotify.com/album/7knoeUJDdVvPCB2MMYX2Qq"
       },
       "artists": [
         {
@@ -1652,7 +1800,43 @@
       "date_removed": null,
       "duration_ms": 385920,
       "name": "Main Title and The Attack on the Jakku Village",
+      "url": "https://open.spotify.com/track/0BiFcAoDxHCpsdEfgPvufT"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 385920,
+      "name": "Main Title and The Attack on the Jakku Village",
       "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
+    },
+    {
+      "album": {
+        "name": "Mission Impossible (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0L8rFdurVz1JdbkK2gFLUN"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62826,
+      "name": "Main Title Theme",
+      "url": "https://open.spotify.com/track/6PzHOn4LPd44RUCUShf4rl"
     },
     {
       "album": {
@@ -1707,7 +1891,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 62826,
       "name": "Mission Impossible - Main Theme",
       "url": "https://open.spotify.com/track/1lJOpbGH9gjjgcIumHIBrT"
@@ -2029,10 +2213,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/2oncAh9o85pq1aswacLqAz"
+    },
+    {
+      "album": {
+        "name": "The Beach (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5B6nt2q83Zxyz7FACDzRsU"
+      },
+      "artists": [
+        {
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268746,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/5uHnDHx5J48FdT6FjwA7Z8"
     },
     {
       "album": {
@@ -2047,10 +2249,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 41574,
       "name": "Quand te reverrai-je, pays merveilleux ?",
       "url": "https://open.spotify.com/track/3V4JVjXmwzRpbT0ev7sns0"
+    },
+    {
+      "album": {
+        "name": "Les bronz\u00e9s & les bronz\u00e9s font du ski (Bande originale du film)",
+        "url": "https://open.spotify.com/album/0SbjpPx9uYBTAkNTozG8OT"
+      },
+      "artists": [
+        {
+          "name": "Michel Blanc",
+          "url": "https://open.spotify.com/artist/27MjLiRbNSQRsj5HeVqnOh"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47933,
+      "name": "Quand te reverrai-je, pays merveilleux ?",
+      "url": "https://open.spotify.com/track/3ayoJTOXuq9HKlWStM8KVV"
     },
     {
       "album": {
@@ -2321,6 +2541,24 @@
     {
       "album": {
         "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/4kgUVxCBvTnJIeyHpclrNl"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "Society",
+      "url": "https://open.spotify.com/track/1gqsdl891sEVlHjaV1bTR6"
+    },
+    {
+      "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
         "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
       },
       "artists": [
@@ -2331,7 +2569,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5"
@@ -2403,10 +2641,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252493,
       "name": "Streets of Philadelphia",
       "url": "https://open.spotify.com/track/5Nj8kBJdpJJ4I9wxQyp8JH"
+    },
+    {
+      "album": {
+        "name": "Philadelphia - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/5HL1JjJ2aiKNfsZ29YWyiM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Streets of Philadelphia",
+      "url": "https://open.spotify.com/track/6WgBIPHwkQhCqMNnR5hQCN"
     },
     {
       "album": {
@@ -2446,6 +2702,28 @@
     },
     {
       "album": {
+        "name": "Grease",
+        "url": "https://open.spotify.com/album/3ku54lKW19XjXwhNkNdtzZ"
+      },
+      "artists": [
+        {
+          "name": "John Travolta",
+          "url": "https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH"
+        },
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216906,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0ej0YkMM8E0WOWuWVZliDh"
+    },
+    {
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -2461,7 +2739,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
@@ -2515,10 +2793,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288293,
       "name": "The Big Blue - Overture",
       "url": "https://open.spotify.com/track/3A5l6QS6oJEWrL9sSN3l2c"
+    },
+    {
+      "album": {
+        "name": "Le Grand Bleu (Remastered) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5wysmoeMWHO73MUJOgRcaD"
+      },
+      "artists": [
+        {
+          "name": "\u00c9ric Serra",
+          "url": "https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287293,
+      "name": "The Big Blue Overture",
+      "url": "https://open.spotify.com/track/7so9FgbKE1tR1hZv6CsQru"
     },
     {
       "album": {
@@ -2674,6 +2970,24 @@
     },
     {
       "album": {
+        "name": "THE GRADUATE Original Sound Track Recording",
+        "url": "https://open.spotify.com/album/0BvYkLMNRZB56v9bE9Pld2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/7pJbymTE8JYy7QmGYFVx3P"
+    },
+    {
+      "album": {
         "name": "Wednesday Morning, 3 A.M.",
         "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
@@ -2685,7 +2999,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185413,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
@@ -2721,10 +3035,28 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207426,
       "name": "Theme From Jurassic Park",
       "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
+    },
+    {
+      "album": {
+        "name": "Jurassic Park (Soundtrack)",
+        "url": "https://open.spotify.com/album/1PgeYPKQY9H5pxHGJa5izY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "Theme From Jurassic Park - From \"Jurassic Park\" Soundtrack",
+      "url": "https://open.spotify.com/track/72VjtouKhCbaBol2e7tsaQ"
     },
     {
       "album": {
@@ -2819,10 +3151,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190266,
       "name": "Tony's Theme",
       "url": "https://open.spotify.com/track/7gYA9Bs2gqTiwjHkzLi1Yg"
+    },
+    {
+      "album": {
+        "name": "Scarface (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2fQnoECWjksEvAI57pCMeh"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Moroder",
+          "url": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "Tony's Theme - From \"Scarface\" Soundtrack",
+      "url": "https://open.spotify.com/track/5EKXdvBvnvMaX3b3Al5LRq"
     },
     {
       "album": {
@@ -2873,10 +3223,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239746,
       "name": "Unchained Melody (From \"Ghost\") - Orchestral Version",
       "url": "https://open.spotify.com/track/6M2LKerOxhlmymtAiuJynC"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1yETyUdM0HxBFy8MHdSsYW"
+      },
+      "artists": [
+        {
+          "name": "Maurice Jarre",
+          "url": "https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Unchained Melody - Orchestral",
+      "url": "https://open.spotify.com/track/7FKsfPuxRLpar9enQ7LmtA"
     },
     {
       "album": {
@@ -2895,10 +3263,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139773,
       "name": "Vois sur ton chemin",
       "url": "https://open.spotify.com/track/0HfK6NPVb69533dKqTPokh"
+    },
+    {
+      "album": {
+        "name": "Les Choristes (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4myS6r9KjqGHZTU4WNYtwZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        },
+        {
+          "name": "Les Petits Chanteurs de Saint-Marc",
+          "url": "https://open.spotify.com/artist/026nk210FPO26xMwpoew70"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139773,
+      "name": "Vois sur ton chemin",
+      "url": "https://open.spotify.com/track/2C2plcQ9V07Rg5OQZqezNa"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 434592,
+  "2024-04-20": 434400,
   "date_first_scraped": "2022-05-27",
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Jovem Dionisio",
   "name": "Pop Leve",
@@ -679,7 +679,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181150,
       "name": "Amor De Ver\u00e3o",
       "url": "https://open.spotify.com/track/3igf44fMAhsX23KhWq4HfN"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197802,
       "name": "Coisas De Voc\u00ea",
       "url": "https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X"
@@ -3121,6 +3121,28 @@
       "duration_ms": 228437,
       "name": "Dezembro",
       "url": "https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB"
+    },
+    {
+      "album": {
+        "name": "Diante dos Olhos",
+        "url": "https://open.spotify.com/album/4xQUvpsZBA4bAtyHRbYcUc"
+      },
+      "artists": [
+        {
+          "name": "Vintium",
+          "url": "https://open.spotify.com/artist/3SGA7GJztAksjHmf5zVTUB"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216988,
+      "name": "Diante dos Olhos",
+      "url": "https://open.spotify.com/track/4MS7gcn0uGhmzNWWl5RRwd"
     },
     {
       "album": {
@@ -5867,7 +5889,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142956,
       "name": "Meu Lugar Preferido",
       "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
@@ -9863,6 +9885,28 @@
       "duration_ms": 302653,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/0Cz8QlQ80iGaBW9i2Rizp8"
+    },
+    {
+      "album": {
+        "name": "Teu Cheiro",
+        "url": "https://open.spotify.com/album/67u19LuCCTiOg6Ig8NCF1w"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123797,
+      "name": "Teu Cheiro",
+      "url": "https://open.spotify.com/track/6P3QD1WuFRk8MpFbhni3K5"
     },
     {
       "album": {

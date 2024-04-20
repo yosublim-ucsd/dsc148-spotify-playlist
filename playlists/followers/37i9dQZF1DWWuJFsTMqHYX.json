@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 303799,
+  "2024-04-20": 303921,
   "date_first_scraped": "2022-07-19",
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
   "name": "Sahara",
@@ -53,10 +53,28 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256320,
       "name": "Achinkad",
       "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
+    },
+    {
+      "album": {
+        "name": "Tartit: Amankor / The Exile",
+        "url": "https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw"
+      },
+      "artists": [
+        {
+          "name": "Tartit",
+          "url": "https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Afous Dafous",
+      "url": "https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1"
     },
     {
       "album": {
@@ -71,7 +89,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 429973,
       "name": "Ai Du (with Ry Cooder)",
       "url": "https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey"
@@ -147,7 +165,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187345,
       "name": "Akaline Akaline",
       "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
@@ -165,7 +183,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274626,
       "name": "Alasidi",
       "url": "https://open.spotify.com/track/07S3LkvTWmZ8tq00EUnIPZ"
@@ -201,7 +219,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "Alghalem",
       "url": "https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224346,
       "name": "Assossamagh",
       "url": "https://open.spotify.com/track/4ED4sCObY1bHueJMq28spC"
@@ -412,6 +430,24 @@
     },
     {
       "album": {
+        "name": "Ayo Nigla",
+        "url": "https://open.spotify.com/album/3r4X11sRjrDIvvxc8h4ece"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "Ayo Nigla",
+      "url": "https://open.spotify.com/track/4UPLbsDhxOq7xtSexAMKIs"
+    },
+    {
+      "album": {
         "name": "The Tel Aviv Session",
         "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
       },
@@ -457,7 +493,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 219666,
       "name": "Banani - feat. Lobi Traor\u00e9",
       "url": "https://open.spotify.com/track/0pKqawIX3uh1iycrPw5LMQ"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 231640,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
@@ -511,7 +547,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328826,
       "name": "Bonde (with Ry Cooder)",
       "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
@@ -551,7 +587,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 338292,
       "name": "Bonheur",
       "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
@@ -605,7 +641,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298969,
       "name": "Chismiten",
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
@@ -623,7 +659,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267533,
       "name": "Cler Achel",
       "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
@@ -714,6 +750,28 @@
     },
     {
       "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Etran Finatawa",
+          "url": "https://open.spotify.com/artist/4loyFcpdGnVsJRk2pgv6qX"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308293,
+      "name": "Etran",
+      "url": "https://open.spotify.com/track/1S9beER2axKheJ3AMe49Cv"
+    },
+    {
+      "album": {
         "name": "Fadma",
         "url": "https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp"
       },
@@ -743,7 +801,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 281120,
       "name": "Fransa",
       "url": "https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike"
@@ -761,7 +819,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 224226,
       "name": "Ghlana",
       "url": "https://open.spotify.com/track/3PD3dEs0ZADzjDi71v67dY"
@@ -823,6 +881,24 @@
     {
       "album": {
         "name": "Mbalimaou",
+        "url": "https://open.spotify.com/album/58jcdCnplCcyrBUU1lfmXG"
+      },
+      "artists": [
+        {
+          "name": "Boubacar Traor\u00e9",
+          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337506,
+      "name": "Hona",
+      "url": "https://open.spotify.com/track/4iYvyAFkX9jdLe7X7o2p4V"
+    },
+    {
+      "album": {
+        "name": "Mbalimaou",
         "url": "https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO"
       },
       "artists": [
@@ -833,7 +909,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338746,
       "name": "Hona",
       "url": "https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht"
@@ -887,7 +963,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271053,
       "name": "Il n'est jamais trop tard",
       "url": "https://open.spotify.com/track/4gFHLBJY4YLOFIkikk4pKc"
@@ -959,7 +1035,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 175066,
       "name": "Intifada",
       "url": "https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx"
@@ -1211,7 +1287,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 281093,
       "name": "Manden Mandinkadenou (Chant de griot)",
       "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
@@ -1325,7 +1401,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 354653,
       "name": "Matinfa",
       "url": "https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj"
@@ -1379,7 +1455,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222821,
       "name": "Midiwan (My Friends)",
       "url": "https://open.spotify.com/track/4p8Vq2bjTA0QFPJipbhOR3"
@@ -1441,7 +1517,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 498971,
       "name": "Mimoun Marhaba",
       "url": "https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI"
@@ -1539,7 +1615,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273949,
       "name": "Rachid Ouiguini",
       "url": "https://open.spotify.com/track/3SDZOWEfwMV9wDhK6ISQL9"
@@ -1583,7 +1659,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 355840,
       "name": "Ruby",
       "url": "https://open.spotify.com/track/37IbDeC2CfODD3OGcAO8Vd"
@@ -1669,7 +1745,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 212306,
       "name": "Soubour",
       "url": "https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f"
@@ -1727,7 +1803,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263440,
       "name": "Tadieu Bone",
       "url": "https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD"
@@ -1745,7 +1821,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 250453,
       "name": "Taguebarbt",
       "url": "https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw"
@@ -1781,7 +1857,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210880,
       "name": "Tahabort",
       "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
@@ -1853,7 +1929,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 432066,
       "name": "Taragalte",
       "url": "https://open.spotify.com/track/7frCzC7XOSEeJdUasfk7Zm"
@@ -1871,7 +1947,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186346,
       "name": "Tarha Tadagh",
       "url": "https://open.spotify.com/track/13mRdBKMwgZEHnwp72SbJg"
@@ -1893,6 +1969,24 @@
       "duration_ms": 186346,
       "name": "Tarha Tadagh",
       "url": "https://open.spotify.com/track/2LQwuRI1h4Q4qk4HzK9zE2"
+    },
+    {
+      "album": {
+        "name": "Taryet",
+        "url": "https://open.spotify.com/album/0hkzlHUqNYoMrdRcTFllJf"
+      },
+      "artists": [
+        {
+          "name": "Tarwa N-Tiniri",
+          "url": "https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341055,
+      "name": "Taryet",
+      "url": "https://open.spotify.com/track/3mVFTZGjfus9XbxQhNai4y"
     },
     {
       "album": {
@@ -1919,6 +2013,32 @@
       "duration_ms": 88360,
       "name": "Taxi Brousse",
       "url": "https://open.spotify.com/track/2IqeH9eUGHoK9HNgdirYZL"
+    },
+    {
+      "album": {
+        "name": "3 MA (Madagascar, Mali, Maroc)",
+        "url": "https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2"
+      },
+      "artists": [
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        }
+      ],
+      "date_added": "2024-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88360,
+      "name": "Taxi Brousse",
+      "url": "https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi"
     },
     {
       "album": {
@@ -2031,7 +2151,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 313480,
       "name": "Toumast anlet",
       "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
@@ -2049,7 +2169,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259919,
       "name": "Toumast Tincha",
       "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
@@ -2067,8 +2187,8 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 260253,
+      "date_removed": null,
+      "duration_ms": 260252,
       "name": "Toumast Tincha",
       "url": "https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh"
     },
@@ -2103,7 +2223,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 225651,
       "name": "Zalina",
       "url": "https://open.spotify.com/track/7LFTVgFCNdNghawWIfN3OX"
@@ -2121,7 +2241,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"

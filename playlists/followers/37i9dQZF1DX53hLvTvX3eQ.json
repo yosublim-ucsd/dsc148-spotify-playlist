@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12512,
+  "2024-04-20": 12524,
   "date_first_scraped": "2023-02-10",
   "description": "90\ub144\ub300 \ubaa8\ub450\uc758 \ub9c8\uc74c\uc744 \uc0ac\ub85c \uc7a1\uc558\ub358 \ucd94\uc5b5\uc758 \ub85d \ubc1c\ub77c\ub4dc\ub97c \uc990\uaca8\ubcf4\uc138\uc694.",
   "name": "\ucd94\uc5b5\uc758 \ub85d \ubc1c\ub77c\ub4dc",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267893,
       "name": "Change",
       "url": "https://open.spotify.com/track/2ZPfyWuZmCT05JZWmzCqXF"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 268056,
       "name": "Change",
       "url": "https://open.spotify.com/track/4QBK8zyiYAkxbg5dgKdFoy"
@@ -367,6 +367,24 @@
     {
       "album": {
         "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241506,
+      "name": "\uac00\uc2dc",
+      "url": "https://open.spotify.com/track/7BHijuU3OSoh4WnLfmZfU5"
+    },
+    {
+      "album": {
+        "name": "Buzz Effect",
         "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
       },
       "artists": [
@@ -385,7 +403,7 @@
     {
       "album": {
         "name": "Buzz Effect",
-        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+        "url": "https://open.spotify.com/album/3pax3J1b9jlG8GHdPQ8QU9"
       },
       "artists": [
         {
@@ -396,6 +414,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283960,
+      "name": "\uac81\uc7c1\uc774",
+      "url": "https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt"
+    },
+    {
+      "album": {
+        "name": "Buzz Effect",
+        "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
+      },
+      "artists": [
+        {
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/6Ef8tkhiFOOFOAeaQBFqtA"
@@ -511,7 +547,7 @@
     {
       "album": {
         "name": "\ud654\ub2f5",
-        "url": "https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld"
+        "url": "https://open.spotify.com/album/6Ao1l6VzhzhQhnK9ynICak"
       },
       "artists": [
         {
@@ -522,6 +558,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256026,
+      "name": "\ub098\uc5d0\uac8c\ub85c\uc758 \ucd08\ub300",
+      "url": "https://open.spotify.com/track/2Ta4SIixNaiqFAHKuzp7Bp"
+    },
+    {
+      "album": {
+        "name": "\ud654\ub2f5",
+        "url": "https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uacbd\ud654",
+          "url": "https://open.spotify.com/artist/1yjdL7icFOQ3QlPReSiCfN"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 256026,
       "name": "\ub098\uc5d0\uac8c\ub85c\uc758 \ucd08\ub300",
       "url": "https://open.spotify.com/track/36me6gJ2obYpfKc3YKXECM"
@@ -655,7 +709,7 @@
     {
       "album": {
         "name": "4Love",
-        "url": "https://open.spotify.com/album/6TcJ8I4bTBO8924wOksjUI"
+        "url": "https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w"
       },
       "artists": [
         {
@@ -666,6 +720,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 254746,
+      "name": "\ub9c8\uc9c0\ub9c9 \uc57d\uc18d",
+      "url": "https://open.spotify.com/track/6GzhacPOP82WUlTLCatTPY"
+    },
+    {
+      "album": {
+        "name": "4Love",
+        "url": "https://open.spotify.com/album/6TcJ8I4bTBO8924wOksjUI"
+      },
+      "artists": [
+        {
+          "name": "Kim Jung Min",
+          "url": "https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 254746,
       "name": "\ub9c8\uc9c0\ub9c9 \uc57d\uc18d",
       "url": "https://open.spotify.com/track/7uaTKyXRjGCFpNDRsdVYC9"
@@ -691,7 +763,7 @@
     {
       "album": {
         "name": "Change",
-        "url": "https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n"
+        "url": "https://open.spotify.com/album/5FptJBahqPCkB746VV5BMD"
       },
       "artists": [
         {
@@ -702,6 +774,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270524,
+      "name": "\ubb34\ud55c\uc9c0\uc560",
+      "url": "https://open.spotify.com/track/1kCG4eKMan608Mwb4xDdsc"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n"
+      },
+      "artists": [
+        {
+          "name": "Kim Jung Min",
+          "url": "https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 270524,
       "name": "\ubb34\ud55c\uc9c0\uc560",
       "url": "https://open.spotify.com/track/65wO72NHw8YmV6Il8je0Ml"
@@ -1025,10 +1115,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279040,
       "name": "\uc2ac\ud508 \uc5b8\uc57d\uc2dd",
       "url": "https://open.spotify.com/track/01V3UPOp55CbF598WEcsqS"
+    },
+    {
+      "album": {
+        "name": "4Love",
+        "url": "https://open.spotify.com/album/0gEHgjhOKYuP73SzPRDf8w"
+      },
+      "artists": [
+        {
+          "name": "Kim Jung Min",
+          "url": "https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279040,
+      "name": "\uc2ac\ud508 \uc5b8\uc57d\uc2dd",
+      "url": "https://open.spotify.com/track/4fjszCyp9aPlac5nTpxYPJ"
     },
     {
       "album": {
@@ -1069,7 +1177,7 @@
     {
       "album": {
         "name": "Change",
-        "url": "https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n"
+        "url": "https://open.spotify.com/album/5FptJBahqPCkB746VV5BMD"
       },
       "artists": [
         {
@@ -1080,6 +1188,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293537,
+      "name": "\uc560\uc778",
+      "url": "https://open.spotify.com/track/5CQmfyr1DkLxpLlpkhR0J3"
+    },
+    {
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1qfwLENLIMv3t3m6Rcnf7n"
+      },
+      "artists": [
+        {
+          "name": "Kim Jung Min",
+          "url": "https://open.spotify.com/artist/3SqnTAwj36AgFDT1XVIPD8"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 293537,
       "name": "\uc560\uc778",
       "url": "https://open.spotify.com/track/5Knh039ggOPsb9JZ50retD"
@@ -1141,7 +1267,7 @@
     {
       "album": {
         "name": "Kim Hyun Sung 2 Solo Album",
-        "url": "https://open.spotify.com/album/333rXQab40GUjauLGmMPuD"
+        "url": "https://open.spotify.com/album/6XzRIR8BeeCUXypxgpTv6M"
       },
       "artists": [
         {
@@ -1152,6 +1278,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245604,
+      "name": "\uc720\uc8c4",
+      "url": "https://open.spotify.com/track/2Fzib85o1G4S7l9wfsdh5N"
+    },
+    {
+      "album": {
+        "name": "Kim Hyun Sung 2 Solo Album",
+        "url": "https://open.spotify.com/album/333rXQab40GUjauLGmMPuD"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Sung",
+          "url": "https://open.spotify.com/artist/2OlQF7o8Cos9ruBAYxfy7I"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 245604,
       "name": "\uc720\uc8c4",
       "url": "https://open.spotify.com/track/50JJRvyBQRF0wXfXYQ5U3B"
@@ -1303,7 +1447,7 @@
     {
       "album": {
         "name": "\ud654\ub2f5",
-        "url": "https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld"
+        "url": "https://open.spotify.com/album/6Ao1l6VzhzhQhnK9ynICak"
       },
       "artists": [
         {
@@ -1314,6 +1458,24 @@
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 227604,
+      "name": "\uc9c0\uc0c1\uc5d0\uc11c \uc601\uc6d0\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/4WnjZdYQuB7KUhdfxdd6bi"
+    },
+    {
+      "album": {
+        "name": "\ud654\ub2f5",
+        "url": "https://open.spotify.com/album/47uDR8Nz6SEgOK6sKZUTld"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uacbd\ud654",
+          "url": "https://open.spotify.com/artist/1yjdL7icFOQ3QlPReSiCfN"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 227604,
       "name": "\uc9c0\uc0c1\uc5d0\uc11c \uc601\uc6d0\uc73c\ub85c",
       "url": "https://open.spotify.com/track/4bEnSLRsxT4QrNFGAzJUoE"
@@ -1349,10 +1511,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265534,
       "name": "\ucc9c\ub144\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy"
+    },
+    {
+      "album": {
+        "name": "\ucc9c\ub144\uc9c0\uc560 (\u5929\u5e74\u4e4b\u611b)",
+        "url": "https://open.spotify.com/album/3tP5zqC8xHT6R748b2hhYV"
+      },
+      "artists": [
+        {
+          "name": "Park Wan Kyu",
+          "url": "https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265534,
+      "name": "\ucc9c\ub144\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/36HpeuZMRWKAyVaRO8mePe"
     },
     {
       "album": {
@@ -1367,10 +1547,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309013,
       "name": "\ucc9c\uc0c1\uc5f0",
       "url": "https://open.spotify.com/track/5WQwhK2KLfWJDVDznuedLN"
+    },
+    {
+      "album": {
+        "name": "BEST ALBUM 1998-2003",
+        "url": "https://open.spotify.com/album/0qQZlJBxRDcjiFIZaEATY0"
+      },
+      "artists": [
+        {
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311536,
+      "name": "\ucc9c\uc0c1\uc5f0",
+      "url": "https://open.spotify.com/track/6leNIXMRddYE8HD7kVfFci"
     },
     {
       "album": {

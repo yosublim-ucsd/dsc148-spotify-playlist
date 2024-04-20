@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 170661,
+  "2024-04-20": 170682,
   "date_first_scraped": "2023-07-13",
   "description": "All-new performances by the cast and exclusive content. How many wonders can one playlist hold?",
   "name": "The Little Mermaid Official Playlist",
@@ -1242,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Ashley Tisdale",
+          "url": "https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3"
+    },
+    {
+      "album": {
         "name": "Disneymania 5",
         "url": "https://open.spotify.com/album/4QUVJSHDCCMW1hxXvpMxMf"
       },
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204466,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/77ltWp9xNbfhldXx3IEqVx"
@@ -3033,6 +3051,24 @@
       "duration_ms": 194933,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/3hY1WHSoTcXupacS3ffmz7"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Raven-Symon\u00e9",
+          "url": "https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "Under the Sea",
+      "url": "https://open.spotify.com/track/6KRhCrxN8dY35Eq6SDZH2i"
     },
     {
       "album": {

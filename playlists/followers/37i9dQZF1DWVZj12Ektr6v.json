@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 320112,
+  "2024-04-20": 320111,
   "date_first_scraped": "2022-04-20",
   "description": "To The World, Here is NCT! Hi we are NCT DREAM!",
   "name": "This Is NCT DREAM",
@@ -259,7 +259,7 @@
     {
       "album": {
         "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
       },
       "artists": [
         {
@@ -270,6 +270,24 @@
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170360,
+      "name": "BOX",
+      "url": "https://open.spotify.com/track/41jXJkAfryMVJ1kRILtGSG"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 170360,
       "name": "BOX",
       "url": "https://open.spotify.com/track/4I95uQMtIwg7779WEDy8Mc"
@@ -287,10 +305,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253240,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/0PXc6KmjeUEc39MOTmjEMq"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5Ste2DlfHsoyV9zZO0e5eQ"
     },
     {
       "album": {
@@ -327,10 +363,32 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226173,
       "name": "Broken Melodies - JVKE Remix",
       "url": "https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh"
+    },
+    {
+      "album": {
+        "name": "Broken Melodies (JVKE Remix)",
+        "url": "https://open.spotify.com/album/2be4q7fxWyk7JXu71G381W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Broken Melodies - JVKE Remix",
+      "url": "https://open.spotify.com/track/7AmSps0gp4XpMMBk1jfJj2"
     },
     {
       "album": {
@@ -417,10 +475,28 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152493,
       "name": "Carat Cake",
       "url": "https://open.spotify.com/track/1rmfuohSVfLQF3nPiSd1ja"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Carat Cake",
+      "url": "https://open.spotify.com/track/6faWGD7zkW7L1r9gKxTqF0"
     },
     {
       "album": {
@@ -565,7 +641,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/00Qg5kk0QM1UtQMXPEPo7j"
@@ -583,7 +659,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190480,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/79IikGOqOg2Rnnz0Fo5Qao"
@@ -655,7 +731,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207946,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R"
@@ -673,7 +749,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207946,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/73TM9iCEp8VtKZNXZADbQb"
@@ -789,7 +865,7 @@
     {
       "album": {
         "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
       },
       "artists": [
         {
@@ -800,6 +876,24 @@
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132360,
+      "name": "icantfeelanything",
+      "url": "https://open.spotify.com/track/0HT29ZbWnXKhueCPTmJOpW"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 132360,
       "name": "icantfeelanything",
       "url": "https://open.spotify.com/track/1D11R41GrNKopqfY4JsfTf"
@@ -1249,7 +1343,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2S2IfMg6ROIGjgwoCf1Z13"
@@ -1271,6 +1365,24 @@
       "duration_ms": 188080,
       "name": "Smoothie",
       "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/5qrFeNSIrwIc0B6Elp16Dl"
     },
     {
       "album": {
@@ -1437,7 +1549,7 @@
     {
       "album": {
         "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+        "url": "https://open.spotify.com/album/7aIpspBgbsrUgU7nWvz5sp"
       },
       "artists": [
         {
@@ -1448,6 +1560,24 @@
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 213973,
+      "name": "UNKNOWN",
+      "url": "https://open.spotify.com/track/1lSIZsWVahNJIHqX4Hh9ab"
+    },
+    {
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 213973,
       "name": "UNKNOWN",
       "url": "https://open.spotify.com/track/4uagvpI1cLBr4CX6lKItFG"

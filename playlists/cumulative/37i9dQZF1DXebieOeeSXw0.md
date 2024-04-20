@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-521 songs - 1 day 18 hr 20 min
+522 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Dinamic Afro Soukous](https://open.spotify.com/track/5wlvlbiN4J3eQqBJMe0i4y) | [Tchico](https://open.spotify.com/artist/6ArvtMB9pCDw9t1drSbDCY) | [Tchico et son orchestre Kilimandjaro](https://open.spotify.com/album/72W3L6q3On9nu02qPKZPT0) | 8:42 | 2021-12-24 |  |
 | [Dirty Money](https://open.spotify.com/track/1LclSylnnHUKdrCZjS0V6M) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/4yMhiZusgnoNlDBHZks8lG) | 6:15 | 2021-12-24 |  |
 | [Dirty Money](https://open.spotify.com/track/4kIcaK5ukJ1XwewfuO25XP) | [Antibalas](https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh) | [Antibalas](https://open.spotify.com/album/3XSANYFEaahq8DoY5FSwwM) | 6:15 | 2021-12-24 | 2024-04-19 |
-| [Disco Africa](https://open.spotify.com/track/455ppiFSHHzjaG09FZgYNq) | [The Ogyatanaa Show Band](https://open.spotify.com/artist/0AJM60aFXEl0tUmjZpSHSL) | [Ghana Soundz, Vol\. 2: Afro\-Beat, Funk and Fusion in 70's Ghana](https://open.spotify.com/album/05zytvrOaCmEjRgcTGbHdA) | 4:15 | 2021-12-24 |  |
+| [Disco Africa](https://open.spotify.com/track/455ppiFSHHzjaG09FZgYNq) | [The Ogyatanaa Show Band](https://open.spotify.com/artist/0AJM60aFXEl0tUmjZpSHSL) | [Ghana Soundz, Vol\. 2: Afro\-Beat, Funk and Fusion in 70's Ghana](https://open.spotify.com/album/05zytvrOaCmEjRgcTGbHdA) | 4:15 | 2021-12-24 | 2024-04-20 |
 | [Disco Africa](https://open.spotify.com/track/54ePlltecObjpWttWOAJYg) | [The Ogyatanaa Show Band](https://open.spotify.com/artist/0AJM60aFXEl0tUmjZpSHSL) | [Bukom Mashie / Disco Africa](https://open.spotify.com/album/7y59jYSfAJwTQnGSmeGQk4) | 4:15 | 2021-12-24 | 2024-04-19 |
 | [Don Dada](https://open.spotify.com/track/3wDMJzQbPqYyVuuW8DBJSN) | [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Don Dada](https://open.spotify.com/album/6TwhMgxYUO2EDyuiI3oFNt) | 3:25 | 2021-12-24 |  |
 | [Drum Song](https://open.spotify.com/track/7qDzu5cRpe4rfM6cePzRel) | [The Scientist](https://open.spotify.com/artist/2XdkhPavpqli97qA63tYFV) | [The Scientist \- Scientific Dub](https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB) | 3:44 | 2021-12-24 | 2024-04-19 |
@@ -494,6 +494,7 @@
 | [Tras De La Reja](https://open.spotify.com/track/4YwMtqmi7f980axgYOwsS3) | [Dogar Dics](https://open.spotify.com/artist/3arDOKUqSrNoPzS6AqvehW) | [Rey de Rocha y Sus Artistas](https://open.spotify.com/album/6OPFWvrYsXASqTc4nhHmGe) | 4:06 | 2021-12-24 |  |
 | [Trouble \- Musa Ukungilandela](https://open.spotify.com/track/76b8F6Rof6kBTS5V5fEhff) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [Musa Ukungilandela](https://open.spotify.com/album/5ss4oj0ChasFLKoCbiQgLq) | 3:26 | 2021-12-24 | 2024-04-19 |
 | [Trouble Musa Ukungilandela](https://open.spotify.com/track/4ODnNETt0HeiHYjrhtbE4j) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [Musa Ukungilandela](https://open.spotify.com/album/1eV37AdMxw8GGhBtdCOzsz) | 3:28 | 2021-12-24 |  |
+| [Très Impoli](https://open.spotify.com/track/67OwCWVZrKy7Ng1UX63urw) | [Franco](https://open.spotify.com/artist/4LfIeBRMY0ej1yImkWFqwx), [Le T.P\. OK Jazz](https://open.spotify.com/artist/73XCOyUYrL5GD0ULyLrBCp) | [Great Black Music \(Spotify Version\)](https://open.spotify.com/album/3RZ2aKTTSbs1JLecrkfPCf) | 16:55 | 2021-12-24 |  |
 | [Très impoli](https://open.spotify.com/track/55FYQdbQrRTaKIlKZij9j6) | [Franco & le T.P OK Jazz](https://open.spotify.com/artist/1XUfXYZElBhwnNLnZSi2CF), [Le T.P\. OK Jazz](https://open.spotify.com/artist/73XCOyUYrL5GD0ULyLrBCp) | [Franco \- 3ème anniversaire de la mort du grand maître Yorgho](https://open.spotify.com/album/76i9wFboO8qN3rijQB91wD) | 16:55 | 2021-12-24 | 2024-04-19 |
 | [Tumbélé waï cé éma](https://open.spotify.com/track/6i4hYQFitQrTsLEjdrxADp) | [Les Rapaces](https://open.spotify.com/artist/5wDs5PNSc7kmFAIULLJgkD) | [Best of: Nostalgie caraibes les rapaces](https://open.spotify.com/album/5YdNITIM5raHl59IorLtoJ) | 4:35 | 2021-12-24 |  |
 | [Tungalala \(El Sapo\)](https://open.spotify.com/track/6Ou7PoTB2gzKQ2v4ujjKMN) | [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 3:32 | 2021-12-24 | 2024-04-19 |

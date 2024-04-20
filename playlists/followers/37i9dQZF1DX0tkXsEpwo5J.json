@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 262347,
+  "2024-04-20": 262304,
   "date_first_scraped": "2022-06-10",
   "description": "\u00a1Canciones para sonre\u00edr durante el d\u00eda seleccionadas por Caloncho! \ud83c\udf3b",
   "name": "De Buenas",
@@ -675,10 +675,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198200,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
+    },
+    {
+      "album": {
+        "name": "15 Exitos Originales",
+        "url": "https://open.spotify.com/album/69v2wJSvgM28Ig46Lp8Z2f"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/2a1XHa182p1xnineorh0jB"
     },
     {
       "album": {

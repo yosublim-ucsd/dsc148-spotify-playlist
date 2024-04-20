@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35091,
+  "2024-04-20": 35146,
   "date_first_scraped": "2023-09-08",
   "description": "<a href=\"spotify:artist:205i7E8fNVfojowcQSfK9m\">Dom Dolla's </a> favourite tracks. Updated regularly. Curated by Dom Dolla. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Dom Dolla's track IDs",
@@ -273,10 +273,28 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195241,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2aiy3gAjU8yynkrbpEVQm9"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/275LPF8BejZv3Z5rZ1kOjB"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195241,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/5YqKtfTxesXJdCfFu1Sh3F"
     },
     {
       "album": {
@@ -331,7 +349,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263610,
       "name": "Compute",
       "url": "https://open.spotify.com/track/4gqTC1qq0dQxZ2sGMqfZgo"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 263610,
       "name": "Compute",
       "url": "https://open.spotify.com/track/7LNsgTO7ipNPLE10Nn7iR7"
@@ -644,6 +662,28 @@
     },
     {
       "album": {
+        "name": "Heat Of The Night",
+        "url": "https://open.spotify.com/album/10Ng3F686lmxAvGPd8H9tA"
+      },
+      "artists": [
+        {
+          "name": "Eat More Cake",
+          "url": "https://open.spotify.com/artist/0AuULFGFXVvFqzsCEdUCMZ"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341255,
+      "name": "Heat Of The Night - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/0jRUOijG1AckwVDmPG55S0"
+    },
+    {
+      "album": {
         "name": "Heat Of The Night (Remixes)",
         "url": "https://open.spotify.com/album/4XYLjXGWc2oWyEx8L8caHp"
       },
@@ -659,7 +699,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341255,
       "name": "Heat Of The Night - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/5JGsw2eBJkf7ZJtCqGC7Ak"
@@ -725,6 +765,28 @@
     {
       "album": {
         "name": "Hide U (Tinlicker Remix)",
+        "url": "https://open.spotify.com/album/5ZQ0tBjB96jsYTpZPUEzkP"
+      },
+      "artists": [
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "Hide U - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/2Rokfv3Uvmz2FyOBabhf1g"
+    },
+    {
+      "album": {
+        "name": "Hide U (Tinlicker Remix)",
         "url": "https://open.spotify.com/album/6Yn5w6xJpPZQho8VT7DRCH"
       },
       "artists": [
@@ -739,7 +801,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221048,
       "name": "Hide U - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5r43Rwy2cBKF6HQYIS41Bw"
@@ -761,7 +823,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 221762,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5HcFTUjrIn2Z2H87Rr9X7z"
@@ -783,7 +845,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221762,
       "name": "Hope",
       "url": "https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO"
@@ -1026,6 +1088,32 @@
     },
     {
       "album": {
+        "name": "Miracle Maker (feat. Clementine Douglas) [Ejeca Remix]",
+        "url": "https://open.spotify.com/album/3H4WMti6B8xgXr5xVo0DiY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "Ejeca",
+          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Miracle Maker (feat. Clementine Douglas) - Ejeca Remix",
+      "url": "https://open.spotify.com/track/2jBfUOOnlyIey90ZPX8xO9"
+    },
+    {
+      "album": {
         "name": "Miracle Maker (Ejeca Remix)",
         "url": "https://open.spotify.com/album/4AKIq1NLqe9koZeYk6Eu2m"
       },
@@ -1045,7 +1133,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226666,
       "name": "Miracle Maker - Ejeca Remix",
       "url": "https://open.spotify.com/track/7MDcf3pSWj1calkNnnMynn"
@@ -1387,6 +1475,28 @@
     {
       "album": {
         "name": "PLAY SOME RECORDS",
+        "url": "https://open.spotify.com/album/5BxqOnDxHI3vEChkaxSr7l"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168983,
+      "name": "PLAY SOME RECORDS",
+      "url": "https://open.spotify.com/track/0IO1lKYpnRdDGwQLV2IIPh"
+    },
+    {
+      "album": {
+        "name": "PLAY SOME RECORDS",
         "url": "https://open.spotify.com/album/5VxLMDVW8rjyP4mh8AyHVr"
       },
       "artists": [
@@ -1401,7 +1511,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
@@ -1503,7 +1613,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 499208,
       "name": "Retrida",
       "url": "https://open.spotify.com/track/55umJpgMpJDIiCiDYJyesi"
@@ -1521,10 +1631,36 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 499208,
       "name": "Retrida",
       "url": "https://open.spotify.com/track/7pk9nPyG0qI90l7j3pWnya"
+    },
+    {
+      "album": {
+        "name": "Rhyme Dust (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/268tdoBZ4WsGBCVNImkeFr"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "Rhyme Dust - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/5tXxLDvOut9w3ToN6RTois"
     },
     {
       "album": {
@@ -1547,7 +1683,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181880,
       "name": "Rhyme Dust - Nic Fanciulli Remix",
       "url": "https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL"
@@ -1755,6 +1891,32 @@
     {
       "album": {
         "name": "Strangers (with Mansionair) [Tinlicker Remix]",
+        "url": "https://open.spotify.com/album/18aHEB4HHrR99kHUdsvdcc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329349,
+      "name": "Strangers (with Mansionair) - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/1RigQUx1wnJ5HFx8Xd35ld"
+    },
+    {
+      "album": {
+        "name": "Strangers (with Mansionair) [Tinlicker Remix]",
         "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
       "artists": [
@@ -1773,7 +1935,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
@@ -1879,10 +2041,36 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
+    },
+    {
+      "album": {
+        "name": "The Boy Is Mine (feat. Rosalie)",
+        "url": "https://open.spotify.com/album/5gMGgpNQGhswDzD4DhyyZG"
+      },
+      "artists": [
+        {
+          "name": "James Mac",
+          "url": "https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB"
+        },
+        {
+          "name": "Vall",
+          "url": "https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD"
+        },
+        {
+          "name": "Rosalie",
+          "url": "https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201713,
+      "name": "The Boy Is Mine (feat. Rosalie)",
+      "url": "https://open.spotify.com/track/41F6EFBNhpsBPOZDPtoNTi"
     },
     {
       "album": {
@@ -2141,10 +2329,36 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224307,
       "name": "You - Fabich & Ferdinand Weber Remix",
       "url": "https://open.spotify.com/track/0ifoTehXLE8yB1zWwo3Osh"
+    },
+    {
+      "album": {
+        "name": "You (Remixes)",
+        "url": "https://open.spotify.com/album/0RcUhg0tbXVOfXVDYvduJj"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Ferdinand Weber",
+          "url": "https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224307,
+      "name": "You - Fabich & Ferdinand Weber Remix",
+      "url": "https://open.spotify.com/track/2Bc7TnLbIt4yyR0r7tCXPB"
     },
     {
       "album": {

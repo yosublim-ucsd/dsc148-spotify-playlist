@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 455205,
+  "2024-04-20": 454709,
   "date_first_scraped": "2021-12-21",
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
   "name": "The Scene",
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188423,
       "name": "ALMOST FAMOUS feat. Mark Hoppus",
       "url": "https://open.spotify.com/track/6h1mv6xCmdcmhmZ04TNTVk"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187679,
       "name": "Are You Impressed?",
       "url": "https://open.spotify.com/track/46UDlYUFZgpRDzouOGBM1m"
@@ -2815,7 +2815,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 193250,
       "name": "Brag",
       "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193250,
       "name": "Brag",
       "url": "https://open.spotify.com/track/1ncDsmvCGzO1U1aMWk0ijO"
@@ -3159,7 +3159,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "BURNOUT",
       "url": "https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo"
@@ -3675,7 +3675,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj"
@@ -3693,7 +3693,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193801,
       "name": "Childhood Eyes",
       "url": "https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh"
@@ -5129,7 +5129,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221282,
       "name": "Die Another Day",
       "url": "https://open.spotify.com/track/08NlZMpzLHxrk3kfSA4ebB"
@@ -5357,6 +5357,24 @@
       "duration_ms": 193874,
       "name": "Don't Be Racist",
       "url": "https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso"
+    },
+    {
+      "album": {
+        "name": "Don't Be Yourself",
+        "url": "https://open.spotify.com/album/4nL0eRx6r2L1KDIFnbTZqj"
+      },
+      "artists": [
+        {
+          "name": "The Rocket Summer",
+          "url": "https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260793,
+      "name": "Don't Be Yourself",
+      "url": "https://open.spotify.com/track/1TWdirGOKfyo0RkyUbh9YR"
     },
     {
       "album": {
@@ -6119,7 +6137,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 202636,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/7qMpO1Hys70qo0HvE9c4s2"
@@ -6261,7 +6279,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
@@ -6799,7 +6817,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Fat Vampire",
       "url": "https://open.spotify.com/track/4I0JFzDSny3aMdYVrrBn96"
@@ -8651,7 +8669,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223238,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3IXur29Br7NhKlMDQgckTv"
@@ -9487,7 +9505,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160000,
       "name": "how could you do this to me?",
       "url": "https://open.spotify.com/track/0ujL6lRfnCHyj59l3WQSdj"
@@ -10095,6 +10113,24 @@
     {
       "album": {
         "name": "I, VIBRATOR",
+        "url": "https://open.spotify.com/album/0e7uvTS1VE3kbZb6gwvCJU"
+      },
+      "artists": [
+        {
+          "name": "Say Anything",
+          "url": "https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276884,
+      "name": "I, VIBRATOR",
+      "url": "https://open.spotify.com/track/0fDiMvHk6eN1kVWwOdsfuL"
+    },
+    {
+      "album": {
+        "name": "I, VIBRATOR",
         "url": "https://open.spotify.com/album/4QJlgytXq1xfnEiMlcvSmf"
       },
       "artists": [
@@ -10105,7 +10141,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276884,
       "name": "I, VIBRATOR",
       "url": "https://open.spotify.com/track/5xK5Jjp76O2t8r8J3i1SrM"
@@ -10451,6 +10487,24 @@
       "duration_ms": 145074,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/753Vq51xoF1V1pkoBKkVPI"
+    },
+    {
+      "album": {
+        "name": "Intervention",
+        "url": "https://open.spotify.com/album/2hWsiGDp2zhZDIXQfVtbrw"
+      },
+      "artists": [
+        {
+          "name": "44Blonde",
+          "url": "https://open.spotify.com/artist/4KVVfMSquW9mvY3CHFwAxX"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Intervention",
+      "url": "https://open.spotify.com/track/2jsjKMEf7xESZhxZPV0MqM"
     },
     {
       "album": {
@@ -11177,7 +11231,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 210022,
       "name": "Lacerate",
       "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
@@ -13275,7 +13329,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 171280,
       "name": "Mysticism",
       "url": "https://open.spotify.com/track/6fp4BzYeiOMivcA4rg8QD5"
@@ -14381,6 +14435,24 @@
       "duration_ms": 144102,
       "name": "OUTRUN MYSELF (with Travis Barker)",
       "url": "https://open.spotify.com/track/109mkG2S2huV1S5xFRbJgF"
+    },
+    {
+      "album": {
+        "name": "Over My Dead Body EP",
+        "url": "https://open.spotify.com/album/1d5UIg8hyEyIi7olXI9nbT"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137229,
+      "name": "Over My Dead Body",
+      "url": "https://open.spotify.com/track/1ONYGY9f1xHTAVFbN2JkY9"
     },
     {
       "album": {
@@ -16443,7 +16515,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157053,
       "name": "SELF-SABOTAGE (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/3cjPUCNlR7Sk7126DV77ms"
@@ -16739,7 +16811,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164327,
       "name": "She Likes My Tattoos",
       "url": "https://open.spotify.com/track/00JNccokQDsIv4oqNlz3LC"
@@ -17940,6 +18012,24 @@
     },
     {
       "album": {
+        "name": "What Did You Find Out?",
+        "url": "https://open.spotify.com/album/0zrqMsCvvUAaXTiaILdfbl"
+      },
+      "artists": [
+        {
+          "name": "Homesafe",
+          "url": "https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174231,
+      "name": "SRY2SAY",
+      "url": "https://open.spotify.com/track/1RN6MPy2OxAaan1qk6nD3y"
+    },
+    {
+      "album": {
         "name": "SSX Trickmont",
         "url": "https://open.spotify.com/album/1x3UEx1oKZ17ICrVAuC6Wn"
       },
@@ -18337,7 +18427,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/3Y3CbwB3REfOWUkgKOKgcD"
@@ -18355,7 +18445,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
@@ -18593,7 +18683,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi"
@@ -18611,7 +18701,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163493,
       "name": "S\u2019old",
       "url": "https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X"
@@ -20097,7 +20187,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 140598,
       "name": "toothfairy",
       "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"
@@ -20137,7 +20227,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
@@ -20895,7 +20985,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216474,
       "name": "Wake Me Up (When This Nightmare\u2019s Over)",
       "url": "https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C"
@@ -21375,7 +21465,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205250,
       "name": "What Hurts the Most",
       "url": "https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH"
@@ -22209,7 +22299,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 230124,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6OSuUZ0XTYcmoasGUbPZ3x"

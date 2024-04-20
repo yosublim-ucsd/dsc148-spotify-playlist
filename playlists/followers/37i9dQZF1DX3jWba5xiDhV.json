@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 206319,
+  "2024-04-20": 206546,
   "date_first_scraped": "2022-02-13",
   "description": "When the dance floor calls your name, that's amore.",
   "name": "Italo Disco",
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 192866,
       "name": "Body to Body",
       "url": "https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246106,
       "name": "Color My Love",
       "url": "https://open.spotify.com/track/5oWMY5g9BErFiZjpsPjRCP"
@@ -634,6 +634,24 @@
     },
     {
       "album": {
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265663,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01"
+    },
+    {
+      "album": {
         "name": "Destiny (Original) - Single",
         "url": "https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8"
       },
@@ -663,7 +681,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 335333,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15"
@@ -965,7 +983,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398733,
       "name": "Eyes - Prod. by Roberto Ferrante - 2020 Remaster",
       "url": "https://open.spotify.com/track/6nLXnqhVpNLiL41uImEvJM"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 233080,
       "name": "From Here to Eternity - Bonus Track - Single Version - Remastered",
       "url": "https://open.spotify.com/track/0lY23NrYMQOQ9qKl6TzJiB"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 462000,
       "name": "Give Me Love - 1977",
       "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 210186,
       "name": "Il Veliero - Single Version",
       "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 229999,
       "name": "Let Me Love Tonight - Radio Version",
       "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 190698,
       "name": "Sciura Milanese",
       "url": "https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238493,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207400,
       "name": "Splendido splendente",
       "url": "https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 585374,
       "name": "Supernature",
       "url": "https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK"
@@ -2925,7 +2943,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349462,
       "name": "Ti voglio",
       "url": "https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u"
@@ -2943,7 +2961,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
@@ -2961,7 +2979,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278749,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
@@ -3073,7 +3091,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182160,
       "name": "Tutta sola (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/1b0TK4bq3WCqrw9WLTArF5"
@@ -3095,7 +3113,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Tutta sola (feat. Pino D'Angi\u00f2)",
       "url": "https://open.spotify.com/track/4hKObAIM0nMRqLOYaO15fm"
@@ -3287,7 +3305,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 366076,
       "name": "When I Let You Down - Extended Mix",
       "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t'aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/6CNTgqgmfpYMgI9h4uIWxH"

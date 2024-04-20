@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2355046,
+  "2024-04-20": 2353801,
   "date_first_scraped": "2021-12-21",
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
   "name": "90s Acoustic",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Adia",
       "url": "https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157733,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176826,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
@@ -233,10 +233,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 243866,
       "name": "Annabelle",
       "url": "https://open.spotify.com/track/3ZtC9ZDhPJj0E043tmlOgx"
+    },
+    {
+      "album": {
+        "name": "Live At Sin-\u00e9 (Legacy Edition)",
+        "url": "https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc"
+      },
+      "artists": [
+        {
+          "name": "Jeff Buckley",
+          "url": "https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295400,
+      "name": "Be Your Husband - Live at Sin-\u00e9, New York, NY - July/August 1993",
+      "url": "https://open.spotify.com/track/5K3XHLYc9uaDyx0YSLGmuL"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141200,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A"
@@ -547,7 +565,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263560,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290706,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340666,
       "name": "Foolish Games",
       "url": "https://open.spotify.com/track/2LflDhyBXVNrfmHxAayS3K"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 262560,
       "name": "Head over Feet - Live / Unplugged",
       "url": "https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/5jafMI8FLibnjkYTZ33m0c"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 318773,
       "name": "I Don't Want to Wait",
       "url": "https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 223533,
       "name": "I'm On Fire - Live",
       "url": "https://open.spotify.com/track/6DTzKm0E0T7U8o4MntTpg8"
@@ -943,10 +961,28 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 268493,
       "name": "If You Knew - Live at Sin-\u00e9, New York, NY - July/August 1993",
       "url": "https://open.spotify.com/track/1nd2JEHXbUuQFDiQzCBpsv"
+    },
+    {
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/5COXoP5kj2DWfCDg0vxi4F"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/4OciRObYGzPzlU40U7YRc8"
     },
     {
       "album": {
@@ -961,7 +997,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202346,
       "name": "In the Aeroplane Over the Sea",
       "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
@@ -1004,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Oyster",
+        "url": "https://open.spotify.com/album/5P2QD4RUFQo9iSwAAq8VSf"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380333,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/33OKxxPWyeVfybg8ytaj7G"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/2fGCAYUMssLKiUAoNdxGLx"
       },
@@ -1033,7 +1087,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
@@ -1141,7 +1195,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272920,
       "name": "Lilac Wine",
       "url": "https://open.spotify.com/track/1StXVL5gClph4z4XzanYko"
@@ -1195,7 +1249,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268426,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
@@ -1213,7 +1267,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193953,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD"
@@ -1231,7 +1285,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "Lovefool - Radio Edit",
       "url": "https://open.spotify.com/track/0u4htORODiTK9vHVA89MQX"
@@ -1357,7 +1411,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280040,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
@@ -1429,7 +1483,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 310466,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1"
@@ -1537,7 +1591,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
@@ -1555,7 +1609,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj"
@@ -1609,7 +1663,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139000,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
@@ -1681,7 +1735,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "Smells Like Teen Spirit - 2015 Remaster",
       "url": "https://open.spotify.com/track/1kWqRB6PHLM9QTfaXuHpIV"
@@ -1699,7 +1753,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
@@ -1717,7 +1771,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183760,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp"
@@ -1735,7 +1789,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 195973,
       "name": "Stellar - Acoustic",
       "url": "https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn"
@@ -1753,7 +1807,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 325760,
       "name": "Stolen Car",
       "url": "https://open.spotify.com/track/7fj8gxs9E3xuTYJQd5pTjG"
@@ -1825,7 +1879,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 186466,
       "name": "The Pusher",
       "url": "https://open.spotify.com/track/0QXxJofIuWHLQafnTzFAwV"
@@ -1843,7 +1897,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 348560,
       "name": "The Times They Are A-Changin' - Live at Sony Music Studios, New York, NY - November 1994",
       "url": "https://open.spotify.com/track/32gGuJXlLJbKCk3MDfW53y"
@@ -1861,7 +1915,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255466,
       "name": "The World I Know",
       "url": "https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd"
@@ -1987,7 +2041,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303133,
       "name": "What It's Like",
       "url": "https://open.spotify.com/track/6vUPPEN2V2lZ78b6DyEIjZ"
@@ -2041,7 +2095,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 266320,
       "name": "Where Have All the Cowboys Gone ? - Remastered Version",
       "url": "https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX"
@@ -2059,7 +2113,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234973,
       "name": "Where Is My Mind? - 2007 Remaster",
       "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
@@ -2077,7 +2131,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239293,
       "name": "Who Will Save Your Soul",
       "url": "https://open.spotify.com/track/0OH8dSQmKm2zjhqRPYsk1h"
@@ -2113,7 +2167,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 341813,
       "name": "Winter - 2015 Remaster",
       "url": "https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS"
@@ -2167,7 +2221,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -2203,7 +2257,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282416,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/1pYeG5Tc46NR2SmHFV6ZP8"
@@ -2239,7 +2293,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254480,
       "name": "You Were Meant For Me",
       "url": "https://open.spotify.com/track/7y7aSSTiQfO0Ace4F7yxzE"
@@ -2257,7 +2311,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241560,
       "name": "Zombie (Acoustic Version)",
       "url": "https://open.spotify.com/track/1aZfq7TK3tNl9XJLkOpwKw"
@@ -2275,7 +2329,7 @@
       ],
       "date_added": "2020-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 241560,
       "name": "Zombie - Acoustic Version",
       "url": "https://open.spotify.com/track/1qylvO4iCIZZcqc4TqSjTZ"

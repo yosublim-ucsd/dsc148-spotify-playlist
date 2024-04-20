@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 27802,
+  "2024-04-20": 27803,
   "date_first_scraped": "2021-12-21",
   "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
   "name": "Fright Fest",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155760,
       "name": "Ave Satani - From \"The Omen\"",
       "url": "https://open.spotify.com/track/2n2Uugl3wR9s2pYjIKbbL9"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "Down The Pipe",
       "url": "https://open.spotify.com/track/2KuDGIejkCwPV00plTqiej"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174333,
       "name": "Down the Pipe",
       "url": "https://open.spotify.com/track/5HhLdKwIy2ZpuX8yjZpWm6"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268826,
       "name": "Freddy's Coming for You",
       "url": "https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268826,
       "name": "Freddy's Coming For You",
       "url": "https://open.spotify.com/track/5jYaqMXbUXyUk9VQgOWR4K"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252186,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252186,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 656573,
       "name": "Reel 9",
       "url": "https://open.spotify.com/track/1pRGFSv1jsiVsTLMSTpQRB"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 656573,
       "name": "Reel 9",
       "url": "https://open.spotify.com/track/42GFFFw4gMMefVth1lmAit"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1208825,
       "name": "Side A",
       "url": "https://open.spotify.com/track/4hRKUei7qAK1kOth7cPaim"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1208825,
       "name": "Side A",
       "url": "https://open.spotify.com/track/4s7BAf0bNlxyANBVVPRLKt"
@@ -637,10 +637,28 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 100440,
       "name": "Tea for Three Plus One",
       "url": "https://open.spotify.com/track/1JSDvcMOMu0y4FLEs3kHl7"
+    },
+    {
+      "album": {
+        "name": "The Woman In Black (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38VQvWEXOVCYLRW8LhqkP2"
+      },
+      "artists": [
+        {
+          "name": "Marco Beltrami",
+          "url": "https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i"
+        }
+      ],
+      "date_added": "2024-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100440,
+      "name": "Tea for Three Plus One",
+      "url": "https://open.spotify.com/track/1bKscSGDTcxM3f5qYjgRMV"
     },
     {
       "album": {
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 155760,
       "name": "The Omen - Ave Santani",
       "url": "https://open.spotify.com/track/2FjW6XLCZCQORjl2RQpIMP"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175464,
       "name": "THE SHINING",
       "url": "https://open.spotify.com/track/5CLs2ZsEMPVSEgWOD3sVFE"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250493,
       "name": "The Shock",
       "url": "https://open.spotify.com/track/7ywQ5kMHhMIzPnq1pWnx4P"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250496,
       "name": "The Shock",
       "url": "https://open.spotify.com/track/5dBCwVCqra4ld5e0mXKI84"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 53800,
       "name": "The Twilight Zone",
       "url": "https://open.spotify.com/track/5u72Vlsj6XLEOvx5TLTJMC"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 173680,
       "name": "Theme From The Shining",
       "url": "https://open.spotify.com/track/0MtSRAb1ELE19QvKBumQqy"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 56333,
       "name": "Twlight Zone",
       "url": "https://open.spotify.com/track/6WjHCLbxvuab3pd5JvOKU9"

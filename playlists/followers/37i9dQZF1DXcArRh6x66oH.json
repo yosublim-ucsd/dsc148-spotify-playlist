@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 237972,
+  "2024-04-20": 238166,
   "date_first_scraped": "2023-02-25",
   "description": "somewhere between with Dylan Gossett ",
   "name": "homegrown",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228144,
       "name": "23",
       "url": "https://open.spotify.com/track/5NU6kBZORKaoqS09mOqgXs"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 207820,
       "name": "68",
       "url": "https://open.spotify.com/track/6LtSvOXW9K6oo4lmJZmMji"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207845,
       "name": "68",
       "url": "https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7"
@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "American Dreaming",
+        "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237691,
+      "name": "American Dreaming - Single Edit",
+      "url": "https://open.spotify.com/track/3XSAuizXkxeam6N8eJwGVh"
+    },
+    {
+      "album": {
         "name": "bon aqua EP",
         "url": "https://open.spotify.com/album/782C6iLDAvYgAjJfd6YmSA"
       },
@@ -417,7 +435,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 237600,
       "name": "Beneath Oak Trees",
       "url": "https://open.spotify.com/track/3ijPMKSNCF1sfwKPsnIrIW"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237600,
       "name": "Beneath Oak Trees",
       "url": "https://open.spotify.com/track/6xqmYE5XbgqOl4LO39g5v6"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273035,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 273035,
       "name": "Come Back Down",
       "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186635,
       "name": "Dancing in the Sky",
       "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215574,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/1fbOuE1vixg4Ig7gLjISKW"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-18",
+      "date_removed": null,
       "duration_ms": 215574,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 231672,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/5loHd8KKK93wxEOkgGU12Q"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231672,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/7qb6DlOmbPOllTfCvmmkH6"
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229505,
       "name": "Kentucky Sky",
       "url": "https://open.spotify.com/track/0U2l0UpHPDGAkrh9jeDTsM"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 229505,
       "name": "Kentucky Sky",
       "url": "https://open.spotify.com/track/4GBHsMtMopYUNZP6pRI6Dn"
@@ -2683,10 +2701,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230012,
       "name": "Loud and Heavy",
       "url": "https://open.spotify.com/track/1ppTqTBXqnlVGPxlluGHRE"
+    },
+    {
+      "album": {
+        "name": "Adobe Sessions",
+        "url": "https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230012,
+      "name": "Loud and Heavy",
+      "url": "https://open.spotify.com/track/7JnCZ9w4HwDdCbJsIwS4SA"
     },
     {
       "album": {
@@ -3005,7 +3041,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk"
@@ -3027,7 +3063,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8"
@@ -3195,13 +3231,13 @@
           "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
         },
         {
-          "name": "Read Southall Band",
+          "name": "Southall",
           "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 458173,
       "name": "Oklahoma (feat. Read Southall Band)",
       "url": "https://open.spotify.com/track/4YGql2q12wnXTdMvTm5573"
@@ -3245,7 +3281,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 458173,
       "name": "Oklahoma (feat. Southall)",
       "url": "https://open.spotify.com/track/1PtK9wVHHwkoLix2iAqRPH"
@@ -3643,7 +3679,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
@@ -3661,7 +3697,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj"
@@ -3813,7 +3849,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192500,
       "name": "Shoot Me Dead",
       "url": "https://open.spotify.com/track/2qV5Sgj3rVBy2KtsjdqIzm"
@@ -3831,7 +3867,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 192833,
       "name": "Shoot Me Dead",
       "url": "https://open.spotify.com/track/2sSZcyay828i4F5Aa5zrtX"
@@ -3885,7 +3921,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP"
@@ -3903,7 +3939,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230826,
       "name": "Sleeping Alone",
       "url": "https://open.spotify.com/track/7KgpoK5WCefGCvjMl635Nh"
@@ -3921,7 +3957,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 192480,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE"
@@ -3939,7 +3975,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192480,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV"
@@ -3975,7 +4011,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
       "url": "https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc"
@@ -3993,7 +4029,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
       "url": "https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ"
@@ -4155,7 +4191,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3ZJd3PCBk8ibpO8DVlkCsF"
@@ -4173,7 +4209,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/3fonAuTvuI5KMcmnueLAPq"
@@ -4317,7 +4353,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236026,
       "name": "The Devil Wears a Suit and Tie",
       "url": "https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh"
@@ -4335,7 +4371,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 236026,
       "name": "The Devil Wears a Suit and Tie",
       "url": "https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3"
@@ -4865,13 +4901,13 @@
       },
       "artists": [
         {
-          "name": "Read Southall Band",
+          "name": "Southall",
           "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 197997,
       "name": "Why",
       "url": "https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ"
@@ -4889,7 +4925,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197997,
       "name": "Why",
       "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
@@ -5015,10 +5051,28 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201066,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N"
+    },
+    {
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/5E6Y21xdZI8Ein5d7wfqpI"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201639,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm"
     },
     {
       "album": {
@@ -5051,7 +5105,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 250880,
       "name": "Wildflowers and Wild Horses",
       "url": "https://open.spotify.com/track/4SCIqKkTic7hUHsL201OY0"
@@ -5069,7 +5123,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250880,
       "name": "Wildflowers and Wild Horses",
       "url": "https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh"
@@ -5167,7 +5221,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
@@ -5185,7 +5239,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"

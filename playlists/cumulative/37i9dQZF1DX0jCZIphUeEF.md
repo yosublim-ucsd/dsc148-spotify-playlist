@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-178 songs - 17 hr 14 min
+179 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Kaleta](https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv) | 4:30 | 2023-11-03 | 2024-04-19 |
 | [Kalima \- Extended Mix](https://open.spotify.com/track/1Ac3HJrLYG686WD4fwpnRr) | [La Santa Music](https://open.spotify.com/artist/4CGXFRuE498C4QKcjxiprx), [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs) | [Kalima \(Extended Mix\)](https://open.spotify.com/album/17BgIIR2x8mARzobtFwFvg) | 6:01 | 2024-02-20 |  |
 | [Karavane](https://open.spotify.com/track/49jrwKKNhC5TvU6W9NzFue) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Gio Israel](https://open.spotify.com/artist/0vMjghiQIFzwaoWNC5kQEr) | [Without Borders](https://open.spotify.com/album/2Fgzwt5QD6EFeApnyr1jzB) | 6:49 | 2022-08-01 |  |
+| [Koyo Ganda \- Amine K Remix](https://open.spotify.com/track/5Zxxmckr3EcDeQfZaQsn5m) | [K'lid](https://open.spotify.com/artist/7vDWonsXaNMD4klWcmBgST), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Koyo Ganda](https://open.spotify.com/album/6Kkfme3fugKzid7YIhuVrv) | 3:31 | 2024-04-19 |  |
 | [Let No Man Put Asunder \(Dam Swindle Remix\)](https://open.spotify.com/track/5qBOa8bCYKg414qTplH9ye) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/5hfBsqWgBXYkM4FDfJDpxw) | 7:34 | 2023-12-15 | 2024-03-07 |
 | [Let No Man Put Asunder \- Dam Swindle Remix](https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Dam Swindle x Salsoul Reworks Vol\. 1](https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf) | 7:34 | 2022-08-01 | 2023-05-11 |
 | [Like This](https://open.spotify.com/track/3EoT72JbbMkDGrzJ1PHFVF) | [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Like This](https://open.spotify.com/album/2n5MkFJJvH3blXQy2hZlF8) | 5:47 | 2023-11-22 | 2023-12-16 |

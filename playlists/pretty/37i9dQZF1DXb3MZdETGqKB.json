@@ -1,6 +1,6 @@
 {
   "description": "All new, all blues. Cover: Gary Clark Jr.",
-  "num_followers": 147762,
+  "num_followers": 147667,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "MTcxMzQ5OTI2MCwwMDAwMDAwMGY3YmQ0MjRjMzQ1OGZlNmIzZjU4YmEzNDFlZDI1MTEw",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Queen Of The Road",
+        "url": "https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Sophia Urista",
+          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
+        }
+      ],
+      "duration_ms": 225068,
+      "name": "Queen Of The Road",
+      "url": "https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0"
+    },
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {

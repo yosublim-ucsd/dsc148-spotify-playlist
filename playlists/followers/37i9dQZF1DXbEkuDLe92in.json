@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 53637,
+  "2024-04-20": 53656,
   "date_first_scraped": "2022-09-09",
   "description": "Beautiful classical Indian Ragas to soundtrack your Yoga session.",
   "name": "Ragas for Yoga",
@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Rough Guide to Indian Classical Music",
+        "url": "https://open.spotify.com/album/2gxudz64DF32yDiDTT1gPk"
+      },
+      "artists": [
+        {
+          "name": "Debashish Bhattacharya",
+          "url": "https://open.spotify.com/artist/1gluErp8xTWWbjs6kh3Qjb"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560626,
+      "name": "Prema Chakor",
+      "url": "https://open.spotify.com/track/181HBgSfHKApNvIp6PwTzx"
+    },
+    {
+      "album": {
         "name": "Calcutta Slide-Guitar",
         "url": "https://open.spotify.com/album/0RpC7t66S5SJB788nmngRc"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 560626,
       "name": "Prema Chakor",
       "url": "https://open.spotify.com/track/1jQrEqbsOc7k3pW8MIoLSs"
@@ -347,10 +365,40 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 553653,
       "name": "Raag Bhairavi",
       "url": "https://open.spotify.com/track/03MK4ZqPXi5zhblvE5PNqj"
+    },
+    {
+      "album": {
+        "name": "Gurdev Singh: Art of the Indian Sarod",
+        "url": "https://open.spotify.com/album/5ZmNS32V6qBgwHmZGZ4deI"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Shruti Singh",
+          "url": "https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn"
+        },
+        {
+          "name": "Navinder Singh",
+          "url": "https://open.spotify.com/artist/4ckBtARZbKz0zNyewp9aoU"
+        },
+        {
+          "name": "Gurdev Singh",
+          "url": "https://open.spotify.com/artist/3gsyCBPp33pNMK8P5iJNm3"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553653,
+      "name": "Raag Bhairavi",
+      "url": "https://open.spotify.com/track/0f8U8VjtgqHasATa6Fx5tz"
     },
     {
       "album": {
@@ -373,6 +421,28 @@
     {
       "album": {
         "name": "Baluji Shrivastav: Shadow of the Lotus - Classical Indian Ragas",
+        "url": "https://open.spotify.com/album/0l9wdltn8tTcrmFMFhFBtK"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Baluji Shrivastav",
+          "url": "https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610000,
+      "name": "Raag Jan Sammohini",
+      "url": "https://open.spotify.com/track/0Xb7MrsfOwRuzFgCdtlLzp"
+    },
+    {
+      "album": {
+        "name": "Baluji Shrivastav: Shadow of the Lotus - Classical Indian Ragas",
         "url": "https://open.spotify.com/album/7sq7QZGY6o4mFaFnXns4DN"
       },
       "artists": [
@@ -387,7 +457,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 610000,
       "name": "Raag Jan Sammohini",
       "url": "https://open.spotify.com/track/5sOR6MZkrHWHKmHqvmrQuS"
@@ -441,10 +511,28 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 516400,
       "name": "Raag Shobhavari",
       "url": "https://open.spotify.com/track/47INRaiHBWZBSevNaVS9a0"
+    },
+    {
+      "album": {
+        "name": "Indian Vistas",
+        "url": "https://open.spotify.com/album/1J1Uzozxc2IIonlQ5iAXV5"
+      },
+      "artists": [
+        {
+          "name": "Baluji Shrivastav",
+          "url": "https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519400,
+      "name": "Raag Shobhavari",
+      "url": "https://open.spotify.com/track/5w2r4XjjOK5KMdybMB6oWV"
     },
     {
       "album": {
@@ -525,10 +613,36 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 553280,
       "name": "Raga - Brindavani",
       "url": "https://open.spotify.com/track/3BMLk59gpyhKR6OVunPIeo"
+    },
+    {
+      "album": {
+        "name": "The Art of the Indian Dilruba",
+        "url": "https://open.spotify.com/album/64hQ09B9825K5BndFE0zcB"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Shrivastav Shanson",
+          "url": "https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl"
+        },
+        {
+          "name": "Partho Mukherjee",
+          "url": "https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j"
+        },
+        {
+          "name": "Baluji Shrivastav",
+          "url": "https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 932826,
+      "name": "Raga Ahiri Todi (gat in Vilambit Ektaal)",
+      "url": "https://open.spotify.com/track/0W8qPEIHNGVsLqlMHbTATf"
     },
     {
       "album": {
@@ -577,7 +691,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 932826,
       "name": "Raga Ahiri Todi (gat in Vilambit Ektaal)",
       "url": "https://open.spotify.com/track/3XGCHE9x5Fh7TFwK9VfokU"
@@ -595,7 +709,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 553280,
       "name": "Raga Brindavani: Alap",
       "url": "https://open.spotify.com/track/42i2BVvCd0PzHbpUHRBXsc"
@@ -667,10 +781,36 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 595100,
       "name": "Raga Dhani",
       "url": "https://open.spotify.com/track/59gea5yN0eH2Xj73JWcsp7"
+    },
+    {
+      "album": {
+        "name": "The Art of the Indian Dilruba",
+        "url": "https://open.spotify.com/album/64hQ09B9825K5BndFE0zcB"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Shrivastav Shanson",
+          "url": "https://open.spotify.com/artist/3IKouO9Y74YNhaDsd65Ogl"
+        },
+        {
+          "name": "Partho Mukherjee",
+          "url": "https://open.spotify.com/artist/1IftW1kiCpeNpYZLCIVk2j"
+        },
+        {
+          "name": "Baluji Shrivastav",
+          "url": "https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601306,
+      "name": "Raga Dhani",
+      "url": "https://open.spotify.com/track/7AdM5jGgmsnrmH8WlUc0AI"
     },
     {
       "album": {
@@ -773,6 +913,24 @@
     {
       "album": {
         "name": "The Sounds of Varanasi",
+        "url": "https://open.spotify.com/album/0lcivNOAvETQuDFgizuIrm"
+      },
+      "artists": [
+        {
+          "name": "Pandit Dhruv Nath Mishra",
+          "url": "https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242800,
+      "name": "Raga Madhuvanti: Alap, Jor (Live)",
+      "url": "https://open.spotify.com/track/5lqEojEuh8q0aDtXw3NTY7"
+    },
+    {
+      "album": {
+        "name": "The Sounds of Varanasi",
         "url": "https://open.spotify.com/album/5KAww61S9UOggL61L4UIeP"
       },
       "artists": [
@@ -801,10 +959,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242800,
       "name": "Raga Madhuvanti: Alap, Jor (Live)",
       "url": "https://open.spotify.com/track/4IiKB0gBpsVUwmDtJCoLgo"
+    },
+    {
+      "album": {
+        "name": "The Sounds of Varanasi",
+        "url": "https://open.spotify.com/album/0lcivNOAvETQuDFgizuIrm"
+      },
+      "artists": [
+        {
+          "name": "Pandit Dhruv Nath Mishra",
+          "url": "https://open.spotify.com/artist/62oZ169ulQWy1pcVdT32hu"
+        },
+        {
+          "name": "Ravi Tripathi",
+          "url": "https://open.spotify.com/artist/7D73VJBs9rJh9USThws70P"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "Raga Madhuvanti: Gat I. Rupak Taal, Tihai (Live)",
+      "url": "https://open.spotify.com/track/2h5FdXnhDkPLd6fd6ANNiG"
     },
     {
       "album": {
@@ -823,7 +1003,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220245,
       "name": "Raga Madhuvanti: Gat I. Rupak Taal, Tihai (Live)",
       "url": "https://open.spotify.com/track/3M8omxN9anhyubRI4CH5yP"
@@ -841,7 +1021,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1083000,
       "name": "Raga Malya Maruttam",
       "url": "https://open.spotify.com/track/50T1URhUhohOCwKITl8kKD"
@@ -863,6 +1043,28 @@
       "duration_ms": 1083000,
       "name": "Raga Malya Maruttam",
       "url": "https://open.spotify.com/track/6ZDdS4pnTzLjqVbyWbozYZ"
+    },
+    {
+      "album": {
+        "name": "Pandit Ronu Majumdar: Master of the Indian Bansuri",
+        "url": "https://open.spotify.com/album/13P7ue6pRzu9IuQCtwgmaa"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1083000,
+      "name": "Raga Malya Maruttam",
+      "url": "https://open.spotify.com/track/5TOnz52vVwzN1Gq6nbrpZj"
     },
     {
       "album": {
@@ -921,10 +1123,32 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363490,
       "name": "Raga Puriya Kalyan",
       "url": "https://open.spotify.com/track/0TiJTyfIode2Za7v7X22lZ"
+    },
+    {
+      "album": {
+        "name": "Sounds of the East",
+        "url": "https://open.spotify.com/album/2xaAJYaZ96SdX6EQB7k1sW"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Nath Mishra",
+          "url": "https://open.spotify.com/artist/43NfZyGiqc3U9FS9ZArSGb"
+        },
+        {
+          "name": "Srdjan Beronja",
+          "url": "https://open.spotify.com/artist/2pLXNcqOpzyUdGCx77eBzO"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363490,
+      "name": "Raga Puriya Kalyan",
+      "url": "https://open.spotify.com/track/4CfQHc62eNK5a1nhQ50e2e"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 207065,
+  "2024-04-20": 207105,
   "date_first_scraped": "2022-05-30",
   "description": "Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix. ",
   "name": "Outer Banks Official Playlist",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334880,
       "name": "Astral Man",
       "url": "https://open.spotify.com/track/3sHsj2ZWGqGek6nd9dZexV"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 334880,
       "name": "Astral Man",
       "url": "https://open.spotify.com/track/4Ig9HspUaKy2cz6YA8pb6O"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314093,
       "name": "Baby Why",
       "url": "https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 314093,
       "name": "Baby Why",
       "url": "https://open.spotify.com/track/7lTLHyXU0OvDf0Es0PffpS"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128813,
       "name": "Bad Kids",
       "url": "https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 128813,
       "name": "Bad Kids",
       "url": "https://open.spotify.com/track/7wexq2QIYnZPVoZIJ4qvR4"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 277461,
       "name": "Bomba At\u00f3mica",
       "url": "https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277610,
       "name": "Bomba At\u00f3mica",
       "url": "https://open.spotify.com/track/7bsxpeEt1xFJSGGn8GsLd7"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237839,
       "name": "Borrowed World",
       "url": "https://open.spotify.com/track/2bhKJw0EreRC8kKq8Oktmm"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237839,
       "name": "Borrowed World",
       "url": "https://open.spotify.com/track/5RWV1Yu8EJrMbyaX56XLAO"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 300115,
       "name": "Boys in the Better Land",
       "url": "https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300115,
       "name": "Boys In the Better Land",
       "url": "https://open.spotify.com/track/2dxXKqqpSV4eCgPxC6t8mn"
@@ -479,10 +479,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217693,
       "name": "Boys in the Wood",
       "url": "https://open.spotify.com/track/4C7CFVRrE3rYsan7jYyhso"
+    },
+    {
+      "album": {
+        "name": "Underneath The Rainbow",
+        "url": "https://open.spotify.com/album/1MIvn1Vfn03Eao4JfG8f70"
+      },
+      "artists": [
+        {
+          "name": "Black Lips",
+          "url": "https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "Boys in the Wood",
+      "url": "https://open.spotify.com/track/5AruRCF1WZEM3urh8DU1Lr"
     },
     {
       "album": {
@@ -573,7 +591,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/2b4Q3h1sw8p6rJv6mk3qz1"
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183200,
       "name": "Crashed My Bike",
       "url": "https://open.spotify.com/track/0DX6TehELIsI9N3wKAM0fV"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183200,
       "name": "Crashed My Bike",
       "url": "https://open.spotify.com/track/1CrSOYgDKMg2aU48FmRFsQ"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272863,
       "name": "December",
       "url": "https://open.spotify.com/track/33HMjGJbXDKAyslYKKshtG"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 272863,
       "name": "December",
       "url": "https://open.spotify.com/track/34WYAjF4l7fx3l97DmKgPM"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204790,
       "name": "Destroy The Empire",
       "url": "https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 204790,
       "name": "Destroy The Empire",
       "url": "https://open.spotify.com/track/6V5aJTWbHRs7clhcQ4em0f"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112493,
       "name": "Divina - Live",
       "url": "https://open.spotify.com/track/4MkexgN798PYtcuHcyhDPR"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 112493,
       "name": "Divina - Live",
       "url": "https://open.spotify.com/track/6bzwaJTaI6Upfv8FgKOXSd"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184789,
       "name": "Don't You Forget It",
       "url": "https://open.spotify.com/track/1PzGdNHZ2w9L0lpiaklRYJ"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184789,
       "name": "Don't You Forget It",
       "url": "https://open.spotify.com/track/3niZUlDdEFvir3HKdgdhsC"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240742,
       "name": "Evan Finds the Third Room",
       "url": "https://open.spotify.com/track/1MheNNJZYdcOTKwZyM8alC"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240742,
       "name": "Evan Finds the Third Room",
       "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 226186,
       "name": "Gringo Che",
       "url": "https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226186,
       "name": "Gringo Che",
       "url": "https://open.spotify.com/track/7nBHDoLweT5dr455uyxruH"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 211417,
       "name": "Guajira sicod\u00e9lica",
       "url": "https://open.spotify.com/track/7BCox4yFBBdHflBRfp82ji"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212466,
       "name": "Guajira Sicod\u00e9lica",
       "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 122859,
       "name": "Heaven on the Beach With You",
       "url": "https://open.spotify.com/track/1aYDZpNwbkWa2ci01qbReB"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122859,
       "name": "Heaven on the Beach With You",
       "url": "https://open.spotify.com/track/3NK7KV1KyUwSoJwNIIOP8f"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220733,
       "name": "High School Lover",
       "url": "https://open.spotify.com/track/2JMGXBUNp9rNLjCt7Cf3jM"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220733,
       "name": "High School Lover",
       "url": "https://open.spotify.com/track/2hPT4VtaYhDY5OcT7jxzAb"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 274848,
       "name": "Hipnosis",
       "url": "https://open.spotify.com/track/7q0zwg5QB54QQyCbw3Fe5t"
@@ -1399,7 +1417,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274869,
       "name": "Hipnosis",
       "url": "https://open.spotify.com/track/6YInR9mNZJmg4yCut6YG69"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4QlhhWO6nq5BzSpfU4nJs0"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/5t93hSW6hOhojflI6pjits"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156800,
       "name": "Johny Says Stay Cool",
       "url": "https://open.spotify.com/track/7Izuq0yphsRPfcXGFWWJiy"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156811,
       "name": "Johny Says Stay Cool",
       "url": "https://open.spotify.com/track/6wPXCLMgpEZIt7TNTURGKe"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136960,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/4a4rhvtACdsHlwXgDznvAf"
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 136960,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/642AXFcekNXRwxAcOf3bNO"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 184871,
       "name": "La Pajuelera",
       "url": "https://open.spotify.com/track/1uPfK7AV69DIXDBdgmavGB"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184871,
       "name": "La Pajuelera",
       "url": "https://open.spotify.com/track/6uYpSJADtZDNmbBMz4tKnB"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205706,
       "name": "Lake Song",
       "url": "https://open.spotify.com/track/3DcgW2YEdjr5tTwd0mTJtr"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 205706,
       "name": "Lake Song",
       "url": "https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265301,
       "name": "Left with a Gun",
       "url": "https://open.spotify.com/track/3I2ApTet8MLnGIcbL6isRu"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268000,
       "name": "Left with a Gun",
       "url": "https://open.spotify.com/track/5B3qTqJSte8caqfr4qDbe0"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259079,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/0rg69E3wqGu7cGZCIkHvdS"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 259079,
       "name": "Man On Fire",
       "url": "https://open.spotify.com/track/6Kn5yzAyOw3jf4Y5a6d1Oq"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/66MpvsWO5O7gy9LjXGFw6I"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "More Mess on My Thing",
       "url": "https://open.spotify.com/track/3HgPOHHJWnMfv1Zw27Jh2V"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252000,
       "name": "More Mess on My Thing",
       "url": "https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204467,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/01WQr2XhNnZMu4bjkgLN5s"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 204467,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/02BHrZuoTz32hlaXRbbvge"
@@ -2445,7 +2463,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/71MXEBUUD5XUsVWYIfXVgL"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151440,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj"
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151440,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/6XMyKqEUjoPFDClvRJyO6x"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 142160,
       "name": "No Cup No Broke",
       "url": "https://open.spotify.com/track/2NAd3OwwSyMwZ0hA3dEd50"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142160,
       "name": "No Cup No Broke",
       "url": "https://open.spotify.com/track/6GxVxdukFe3VciIN5gT2yc"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236680,
       "name": "Not Another Drop",
       "url": "https://open.spotify.com/track/0lIZwOOHDL1eNr45rbrrKH"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236680,
       "name": "Not Another Drop",
       "url": "https://open.spotify.com/track/2SBt99MHENYHqCtfdDZFI7"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257321,
       "name": "Powerman (2020 Stereo Remaster)",
       "url": "https://open.spotify.com/track/0dJ6WCwjkVBfh4h3vyzIeb"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 257321,
       "name": "Powerman - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/71lOPSGbq1hSepmhwSZs2p"
@@ -2921,7 +2939,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151691,
       "name": "Que Lengua",
       "url": "https://open.spotify.com/track/0H4zoI0T85DpU70rxrUfjp"
@@ -2939,7 +2957,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 151691,
       "name": "Que Lengua",
       "url": "https://open.spotify.com/track/1IYFT0Z6mxFPSgDeciv8Jr"
@@ -2957,7 +2975,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/3i2pAVmEzBgJIHtIMkNQBJ"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228306,
       "name": "Raspberry Jam",
       "url": "https://open.spotify.com/track/5h2KygZTCVxt7MLKjoaixE"
@@ -3163,7 +3181,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192255,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu"
@@ -3181,7 +3199,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 192255,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/4UuL6goVDXswWgRGQiYHki"
@@ -3235,7 +3253,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 259937,
       "name": "Sold out of Love",
       "url": "https://open.spotify.com/track/6BKpJ2pDPixM3Nwqhr9999"
@@ -3253,7 +3271,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259937,
       "name": "Sold out of Love",
       "url": "https://open.spotify.com/track/7l24yEocXMnG3b4BiYEKCa"
@@ -3271,7 +3289,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170411,
       "name": "Something That You're Missing",
       "url": "https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V"
@@ -3307,7 +3325,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170411,
       "name": "Something That You're Missing",
       "url": "https://open.spotify.com/track/2uYozG9El78dWTKLReHMI2"
@@ -3397,7 +3415,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268857,
       "name": "Summer",
       "url": "https://open.spotify.com/track/7MNTf5d8T971NWUcqhgPlH"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269351,
       "name": "Summer",
       "url": "https://open.spotify.com/track/22upHibeNQU5TAZ2Jtpc7F"
@@ -3491,7 +3509,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 250266,
       "name": "Televised Mind",
       "url": "https://open.spotify.com/track/3SUNHWszXHmCx0J668tqq1"
@@ -3509,7 +3527,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250266,
       "name": "Televised Mind",
       "url": "https://open.spotify.com/track/3rq8wrt867MobyQuum2TBp"
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
@@ -3567,7 +3585,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/2UweSn50xGODUOhkKnjJf2"
@@ -3697,7 +3715,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164093,
       "name": "The Tide Is High",
       "url": "https://open.spotify.com/track/1CeO8blB0K7hq0k0Ln2XcR"
@@ -3715,7 +3733,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 164093,
       "name": "The Tide Is High",
       "url": "https://open.spotify.com/track/6sCkLCSXMMf9q3ArEAsWnQ"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296791,
       "name": "Time Moves On",
       "url": "https://open.spotify.com/track/1MM99OUIbL61UbHm6VrO3w"
@@ -3827,7 +3845,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 296791,
       "name": "Time Moves On",
       "url": "https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2"
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt"
@@ -3939,7 +3957,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5BQ7Txrx41vbbUvQBuKNuP"
@@ -3975,7 +3993,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184626,
       "name": "When the Lights Are Low",
       "url": "https://open.spotify.com/track/3RzklnCLyC35UhTN7WkVEr"
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "When the Lights Are Low",
       "url": "https://open.spotify.com/track/5dfQhcik87RMJAvVs7xW95"
@@ -4195,7 +4213,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200250,
       "name": "You've Got the Heat",
       "url": "https://open.spotify.com/track/4NSpQ7DuhVLk5RtKyx5Tc4"
@@ -4213,7 +4231,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200250,
       "name": "You've Got the Heat",
       "url": "https://open.spotify.com/track/6W8dxNDiw2DZKsgvBk6Cfs"

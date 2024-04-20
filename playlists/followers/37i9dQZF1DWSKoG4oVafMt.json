@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 178141,
+  "2024-04-20": 178235,
   "date_first_scraped": "2021-12-28",
   "description": "The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu",
   "name": "Punjabi Pyar",
@@ -2346,6 +2346,28 @@
     },
     {
       "album": {
+        "name": "Chann Sitare (From \"Oye Makhna\")",
+        "url": "https://open.spotify.com/album/3fms8MQoHUUbAfK9ao7X8G"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "Chann Sitare",
+      "url": "https://open.spotify.com/track/50UrzLQaUmPp5LsehLMMKR"
+    },
+    {
+      "album": {
         "name": "Chann Sitare (From \"Oye Makhna\") - Single",
         "url": "https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf"
       },
@@ -2365,7 +2387,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187142,
       "name": "Chann Sitare (From \"Oye Makhna\")",
       "url": "https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o"
@@ -3269,7 +3291,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Dil Lagiyan",
       "url": "https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p"
@@ -3287,7 +3309,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249600,
       "name": "Dil Lagiyan",
       "url": "https://open.spotify.com/track/2NnJof731uy6KZg2Ls6DZv"
@@ -3433,10 +3455,36 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146966,
       "name": "Dil Nu (From \"Jatt Nuu Chudail Takri\")",
       "url": "https://open.spotify.com/track/3UfaRvDZelyDs7PtTp45Gt"
+    },
+    {
+      "album": {
+        "name": "Dil Nu (From \"Jatt Nuu Chudail Takri\")",
+        "url": "https://open.spotify.com/album/0OmnSUCyHhOLumqNf8arkq"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        },
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Dil Nu (From \"Jatt Nuu Chudail Takri\")",
+      "url": "https://open.spotify.com/track/2zdP6CEm1lV9Oh65JRbvgt"
     },
     {
       "album": {
@@ -5698,7 +5746,7 @@
         },
         {
           "name": "Mannat Noor",
-          "url": "https://open.spotify.com/artist/0MhfFmi9REfZWIkztxNYAr"
+          "url": "https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp"
         }
       ],
       "date_added": "2024-03-08",
@@ -8675,6 +8723,28 @@
     {
       "album": {
         "name": "Love Song",
+        "url": "https://open.spotify.com/album/4WTOv1HXfFtDG64JvxoYLg"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sidhu",
+          "url": "https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187151,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0qVcPNhhGkZtm80eAHvraz"
+    },
+    {
+      "album": {
+        "name": "Love Song",
         "url": "https://open.spotify.com/album/6LLECbzIC2P2maPYpyVyG0"
       },
       "artists": [
@@ -8689,7 +8759,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187151,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7k5eHoBu50hK6s4WVFQk66"
@@ -10367,7 +10437,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 139756,
       "name": "Nawa Nawa Pyaar",
       "url": "https://open.spotify.com/track/50DyjmQxDUAygFT31rD1kT"
@@ -10389,7 +10459,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139756,
       "name": "Nawa Nawa Pyaar",
       "url": "https://open.spotify.com/track/6BJEyDIOQf7pi3jKIbC34p"
@@ -10677,10 +10747,32 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Nimm Thalle",
       "url": "https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d"
+    },
+    {
+      "album": {
+        "name": "Nimm Thalle",
+        "url": "https://open.spotify.com/album/3JR6MsMhr1UbXpSNGAD05v"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Nimm Thalle",
+      "url": "https://open.spotify.com/track/31YZi2MZoP2CszakCUG9NO"
     },
     {
       "album": {
@@ -11795,7 +11887,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215714,
       "name": "Pyaar Ch Haan (From \"Furteela\")",
       "url": "https://open.spotify.com/track/2fm01WsPLIJBBa53HAhHoQ"
@@ -11825,7 +11917,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 215714,
       "name": "Pyaar Ch Haan (From \"Furteela\")",
       "url": "https://open.spotify.com/track/7n2WdcXkndxEHi2nE3issW"
@@ -12829,6 +12921,24 @@
     {
       "album": {
         "name": "Kali Jotta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404170,
+      "name": "Rutba",
+      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
+    },
+    {
+      "album": {
+        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/55iA8nuzIEjLxK82lzhgyi"
       },
       "artists": [
@@ -12839,7 +12949,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404170,
       "name": "Rutba",
       "url": "https://open.spotify.com/track/4EvaQx8uREbHOHM3SdCRCe"
@@ -12981,7 +13091,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 260487,
       "name": "Sab Kuchh (From \"MOH\")",
       "url": "https://open.spotify.com/track/7HV84VsK9HDX1XJh3mxwaW"
@@ -13025,7 +13135,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260487,
       "name": "Sab Kuchh (From \"Moh\")",
       "url": "https://open.spotify.com/track/1ENluBXCI1RnMiGcZ74mzM"
@@ -13844,6 +13954,28 @@
     },
     {
       "album": {
+        "name": "All Bamb",
+        "url": "https://open.spotify.com/album/4UT2rfObHL3Y9rrsbGtD2A"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Sira E Hou",
+      "url": "https://open.spotify.com/track/2GDWnzRp5wsBXMBtR25dzv"
+    },
+    {
+      "album": {
         "name": "Sira E Hou",
         "url": "https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR"
       },
@@ -13881,7 +14013,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200769,
       "name": "Sira E Hou",
       "url": "https://open.spotify.com/track/639CDARmxoRC57gK0nej6V"
@@ -14551,7 +14683,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210000,
       "name": "Supna",
       "url": "https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI"
@@ -14567,21 +14699,17 @@
           "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
         },
         {
-          "name": "Rony Ajnali",
-          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
-        },
-        {
-          "name": "Gill Machhrai",
-          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
-        },
-        {
           "name": "Jaymeet",
           "url": "https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
         }
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Supna",
       "url": "https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ"
@@ -15983,6 +16111,28 @@
     {
       "album": {
         "name": "Tu Jo Mileya",
+        "url": "https://open.spotify.com/album/3k6gm4SfQtgCPhunnsJTKz"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Tu Jo Mileya",
+      "url": "https://open.spotify.com/track/40EeTvfmNYoXbY2iyWC542"
+    },
+    {
+      "album": {
+        "name": "Tu Jo Mileya",
         "url": "https://open.spotify.com/album/3Wi3ZqFRZwbQuIxkLm2I9u"
       },
       "artists": [
@@ -15997,7 +16147,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "Tu Jo Mileya",
       "url": "https://open.spotify.com/track/7uVpBwBqSwuhSDF8HcH9Qz"
@@ -16817,10 +16967,32 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210422,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/4pFDMbftahto1oz8SZx2qQ"
+    },
+    {
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/0sQRiOLXkzvK9b3r1LVZHK"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210422,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs"
     },
     {
       "album": {

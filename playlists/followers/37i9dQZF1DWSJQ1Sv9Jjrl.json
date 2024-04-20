@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 5852,
+  "2024-04-20": 5852,
   "date_first_scraped": "2022-05-30",
   "description": "Music from the Tall Girl films. Watch Tall Girl 2 now on Netflix.",
   "name": "Tall Girl 2 Official Playlist",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184132,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/0U009cDlGPpshpotu9bSgS"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 184132,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/0q5OkmIw0GY8nmtrWNqOgY"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 205106,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/23mqkYQVVWeD4C3KINeLIs"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205106,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/4ReCnXg7yWNGonvj12O3WE"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257980,
       "name": "Frankie",
       "url": "https://open.spotify.com/track/6nZAmCkn0cB5wG2uvQWSBi"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257980,
       "name": "Frankie",
       "url": "https://open.spotify.com/track/76d5duEjc2sorWQFmZsdVC"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 248200,
       "name": "Future Starts Slow",
       "url": "https://open.spotify.com/track/04RcDL1mbjcVLMLqBOjkeX"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248200,
       "name": "Future Starts Slow",
       "url": "https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160480,
       "name": "Je Ne Me Connais Pas",
       "url": "https://open.spotify.com/track/59UhDtzduuh0zNVi52xCBs"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160480,
       "name": "Je Ne Me Connais Pas",
       "url": "https://open.spotify.com/track/7uGz8qMZrX4T81hhTzAsdv"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/1rANXdrXTLAWxc0FGsV7BH"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/7xqb9V5dnp2wa9emncBBEt"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210911,
       "name": "Mayhem",
       "url": "https://open.spotify.com/track/1z3Gg0PF3qj81j4bOVtUU6"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210680,
       "name": "Mayhem 7.0",
       "url": "https://open.spotify.com/track/7kHEGPPEyN1E6lpFDqUb7h"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 173516,
       "name": "Party On Fifth Ave.",
       "url": "https://open.spotify.com/track/24OMJgeZvpSu92TbAe2WYh"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173516,
       "name": "Party On Fifth Ave.",
       "url": "https://open.spotify.com/track/6WMqBpW8oKyTRE0GSOyyAa"

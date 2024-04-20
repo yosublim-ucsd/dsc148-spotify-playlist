@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 4471,
+  "2024-04-20": 4473,
   "date_first_scraped": "2023-02-11",
-  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: blesse",
+  "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Alix Fernz",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -57,6 +57,24 @@
       "duration_ms": 150320,
       "name": "Ah ouin",
       "url": "https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8"
+    },
+    {
+      "album": {
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Ah ouin",
+      "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
     },
     {
       "album": {
@@ -125,7 +143,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149882,
       "name": "America",
       "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-05",
+      "date_removed": null,
       "duration_ms": 250108,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 236965,
       "name": "Ce qu'on aura",
       "url": "https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163978,
       "name": "Combien \u00e7a co\u00fbte",
       "url": "https://open.spotify.com/track/39W2PPVBdO9qzI8TZBXrcK"
@@ -659,10 +677,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223849,
       "name": "Comfort, Edge",
       "url": "https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1"
+    },
+    {
+      "album": {
+        "name": "Comme tu le souhaites (Ding Dong)",
+        "url": "https://open.spotify.com/album/7Fv4qj6cYO540OuEb8z9Ac"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353094,
+      "name": "Comme tu le souhaites (Ding Dong)",
+      "url": "https://open.spotify.com/track/0jv4Qiw0H1OXb1FQ1Epirs"
     },
     {
       "album": {
@@ -783,6 +819,24 @@
     {
       "album": {
         "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
+    },
+    {
+      "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
         "url": "https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN"
       },
       "artists": [
@@ -793,7 +847,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189712,
       "name": "DIMANCHE SOIR",
       "url": "https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx"
@@ -829,7 +883,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
@@ -1020,6 +1074,42 @@
     },
     {
       "album": {
+        "name": "Fireball",
+        "url": "https://open.spotify.com/album/2ymtr3oRXo6vBOYQhYSQ2v"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179668,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/6WmR01Wh7GPqF6fqzQX4s5"
+    },
+    {
+      "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
+      },
+      "artists": [
+        {
+          "name": "Alix Fernz",
+          "url": "https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184745,
+      "name": "Fleur en poly\u00e9thyl\u00e8ne",
+      "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
+    },
+    {
+      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/7hPNtRF7ZXPqQJGTMg7HIc"
       },
@@ -1089,6 +1179,24 @@
       "duration_ms": 268544,
       "name": "Glam",
       "url": "https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO"
+    },
+    {
+      "album": {
+        "name": "hana",
+        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
     },
     {
       "album": {
@@ -1273,7 +1381,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172085,
       "name": "Just Like",
       "url": "https://open.spotify.com/track/1deniAR9BR8JhNG1679O63"
@@ -1547,10 +1655,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215481,
       "name": "LES MANI\u00c8RES DE TABLE",
       "url": "https://open.spotify.com/track/41kFPZnhpxkSzNXPnfAZCW"
+    },
+    {
+      "album": {
+        "name": "LES MANI\u00c8RES DE TABLE",
+        "url": "https://open.spotify.com/album/0LZzTKnghI4yPVhnWusx29"
+      },
+      "artists": [
+        {
+          "name": "Annie-Claude Desch\u00eanes",
+          "url": "https://open.spotify.com/artist/22BjCjalcQRqEkOEVzYl4i"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215481,
+      "name": "LES MANI\u00c8RES DE TABLE",
+      "url": "https://open.spotify.com/track/6aZ3zdal2jij2cOGpQeBAH"
     },
     {
       "album": {
@@ -1637,7 +1763,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175563,
       "name": "Madone",
       "url": "https://open.spotify.com/track/3FqxuAQ0rNFjMyOehcyvz8"
@@ -1691,7 +1817,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
@@ -1745,10 +1871,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
+    },
+    {
+      "album": {
+        "name": "Mon Argent",
+        "url": "https://open.spotify.com/album/3O9E9GLDqNFVn6qYY76Mnr"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Mon Argent",
+      "url": "https://open.spotify.com/track/4KkF7rio8VithG50zRJgmZ"
     },
     {
       "album": {
@@ -1936,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "O\u00f9 est?",
+        "url": "https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d"
+      },
+      "artists": [
+        {
+          "name": "Les Lunatiques",
+          "url": "https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271696,
+      "name": "O\u00f9 est?",
+      "url": "https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo"
+    },
+    {
+      "album": {
         "name": "Zoo Baby",
         "url": "https://open.spotify.com/album/0Pq1sFQdyRea7Avv570y7T"
       },
@@ -1983,7 +2145,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 168853,
       "name": "Parfaite \u00e0 l'\u00e9cran",
       "url": "https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5"
@@ -2233,7 +2395,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289959,
       "name": "R.B.",
       "url": "https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5"
@@ -2305,7 +2467,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 233708,
       "name": "Romantisme",
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
@@ -2377,7 +2539,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175459,
       "name": "Sans soleil",
       "url": "https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18"
@@ -2399,6 +2561,24 @@
       "duration_ms": 328636,
       "name": "See You Soon",
       "url": "https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR"
+    },
+    {
+      "album": {
+        "name": "Deuxi\u00e8me chance",
+        "url": "https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL"
+      },
+      "artists": [
+        {
+          "name": "Beat Sex\u00fc",
+          "url": "https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Sempre Juntos",
+      "url": "https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa"
     },
     {
       "album": {
@@ -2510,6 +2690,24 @@
     },
     {
       "album": {
+        "name": "Parh\u00e9lie",
+        "url": "https://open.spotify.com/album/0sBmYOOGem7io7zYkdE3e0"
+      },
+      "artists": [
+        {
+          "name": "Totalement Sublime",
+          "url": "https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286922,
+      "name": "Soleil encaban\u00e9",
+      "url": "https://open.spotify.com/track/0oWcXec6E4OV10gke838Of"
+    },
+    {
+      "album": {
         "name": "Still Stained",
         "url": "https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv"
       },
@@ -2575,7 +2773,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229413,
       "name": "Sweet mont\u00e9r\u00e9gie",
       "url": "https://open.spotify.com/track/5cdHmyc2mbTB7Dzaj3Dsbw"
@@ -2701,7 +2899,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 189510,
       "name": "Tracer des lignes",
       "url": "https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB"
@@ -2791,7 +2989,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 207013,
       "name": "Viendras-tu pleurer?",
       "url": "https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN"
@@ -2831,6 +3029,24 @@
       "duration_ms": 205847,
       "name": "Voiture de course",
       "url": "https://open.spotify.com/track/5AbHwqS90lmbvhNX733j0z"
+    },
+    {
+      "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E"
+      },
+      "artists": [
+        {
+          "name": "Backxwash",
+          "url": "https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427456,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/2QAz9MrzAwLltC4Byk8AMV"
     },
     {
       "album": {
@@ -2935,7 +3151,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249072,
       "name": "Witness Protection",
       "url": "https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps"
@@ -2953,7 +3169,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186402,
       "name": "You Can Let Go",
       "url": "https://open.spotify.com/track/4FstNW0yCDSX82nhcCAkZL"
@@ -3043,7 +3259,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142222,
       "name": "\u200echerry \u200estems",
       "url": "https://open.spotify.com/track/1NVzCmOxAhi1OER5yRjMRy"
@@ -3079,7 +3295,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192000,
       "name": "\u200emile \u200eend",
       "url": "https://open.spotify.com/track/3lqVjU8Shn7UGlqY9ZDvpP"

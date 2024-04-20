@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,396 likes - 106 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,339 likes - 106 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

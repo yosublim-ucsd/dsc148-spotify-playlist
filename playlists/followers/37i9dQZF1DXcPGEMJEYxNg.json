@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 120357,
+  "2024-04-20": 120371,
   "date_first_scraped": "2022-05-30",
   "description": "In partnership with <a href=\"https://goldhouse.org/\">Gold House</a>, we are excited to announce our third Gold House Future Music Accelerator artists: Emei, Paravi & Towa Bird.",
   "name": "Gold Beats",
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199906,
       "name": "1 True Love",
       "url": "https://open.spotify.com/track/2dJ1UJEQQq3jkLSJP4ZIoi"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222687,
       "name": "DEATH TRIP",
       "url": "https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 222687,
       "name": "DEATH TRIP",
       "url": "https://open.spotify.com/track/77nvm4SGjSDyAjdBpBCxuO"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190312,
       "name": "don't miss me too much (Aaron Redding Remix)",
       "url": "https://open.spotify.com/track/47N2vh7GLGtGrxE7xMBjoh"
@@ -1121,14 +1121,14 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133706,
       "name": "edamame",
       "url": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
     },
     {
       "album": {
-        "name": "edamame (feat. Rich Brian)",
+        "name": "edamame",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
       "artists": [
@@ -1143,9 +1143,9 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 133706,
-      "name": "edamame (feat. Rich Brian)",
+      "name": "edamame",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
     },
     {
@@ -1382,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
+    },
+    {
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/31ts1gO00pptOFCiXxVbBM"
       },
@@ -1469,6 +1487,28 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+    },
+    {
+      "album": {
+        "name": "Heartless feat. Ikky",
+        "url": "https://open.spotify.com/album/12HrMxdfaD0qq2PM2Gzklr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129114,
+      "name": "Heartless feat. Ikky",
+      "url": "https://open.spotify.com/track/7cMYN4HXfJGyVy6zQ6mga6"
     },
     {
       "album": {
@@ -3253,7 +3293,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7"
@@ -3275,7 +3315,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 201869,
       "name": "Silver Into Rain",
       "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"
@@ -3351,7 +3391,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182351,
       "name": "Someone on the Internet",
       "url": "https://open.spotify.com/track/2iSudjmucrmx3xLZYqNes9"
@@ -3369,7 +3409,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 182351,
       "name": "Someone On The Internet",
       "url": "https://open.spotify.com/track/4uW3eW3YVRqddbMrZf4caM"

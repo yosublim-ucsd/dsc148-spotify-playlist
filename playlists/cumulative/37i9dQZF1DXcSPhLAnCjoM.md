@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> SANTA au top des 50 hits de variété française du moment.
+> "Recommence\-moi" de SANTA est le Grand Hit de la semaine !
 
 130 songs - 6 hr 48 min
 

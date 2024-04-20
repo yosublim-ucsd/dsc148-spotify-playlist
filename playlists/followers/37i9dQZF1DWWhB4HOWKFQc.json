@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 1274101,
+  "2024-04-20": 1273828,
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: ILLIT",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: BABYMONSTER",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -259,7 +259,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196897,
       "name": "Aduh",
       "url": "https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146197,
       "name": "Bam Yang Gang",
       "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
@@ -1786,6 +1786,24 @@
     },
     {
       "album": {
+        "name": "minisode 3: TOMORROW with Remixes",
+        "url": "https://open.spotify.com/album/0RFuTYmc3LtPHt0rs0Mqwl"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171427,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/24NrkwIc5BzCUqzJaG6USZ"
+    },
+    {
+      "album": {
         "name": "Delusion",
         "url": "https://open.spotify.com/album/22kagYQ70d21mizj0l6yw6"
       },
@@ -2053,7 +2071,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -2497,7 +2515,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267866,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
@@ -2771,10 +2789,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224093,
       "name": "Hey Daddy (Daddy's Home)",
       "url": "https://open.spotify.com/track/030OCtLMrljNhp8OWHBWW3"
+    },
+    {
+      "album": {
+        "name": "Pyramid Game (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/3RyzKWunzsNbNwnOlJCko0"
+      },
+      "artists": [
+        {
+          "name": "Ava Grace",
+          "url": "https://open.spotify.com/artist/3Ymv3J4SDr2OZmbjIQUgJe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144786,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/11Cfv7iO1ivVStPZl5OSsx"
     },
     {
       "album": {
@@ -2789,7 +2825,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144786,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7GblcjjaTMP0tQeVqXKYVf"
@@ -2825,10 +2861,28 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184053,
       "name": "His Car Isn't Yours",
       "url": "https://open.spotify.com/track/5cvwFPDokfdI6T7O0HgzuM"
+    },
+    {
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "His Car Isn\u2019t Yours",
+      "url": "https://open.spotify.com/track/6i5SuCCAmy2wx6SDhsyCP5"
     },
     {
       "album": {
@@ -3020,6 +3074,28 @@
     },
     {
       "album": {
+        "name": "HOPE ON THE STREET VOL.1",
+        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163598,
+      "name": "i wonder... (with Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
+    },
+    {
+      "album": {
         "name": "I'm Here",
         "url": "https://open.spotify.com/album/6kJBXVKxcFB92VUdn50llC"
       },
@@ -3067,7 +3143,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249106,
       "name": "If I Had A Gun\u2026",
       "url": "https://open.spotify.com/track/4i4ArYpqtsA3MJ1k0o2dxq"
@@ -3085,7 +3161,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226350,
       "name": "if it's not you",
       "url": "https://open.spotify.com/track/33G8ZVKLhqpcy67zdJ0hGJ"
@@ -3367,7 +3443,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137356,
       "name": "Kalimat Cinta (From Viu Original \"Private Bodyguard\")",
       "url": "https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw"
@@ -3403,7 +3479,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234546,
       "name": "Karena Kamu",
       "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
@@ -3609,6 +3685,28 @@
       "duration_ms": 253333,
       "name": "Kerasnya Kota",
       "url": "https://open.spotify.com/track/6jkMvmZNH8vszD0dLbUMaj"
+    },
+    {
+      "album": {
+        "name": "Ketipak Ketipung Raya",
+        "url": "https://open.spotify.com/album/1rP89pooj6Y82ZCylqUzX6"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150882,
+      "name": "Ketipak Ketipung Raya",
+      "url": "https://open.spotify.com/track/7eaCFseO4fOljCMxLTM5ta"
     },
     {
       "album": {
@@ -4002,6 +4100,24 @@
     },
     {
       "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "LIKE THAT",
+      "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -4223,10 +4339,28 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271080,
       "name": "Love wins all",
       "url": "https://open.spotify.com/track/0djkJ3iAARXRCbfbwwVc3o"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Love You With All My Heart",
+      "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
     },
     {
       "album": {
@@ -4241,7 +4375,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188000,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC"
@@ -4331,7 +4465,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195520,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE"
@@ -4444,6 +4578,24 @@
     },
     {
       "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
+    },
+    {
+      "album": {
         "name": "Por Vida",
         "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
       },
@@ -4527,7 +4679,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263800,
       "name": "Mengapa",
       "url": "https://open.spotify.com/track/1QgYZyDzY22JkXbAuoYZBe"
@@ -4705,7 +4857,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78036,
       "name": "MONEY! (Money Money, Green Green)",
       "url": "https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0"
@@ -5191,7 +5343,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -5285,7 +5437,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271267,
       "name": "Panasea",
       "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
@@ -5469,6 +5621,24 @@
       "duration_ms": 260346,
       "name": "penjaga hati",
       "url": "https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO"
+    },
+    {
+      "album": {
+        "name": "Penolong Yang Setia",
+        "url": "https://open.spotify.com/album/6Adr2FRz6LK4Uzx7JzpWMe"
+      },
+      "artists": [
+        {
+          "name": "Melitha Sidabutar",
+          "url": "https://open.spotify.com/artist/4Qcaozre1Spe8vbQtolgWu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253013,
+      "name": "Penolong Yang Setia",
+      "url": "https://open.spotify.com/track/1GnI8blHYhoC6WK5LIvNUn"
     },
     {
       "album": {
@@ -5711,7 +5881,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124595,
       "name": "prince of egypt",
       "url": "https://open.spotify.com/track/44U5sw3AvxKI0Sy0tYakll"
@@ -5873,7 +6043,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178133,
       "name": "Really Like You",
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
@@ -5913,6 +6083,24 @@
       "duration_ms": 218880,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "album": {
+        "name": "Renegade - The 1st Single",
+        "url": "https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6"
+      },
+      "artists": [
+        {
+          "name": "LUCAS",
+          "url": "https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193698,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47"
     },
     {
       "album": {
@@ -6484,6 +6672,28 @@
     },
     {
       "album": {
+        "name": "Sepenuh Hati",
+        "url": "https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247820,
+      "name": "Sepenuh Hati",
+      "url": "https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd"
+    },
+    {
+      "album": {
         "name": "Perayaan Patah Hati - Babak 1",
         "url": "https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa"
       },
@@ -6567,7 +6777,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220243,
       "name": "Setia",
       "url": "https://open.spotify.com/track/7aqMkjcUMFvv5cQIqnevts"
@@ -6611,6 +6821,24 @@
       "duration_ms": 174626,
       "name": "She Don't Know She's Beautiful",
       "url": "https://open.spotify.com/track/2oyS4THTUzUxT2lnHGzzIr"
+    },
+    {
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
       "album": {
@@ -6857,7 +7085,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
@@ -7230,6 +7458,24 @@
     },
     {
       "album": {
+        "name": "1st Mini Album 'MANITO'",
+        "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "T.B.H",
+      "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
+    },
+    {
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -7299,7 +7545,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179841,
       "name": "Tak Dianggap",
       "url": "https://open.spotify.com/track/2lMQOAKPam2JVEfNsZtWDe"
@@ -7533,7 +7779,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157906,
       "name": "TAP",
       "url": "https://open.spotify.com/track/1JxRZB6gjp3nsn2jUIaXMs"
@@ -7555,7 +7801,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251600,
       "name": "Tapi Tahukah Kamu?",
       "url": "https://open.spotify.com/track/4SW9fIXaX6OxJhm9gspkDG"
@@ -7728,6 +7974,24 @@
     },
     {
       "album": {
+        "name": "Top Hits Sunda Togel",
+        "url": "https://open.spotify.com/album/2XPl4bdQyIYizpcMi4QrOm"
+      },
+      "artists": [
+        {
+          "name": "Doel Sumbang",
+          "url": "https://open.spotify.com/artist/7uK1hDwCzfG6qyOlxxb8AD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "Teteh",
+      "url": "https://open.spotify.com/track/1inTM4gzLWIxle8iSUq3SZ"
+    },
+    {
+      "album": {
         "name": "Scenery",
         "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
       },
@@ -7775,7 +8039,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231920,
       "name": "The Cut That Always Bleeds",
       "url": "https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd"
@@ -7952,6 +8216,24 @@
     },
     {
       "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -8051,7 +8333,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192240,
       "name": "TRUE",
       "url": "https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov"
@@ -8145,7 +8427,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -8503,7 +8785,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220946,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt"
@@ -8557,7 +8839,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170360,
       "name": "Wish You Hell",
       "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
@@ -8785,7 +9067,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186466,
       "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"

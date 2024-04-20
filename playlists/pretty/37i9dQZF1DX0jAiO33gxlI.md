@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rincon Sapiência
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,069 likes - 73 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,447 likes - 73 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

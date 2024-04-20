@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 176079,
+  "2024-04-20": 176033,
   "date_first_scraped": "2024-01-30",
   "description": "Go inside the music from the Marvel worlds that you love!",
   "name": "Marvel Music",
@@ -745,10 +745,52 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133697,
       "name": "Echo",
       "url": "https://open.spotify.com/track/2W1819JHLnNhB4paubiPWK"
+    },
+    {
+      "album": {
+        "name": "Echo (From \"Echo\")",
+        "url": "https://open.spotify.com/album/1Fp8O0KHxXodPjvIAdUiCY"
+      },
+      "artists": [
+        {
+          "name": "Dave Porter",
+          "url": "https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5"
+        },
+        {
+          "name": "Brenner Billy",
+          "url": "https://open.spotify.com/artist/39s2fv1CDe6pxNT3Kne2pj"
+        },
+        {
+          "name": "Bryon \"Mahli\" Billy",
+          "url": "https://open.spotify.com/artist/4JHxRNU2YIhFMK6PpzbHso"
+        },
+        {
+          "name": "Philip L. Billy",
+          "url": "https://open.spotify.com/artist/1muYBPXPmzBlQIcSoize2D"
+        },
+        {
+          "name": "Lisa Johnson-Billy",
+          "url": "https://open.spotify.com/artist/4WFBUcHNMlLx2EqYsaFbMn"
+        },
+        {
+          "name": "Alisha Williams",
+          "url": "https://open.spotify.com/artist/6w6aLgf6yZPXXaZ4ZSb63T"
+        },
+        {
+          "name": "Seth Fairchild",
+          "url": "https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132638,
+      "name": "Echo - From \"Echo\"",
+      "url": "https://open.spotify.com/track/7MNFjEqc7G4kjskQSz7Bxn"
     },
     {
       "album": {

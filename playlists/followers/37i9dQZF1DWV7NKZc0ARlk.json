@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 171394,
+  "2024-04-20": 171575,
   "date_first_scraped": "2023-11-26",
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
   "name": "Vivo de Pop",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194266,
       "name": "Ay Amor - Primera Fila Flans [En Vivo]",
       "url": "https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223266,
       "name": "Confieso - En Vivo",
       "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
@@ -261,6 +261,24 @@
     {
       "album": {
         "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212638,
+      "name": "D\u00eda De Suerte",
+      "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
+    },
+    {
+      "album": {
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
         "url": "https://open.spotify.com/album/5Ew8Kk0D4LuZFKTBh9ckDn"
       },
       "artists": [
@@ -271,7 +289,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212638,
       "name": "D\u00eda De Suerte",
       "url": "https://open.spotify.com/track/3rvCwVlf4cXcXeNLb8QIsB"
@@ -293,6 +311,42 @@
       "duration_ms": 262840,
       "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
       "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
+    },
+    {
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "El Pr\u00f3ximo Viernes - Live Version",
+      "url": "https://open.spotify.com/track/3ug4KguxOFtVOpq2zDY6uh"
+    },
+    {
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
     },
     {
       "album": {
@@ -340,6 +394,28 @@
     },
     {
       "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277946,
+      "name": "Estoy Enamorado (with Pedro Cap\u00f3) - Live Version",
+      "url": "https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ"
+    },
+    {
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -373,7 +449,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226373,
       "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
       "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
@@ -478,6 +554,28 @@
     },
     {
       "album": {
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        },
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340915,
+      "name": "Llama Por Favor - Live At Palacio De Los Deportes, M\u00e9xico/2011",
+      "url": "https://open.spotify.com/track/7wX3d2vKDMRxS1jyEdYlvK"
+    },
+    {
+      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -547,7 +645,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362320,
       "name": "Mi Credo (En Vivo)",
       "url": "https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo"
@@ -745,7 +843,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305120,
       "name": "Prometiste (En Vivo)",
       "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
@@ -771,6 +869,24 @@
       "duration_ms": 297205,
       "name": "Qui\u00e9n (feat. Alejandro Sanz) - En directo",
       "url": "https://open.spotify.com/track/6a46HjzJUcpUGEsbwvEh9E"
+    },
+    {
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2024-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277640,
+      "name": "Qu\u00e9 Ser\u00e1 de Ti - Como Vai Voce (Live Version)",
+      "url": "https://open.spotify.com/track/26eGXAycoJtHYZuKXuki3Z"
     },
     {
       "album": {

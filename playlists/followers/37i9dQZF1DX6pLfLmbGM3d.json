@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 107896,
+  "2024-04-20": 107998,
   "date_first_scraped": "2023-04-11",
   "description": "Let's DIVE into IVE.",
   "name": "This Is IVE",
@@ -17,10 +17,46 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176973,
       "name": "After LIKE",
       "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/6naCRqrE036Uojfz7Jk64c"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "After LIKE (Holiday Remix)",
+      "url": "https://open.spotify.com/track/5ZzFww6qXDJZIhObXrJ8E2"
     },
     {
       "album": {
@@ -35,7 +71,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172400,
       "name": "After LIKE - Holiday Remix",
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
@@ -109,10 +145,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167546,
       "name": "Blue Blood",
       "url": "https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/7b9F8G4wfQd5wJmwHVyV1v"
     },
     {
       "album": {
@@ -127,10 +181,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194680,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/3cw6T3OEgqLiqEDLDQPSnE"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194680,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/5EFoPlYE77qjYk1V9Tcau9"
     },
     {
       "album": {
@@ -217,10 +289,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171466,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/171vXOYrexGMVNEMA5rs00"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/181TBQxn46cDUxY2ssemLg"
     },
     {
       "album": {
@@ -243,6 +333,24 @@
     {
       "album": {
         "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/7uJGQn40P55sT78IAgxFnD"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
@@ -253,10 +361,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/7KavHYqoVFNB3IUXfs5gvP"
     },
     {
       "album": {
@@ -279,6 +405,24 @@
     {
       "album": {
         "name": "Kitsch",
+        "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
+    },
+    {
+      "album": {
+        "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
       "artists": [
@@ -297,6 +441,24 @@
     {
       "album": {
         "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/5kRMDu7nOelODru9ZmwbLl"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
@@ -307,7 +469,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
@@ -325,10 +487,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181400,
       "name": "Lips",
       "url": "https://open.spotify.com/track/0dRSOmb7pqkkmjXCu5BYbe"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Lips",
+      "url": "https://open.spotify.com/track/4BhGSAx2NTc7Ciw8AutWWM"
     },
     {
       "album": {
@@ -379,10 +559,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190426,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2wsRZURBbDbaQUuVT9piu1"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190426,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7xcVfRQTIwTQrDJN29llIx"
     },
     {
       "album": {
@@ -413,6 +611,24 @@
     {
       "album": {
         "name": "After LIKE",
+        "url": "https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "My Satisfaction",
+      "url": "https://open.spotify.com/track/2jaZpjWHv68e2FYr0v3WUj"
+    },
+    {
+      "album": {
+        "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
       "artists": [
@@ -423,10 +639,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193000,
       "name": "My Satisfaction",
       "url": "https://open.spotify.com/track/3Owz3vrIE44Hvt0sLsfwHI"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199226,
+      "name": "Next Page",
+      "url": "https://open.spotify.com/track/3F9g4SKmZoF0QEaj7z4djn"
     },
     {
       "album": {
@@ -441,10 +675,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202106,
       "name": "NOT YOUR GIRL",
       "url": "https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "NOT YOUR GIRL",
+      "url": "https://open.spotify.com/track/1lxogiPpAYoQCbeesByaE5"
     },
     {
       "album": {
@@ -567,10 +819,28 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224746,
       "name": "Shine With Me",
       "url": "https://open.spotify.com/track/3L7pilDxJhZz1fP6t4D9P9"
+    },
+    {
+      "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/0HDHNz6LfL46dbl9pG51g4"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224746,
+      "name": "Shine With Me",
+      "url": "https://open.spotify.com/track/5cX4nQtyCjXvfuAHQ3Pu50"
     },
     {
       "album": {
@@ -621,7 +891,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199226,
       "name": "\uad81\uae08\ud574 (Next Page)",
       "url": "https://open.spotify.com/track/5vYsQareJoW2jRJjiTFo6K"
@@ -639,7 +909,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146893,
       "name": "\uc12c\ucc1f (Hypnosis)",
       "url": "https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT"

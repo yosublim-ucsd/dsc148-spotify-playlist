@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 663095,
+  "2024-04-20": 662879,
   "date_first_scraped": "2022-05-30",
   "description": "New Music from Kollywood.\nCover : GOAT",
   "name": "Latest Tamil",
@@ -681,8 +681,8 @@
           "url": "https://open.spotify.com/artist/6XaNXEfQxuGqvzcHEwX6Qw"
         },
         {
-          "name": "Vignesh Srikanth",
-          "url": "https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1"
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
         }
       ],
       "date_added": "2024-04-15",
@@ -1331,10 +1331,32 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147157,
       "name": "Aiyayayo",
       "url": "https://open.spotify.com/track/7FH1aRrA6NHhVJ2s1FWq3S"
+    },
+    {
+      "album": {
+        "name": "Hot Spot",
+        "url": "https://open.spotify.com/album/13g71MTaVV6LAOP3TMBiOf"
+      },
+      "artists": [
+        {
+          "name": "VAAN",
+          "url": "https://open.spotify.com/artist/3HOz7dG29IuEzLJIRR6vVj"
+        },
+        {
+          "name": "Kaber Vasuki",
+          "url": "https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147157,
+      "name": "Aiyayayo",
+      "url": "https://open.spotify.com/track/7E9ZvVVnADvXk3dte3dLuY"
     },
     {
       "album": {
@@ -3786,6 +3808,36 @@
     },
     {
       "album": {
+        "name": "Teenz",
+        "url": "https://open.spotify.com/album/3aq5IWREDn1pTtmbyHTLwT"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/30K0TrAeBShuzrwvf60Be4"
+        },
+        {
+          "name": "Radhakrishnan Parthiban",
+          "url": "https://open.spotify.com/artist/5TQgCYvAeDLhIASGGUYiDP"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251273,
+      "name": "Bibli Bibli Bili Bili",
+      "url": "https://open.spotify.com/track/1bYjBCYNMhVbYEzJPyk96U"
+    },
+    {
+      "album": {
         "name": "Teenz (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25pz5qUNSjQzXvlYqYOUpH"
       },
@@ -3809,7 +3861,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251273,
       "name": "Bibli Bibli Bili Bili",
       "url": "https://open.spotify.com/track/7Lzgc6JVsQEAjGmd4iuh7T"
@@ -4221,7 +4273,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152142,
       "name": "Chakara Muthey (From \"Rebel\")",
       "url": "https://open.spotify.com/track/5oJOkHOZ52zmOzkb13vEf1"
@@ -4247,7 +4299,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 152142,
       "name": "Chakara Muthey (From \"Rebel\")",
       "url": "https://open.spotify.com/track/0Z0fFNACgne65IVGtjxv7Y"
@@ -5982,6 +6034,32 @@
     },
     {
       "album": {
+        "name": "Election Song (From \"Election\")",
+        "url": "https://open.spotify.com/album/5JGFOQdsOJ8sXi07pX9RzC"
+      },
+      "artists": [
+        {
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
+        },
+        {
+          "name": "Gnanakaravel",
+          "url": "https://open.spotify.com/artist/5ymmcv9gJOl3glWb1T2Zij"
+        },
+        {
+          "name": "Mukesh Mohamed",
+          "url": "https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267988,
+      "name": "Election Song (From \"Election\")",
+      "url": "https://open.spotify.com/track/5K0n9Y8MDYOm5MlS3A5U2l"
+    },
+    {
+      "album": {
         "name": "Ella Ella - Ganster Gangaraju",
         "url": "https://open.spotify.com/album/7Ii0a6dZbDjmRkb0TegHqr"
       },
@@ -6841,6 +6919,28 @@
       "duration_ms": 198800,
       "name": "Enta Maatatha (From \"Raid\")",
       "url": "https://open.spotify.com/track/07R9SQOqX8gnRckfg8IorP"
+    },
+    {
+      "album": {
+        "name": "Ente Omane",
+        "url": "https://open.spotify.com/album/6rzU18Td3s0fRHuRrkpbxx"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Harsha Vardhan",
+          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216749,
+      "name": "Ente Omane",
+      "url": "https://open.spotify.com/track/4UiTkQk7CFSwgg10oIeARW"
     },
     {
       "album": {
@@ -7907,7 +8007,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243901,
       "name": "Hey Nainika",
       "url": "https://open.spotify.com/track/5VeQNSTFSxZlb7NrPVGh20"
@@ -7933,7 +8033,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 243901,
       "name": "Hey Nainika (From \"Teenz\")",
       "url": "https://open.spotify.com/track/0ZY0Q4nfMnMUuCDKDNeadn"
@@ -9111,7 +9211,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260108,
       "name": "Jaragandi (From \"Game Changer\")",
       "url": "https://open.spotify.com/track/7Hzz0upjF4yyj2H2BsllSF"
@@ -9167,7 +9267,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 260108,
       "name": "Jaragandi (From \"Game Changer\") (Tamil)",
       "url": "https://open.spotify.com/track/1I7eEJRpbmvCHrArF674rE"
@@ -9781,10 +9881,32 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251527,
       "name": "Kaanaathathai Naan Kandeney (From \" Teenz\")",
       "url": "https://open.spotify.com/track/7ekmGRoA6Hy70jSz10RFuA"
+    },
+    {
+      "album": {
+        "name": "Kaanaathathai Naan Kandeney (From \"Teenz\")",
+        "url": "https://open.spotify.com/album/2eutSAtl3J29xYM2Cqrgn0"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2024-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251527,
+      "name": "Kaanaathathai Naan Kandeney (From \"Teenz\")",
+      "url": "https://open.spotify.com/track/0p0jsWZMKWNDlg6uvS4Jgr"
     },
     {
       "album": {
@@ -10039,7 +10161,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 215990,
       "name": "Kaatu Puli Uru Urumma (From \"Kaa - The Forest\")",
       "url": "https://open.spotify.com/track/1Jgryr8cCeflPcCR8VsK2l"
@@ -10069,7 +10191,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215990,
       "name": "Kaatu Puli Uru Urumma - Kaa (From \"The Forest\")",
       "url": "https://open.spotify.com/track/7BYQ3LZfmTFVlxiQCNPSeW"
@@ -11198,6 +11320,32 @@
     },
     {
       "album": {
+        "name": "DeAr (Tamil)",
+        "url": "https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ajai S Khashyap",
+          "url": "https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "Kannadi Nilave",
+      "url": "https://open.spotify.com/track/6o6qco57cMAqBkSmoW68yP"
+    },
+    {
+      "album": {
         "name": "Mission (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6vWF3oMRm5cglDC6fbbC4m"
       },
@@ -12233,10 +12381,36 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253082,
       "name": "Konjam Pakkam Vaa (From \"JINN-The Pet\")",
       "url": "https://open.spotify.com/track/2q213WpX8T9ZRBj1Z9I53P"
+    },
+    {
+      "album": {
+        "name": "Konjam Pakkam Vaa (From \"JINN-The Pet\")",
+        "url": "https://open.spotify.com/album/6UG8i5b8MytlMEo6K5IDUa"
+      },
+      "artists": [
+        {
+          "name": "Vivek - Mervin",
+          "url": "https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        }
+      ],
+      "date_added": "2024-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253082,
+      "name": "Konjam Pakkam Vaa (From \"JINN-The Pet\")",
+      "url": "https://open.spotify.com/track/3l0BiJ9d4883WTokcv2Nsw"
     },
     {
       "album": {
@@ -12595,6 +12769,32 @@
     {
       "album": {
         "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
+        "url": "https://open.spotify.com/album/50gPcC24AhRmimWeHZGGYf"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Vignesh Shivan",
+          "url": "https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236025,
+      "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
+      "url": "https://open.spotify.com/track/65mFo8Otbl5FBsg82kWsWR"
+    },
+    {
+      "album": {
+        "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
         "url": "https://open.spotify.com/album/5p6Zi9WXx6sEjdKAa7SBYY"
       },
       "artists": [
@@ -12605,7 +12805,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236025,
       "name": "Kulukku Kulukku (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/0NNZnx8h1QdmSXOg9SBJlO"
@@ -13621,7 +13821,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 236212,
       "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja"
@@ -13651,7 +13851,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236212,
       "name": "Maayoney (From \"Inga Naan Thaan Kingu\")",
       "url": "https://open.spotify.com/track/0oD9hUPvILOoLtq5Orii1z"
@@ -13980,6 +14180,32 @@
     },
     {
       "album": {
+        "name": "Maja Wedding (From \"DeAr\")",
+        "url": "https://open.spotify.com/album/1YKWIodEml3D9H2EMQqPn1"
+      },
+      "artists": [
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261653,
+      "name": "Maja Wedding (From \"DeAr\")",
+      "url": "https://open.spotify.com/track/1c7Rr4RUr9KgJTqRgZiRTy"
+    },
+    {
+      "album": {
         "name": "Maja Wedding (From \"Dear\")",
         "url": "https://open.spotify.com/album/065JztS0KQpCTZomuEDEiI"
       },
@@ -14003,7 +14229,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261653,
       "name": "Maja Wedding (From \"DeAr\")",
       "url": "https://open.spotify.com/track/5A004PGwxeJoNR1KOkoHoK"
@@ -15916,6 +16142,32 @@
     },
     {
       "album": {
+        "name": "DeAr (Tamil)",
+        "url": "https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Harsh Vardhan",
+          "url": "https://open.spotify.com/artist/5eraxpPvxi7U1HMLuLwLHS"
+        },
+        {
+          "name": "K. Sivaangi",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "My Dear Pondatti",
+      "url": "https://open.spotify.com/track/2zdRh41xTEVAGi1QgkFGiC"
+    },
+    {
+      "album": {
         "name": "Myna Myna (From \"Janakiram\") (Tamil)",
         "url": "https://open.spotify.com/album/2HMzB2R2Y2PVmvapgfLXOl"
       },
@@ -16592,6 +16844,32 @@
     },
     {
       "album": {
+        "name": "The Family Star",
+        "url": "https://open.spotify.com/album/1MqltSaGxVy4NFp81Zg9MK"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299117,
+      "name": "Nandanandanaa",
+      "url": "https://open.spotify.com/track/3aMozoUv47XXfPmdBfsSIE"
+    },
+    {
+      "album": {
         "name": "Nandanandanaa (From \"The Family Star\")",
         "url": "https://open.spotify.com/album/4b4CeCF3AsME3i4qCpV0tS"
       },
@@ -17146,6 +17424,32 @@
     },
     {
       "album": {
+        "name": "Neenamaanoo (From \"High School Kadhal\")",
+        "url": "https://open.spotify.com/album/5ds4hVdHMsg9Gs22XXxqdV"
+      },
+      "artists": [
+        {
+          "name": "Manassa Jaishankar",
+          "url": "https://open.spotify.com/artist/3Lmle7d84HvlB6K2zoYyBn"
+        },
+        {
+          "name": "Ajai S Khashyap",
+          "url": "https://open.spotify.com/artist/5dW8IcqAqgqrUNWEBYmj3A"
+        },
+        {
+          "name": "Narendra Kumar",
+          "url": "https://open.spotify.com/artist/0MAQcaep68XUrQ2QsX70d2"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Neenamaanoo (From \"High School Kadhal\")",
+      "url": "https://open.spotify.com/track/6t9L1epTeWzYPjeTY6umZC"
+    },
+    {
+      "album": {
         "name": "Neenamaanoo (From 'High School Kadhal\")",
         "url": "https://open.spotify.com/album/4Z5cCmh6u1Nxx4bw39uEGU"
       },
@@ -17165,7 +17469,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245000,
       "name": "Neenamaanoo (From 'High School Kadhal\")",
       "url": "https://open.spotify.com/track/5619qRKs1ACJ61XqS4UmE4"
@@ -17383,6 +17687,28 @@
       "duration_ms": 166942,
       "name": "Nenjil Oru Minnal",
       "url": "https://open.spotify.com/track/19NHHjnMN52OXPUMjo5XfB"
+    },
+    {
+      "album": {
+        "name": "DeAr (Tamil)",
+        "url": "https://open.spotify.com/album/4R3ph8uR9ygLGq1Cz7MLEI"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Nenjodu Nee (Female)",
+      "url": "https://open.spotify.com/track/5BSd4qcgiPfbpUnauY3bDm"
     },
     {
       "album": {
@@ -23130,6 +23456,32 @@
     },
     {
       "album": {
+        "name": "Sleeping Beauty (From \"DeAr\")",
+        "url": "https://open.spotify.com/album/4FxcBtHWk1FDiak4AtxmE6"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290769,
+      "name": "Sleeping Beauty (From \"DeAr\")",
+      "url": "https://open.spotify.com/track/6iAPCtPNxbMmvJTZ7FaJdj"
+    },
+    {
+      "album": {
         "name": "Sleeping Beauty (From \"Dear\")",
         "url": "https://open.spotify.com/album/40kKRmp4k7dPXZE1wrO5Bn"
       },
@@ -23149,7 +23501,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290769,
       "name": "Sleeping Beauty (From \"DeAr\")",
       "url": "https://open.spotify.com/track/46QHMVhz5cikuAoSOlrpgK"
@@ -23555,6 +23907,40 @@
     {
       "album": {
         "name": "Starlight (From \"Musasi\")",
+        "url": "https://open.spotify.com/album/3UrA7HcgNQ6dfAwKGHeeos"
+      },
+      "artists": [
+        {
+          "name": "Leander Lee Marty",
+          "url": "https://open.spotify.com/artist/49GHydwfSzTUZS4SFOV8Q3"
+        },
+        {
+          "name": "Christopher Stanley",
+          "url": "https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X"
+        },
+        {
+          "name": "Shilvi Sharon",
+          "url": "https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr"
+        },
+        {
+          "name": "Charu Hariharan",
+          "url": "https://open.spotify.com/artist/4E9HVb4iW6DkBRQv1UVmnf"
+        },
+        {
+          "name": "Avien",
+          "url": "https://open.spotify.com/artist/3Nj9nveDtX5eAQ3UzvWQvv"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260806,
+      "name": "Starlight (From \"Musasi\")",
+      "url": "https://open.spotify.com/track/1n1kR9kwsp4GnxuSxKZEQW"
+    },
+    {
+      "album": {
+        "name": "Starlight (From \"Musasi\")",
         "url": "https://open.spotify.com/album/3i6OyAVBnrwFB7YT2qhmlN"
       },
       "artists": [
@@ -23589,7 +23975,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260806,
       "name": "Starlight (From \"Musasi\")",
       "url": "https://open.spotify.com/track/241RIrJhb5FkuLSE9h9I6Z"
@@ -24319,10 +24705,32 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238125,
       "name": "Thalavali (From \" DeAr\")",
       "url": "https://open.spotify.com/track/7E2BJk4nCXtjVAtONGFZIf"
+    },
+    {
+      "album": {
+        "name": "Thalavali (From \"DeAr\")",
+        "url": "https://open.spotify.com/album/5DmK2CJZEnFDoMPy9UtIqN"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Vinnulaga Kavi",
+          "url": "https://open.spotify.com/artist/3Zd7kXxF13mdKLz4ocMHkQ"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238125,
+      "name": "Thalavali (From \"DeAr\")",
+      "url": "https://open.spotify.com/track/7vEVXVDCx6m6qrhqIvmIlX"
     },
     {
       "album": {
@@ -28069,10 +28477,36 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248470,
       "name": "Valikudhey (From \"SHARADA - Rori Edition 1\")",
       "url": "https://open.spotify.com/track/6Rd5DGxT6rokeaWgnflId2"
+    },
+    {
+      "album": {
+        "name": "Valikudhey (From \"SHARADA - Rori Edition 1\") (Tamil)",
+        "url": "https://open.spotify.com/album/75ZXeVeb1Wxu2uqun0OmJf"
+      },
+      "artists": [
+        {
+          "name": "V2 Vijay Vicky",
+          "url": "https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "Valikudhey (From \"SHARADA - Rori Edition 1\") (Tamil)",
+      "url": "https://open.spotify.com/track/2XXWL9D8cnImvxosZd6s6p"
     },
     {
       "album": {
@@ -29256,6 +29690,44 @@
     },
     {
       "album": {
+        "name": "Teenz",
+        "url": "https://open.spotify.com/album/3aq5IWREDn1pTtmbyHTLwT"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Janaki Easwar",
+          "url": "https://open.spotify.com/artist/2GW2PAJBvHcylpYS88oIll"
+        },
+        {
+          "name": "Neha",
+          "url": "https://open.spotify.com/artist/0W96IMICy1mC4FHeZ5aF0O"
+        },
+        {
+          "name": "Krishaang",
+          "url": "https://open.spotify.com/artist/0gUuwOF6JsIgkPXIINSjz0"
+        },
+        {
+          "name": "Nanda",
+          "url": "https://open.spotify.com/artist/4GHgypuXoigBQ6kcFGEnnV"
+        },
+        {
+          "name": "Aanyah",
+          "url": "https://open.spotify.com/artist/0V6KKR5g7UkEf9e0EvULlo"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198064,
+      "name": "We Are The Teenz",
+      "url": "https://open.spotify.com/track/060LfGNxONttbFIilya7U4"
+    },
+    {
+      "album": {
         "name": "Teenz (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25pz5qUNSjQzXvlYqYOUpH"
       },
@@ -29287,7 +29759,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198064,
       "name": "We Are The Teenz",
       "url": "https://open.spotify.com/track/1YFU1iJRTJDmzH8r19iNIZ"

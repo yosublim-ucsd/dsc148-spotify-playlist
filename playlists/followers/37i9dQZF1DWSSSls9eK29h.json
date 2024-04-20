@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 138123,
+  "2024-04-20": 138189,
   "date_first_scraped": "2022-01-01",
   "description": "So smooth, so classic. Cover: George Benson",
   "name": "Smooth Jazz Classics",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 313066,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/37EuKZ0JQZAsjp2I4EOlTG"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313066,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314080,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2tVoDf1EOvE7VInpND2iWq"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314080,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/4qOSCREAKK2OnuDqzyTMzr"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/4DLLQrlwZSjlpbJgHlI42U"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220773,
       "name": "Creepin'",
       "url": "https://open.spotify.com/track/6B4h6RRIQWRgXALcOjYLPo"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 300973,
       "name": "For the Love of You",
       "url": "https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301080,
       "name": "For The Love Of You",
       "url": "https://open.spotify.com/track/6v1PdVz3ZIpa7TeiljQTJL"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/21WpdxJBnEGtV04wWOtSNp"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289866,
       "name": "Just Between Us",
       "url": "https://open.spotify.com/track/2r2A4NxWuFD9x0RxB2zthQ"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 256933,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/4fSHesUea71Bw48PlMROLi"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256986,
       "name": "Just Hold Me",
       "url": "https://open.spotify.com/track/3MTIeU2fiDRA8GkHjimgwy"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236466,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/03RHLun8Ni9yFjA7vNGOkY"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236466,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/7oTaBk0IrTeO7dKlUIn1k1"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 274826,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/3ZDDCrqWqDDQT1M3TCI3dO"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275333,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/5yUImzMKMFku3Kyj8CnD74"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289040,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/2A9sVZ6nXEwX8O3OfDnjnP"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289040,
       "name": "So Amazing",
       "url": "https://open.spotify.com/track/6vRfKcVF63Chfd63VQyqhT"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/21iN7FZMdvRQarVn4hJbWh"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291533,
       "name": "The Way To You",
       "url": "https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP"

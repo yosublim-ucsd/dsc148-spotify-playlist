@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 16036,
+  "2024-04-20": 16036,
   "date_first_scraped": "2021-12-28",
   "description": "<a href=\"spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2\"> Maya Jane Coles</a>' favorite tracks. Updated regularly. Curated by Maya Jane Coles Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Maya Jane Coles' track IDs",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "A Sufi And A Killer",
+        "url": "https://open.spotify.com/album/3FfW96Pt3UxQlchDVhkaFi"
+      },
+      "artists": [
+        {
+          "name": "Gonjasufi",
+          "url": "https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/4M4pvnVwdpQnd7wPIQI3h4"
+    },
+    {
+      "album": {
         "name": "Warp Records Sampler 2010",
         "url": "https://open.spotify.com/album/3g3Z2HbOvMoGlG9r3KxyBy"
       },
@@ -71,7 +89,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157466,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/1eYsvMckAi04KcmRBvbtV2"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Cake a Blow",
       "url": "https://open.spotify.com/track/266O0ONX1Fl6Hx1DpND3sb"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216000,
       "name": "Cake a Blow",
       "url": "https://open.spotify.com/track/5I3ArKM5WGXBEBQRIUayXx"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375338,
       "name": "Come - Dub Mix",
       "url": "https://open.spotify.com/track/0T9EsPSTTpxHOvUe6FPukG"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 375338,
       "name": "Come - Dub Mix",
       "url": "https://open.spotify.com/track/5JWYSFTiiMlf062LWImKV7"
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 187977,
       "name": "COMMA$",
       "url": "https://open.spotify.com/track/1kTBNfR261qWCxwZsH86b9"
@@ -427,7 +445,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187977,
       "name": "COMMA$",
       "url": "https://open.spotify.com/track/6aUButsd7M5gkPNLXu5cc3"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 231388,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/1ZMwrSeySXH5Ys2cwOfZvC"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231388,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy"
@@ -780,6 +798,28 @@
     },
     {
       "album": {
+        "name": "Hard Drive Gold (Maya Jane Coles Remix)",
+        "url": "https://open.spotify.com/album/0aObIgDpSc4XCOve6mvNtA"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        },
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313906,
+      "name": "Hard Drive Gold - Maya Jane Coles Remix",
+      "url": "https://open.spotify.com/track/02MILoESiCZEnbJ6mPiMsG"
+    },
+    {
+      "album": {
         "name": "The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/58LG7c1GqHKIDtGH1dsDLd"
       },
@@ -795,7 +835,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313906,
       "name": "Hard Drive Gold - Maya Jane Coles Remix",
       "url": "https://open.spotify.com/track/36nPdSMOJexTZFGHXrVihF"
@@ -835,7 +875,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292727,
       "name": "Head Rush",
       "url": "https://open.spotify.com/track/5m7cPQSEeMVqqhaW5FnjZX"
@@ -853,7 +893,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 292727,
       "name": "Head Rush",
       "url": "https://open.spotify.com/track/7FZWiDRvXC91nwhTkquBzd"
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259687,
       "name": "NY To Rome",
       "url": "https://open.spotify.com/track/6nBfCtCTFlie6D3omZd2Xq"
@@ -1267,7 +1307,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 259687,
       "name": "NY To Rome",
       "url": "https://open.spotify.com/track/3g9hlwapLW4DQ7ofi4M1Ie"
@@ -1329,7 +1369,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 162493,
       "name": "Possessed (feat. Peaches)",
       "url": "https://open.spotify.com/track/01kVcWv9qTwhNAU5Zw3Qde"
@@ -1355,7 +1395,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162493,
       "name": "Possessed (feat. Peaches)",
       "url": "https://open.spotify.com/track/1KH2vg723cxJyRZtImgKF2"
@@ -1391,7 +1431,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 340240,
       "name": "push u away",
       "url": "https://open.spotify.com/track/1O55tsMSuIl72c0GZwlKTx"
@@ -1409,7 +1449,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340240,
       "name": "push u away",
       "url": "https://open.spotify.com/track/7LkJU7d39QFeCxmF4Efg4Y"
@@ -1879,7 +1919,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 360023,
       "name": "Voicebox",
       "url": "https://open.spotify.com/track/5GO6gvPD2DC3iZuxUUTsr7"
@@ -1901,7 +1941,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360023,
       "name": "Voicebox",
       "url": "https://open.spotify.com/track/5cL8ycomRSCux5x7gFIQS2"

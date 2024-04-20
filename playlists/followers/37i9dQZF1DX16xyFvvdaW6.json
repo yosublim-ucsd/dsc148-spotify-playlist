@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 141962,
+  "2024-04-20": 141539,
   "date_first_scraped": "2022-09-15",
   "description": "Los mejores temas del Rock Cristiano. \u00a1Dale al play y disfruta estos tremendos temazos!",
   "name": "Rock Cristiano",
@@ -114,6 +114,42 @@
     },
     {
       "album": {
+        "name": "Dias Mejores",
+        "url": "https://open.spotify.com/album/1faelqcXJKpp2O8K4FkkH2"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rivera",
+          "url": "https://open.spotify.com/artist/5k6kUa8aPcXy9TTmOAXX06"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267206,
+      "name": "Dias Mejores",
+      "url": "https://open.spotify.com/track/3sYJReZT3FdfszMVHlbRBU"
+    },
+    {
+      "album": {
+        "name": "Despierta Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/78ag6I5Yk5pRYbnbOzQxJY"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645440,
+      "name": "Dios Incomparable",
+      "url": "https://open.spotify.com/track/53L4o1As01bXRSvFzp31x7"
+    },
+    {
+      "album": {
         "name": "Despierta Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610"
       },
@@ -125,7 +161,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 645440,
       "name": "Dios Incomparable (Invitado: Marco Barrientos)",
       "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
@@ -143,7 +179,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267133,
       "name": "D\u00edas Mejores",
       "url": "https://open.spotify.com/track/6vtFTFXUa8dDV2DXnXAzhq"
@@ -161,7 +197,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243249,
       "name": "El H\u00e9roe De La Humanidad",
       "url": "https://open.spotify.com/track/2Ct8UONdpODoRYJKre38R1"
@@ -179,7 +215,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 243249,
       "name": "El H\u00e9roe De La Humanidad",
       "url": "https://open.spotify.com/track/61ZdhQyMoPmftovugJ7uk2"
@@ -222,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Memories (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0tiXUxBtGraV3sMjDQJuzY"
+      },
+      "artists": [
+        {
+          "name": "Strike 3",
+          "url": "https://open.spotify.com/artist/3hNpQuSjrFXElHOEzmwQ2l"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326066,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/5Iy1ewyP16XUKYLSlPBtgi"
+    },
+    {
+      "album": {
         "name": "Llevate El Tiempo",
         "url": "https://open.spotify.com/album/65tShWSVCNe5Fgj5ogLDBl"
       },
@@ -233,7 +287,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326066,
       "name": "Enamorado De Ti",
       "url": "https://open.spotify.com/track/6QQaNfFVNVBzCMCHfTcNln"
@@ -251,10 +305,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190293,
       "name": "Fe",
       "url": "https://open.spotify.com/track/2HlSpAMXFABYqYTOdT7C8m"
+    },
+    {
+      "album": {
+        "name": "Un Brote De Adoracion 2",
+        "url": "https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo"
+      },
+      "artists": [
+        {
+          "name": "Santo Remedio",
+          "url": "https://open.spotify.com/artist/6103ay1cM9Vux1EceF8CCZ"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/6WVrVeVXeREZp8aXRnh30E"
     },
     {
       "album": {
@@ -269,10 +341,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247133,
       "name": "Harto",
       "url": "https://open.spotify.com/track/5U0V9jjQie6QhNU3khHBhi"
+    },
+    {
+      "album": {
+        "name": "Como Me Ves?",
+        "url": "https://open.spotify.com/album/4nfoGNTVDZ9WXgvmL9H65k"
+      },
+      "artists": [
+        {
+          "name": "Zona 7",
+          "url": "https://open.spotify.com/artist/00NjBHJBqHJXIiKr9OLAhI"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247171,
+      "name": "Harto",
+      "url": "https://open.spotify.com/track/67SmmMagUwguyRfTMbbWzj"
     },
     {
       "album": {
@@ -287,7 +377,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 229068,
       "name": "La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/2I7bBpIx0X6yJcWY3AGNi1"
@@ -323,10 +413,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229068,
       "name": "La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/6TLsEUOdntbYlNYzIC3FaG"
+    },
+    {
+      "album": {
+        "name": "Un Tiempo Nuevo",
+        "url": "https://open.spotify.com/album/39gtt13f79a9EtHbYimHHx"
+      },
+      "artists": [
+        {
+          "name": "Gerry Marquez",
+          "url": "https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253832,
+      "name": "Libre Para Adorar",
+      "url": "https://open.spotify.com/track/4YbjKXcWB81ycfhUM4C4OW"
     },
     {
       "album": {
@@ -341,7 +449,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253800,
       "name": "Libre para Adorar (En Vivo)",
       "url": "https://open.spotify.com/track/0pKfAdb93p1moBIeNpdT7C"
@@ -359,10 +467,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258480,
       "name": "Libre Soy",
       "url": "https://open.spotify.com/track/4yblg7xlfOCz6OhHkx9P1L"
+    },
+    {
+      "album": {
+        "name": "Volver a Respirar",
+        "url": "https://open.spotify.com/album/5Ny9ZlJgHOrHN1SQtSe1r0"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258481,
+      "name": "Libre Soy",
+      "url": "https://open.spotify.com/track/0OAMwq3rT2ETraXhcZjv7O"
     },
     {
       "album": {
@@ -413,7 +539,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275513,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/0FmzOJb6VGMGkqfsvdeiGk"
@@ -431,7 +557,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 275513,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/2OUxFYzVubPW1uzBqcAQ4j"
@@ -521,10 +647,46 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273613,
       "name": "Mi Amado Dios",
       "url": "https://open.spotify.com/track/6HBo4ivgAuCOC3AWsVLl8Y"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de la M\u00fasica Cristiana",
+        "url": "https://open.spotify.com/album/739VThS5Uq7FlQTCe9IAhN"
+      },
+      "artists": [
+        {
+          "name": "Cristo Para Las Naciones Band",
+          "url": "https://open.spotify.com/artist/4EqHQ5btr5YYUroQKJzJq7"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275696,
+      "name": "Mi Amado Dios",
+      "url": "https://open.spotify.com/track/0TRNxsVPOQqMRouzH2i0Db"
+    },
+    {
+      "album": {
+        "name": "Paz a Lo Bien",
+        "url": "https://open.spotify.com/album/3q17XLNjopeammaiugc7t9"
+      },
+      "artists": [
+        {
+          "name": "Pescao Vivo",
+          "url": "https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Mi Fortuna",
+      "url": "https://open.spotify.com/track/5igbeY7E16lrlmihjA1D7p"
     },
     {
       "album": {
@@ -539,7 +701,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228110,
       "name": "Mi Fortuna",
       "url": "https://open.spotify.com/track/39JsvoZcpWvQHYlh12rn6l"
@@ -575,10 +737,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240600,
       "name": "No Voy a Mirar Atr\u00e1s",
       "url": "https://open.spotify.com/track/4qIWvUHQAbsXPZxhEaviJw"
+    },
+    {
+      "album": {
+        "name": "Morir a Mi",
+        "url": "https://open.spotify.com/album/0T3GnphchGM8bJiTcL203u"
+      },
+      "artists": [
+        {
+          "name": "Edgar Lira",
+          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "No Voy a Mirar Atr\u00e1s",
+      "url": "https://open.spotify.com/track/4soiQ9uVtlBpa6qRwKDhtW"
     },
     {
       "album": {
@@ -611,10 +791,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178653,
       "name": "Nunca para de Llover",
       "url": "https://open.spotify.com/track/2cI14t5e2KYKG4i39hdvXJ"
+    },
+    {
+      "album": {
+        "name": "Nunca para de Llover",
+        "url": "https://open.spotify.com/album/5VEJIRuyWuBK1jLFaZKf91"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178653,
+      "name": "Nunca para de Llover",
+      "url": "https://open.spotify.com/track/5ZMX8xKjQJ9R3yimWg6tk5"
     },
     {
       "album": {
@@ -701,10 +899,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248813,
       "name": "Que Se Llene Tu Casa",
       "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj"
     },
     {
       "album": {
@@ -727,6 +943,24 @@
     {
       "album": {
         "name": "Madrid 2011 (M\u00fasica para la JMJ / Music for WYD)",
+        "url": "https://open.spotify.com/album/1dgNP7NrxDBvuJwgxByvbU"
+      },
+      "artists": [
+        {
+          "name": "Padre Jony",
+          "url": "https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/1qrbboeBXxw2The5xq6OHp"
+    },
+    {
+      "album": {
+        "name": "Madrid 2011 (M\u00fasica para la JMJ / Music for WYD)",
         "url": "https://open.spotify.com/album/3UbwDXMWN6ewsV7V9SfKQd"
       },
       "artists": [
@@ -737,7 +971,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223626,
       "name": "Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/3On8E0EIn0lFMc2Jbc9k0v"
@@ -755,10 +989,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268826,
       "name": "Rey De Majestad",
       "url": "https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg"
+    },
+    {
+      "album": {
+        "name": "Imaginate",
+        "url": "https://open.spotify.com/album/6njwd4p9QanPYUwcGkbeSc"
+      },
+      "artists": [
+        {
+          "name": "Vertical",
+          "url": "https://open.spotify.com/artist/1hbkbFMzOqz9bW2KGPJrRW"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266653,
+      "name": "Rey De Majestad (King of Majesty)",
+      "url": "https://open.spotify.com/track/68AYw2AsE9PDXqecAGqaDM"
     },
     {
       "album": {
@@ -780,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Apasionado por Ti",
+        "url": "https://open.spotify.com/album/31tCkaF0h4BAubPd4hkLsB"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180419,
+      "name": "Sigui\u00e9ndote Los Pasos",
+      "url": "https://open.spotify.com/track/4FV62NKM79ekbq3QAvuBhe"
+    },
+    {
+      "album": {
         "name": "Apasionado Por Ti",
         "url": "https://open.spotify.com/album/17sFSyV70emgk2ES8zWdzd"
       },
@@ -791,7 +1061,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180584,
       "name": "Sigui\u00e9ndote Los Pasos",
       "url": "https://open.spotify.com/track/7oKiPeuyHCuAeV8Idsep1T"
@@ -835,6 +1105,24 @@
     {
       "album": {
         "name": "Incontenible Es Tu Amor",
+        "url": "https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235070,
+      "name": "Somos Libres",
+      "url": "https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv"
+    },
+    {
+      "album": {
+        "name": "Incontenible Es Tu Amor",
         "url": "https://open.spotify.com/album/3US7xplIUPp647q67nCMS0"
       },
       "artists": [
@@ -849,10 +1137,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235102,
       "name": "Somos Libres",
       "url": "https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO"
+    },
+    {
+      "album": {
+        "name": "Tiene Raz\u00f3n",
+        "url": "https://open.spotify.com/album/30oimvBwbITQfBDttMi6iG"
+      },
+      "artists": [
+        {
+          "name": "Rescate",
+          "url": "https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199340,
+      "name": "Tiene Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6AZUXNaxnfQ7Q3hG3qQPT7"
     },
     {
       "album": {
@@ -867,7 +1173,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199346,
       "name": "Tiene raz\u00f3n",
       "url": "https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h"
@@ -983,7 +1289,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/0GcjwLuOdrvhJOuyHu2WB1"
@@ -1009,7 +1315,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333893,
       "name": "Tu Reino Est\u00e1 Aqu\u00ed",
       "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
@@ -1117,10 +1423,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402591,
       "name": "Yo Tambi\u00e9n",
       "url": "https://open.spotify.com/track/1BiTNGWo3a37MSqMqBYMGK"
+    },
+    {
+      "album": {
+        "name": "Yo Tambi\u00e9n",
+        "url": "https://open.spotify.com/album/1UCOinJ1vZcO4c4CrG1Ieg"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402591,
+      "name": "Yo tambi\u00e9n",
+      "url": "https://open.spotify.com/track/5pIEpXY1Fw2Gk94mmTbOaV"
     },
     {
       "album": {

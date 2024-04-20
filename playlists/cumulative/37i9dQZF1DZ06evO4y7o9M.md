@@ -2,7 +2,7 @@
 
 ### [This Is Junior H](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y7o9M)
 
-> This Is Junior H\. Sus mejores éxitos, todos en una playlist.
+> This is Junior H\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 1 min
 

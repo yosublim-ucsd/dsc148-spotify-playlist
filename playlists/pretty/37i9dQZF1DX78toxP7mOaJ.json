@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Slow Joy",
-  "num_followers": 141685,
+  "num_followers": 141702,
   "original_name": "Fresh Finds Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM2MDUyNiwwMDAwMDAwMDRkMDkwMWNlZDY0YjhiMzMxMDlmYWFjYmNmZWUxYjM2",
+  "snapshot_id": "MTcxMzU1Nzk3MiwwMDAwMDAwMGIzOGExZjQ4ZDcwMGM3M2NiOTc5ZmVhNmRlZDI4NmJm",
   "tracks": [
     {
       "added_at": "2024-04-17 13:28:46",
@@ -449,6 +449,38 @@
       "url": "https://open.spotify.com/track/4mkSG5c6ardiiybPXUF5AQ"
     },
     {
+      "added_at": "2024-04-19 20:19:32",
+      "album": {
+        "name": "Four Leaf Clover",
+        "url": "https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB"
+      },
+      "artists": [
+        {
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC"
+    },
+    {
+      "added_at": "2024-04-17 13:28:46",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4"
+      },
+      "artists": [
+        {
+          "name": "VENUS GRRRLS",
+          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
+        }
+      ],
+      "duration_ms": 157762,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI"
+    },
+    {
       "added_at": "2024-04-17 13:28:46",
       "album": {
         "name": "Self-destructor",
@@ -511,22 +543,6 @@
       "duration_ms": 214680,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE"
-    },
-    {
-      "added_at": "2024-04-17 13:28:46",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/6NrMHKEEj6bSmrj5QmLEz4"
-      },
-      "artists": [
-        {
-          "name": "VENUS GRRRLS",
-          "url": "https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9"
-        }
-      ],
-      "duration_ms": 157762,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/0bFjFLAlwvmtmNIU0Hn8kI"
     },
     {
       "added_at": "2024-04-17 13:28:46",

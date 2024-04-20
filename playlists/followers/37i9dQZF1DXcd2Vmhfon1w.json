@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 521889,
+  "2024-04-20": 521196,
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Waor y Midas Alonso.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Reality",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -803,7 +803,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220405,
       "name": "Barquito de Vela",
       "url": "https://open.spotify.com/track/09p2nomOAPyylPjRg1gzH0"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 220405,
       "name": "Barquito de Vela",
       "url": "https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG"
@@ -1276,6 +1276,28 @@
     },
     {
       "album": {
+        "name": "Chevy Red",
+        "url": "https://open.spotify.com/album/1VsTl9CCAtpn4kmj2ULBla"
+      },
+      "artists": [
+        {
+          "name": "ToteKing",
+          "url": "https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ"
+        },
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146562,
+      "name": "Chevy Red",
+      "url": "https://open.spotify.com/track/22eMpUtuwtFzUVSOuyqPAQ"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu"
       },
@@ -1287,7 +1309,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176374,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3"
@@ -2128,6 +2150,28 @@
     },
     {
       "album": {
+        "name": "Luces fuera",
+        "url": "https://open.spotify.com/album/4ZdVjircdr00BoV0XoYgh9"
+      },
+      "artists": [
+        {
+          "name": "ToteKing",
+          "url": "https://open.spotify.com/artist/224rbIjYbXaTI7lnP2ZMNJ"
+        },
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231201,
+      "name": "Entrar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1heP3RfoM4XAcZKde943ho"
+    },
+    {
+      "album": {
         "name": "Esos Ni\u00f1os",
         "url": "https://open.spotify.com/album/3GIxXfCKwaWZa3shfUvmmN"
       },
@@ -2139,7 +2183,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203705,
       "name": "Esos Ni\u00f1os",
       "url": "https://open.spotify.com/track/13iOTveZDkdLq9dIAulF6X"
@@ -2355,7 +2399,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158000,
       "name": "Frases Cortas",
       "url": "https://open.spotify.com/track/6rKpKUoeSldAhfDgmSR92l"
@@ -2768,6 +2812,28 @@
     },
     {
       "album": {
+        "name": "Impecable",
+        "url": "https://open.spotify.com/album/7hYk1vU5BWq52aHvj1wl9V"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Kid Frankie",
+          "url": "https://open.spotify.com/artist/5ckUquAW7M95vY15jEW1zQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164175,
+      "name": "Impecable",
+      "url": "https://open.spotify.com/track/2giCZX2gviqFIA12dbmqdi"
+    },
+    {
+      "album": {
         "name": "Mal de amores",
         "url": "https://open.spotify.com/album/7dmKwrTCa4kSIlIoI7Eoji"
       },
@@ -2871,7 +2937,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137574,
       "name": "Jove",
       "url": "https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp"
@@ -3479,7 +3545,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 206843,
       "name": "Lo Real",
       "url": "https://open.spotify.com/track/6Z1tZjQzSgEVoLYc5FE7pw"
@@ -3505,7 +3571,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206843,
       "name": "Lo Real",
       "url": "https://open.spotify.com/track/6ei0W4T1vFScCTM3UuLrIr"
@@ -4155,7 +4221,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139428,
       "name": "Mi Hogar",
       "url": "https://open.spotify.com/track/5Ql8AOpejq3Xad32vE1FjF"
@@ -4313,7 +4379,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175914,
       "name": "Mortales",
       "url": "https://open.spotify.com/track/2WxOZS4JiCW2Q06tPCQp5C"
@@ -4335,7 +4401,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 175914,
       "name": "Mortales",
       "url": "https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0"
@@ -5015,7 +5081,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220964,
       "name": "Pa que lo gocen",
       "url": "https://open.spotify.com/track/7BMdZsDXxPH6Db3Ug6A2q2"
@@ -5041,7 +5107,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220964,
       "name": "Pa que lo gocen (feat. Dollar Selmouni & Blasfem)",
       "url": "https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA"
@@ -5143,7 +5209,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230400,
       "name": "Par\u00e9ntesis",
       "url": "https://open.spotify.com/track/27vJ4YNgBj8gd73Ie12A4q"
@@ -5217,6 +5283,24 @@
       "duration_ms": 189650,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/088mgLXXfWPFfCRtrQaLAv"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaro Enjaulado",
+        "url": "https://open.spotify.com/album/3TV1OJd7uViTN551hTt7q8"
+      },
+      "artists": [
+        {
+          "name": "Ayax",
+          "url": "https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "P\u00e1jaro Enjaulado",
+      "url": "https://open.spotify.com/track/5FR3NLNFQ3Ko5894IOjbuq"
     },
     {
       "album": {
@@ -5373,7 +5457,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 102578,
       "name": "RIP MICKEY",
       "url": "https://open.spotify.com/track/64Q13bF5Dj394cXDB8DyOc"
@@ -5669,7 +5753,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175833,
       "name": "Shars 2019",
       "url": "https://open.spotify.com/track/4EJsIX4tuc3qRTZhEYsTbE"
@@ -5687,7 +5771,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175833,
       "name": "Shars 2019",
       "url": "https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l"
@@ -5705,7 +5789,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185322,
       "name": "Shars 2020",
       "url": "https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej"
@@ -5723,7 +5807,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185322,
       "name": "Shars 2020",
       "url": "https://open.spotify.com/track/2OazFN4VRGMQe09Z71Yqqa"
@@ -5777,7 +5861,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU"
@@ -5795,7 +5879,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183000,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5tL5OWnOFNgGhRu3frvYGT"
@@ -6163,7 +6247,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 275878,
       "name": "Sudores fr\u00edos",
       "url": "https://open.spotify.com/track/3fTPnf1cNtC8k6nrT0j9wm"
@@ -6185,10 +6269,28 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275878,
       "name": "Sudores fr\u00edos",
       "url": "https://open.spotify.com/track/4OuiDQdjh3I7aswGHyT0rC"
+    },
+    {
+      "album": {
+        "name": "Rocketman",
+        "url": "https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158863,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1tP1RLd5jdBAIaeWpiJm1P"
     },
     {
       "album": {
@@ -6229,7 +6331,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176326,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/5F47PWIIuPI7yOvzk4cDpk"
@@ -6495,7 +6597,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -6597,7 +6699,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5AQTFpm3oDPTenmw5Lmfoi"
@@ -6623,7 +6725,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu"
@@ -6693,7 +6795,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210600,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0de9dsLu8ZxLYQZwYof4Ay"
@@ -6719,7 +6821,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 210600,
       "name": "Volver",
       "url": "https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL"
@@ -6775,6 +6877,32 @@
       "duration_ms": 208166,
       "name": "Vuelve a escucharnos",
       "url": "https://open.spotify.com/track/0E7WuWV8NTPH2VtDgl2Bcd"
+    },
+    {
+      "album": {
+        "name": "Igual Que Nadie",
+        "url": "https://open.spotify.com/album/3S82dtiNIiGbFioYVkjzdS"
+      },
+      "artists": [
+        {
+          "name": "Reality",
+          "url": "https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw"
+        },
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "Bigla",
+          "url": "https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250952,
+      "name": "Vuelves",
+      "url": "https://open.spotify.com/track/5gpeWZITMV7AragQLuNpyH"
     },
     {
       "album": {

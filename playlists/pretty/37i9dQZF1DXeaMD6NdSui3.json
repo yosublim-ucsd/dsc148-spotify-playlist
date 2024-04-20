@@ -1,6 +1,6 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 144561,
+  "num_followers": 144564,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "The Fabulous Thunderbirds",
@@ -71,6 +55,22 @@
       "duration_ms": 232706,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -191,22 +191,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Texas Bluesman",
-        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
-      },
-      "artists": [
-        {
-          "name": "Zuzu Bollin",
-          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Why Don't You Eat Where You Slept Last Night?",
-      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "The Fabulous Thunderbirds",
         "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 347880,
       "name": "Givin' Up On Love",
       "url": "https://open.spotify.com/track/0z996lfA5XGfC9uwVaBIUW"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "The Story of Sonny Boy Slim",
-        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+        "name": "Texas Bluesman",
+        "url": "https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h"
       },
       "artists": [
         {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+          "name": "Zuzu Bollin",
+          "url": "https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ"
         }
       ],
-      "duration_ms": 197813,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh"
+      "duration_ms": 174133,
+      "name": "Why Don't You Eat Where You Slept Last Night?",
+      "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -407,22 +407,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
-      },
-      "artists": [
-        {
-          "name": "Lou Ann Barton",
-          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Sugar Coated Love",
-      "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Up Close",
         "url": "https://open.spotify.com/album/6KTqSghfCNMlYRBNQytty9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 200520,
       "name": "Since I Met You Baby",
       "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/6SjrPRIoiQnQsokUpFc5hN"
+      },
+      "artists": [
+        {
+          "name": "Lou Ann Barton",
+          "url": "https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Sugar Coated Love",
+      "url": "https://open.spotify.com/track/1G6ZoDvjFAReEI3R6kHZrm"
     },
     {
       "added_at": "2018-02-27 16:43:49",

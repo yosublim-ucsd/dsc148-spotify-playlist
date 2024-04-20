@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 16770,
+  "num_followers": 16798,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -123,30 +123,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
-        "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        },
-        {
-          "name": "Dinho",
-          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
-        },
-        {
-          "name": "Mahal Pita",
-          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
-        }
-      ],
-      "duration_ms": 196383,
-      "name": "Jovinho",
-      "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
+        "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        },
+        {
+          "name": "Dinho",
+          "url": "https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p"
+        },
+        {
+          "name": "Mahal Pita",
+          "url": "https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF"
+        }
+      ],
+      "duration_ms": 196383,
+      "name": "Jovinho",
+      "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
+        "name": "Meio",
+        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Meio",
+      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
@@ -287,26 +307,6 @@
       "duration_ms": 155512,
       "name": "Ch\u00e1",
       "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
-        "name": "Meio",
-        "url": "https://open.spotify.com/album/7i3oIB2FvWcWtEoFYVzWO7"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Meio",
-      "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -695,30 +695,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
-      },
-      "artists": [
-        {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "Fatoss\u00edntese",
         "url": "https://open.spotify.com/album/48Oq95WI5z99HaqpFv6hS3"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 155294,
       "name": "N\u00e3o Me Ligue Mais",
       "url": "https://open.spotify.com/track/2tpRMFNcz07zf1EPUomzHV"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
+        "name": "Deixa Eu Te Contar",
+        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Deixa Eu Te Contar",
+      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
         "name": "Proveito",
         "url": "https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 175000,
       "name": "Doce de Latche",
       "url": "https://open.spotify.com/track/3YacGCNqPQFiN7kRfpDPkV"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
-        "name": "Deixa Eu Te Contar",
-        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Deixa Eu Te Contar",
-      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2024-04-19 03:01:00",

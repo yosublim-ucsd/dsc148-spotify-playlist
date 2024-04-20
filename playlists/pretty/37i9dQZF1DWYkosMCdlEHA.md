@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,477 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,523 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 58 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
 | 59 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
 | 60 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |
-| 61 | [Rosa Flor \(Acústica\)](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
-| 62 | [Lunar \(Acústico\)](https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(Acústico\)](https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW) | 4:00 |
-| 63 | [Pra Falar de Amor](https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Pra Falar de Amor](https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf) | 3:29 |
-| 64 | [Toque de Amor \- Ao Vivo](https://open.spotify.com/track/3HEinXxTLr7bHXvtfDijX3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor \(Ao Vivo\)](https://open.spotify.com/album/05xs0f9DAgvTM3M6ZTMERR) | 4:06 |
+| 61 | [Toque de Amor \- Ao Vivo](https://open.spotify.com/track/3HEinXxTLr7bHXvtfDijX3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor \(Ao Vivo\)](https://open.spotify.com/album/05xs0f9DAgvTM3M6ZTMERR) | 4:06 |
+| 62 | [Rosa Flor \(Acústica\)](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
+| 63 | [Lunar \(Acústico\)](https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(Acústico\)](https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW) | 4:00 |
+| 64 | [Pra Falar de Amor](https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Pra Falar de Amor](https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf) | 3:29 |
 | 65 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
 | 66 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/4cMpYRT2XAgI8eiLpQUr42) | 2:48 |
 | 67 | [Onda do Arraial \- Ao Vivo](https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR) | 3:25 |

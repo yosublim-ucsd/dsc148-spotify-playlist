@@ -2899,6 +2899,32 @@
     },
     {
       "album": {
+        "name": "21st CENTURY ROCK BAND",
+        "url": "https://open.spotify.com/album/10c8wTjSC2XV3aUMa5VgqG"
+      },
+      "artists": [
+        {
+          "name": "Straightener",
+          "url": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG"
+        },
+        {
+          "name": "Tabu Zombie",
+          "url": "https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC"
+        },
+        {
+          "name": "\u7530\u4e2d\u90a6\u548c",
+          "url": "https://open.spotify.com/artist/6KN1LZmCvjzsIsOl5ntwuK"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229546,
+      "name": "From Noon Till Dawn",
+      "url": "https://open.spotify.com/track/1JvKz4nqanQxbc8behZqbM"
+    },
+    {
+      "album": {
         "name": "Nonnegative",
         "url": "https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V"
       },
@@ -13668,7 +13694,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 266693,
       "name": "\u30c1\u30e3\u30a4\u30b3\u30d5\u30b9\u30ad\u30fc\u3067\u3088\u308d\u3057\u304f",
       "url": "https://open.spotify.com/track/7iWedHFDFQHeyZUQDcT7tc"

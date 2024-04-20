@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 45297,
+  "2024-04-20": 45353,
   "date_first_scraped": "2022-11-28",
   "description": "it's just one of those days w/ Microwave",
   "name": "emo right now",
@@ -223,7 +223,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 514320,
       "name": "Black Earth, WI",
       "url": "https://open.spotify.com/track/2brPDOuzBeCoL3vsuWiY0g"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 514320,
       "name": "Black Earth, WI",
       "url": "https://open.spotify.com/track/5WJPG2pNcg1oDMbtxl5ysR"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195013,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "Crawl II",
       "url": "https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228923,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/07WWAnpW4RVPY4D2lmlClG"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 228923,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/63nM05dAFbc1y2Vo53WZ9n"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218738,
       "name": "I Can Feel Every Cut",
       "url": "https://open.spotify.com/track/6Zlg7H7DNZmE5aFqJ0LInj"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 218738,
       "name": "I Can Feel Every Cut",
       "url": "https://open.spotify.com/track/7o7asYZdFBfprsWVdw9LOz"
@@ -1419,10 +1419,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222500,
       "name": "In the Back",
       "url": "https://open.spotify.com/track/1Na4m4y8hMRzQo73a5ORX2"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2JgNo1TSbtFnd3145pcscN"
+      },
+      "artists": [
+        {
+          "name": "Graduating Life",
+          "url": "https://open.spotify.com/artist/314yGMWtZrRjWP5GwTlE2E"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "In the Back",
+      "url": "https://open.spotify.com/track/6hYdVdhNBDcPQHezSiTUPb"
     },
     {
       "album": {
@@ -2330,6 +2348,24 @@
     },
     {
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/2SmglPpr3CiDSbbiQAfdPs"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/3mgUfPB8YDEppyDfoi5qZN"
+    },
+    {
+      "album": {
         "name": "The Best Part About Being Human",
         "url": "https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po"
       },
@@ -2341,7 +2377,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159000,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P"
@@ -2395,7 +2431,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215318,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/5lSIRNDJWXiAV1cUijH2ak"
@@ -2503,7 +2539,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 215318,
       "name": "Spinning Wheel",
       "url": "https://open.spotify.com/track/7lH6ykUui2IHTzPmvKoJdl"
@@ -2575,7 +2611,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/3Y3CbwB3REfOWUkgKOKgcD"
@@ -2593,7 +2629,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 199561,
       "name": "Sullenboy",
       "url": "https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz"
@@ -2683,7 +2719,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 181528,
       "name": "tarot cards",
       "url": "https://open.spotify.com/track/2I6KRUyzJpzlm7JDgp5GTB"
@@ -2701,7 +2737,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181528,
       "name": "tarot cards",
       "url": "https://open.spotify.com/track/4EhF4mbfEYPkdKJqEI0zB1"

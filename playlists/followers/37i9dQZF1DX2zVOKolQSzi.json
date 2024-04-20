@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 58203,
+  "2024-04-20": 58229,
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest 10s Funk. Cover: Pharrell Williams.",
   "name": "I Love My 10s Funk",
   "tracks": [
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/5EA4kogB3cZr2qykFlZDYV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw"
+    },
     {
       "album": {
         "name": "Billionaire - 10's Most Upbeat Pop",
@@ -35,7 +53,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225983,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
@@ -71,7 +89,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 169804,
       "name": "Alcool",
       "url": "https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o"
@@ -89,7 +107,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169804,
       "name": "Alcool",
       "url": "https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA"
@@ -111,10 +129,32 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274580,
       "name": "All This Love That I'm Giving",
       "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
+    },
+    {
+      "album": {
+        "name": "Undercover Mixtape",
+        "url": "https://open.spotify.com/album/4NgHxQkxRYmFTBpYWcpNJR"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        },
+        {
+          "name": "Adryon de Le\u00f3n",
+          "url": "https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274580,
+      "name": "All This Love That I'm Giving",
+      "url": "https://open.spotify.com/track/6QNvs4ok9NUOTzetfne7Gs"
     },
     {
       "album": {
@@ -234,6 +274,24 @@
     },
     {
       "album": {
+        "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+        "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236001,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -245,7 +303,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
@@ -307,10 +365,46 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223146,
       "name": "City Heights",
       "url": "https://open.spotify.com/track/16Hj0P5jkxkhRMkL1Spz3Y"
+    },
+    {
+      "album": {
+        "name": "The Sure Fire Soul Ensemble",
+        "url": "https://open.spotify.com/album/77mIMjV90cIUomSUNXZEtc"
+      },
+      "artists": [
+        {
+          "name": "The Sure Fire Soul Ensemble",
+          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "City Heights",
+      "url": "https://open.spotify.com/track/6tf6rMPnUkLcUnGIqoAAkq"
+    },
+    {
+      "album": {
+        "name": "The Main Squeeze",
+        "url": "https://open.spotify.com/album/5k4DDIEOEfXB082nr9pBRC"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Colorful Midst",
+      "url": "https://open.spotify.com/track/5mPfj8qaK2nivy2aioffV2"
     },
     {
       "album": {
@@ -325,7 +419,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250960,
       "name": "Colorful Midst",
       "url": "https://open.spotify.com/track/6PbY8O3q4hKwTZcsqmo5ba"
@@ -343,7 +437,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319932,
       "name": "Come On With the Good Thing",
       "url": "https://open.spotify.com/track/1Mw4DeEuHwD0sQTOaTK6fH"
@@ -361,7 +455,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-06",
+      "date_removed": null,
       "duration_ms": 319932,
       "name": "Come on with the Good Thing",
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
@@ -415,10 +509,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173360,
       "name": "Crave",
       "url": "https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW"
+    },
+    {
+      "album": {
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/4uWKXErh1mdc6M2rAjPXY0"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/6qoflwZlr3RxB3RiH9GRuG"
     },
     {
       "album": {
@@ -433,7 +545,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
@@ -451,7 +563,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7"
@@ -585,10 +697,36 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
+    },
+    {
+      "album": {
+        "name": "Stay Good",
+        "url": "https://open.spotify.com/album/08Nm6oGGiZT2dbaCUsRJG5"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        },
+        {
+          "name": "Desmond Foster",
+          "url": "https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231963,
+      "name": "Funk Ain't Ova",
+      "url": "https://open.spotify.com/track/5v5NO8ME6meZ9HAehiQ1Av"
     },
     {
       "album": {
@@ -639,7 +777,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280400,
       "name": "Got to Get Back to My Baby",
       "url": "https://open.spotify.com/track/4qVuHS2Nun39a8JrI5d5GD"
@@ -657,7 +795,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 280400,
       "name": "Got to Get Back to My Baby",
       "url": "https://open.spotify.com/track/6vpKIo2WYaW8g0VpZJExAK"
@@ -745,10 +883,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274853,
       "name": "Hole In One",
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+    },
+    {
+      "album": {
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/4z1iO0enp7c919GrpOnttF"
+      },
+      "artists": [
+        {
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274853,
+      "name": "Hole In One",
+      "url": "https://open.spotify.com/track/0jaTaEBXfjYRp5jwLlOrXf"
     },
     {
       "album": {
@@ -799,10 +955,46 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243053,
       "name": "I Need A Dollar",
       "url": "https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS"
+    },
+    {
+      "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/2LAdkhxTJkCWUE4sPw1zgb"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243053,
+      "name": "I Need A Dollar",
+      "url": "https://open.spotify.com/track/6q1qACcezH6eH77Xljh5QV"
+    },
+    {
+      "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/5LILW7JF9Ayp6z2hEAfhiH"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307397,
+      "name": "It's Gonna Rain",
+      "url": "https://open.spotify.com/track/4o9VUsHPRkY0yzPKUxmCHF"
     },
     {
       "album": {
@@ -817,7 +1009,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307397,
       "name": "It's Gonna Rain",
       "url": "https://open.spotify.com/track/58gPIRzKQteZDwUQKQAj0q"
@@ -843,10 +1035,36 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302560,
       "name": "Jam On",
       "url": "https://open.spotify.com/track/1ePjiM953NQc7FfRTNjxsq"
+    },
+    {
+      "album": {
+        "name": "The Power of the One (Bootsy Collins)",
+        "url": "https://open.spotify.com/album/1vQsKGioSQXZcqOuWhPRfe"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Brandon \"TAZ\" Niederauer",
+          "url": "https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302560,
+      "name": "Jam On",
+      "url": "https://open.spotify.com/track/1yoWWXfMjxfhXm5hSkUnKm"
     },
     {
       "album": {
@@ -905,7 +1123,7 @@
     {
       "album": {
         "name": "White Women",
-        "url": "https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj"
+        "url": "https://open.spotify.com/album/0U78mbujuFjpprS0G9QcTx"
       },
       "artists": [
         {
@@ -916,6 +1134,24 @@
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 228026,
+      "name": "Jealous (I Ain't With It)",
+      "url": "https://open.spotify.com/track/0CaHZUniQtDRZleX6XK9p7"
+    },
+    {
+      "album": {
+        "name": "White Women",
+        "url": "https://open.spotify.com/album/1rqJZhedmCFNbaoTRQz9Zj"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 228026,
       "name": "Jealous (I Ain't With It)",
       "url": "https://open.spotify.com/track/3R5FA1Ay1NxgtwbElR78by"
@@ -941,7 +1177,7 @@
     {
       "album": {
         "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
       },
       "artists": [
         {
@@ -952,6 +1188,24 @@
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
+    },
+    {
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X"
@@ -1117,10 +1371,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248000,
       "name": "Number One",
       "url": "https://open.spotify.com/track/19w0peKzUE7Ih1E0FGdaXO"
+    },
+    {
+      "album": {
+        "name": "Tuxedo",
+        "url": "https://open.spotify.com/album/1mdlZytWHqyITkGx18A4R0"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/4AGyRj0EXVJSg8LsUiTO8o"
     },
     {
       "album": {
@@ -1139,7 +1411,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217173,
       "name": "On the Sly (feat. Kylie Auldist)",
       "url": "https://open.spotify.com/track/05jukmQMwRb1JG4hsqXozn"
@@ -1161,7 +1433,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "On the Sly (feat. Kylie Auldist)",
       "url": "https://open.spotify.com/track/6HVD1XoKFl4QssmyQXh1B9"
@@ -1179,10 +1451,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285706,
       "name": "Pain & Bliss",
       "url": "https://open.spotify.com/track/4FokpEkjmDKUKVo16W98x8"
+    },
+    {
+      "album": {
+        "name": "Pain & Bliss",
+        "url": "https://open.spotify.com/album/4edrXoyvhJBPKar12muYNT"
+      },
+      "artists": [
+        {
+          "name": "The Brooks",
+          "url": "https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285706,
+      "name": "Pain & Bliss",
+      "url": "https://open.spotify.com/track/5fTouoWoOGlFHfv9c3ycfq"
     },
     {
       "album": {
@@ -1287,10 +1577,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173040,
       "name": "She's On Fire",
       "url": "https://open.spotify.com/track/3Ln02VKgVQ4evdnm86gPJJ"
+    },
+    {
+      "album": {
+        "name": "Gold (Deluxe)",
+        "url": "https://open.spotify.com/album/7tMMyIAmpUOzArzvc6t2fU"
+      },
+      "artists": [
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/50eFgPcUrvtlkFc4FtBM0M"
     },
     {
       "album": {
@@ -1377,10 +1685,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236826,
       "name": "Stare Into The Sun",
       "url": "https://open.spotify.com/track/0vXdd32H6j8ggGapOHfan1"
+    },
+    {
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/0p47qFPz9PA2umWD2K7VKo"
+      },
+      "artists": [
+        {
+          "name": "Graffiti6",
+          "url": "https://open.spotify.com/artist/45q5PZHs50HeLBDRgio4GQ"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Stare Into The Sun",
+      "url": "https://open.spotify.com/track/6PdcG9HSVj2sbfVpkw28Mp"
     },
     {
       "album": {
@@ -1413,7 +1739,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-14",
+      "date_removed": null,
       "duration_ms": 291507,
       "name": "The Real",
       "url": "https://open.spotify.com/track/30IC8IrryMmUW660TmvzYM"
@@ -1431,7 +1757,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291507,
       "name": "The Real",
       "url": "https://open.spotify.com/track/4zKYvJ7otMr3j9GtfLPm4c"
@@ -1453,7 +1779,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 268040,
       "name": "The Wilhelm Scream (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/0x4zqBZSjYvVLuttqcfu9W"
@@ -1475,7 +1801,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268040,
       "name": "The Wilhelm Scream (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/1GShu7jYDAFp1YqZgD5xtC"
@@ -1493,7 +1819,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214266,
       "name": "Time For Love",
       "url": "https://open.spotify.com/track/3DiAic0gBfi0kCdrSvgU2H"
@@ -1511,7 +1837,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 214266,
       "name": "Time For Love",
       "url": "https://open.spotify.com/track/7EzkFnIt0pJ420BqhcyZ6W"
@@ -1562,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "White Knuckle Ride",
+      "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
+    },
+    {
+      "album": {
         "name": "Rock Dust Light Star",
         "url": "https://open.spotify.com/album/2gIExZUaGpUz21crdjAMnd"
       },
@@ -1573,7 +1917,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215173,
       "name": "White Knuckle Ride",
       "url": "https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y"
@@ -1613,10 +1957,28 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342880,
       "name": "Yes We Can Can",
       "url": "https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4"
+    },
+    {
+      "album": {
+        "name": "Soul Food: Cooking With Maceo",
+        "url": "https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E"
+      },
+      "artists": [
+        {
+          "name": "Maceo Parker",
+          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342880,
+      "name": "Yes We Can Can",
+      "url": "https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2zVOKolQSzi"

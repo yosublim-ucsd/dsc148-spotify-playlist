@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 76106,
+  "2024-04-20": 76172,
   "date_first_scraped": "2024-04-08",
   "description": "Les incontournables du Ra\u00ef.",
   "name": "Rai Classics",
@@ -24,6 +24,32 @@
     },
     {
       "album": {
+        "name": "1,2,3, Soleils",
+        "url": "https://open.spotify.com/album/1fYYDAZ9C2gg3rB66JpHjS"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+        },
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297693,
+      "name": "Abdel Kader - Live \u00e0 Bercy, Paris / 1998",
+      "url": "https://open.spotify.com/track/3PNqtQFVeULgHm7Cs7Yofd"
+    },
+    {
+      "album": {
         "name": "Rock'n'Ra\u00ef",
         "url": "https://open.spotify.com/album/3Jnmgp39WIXFLcPzUDsaRH"
       },
@@ -43,7 +69,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 300426,
       "name": "Abdel Kader - Live \u00e0 Bercy, Paris / 1998",
       "url": "https://open.spotify.com/track/35WrDt7pX6fg7JLJ2fkuaM"
@@ -155,10 +181,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310306,
       "name": "Bakhta",
       "url": "https://open.spotify.com/track/48fbmUIMQxqe0vOW7IiRyE"
+    },
+    {
+      "album": {
+        "name": "N'Ssi N'Ssi",
+        "url": "https://open.spotify.com/album/7JiTkfgNZqx6TSfVfLBpAJ"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310560,
+      "name": "Bakhta",
+      "url": "https://open.spotify.com/track/1pCctyl9kblRtKKVr0KQt7"
     },
     {
       "album": {
@@ -245,10 +289,46 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267452,
       "name": "C\u00e9libataire",
       "url": "https://open.spotify.com/track/1patFhVHIi8n6z44iDN9VH"
+    },
+    {
+      "album": {
+        "name": "DJ Kim pr\u00e9sente Ra\u00ef Connection",
+        "url": "https://open.spotify.com/album/14zvoiAxYD1YDSaCjwbOl8"
+      },
+      "artists": [
+        {
+          "name": "Cheba Maria",
+          "url": "https://open.spotify.com/artist/1xmzJAhHsz4x3PKWQbc1Ax"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "C\u00e9libataire",
+      "url": "https://open.spotify.com/track/7s47CVAxYfjlkRF5wU8bUk"
+    },
+    {
+      "album": {
+        "name": "L'anthologie du Ra\u00ef (50 titres)",
+        "url": "https://open.spotify.com/album/3NB0WueuwufIe5aoo4AWrD"
+      },
+      "artists": [
+        {
+          "name": "Cheb Rayan",
+          "url": "https://open.spotify.com/artist/2vHzXwfwVDsP4iKN8SezRR"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Dana dana",
+      "url": "https://open.spotify.com/track/1TCRCDezEMaQ60yIO8Me6F"
     },
     {
       "album": {
@@ -267,7 +347,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232333,
       "name": "Dana Dana",
       "url": "https://open.spotify.com/track/433ls22mr69ojE93WFLEbW"
@@ -307,10 +387,32 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285893,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv"
+    },
+    {
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/2lKs5704qlvP9V9muKZwqY"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285960,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja"
     },
     {
       "album": {
@@ -451,10 +553,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370373,
       "name": "Je t'aime \u00e0 la folie",
       "url": "https://open.spotify.com/track/3UGXHVZDy4d3Q4lKTLo77h"
+    },
+    {
+      "album": {
+        "name": "Je t'aime \u00e0 la folie",
+        "url": "https://open.spotify.com/album/1I3uAAWRsrqQJ03H19hvwx"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Ray",
+          "url": "https://open.spotify.com/artist/3UsTGPrSeX6JJB1mZ7s2Tp"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370373,
+      "name": "Je t'aime \u00e0 la folie",
+      "url": "https://open.spotify.com/track/6m6vUaRlYubGR66nSv2JsE"
     },
     {
       "album": {
@@ -548,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Best Of Douzi",
+        "url": "https://open.spotify.com/album/3hOdLdgeJmvdsnmd0zEGgR"
+      },
+      "artists": [
+        {
+          "name": "Douzi",
+          "url": "https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195305,
+      "name": "Myriama",
+      "url": "https://open.spotify.com/track/5Z1PivBRs7a4sXf8ClKGpF"
+    },
+    {
+      "album": {
         "name": "Best of Douzi",
         "url": "https://open.spotify.com/album/0NnsMuSX2iN14lntMnz7BH"
       },
@@ -559,7 +697,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195240,
       "name": "Myriama - Remastered",
       "url": "https://open.spotify.com/track/6mMch2QkhDvE6e48uyA8vt"
@@ -595,10 +733,46 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377026,
       "name": "NOUAR",
       "url": "https://open.spotify.com/track/69r64jfxYq5CrtVZL46D5r"
+    },
+    {
+      "album": {
+        "name": "Nouar",
+        "url": "https://open.spotify.com/album/3P0GnsGZmo6FGQdX4KRmwR"
+      },
+      "artists": [
+        {
+          "name": "Cheikha Rimitti",
+          "url": "https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379440,
+      "name": "Nouar",
+      "url": "https://open.spotify.com/track/7kYE92jx3dkVo6aYhz4GFG"
+    },
+    {
+      "album": {
+        "name": "Cheb A\u00efssa , Nouara",
+        "url": "https://open.spotify.com/album/1Z95c8O3vgGB0wlHaXGe2e"
+      },
+      "artists": [
+        {
+          "name": "Cheb Aissa",
+          "url": "https://open.spotify.com/artist/0hDmmxtDPAEMHD03kD8NiW"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "Nouara",
+      "url": "https://open.spotify.com/track/6B4tshQIyXQgRfa21mkkoP"
     },
     {
       "album": {
@@ -613,7 +787,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239440,
       "name": "Nouara",
       "url": "https://open.spotify.com/track/2xL4RyXCcG8OR2ExavzCJ0"
@@ -689,10 +863,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403435,
       "name": "Sadma Kbira",
       "url": "https://open.spotify.com/track/3NJfOBX78I8WOWNfPGWstz"
+    },
+    {
+      "album": {
+        "name": "Sawlouh",
+        "url": "https://open.spotify.com/album/0FM3L0iLr6rRloh1LzmWVX"
+      },
+      "artists": [
+        {
+          "name": "Mimoun el oujdi",
+          "url": "https://open.spotify.com/artist/71h06Hw5mmJEal33SJCOLa"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403435,
+      "name": "Sadma kbira",
+      "url": "https://open.spotify.com/track/4ZNHRSteZDHONTwrGPy8gV"
     },
     {
       "album": {
@@ -715,7 +907,7 @@
     {
       "album": {
         "name": "Sahra",
-        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+        "url": "https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC"
       },
       "artists": [
         {
@@ -726,6 +918,24 @@
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250773,
+      "name": "Sahra",
+      "url": "https://open.spotify.com/track/0UagSHli8kFZPGSafxai5o"
+    },
+    {
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 251826,
       "name": "Sahra",
       "url": "https://open.spotify.com/track/2DMsZe99ds81PpMIKxe8lw"
@@ -840,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Wana Wana",
+        "url": "https://open.spotify.com/album/2ldK28qp3bLXLXO8hirsQ0"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Lamine",
+          "url": "https://open.spotify.com/artist/4YCfcWBdBH742iCKGHpsoI"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292816,
+      "name": "Wana Wana",
+      "url": "https://open.spotify.com/track/1LUyPqI2etJ17lirx3A6DH"
+    },
+    {
+      "album": {
         "name": "Mohamed Lamine Best Of",
         "url": "https://open.spotify.com/album/4RNgKK6K0PT3keq4vlXxTI"
       },
@@ -851,10 +1079,28 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292853,
       "name": "Wana Wana",
       "url": "https://open.spotify.com/track/6vcM9GVd60VOFmEtegH8nS"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/27poA8VNvJfONriMRyZZLM"
+      },
+      "artists": [
+        {
+          "name": "Zahouania",
+          "url": "https://open.spotify.com/artist/13sLlXcYUQJPSPMYIqa6wv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380453,
+      "name": "Warini Werak Tergoud",
+      "url": "https://open.spotify.com/track/0yzvREh5z2sNevqrFlwGlf"
     },
     {
       "album": {
@@ -869,7 +1115,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 380453,
       "name": "Warini Werak Tergoud",
       "url": "https://open.spotify.com/track/43CVOIXB35Kk85vl5qmsZE"
@@ -894,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Tekitoi?",
+        "url": "https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU"
+      },
+      "artists": [
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373106,
+      "name": "Ya Rayah",
+      "url": "https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/7focbr8gdZ0kgWDueX6rrF"
       },
@@ -905,7 +1169,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 374466,
       "name": "Ya Rayah",
       "url": "https://open.spotify.com/track/57vLKSsU2gUirCUpUttlX2"

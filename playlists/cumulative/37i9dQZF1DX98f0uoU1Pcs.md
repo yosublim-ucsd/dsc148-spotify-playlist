@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-664 songs - 1 day 12 hr 40 min
+666 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Cosmic Leash](https://open.spotify.com/track/0irMOFfqBjlDPZXKL3v9XH) | [Chris Farren](https://open.spotify.com/artist/6wnLSjE93qaj9uf3rVaM3N) | [Cosmic Leash](https://open.spotify.com/album/6P2EWBqxU91oy4ydMRQyOt) | 4:41 | 2023-05-22 |  |
 | [Cowboy](https://open.spotify.com/track/7vhd7HIEQ3Kv7RJnajhJyl) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Cowboy](https://open.spotify.com/album/1RtKHpS30vtJn5MrWx3LuB) | 2:24 | 2023-02-10 | 2023-03-11 |
 | [Cowboy Nudes](https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 2:50 | 2023-08-08 | 2023-10-17 |
-| [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 | 2023-08-11 |  |
+| [Cows](https://open.spotify.com/track/5MudCy3oMWOFMrq1QoMUBu) | [Silicone Prairie](https://open.spotify.com/artist/41Cb0AUOB1YtrPLiDffzb0) | [Cows](https://open.spotify.com/album/2feSGjusLrnBAxWTO67Cio) | 3:41 | 2023-08-11 | 2024-04-20 |
 | [Crack a Smile](https://open.spotify.com/track/1hhvwDhCFN6cB7Ga5KLV9k) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [Crack a Smile](https://open.spotify.com/album/29kyGKjzeisWevhLjPpKfP) | 2:49 | 2021-10-07 | 2022-06-18 |
 | [Crashing](https://open.spotify.com/track/1fAqYPbtz7ljMn6q24Zadx) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Crashing](https://open.spotify.com/album/7GvsKQNZM8025DKUwZm5LT) | 2:41 | 2023-10-02 | 2024-04-13 |
 | [Crawl!](https://open.spotify.com/track/0YO5MucxfKv80g69Y3KSRX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Crawl! \(DGG Edit\)](https://open.spotify.com/album/5pRVIb8aU8fZ6WHS1af385) | 4:20 | 2022-11-04 | 2022-11-14 |
@@ -129,6 +129,7 @@
 | [Dallas](https://open.spotify.com/track/7r5OPg9Bo6dO6bJVnG55iK) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Dallas](https://open.spotify.com/album/5KagOtvtmB8fO9PvBVY1AJ) | 6:02 | 2024-02-16 |  |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2023-10-20 | 2024-01-20 |
 | [Dancing, Alone](https://open.spotify.com/track/0RO0CjcQhTGoQsmHybVRx7) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Dancing, Alone](https://open.spotify.com/album/2VXleQVQpNyoFjYIDrW9G6) | 4:05 | 2023-04-07 |  |
+| [Davey Says](https://open.spotify.com/track/0taAI29AhzNRcrnWhGPMwZ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Davey Says](https://open.spotify.com/album/6vQVPgqVMU51qDxJnAm3dC) | 2:47 | 2024-04-19 |  |
 | [Days Like These](https://open.spotify.com/track/6KVjO1Wye1FuNdYx0keRkP) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [HEY WHAT](https://open.spotify.com/album/6S6jg2LuEwGdo9iYMSwCBS) | 5:20 | 2022-01-07 | 2022-01-26 |
 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-02-13 | 2023-04-09 |
 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 | 2022-10-07 | 2023-04-09 |
@@ -208,6 +209,7 @@
 | [Foul](https://open.spotify.com/track/0jLiGDl2JzE6AphvAJ4HEl) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Foul](https://open.spotify.com/album/5Rd8jZQIzuHX6EuV1ZA6CE) | 2:47 | 2022-10-07 | 2022-11-24 |
 | [Foul](https://open.spotify.com/track/27YME9ZCAEKJc7tUQubCqW) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Endure](https://open.spotify.com/album/7EU4Jf2J97Iamh3lwHCHy9) | 2:47 | 2022-11-04 | 2022-12-10 |
 | [four days](https://open.spotify.com/track/24S8SDMXhsdqtDYTubh5po) | [Brandon Jack & The Artifacts](https://open.spotify.com/artist/4e7XSqMThH4O5gW0QTEV5r) | [four days](https://open.spotify.com/album/7y4oX1oppmiZjaNT16MLBb) | 2:10 | 2021-10-07 | 2022-04-29 |
+| [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 | 2024-04-19 |  |
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-10-07 | 2022-03-12 |
 | [Friends On Ice](https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt) | [Yung](https://open.spotify.com/artist/5XXsYiiQV6g24ksM2iAdtM) | [Ongoing Dispute](https://open.spotify.com/album/1ygTSPHT2gdItEzuDAKJth) | 4:06 | 2022-01-07 | 2023-01-21 |
 | [From The Hill](https://open.spotify.com/track/1k92uboBqSFq7mjUYhxbjl) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [From The Hill](https://open.spotify.com/album/1zSOkxK3AgqU2ldlfWLKYL) | 3:21 | 2022-10-07 | 2023-05-23 |
@@ -447,7 +449,7 @@
 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-03-01 | 2024-01-20 |
 | [Peaceful Life](https://open.spotify.com/track/0gq6V1aodhiGhQhpMOZzY7) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Peaceful Life](https://open.spotify.com/album/1WCP9j9mfD12JT7FpRiQV5) | 2:03 | 2021-10-07 | 2022-12-10 |
 | [Perth Traumatic Stress Disorder](https://open.spotify.com/track/4deF1pg0zExtb7SnbSLXHZ) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [I Love You Like A Brother](https://open.spotify.com/album/5PyPauobzmwT3iWtSjWNvK) | 2:15 | 2021-10-07 | 2022-01-08 |
-| [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 | 2023-10-30 |  |
+| [PHD](https://open.spotify.com/track/0MzNvq7rOR7zYfJcRf7Yzz) | [Malice K](https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI) | [PHD](https://open.spotify.com/album/3clusQ6T8jI8LenvmGB15O) | 1:57 | 2023-10-30 | 2024-04-20 |
 | [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 | 2023-05-22 | 2023-08-04 |
 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 | 2023-07-14 | 2023-08-26 |
 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 | 2022-01-07 | 2022-08-27 |

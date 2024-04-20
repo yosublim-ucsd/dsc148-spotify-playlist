@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: discoolpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,229 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,242 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 5 | [ESPERANDO QUE EL MUNDO GIRE HACIA OTRO LADO](https://open.spotify.com/track/5XDRPD2SI9kj8jSB00nht2) | [Macías](https://open.spotify.com/artist/1CAODZDhSh2gkjWxXwgdJ1) | [LO QUE PUEDA PASAR](https://open.spotify.com/album/76SsYStS47pPZsmhXlZ0JS) | 3:10 |
 | 6 | [K+](https://open.spotify.com/track/0dAWslkyBKhTupLOCFQVaF) | [Samuel Nagati](https://open.spotify.com/artist/31nHXIszRXT5C9THnHaflJ) | [K+](https://open.spotify.com/album/1MT6cx19nsPo7cmNjwvPh5) | 3:01 |
 | 7 | [ESTOY ENAMORADA DE TI](https://open.spotify.com/track/5ryI5sl5VTigI9Ma0ezACi) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [ESTOY ENAMORADA DE TI](https://open.spotify.com/album/1wYNghtHxZFXZGjTRs6yK4) | 3:28 |
-| 8 | [Otra Noche Más](https://open.spotify.com/track/2LTgZSPMFN6YTRn6viIaZD) | [Fusa Nocta](https://open.spotify.com/artist/563VyZf3Wz1lmwmp9YW7wo) | [Otra Noche Más](https://open.spotify.com/album/6Eboe26Dwc1XZatxl0guxM) | 2:08 |
+| 8 | [Otra Noche Más](https://open.spotify.com/track/2LTgZSPMFN6YTRn6viIaZD) | [Fusa Nocta](https://open.spotify.com/artist/563VyZf3Wz1lmwmp9YW7wo), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Otra Noche Más](https://open.spotify.com/album/6Eboe26Dwc1XZatxl0guxM) | 2:08 |
 | 9 | [Hoy Casi no he Pensado en Ti](https://open.spotify.com/track/7qaz4Ul7ddfdu1JLpZj2Yy) | [Arguedax](https://open.spotify.com/artist/1oFyqSdLUp95XWWpnrExj3), [Alain019](https://open.spotify.com/artist/4WssbZN6nmER6g4OtMYh61) | [La Energía que he Perdido](https://open.spotify.com/album/2fiWNqr1D35FR3uBlqv341) | 2:54 |
 | 10 | [UYUNI \(UYU\)](https://open.spotify.com/track/2Aw77u5ESq2if1PTTBT4D1) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0) | [UYUNI \(UYU\)](https://open.spotify.com/album/6RLFX9PtrOxIYyVrsEytO6) | 2:33 |
 | 11 | [LA PLAYLIST](https://open.spotify.com/track/1fjEM11Efz3XGNKa93tp7k) | [CORALS](https://open.spotify.com/artist/4lwySrcxmy04axgrWQ7Qer), [Eterno Groove](https://open.spotify.com/artist/4frzpVhH0JL5pMHEcXwQRR) | [LA PLAYLIST](https://open.spotify.com/album/6YO14L0aHhhkpAvmGK5DCL) | 2:24 |

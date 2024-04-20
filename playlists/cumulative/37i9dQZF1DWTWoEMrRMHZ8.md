@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Roberta Campos, George Israel
 
-664 songs - 1 day 15 hr 0 min
+666 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Corpo a Corpo](https://open.spotify.com/track/2hZgZByQW2nnfYtatCsBsy) | [Ian Lasserre](https://open.spotify.com/artist/4qLHglq7jZvaVZFYwEyKWa) | [Corpo a Corpo](https://open.spotify.com/album/56jMSW9PRi6hQOUwqHrH5u) | 3:24 | 2022-12-16 | 2023-01-14 |
 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 | 2022-10-19 | 2022-12-10 |
 | [Dança](https://open.spotify.com/track/1mWjgRmbkSgUsHDevU7jT9) | [Dois é Par](https://open.spotify.com/artist/2LfLjCqLZupHpDuFWq70Zk) | [Dança](https://open.spotify.com/album/53FyXoXLlFO7K5yPYzC9qj) | 2:40 | 2021-12-24 | 2023-01-06 |
-| [Dança](https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo) | [Jô](https://open.spotify.com/artist/6zePDOB2FGOM9zCJC1oKfC), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG) | [Dança](https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0) | 3:02 | 2024-03-01 |  |
+| [Dança](https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo) | [Jô](https://open.spotify.com/artist/6zePDOB2FGOM9zCJC1oKfC), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Cuper](https://open.spotify.com/artist/5nxSXjNaqM5nInGmULlfpG) | [Dança](https://open.spotify.com/album/4KvxHv4e93jbIEUrjWzrh0) | 3:02 | 2024-03-01 | 2024-04-20 |
 | [Dança das Cadeiras](https://open.spotify.com/track/5HxGPli68CgNBfLmnxEQAU) | [Gab Lara](https://open.spotify.com/artist/4fMswJeTIgrLStwvUi1npH) | [Papo](https://open.spotify.com/album/5Z4E3FForlEGcAEHnzHPk9) | 2:03 | 2022-05-10 | 2022-06-04 |
 | [Dança Do Amor](https://open.spotify.com/track/67JG2SdJoiG0mUJ1AxeNwB) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Vêtu d'Amur](https://open.spotify.com/album/7jTYwfGnPOdMkGuBshsMhY) | 3:35 | 2023-11-24 | 2024-01-20 |
 | [Dança Do Espírito](https://open.spotify.com/track/3wjz57aFpVopeXLqI8V2aE) | [Clara & Flaira](https://open.spotify.com/artist/2HU7yNOUZ8YmwAdeGaJ2KT), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Dança Do Espírito](https://open.spotify.com/album/5Mb7zxsRSsxjaBNptGZSt2) | 3:59 | 2023-04-15 | 2023-06-17 |
@@ -203,6 +203,7 @@
 | [Ela](https://open.spotify.com/track/1rWS2zFGq3xhUEx0J43Cnu) | [Theo Bial](https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5) | [Ela](https://open.spotify.com/album/7iAek7YoU7PHd1hIDIb4Zp) | 4:49 | 2022-04-01 | 2022-04-09 |
 | [Ela \(Citação a Menina Dança\)](https://open.spotify.com/track/6fJijNhTg47mEoRwEjb0oQ) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Ela \(Citação a Menina Dança\)](https://open.spotify.com/album/3abE2EfOMcfyajW7knn8aR) | 4:04 | 2022-04-29 | 2022-06-04 |
 | [Elo](https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Cais](https://open.spotify.com/album/6wCle6ZgoAQcpmMuRCO21h) | 3:29 | 2021-12-24 | 2022-02-12 |
+| [Em cada pra sempre](https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [George Israel](https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T) | [4Mãos \- Lado A](https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH) | 3:11 | 2024-04-19 |  |
 | [Em Nome de Deus](https://open.spotify.com/track/6KfM6eW9NIlMslE2GzcBo8) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s), [Maíra Freitas](https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf) | [Em Nome de Deus](https://open.spotify.com/album/5uAcl2loIRcattAyJcGejP) | 3:30 | 2023-06-02 | 2023-07-15 |
 | [Endereço](https://open.spotify.com/track/3qmrgc40e81Uxk3XU8iE9Y) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs) | [Endereço](https://open.spotify.com/album/52fVTZ8HfUbklMOmr21gyK) | 3:25 | 2021-12-24 | 2022-01-22 |
 | [Esotérico](https://open.spotify.com/track/1zVqEY9PXPpYJKMi9Kk9yn) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Belezas São Coisas Acesas por Dentro](https://open.spotify.com/album/4bRLaK2J6JGpL3lzF2XLDH) | 4:46 | 2023-10-06 |  |
@@ -463,6 +464,7 @@
 | [Portas](https://open.spotify.com/track/5LwO15oqifZindqtrC79uH) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 2:42 | 2022-07-22 | 2022-08-27 |
 | [Portas](https://open.spotify.com/track/7rbAmQfqxxrdmxqjBcN2qA) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:42 | 2021-12-24 | 2022-07-29 |
 | [Porto](https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl) | [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM) | [Porto](https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj) | 3:25 | 2022-08-26 | 2024-03-02 |
+| [Porvir](https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P) | [Porvir](https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac) | 3:52 | 2024-04-19 |  |
 | [Pra lhe Dizer](https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Pra lhe Dizer](https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8) | 4:50 | 2023-03-11 | 2023-11-04 |
 | [Pra Lhe Dizer](https://open.spotify.com/track/3JFCXwHB6uc1K4A5GtFnW3) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Errante](https://open.spotify.com/album/6vrGTfdekueBX6lV9YJpSn) | 4:50 | 2023-11-03 | 2024-03-02 |
 | [Pra Me Benzer](https://open.spotify.com/track/4NOqJ2OsEUw5fm7YPfu7Be) | [Neila Kadhí](https://open.spotify.com/artist/47HGZbxX41Scp2vCevPIwP) | [Feitura](https://open.spotify.com/album/4fNLYFrL41L02UefiYHTCu) | 3:32 | 2022-08-11 | 2022-08-13 |

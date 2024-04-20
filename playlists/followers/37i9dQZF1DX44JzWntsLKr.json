@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 272576,
+  "2024-04-20": 272277,
   "date_first_scraped": "2022-05-30",
   "description": "Every Monbebe's HERO.",
   "name": "This Is Monsta X",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153261,
       "name": "About Last Night",
       "url": "https://open.spotify.com/track/0yTk9fzasypv10HQ0UzBth"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 153261,
       "name": "About Last Night",
       "url": "https://open.spotify.com/track/5NFYLelEuY7cf4Wtoyk3Ml"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176693,
       "name": "AND",
       "url": "https://open.spotify.com/track/39xj5RnMsDkujav0N57yaz"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 176693,
       "name": "AND",
       "url": "https://open.spotify.com/track/5baDbnn0EPGWcGsxFtLooL"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 197960,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/3nZmmlE1Fm6FLGDExRimAi"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197960,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/4azGSkYUdVFf4Z5lUrpIXX"
@@ -251,10 +251,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183120,
       "name": "Beautiful Liar",
       "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183120,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/5mMbYWbjbyvhijwLCKvbwm"
     },
     {
       "album": {
@@ -367,7 +385,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 139035,
       "name": "Better",
       "url": "https://open.spotify.com/track/5l7PVb1ZWJ9hRxVjNGafzB"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139035,
       "name": "Better",
       "url": "https://open.spotify.com/track/66GMyEE0aW4xOxWTujGql1"
@@ -403,7 +421,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188181,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/6bBcSQU3T9GZ76TKIBgpdB"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 188181,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/7z1MZoiPunukB3kCkKRBKh"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 130395,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/0av3641PFyw7SS5rWbzYff"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130395,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/6SO6S7rEE1fMYRFYSw9xuW"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 142173,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/0ovdVUlmpwFABG7D7xsUb8"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142173,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/4QqozqxrWE5YIzbJUALuPw"
@@ -551,7 +569,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200426,
       "name": "Burning Up (feat. R3HAB)",
       "url": "https://open.spotify.com/track/0Rb6T3b7j7cYDmGP9oZbcL"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 200426,
       "name": "Burning Up (feat. R3HAB)",
       "url": "https://open.spotify.com/track/5fw5CY7DwCTw4Jef87yUNv"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185360,
       "name": "Crescendo",
       "url": "https://open.spotify.com/track/17WqzLortqHvftKKGRAxXu"
@@ -675,7 +693,7 @@
     {
       "album": {
         "name": "REASON",
-        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
       },
       "artists": [
         {
@@ -683,12 +701,12 @@
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "date_added": "2023-01-12",
+      "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146226,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/1UbjPSgETXPg3bdzYLCrhO"
+      "duration_ms": 185360,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/53pVcW64FpOG2icNJYSlnu"
     },
     {
       "album": {
@@ -703,7 +721,61 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 146226,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1UbjPSgETXPg3bdzYLCrhO"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 146226,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/4CTEARcveVs7KfF9mznYUk"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "Deny",
+      "url": "https://open.spotify.com/track/1zBTzgIPwMO2oB9OtqoVid"
+    },
+    {
+      "album": {
+        "name": "REASON",
+        "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 173306,
       "name": "Deny",
       "url": "https://open.spotify.com/track/7Kg8zkls7jEP5H89mCG1vz"
@@ -869,10 +941,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211480,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a"
+    },
+    {
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6lVLpHULkoKw2pFhzDXXaN"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/7hGnReMTdUWkArGNyCH4Nj"
     },
     {
       "album": {
@@ -959,7 +1049,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187693,
       "name": "Got me in chains",
       "url": "https://open.spotify.com/track/3pqHfAhXksB03r8jrJuhrl"
@@ -977,7 +1067,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 187693,
       "name": "Got me in chains",
       "url": "https://open.spotify.com/track/7v8dcItRk0W546Puw0woW9"
@@ -1085,7 +1175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 203293,
       "name": "I got love",
       "url": "https://open.spotify.com/track/1qcWe8WuPOXdaXg34Lw5tw"
@@ -1103,7 +1193,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203293,
       "name": "I got love",
       "url": "https://open.spotify.com/track/58d5LtaqcDdk88tkJ6i3ql"
@@ -1157,7 +1247,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 187160,
       "name": "If with U",
       "url": "https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2"
@@ -1175,7 +1265,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187160,
       "name": "If with U",
       "url": "https://open.spotify.com/track/16Dierwlers6wGaInlSZUB"
@@ -1237,6 +1327,24 @@
     {
       "album": {
         "name": "REASON",
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "IT'S ALRIGHT",
+      "url": "https://open.spotify.com/track/0D83Z5wzavJfVfgIoNZL60"
+    },
+    {
+      "album": {
+        "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
       },
       "artists": [
@@ -1247,7 +1355,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175760,
       "name": "IT'S ALRIGHT",
       "url": "https://open.spotify.com/track/4oy5p3PSyc3QGgBEUqdiXn"
@@ -1283,7 +1391,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 192213,
       "name": "Just love",
       "url": "https://open.spotify.com/track/1JYumffldxoPtGhe7HN8Mx"
@@ -1301,7 +1409,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192213,
       "name": "Just love",
       "url": "https://open.spotify.com/track/4ms7Udwv7O0frJech2wH3o"
@@ -1319,7 +1427,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207306,
       "name": "KISS OR DEATH",
       "url": "https://open.spotify.com/track/31NoynLg4SrXK8Lcb9mLmL"
@@ -1337,7 +1445,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "KISS OR DEATH",
       "url": "https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF"
@@ -1403,6 +1511,24 @@
     {
       "album": {
         "name": "REASON",
+        "url": "https://open.spotify.com/album/4fA1hFF7hfpFK7Mk3MGySp"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "LONE RANGER",
+      "url": "https://open.spotify.com/track/0QKo31vEwGoAAJjohT2m1C"
+    },
+    {
+      "album": {
+        "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
       },
       "artists": [
@@ -1413,7 +1539,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203680,
       "name": "LONE RANGER",
       "url": "https://open.spotify.com/track/0R4axRx5Y4rwYY22UZhx2e"
@@ -1431,7 +1557,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215613,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/10Km8owVoN85qfQdp8qGy2"
@@ -1449,7 +1575,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 215613,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc"
@@ -1543,7 +1669,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190586,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0dKwCfn6KgQhUkx2EDmtcX"
@@ -1561,7 +1687,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 190586,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/3k9tiwbGNmznma8hCuLMhp"
@@ -1817,7 +1943,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/1EFp3r8qhj1MKmRaWEZOx6"
@@ -1835,7 +1961,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
@@ -1931,13 +2057,13 @@
           "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169812,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4"
@@ -1959,7 +2085,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169812,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/4g7pzUm1o1Td48BPc5iJqr"
@@ -2031,7 +2157,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204773,
       "name": "Ride with U",
       "url": "https://open.spotify.com/track/2efh8WBVQzqKWHxodAknuc"
@@ -2049,7 +2175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 204773,
       "name": "Ride with U",
       "url": "https://open.spotify.com/track/6KlRydEgSlWQ4MqmfVgeor"
@@ -2139,7 +2265,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f"
@@ -2157,7 +2283,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202840,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/4ezRIZ02AlrPl8LDGrA3KL"
@@ -2175,7 +2301,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 180358,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/25c0iiE0EMtiVMWWQ3JYFZ"
@@ -2193,7 +2319,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180358,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/3Dg57X2VDfE9Yg9FOe5bcc"
@@ -2319,7 +2445,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236986,
       "name": "SPOTLIGHT",
       "url": "https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL"
@@ -2349,13 +2475,13 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239226,
       "name": "SPOTLIGHT",
       "url": "https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw"
@@ -2497,7 +2623,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237756,
       "name": "The Dreaming",
       "url": "https://open.spotify.com/track/0itLxqryWXsAsvMA8A7Ldh"
@@ -2515,7 +2641,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 237756,
       "name": "The Dreaming",
       "url": "https://open.spotify.com/track/2cua5TG4yhtmknb2L8RKDR"
@@ -2551,7 +2677,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 129145,
       "name": "Tied to Your Body",
       "url": "https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo"
@@ -2569,7 +2695,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129145,
       "name": "Tied to Your Body",
       "url": "https://open.spotify.com/track/5kMjYIqev1f4VOlMUs9p7x"
@@ -2641,7 +2767,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 220545,
       "name": "Whispers in the Dark",
       "url": "https://open.spotify.com/track/1qOla2w5bk6jb5C4RCDZyE"
@@ -2659,7 +2785,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220545,
       "name": "Whispers in the Dark",
       "url": "https://open.spotify.com/track/53sXJ3GstoyTGSlJkAZ9re"
@@ -2739,7 +2865,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 218880,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/31swab24TD27FuYp62SWg6"
@@ -2757,7 +2883,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218880,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/7FivN8zfUEyi1oSDzK3LQq"
@@ -2811,7 +2937,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 199209,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH"
@@ -2829,7 +2955,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199209,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/5W0NyS4MgvxWIEsrvbnBdp"
@@ -2919,7 +3045,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204373,
       "name": "\ubd80\ub098\ube44 (The Tiger Moth)",
       "url": "https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE"
@@ -2931,13 +3057,13 @@
       },
       "artists": [
         {
-          "name": "Monsta X",
+          "name": "MONSTA X",
           "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204373,
       "name": "\ubd80\ub098\ube44 The Tiger Moth",
       "url": "https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY"
@@ -2955,7 +3081,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206920,
       "name": "\uc0ac\ub791\ud55c\ub2e4",
       "url": "https://open.spotify.com/track/1TK0O4J4jE4hGfDtFXDTs2"
@@ -2973,7 +3099,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 206920,
       "name": "\uc0ac\ub791\ud55c\ub2e4",
       "url": "https://open.spotify.com/track/5YeSFZaZCgvK1LcjZp3MnC"

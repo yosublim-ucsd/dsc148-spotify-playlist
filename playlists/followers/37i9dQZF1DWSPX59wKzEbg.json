@@ -1,9 +1,43 @@
 {
-  "2024-04-19": 27375,
+  "2024-04-20": 27374,
   "date_first_scraped": "2023-12-15",
   "description": "A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season. Cover: The Bocellis",
   "name": "Home for the Holidays",
   "tracks": [
+    {
+      "album": {
+        "name": "A Spaceman Came Travelling",
+        "url": "https://open.spotify.com/album/5JSuT9T294fXRBhX6YBeFG"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        },
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Russell Watson",
+          "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Simon Lole",
+          "url": "https://open.spotify.com/artist/5a4L3vNdpidSEPG2XbHs4V"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277053,
+      "name": "A Spaceman Came Travelling",
+      "url": "https://open.spotify.com/track/0gQl1vpiPfYoErcshGPGg9"
+    },
     {
       "album": {
         "name": "A Spaceman Came Travelling",
@@ -29,7 +63,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277053,
       "name": "A Spaceman Came Travelling (Arr. by Ian Tilley)",
       "url": "https://open.spotify.com/track/2GaEN9yfySSRSAstGYEs1k"
@@ -128,6 +162,28 @@
     },
     {
       "album": {
+        "name": "Winter Magic",
+        "url": "https://open.spotify.com/album/23qTWmrII6hI6Wx5Ww8KHT"
+      },
+      "artists": [
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        {
+          "name": "The Pavao Quartet",
+          "url": "https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/2jK9IKYhIxeyeEVAXNPrZr"
+    },
+    {
+      "album": {
         "name": "Classical Christmas Music",
         "url": "https://open.spotify.com/album/2kgeSamd3cuGJpO2TsMMbE"
       },
@@ -147,7 +203,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179313,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/1JjCNNVVl8UX8gojY70J0f"
@@ -199,10 +255,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206880,
       "name": "Ding Dong Merrily on High",
       "url": "https://open.spotify.com/track/4t80naJiyRRi8dEpnIaEd1"
+    },
+    {
+      "album": {
+        "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/2D0O7rWvlcIGW2sqGzoPhm"
+      },
+      "artists": [
+        {
+          "name": "Military Wives Choirs",
+          "url": "https://open.spotify.com/artist/5EAPWPKNohvyMtpL1PAqo1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206880,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/6GDNKy0eWkS4lT43qnMpHm"
     },
     {
       "album": {
@@ -411,10 +485,58 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223613,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/4wBzdpSDT2pdJVe42rlQYK"
+    },
+    {
+      "album": {
+        "name": "A Winter Symphony",
+        "url": "https://open.spotify.com/album/14VFmr3Kk54OjE7beC0x4D"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brightman",
+          "url": "https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223613,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/71CGkvCGATZPitR1xEiLWU"
+    },
+    {
+      "album": {
+        "name": "Christmas with Aled and Russell",
+        "url": "https://open.spotify.com/album/3m8kIp6sqchVrJqVZGFgxL"
+      },
+      "artists": [
+        {
+          "name": "Meredith Willson",
+          "url": "https://open.spotify.com/artist/1n55BzpMYv8IRkyM1UZXMY"
+        },
+        {
+          "name": "Aled Jones",
+          "url": "https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn"
+        },
+        {
+          "name": "Russell Watson",
+          "url": "https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK"
+        },
+        {
+          "name": "Tom Rainey",
+          "url": "https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192986,
+      "name": "It\u2019s Beginning to Look a Lot Like Christmas",
+      "url": "https://open.spotify.com/track/4htY224SunxNqskTczJSXI"
     },
     {
       "album": {
@@ -445,7 +567,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192986,
       "name": "It\u2019s Beginning to Look a Lot Like Christmas (Arr. by Tom Rainey)",
       "url": "https://open.spotify.com/track/54ubrW5dIowPKy7Ul18Zj1"
@@ -650,6 +772,28 @@
     },
     {
       "album": {
+        "name": "Christmas Hits",
+        "url": "https://open.spotify.com/album/1LHFGp5q7na0R9kaFTWAhD"
+      },
+      "artists": [
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        {
+          "name": "The Pavao Quartet",
+          "url": "https://open.spotify.com/artist/0IDCYTiXoyA9Qh5fpiWTGT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/6Ad94Tru5ElPq7ElBJyDb3"
+    },
+    {
+      "album": {
         "name": "Music for Christmas Day",
         "url": "https://open.spotify.com/album/2J6wkw78U2hLAgcZGJU30w"
       },
@@ -673,7 +817,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192533,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/6XzVBeIbc7hjXU4XoDhjgC"
@@ -759,6 +903,32 @@
     {
       "album": {
         "name": "The Carols Album",
+        "url": "https://open.spotify.com/album/2VGiXYpSonQmsOBNLPC6Kr"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "The Choirboys",
+          "url": "https://open.spotify.com/artist/3ZtRtJV4yZOmdWjywEjNND"
+        },
+        {
+          "name": "Martin Neary",
+          "url": "https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "The Holly And The Ivy",
+      "url": "https://open.spotify.com/track/0l0Q4MhZ9urILJqYCBiW0N"
+    },
+    {
+      "album": {
+        "name": "The Carols Album",
         "url": "https://open.spotify.com/album/3hO4MXCVnMuu85jGOnx6IH"
       },
       "artists": [
@@ -777,7 +947,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211466,
       "name": "The Holly And The Ivy",
       "url": "https://open.spotify.com/track/22p6DFlIuYklMUmByVND1b"
@@ -899,10 +1069,40 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151426,
       "name": "Trad / Arr Herbert, S.: In Dulci Jubilo",
       "url": "https://open.spotify.com/track/4m3IRqYuWk2nWOhbKFm3fh"
+    },
+    {
+      "album": {
+        "name": "This Is Christmas",
+        "url": "https://open.spotify.com/album/4aVvhGDbVTt9MNDVSpUfAq"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Katherine Jenkins",
+          "url": "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        },
+        {
+          "name": "Coro",
+          "url": "https://open.spotify.com/artist/10shIkxXXWeAD4AFvW4GJy"
+        },
+        {
+          "name": "Sally Herbert",
+          "url": "https://open.spotify.com/artist/4TtWiCEUhyeiw99Fm4CXbV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151426,
+      "name": "Trad / Arr Herbert, S.: In Dulci Jubilo",
+      "url": "https://open.spotify.com/track/4vvr9NpmgmTdzneh9jsZmx"
     },
     {
       "album": {
@@ -929,10 +1129,40 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308200,
       "name": "Trad / Hebert, S. & Jenkins, K.: Wexford Carol",
       "url": "https://open.spotify.com/track/2D7Qp23q7TR4FhiO3ThRP3"
+    },
+    {
+      "album": {
+        "name": "This Is Christmas",
+        "url": "https://open.spotify.com/album/4aVvhGDbVTt9MNDVSpUfAq"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Katherine Jenkins",
+          "url": "https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl"
+        },
+        {
+          "name": "Coro",
+          "url": "https://open.spotify.com/artist/10shIkxXXWeAD4AFvW4GJy"
+        },
+        {
+          "name": "Sally Herbert",
+          "url": "https://open.spotify.com/artist/4TtWiCEUhyeiw99Fm4CXbV"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308200,
+      "name": "Trad / Hebert, S. & Jenkins, K.: Wexford Carol",
+      "url": "https://open.spotify.com/track/6E2mtLvHzfDpNe7NHo53zO"
     },
     {
       "album": {
@@ -965,10 +1195,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226746,
       "name": "What Child Is This",
       "url": "https://open.spotify.com/track/1J7QdERJN06qj6hefLR7To"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/73OOGmdn4NGr0dJDhPk3y5"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228400,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/10qxOOGKwtjXNEWVIJ8w42"
     },
     {
       "album": {

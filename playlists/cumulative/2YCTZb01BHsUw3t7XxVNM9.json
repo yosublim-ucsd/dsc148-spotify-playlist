@@ -1925,6 +1925,28 @@
     },
     {
       "album": {
+        "name": "Dekanchcore",
+        "url": "https://open.spotify.com/album/61KFGVG1fX1lotNOeljBJZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        },
+        {
+          "name": "Joe Fight",
+          "url": "https://open.spotify.com/artist/3C463rGXXXCWI9NzlMFS6u"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "Dekanchcore",
+      "url": "https://open.spotify.com/track/7go5G1aRkybbFhEJwfwI90"
+    },
+    {
+      "album": {
         "name": "SPEED BALL EVOLUTION",
         "url": "https://open.spotify.com/album/2PcHg9N9gZkUr3n97f1M8h"
       },

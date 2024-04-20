@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2065185,
+  "2024-04-20": 2064194,
   "date_first_scraped": "2021-12-21",
   "description": "Big hits from the world of acoustics.",
   "name": "Acoustic Throwbacks",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278346,
       "name": "A Thousand Miles (Live Acoustic)",
       "url": "https://open.spotify.com/track/6t9smWoGTgUF2LVSQuJK5P"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278346,
       "name": "A Thousand Miles - Acoustic",
       "url": "https://open.spotify.com/track/1YuUPfLPOyvB1QYDKam0tc"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206702,
       "name": "Attention - Acoustic",
       "url": "https://open.spotify.com/track/2bKS7HtZ9Cy4K7NGeRlePF"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206702,
       "name": "Attention - Acoustic",
       "url": "https://open.spotify.com/track/4I8s6vwzHT2geqH91w2Dyg"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234133,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234213,
       "name": "Be As You Are - Acoustic",
       "url": "https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3"
@@ -519,6 +519,24 @@
       "duration_ms": 154933,
       "name": "Be Mine - Acoustic Version",
       "url": "https://open.spotify.com/track/1fqUqhhPKZehjiKNLkhZks"
+    },
+    {
+      "album": {
+        "name": "Acoustic: The Collection",
+        "url": "https://open.spotify.com/album/4FVpFPHPAw8sBMyAPnEsrH"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Be the One - Acoustic",
+      "url": "https://open.spotify.com/track/12GtyfSxSxWA1OtKA4Hxc0"
     },
     {
       "album": {
@@ -605,7 +623,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146824,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/5M7NJBfJQMKPg5jfcJoF9D"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146824,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/5TvzoXAbSg0AtGs39030xq"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231253,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/3PRpinHSGqytZnOKwCsR7l"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245555,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215933,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/3ThoNs4xBJMflCJqfT6XSF"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216720,
       "name": "Bubbly - Acoustic",
       "url": "https://open.spotify.com/track/5RMjO7UAJUybWAwZ4t2wKz"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 193728,
       "name": "By Your Side - Abbey Road Live Version",
       "url": "https://open.spotify.com/track/16eWR8rIz9BNAcMC64Yuc5"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148174,
       "name": "Can't Stop the Feeling / This Is What You Came For",
       "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148174,
       "name": "Can't Stop the Feeling / This Is What You Came For",
       "url": "https://open.spotify.com/track/5xcsnZOeoLJkgFz3uVNc7h"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 144830,
       "name": "Candle In the Wind - Acoustic",
       "url": "https://open.spotify.com/track/2EKVsbv9yGs7i3EXc4qOlh"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144830,
       "name": "Candle In the Wind - Acoustic",
       "url": "https://open.spotify.com/track/6PvFJcvITBpESYcjzkuzf0"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Chasing Pavements (Live at Hotel Cafe)",
       "url": "https://open.spotify.com/track/5gcj6l37gMBeSAjFnSKeWh"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238003,
       "name": "Chocolate - Acoustic Version",
       "url": "https://open.spotify.com/track/1TaLP9QdlbZ0s9CQQzDGkI"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238003,
       "name": "Chocolate - Acoustic Version",
       "url": "https://open.spotify.com/track/2yyj5YLcGKcddBaQBNsulz"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187426,
       "name": "Demons - Live London Sessions / 2013",
       "url": "https://open.spotify.com/track/2nwYodyzUBEAfqzzyQXoGx"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Demons - Live London Sessions / 2013",
       "url": "https://open.spotify.com/track/4Y2ZHikCR0EApcIR3cdCdj"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Don't Leave Me Alone (feat. Anne-Marie) - Acoustic",
       "url": "https://open.spotify.com/track/0jvCjydreWzXrID8Uo5xxM"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188500,
       "name": "Don't Leave Me Alone (feat. Anne-Marie) - Acoustic",
       "url": "https://open.spotify.com/track/3UYVT5buqH8AEVmati8Ulz"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206324,
       "name": "Drag Me Down / As Long As You Love Me",
       "url": "https://open.spotify.com/track/2YIQa8910IbEuqkUHmUoua"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206324,
       "name": "Drag Me Down / As Long As You Love Me",
       "url": "https://open.spotify.com/track/3qH8dFZIeOilLz8Zn60D8v"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196735,
       "name": "Dye My Hair - Acoustic Version",
       "url": "https://open.spotify.com/track/3tKz0pbZj8Rxha2kseiwpp"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177605,
       "name": "False Alarm - Acoustic Version",
       "url": "https://open.spotify.com/track/0nKuytIjMXj1UDNyPsgOUp"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/618v3huzqDQQBfMogznSb3"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195173,
       "name": "Find You - Acoustic",
       "url": "https://open.spotify.com/track/4geSKJSNZDS8hE82xC7KRX"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195173,
       "name": "Find You - Acoustic",
       "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257226,
       "name": "Free Fallin' - Live",
       "url": "https://open.spotify.com/track/0gO2Dn1VnXBllCZdKZNH0L"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "Hang with Me - Acoustic Version",
       "url": "https://open.spotify.com/track/2gt9CHwmjJOg8hphAtm8ee"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217626,
       "name": "Haunted - Acoustic",
       "url": "https://open.spotify.com/track/6uWuycgG9AqbjS6KEBbPgF"
@@ -2513,7 +2531,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217613,
       "name": "Haunted - Acoustic Version",
       "url": "https://open.spotify.com/track/62rlxI6g2PNaWsHoiRryto"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270466,
       "name": "Heaven - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270506,
       "name": "Heaven - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/5mQSXVIEby1cb3CWHaqSlK"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232973,
       "name": "Here Without You - Acoustic",
       "url": "https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232013,
       "name": "Here Without You - Acoustic Version",
       "url": "https://open.spotify.com/track/2Zi27tBhXnDQTz3porgaiw"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269946,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271146,
       "name": "How to Save a Life - Live in Nashville, TN - December 2006",
       "url": "https://open.spotify.com/track/1nv5i3do60HP13MXuG4znq"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/0uXrseeLQkcjiI1QAmHVPm"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202833,
       "name": "Hurts So Good - Live From The Studio",
       "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
@@ -2875,7 +2893,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244040,
       "name": "I Don't Want to Be - Stripped Version",
       "url": "https://open.spotify.com/track/3iEbhxDtjiTI3u2IE9G48B"
@@ -2893,7 +2911,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244333,
       "name": "I Don't Want to Be - Stripped Version",
       "url": "https://open.spotify.com/track/4bgCdwNpbU3sCJ3mupBW8S"
@@ -2911,7 +2929,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 126827,
       "name": "I Feel It Coming - Acoustic Live Lounge",
       "url": "https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126827,
       "name": "I Feel It Coming - Acoustic Live Lounge",
       "url": "https://open.spotify.com/track/6rTmz0BVcErmi00dmEMDFn"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201508,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/7pKMoXeiCv40wbrjII06VO"
@@ -3031,7 +3049,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211291,
       "name": "I Wanna Dance With Somebody (Acoustic)",
       "url": "https://open.spotify.com/track/6fQt7ygk8EZ0AastFZRsHK"
@@ -3049,7 +3067,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 211291,
       "name": "I Wanna Dance with Somebody - Acoustic",
       "url": "https://open.spotify.com/track/2Ksnh0QtEidLCZXSbPqxoI"
@@ -3121,7 +3139,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236440,
       "name": "I'm Like A Bird - Acoustic Version",
       "url": "https://open.spotify.com/track/1DcVzQFZAHvwcdYjlKBBrD"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236440,
       "name": "I'm Like A Bird - Acoustic Version",
       "url": "https://open.spotify.com/track/6hINYyioHOo4W2YmykvdGj"
@@ -3229,7 +3247,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230200,
       "name": "If I Lose Myself - Acoustic",
       "url": "https://open.spotify.com/track/0W3kIk1w1qw0G3zKQsuApH"
@@ -3247,7 +3265,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230200,
       "name": "If I Lose Myself - Acoustic",
       "url": "https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7"
@@ -3301,7 +3319,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 235763,
       "name": "If You're Not the One",
       "url": "https://open.spotify.com/track/1GR048FTHqQeSuiP1qszT3"
@@ -3319,7 +3337,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235763,
       "name": "If You're Not the One",
       "url": "https://open.spotify.com/track/7EDmtg8YNDuZNkhLlvhTr9"
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt"
@@ -3489,7 +3507,7 @@
     {
       "album": {
         "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
+        "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
       },
       "artists": [
         {
@@ -3502,25 +3520,25 @@
       "date_removed": null,
       "duration_ms": 243573,
       "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
+      "url": "https://open.spotify.com/track/1zZDoGaxzbO2f8aqLY1WBk"
     },
     {
       "album": {
         "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8"
+        "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
       "artists": [
         {
-          "name": "Years & Years",
+          "name": "Olly Alexander (Years & Years)",
           "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2024-04-19",
       "duration_ms": 243573,
       "name": "King - Acoustic",
-      "url": "https://open.spotify.com/track/1zZDoGaxzbO2f8aqLY1WBk"
+      "url": "https://open.spotify.com/track/46iMzIoVmlfuorWb6ixZKm"
     },
     {
       "album": {
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
@@ -3755,7 +3773,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266746,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/3KJ93VZJvSvIdlMa4eyKdX"
@@ -3827,7 +3845,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/4FqhM1hv7pQ0UbemW90HZL"
@@ -3885,7 +3903,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq"
@@ -3907,7 +3925,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
@@ -3991,7 +4009,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182078,
       "name": "Lonely Together - Acoustic",
       "url": "https://open.spotify.com/track/3bejwgKeed56qo9OkKBaus"
@@ -4013,7 +4031,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182078,
       "name": "Lonely Together - Acoustic",
       "url": "https://open.spotify.com/track/3fgjE7IXIkrPag6YKcKeHa"
@@ -4049,7 +4067,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254285,
       "name": "Love Me Like You Do - Acoustic",
       "url": "https://open.spotify.com/track/6os0XBBqc9RLuZ3eF7vCcV"
@@ -4085,7 +4103,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Love Me Like You Do - Acoustic",
       "url": "https://open.spotify.com/track/6vb9xhajbv5dpzCaGUne5u"
@@ -4205,7 +4223,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
@@ -4263,7 +4281,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207813,
       "name": "Me And My Broken Heart",
       "url": "https://open.spotify.com/track/7oGnaqgNh6hBAthwxYCS4W"
@@ -4317,7 +4335,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219160,
       "name": "Mercy - Acoustic",
       "url": "https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ"
@@ -4335,7 +4353,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149946,
       "name": "Middle Of The Night - Acoustic",
       "url": "https://open.spotify.com/track/5kt7zu5EP4eZiZsQuc5sQG"
@@ -4415,7 +4433,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226320,
       "name": "Misery - Acoustic Version",
       "url": "https://open.spotify.com/track/7ieV1TBSMyf5sFiPh9X2ai"
@@ -4433,7 +4451,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226320,
       "name": "Misery - Acoustic Version",
       "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
@@ -4469,10 +4487,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183950,
       "name": "More Than You Know - Acoustic",
       "url": "https://open.spotify.com/track/1oinuryVDJnYyWoYic9zDI"
+    },
+    {
+      "album": {
+        "name": "More Than You Know (Acoustic)",
+        "url": "https://open.spotify.com/album/79WvqpQzRvnLlrB64S2bCA"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183950,
+      "name": "More Than You Know - Acoustic",
+      "url": "https://open.spotify.com/track/24XOlemQJORg0nBJAHC24p"
     },
     {
       "album": {
@@ -4487,7 +4523,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200880,
       "name": "Most Girls - Acoustic",
       "url": "https://open.spotify.com/track/2vwfLDovGdUv36zwtcoQD5"
@@ -4505,7 +4541,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200880,
       "name": "Most Girls - Acoustic",
       "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
@@ -4559,7 +4595,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317333,
       "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
       "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
@@ -4595,7 +4631,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182740,
       "name": "My Love - Acoustic",
       "url": "https://open.spotify.com/track/0MVnhm9F7xIu9Lc8t8dL2u"
@@ -4631,7 +4667,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182740,
       "name": "My Love - Acoustic",
       "url": "https://open.spotify.com/track/4DFfEiSy8xyYhNkrgAzXx0"
@@ -4649,7 +4685,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
@@ -4667,7 +4703,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
       "url": "https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9"
@@ -4739,7 +4775,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250573,
       "name": "Nervous - Acoustic",
       "url": "https://open.spotify.com/track/1ITmQCb2v9dRppSxruOb2q"
@@ -4757,7 +4793,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250573,
       "name": "Nervous - Acoustic",
       "url": "https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr"
@@ -4829,7 +4865,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220493,
       "name": "Night Changes - Live Acoustic Session",
       "url": "https://open.spotify.com/track/7faQiBLuTTOUUs8rNoA5ml"
@@ -4847,7 +4883,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221050,
       "name": "Night Changes - Live Acoustic Session",
       "url": "https://open.spotify.com/track/7aee6sIrFxp6ohSIq3TmHd"
@@ -4869,7 +4905,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253613,
       "name": "No Air (feat. Chris Brown) - Acoustic Version",
       "url": "https://open.spotify.com/track/4oElMo1UEpdwVqtGFJBh8F"
@@ -4891,7 +4927,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253693,
       "name": "No Air (feat. Chris Brown) - Acoustic Version",
       "url": "https://open.spotify.com/track/5tmambyCorzpRg7ViOO3SN"
@@ -4909,7 +4945,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/0DeNwzmYKxmAe7XtfXRsB6"
@@ -4927,7 +4963,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7"
@@ -4949,6 +4985,28 @@
       "duration_ms": 259569,
       "name": "No One - Acoustic",
       "url": "https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP"
+    },
+    {
+      "album": {
+        "name": "No Promises (feat. Demi Lovato) [Stripped Version]",
+        "url": "https://open.spotify.com/album/5z8m3FCquBQ54ixGk19neJ"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206406,
+      "name": "No Promises (feat. Demi Lovato) - Stripped Version",
+      "url": "https://open.spotify.com/track/0afu8bIStQoBRHbc2RjcWA"
     },
     {
       "album": {
@@ -5003,7 +5061,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/4xFKrhQIvPDIpmFvqlr0sQ"
@@ -5021,7 +5079,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229960,
       "name": "No Right To Love You - Acoustic",
       "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
@@ -5057,7 +5115,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 205375,
       "name": "Omen - Acoustic",
       "url": "https://open.spotify.com/track/0G7zUWU575zYyHCrOy14yz"
@@ -5075,7 +5133,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205375,
       "name": "Omen - Acoustic",
       "url": "https://open.spotify.com/track/4838tqXJWrfVJMe0xeYAAI"
@@ -5111,7 +5169,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
@@ -5129,7 +5187,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
@@ -5183,7 +5241,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247468,
       "name": "Only Girl In The World - Live Lounge Acoustic Version",
       "url": "https://open.spotify.com/track/6SiVcj93hSwHvRUOvfr4Io"
@@ -5201,7 +5259,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247468,
       "name": "Only Girl In The World - Radio 1 Live Lounge Acoustic Version",
       "url": "https://open.spotify.com/track/5mzbxuHRsbnUzGyJkDy4je"
@@ -5505,7 +5563,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198720,
       "name": "Price Tag - Acoustic Version",
       "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
@@ -5523,7 +5581,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198960,
       "name": "Price Tag - Acoustic Version",
       "url": "https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH"
@@ -5541,7 +5599,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247626,
       "name": "Pride (In the Name of Love)",
       "url": "https://open.spotify.com/track/2C1jkbtYDs3BQG4H7gAnYn"
@@ -5675,7 +5733,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205706,
       "name": "Push The Button - Acoustic Version",
       "url": "https://open.spotify.com/track/2omf2plBkgW1x5SHYEFc6F"
@@ -5711,7 +5769,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy"
@@ -5747,7 +5805,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
@@ -5993,7 +6051,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210866,
       "name": "Sexy Love - Acoustic",
       "url": "https://open.spotify.com/track/6bEFATtkxrq72ExCHZODHF"
@@ -6011,7 +6069,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Sexy Love - Acoustic",
       "url": "https://open.spotify.com/track/7waLUfeErmDaU6SBjDWFI3"
@@ -6029,7 +6087,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252502,
       "name": "Shake It Out - Acoustic",
       "url": "https://open.spotify.com/track/4DHAPBFCJ6Y5xYwaaCEFqT"
@@ -6065,7 +6123,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252506,
       "name": "Shake It Out - Acoustic",
       "url": "https://open.spotify.com/track/2nPUkZzM3cHNmXhzk5SOC4"
@@ -6087,7 +6145,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 182553,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk"
@@ -6109,7 +6167,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182553,
       "name": "Shallow (Acoustic)",
       "url": "https://open.spotify.com/track/4EPcvT9vB3hPrlZq3XF9jr"
@@ -6181,7 +6239,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202245,
       "name": "Shotgun - Acoustic Version",
       "url": "https://open.spotify.com/track/4lo3bVqV0U805BdS1Pagki"
@@ -6199,7 +6257,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204381,
       "name": "Shotgun - Acoustic Version",
       "url": "https://open.spotify.com/track/6kH01KoU0eNgOmiUWvHGVk"
@@ -6217,7 +6275,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245866,
       "name": "Shout Out to My Ex - Acoustic",
       "url": "https://open.spotify.com/track/2X4UxcPyj9hvgwmfi7c6VT"
@@ -6235,7 +6293,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246599,
       "name": "Shout Out to My Ex - Acoustic",
       "url": "https://open.spotify.com/track/2RvqQmA4IHfreBboBOWPXY"
@@ -6423,7 +6481,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160592,
       "name": "Slow Hands - Acoustic",
       "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
@@ -6459,7 +6517,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160592,
       "name": "Slow Hands - Acoustic",
       "url": "https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW"
@@ -6477,7 +6535,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200810,
       "name": "Smile - Acoustic",
       "url": "https://open.spotify.com/track/47Y2E9HfyU7diW5WES6vKb"
@@ -6495,7 +6553,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Smile - Acoustic Version",
       "url": "https://open.spotify.com/track/6pUwfNwZzul4PoKG9RIeCL"
@@ -6531,7 +6589,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182920,
       "name": "So Sick - Acoustic",
       "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
@@ -6549,7 +6607,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183200,
       "name": "So Sick - Acoustic",
       "url": "https://open.spotify.com/track/4HCpIhzKelkCloifq32KUl"
@@ -6585,7 +6643,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192574,
       "name": "Solo Dance - Acoustic Mix",
       "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
@@ -6695,7 +6753,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo"
@@ -6721,7 +6779,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
@@ -6739,7 +6797,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323080,
       "name": "State Of Grace - Acoustic",
       "url": "https://open.spotify.com/track/5G9AVKld9q7DCrmoY42raf"
@@ -6757,7 +6815,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 323080,
       "name": "State Of Grace - Acoustic Version",
       "url": "https://open.spotify.com/track/6g6ideAIzJ26LLxtpoDHVy"
@@ -6797,7 +6855,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
@@ -6815,7 +6873,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
@@ -6833,7 +6891,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241283,
       "name": "Still Falling For You - Live",
       "url": "https://open.spotify.com/track/26m4W0OdNVDsgDY5relJwj"
@@ -6851,7 +6909,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243280,
       "name": "Still Falling For You - Live",
       "url": "https://open.spotify.com/track/148ogHFRdVmKcYJV04pdIK"
@@ -6887,7 +6945,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263920,
       "name": "Stitches - MTV Unplugged",
       "url": "https://open.spotify.com/track/3t40W5kFgs4jQKtdRMxUwK"
@@ -6905,7 +6963,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 263920,
       "name": "Stitches - MTV Unplugged",
       "url": "https://open.spotify.com/track/5F7EYAefao5GQB2vUA49pP"
@@ -6999,7 +7057,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203293,
       "name": "Strangers - Acoustic",
       "url": "https://open.spotify.com/track/65he1nxW8DwdL0k7fpC5wg"
@@ -7017,7 +7075,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184475,
       "name": "Strip That Down - Acoustic",
       "url": "https://open.spotify.com/track/1Ddj6nkhUP3lHpLvDqPsvC"
@@ -7053,7 +7111,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184475,
       "name": "Strip That Down - Acoustic",
       "url": "https://open.spotify.com/track/6N8bOypJtAzJp8w2LF8cWG"
@@ -7071,7 +7129,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209449,
       "name": "Sugar - Acoustic",
       "url": "https://open.spotify.com/track/34hxvwFw9OmXVg3DO27V80"
@@ -7169,7 +7227,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189614,
       "name": "Swan Song - Acoustic",
       "url": "https://open.spotify.com/track/5vj7xvilPeCv3DQgpy9auU"
@@ -7205,7 +7263,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246493,
       "name": "Take Me to Church - Live From Spotify London",
       "url": "https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi"
@@ -7223,7 +7281,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246500,
       "name": "Take Me To Church - Live From Spotify, London",
       "url": "https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc"
@@ -7241,7 +7299,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184326,
       "name": "Take On Me - 2017 Acoustic",
       "url": "https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn"
@@ -7371,7 +7429,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 203949,
       "name": "The Book of Love - Spotify Session",
       "url": "https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6"
@@ -7389,7 +7447,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191247,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2zFlsk4LABgLWDRkiIrShG"
@@ -7479,7 +7537,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201093,
       "name": "There's Nothing Holdin' Me Back - Acoustic",
       "url": "https://open.spotify.com/track/48lm2sNdS1rlteMIwLyhJF"
@@ -7497,7 +7555,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201093,
       "name": "There's Nothing Holdin' Me Back - Acoustic",
       "url": "https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3"
@@ -7563,7 +7621,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
@@ -7581,7 +7639,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217400,
       "name": "Think Before I Talk - Acoustic",
       "url": "https://open.spotify.com/track/1yP8Yqwu8YS3BiBKVWCjpR"
@@ -7603,7 +7661,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 211573,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/2NemVm8OFPcHdm4JhTTFTD"
@@ -7625,7 +7683,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211573,
       "name": "Think Twice",
       "url": "https://open.spotify.com/track/6JjQ6iGRJ7PLbJGR4WB9uu"
@@ -7643,7 +7701,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291093,
       "name": "Thinking Of You - Acoustic Version",
       "url": "https://open.spotify.com/track/0Yqu5nJ5GxMR0Iwxo0eHKa"
@@ -7661,7 +7719,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291813,
       "name": "Thinking Of You - Acoustic Version",
       "url": "https://open.spotify.com/track/071J0JgMvVzH1GhcoMxEyV"
@@ -7679,7 +7737,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230440,
       "name": "This Is What It Takes",
       "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
@@ -7697,7 +7755,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230440,
       "name": "This Is What It Takes",
       "url": "https://open.spotify.com/track/4xIZj7JRC3FnGPAjmkhNeW"
@@ -7751,7 +7809,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
@@ -7769,7 +7827,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
@@ -7913,7 +7971,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6CQaVuICm1WVXyy3SZ5jEI"
@@ -7931,7 +7989,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233733,
       "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
       "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
@@ -7967,7 +8025,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138201,
       "name": "Versace On The Floor",
       "url": "https://open.spotify.com/track/08w4crWY1kbeXg5Kql7gSZ"
@@ -7985,7 +8043,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 138201,
       "name": "Versace On The Floor",
       "url": "https://open.spotify.com/track/1KalIfAR9lEpLWZZFdEfW4"
@@ -8021,7 +8079,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207480,
       "name": "Waiting All Night - Acoustic Version",
       "url": "https://open.spotify.com/track/7DZGEzuuydBrZomG0XSlRe"
@@ -8057,7 +8115,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225106,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
@@ -8075,7 +8133,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 225333,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/4mrDXeRifQfTIKmqzU6OwL"
@@ -8133,7 +8191,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223809,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/05ThWvQvhz619mB37nh6Rw"
@@ -8151,7 +8209,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223809,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/0EXwPgIgkSF6Hf28PAIIAf"
@@ -8271,7 +8329,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240652,
       "name": "What Do You Love - Acoustic",
       "url": "https://open.spotify.com/track/4xmWaJRxeSskbiaFi6jft4"
@@ -8329,7 +8387,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203800,
       "name": "What Do You Mean? - Acoustic",
       "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
@@ -8347,7 +8405,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205693,
       "name": "What Do You Mean? - Acoustic Version",
       "url": "https://open.spotify.com/track/2c0aj0IXetVDJlrJgrGXMp"
@@ -8405,7 +8463,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8"
@@ -8441,7 +8499,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
@@ -8643,7 +8701,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "You Make It Real - Live and Acoustic",
       "url": "https://open.spotify.com/track/3pTTIzqeYxOo5mzYtvCxm5"
@@ -8697,7 +8755,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252476,
       "name": "Younger - Acoustic Version",
       "url": "https://open.spotify.com/track/4uSCwM7Ny6jvGLX12pDq5X"
@@ -8715,7 +8773,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252476,
       "name": "Younger - Bonus Track / Acoustic Version",
       "url": "https://open.spotify.com/track/1Y4wX0FH1JIPrxHNSWJsMR"

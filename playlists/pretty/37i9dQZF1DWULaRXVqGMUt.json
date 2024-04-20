@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 48672,
+  "num_followers": 48694,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Piano-Blues & Boogie-Woogie",
+        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
+      },
+      "artists": [
+        {
+          "name": "Christian Bleiming",
+          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
+        }
+      ],
+      "duration_ms": 140564,
+      "name": "Stompin' At the 'subway'",
+      "url": "https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 218626,
       "name": "Pauly's Birthday Boogie",
       "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Piano-Blues & Boogie-Woogie",
-        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
-      },
-      "artists": [
-        {
-          "name": "Christian Bleiming",
-          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
-        }
-      ],
-      "duration_ms": 140564,
-      "name": "Stompin' At the 'subway'",
-      "url": "https://open.spotify.com/track/4bGflDbniZ9ja3qveYItnZ"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Lost in Boogie",
-        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
       "artists": [
         {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
         }
       ],
-      "duration_ms": 212453,
-      "name": "E-Flat Flyer",
-      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+        "name": "Lost in Boogie",
+        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
       "artists": [
         {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+      "duration_ms": 212453,
+      "name": "E-Flat Flyer",
+      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Piano-Blues & Boogie-Woogie",
-        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
-      },
-      "artists": [
-        {
-          "name": "Christian Bleiming",
-          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "C-Jam Boogie",
-      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 171613,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Piano-Blues & Boogie-Woogie",
+        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
+      },
+      "artists": [
+        {
+          "name": "Christian Bleiming",
+          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "C-Jam Boogie",
+      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Return Of The Boogie Man",
-        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
-      },
-      "artists": [
-        {
-          "name": "Preacher Jack",
-          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Jessie's Boogie Woogie",
-      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Plays Mac Rebennack",
         "url": "https://open.spotify.com/album/5mz8zXcWTPKrjDxk6FdYiS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 151261,
       "name": "Swanee River Boogie",
       "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Return Of The Boogie Man",
+        "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
+      },
+      "artists": [
+        {
+          "name": "Preacher Jack",
+          "url": "https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Jessie's Boogie Woogie",
+      "url": "https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "New Orleans Piano (Mono)",
         "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 160795,
       "name": "Boogie Woogie - Mono",
       "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+      },
+      "artists": [
+        {
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
         "name": "Barrelhouse, Blues & Boogie Woogie Vol. II",
         "url": "https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 131099,
       "name": "Boyd's Boogie Woogie",
       "url": "https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
-      },
-      "artists": [
-        {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2023-09-15 11:42:58",

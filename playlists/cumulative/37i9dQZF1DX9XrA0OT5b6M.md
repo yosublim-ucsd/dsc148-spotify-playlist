@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A to Z \- ONE PIECE Edition](https://open.spotify.com/track/62kH8daI4ouLVcJRZzum6w) | [松井麻維](https://open.spotify.com/artist/1iAT4IDkq9D1Nx5GS6ZNBC) | [ONE PIECE Arrange Collection \(EUROBEAT\)](https://open.spotify.com/album/7kwFXNw8C2Jx5Yr15ajvJA) | 3:21 | 2023-08-23 |  |
+| [A to Z\(ONE PIECE Edition\)](https://open.spotify.com/track/62kH8daI4ouLVcJRZzum6w) | [松井麻維](https://open.spotify.com/artist/1iAT4IDkq9D1Nx5GS6ZNBC) | [ONE PIECE Arrange Collection"EUROBEAT"](https://open.spotify.com/album/7kwFXNw8C2Jx5Yr15ajvJA) | 3:21 | 2023-08-23 |  |
 | [BEFORE DAWN](https://open.spotify.com/track/70svbAw8qdNgEt271120u6) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [ONE PIECE 20th Anniversary BEST ALBUM \(Vol.2\)](https://open.spotify.com/album/2KEoWfLib0VdkbGLtaOVER) | 3:17 | 2024-03-26 |  |
 | [BEFORE DAWN](https://open.spotify.com/track/5VO43mOKxgeGJHJXbGb5OI) | [AI\-SACHI](https://open.spotify.com/artist/0NB3FoktZLjieA6PLykBK9) | [BEFORE DAWN](https://open.spotify.com/album/3q4uXJaP2O87vnJ3lCeYSy) | 3:17 | 2023-08-23 | 2024-04-19 |
 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 | 2023-08-23 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 767513,
+  "2024-04-20": 767223,
   "date_first_scraped": "2021-12-21",
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
   "name": "creamy",
@@ -2816,6 +2816,24 @@
     },
     {
       "album": {
+        "name": "EVERYDAY SAMPLER",
+        "url": "https://open.spotify.com/album/6NdcpJSBmFjY7ulKPPvmoQ"
+      },
+      "artists": [
+        {
+          "name": "Phace",
+          "url": "https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188197,
+      "name": "CRUISIN",
+      "url": "https://open.spotify.com/track/2GQI4Xj5hjT2wCp95W2U6R"
+    },
+    {
+      "album": {
         "name": "Cycling",
         "url": "https://open.spotify.com/album/3h2Xqowif9LUc2K9ILEl3J"
       },
@@ -3449,7 +3467,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 113860,
       "name": "Dream You Better",
       "url": "https://open.spotify.com/track/7M2sXW3H1X2ON6oVtmyN21"
@@ -3877,7 +3895,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245485,
       "name": "Endit - Dusky Remix",
       "url": "https://open.spotify.com/track/1ukwvRsaWx1YMenRQB5ABM"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
@@ -5177,7 +5195,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
@@ -6213,7 +6231,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231803,
       "name": "I Can't Tell (feat. LAUREL)",
       "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
@@ -7315,7 +7333,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160730,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/3DJGNgVK7g18EgpyKvy5T9"
@@ -8131,7 +8149,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197142,
       "name": "Mercy (2022 Edit)",
       "url": "https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3"
@@ -8744,6 +8762,32 @@
     },
     {
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/06S2eifTdG18TWsRwmFYg8"
+      },
+      "artists": [
+        {
+          "name": "Odeon",
+          "url": "https://open.spotify.com/artist/3SWSnHWyLjxCkSREp4j6ye"
+        },
+        {
+          "name": "Freyer",
+          "url": "https://open.spotify.com/artist/5rWDaIemV0O8diTTcitrZ4"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174186,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/729gzjTEdRmzCB3SLHrUvA"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/4iWqhU4VbUG7RWRk9L7Utz"
       },
@@ -9127,7 +9171,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/7qGoMOzR9pJ1bPl4bFmTN7"
@@ -9189,10 +9233,32 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145116,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
+    },
+    {
+      "album": {
+        "name": "Pachamama (feat. Elliphant)",
+        "url": "https://open.spotify.com/album/1X1LkpG3vnr1ZOJuw9ZHkL"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Pachamama (feat. Elliphant)",
+      "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
     },
     {
       "album": {
@@ -9251,6 +9317,28 @@
       "duration_ms": 189600,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/20F3bL1ZP2n0umEGsIcyGE"
+    },
+    {
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/3HlLCpIq1zmZQeEG1fkHW2"
+      },
+      "artists": [
+        {
+          "name": "AMNES",
+          "url": "https://open.spotify.com/artist/1NWWdL1ttPLXOnDwqJFrbJ"
+        },
+        {
+          "name": "EMSKI",
+          "url": "https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121982,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/1XUMDmAdV9MTgJfB14BXCW"
     },
     {
       "album": {
@@ -10029,7 +10117,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
@@ -10263,7 +10351,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
@@ -10369,7 +10457,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231663,
       "name": "Rushing Back (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/4uyYsLMnxzzIB6LE81g4OF"
@@ -11582,6 +11670,32 @@
     },
     {
       "album": {
+        "name": "Spaceman (ft. RIZ LA VIE)",
+        "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "Spaceman (ft. RIZ LA VIE)",
+      "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "album": {
         "name": "Spectacle",
         "url": "https://open.spotify.com/album/0v1ZVoPvGy2pVd2aFHBOkU"
       },
@@ -11769,6 +11883,28 @@
       "duration_ms": 205989,
       "name": "Statues",
       "url": "https://open.spotify.com/track/2vWYHrRiJhc2iIXxaZUnG5"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/65E7nJ68Tl04aOOPk6lqQ4"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "Idle Days",
+          "url": "https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4kh8zt9rGgnKh88s0zpav3"
     },
     {
       "album": {
@@ -12265,6 +12401,24 @@
       "duration_ms": 155520,
       "name": "Take Over The World",
       "url": "https://open.spotify.com/track/2bIugowXHHEs3kYDlP4wNM"
+    },
+    {
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183548,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg"
     },
     {
       "album": {
@@ -13987,7 +14141,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294826,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 78475,
+  "2024-04-20": 78475,
   "date_first_scraped": "2021-12-21",
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
   "name": "Your Alternative",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185960,
       "name": "Black Holes (Solid Ground)",
       "url": "https://open.spotify.com/track/0qPLNGJhvrhuuayoKhTR3B"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189115,
       "name": "Bummerland",
       "url": "https://open.spotify.com/track/11CuPgsnoErQX18rH4gXLM"
@@ -424,6 +424,24 @@
     },
     {
       "album": {
+        "name": "Phantom Planet",
+        "url": "https://open.spotify.com/album/2SCGBVAtn1Dy0Sgj2ZPm4K"
+      },
+      "artists": [
+        {
+          "name": "Phantom Planet",
+          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "California - Tchad Blake Mix",
+      "url": "https://open.spotify.com/track/1PPwghTeQBBKkEGJrf6noY"
+    },
+    {
+      "album": {
         "name": "The Guest (Expanded Edition)",
         "url": "https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD"
       },
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193933,
       "name": "California - Tchad Blake Mix",
       "url": "https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182467,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-27",
+      "date_removed": null,
       "duration_ms": 261741,
       "name": "Colors",
       "url": "https://open.spotify.com/track/2BOUrjXoRIo2YHVAyZyXVX"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357419,
       "name": "Exits",
       "url": "https://open.spotify.com/track/1JMGjWpfBj2uctjMmjx4mb"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Far Away Truths",
       "url": "https://open.spotify.com/track/3dJCbcLcqMKJVZ9Vd390K3"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 240253,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/6x9VaGUbiSRvkLEdjeqjsN"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217633,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/7E6IL7WFO9ozoWramet7PE"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184473,
       "name": "High Low",
       "url": "https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327546,
       "name": "I Don't Live Here Anymore (feat. Lucius)",
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming with You",
       "url": "https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy"
@@ -1239,7 +1257,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming With You",
       "url": "https://open.spotify.com/track/6h6chJ3TzYA811yH4ewNeX"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248399,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
@@ -1269,13 +1287,13 @@
       },
       "artists": [
         {
-          "name": "Grouplove",
+          "name": "GROUPLOVE",
           "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274453,
       "name": "My Own Soul\u2019s Warning",
       "url": "https://open.spotify.com/track/5NnQpVPJKpFdGFkIdY1Gds"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "Nearer My God",
       "url": "https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191212,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/3OR8O5EjN3IZEFT7iowYKa"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216636,
       "name": "On Our Own",
       "url": "https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184666,
       "name": "Preach",
       "url": "https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 277908,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279137,
       "name": "Pretty Lady",
       "url": "https://open.spotify.com/track/31ys9ZVrUE0HyS2C6ePzpn"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197906,
       "name": "Real Long Time",
       "url": "https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 238924,
       "name": "Rebel Heart",
       "url": "https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218763,
       "name": "Sober Up (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223320,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168172,
       "name": "You Will Never Work In Television Again",
       "url": "https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln"

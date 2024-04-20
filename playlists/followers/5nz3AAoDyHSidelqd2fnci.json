@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 0,
+  "2024-04-20": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -555,7 +555,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 460866,
       "name": "And All Things Will End",
       "url": "https://open.spotify.com/track/0zwZ12ITPdy4eOUXRBvPDg"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341253,
       "name": "Another Angel Down",
       "url": "https://open.spotify.com/track/1aAnbx7AkjB8wSpjtpswca"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310813,
       "name": "Clavado en Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
@@ -2246,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/10VjDnXdDNaDNbQPRkWjOp"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1gHwfVF2rs4mgg8CQI64O3"
+    },
+    {
+      "album": {
         "name": "Dance With U",
         "url": "https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu"
       },
@@ -2520,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "Did It Make You Feel Like a Man",
+        "url": "https://open.spotify.com/album/21QhudCvLFPqldoMRY7uP1"
+      },
+      "artists": [
+        {
+          "name": "bby ivy",
+          "url": "https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174912,
+      "name": "Did It Make You Feel Like a Man",
+      "url": "https://open.spotify.com/track/5cnkGhztZtEiAzZQcQ6lBy"
+    },
+    {
+      "album": {
         "name": "Die For You",
         "url": "https://open.spotify.com/album/1DdU3xbZUfE7KaGjpfWAgx"
       },
@@ -2589,6 +2625,24 @@
       "duration_ms": 236386,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/3Jh5Eh8F3QQ4iVbymcBXKc"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up On Love",
+        "url": "https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl"
+      },
+      "artists": [
+        {
+          "name": "Micah McLaurin",
+          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209747,
+      "name": "Don't Give Up On Love",
+      "url": "https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR"
     },
     {
       "album": {
@@ -2719,6 +2773,24 @@
       "duration_ms": 230066,
       "name": "Dr. Love",
       "url": "https://open.spotify.com/track/6ueaWEP3IMuP75GhDOOVDa"
+    },
+    {
+      "album": {
+        "name": "Draco Malfoy",
+        "url": "https://open.spotify.com/album/43O1vJbPIxD9SWpX4L76JG"
+      },
+      "artists": [
+        {
+          "name": "King David",
+          "url": "https://open.spotify.com/artist/0Og5VECHoOv9lo7X1oepmq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Draco Malfoy",
+      "url": "https://open.spotify.com/track/31NxxlmPZ4sQKtqRZIsY52"
     },
     {
       "album": {
@@ -3083,7 +3155,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233800,
       "name": "End Of All Hope",
       "url": "https://open.spotify.com/track/3vm2YWzVKrIaWXZcmEIFdP"
@@ -4244,6 +4316,24 @@
     },
     {
       "album": {
+        "name": "Plays Metallica by Four Cellos",
+        "url": "https://open.spotify.com/album/33mVfDg8P3YpX0C64fSaxh"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Harvester of Sorrow",
+      "url": "https://open.spotify.com/track/79RcJhJigDxzJwrJKzkY47"
+    },
+    {
+      "album": {
         "name": "Fallout From The War",
         "url": "https://open.spotify.com/album/19KG9DFxHDFav8ur7Y9wI3"
       },
@@ -4255,7 +4345,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223880,
       "name": "Haunting Me Endlessly",
       "url": "https://open.spotify.com/track/79UzjbAI7gYQ7VxdZ8HwaP"
@@ -4637,7 +4727,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212647,
       "name": "Hymn for the Weekend - Seeb Remix",
       "url": "https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu"
@@ -5384,6 +5474,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Neutron",
+        "url": "https://open.spotify.com/album/7JyzSGx8XHm2ZmbhqVJlrR"
+      },
+      "artists": [
+        {
+          "name": "TrapboyDre10k",
+          "url": "https://open.spotify.com/artist/5HWorG0e96YIZj95zBgGm9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Jimmy Neutron",
+      "url": "https://open.spotify.com/track/310AQ4Y703RsoNW7SA3ykJ"
+    },
+    {
+      "album": {
         "name": "Kill 'Em All",
         "url": "https://open.spotify.com/album/6FMPDVTm8l5IrEQla46VQl"
       },
@@ -5521,7 +5629,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 387400,
       "name": "Kirisute Gomen",
       "url": "https://open.spotify.com/track/5oELEE5XmqWw9gIFsb878g"
@@ -6101,7 +6209,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 472693,
       "name": "Loverman",
       "url": "https://open.spotify.com/track/3nqEmOHHyuEDrKPTfXbXka"
@@ -8784,6 +8892,28 @@
     },
     {
       "album": {
+        "name": "Die Helene Fischer Show - Meine sch\u00f6nsten Momente (Vol. 1)",
+        "url": "https://open.spotify.com/album/46RjcxrrWRFiOuq1V7MPHR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        },
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287146,
+      "name": "Sexbomb",
+      "url": "https://open.spotify.com/track/2pSy0BEMwzMjCXoroQmlUI"
+    },
+    {
+      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -8964,6 +9094,24 @@
     },
     {
       "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
+    },
+    {
+      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -9015,7 +9163,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196856,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/0pIhXrs1gIJjY49Enh6Fly"
@@ -9051,7 +9199,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257760,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -9336,6 +9484,24 @@
     },
     {
       "album": {
+        "name": "Young Modern",
+        "url": "https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Straight Lines",
+      "url": "https://open.spotify.com/track/5uPO2eBKEdmBT3XtZ76VVa"
+    },
+    {
+      "album": {
         "name": "Iron Maiden (1998 Remastered Edition)",
         "url": "https://open.spotify.com/album/5J5fnu7PEwhgzdkiBBtblw"
       },
@@ -9495,6 +9661,28 @@
       "duration_ms": 256786,
       "name": "Sweet Curse",
       "url": "https://open.spotify.com/track/4mEKcHXmzC7JC8I1L3MjFT"
+    },
+    {
+      "album": {
+        "name": "Singles 1968-1971 (International Version)",
+        "url": "https://open.spotify.com/album/6KlJV0tOH85ZGtI2gyvXpo"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Matt Ward",
+          "url": "https://open.spotify.com/artist/5u4TJDB53ZDkB9ueZ6A2fm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333400,
+      "name": "Sympathy For The Devil - Full Phatt Full Length Remix",
+      "url": "https://open.spotify.com/track/4BJCGFKErv6bQMv7yXuXOE"
     },
     {
       "album": {
@@ -9709,6 +9897,24 @@
       "duration_ms": 174851,
       "name": "That Energy",
       "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
+    },
+    {
+      "album": {
+        "name": "That Thing You Do! Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4rgkKwVNM3Y1pfb3WfKj9C"
+      },
+      "artists": [
+        {
+          "name": "The Wonders",
+          "url": "https://open.spotify.com/artist/7lKQtm4sJL5NLREKDXziH3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "That Thing You Do!",
+      "url": "https://open.spotify.com/track/4O6ZaZrRCFfiZZKjnrXqlk"
     },
     {
       "album": {
@@ -9961,6 +10167,24 @@
       "duration_ms": 226893,
       "name": "The Game",
       "url": "https://open.spotify.com/track/2Cl6IRZXobSICf5U6EE1uI"
+    },
+    {
+      "album": {
+        "name": "Gates of Hell",
+        "url": "https://open.spotify.com/album/6Pg2nNK5JBbt0kP4xDxMkd"
+      },
+      "artists": [
+        {
+          "name": "Mystica Girls",
+          "url": "https://open.spotify.com/artist/1YTUhYGCAKiEOUbfN3vAQ2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271529,
+      "name": "The Gates of Hell",
+      "url": "https://open.spotify.com/track/17VRPD0OJpGyjtNGLnVL0F"
     },
     {
       "album": {
@@ -10971,7 +11195,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188800,
       "name": "Venus",
       "url": "https://open.spotify.com/track/44YpdyMbfzZngsdQLOXWke"
@@ -11945,7 +12169,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243213,
       "name": "\u00c1ngel Para Un Final",
       "url": "https://open.spotify.com/track/6MV5epXO1r9krAVGSDJz5L"

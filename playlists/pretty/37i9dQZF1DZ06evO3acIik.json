@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 54209,
+  "num_followers": 54237,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGViZTI5NDk1YTRlYTU4ZTYxMzgxY2I5Njg4MzdkZGE1",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDhjYjFhYzI1MDM2ODM4MjIxM2VkNDg5OTRiNzI0ZGI4",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+      "duration_ms": 149508,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
       "duration_ms": 182857,
       "name": "3:35am",
       "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2zSiFSrqjSoZsXdxzOjQtY"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2jBRks9u41rAywLxQjcdYt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedroom Lofi",
-        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 67171,
-      "name": "A Piece Called Butterflies.",
-      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3"
       },
@@ -583,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         },
         {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
+      "duration_ms": 67171,
+      "name": "A Piece Called Butterflies.",
+      "url": "https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 84000,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": null,
@@ -723,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give U More",
-        "url": "https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF"
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
       "artists": [
         {
-          "name": "Miles Carter",
-          "url": "https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7"
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Give U More",
-      "url": "https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E"
+      "duration_ms": 103384,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
     },
     {
       "added_at": null,
@@ -787,22 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+        "name": "Give U More",
+        "url": "https://open.spotify.com/album/7rTh8hgSYgC0bEO4UTIbFF"
       },
       "artists": [
         {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+          "name": "Miles Carter",
+          "url": "https://open.spotify.com/artist/4Jm580nuipYFdlgljTftY7"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
         }
       ],
-      "duration_ms": 103384,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/66pCTcRfozirdS9mQvMwv2"
+      "duration_ms": 243200,
+      "name": "Give U More",
+      "url": "https://open.spotify.com/track/3nuaFEZqXgCiE283Qy4T6E"
     },
     {
       "added_at": null,
@@ -927,18 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/7vnT0JGQIOvhmkvPuvO0Fe"
+        "name": "Summer/Spring Lofi Compilation",
+        "url": "https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT"
       },
       "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/3A1XomhhNVD16MmJ24nK1Q"
+      "duration_ms": 223973,
+      "name": "space helmets",
+      "url": "https://open.spotify.com/track/5EWBmXdxdWljoh8SAdxLy4"
     }
   ],
   "unique_name": "This Is Montell Fish",

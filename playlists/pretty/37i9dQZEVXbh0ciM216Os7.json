@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDk4NTM5ZDNlYmJlZmFkNDI3ZTY3ZDQ5MTRmYzZhZTBm",
+  "snapshot_id": "MCwwMDAwMDAwMGQxZGQxYjZhZmE5OTViMTlhYmU4YzBmYjVmMzIyYjA5",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 288213,
-      "name": "U.S. Blues - Take 8",
-      "url": "https://open.spotify.com/track/3T1jkscRUHZDz5c6jLhSCg"
+      "duration_ms": 310999,
+      "name": "U.S. Blues - Takes 1 and 2",
+      "url": "https://open.spotify.com/track/6038Yj83tztaf22nodgd2L"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -387,26 +387,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Perceive Its Beauty, Acknowledge Its Grace",
-        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+        "name": "Whatever I Want",
+        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
       },
       "artists": [
         {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 463080,
-      "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
-      "url": "https://open.spotify.com/track/4rQuuNKKmV7K45aJoVqyIQ"
+      "duration_ms": 167447,
+      "name": "Whatever I Want",
+      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -463,22 +455,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Whatever I Want",
-        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 167447,
-      "name": "Whatever I Want",
-      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sayonara Meu Amor",
         "url": "https://open.spotify.com/album/2fYT8L1AXkcaGFxLUyavIS"
       },
@@ -511,30 +487,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+        "name": "What Is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/5BPnxzzcFjdpNjq5k9pkeA"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 295146,
-      "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
-      "url": "https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR"
+      "duration_ms": 139910,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/6IQyOo6MUUB141xqeJ8UfY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Love Direction",
+        "url": "https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Love Direction",
+      "url": "https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7"
     },
     {
       "added_at": "2024-04-19 04:00:00",

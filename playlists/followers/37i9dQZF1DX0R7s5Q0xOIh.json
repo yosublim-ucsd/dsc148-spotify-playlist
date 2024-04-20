@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8904,
+  "2024-04-20": 8905,
   "date_first_scraped": "2023-09-18",
   "description": "A playlist oficial do Carona Podpah, Original Spotify com o <a href=\"spotify:show:1GLSDdk9CDEwziGNIlnb8a\">Podpah</a>",
   "name": "Carona Podpah com m\u00fasica",
@@ -51,7 +51,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129440,
       "name": "01 do R",
       "url": "https://open.spotify.com/track/6he1ImSHv8jQ4NusPBCbR5"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 129440,
       "name": "01 do R",
       "url": "https://open.spotify.com/track/77cFhEWBd4cdszQkRJ54kK"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210880,
       "name": "19-2000",
       "url": "https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW"
+    },
+    {
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "19-2000",
+      "url": "https://open.spotify.com/track/71koAFCnGnugRdGIDfS7f4"
     },
     {
       "album": {
@@ -155,7 +173,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134133,
       "name": "21 Questions (feat. 50 Cent) (J. Period Remix)",
       "url": "https://open.spotify.com/track/7jiGfuB3IJg0gkKdHqHiEq"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 134133,
       "name": "21 Questions (feat. 50 Cent) - J. Period Remix",
       "url": "https://open.spotify.com/track/0sRWGXzyh9S2sWUt9rTQXu"
@@ -339,7 +357,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 106666,
       "name": "6AM NA COHAB - interl\u00fadio",
       "url": "https://open.spotify.com/track/4lxzGUuuzzWRvnkYbN1oIR"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 106666,
       "name": "6AM NA COHAB - interl\u00fadio",
       "url": "https://open.spotify.com/track/5AvrxXVPIiMhyPM13kcjve"
@@ -931,10 +949,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264853,
       "name": "APESHIT",
       "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264853,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/62GXGpd73vslqIBHq8XqOx"
     },
     {
       "album": {
@@ -949,10 +985,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214333,
       "name": "As Long as You Love Me",
       "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
+    },
+    {
+      "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221106,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/3UpS7kBnkVQYG13pDDFTC4"
     },
     {
       "album": {
@@ -1073,7 +1127,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1yvqxBVTSNGw9USdjlOQyP"
@@ -1091,7 +1145,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Baila",
       "url": "https://open.spotify.com/track/7FhSxqoNQLrXfDmsOtrhF6"
@@ -1264,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354947,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/3z8h0TU7ReDPLIbEnYhWZb"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -1275,7 +1347,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354320,
       "name": "Bohemian Rhapsody - Remastered 2011",
       "url": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
@@ -1361,10 +1433,28 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182509,
       "name": "Boombastic (Hot Shot 2020)",
       "url": "https://open.spotify.com/track/0fonjNvhuw9rm8mWMz3H6h"
+    },
+    {
+      "album": {
+        "name": "Hot Shot 2020",
+        "url": "https://open.spotify.com/album/3nJJuiu6jdrZXFmJ8Gd19P"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182509,
+      "name": "Boombastic (Hot Shot 2020)",
+      "url": "https://open.spotify.com/track/1k8s9CMYNttpwm00KKKqQB"
     },
     {
       "album": {
@@ -1608,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189026,
+      "name": "carmen",
+      "url": "https://open.spotify.com/track/1pRvlcrVxqdDAyYT1Ym3Wq"
+    },
+    {
+      "album": {
         "name": "Racine Carr\u00e9e (Standard US Version)",
         "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
       },
@@ -1619,7 +1727,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189026,
       "name": "carmen",
       "url": "https://open.spotify.com/track/60ynqVuPGEmnNqhRRehCZI"
@@ -1659,6 +1767,24 @@
       "duration_ms": 197079,
       "name": "Casper",
       "url": "https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3191488,
+      "name": "CAUE MOURA - Carona Podpah #12",
+      "url": "https://open.spotify.com/episode/6eqqxGqdLG6DTdqK2IxRIf"
     },
     {
       "album": {
@@ -1767,7 +1893,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/6FKC90hzVwca9nQeuVx9KG"
@@ -1801,7 +1927,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/7GTgjQarJO6YU7Ir4agl7q"
@@ -1929,7 +2055,7 @@
     {
       "album": {
         "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
       "artists": [
         {
@@ -1940,6 +2066,24 @@
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 340920,
+      "name": "Clint Eastwood",
+      "url": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx"
+    },
+    {
+      "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 340920,
       "name": "Clint Eastwood",
       "url": "https://open.spotify.com/track/7yMiX7n9SBvadzox8T5jzT"
@@ -1964,6 +2108,24 @@
     },
     {
       "album": {
+        "name": "Pre\u00e7o Curto, Prazo Longo",
+        "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Confisco",
+      "url": "https://open.spotify.com/track/0qhwZ19NLe1FpQSmb4ZZau"
+    },
+    {
+      "album": {
         "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
         "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
       },
@@ -1975,7 +2137,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178893,
       "name": "Confisco",
       "url": "https://open.spotify.com/track/2vV3fHWrEIdDBygY35PyuY"
@@ -2001,6 +2163,24 @@
       "duration_ms": 150802,
       "name": "Cora\u00e7\u00e3o Cachorro",
       "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3103402,
+      "name": "CPX DOS CRIAS - Carona Podpah #23",
+      "url": "https://open.spotify.com/episode/1aOX8KxZJy3Cng9ZuLaZXY"
     },
     {
       "album": {
@@ -2276,6 +2456,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2589056,
+      "name": "DILSINHO - Carona Podpah #13",
+      "url": "https://open.spotify.com/episode/6xBGuARB1SBJrd8EsQb33B"
+    },
+    {
+      "album": {
         "name": "Dil\u00favio",
         "url": "https://open.spotify.com/album/5NfrKnAY6wBjUdURJAglm7"
       },
@@ -2317,6 +2515,24 @@
       "duration_ms": 225880,
       "name": "Dinheiro",
       "url": "https://open.spotify.com/track/4RjDz2AbKP28lkZ9XyU0xO"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2482431,
+      "name": "DIOGO DEFANTE - Carona Podpah #9",
+      "url": "https://open.spotify.com/episode/1WpyzJPaMUVIgeKZZFs10m"
     },
     {
       "album": {
@@ -2804,6 +3020,42 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2726485,
+      "name": "FELIPE CASTANHARI - Carona Podpah #14",
+      "url": "https://open.spotify.com/episode/0dk7Gwgil4uj7yd7tZZRAB"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2643605,
+      "name": "FELIPE TITTO - Carona Podpah #3",
+      "url": "https://open.spotify.com/episode/7L4t74FJr4UJwB2zQQwX0Q"
+    },
+    {
+      "album": {
         "name": "Fernando de Noronha",
         "url": "https://open.spotify.com/album/1txWGY681VHHA99JdD7LcH"
       },
@@ -2862,6 +3114,24 @@
     },
     {
       "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/0LOy0Q27F8JLmTHVb8b51g"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "Filho Maravilha",
+      "url": "https://open.spotify.com/track/4MYLEPWITXDflS6lKU6WMZ"
+    },
+    {
+      "album": {
         "name": "Football & Samba Groove Association",
         "url": "https://open.spotify.com/album/49dL7nExwZchAB138hnpaH"
       },
@@ -2873,7 +3143,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133720,
       "name": "Filho Maravilha",
       "url": "https://open.spotify.com/track/0rHH9cMqaUZF8Cm2n7Dk7s"
@@ -2931,6 +3201,24 @@
       "duration_ms": 680880,
       "name": "Formula M\u00e1gica da Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/4aVBWmgp19jJJkUGN7mypV"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3125311,
+      "name": "FROID - Carona Podpah #17",
+      "url": "https://open.spotify.com/episode/7sPnh5gT0wch5EudSc5Clh"
     },
     {
       "album": {
@@ -3204,6 +3492,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2802751,
+      "name": "HARIEL - Carona Podpah #8",
+      "url": "https://open.spotify.com/episode/3peC0BUyLLQZGB0sAEDJKV"
+    },
+    {
+      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -3275,7 +3581,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209546,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/55E78MhBGQ4IPZcQ3R5BAH"
@@ -3301,7 +3607,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 209546,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/67yGTWcR72BZvsrSS2dHST"
@@ -3596,6 +3902,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2695850,
+      "name": "IG\u00c3O & MITICO - Carona Podpah #19",
+      "url": "https://open.spotify.com/episode/08v8PwWPR9GCXLrBYuCn9K"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/7mSiDWmvp8q4q7VGUEj7lF"
       },
@@ -3735,6 +4059,24 @@
       "duration_ms": 224733,
       "name": "J\u00e1 \u00e9 - Ao vivo",
       "url": "https://open.spotify.com/track/5208LKuihL0farASiFLxEl"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2577813,
+      "name": "KAROL CONK\u00c1 - Carona Podpah #4",
+      "url": "https://open.spotify.com/episode/5lej1WRUUOdZY2uaGklt4w"
     },
     {
       "album": {
@@ -3949,10 +4291,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188421,
       "name": "Levanta e Anda (Ao Vivo)",
       "url": "https://open.spotify.com/track/3xCvn8jYAetVrxKvH8BLMq"
+    },
+    {
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188421,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/4TneHhRpotXBrUZkxyw5Az"
     },
     {
       "album": {
@@ -4067,10 +4431,32 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186320,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/03oK265y87YNXHIQSOAWOp"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/3JFdUloxNYTVuNlr8mXEHB"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186320,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/70DaXTMWHiXluK0bSVbJ7W"
     },
     {
       "album": {
@@ -4093,6 +4479,60 @@
       "duration_ms": 227360,
       "name": "LOYALTY. FEAT. RIHANNA.",
       "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2544341,
+      "name": "LUCAS INUTILISMO - Carona Podpah #11",
+      "url": "https://open.spotify.com/episode/2xdGuQDZF2e28WbEJFbOIs"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3629226,
+      "name": "LUCAS SILVEIRA (FRESNO) - Carona Podpah #18",
+      "url": "https://open.spotify.com/episode/3znsKtttFfcUnwyy7vswR9"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2661183,
+      "name": "LUCCAS CARLOS - Carona Podpah #20",
+      "url": "https://open.spotify.com/episode/30R9OrnkAa37AquAA8NTrB"
     },
     {
       "album": {
@@ -4119,7 +4559,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140800,
       "name": "Luxo No Morro",
       "url": "https://open.spotify.com/track/1pUMlAh6i3Zb1wiv5Xmj8c"
@@ -4149,7 +4589,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 140800,
       "name": "Luxo No Morro",
       "url": "https://open.spotify.com/track/7cAPIqPqmxtcBVvfW6BZkm"
@@ -4236,6 +4676,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
+    },
+    {
+      "album": {
         "name": "M\u00fasicas de amor",
         "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
       },
@@ -4247,7 +4705,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240799,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
@@ -4366,6 +4824,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2623871,
+      "name": "MARINA SENA - Carona Podpah #15",
+      "url": "https://open.spotify.com/episode/4PwUv9kIlC6NZ9exTo0zgf"
+    },
+    {
+      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
       },
@@ -4381,6 +4857,24 @@
       "duration_ms": 307933,
       "name": "Master Blaster (Jammin')",
       "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2615530,
+      "name": "MC PH - Carona Podpah #22",
+      "url": "https://open.spotify.com/episode/5QB6lXaEmAtIMBl4MkOUDI"
     },
     {
       "album": {
@@ -4509,6 +5003,24 @@
       "duration_ms": 228800,
       "name": "Morada",
       "url": "https://open.spotify.com/track/4fDta9k8aRElUr8LalrWQx"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3179200,
+      "name": "MU540 - Carona Podpah #24",
+      "url": "https://open.spotify.com/episode/2PHOgNdZQzpQ9rOTaXkVjI"
     },
     {
       "album": {
@@ -4756,6 +5268,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3020586,
+      "name": "NATTAN - Carona Podpah #21",
+      "url": "https://open.spotify.com/episode/4Fg4L09rjq81TGaP4bjezu"
+    },
+    {
+      "album": {
         "name": "Dois",
         "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
       },
@@ -4833,7 +5363,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 220171,
       "name": "Neur\u00f3tico de Guerra",
       "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
@@ -4855,10 +5385,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220171,
       "name": "Neur\u00f3tico de Guerra",
       "url": "https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp"
+    },
+    {
+      "album": {
+        "name": "Tarzan (Brazillian Version)",
+        "url": "https://open.spotify.com/album/1lN1kKkWdu5xQX6dnhSJdm"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "No Meu Cora\u00e7\u00e3o Voc\u00ea Vai Sempre Estar (You Will Be In My Heart)",
+      "url": "https://open.spotify.com/track/5evKCk0uEArS1LTIQ2Wov9"
     },
     {
       "album": {
@@ -5053,10 +5601,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210666,
       "name": "O Pre\u00e7o",
       "url": "https://open.spotify.com/track/4Cu3aKqUWEHtqIocwINelJ"
+    },
+    {
+      "album": {
+        "name": "Pre\u00e7o Curto, Prazo Longo",
+        "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "O Pre\u00e7o",
+      "url": "https://open.spotify.com/track/7vI40WHmFdHvs0j78EtWSU"
     },
     {
       "album": {
@@ -5186,6 +5752,24 @@
     },
     {
       "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447440,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0"
+    },
+    {
+      "album": {
         "name": "...And Justice for All (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
       },
@@ -5197,7 +5781,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 446145,
       "name": "One (Remastered)",
       "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
@@ -5251,10 +5835,28 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249466,
       "name": "P.I.M.P.",
       "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0"
     },
     {
       "album": {
@@ -5355,6 +5957,42 @@
       "duration_ms": 148187,
       "name": "Passo a Passo",
       "url": "https://open.spotify.com/track/6xy3fWKyUJvZwOUiBNlZHz"
+    },
+    {
+      "album": {
+        "name": "10 Anos De \u00c9 O Tchan",
+        "url": "https://open.spotify.com/album/4OtX33TMxROGwJuoxnkXIP"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 O Tchan",
+          "url": "https://open.spotify.com/artist/78oxdhJ0pr4Dkyk0paWUAf"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Pau Que Nasce Torto / Melo Do Tchan - Medley",
+      "url": "https://open.spotify.com/track/5PkTujqwUcpoiH20ysOjS3"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2651200,
+      "name": "PEDRO SCOOBY - Carona Podpah #1",
+      "url": "https://open.spotify.com/episode/53NLLPiPtZsLoefBQc9jjC"
     },
     {
       "album": {
@@ -5479,10 +6117,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 485360,
       "name": "Positivity",
       "url": "https://open.spotify.com/track/0mEQEebRFuHDBirUn8Dh3V"
+    },
+    {
+      "album": {
+        "name": "Behind The Front",
+        "url": "https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485360,
+      "name": "Positivity",
+      "url": "https://open.spotify.com/track/3vYsjfapG9qOJRTrbLMZVz"
     },
     {
       "album": {
@@ -5520,6 +6176,24 @@
     },
     {
       "album": {
+        "name": "Cartola (1976)",
+        "url": "https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0"
+    },
+    {
+      "album": {
         "name": "Raizes Do Samba",
         "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
       },
@@ -5531,7 +6205,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179933,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV"
@@ -5655,6 +6329,24 @@
       "duration_ms": 230626,
       "name": "Quero Te Encontrar",
       "url": "https://open.spotify.com/track/3AYcFdYKSL8mVqJWwCpS60"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2639786,
+      "name": "RAEL - Carona Podpah #5",
+      "url": "https://open.spotify.com/episode/5MfMgZX2U0gw1HbMjw1S2s"
     },
     {
       "album": {
@@ -5856,6 +6548,24 @@
     },
     {
       "album": {
+        "name": "The Essential Urban",
+        "url": "https://open.spotify.com/album/2mTdheTqe50o7qF3Jm6vQX"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Run It!",
+      "url": "https://open.spotify.com/track/4hsyw2yfhsrKd4qolsxHcO"
+    },
+    {
+      "album": {
         "name": "Run It!",
         "url": "https://open.spotify.com/album/3YeJbF2f6nrGJAEPeNzzOV"
       },
@@ -5867,7 +6577,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193647,
       "name": "Run It! - No Rap Version",
       "url": "https://open.spotify.com/track/248cTipV63OJIG1XBH94wI"
@@ -5991,10 +6701,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215367,
       "name": "Se Algum Dia Eu N\u00e3o Acordar (Live)",
       "url": "https://open.spotify.com/track/3Mxh7s6EmaXbhE3pCbrOg0"
+    },
+    {
+      "album": {
+        "name": "Quarto dos Livros (20 Anos) [Live]",
+        "url": "https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215367,
+      "name": "Se Algum Dia Eu N\u00e3o Acordar - Live",
+      "url": "https://open.spotify.com/track/6hEYFw48cyYizdoWoPRH6U"
     },
     {
       "album": {
@@ -6115,7 +6843,7 @@
     {
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
       },
       "artists": [
         {
@@ -6126,6 +6854,24 @@
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 723573,
+      "name": "Sing About Me, I'm Dying Of Thirst",
+      "url": "https://open.spotify.com/track/1Z2FvDFZSDQ23s4BDqpWqZ"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 723573,
       "name": "Sing About Me, I'm Dying Of Thirst",
       "url": "https://open.spotify.com/track/3q2v8QaTnHLveAQzR6gvYm"
@@ -6412,6 +7158,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2682026,
+      "name": "TASHA & TRACIE - Carona Podpah #2",
+      "url": "https://open.spotify.com/episode/6ryrQxnoesDEVPVf9TmILr"
+    },
+    {
+      "album": {
         "name": "Transpira\u00e7\u00e3o Cont\u00ednua Prolongada - Edi\u00e7\u00e3o Comemorativa",
         "url": "https://open.spotify.com/album/0GBMhUusSjw9soVbVFRERp"
       },
@@ -6423,10 +7187,28 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184666,
       "name": "Te Levar Daqui",
       "url": "https://open.spotify.com/track/5PJeu6pVwPzYynjOeGgxmV"
+    },
+    {
+      "album": {
+        "name": "Pre\u00e7o Curto, Prazo Longo",
+        "url": "https://open.spotify.com/album/2hLNxoJZ5kZoBEX0XGBRNu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Te Levar Daqui",
+      "url": "https://open.spotify.com/track/0PlE0Lh9wcuh9G9uMmZvZC"
     },
     {
       "album": {
@@ -6503,6 +7285,24 @@
       "duration_ms": 222933,
       "name": "Tempo De Alegria",
       "url": "https://open.spotify.com/track/3bRw8DppeHRTm1AxqEP1Po"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2578560,
+      "name": "THAYNARA OG - Carona Podpah #16",
+      "url": "https://open.spotify.com/episode/1KsUKEVPlLzJiNkDXeSYwo"
     },
     {
       "album": {
@@ -6857,10 +7657,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173227,
       "name": "Tu e Eu",
       "url": "https://open.spotify.com/track/4sskPWk7WlDjeP7JhfG73f"
+    },
+    {
+      "album": {
+        "name": "OYTO",
+        "url": "https://open.spotify.com/album/5j0ibSECRDzwz0TPnNB2yf"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175217,
+      "name": "Tu e Eu",
+      "url": "https://open.spotify.com/track/1Sgm15v1DKSyrrOGUGSeSh"
     },
     {
       "album": {
@@ -6984,6 +7806,24 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2480383,
+      "name": "URIAS - Carona Podpah #6",
+      "url": "https://open.spotify.com/episode/71llmLLG2VxBLipjrOgxsL"
+    },
+    {
+      "album": {
         "name": "Vim pra Dominar o Mundo",
         "url": "https://open.spotify.com/album/6Rw191EPH8xdpJM4tuQsj1"
       },
@@ -7025,6 +7865,24 @@
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
+    },
+    {
+      "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3082751,
+      "name": "VEIGH - Carona Podpah #7",
+      "url": "https://open.spotify.com/episode/6AjHFjtDPed27rgZz2dK3t"
     },
     {
       "album": {
@@ -7133,7 +7991,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/5ffDENIdtByAZxHpuuj9li"
@@ -7171,7 +8029,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210545,
       "name": "Vida Chique",
       "url": "https://open.spotify.com/track/6tGQ5RuoGC9jYuiVVLWBMo"
@@ -7286,6 +8144,42 @@
     },
     {
       "album": {
+        "name": "Podpah",
+        "url": "https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a"
+      },
+      "artists": [
+        {
+          "name": "Podpah",
+          "url": "https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2763968,
+      "name": "VULGO FK - Carona Podpah #10",
+      "url": "https://open.spotify.com/episode/4c5RzJcfLC5P1QfRrY4jLz"
+    },
+    {
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+    },
+    {
+      "album": {
         "name": "News Of The World (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
@@ -7297,7 +8191,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179200,
       "name": "We Are The Champions - Remastered 2011",
       "url": "https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD"
@@ -7463,7 +8357,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258133,
       "name": "You'll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1fTDYdx5zYfWJSX0JlKO8o"
@@ -7503,7 +8397,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236360,
       "name": "\u00c9 O Tchan Medley: Pau Que Nasce Torto / Mel\u00f4 Do Tchan",
       "url": "https://open.spotify.com/track/7gmaeOje1ElNhs6NYCXNu9"
@@ -7537,7 +8431,7 @@
     {
       "album": {
         "name": "Mil Coisas Invis\u00edveis",
-        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+        "url": "https://open.spotify.com/album/0icYpEwVxogZ6mCERLIVpa"
       },
       "artists": [
         {
@@ -7548,6 +8442,24 @@
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 322822,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/0yhD6nDWj55d8t7LonWeXo"
+    },
+    {
+      "album": {
+        "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 322822,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/6chduBrTJGUrIGXV8K0nSJ"

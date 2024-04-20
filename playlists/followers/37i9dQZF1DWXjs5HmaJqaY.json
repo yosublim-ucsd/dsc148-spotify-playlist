@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 178657,
+  "2024-04-20": 178728,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:6caPJFLv1wesmM7gwK1ACy\">Boris Brejcha</a>'s favorite tracks. Updated regularly. Curated by Boris Brejcha. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Boris Brejcha's track IDs",
@@ -3422,6 +3422,28 @@
     },
     {
       "album": {
+        "name": "Something Half Way",
+        "url": "https://open.spotify.com/album/5ygCu6YaMTkoawV5CAedtx"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Ralf Hildenbeutel",
+          "url": "https://open.spotify.com/artist/1cpiae3VUqBtLzkOSwycrf"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315297,
+      "name": "Something Half Way",
+      "url": "https://open.spotify.com/track/7fmWi55u24fRasWaju85y1"
+    },
+    {
+      "album": {
         "name": "Something Half Way (feat. Ralf Hildenbeutel)",
         "url": "https://open.spotify.com/album/6ArJtCbmaktBNpkHsIeAw5"
       },
@@ -3459,7 +3481,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 315297,
       "name": "Something Half Way (feat. Ralf Hildenbeutel)",
       "url": "https://open.spotify.com/track/4SKkLIyC381iLFbjt0dIWM"
@@ -3705,10 +3727,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 455718,
       "name": "The House Of House - Original Remastered Mix",
       "url": "https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh"
+    },
+    {
+      "album": {
+        "name": "20 Years Bonzai",
+        "url": "https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx"
+      },
+      "artists": [
+        {
+          "name": "Cherrymoon Trax",
+          "url": "https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455718,
+      "name": "The House Of House - Original Remastered Mix",
+      "url": "https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2540,
+  "2024-04-20": 2543,
   "date_first_scraped": "2022-10-01",
   "description": "Kick it with some of the hottest bars from Uganda +256",
   "name": "256 Bars",
@@ -61,7 +61,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212297,
       "name": "Are We Still Good?",
       "url": "https://open.spotify.com/track/4q6xJtT4ZWR00sryFu570w"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 212311,
       "name": "Are We Still Good?",
       "url": "https://open.spotify.com/track/41VojbdDH5qfSQB16MAqsb"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207713,
       "name": "Ballin Boo",
       "url": "https://open.spotify.com/track/74KNdt4nx0wqoFt3kAtsXd"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 207725,
       "name": "Ballin Boo",
       "url": "https://open.spotify.com/track/0FP3ZHQcDKf2FHZtAGMoEq"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184999,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/1exFMfbM7DQuUrqhpBTAbu"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 185037,
       "name": "Come Back To Me",
       "url": "https://open.spotify.com/track/3FFHhR1bpwpWOfRkUz2c9i"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 148721,
       "name": "Different",
       "url": "https://open.spotify.com/track/7dPEajZhYQWXSivOPXbJwV"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154998,
       "name": "Different",
       "url": "https://open.spotify.com/track/5nXP1tsv0qYKL3BFVZo3II"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Genderera",
       "url": "https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171428,
       "name": "Genderera",
       "url": "https://open.spotify.com/track/6nAKUOvzI9aCrUbPEUU9i0"
@@ -1173,6 +1173,24 @@
     {
       "album": {
         "name": "HATE MY PRESENCE",
+        "url": "https://open.spotify.com/album/3NQPhyzIdO9aOi0CRnQvSF"
+      },
+      "artists": [
+        {
+          "name": "sanyu!",
+          "url": "https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132023,
+      "name": "HATE MY PRESENCE",
+      "url": "https://open.spotify.com/track/3iPbEmTzdE5dZY5ERia8pg"
+    },
+    {
+      "album": {
+        "name": "HATE MY PRESENCE",
         "url": "https://open.spotify.com/album/7gkApDSiucm6IUpKvaIVp0"
       },
       "artists": [
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132023,
       "name": "HATE MY PRESENCE",
       "url": "https://open.spotify.com/track/4Kh061Mh6TxmcqyxvumXPJ"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256808,
       "name": "Lost Yourself",
       "url": "https://open.spotify.com/track/0hEtbZaCuTwOHOLBFghDPW"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 256834,
       "name": "Lost Yourself",
       "url": "https://open.spotify.com/track/32MeF1lagNJC0FxENNKATr"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 222516,
       "name": "Make Dat Money",
       "url": "https://open.spotify.com/track/2FjGWI79TdNs9rJjfBsIWP"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222516,
       "name": "Make Dat Money",
       "url": "https://open.spotify.com/track/70zWk3h9fZmUYxLrWlfoJZ"
@@ -2295,7 +2313,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159961,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/3XvraJ0zbOcqhLZW7mRqv6"
@@ -2313,7 +2331,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 159973,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1fsXR9y56hVIl5pfjB3fm2"
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 221818,
       "name": "Tough Timez",
       "url": "https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ"
@@ -2701,7 +2719,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221818,
       "name": "Tough Timez",
       "url": "https://open.spotify.com/track/6HlV4tWyzvYsjhJqALInJJ"
@@ -2919,7 +2937,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 136863,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g"
@@ -2937,7 +2955,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136863,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/7az3DTSQRpG2cgaG4puG6O"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170434,
       "name": "Voices & Vices",
       "url": "https://open.spotify.com/track/4WVz4SvwDGOpfFjKYSs1Rv"
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 170434,
       "name": "Voices & Vices",
       "url": "https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN"

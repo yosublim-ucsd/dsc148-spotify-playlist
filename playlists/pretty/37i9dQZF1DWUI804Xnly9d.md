@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,591 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,548 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 31 | [Tu Hi Tu Unplugged Version](https://open.spotify.com/track/2Wr3oKxthfi4U8MvAkaTty) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Anjana Ankur Singh](https://open.spotify.com/artist/3XAfGV9ChPNFOLynwBI2WP) | [Tu Hi Tu Unplugged Version](https://open.spotify.com/album/4Du26jfERYaQOud3TvTKHg) | 3:06 |
 | 32 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 |
 | 33 | [Masoom](https://open.spotify.com/track/1Bq5DRGjTStmHKIScZ4poF) | [Aneet Padda](https://open.spotify.com/artist/3mhogAa7LlKVkgcm1P7CGI) | [Big Girls Don’t Cry](https://open.spotify.com/album/2roFrzdSEJ1IKTM4UzlnwW) | 4:27 |
-| 34 | [Ishq Ibaadat Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat Unplugged](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 |
+| 34 | [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 |
 | 35 | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/track/05QSnz2l3DhwciiKegHcgs) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [Aaja Baija Tu \(Acoustic\) \[From "Brand Bollywood Downunder"\]](https://open.spotify.com/album/1grfWEwxGjLiMqqajwpNIy) | 2:42 |
 | 36 | [Rehne De](https://open.spotify.com/track/6ncgVTdFLosRDk7jykKI92) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Mikey McCleary](https://open.spotify.com/artist/0Qmekzsp0MrycjVuSteJNn) | [Subah Ke Taare](https://open.spotify.com/album/0ysTWzXqgUdfk15ZHZsYye) | 3:52 |
 | 37 | [Main Tujhe Phir Miloongi](https://open.spotify.com/track/0T0dczg8pK5vCsnj8GoRcR) | [Vibha Saraf](https://open.spotify.com/artist/4aL6PYF766njiW0WELvEzj), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Article 370](https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY) | 5:32 |

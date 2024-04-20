@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 205227,
+  "2024-04-20": 205227,
   "date_first_scraped": "2021-12-29",
   "description": "Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.",
   "name": "Massive Soca Hits",
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 218213,
       "name": "Cheers to Life",
       "url": "https://open.spotify.com/track/1bJODIHmNbgbkQXpH2i3Oo"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216947,
       "name": "Cheers to Life (Soca 2016 Trinidad and Tobago Carnival)",
       "url": "https://open.spotify.com/track/06EIb21a68sdHTsKBvkKpT"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 204828,
       "name": "Fast Wine",
       "url": "https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204828,
       "name": "Fast Wine",
       "url": "https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195012,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0flO097HnRPkoysVteTrLl"
@@ -2013,7 +2013,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 195012,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5si9Jot7asAKQuELQj0cTu"
@@ -3201,7 +3201,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189657,
       "name": "Like Ah Boss",
       "url": "https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa"
@@ -3219,7 +3219,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 189657,
       "name": "Like Ah Boss",
       "url": "https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG"
@@ -5065,7 +5065,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199391,
       "name": "Soca Kingdom",
       "url": "https://open.spotify.com/track/5NiRDAlFxIkFJvqQ7cnxKL"
@@ -5087,7 +5087,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 202247,
       "name": "Soca Kingdom",
       "url": "https://open.spotify.com/track/7bXT3nSlUxrx9VuZuWED3R"

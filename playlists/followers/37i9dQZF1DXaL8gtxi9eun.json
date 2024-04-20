@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 113498,
+  "2024-04-20": 113453,
   "date_first_scraped": "2022-05-13",
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: Ramy Gamal",
   "name": "Fresh Arabic Pop",
@@ -640,6 +640,24 @@
     },
     {
       "album": {
+        "name": "Ana Mish Soutak",
+        "url": "https://open.spotify.com/album/2pk0PemMXxyn03i22mMz2O"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Ana Mish Soutak",
+      "url": "https://open.spotify.com/track/5XpO98CTNUWtcbNZMZMmGE"
+    },
+    {
+      "album": {
         "name": "Myriam",
         "url": "https://open.spotify.com/album/2z9WhkrtupFOPrYiUOPNtL"
       },
@@ -1217,6 +1235,24 @@
       "duration_ms": 214327,
       "name": "El Bint El Awiye",
       "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
+    },
+    {
+      "album": {
+        "name": "El Dahab",
+        "url": "https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "El Dahab",
+      "url": "https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY"
     },
     {
       "album": {
@@ -4229,7 +4265,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187951,
       "name": "\u0623\u0646\u0627 \u0645\u0634 \u0635\u0648\u062a\u0643",
       "url": "https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3"
@@ -4359,7 +4395,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189152,
       "name": "\u0627\u0644\u062f\u0647\u0628",
       "url": "https://open.spotify.com/track/6Xw3zZd7uXObNVeDox4ZpT"

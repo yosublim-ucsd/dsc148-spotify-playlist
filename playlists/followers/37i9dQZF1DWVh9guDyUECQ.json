@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 181960,
+  "2024-04-20": 181814,
   "date_first_scraped": "2022-03-01",
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: <a href=\"spotify:artist:4DROs1Ye9DiLY3X8L7xvl8\">Andrez Babii</a>",
   "name": "Flow Cristiano",
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168974,
       "name": "Alante Alante",
       "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
@@ -1360,6 +1360,28 @@
     },
     {
       "album": {
+        "name": "DIEZ TRES",
+        "url": "https://open.spotify.com/album/4cySlWwwNv3D2XtmoNsGEK"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234378,
+      "name": "DIEZ TRES",
+      "url": "https://open.spotify.com/track/52i6fFvKp73lA7TbyRcd6K"
+    },
+    {
+      "album": {
         "name": "Diles",
         "url": "https://open.spotify.com/album/7D8N5qyBZwweBEnwYYa8hE"
       },
@@ -1669,7 +1691,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 190095,
       "name": "El Fuego",
       "url": "https://open.spotify.com/track/48f9BX8tVDm406EAABwTJW"
@@ -2037,7 +2059,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Flow Cristiano",
       "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
@@ -2437,7 +2459,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/4ZneStpoEsKoFFIrjkBVmO"
@@ -2473,7 +2495,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245039,
       "name": "Hay Algo",
       "url": "https://open.spotify.com/track/7wQcynQeliPgO2HGAGZz7r"
@@ -2669,7 +2691,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
@@ -3033,7 +3055,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 184138,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/6okYVMIELsaHstd49DaQME"
@@ -3333,7 +3355,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212621,
       "name": "Lo Tengo",
       "url": "https://open.spotify.com/track/0lS4oqs52eWZ7RfdWXXVrb"
@@ -3457,7 +3479,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 179969,
       "name": "Luna Que Me Alumbra",
       "url": "https://open.spotify.com/track/1QJXOveHlGy5N9Lie82Gm2"
@@ -3551,7 +3573,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 177281,
       "name": "Manos en el aire (Remix)",
       "url": "https://open.spotify.com/track/4ywj45xfKm0Y97mgBehyPN"
@@ -3733,7 +3755,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198640,
       "name": "Mi Cielo",
       "url": "https://open.spotify.com/track/0am2qeRMSo0KF3Q8SBjdhu"
@@ -3843,7 +3865,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/3zi8oXLWKddjQSM2CBE9Lh"
@@ -4143,7 +4165,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204137,
       "name": "Nada Incierto",
       "url": "https://open.spotify.com/track/5RklfdY8UWpS2AFtQp8oqx"
@@ -4275,7 +4297,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165698,
       "name": "No Disparo",
       "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
@@ -4557,7 +4579,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
@@ -4633,7 +4655,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179999,
       "name": "Nunca Falla",
       "url": "https://open.spotify.com/track/0Oix36INA6EJ7p8KYcm4hW"
@@ -5101,7 +5123,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 240500,
       "name": "Picheo",
       "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
@@ -5393,7 +5415,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244506,
       "name": "Que Es La Que Hay",
       "url": "https://open.spotify.com/track/1LdAVtyVt2lbc6fpBpoP6I"
@@ -5629,7 +5651,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Se Enamor\u00f3",
       "url": "https://open.spotify.com/track/3M8yZ5w6kxm2yIQE8444Jg"
@@ -5781,7 +5803,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 263538,
       "name": "Siempre Est\u00e1s",
       "url": "https://open.spotify.com/track/4HFuTWvUqHcpI1IV9Au5Xi"
@@ -5807,7 +5829,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 185361,
       "name": "Siempre Ha Estado Aqu\u00ed (Remix)",
       "url": "https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo"
@@ -6019,7 +6041,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218666,
       "name": "Solita",
       "url": "https://open.spotify.com/track/5OMj7i9Eeuh2kolJAvlZLQ"
@@ -6867,7 +6889,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "Un Call",
       "url": "https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 156240,
+  "2024-04-20": 156248,
   "date_first_scraped": "2022-01-02",
   "description": "Eagles, The Byrds and all your favorite country rock",
   "name": "Country Rock Classics",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "Cadillac Ranch",
       "url": "https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222773,
       "name": "Cadillac Ranch",
       "url": "https://open.spotify.com/track/0wS4sl5pEkqINDgFJ39qcH"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168386,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169133,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/7gsiUput4gYeAQZkOx7J8I"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244133,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/2XI5jIhGo6Mx455FUGm8Sb"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 244133,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291893,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 298093,
       "name": "Running on Empty",
       "url": "https://open.spotify.com/track/4MZEZz8MqVgvIMXU6AVP22"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 391773,
       "name": "Strength of Strings",
       "url": "https://open.spotify.com/track/2ipSt8BpEkSgvuvMhRx3FN"

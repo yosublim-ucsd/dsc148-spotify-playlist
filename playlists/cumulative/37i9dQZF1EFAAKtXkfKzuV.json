@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208323,
+      "name": "Was zu verlieren",
+      "url": "https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf"
+    },
+    {
+      "album": {
         "name": "We're Done",
         "url": "https://open.spotify.com/album/5OMiYGBlMTN09vXaf8rZ5u"
       },

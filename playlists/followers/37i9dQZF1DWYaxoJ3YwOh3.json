@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 41324,
+  "2024-04-20": 41352,
   "date_first_scraped": "2022-09-09",
   "description": "Enchanting vibes, to help you find a relaxing moment of wellness.",
   "name": "Calming Retreat",
@@ -1232,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Music of the Persian Mystics",
+        "url": "https://open.spotify.com/album/5fSsbPShbk72VcXPgKsAN8"
+      },
+      "artists": [
+        {
+          "name": "Majid Derakhshani",
+          "url": "https://open.spotify.com/artist/68Mz4oTRLkgxPgdkmfujeL"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114520,
+      "name": "Nava",
+      "url": "https://open.spotify.com/track/7ezzTcZHPQLsQ4I6Kqhyxx"
+    },
+    {
+      "album": {
         "name": "Johare Eshgh",
         "url": "https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q"
       },
@@ -1243,7 +1261,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114520,
       "name": "Nava (Taknavazi)",
       "url": "https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL"
@@ -1409,10 +1427,36 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327746,
       "name": "Raqsat albedoi",
       "url": "https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7"
+    },
+    {
+      "album": {
+        "name": "Music form Iraq: Rhythms of Baghdad",
+        "url": "https://open.spotify.com/album/6w5z3w1ERocTpLeC242aEz"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ahmed Mukhtar",
+          "url": "https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa"
+        },
+        {
+          "name": "Sattar Al-Saadi",
+          "url": "https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327746,
+      "name": "Raqsat Albedoi",
+      "url": "https://open.spotify.com/track/6wWZm0XT0b6OGL1tv9NXbk"
     },
     {
       "album": {
@@ -1535,10 +1579,28 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 97986,
       "name": "Shining Through",
       "url": "https://open.spotify.com/track/1ZbwflBaFjdfZbdK4C5uK1"
+    },
+    {
+      "album": {
+        "name": "The Azeri Project",
+        "url": "https://open.spotify.com/album/5KR1LzWQS1Cz2ee6v6u7Lw"
+      },
+      "artists": [
+        {
+          "name": "Hamid Motebassem",
+          "url": "https://open.spotify.com/artist/76AfiUNXweLpRzTYqcAFPx"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97986,
+      "name": "Shining Through",
+      "url": "https://open.spotify.com/track/7qdPbfRTOd2LehxqKjo2rh"
     },
     {
       "album": {
@@ -1571,7 +1633,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 419706,
       "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
       "url": "https://open.spotify.com/track/2W2AKnHmEN76MnVYBRtos8"
@@ -1589,7 +1651,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 419706,
       "name": "Siretzi Yares Daran (They Have Taken the One I Love)",
       "url": "https://open.spotify.com/track/2dhdVOLoYr46OUlsS70S1f"
@@ -1687,7 +1749,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 326666,
       "name": "Tabla Breath",
       "url": "https://open.spotify.com/track/3cjOt90cB7acl5BAjkIwJ1"
@@ -1709,7 +1771,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326666,
       "name": "Tabla Breath",
       "url": "https://open.spotify.com/track/6P6eZPLalsneaRcCT6fMgp"
@@ -1943,7 +2005,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 177266,
       "name": "Yeraz (R\u00eaverie)",
       "url": "https://open.spotify.com/track/1tcS0ucLhGsAdq0auceswE"
@@ -1961,7 +2023,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177266,
       "name": "Yeraz (R\u00eaverie)",
       "url": "https://open.spotify.com/track/4hGW5Ok07tg4YW2gwWNG03"
@@ -1983,7 +2045,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 361873,
       "name": "Yohanan - Live '21",
       "url": "https://open.spotify.com/track/13kA7Nt2p6Njz8ziYi2w0b"
@@ -2005,7 +2067,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361873,
       "name": "Yohanan - Live '21",
       "url": "https://open.spotify.com/track/4xkgCxxOtZhek27JGYaf1o"

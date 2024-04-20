@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 125999,
+  "num_followers": 126004,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
+      },
+      "artists": [
+        {
+          "name": "Mariana Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "C\u00e9u Lil\u00e1s - Na Estrada",
         "url": "https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 234570,
       "name": "Barato Total",
       "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA"
-      },
-      "artists": [
-        {
-          "name": "Mariana Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+      "duration_ms": 186240,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
     },
     {
       "added_at": "2023-12-26 03:01:00",
@@ -947,22 +951,18 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT"
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 186240,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2023-12-26 03:01:00",

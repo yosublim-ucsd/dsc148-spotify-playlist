@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Diamante Eléctrico en portada.
 
-2,570 songs - 6 day 5 hr 33 min
+2,571 songs - 6 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2402,6 +2402,7 @@
 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 | 2023-02-03 | 2023-02-11 |
 | [Un Día Detrás De Otro](https://open.spotify.com/track/2wP5eN8J18rIDfnGMq84h9) | [Akisoni](https://open.spotify.com/artist/62cPnhL6gcVxT0bz8W0b7D) | [Estamos Jodides](https://open.spotify.com/album/0o4Pu6htbjCfz7tJk6mvlQ) | 3:23 | 2024-03-15 | 2024-03-23 |
 | [Un Día Especial](https://open.spotify.com/track/4EavV1ZnEKT4X3KlljYBsA) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Un Día Especial](https://open.spotify.com/album/5qKRtiCKf7vQ6RmAZ5qUAT) | 3:24 | 2022-10-14 | 2022-10-29 |
+| [Un Día Sin Ti](https://open.spotify.com/track/0w6DNPF2pJUDxdIf3vnl9F) | [Tzolkin](https://open.spotify.com/artist/2f0AJZMR1N9x57y8hGGY9B), [Chato 473](https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Un Día Sin Ti](https://open.spotify.com/album/6NzoJk6v02UJZyup1FjQl2) | 3:31 | 2024-04-19 |  |
 | [Un Eterno Loop Sin Fin](https://open.spotify.com/track/0pb1YMJkOqDE2ztxzsYHTd) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Un Eterno Loop Sin Fin](https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne) | 3:49 | 2023-02-03 | 2023-02-11 |
 | [Un Idiota Más](https://open.spotify.com/track/2r3y3VWTqLlbWWfJVXAXIx) | [Atraco](https://open.spotify.com/artist/1b5hb1dESdAOvb0vxeXwat) | [Un Idiota Más](https://open.spotify.com/album/0T1dtEKOCJgDb4LofJc5Tp) | 2:53 | 2024-01-26 | 2024-02-10 |
 | [Un Impulso](https://open.spotify.com/track/2icTVxrH50Cabwkl4MdkKw) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Florencia Quinteros](https://open.spotify.com/artist/1OwhWlWU6IC0zmcbKRHlEW) | [Un Impulso](https://open.spotify.com/album/7eZzbLnjvSItgTbEYKNBib) | 3:53 | 2022-12-09 | 2023-01-06 |

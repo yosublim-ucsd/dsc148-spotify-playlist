@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,658 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,655 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 45 | [同じ世界の違う世界](https://open.spotify.com/track/5QsmxoZtwGszkEMRSLdRDJ) | [ION](https://open.spotify.com/artist/5LEyQhjZxZhGZAzLjkQyHT) | [同じ世界の違う世界](https://open.spotify.com/album/0rY3vtFNS282h1hlXeEIp8) | 3:17 |
 | 46 | [マイ・ガール](https://open.spotify.com/track/03U4Qix6CbNgj9Dhlmlh58) | [Osteoleuco](https://open.spotify.com/artist/42u1RJUE0BhUW7VkXntJ99), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [マイ・ガール](https://open.spotify.com/album/6P9RcbmKzLOFzWDqGSprbO) | 3:47 |
 | 47 | [バード・マン](https://open.spotify.com/track/74E7OPG4pGYCubGzRWTgoJ) | [DUSTY HUSKY](https://open.spotify.com/artist/3cRA6Cy45WjQDh15MMf2PN), [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ) | [バード・マン](https://open.spotify.com/album/2pQkS7mOMdavoWOuLAR87S) | 3:25 |
-| 48 | [それがどうした](https://open.spotify.com/track/24OKHKk9wCCUzyNWuvnIy3) | [WATT a.k.a\. ヨッテルブッテル](https://open.spotify.com/artist/1tU8goZ9ZSSn6NNWh9f6U0), [HI\-KING TAKASE](https://open.spotify.com/artist/1xcYMxnEm3xG7OcGpoBTh1) | [それがどうした](https://open.spotify.com/album/38OLLGKg9BGfMnFjlckNdj) | 3:45 |
+| 48 | [それがどうした](https://open.spotify.com/track/24OKHKk9wCCUzyNWuvnIy3) | [WATT a.k.a\. YOTTERUBUTTERU](https://open.spotify.com/artist/1xM3qD3oQS9quA6J7caYGA), [HI\-KING TAKASE](https://open.spotify.com/artist/1xcYMxnEm3xG7OcGpoBTh1) | [それがどうした](https://open.spotify.com/album/38OLLGKg9BGfMnFjlckNdj) | 3:45 |
 | 49 | [Steez](https://open.spotify.com/track/7iwrFiSpEFHzU0zJ49iuXg) | [Tortoise](https://open.spotify.com/artist/7vZFYFHYdUTSLR3jNBYDqd), [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I) | [R.O.D](https://open.spotify.com/album/3VQ14tn5LSTFrtMZUhTCnZ) | 2:48 |
 | 50 | [素晴らしき世界](https://open.spotify.com/track/6MJvskeseUkRepMq2VlAw5) | [SIGEMARU](https://open.spotify.com/artist/2QaWMKn7SvYhE5jNMJ6n72), [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0) | [素晴らしき世界](https://open.spotify.com/album/5HcCcYPdrvnWaAT5TMkmTR) | 3:19 |
 | 51 | [Jyanken](https://open.spotify.com/track/6V0HU4Lt5wkr2ki6aQUKg1) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0) | [Jyanken](https://open.spotify.com/album/2P0Oaqc4QMIZc9ktO0nPVR) | 2:31 |

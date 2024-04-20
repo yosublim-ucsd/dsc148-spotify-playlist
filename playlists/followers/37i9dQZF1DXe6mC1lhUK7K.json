@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 72916,
+  "2024-04-20": 73073,
   "date_first_scraped": "2023-11-11",
   "description": "she's ready for her sequel. cover: sidney prescott \ud83d\ude31\ud83d\udc51",
   "name": "pov: the final girl",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
@@ -97,7 +97,7 @@
     {
       "album": {
         "name": "Party Favors",
-        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+        "url": "https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz"
       },
       "artists": [
         {
@@ -110,7 +110,43 @@
       "date_removed": null,
       "duration_ms": 160518,
       "name": "Animal",
+      "url": "https://open.spotify.com/track/1iBljl6IFBU6OkUMJVKMbn"
+    },
+    {
+      "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 160518,
+      "name": "Animal",
       "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
+    },
+    {
+      "album": {
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2"
     },
     {
       "album": {
@@ -125,7 +161,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210304,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
@@ -269,10 +305,46 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "album": {
+        "name": "Impeach My Bush",
+        "url": "https://open.spotify.com/album/0J8M07C6x7L21gBGaBnCf8"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235573,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/0MAior6fZ9hfPgzjphQLXk"
+    },
+    {
+      "album": {
+        "name": "Bring It On",
+        "url": "https://open.spotify.com/album/1ZNRatAi2xYtzRVAvAlSxN"
+      },
+      "artists": [
+        {
+          "name": "Deap Vally",
+          "url": "https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179268,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/1sdWSEGmB3FYml1iPDvvDM"
     },
     {
       "album": {
@@ -287,7 +359,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179268,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7i8fZrPbp63bblMG7li9Im"
@@ -349,7 +421,7 @@
     {
       "album": {
         "name": "Missing Person",
-        "url": "https://open.spotify.com/album/0NUidatHyEcctoRHaQf9W9"
+        "url": "https://open.spotify.com/album/4dDRscWeWjAJ4WtlcsRDEW"
       },
       "artists": [
         {
@@ -360,6 +432,24 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/4IeT5PbPw9cYzTRvfLwaFC"
+    },
+    {
+      "album": {
+        "name": "Missing Person",
+        "url": "https://open.spotify.com/album/0NUidatHyEcctoRHaQf9W9"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 188040,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/4xcqjo64qhkMcWi9FMc6kF"
@@ -457,7 +547,7 @@
     {
       "album": {
         "name": "Cross My Heart I Hope U Die",
-        "url": "https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO"
+        "url": "https://open.spotify.com/album/4frPyPHvx0659uYX2f9stP"
       },
       "artists": [
         {
@@ -468,6 +558,24 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 168874,
+      "name": "Cross My Heart I Hope U Die",
+      "url": "https://open.spotify.com/track/1qYbz2smBQmuKvk9qUUEw2"
+    },
+    {
+      "album": {
+        "name": "Cross My Heart I Hope U Die",
+        "url": "https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 168874,
       "name": "Cross My Heart I Hope U Die",
       "url": "https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz"
@@ -485,10 +593,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190927,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/3lnGFIDQE2QOmEe18tUA1f"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190927,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/61a0LXQA7wJ64CGzttDaN9"
     },
     {
       "album": {
@@ -575,10 +701,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267186,
       "name": "Exit Music (For A Film)",
       "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
+    },
+    {
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267186,
+      "name": "Exit Music (For a Film)",
+      "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
     },
     {
       "album": {
@@ -777,10 +921,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188383,
       "name": "Graveyard Shift",
       "url": "https://open.spotify.com/track/2vVi1QmsQ5ntGJ1vGoxFuD"
+    },
+    {
+      "album": {
+        "name": "Woman of the Hour",
+        "url": "https://open.spotify.com/album/73L7cGKM1ipslSGZ1dsmmj"
+      },
+      "artists": [
+        {
+          "name": "Stela Cole",
+          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188383,
+      "name": "Graveyard Shift",
+      "url": "https://open.spotify.com/track/72hZT841RxKdGN4BJ9csPS"
     },
     {
       "album": {
@@ -813,10 +975,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206160,
       "name": "Hard to Kill",
       "url": "https://open.spotify.com/track/1jNfgfxGZf33UW0U2DlbIy"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t You Think You\u2019ve Had Enough?",
+        "url": "https://open.spotify.com/album/1wAaE8ae7uJ0F8ZDxXYcCW"
+      },
+      "artists": [
+        {
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206160,
+      "name": "Hard to Kill",
+      "url": "https://open.spotify.com/track/2W830GhisPFzMAZOlKNBcY"
     },
     {
       "album": {
@@ -849,7 +1029,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK"
@@ -867,10 +1047,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 181680,
       "name": "Hayloft",
       "url": "https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq"
+    },
+    {
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs"
     },
     {
       "album": {
@@ -885,7 +1083,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
@@ -1047,10 +1245,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246006,
       "name": "Kill V. Maim",
       "url": "https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq"
+    },
+    {
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246013,
+      "name": "Kill V. Maim",
+      "url": "https://open.spotify.com/track/2MpZratWHtEtJB0qVdJSPN"
     },
     {
       "album": {
@@ -1065,7 +1281,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 122998,
       "name": "Knife Under My Pillow",
       "url": "https://open.spotify.com/track/18IzbU4Iy1ktWsOZOJDiD1"
@@ -1083,7 +1299,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122998,
       "name": "Knife Under My Pillow",
       "url": "https://open.spotify.com/track/3sFW3Wru7nPZkhf4BDTXUf"
@@ -1163,7 +1379,7 @@
     {
       "album": {
         "name": "White Noise",
-        "url": "https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ"
+        "url": "https://open.spotify.com/album/7acEEWUWq2GVgeS9tr9cOp"
       },
       "artists": [
         {
@@ -1174,6 +1390,24 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242560,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/0H7uRp4w4GP9fhAvh9Jih0"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/2POgZTMa9HwsbqB3spYCQZ"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 242560,
       "name": "My House",
       "url": "https://open.spotify.com/track/2hNxkoMR4TZ3ft4uk9zJli"
@@ -1191,10 +1425,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+    },
+    {
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278746,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
     },
     {
       "album": {
@@ -1227,10 +1479,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217364,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/59CLe8stbcx4XYBWdsfbwK"
+    },
+    {
+      "album": {
+        "name": "Parallel Lines (Remastered)",
+        "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "One Way Or Another - Remastered 2001",
+      "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
     },
     {
       "album": {
@@ -1360,6 +1630,24 @@
     },
     {
       "album": {
+        "name": "Raise Hell",
+        "url": "https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF"
+    },
+    {
+      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -1371,7 +1659,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
@@ -1649,10 +1937,46 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244026,
       "name": "That Don't Impress Me Much - triple j Like A Version",
       "url": "https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq"
+    },
+    {
+      "album": {
+        "name": "That Don\u2019t Impress Me Much (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3ysUnknfDsYyDuUzfLProc"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244893,
+      "name": "That Don\u2019t Impress Me Much - triple j Like A Version",
+      "url": "https://open.spotify.com/track/0qfZ778fbXXCtyEzyIET5K"
+    },
+    {
+      "album": {
+        "name": "The Faculty (Music From The Dimension Motion Picture)",
+        "url": "https://open.spotify.com/album/2ZaFYhgOvccj2dfHW2Boxv"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/6EiHcFupatDGdEGq1XzDAx"
     },
     {
       "album": {
@@ -1667,7 +1991,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
@@ -1729,7 +2053,7 @@
     {
       "album": {
         "name": "Where Is My Mind",
-        "url": "https://open.spotify.com/album/71M6lU1mI1Ry8awQjnOP0z"
+        "url": "https://open.spotify.com/album/5h3VwhwAyiOFqjfdKvN7zH"
       },
       "artists": [
         {
@@ -1744,6 +2068,28 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Where Is My Mind",
+      "url": "https://open.spotify.com/track/1UVrXrYSie4wrHCtLQRisM"
+    },
+    {
+      "album": {
+        "name": "Where Is My Mind",
+        "url": "https://open.spotify.com/album/71M6lU1mI1Ry8awQjnOP0z"
+      },
+      "artists": [
+        {
+          "name": "Safari Riot",
+          "url": "https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT"
+        },
+        {
+          "name": "Grayson Sanders",
+          "url": "https://open.spotify.com/artist/0MlGMVJlkgkO40TgR65itd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 182222,
       "name": "Where Is My Mind",
       "url": "https://open.spotify.com/track/2X8S0sObGFG5rkSvieOx9M"

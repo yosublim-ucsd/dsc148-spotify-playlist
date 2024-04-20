@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 50624,
+  "2024-04-20": 50670,
   "date_first_scraped": "2022-06-20",
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
   "name": "Jazz Trumpet",
@@ -84,12 +84,12 @@
       "artists": [
         {
           "name": "Louis Smith",
-          "url": "https://open.spotify.com/artist/1cynU9t25KnZAetN0uXgm9"
+          "url": "https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX"
         }
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 401533,
       "name": "Ande - Digitally Remastered",
       "url": "https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 359746,
       "name": "Aneba",
       "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Blowin up Breeze",
       "url": "https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 305866,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 586680,
       "name": "Have Blues, Will Play'em",
       "url": "https://open.spotify.com/track/6UOQDhoXLJbJ2H3quqOUX8"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 397017,
       "name": "Hazy Blues",
       "url": "https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265200,
       "name": "Hub Cap",
       "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
@@ -1144,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "The Complete Harry James In Hi-Fi",
+        "url": "https://open.spotify.com/album/6dldnOlyfunbl0SHU0dcZq"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "It's Been A Long Long Time",
+      "url": "https://open.spotify.com/track/3BzO3H3k4iU70Cn6YpriYA"
+    },
+    {
+      "album": {
         "name": "The Incredible Harry James",
         "url": "https://open.spotify.com/album/6S9sSx0t4iOvkFSyBVpIeP"
       },
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187573,
       "name": "It's Been a Long Long Time (Alternate Take)",
       "url": "https://open.spotify.com/track/4iecQTgGLf0WJKrdnT2OKD"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 187200,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/2Slpoc7hyJngbrpX0wa3T5"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187200,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/7sI3nlaf4N15kPeJnqf01s"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211693,
       "name": "Just in Time",
       "url": "https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 413387,
       "name": "Life's A Little Blue",
       "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 550213,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
@@ -1596,6 +1614,28 @@
     },
     {
       "album": {
+        "name": "The Complete Louis Armstrong - Duke Ellington Sessions",
+        "url": "https://open.spotify.com/album/0tDaldQZb0L4jsIbEJnNhF"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240040,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1EzGtQRzHlP3xNvzNalgvZ"
+    },
+    {
+      "album": {
         "name": "The Great Summit - The Complete Sessions-Deluxe Edition",
         "url": "https://open.spotify.com/album/1Fquufzod0wEcCXt6oYnCJ"
       },
@@ -1611,7 +1651,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "Mood Indigo - 1990 Remaster",
       "url": "https://open.spotify.com/track/1Fo98RNzO78WnMtkZKZXMW"
@@ -1629,7 +1669,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249013,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
@@ -1647,7 +1687,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249666,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
@@ -2141,7 +2181,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148573,
       "name": "Sweet Sue (Just You)",
       "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
@@ -2221,7 +2261,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 632253,
       "name": "The Baggae",
       "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
@@ -2291,7 +2331,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 247920,
       "name": "Tin Roof Blues",
       "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
@@ -2327,7 +2367,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176362,
       "name": "Tin Roof Blues",
       "url": "https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv"
@@ -2345,7 +2385,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176613,
       "name": "Tin Roof Blues",
       "url": "https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6"
@@ -2465,7 +2505,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164973,
       "name": "Weather Bird",
       "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
@@ -2537,7 +2577,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"
@@ -2725,7 +2765,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 413333,
       "name": "You're Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
@@ -2743,7 +2783,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 412746,
       "name": "You're Getting to Be a Habit with Me",
       "url": "https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7"

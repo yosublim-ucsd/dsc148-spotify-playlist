@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-417 songs - 20 hr 33 min
+418 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 | 2022-11-25 | 2023-05-09 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-06-09 | 2022-10-01 |
 | [If You Don’t Mind](https://open.spotify.com/track/45iYlfv7l1O3eMnmQpFnFY) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [If You Don’t Mind](https://open.spotify.com/album/69Jy0i1vAz4pBor0ESq9e4) | 2:43 | 2024-01-12 | 2024-01-26 |
+| [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-04-19 |  |
 | [Imagine](https://open.spotify.com/track/3W9O4vJXIbD4CwfJJg7uoO) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Imagine](https://open.spotify.com/album/4T2bNnsrgOuqtfLSIODbin) | 3:12 | 2022-06-09 | 2022-10-06 |
 | [imagine \(feat\. Aitch\)](https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:46 | 2023-06-22 |  |
 | [In The Morning](https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [In The Morning](https://open.spotify.com/album/7FcUaQQ171IYWM4H6C2UvW) | 3:07 | 2022-06-09 | 2023-10-18 |
@@ -215,7 +216,7 @@
 | [love again](https://open.spotify.com/track/2wVnzmP0PlkstH6va5yDlJ) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Denise Bamfo](https://open.spotify.com/artist/6j4c63tFu9m7oWWc11GwDO) | [love again](https://open.spotify.com/album/3TYi0asCTeMl6iYuUQDmqV) | 2:19 | 2023-12-15 | 2024-01-05 |
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 | 2023-08-18 |
 | [Love Dimension](https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN) | [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [Love Dimension](https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx) | 2:25 | 2023-06-09 | 2023-08-11 |
-| [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 |  |
+| [Love Don't Cost A Dime](https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Magixx](https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD) | 3:25 | 2022-06-09 | 2024-04-20 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
 | [Love Takes Me Higher](https://open.spotify.com/track/1VwvA88UpQZXbYAxlNMMeD) | [Josh X](https://open.spotify.com/artist/2h2eheYRqB6maoKoP76zsc) | [Love Takes Me Higher](https://open.spotify.com/album/02TpC9jzJjMYvZBRU9R9oy) | 2:22 | 2023-04-21 | 2023-06-10 |
 | [Love You Better](https://open.spotify.com/track/47Ktfsy8HVbU7bGZik0ASR) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Love You Better](https://open.spotify.com/album/7e0FseqTvBVNXw8Dicc6Xr) | 2:32 | 2022-06-09 | 2023-03-04 |

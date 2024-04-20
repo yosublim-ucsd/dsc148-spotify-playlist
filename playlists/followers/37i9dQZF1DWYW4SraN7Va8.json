@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 104530,
+  "2024-04-20": 104822,
   "date_first_scraped": "2022-04-22",
   "description": "Nacimos para rodar en el asfalto. ",
   "name": "Las Choppers",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 166360,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168320,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227440,
       "name": "Ain't Talkin' 'Bout Love - 2004 Remaster",
       "url": "https://open.spotify.com/track/1tZdrScspGPI4cdkSChrcX"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227800,
       "name": "Ain't Talkin' 'Bout Love - 2015 Remaster",
       "url": "https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 141600,
       "name": "Bad Moon Rising",
       "url": "https://open.spotify.com/track/66FSV5dLK5sNLZ00IfHxfD"
@@ -313,6 +313,24 @@
     {
       "album": {
         "name": "BANSHEE/#REBEL",
+        "url": "https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "BANSHEE",
+      "url": "https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik"
+    },
+    {
+      "album": {
+        "name": "BANSHEE/#REBEL",
         "url": "https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf"
       },
       "artists": [
@@ -341,7 +359,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214880,
       "name": "BANSHEE",
       "url": "https://open.spotify.com/track/6pdntQc8sbazCWErk3AKz1"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207093,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/46VaDtbrBj929FWnUdTQV0"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197800,
       "name": "Come Out and Play",
       "url": "https://open.spotify.com/track/5JJDu0Z5DKe7mR31MGksSg"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 159386,
       "name": "Crash Course In Brain Surgery - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/5y8aD8CDZUv8C605X3J6ha"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 250986,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 436960,
       "name": "Fear of the Dark",
       "url": "https://open.spotify.com/track/0PLUzbu0ST6IOSgtUknxWV"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438120,
       "name": "Fear of the Dark (2015 Remaster)",
       "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230760,
       "name": "Flight of Icarus - 2015 Remaster",
       "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242800,
       "name": "Future World",
       "url": "https://open.spotify.com/track/3dT3OPMkRei9JQN66sWnPT"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 243613,
       "name": "Future World",
       "url": "https://open.spotify.com/track/7vAwjvJs8YSlHcykJu7nc0"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Generator",
       "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 240600,
       "name": "Girl Money",
       "url": "https://open.spotify.com/track/79A7CDgqh8SMvTbgA53pIC"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232800,
       "name": "Here I Go Again",
       "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232133,
       "name": "Here I Go Again - Radio Mix",
       "url": "https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 289597,
       "name": "Holy Ground (Shake the Memory)",
       "url": "https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 140933,
       "name": "I'll Be Your Man",
       "url": "https://open.spotify.com/track/1nIUgRxbi4aY4fV5A26Jrp"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140933,
       "name": "I'll Be Your Man",
       "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230480,
       "name": "La Grange (2005 Remaster)",
       "url": "https://open.spotify.com/track/0u6JFVn0KHHlidZxNL9gVE"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "La Grange - 2005 Remaster",
       "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "Leather Boyz With Electric Toyz",
       "url": "https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190893,
       "name": "Old Time Rock n\\' Roll",
       "url": "https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192280,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/21ITGgxMdkh7Q2nAKhZKvb"
@@ -1551,6 +1569,24 @@
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "album": {
+        "name": "Call of the Road",
+        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
+      },
+      "artists": [
+        {
+          "name": "Jenny Don't And The Spurs",
+          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228729,
+      "name": "Paso Del Norte",
+      "url": "https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv"
     },
     {
       "album": {
@@ -1655,7 +1691,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Rainbow In The Dark",
       "url": "https://open.spotify.com/track/4ggy61YkrNendRHDi8fmNF"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256933,
       "name": "Rainbow in the Dark",
       "url": "https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq"
@@ -1695,6 +1731,24 @@
       "duration_ms": 254499,
       "name": "Rainbow in the Dark - 2022 Remaster",
       "url": "https://open.spotify.com/track/0NGAPQMAKnrAYkn2YVW8lF"
+    },
+    {
+      "album": {
+        "name": "SIX",
+        "url": "https://open.spotify.com/album/4u8ShfrnVWBOKmY9JK9fg0"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/2HSzFijVYyUpdw0Aezukdn"
     },
     {
       "album": {
@@ -1763,7 +1817,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-02",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/0SFS1LxNP5wgnoDA7nGKQu"
@@ -1781,7 +1835,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265893,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL"
@@ -1835,7 +1889,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233506,
       "name": "Run to the Hills (2015 Remaster)",
       "url": "https://open.spotify.com/track/5b1jZ9geGD4boxz24XgGPp"
@@ -1871,7 +1925,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233946,
       "name": "Run to the Hills - 1998 Remaster",
       "url": "https://open.spotify.com/track/4Z4ZLBzCXSlHSCaxZ3WS7p"
@@ -1925,7 +1979,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295466,
       "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
       "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
@@ -1961,7 +2015,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414720,
       "name": "Seek & Destroy (Remastered)",
       "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
@@ -1997,7 +2051,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231733,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN"
@@ -2015,7 +2069,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
@@ -2069,7 +2123,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194986,
       "name": "Shout at the Devil",
       "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
@@ -2123,7 +2177,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246920,
       "name": "Spoonman",
       "url": "https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt"
@@ -2249,7 +2303,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283360,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
@@ -2285,7 +2339,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201213,
       "name": "Too Fast for Love",
       "url": "https://open.spotify.com/track/4XdLlfscf06Tk1Ny6JQi84"
@@ -2375,7 +2429,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
@@ -2393,7 +2447,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
@@ -2429,7 +2483,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
@@ -2447,7 +2501,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 199725,
       "name": "What's Love Got To Do With It",
       "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
@@ -2465,7 +2519,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
@@ -2519,7 +2573,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
@@ -2537,7 +2591,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176306,
       "name": "Woman",
       "url": "https://open.spotify.com/track/54ix2V2omFv9UUiMks7Fhf"
@@ -2555,7 +2609,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 201680,
       "name": "You Drive Me Wild",
       "url": "https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y"
@@ -2591,7 +2645,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 198906,
       "name": "Youth Gone Wild",
       "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
@@ -2609,7 +2663,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198906,
       "name": "Youth Gone Wild",
       "url": "https://open.spotify.com/track/37Vzad7uGm0I9zJIFXlT4b"

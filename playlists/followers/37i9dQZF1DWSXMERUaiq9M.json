@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 236403,
+  "2024-04-20": 236649,
   "date_first_scraped": "2023-03-14",
   "description": "love peace techno",
   "name": "rave",
@@ -269,7 +269,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188689,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301080,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 204591,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 230137,
       "name": "Devotion - Show Me Love 2023 Techno Mix - Radio Edit",
       "url": "https://open.spotify.com/track/5CgfZ4a0Ja2m8BoHfLqvJ0"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237194,
       "name": "Get Shaky",
       "url": "https://open.spotify.com/track/267DliVFe67u89luc9v6UD"
@@ -1855,7 +1855,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 288400,
       "name": "Goldener Raver (1995 Remix) - Rave Mix",
       "url": "https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw"
@@ -2088,6 +2088,28 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "album": {
         "name": "I Luv U Butt",
         "url": "https://open.spotify.com/album/7JD5KDzMgwOboxuGplUf43"
       },
@@ -2289,7 +2311,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200687,
       "name": "Irre - KomaCasper Remix",
       "url": "https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3"
@@ -2347,7 +2369,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
@@ -2895,7 +2917,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 155121,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/681iK2vB0RCr4m7TX5hcn6"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299520,
       "name": "My Little White Pony",
       "url": "https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN"
@@ -3291,6 +3313,24 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S"
     },
     {
       "album": {
@@ -3817,7 +3857,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
@@ -4335,7 +4375,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 169329,
       "name": "Tell Me Daddy",
       "url": "https://open.spotify.com/track/09p7aiG886Vev83CeQyjPh"
@@ -4695,10 +4735,32 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236068,
       "name": "We Are The People - southstar Remix",
       "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
+    },
+    {
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236157,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "album": {

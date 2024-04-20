@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,182 songs - 2 day 13 hr 59 min
+1,183 songs - 2 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Drown out the noise](https://open.spotify.com/track/1BH975zc82rAvbJZrmkbgH) | [Moto Boy](https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL) | [Drown out the noise](https://open.spotify.com/album/2HI5X6ZZTWSEFPL3teLO96) | 3:53 | 2024-01-25 | 2024-03-10 |
 | [Dränker mina tankar](https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Dränker mina tankar](https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX) | 3:02 | 2022-04-01 | 2022-09-16 |
 | [Dröm vackra dröm](https://open.spotify.com/track/61ej0PBBMll6v1huilKpRV) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Benjamin Krantz](https://open.spotify.com/artist/0WC4tfwdMsfXUqaQT5hjP2), [Viktor Nordström](https://open.spotify.com/artist/6o6uQFrQob5ylTDifuX2hx) | [Dröm vackra dröm](https://open.spotify.com/album/5ltpwXNlX18QBllkQvviHc) | 3:20 | 2024-04-04 |  |
-| [DRÖMFÅNGARE](https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Drömfångare](https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl) | 3:15 | 2024-04-11 |  |
+| [DRÖMFÅNGARE](https://open.spotify.com/track/6XOww2lzkjbOW7gCWD8jpO) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [DRÖMFÅNGARE](https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl) | 3:15 | 2024-04-11 |  |
 | [Drömmare](https://open.spotify.com/track/2zEDpcn34OMwjC7SVPey4S) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Drömmare](https://open.spotify.com/album/7AEwJqMf2dlz3Qx659C6Xd) | 3:03 | 2021-12-16 | 2022-04-01 |
 | [Drömmer om andetag](https://open.spotify.com/track/1WKsFk6rFyrzzV0CdPDIBw) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Drömmer om andetag](https://open.spotify.com/album/3AK4IBdV1dWUcgLIUR8k3I) | 3:30 | 2021-12-16 | 2022-02-25 |
 | [Du](https://open.spotify.com/track/12QVxTflISIpZyLQcQdc3x) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Poetiska försök](https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu) | 4:22 | 2023-09-08 | 2023-10-20 |
@@ -868,7 +868,7 @@
 | [SE PÅ MIG](https://open.spotify.com/track/3hpPuFukUdjPrkvP3GOce2) | [Gamebojj](https://open.spotify.com/artist/3tL3V3oYCfUDA6eECPGw1j) | [SE PÅ MIG](https://open.spotify.com/album/0Eahjmc8johiZt87JF1I9u) | 2:22 | 2024-03-21 |  |
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
 | [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 | 2024-03-17 |
-| [Segeltorp](https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u) | [Reflektion](https://open.spotify.com/artist/1GzkzasUtKs6qCJQikDmiJ) | [Segeltorp](https://open.spotify.com/album/6DncLd5TqDR4NLLm9uxnt2) | 3:35 | 2024-04-18 |  |
+| [Segeltorp](https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u) | [Reflektion](https://open.spotify.com/artist/1GzkzasUtKs6qCJQikDmiJ) | [Segeltorp](https://open.spotify.com/album/6DncLd5TqDR4NLLm9uxnt2) | 3:35 | 2024-04-18 | 2024-04-20 |
 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |
 | [Seriously, Let's Ride or Die](https://open.spotify.com/track/2MBs6ryr1ZxW4EpPUwYP9L) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Seriously, Let's Ride or Die](https://open.spotify.com/album/03FPGcycU0XI6DEgGMB8SM) | 3:18 | 2022-02-20 | 2022-05-13 |
 | [Shadowman](https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:57 | 2023-07-06 | 2023-09-09 |
@@ -1036,6 +1036,7 @@
 | [they don't know](https://open.spotify.com/track/1yfIeso4HxiY5N5TRZRyIf) | [tindra](https://open.spotify.com/artist/1725qONdsi9Vajd66ATXaz) | [they don't know](https://open.spotify.com/album/46gklpPqhytegYwoQhVcLw) | 3:20 | 2024-01-25 | 2024-01-28 |
 | [Thin](https://open.spotify.com/track/36DjnovGfaU6tWduDb0skt) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Thin](https://open.spotify.com/album/1AmKGq5TXiKTxYrEAe5KQn) | 3:33 | 2022-03-10 | 2022-04-02 |
 | [Third strike](https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Third strike](https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG) | 3:07 | 2023-11-16 | 2024-02-09 |
+| [This Right Here](https://open.spotify.com/track/2zBQE3F3st2HToVlhG2dQ0) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM), [Free Will](https://open.spotify.com/artist/5oMmUxH4OljQDTGkkZDLaY) | [This Right Here](https://open.spotify.com/album/1VLk0YxKsUyIf7OqDlmS1G) | 4:21 | 2024-04-19 |  |
 | [This Side](https://open.spotify.com/track/3SJBTEMhW8dRpBNodHZHWc) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [This Side](https://open.spotify.com/album/1bGa5AYRWUE4DyY81YuDcf) | 2:46 | 2024-03-14 | 2024-03-17 |
 | [THRILLER \(with Clara Mae\)](https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [THRILLER \(with Clara Mae\)](https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE) | 2:41 | 2023-04-20 | 2023-09-09 |
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 | 2023-06-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 466875,
+  "num_followers": 466838,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -35,26 +35,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -75,6 +55,26 @@
       "duration_ms": 261818,
       "name": "C\u00e9u Azul - Vintage Culture & Santti Remix",
       "url": "https://open.spotify.com/track/0davAVsF63UvUwOtbSOhSE"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 174219,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
-      },
-      "artists": [
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
-        }
-      ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Perdi\u00e7\u00e3o (feat. L7NNON) [Remix]",
         "url": "https://open.spotify.com/album/7nJHxArjVPTY0Kb0U94qTZ"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 219000,
       "name": "Perdi\u00e7\u00e3o (feat. L7NNON) - Remix",
       "url": "https://open.spotify.com/track/2z7cpHZy0D2sEoy7n7uiVD"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+      },
+      "artists": [
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+        }
+      ],
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1403,30 +1403,6 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Roda Gigante",
-        "url": "https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o"
-      },
-      "artists": [
-        {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        }
-      ],
-      "duration_ms": 178328,
-      "name": "Roda Gigante",
-      "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
-    },
-    {
-      "added_at": "2024-03-16 02:06:56",
-      "album": {
         "name": "Manh\u00e3 de Sol (Zuffo Remix)",
         "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
       },
@@ -1447,6 +1423,30 @@
       "duration_ms": 201600,
       "name": "Manh\u00e3 de Sol - Zuffo Remix",
       "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
+    },
+    {
+      "added_at": "2024-03-16 02:06:56",
+      "album": {
+        "name": "Roda Gigante",
+        "url": "https://open.spotify.com/album/0pO3jAs20jXXsevyFf1R7o"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 178328,
+      "name": "Roda Gigante",
+      "url": "https://open.spotify.com/track/4ZbPzncqIaim9AhBaI5iO2"
     },
     {
       "added_at": "2024-03-16 02:06:56",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2024-03-16 02:06:56",
       "album": {
-        "name": "Frevo Mulher (Remixes)",
-        "url": "https://open.spotify.com/album/5MuVLg9WRgDmDo14nGJwS4"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
       "artists": [
         {
-          "name": "FLAR",
-          "url": "https://open.spotify.com/artist/3TmTT72nBrAzHsQ1KkBppa"
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
         },
         {
-          "name": "Z\u00e9 Ramalho",
-          "url": "https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S"
+          "name": "Yannick",
+          "url": "https://open.spotify.com/artist/67RbImi9ILvrMaxCV9khRV"
         }
       ],
-      "duration_ms": 258750,
-      "name": "Frevo Mulher (Remix) - Radio Mix",
-      "url": "https://open.spotify.com/track/2pd4ZghZfqaFpp5d3kBrW8"
+      "duration_ms": 216126,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
     },
     {
       "added_at": "2024-03-16 02:06:56",

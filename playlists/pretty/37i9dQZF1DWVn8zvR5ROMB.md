@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Wyatt Flores, MacKenzie Porter, Corey Kent and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,663 likes - 68 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,887 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

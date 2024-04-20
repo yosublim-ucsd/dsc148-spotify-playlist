@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 43092,
+  "2024-04-20": 43111,
   "date_first_scraped": "2022-06-08",
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
   "name": "Huaynos Cl\u00e1sicos",
@@ -11,13 +11,13 @@
       },
       "artists": [
         {
-          "name": "",
+          "name": "artist",
           "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4CpOzN60AZOKsufiLpNfhY"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188786,
       "name": "A los Filos de un Cuchillo",
       "url": "https://open.spotify.com/track/2zBNL2irMpvqj3DNJiUgUe"
@@ -83,7 +83,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186723,
       "name": "A los filos de un cuchillo",
       "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 171490,
       "name": "Adi\u00f3s Pueblo de Ayacucho",
       "url": "https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179040,
       "name": "Adi\u00f3s Pueblo de Ayacucho",
       "url": "https://open.spotify.com/track/5SnatgsCSbX8tQ3WVX9Rhe"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 170109,
       "name": "Amor Te Has Marchado Lejos",
       "url": "https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250533,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271666,
       "name": "Amor, amor",
       "url": "https://open.spotify.com/track/2fXjZzZbrKwwyV5cY9wOOv"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271666,
       "name": "Amor, amor",
       "url": "https://open.spotify.com/track/6iypGCgmE155AvPNa53qWS"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281653,
       "name": "Ay Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 281730,
       "name": "Ay Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265599,
       "name": "Cajamarquina",
       "url": "https://open.spotify.com/track/5tOCsVNHO1rEtC7KaP2v3E"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274506,
       "name": "Cerveza, Cerveza",
       "url": "https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254506,
       "name": "Challwaschallay",
       "url": "https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259525,
       "name": "Chapitas",
       "url": "https://open.spotify.com/track/1KAZ9CCzFCwlfs2VoLe3p4"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 249155,
       "name": "Clavel de mi pecho",
       "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-04",
+      "date_removed": null,
       "duration_ms": 219653,
       "name": "El Pio, Pio",
       "url": "https://open.spotify.com/track/2r9yZQgAutifXWUfefnUnz"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
@@ -1013,7 +1013,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 388813,
       "name": "Flor de Retama",
       "url": "https://open.spotify.com/track/44xGBoSZ8S98X3LzgUyuWK"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 388813,
       "name": "Flor de Retana",
       "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 219653,
       "name": "Huaylash Macho",
       "url": "https://open.spotify.com/track/2wIRGGoFZ43qlGKd5c0gnE"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316586,
       "name": "Juntito a Ti",
       "url": "https://open.spotify.com/track/7nPN1YXRgC737Z5W0FM0G9"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238889,
       "name": "Koka kintucha",
       "url": "https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 365493,
       "name": "La Chismosa",
       "url": "https://open.spotify.com/track/4VlswEsEPSWQHefPJoTNVd"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365493,
       "name": "La Chismosa",
       "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340584,
       "name": "La Cornuda",
       "url": "https://open.spotify.com/track/6OzTUt05pxFJAFJjGPxqU5"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250868,
       "name": "La Tetita",
       "url": "https://open.spotify.com/track/2kOOUxPrMxVNCQrjkBJoMz"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 208040,
       "name": "Mauka Zapato",
       "url": "https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353044,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/43AppGONaZENtN60Ez9Vyv"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 322600,
       "name": "Ni\u00f1achay",
       "url": "https://open.spotify.com/track/0iOqN5oqcCMZ5Qh2R5hSHc"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322600,
       "name": "Ni\u00f1achay",
       "url": "https://open.spotify.com/track/3kpTxzF6Uas4qZuX5ou4hD"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257893,
       "name": "No quiero m\u00e1s esta vida",
       "url": "https://open.spotify.com/track/3viRdnVXZVlWqB97loJnQy"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257893,
       "name": "No Quiero M\u00e1s Esta Vida",
       "url": "https://open.spotify.com/track/7nMvYV2DHRy2FhtXmNsAl0"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270289,
       "name": "Olvidame",
       "url": "https://open.spotify.com/track/0vEBYwEwOYVq1tPqB2Qohf"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274320,
       "name": "Olvidame",
       "url": "https://open.spotify.com/track/5FEBTnlzOP6jQxrp2SMKQE"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197866,
       "name": "Otra vez me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/68fz1ipIJt51gEEZY9Y0eP"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-06",
+      "date_removed": null,
       "duration_ms": 197866,
       "name": "Otra Vez me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223724,
       "name": "Pio Pio",
       "url": "https://open.spotify.com/track/3KYG6f0J9xM5LKmJ6WgHwN"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 167773,
       "name": "Pucay Punchochay",
       "url": "https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su"
@@ -1809,7 +1809,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-30",
+      "date_removed": null,
       "duration_ms": 160173,
       "name": "Remembranzas",
       "url": "https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR"
@@ -1899,7 +1899,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239853,
       "name": "Sirwana",
       "url": "https://open.spotify.com/track/4QJ4AGqVMGrVCXtPBmzldQ"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220053,
       "name": "Siwarquinticha",
       "url": "https://open.spotify.com/track/5AXFzmnW21Atxa2zM92VsA"
@@ -1971,7 +1971,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382876,
       "name": "Soy Provinciano",
       "url": "https://open.spotify.com/track/3ZkFqIPa7HL9ijEiONlUpf"
@@ -2007,7 +2007,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 221533,
       "name": "Terco coraz\u00f3n",
       "url": "https://open.spotify.com/track/65VRWF91A0eL7HX1VaYUwM"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-20",
+      "date_removed": null,
       "duration_ms": 159453,
       "name": "Triste Enamorado",
       "url": "https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK"
@@ -2097,7 +2097,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264736,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266831,
       "name": "Tu Recuerdo",
       "url": "https://open.spotify.com/track/1FJMpwSVvvRAUs4e9J8cSr"
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287800,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287800,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 340653,
       "name": "Yo Soy el Amor",
       "url": "https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B"

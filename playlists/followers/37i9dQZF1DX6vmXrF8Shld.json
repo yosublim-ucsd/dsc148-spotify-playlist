@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 78830,
+  "2024-04-20": 78871,
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest 60s Funk. Cover: The Meters.",
   "name": "I Love My 60s Funk",
@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "The Great J. J. Jackson",
+        "url": "https://open.spotify.com/album/6YivJK7Oc6uRXhPmTYCPsQ"
+      },
+      "artists": [
+        {
+          "name": "J.J. Jackson",
+          "url": "https://open.spotify.com/artist/6FBBmwVjTdJ54I7j4BNkF5"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175773,
+      "name": "But It's Allright",
+      "url": "https://open.spotify.com/track/2LBQnH5lizwf1zw9UAk8Ag"
+    },
+    {
+      "album": {
         "name": "Soul Spectacular!",
         "url": "https://open.spotify.com/album/5yjViWdkXvt6QqECIJmBRF"
       },
@@ -161,7 +179,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173813,
       "name": "But It's Alright",
       "url": "https://open.spotify.com/track/62ylA6rQ8lgVn94VW00NTB"
@@ -205,7 +223,7 @@
     {
       "album": {
         "name": "Dresses Too Short",
-        "url": "https://open.spotify.com/album/4CqGfJ9fUZKbLTHVsPjYmN"
+        "url": "https://open.spotify.com/album/5fIgFPRn1VyCoTfzVzHos2"
       },
       "artists": [
         {
@@ -216,6 +234,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139666,
+      "name": "Different Strokes",
+      "url": "https://open.spotify.com/track/3AXs4whfA4nqfWeXYkunTK"
+    },
+    {
+      "album": {
+        "name": "Dresses Too Short",
+        "url": "https://open.spotify.com/album/4CqGfJ9fUZKbLTHVsPjYmN"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 139666,
       "name": "Different Strokes",
       "url": "https://open.spotify.com/track/5QC0qgroozRGGHAJuTsP4c"
@@ -233,10 +269,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207853,
       "name": "Do The Funky Chicken",
       "url": "https://open.spotify.com/track/2kzYaLoVgoNMRg4lyNTqWr"
+    },
+    {
+      "album": {
+        "name": "Walkin' The Dog",
+        "url": "https://open.spotify.com/album/1ITYLES1ZlhvojYJvKjSVS"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Do The Funky Chicken",
+      "url": "https://open.spotify.com/track/757ESrM6FOsHgGgjbliux1"
     },
     {
       "album": {
@@ -305,7 +359,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197800,
       "name": "Everything I Do Goin' Be Funky",
       "url": "https://open.spotify.com/track/2DeZEHRDH35GWfHMkAV6Ih"
@@ -323,7 +377,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 197800,
       "name": "Everything I Do Goin' Be Funky",
       "url": "https://open.spotify.com/track/5EQRiL6hOtongNIxiTKIM4"
@@ -431,7 +485,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157173,
       "name": "Here Comes The Judge",
       "url": "https://open.spotify.com/track/3zOSgkGkNBQE5V0pieRddw"
@@ -471,6 +525,24 @@
       "duration_ms": 157226,
       "name": "Here Comes The Judge",
       "url": "https://open.spotify.com/track/6yNprdbGhzfEwSIaS1GvRV"
+    },
+    {
+      "album": {
+        "name": "Big Motown Hits & Hard To Find Classics - Volume 2",
+        "url": "https://open.spotify.com/album/0VCMGKYEQmc3vr6ueFrJe9"
+      },
+      "artists": [
+        {
+          "name": "Shorty Long",
+          "url": "https://open.spotify.com/artist/3J11x63maeBtbx8zXgzftQ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "Here Comes The Judge",
+      "url": "https://open.spotify.com/track/5Ox9ZNekeI7ELFZovsbxOC"
     },
     {
       "album": {
@@ -989,10 +1061,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176626,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
+    },
+    {
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/4aDsONCBMpZ6AAjZctYEYS"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/6VzM9C7CXyn1BQdgTJVqDx"
     },
     {
       "album": {
@@ -1158,6 +1248,24 @@
     },
     {
       "album": {
+        "name": "100 Greatest Soul",
+        "url": "https://open.spotify.com/album/1h3AgcW3B3Bw0wafOROjO8"
+      },
+      "artists": [
+        {
+          "name": "Darrell Banks",
+          "url": "https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "The Love of My Woman",
+      "url": "https://open.spotify.com/track/75VchZDSLmRiUZDQ7zqZ3I"
+    },
+    {
+      "album": {
         "name": "Atlantic Unearthed: Soul Brothers",
         "url": "https://open.spotify.com/album/4WFbdQVnAwE2shxmwMN0WN"
       },
@@ -1169,7 +1277,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173333,
       "name": "The Love of My Woman - Single Version; Remastered",
       "url": "https://open.spotify.com/track/1eUfBAAMu5Sf3vF9H2QNfX"
@@ -1357,10 +1465,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140160,
       "name": "Walkin' the Dog",
       "url": "https://open.spotify.com/track/7qCGnmcKlsSKmYZOIU2qkD"
+    },
+    {
+      "album": {
+        "name": "Walking the Dog (Remastered)",
+        "url": "https://open.spotify.com/album/4pONtSaxbgQ6fggkCYhNsh"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135920,
+      "name": "Walking the Dog - Remastered",
+      "url": "https://open.spotify.com/track/3VMOOeHOcFcSBFNgUzR2yt"
     },
     {
       "album": {
@@ -1400,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "100 Greatest Soul",
+        "url": "https://open.spotify.com/album/1h3AgcW3B3Bw0wafOROjO8"
+      },
+      "artists": [
+        {
+          "name": "Laura Lee",
+          "url": "https://open.spotify.com/artist/0ApoVi8QEh35twomSXh9TX"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "What a Man - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5ZEvnKOFukN1lXXHiOHESi"
+    },
+    {
+      "album": {
         "name": "Atlantic Unearthed: Soul Sisters",
         "url": "https://open.spotify.com/album/1wThKZtNlrDOWOsBh5aal4"
       },
@@ -1411,7 +1555,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175746,
       "name": "What a Man - Remastered Single Version",
       "url": "https://open.spotify.com/track/0pcsr9n7Pn6XOfzcvoxRB4"

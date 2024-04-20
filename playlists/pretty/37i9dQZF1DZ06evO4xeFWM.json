@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 212325,
+  "num_followers": 212326,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDY2MThjN2VhNzMzZjk4NDRiN2E1MTkyMjNjMTUwZmU1",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDEwM2NiN2Q2YTBhMDI1YTAzMTgzNjkzOTM2OGFjZDcw",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Know You (Remixes) (feat. Bastille)",
         "url": "https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 183344,
       "name": "I Know You (feat. Bastille) - Vigiland Remix",
       "url": "https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
       "added_at": null,
@@ -887,18 +887,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+        "name": "Planet Earth III (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl"
       },
       "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Sara Barone",
+          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
+        },
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 160294,
-      "name": "Plug In\u2026",
-      "url": "https://open.spotify.com/track/6gNsIRc9IBhBrpTmlpfYdM"
+      "duration_ms": 309629,
+      "name": "Planet Earth III Suite - From \"Planet Earth III\"",
+      "url": "https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo"
     }
   ],
   "unique_name": "This Is Bastille",

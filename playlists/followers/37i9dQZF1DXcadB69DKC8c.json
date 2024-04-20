@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 99114,
+  "2024-04-20": 99140,
   "date_first_scraped": "2021-12-29",
   "description": "Traditional Ethiopian nostalgic Tezeta music, soul and Afro-funk.",
   "name": "Tezeta",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218986,
       "name": "Addis Black Widow",
       "url": "https://open.spotify.com/track/0MSug66xsUCyjOK82R8jXL"
@@ -61,7 +61,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218986,
       "name": "Addis Black Widow",
       "url": "https://open.spotify.com/track/1YEVpaDDxCaELPzugWCfrr"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275373,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/3puUsjWomAIpAMyHtULv7H"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275373,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
@@ -497,10 +497,28 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365680,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6V8mQGMlteOnomLViyIRwU"
+    },
+    {
+      "album": {
+        "name": "Afro Tropical Soundz, Vol. 1",
+        "url": "https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7"
     },
     {
       "album": {
@@ -551,7 +569,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343653,
       "name": "Jawa Jawa",
       "url": "https://open.spotify.com/track/3KeGdSaMQG6lY9bCwbSP6B"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343653,
       "name": "Jawa Jawa",
       "url": "https://open.spotify.com/track/4N5jzXI0jt9YikGROIdIOR"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146253,
       "name": "Kasalefkut-hulu - Stereo Master",
       "url": "https://open.spotify.com/track/20AgPGtclq4Ky41byD9aoL"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146253,
       "name": "Kasalefkut-hulu - Stereo Master",
       "url": "https://open.spotify.com/track/24VYlFVsEZ1ARpoVr3D5kB"
@@ -641,7 +659,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131933,
       "name": "Kulunmanqueleshi - Stereo Master",
       "url": "https://open.spotify.com/track/3hEjmIMc6lUHb7Mca2QiXs"
@@ -659,7 +677,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131933,
       "name": "Kulunmanqueleshi - Stereo Master",
       "url": "https://open.spotify.com/track/4uGAw1rK80PVCGsDWUxrKG"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167933,
       "name": "Mascaram Setaba - Stereo Master",
       "url": "https://open.spotify.com/track/4YnaWdDGLhUdDffy1yAxD7"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167933,
       "name": "Mascaram Setaba - Stereo Master",
       "url": "https://open.spotify.com/track/4hVZKH4EVNP3iLyaDLA3Eq"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 303560,
       "name": "Mulatu - Stereo Master",
       "url": "https://open.spotify.com/track/1eAbOsdN0DBsmaHXleO0gb"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303560,
       "name": "Mulatu - Stereo Master",
       "url": "https://open.spotify.com/track/3MEmqcqzlW5Y4Ii1lg2h0O"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 474360,
       "name": "Radcliffe",
       "url": "https://open.spotify.com/track/3yPDgCeNYzu4rKik9Onjq0"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 474360,
       "name": "Radcliffe",
       "url": "https://open.spotify.com/track/4BLvJsU6EIiDfzIsEWSshH"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194293,
       "name": "Y\u00e8gell\u00e9 Tezeta",
       "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194293,
       "name": "Y\u00e8gell\u00e9 Tezeta",
       "url": "https://open.spotify.com/track/7k3YrlUP1DxGe802jjuT1L"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312840,
       "name": "Y\u00e8katit",
       "url": "https://open.spotify.com/track/1WfCKZAsNM5Tyk7THmf6pp"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 312840,
       "name": "Y\u00e8katit",
       "url": "https://open.spotify.com/track/3udQXYRBl1Uhw95c6MFDVU"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253386,
       "name": "Y\u00e8k\u00e8rmo S\u00e8w",
       "url": "https://open.spotify.com/track/3JaItn4OtIhEx9Qwc8rzGe"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253386,
       "name": "Y\u00e8k\u00e8rmo S\u00e8w",
       "url": "https://open.spotify.com/track/4CwAgkBoKAGT6UMas89F0v"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360733,
       "name": "Y\u00e8sh\u00e8ga Lidj N\u00e8g\u00e8r",
       "url": "https://open.spotify.com/track/2MRcFnDYNBKE34jF3NjJLe"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2018-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 360733,
       "name": "Y\u00e8sh\u00e8ga Lidj N\u00e8g\u00e8r",
       "url": "https://open.spotify.com/track/6WUxsY20XPP4bKaprOYHoq"

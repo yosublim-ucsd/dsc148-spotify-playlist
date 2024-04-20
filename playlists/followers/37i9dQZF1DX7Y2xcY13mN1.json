@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 190225,
+  "2024-04-20": 190024,
   "date_first_scraped": "2021-12-21",
   "description": "New and familiar folk in the Irish tradition. Cover: Ye Vagabonds",
   "name": "50 Irish Folk Songs",
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 247773,
       "name": "Come My Little Son",
       "url": "https://open.spotify.com/track/005ZFkcOg4PpztdwllWzF3"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247773,
       "name": "Come My Little Son",
       "url": "https://open.spotify.com/track/4ENxksrHox2FMpaVzvvk1F"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268200,
       "name": "Fair And Tender Ladies",
       "url": "https://open.spotify.com/track/2HMhoxU8RE7vvYsnBizBjR"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268200,
       "name": "Fair And Tender Ladies",
       "url": "https://open.spotify.com/track/57o3UjNOuW8CRWGcsUND91"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262933,
       "name": "He Moved Through the Fair",
       "url": "https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 262933,
       "name": "He Moved Through the Fair",
       "url": "https://open.spotify.com/track/0W7j85pNUDFELwo0X1LYuT"
@@ -403,10 +403,28 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
     },
     {
       "album": {
@@ -421,7 +439,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 302040,
       "name": "Liscannor Bay",
       "url": "https://open.spotify.com/track/32hl16DWU7E2QRVEDbOmTx"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302040,
       "name": "Liscannor Bay",
       "url": "https://open.spotify.com/track/560IhdGKuEZyrgK9a7wJCG"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210826,
       "name": "Ten Thousand Miles",
       "url": "https://open.spotify.com/track/2rjntmwJoCp0RsWszuUV0H"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "Ten Thousand Miles",
       "url": "https://open.spotify.com/track/4tncQGSj6X9RERVrmL0mGH"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257096,
       "name": "The Auld Triangle",
       "url": "https://open.spotify.com/track/3Z80Oi7leKcs5zQhKDL0GD"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257097,
       "name": "The Auld Triangle",
       "url": "https://open.spotify.com/track/4XvNcfDCh0TqLpMkknMGb9"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204426,
       "name": "The Butcher Boy",
       "url": "https://open.spotify.com/track/4A4GkentJ6FWXXM86RwzJI"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 204426,
       "name": "The Butcher Boy",
       "url": "https://open.spotify.com/track/6iQT7r6pow2f9oYku80FSk"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243600,
       "name": "The Dawning Of The Day",
       "url": "https://open.spotify.com/track/6jck9J7yqPsa8RDWAPJWyw"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "The Dawning Of The Day",
       "url": "https://open.spotify.com/track/6oPtLViyL7vkziMsRdB4XA"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269219,
       "name": "The Galway Shawl",
       "url": "https://open.spotify.com/track/70mDnCxtlUnSmU1vV0mBIG"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 270346,
       "name": "The Galway Shawl",
       "url": "https://open.spotify.com/track/7k2sBfuyCLSUJbh54ZJc0x"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 301573,
       "name": "The Hare's Lament",
       "url": "https://open.spotify.com/track/3tMmflxTcp1ZqCjPeKacm7"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301573,
       "name": "The Hare's Lament",
       "url": "https://open.spotify.com/track/769ARx8o2suNcwb2ZSdrTx"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131893,
       "name": "The Lass of Aughrim",
       "url": "https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131893,
       "name": "The Lass of Aughrim",
       "url": "https://open.spotify.com/track/7ELQE1b3Zws1su2QYkF4c9"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287720,
       "name": "The Poor Wayfaring Stranger",
       "url": "https://open.spotify.com/track/4KiZUgblisi1gFTdqnxPoK"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282773,
       "name": "The Poor Wayfaring Stranger",
       "url": "https://open.spotify.com/track/4MAvTqux8OBlUiH2mQDQHQ"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 385813,
       "name": "The Town I Loved So Well",
       "url": "https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 385813,
       "name": "The Town I Loved So Well",
       "url": "https://open.spotify.com/track/7u7T75NCbh5lYJD7534lU8"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 326159,
       "name": "The West Coast of Clare",
       "url": "https://open.spotify.com/track/3mTkN13P0kiUtKWhAtbAP0"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 326160,
       "name": "The West Coast Of Clare",
       "url": "https://open.spotify.com/track/51iBStlAJlUriO53s93F6l"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/46OM25ic12D0F50xsFHIkx"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/69BhgVzGUe3V4QMFekmttL"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255400,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/7C8LYd0gWShnWlVtJkfyu4"

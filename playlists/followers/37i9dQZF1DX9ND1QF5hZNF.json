@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 603657,
+  "2024-04-20": 603289,
   "date_first_scraped": "2022-12-28",
   "description": "Evadez-vous tout en douceur...",
   "name": "Electro Chill",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171748,
       "name": "6 De La Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6u2uAR3w98nDi2KBuH4oBo"
@@ -97,6 +97,28 @@
       "duration_ms": 172696,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/7wV5gBT9RMMl7LPRG6swGg"
+    },
+    {
+      "album": {
+        "name": "all i can do is miss you",
+        "url": "https://open.spotify.com/album/4tNxWMShCxtaPR1ELqjOLJ"
+      },
+      "artists": [
+        {
+          "name": "Mosey",
+          "url": "https://open.spotify.com/artist/3HzwQ0PpRbsyKSzFMXobLJ"
+        },
+        {
+          "name": "Lowgo",
+          "url": "https://open.spotify.com/artist/3KqP7d4TwVfuAZIeRMxen4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "all i can do is miss you",
+      "url": "https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT"
     },
     {
       "album": {
@@ -295,7 +317,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162935,
       "name": "Beautiful Girls",
       "url": "https://open.spotify.com/track/2L7OIYMC3In2mjeOKgEfj5"
@@ -317,10 +339,32 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
+    },
+    {
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/2PCqp6l2SH33VkuAiFPKfS"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG"
     },
     {
       "album": {
@@ -593,6 +637,28 @@
     {
       "album": {
         "name": "Coming Over (filous Remix)",
+        "url": "https://open.spotify.com/album/2RBt9kaHM6m0YqzOl5W13I"
+      },
+      "artists": [
+        {
+          "name": "James Hersey",
+          "url": "https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS"
+        },
+        {
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198545,
+      "name": "Coming Over - filous Remix",
+      "url": "https://open.spotify.com/track/0uIDxM4fdk9zHQzbhr5Jgq"
+    },
+    {
+      "album": {
+        "name": "Coming Over (filous Remix)",
         "url": "https://open.spotify.com/album/24zMrWtj8r3QmczFyWhrPM"
       },
       "artists": [
@@ -607,7 +673,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198545,
       "name": "Coming Over - filous Remix",
       "url": "https://open.spotify.com/track/2kpziA4mHuM7Na6La4upg1"
@@ -837,7 +903,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241951,
       "name": "Feel Less",
       "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
@@ -877,7 +943,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130909,
       "name": "Femme Like U - J",
       "url": "https://open.spotify.com/track/4dVIIxSQlGlRQ2v1kXcSL0"
@@ -1334,6 +1400,28 @@
     },
     {
       "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/3qTg1vpgbcb9tsNIEr0LsC"
+      },
+      "artists": [
+        {
+          "name": "Manil",
+          "url": "https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl"
+        },
+        {
+          "name": "BLVCK VI\u00d8LET",
+          "url": "https://open.spotify.com/artist/1izSVOOO2niWhSrqoi107b"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7oyX4JZ9uLbopRhD7NR1fi"
+    },
+    {
+      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/4XYrQFUM6flD2n7G3EZrNx"
       },
@@ -1579,10 +1667,32 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/5z49EsoURUXq88RSLBmYPG"
+    },
+    {
+      "album": {
+        "name": "Matter of Time (feat. Alex Maher)",
+        "url": "https://open.spotify.com/album/5f1PM9xUhWpVNmNdN3xj6S"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240009,
+      "name": "Matter of Time (feat. Alex Maher)",
+      "url": "https://open.spotify.com/track/4BmPTpXnae3IwwXAcK0byT"
     },
     {
       "album": {
@@ -1900,6 +2010,32 @@
     },
     {
       "album": {
+        "name": "Open Road (feat. Nate VanDeusen)",
+        "url": "https://open.spotify.com/album/0IaYkArWMwpfHgzZcBLd19"
+      },
+      "artists": [
+        {
+          "name": "EyeMad",
+          "url": "https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY"
+        },
+        {
+          "name": "Beatmad",
+          "url": "https://open.spotify.com/artist/2radibWvmOFH2EvH38zyOK"
+        },
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Open Road (feat. Nate VanDeusen)",
+      "url": "https://open.spotify.com/track/6GTdNhWfd1klaioOmyleJ8"
+    },
+    {
+      "album": {
         "name": "Ordinary Love (Folamour Remix)",
         "url": "https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk"
       },
@@ -2065,6 +2201,24 @@
       "duration_ms": 130188,
       "name": "Passage",
       "url": "https://open.spotify.com/track/3Q8CwfdyDIjHdlItATIxLt"
+    },
+    {
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "album": {
@@ -2499,7 +2653,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176000,
       "name": "Sunset Lovers",
       "url": "https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE"
@@ -2945,10 +3099,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195210,
       "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
       "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "album": {
+        "name": "Wicked Games",
+        "url": "https://open.spotify.com/album/6uzOfYRbgUn91q4aRRAH1u"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195210,
+      "name": "Wicked Games - Radio Edit",
+      "url": "https://open.spotify.com/track/3AchVMlCSZhA3hMKkG7Kpe"
     },
     {
       "album": {
@@ -2967,10 +3143,54 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143389,
       "name": "Wild in Secret",
       "url": "https://open.spotify.com/track/2jDNpZI9Ydk25K8qMCjpUc"
+    },
+    {
+      "album": {
+        "name": "Play This At My Funerals",
+        "url": "https://open.spotify.com/album/3ODPrRxYM7JDGiIRCBEZ4B"
+      },
+      "artists": [
+        {
+          "name": "Kadebostany",
+          "url": "https://open.spotify.com/artist/3IVrpJxHeUFoYP4H6bxg57"
+        },
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143389,
+      "name": "Wild in Secret",
+      "url": "https://open.spotify.com/track/2lVISXKXcgsD5MQL9KUZJt"
+    },
+    {
+      "album": {
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/2wnToIZpxqYWIBscgjvlIO"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Mayn\u00f8rr",
+          "url": "https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170604,
+      "name": "Wilder Woods",
+      "url": "https://open.spotify.com/track/56cW7me7gAyY9dhxJtvtzl"
     },
     {
       "album": {

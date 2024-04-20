@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 15359,
+  "2024-04-20": 15367,
   "date_first_scraped": "2023-07-08",
   "description": "Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses. Cover : Shriram Sampath",
   "name": "ECHO : Fascinating Flute",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283963,
       "name": "Bansuri Bgm",
       "url": "https://open.spotify.com/track/4ij8HJsDyEcDG1fVoF70TD"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150495,
       "name": "Bansuri Music",
       "url": "https://open.spotify.com/track/2l4v7mtr0mhDfgrUA02U1W"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 150495,
       "name": "Bansuri Music",
       "url": "https://open.spotify.com/track/3TwUqPh43TO31CuqtAvUXU"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445040,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/3x8EfCWsbO4R6B0IaNWqO1"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 270218,
       "name": "Chintan Ke Saaz",
       "url": "https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi"
@@ -723,7 +723,7 @@
     {
       "album": {
         "name": "Vira",
-        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+        "url": "https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO"
       },
       "artists": [
         {
@@ -738,6 +738,28 @@
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 328542,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb"
+    },
+    {
+      "album": {
+        "name": "Vira",
+        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 328542,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
@@ -755,7 +777,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 460213,
       "name": "I Am at Your Feet - Raga Mangal Bhairav",
       "url": "https://open.spotify.com/track/60ss3RBy4TrBqcaY1WNfS4"
@@ -1067,7 +1089,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Monsoon Moon",
       "url": "https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 331695,
       "name": "Natural Love (Flute and Lake Only)",
       "url": "https://open.spotify.com/track/52Rx75xXn70OvOPDegsT1e"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 457235,
       "name": "Realization - Raga Rageshri",
       "url": "https://open.spotify.com/track/1lGzVMtAxIE7Z1onbuFj32"
@@ -1655,6 +1677,28 @@
       "duration_ms": 427096,
       "name": "Silence Is Bliss",
       "url": "https://open.spotify.com/track/3SncdEHiQ6m53jhlZVMLAw"
+    },
+    {
+      "album": {
+        "name": "Silence Is Bliss",
+        "url": "https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw"
+      },
+      "artists": [
+        {
+          "name": "Naveen Kumar",
+          "url": "https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR"
+        },
+        {
+          "name": "Pt. Vishwamohan Bhatt",
+          "url": "https://open.spotify.com/artist/6k1v88IuEyekzfG7N5VnDS"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427096,
+      "name": "Silence Is Bliss (feat. Pt. Vishwa Mohan Bhatt)",
+      "url": "https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G"
     },
     {
       "album": {

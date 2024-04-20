@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 7122,
+  "2024-04-20": 7133,
   "date_first_scraped": "2023-03-11",
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
   "name": "canciones para ver atardeceres",
@@ -201,7 +201,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330044,
       "name": "Ballenas de Ruido",
       "url": "https://open.spotify.com/track/64431LkryUY3hoaseuTMaR"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 226125,
       "name": "Dama",
       "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
@@ -526,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
+    },
+    {
+      "album": {
         "name": "El Ding Dong",
         "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
       },
@@ -627,7 +645,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 202586,
       "name": "Estos D\u00edas",
       "url": "https://open.spotify.com/track/4lMENCVL77QTWBtEL5VBX6"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199523,
       "name": "jard\u00edn de flores",
       "url": "https://open.spotify.com/track/4ZxcEHFfXkcC2KS29OVJKv"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 263226,
       "name": "Los A\u00f1os Maravillosos",
       "url": "https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 228688,
       "name": "Me Duele Hasta Pensarte",
       "url": "https://open.spotify.com/track/5QA2TH7f7sjc33DU3OEJMI"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210763,
       "name": "NO TE ALEJES",
       "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-22",
+      "date_removed": null,
       "duration_ms": 215829,
       "name": "Nunca Te Quise",
       "url": "https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241314,
       "name": "Persona Favorita",
       "url": "https://open.spotify.com/track/6WklRgGMJsQEB74MvnS36U"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 180891,
       "name": "Porque",
       "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212666,
       "name": "\u00daltimas Palabras",
       "url": "https://open.spotify.com/track/7GVXXI9F3Wv3oNZIyTHf7v"

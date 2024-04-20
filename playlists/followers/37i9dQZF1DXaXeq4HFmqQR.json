@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13464,
+  "2024-04-20": 13467,
   "date_first_scraped": "2021-12-28",
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
   "name": "EQUAL Chile",
@@ -7703,10 +7703,28 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245560,
       "name": "Lo Decidi Yo",
       "url": "https://open.spotify.com/track/2tuAwouI1R8T5GNbAPSc41"
+    },
+    {
+      "album": {
+        "name": "Wed 21",
+        "url": "https://open.spotify.com/album/59dIckHfS1m5AVBA3urboQ"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2024-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245560,
+      "name": "Lo decid\u00ed yo",
+      "url": "https://open.spotify.com/track/25Lcl6vHgZxzmnMw4FCAj6"
     },
     {
       "album": {

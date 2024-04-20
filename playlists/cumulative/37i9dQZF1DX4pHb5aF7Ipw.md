@@ -4,14 +4,14 @@
 
 > Fresh Punjabi Rap\. Cover:  Bohemia
 
-96 songs - 4 hr 45 min
+97 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 | 2023-03-18 | 2023-08-01 |
 | [2024 FLOW](https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2024 FLOW](https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ) | 5:32 | 2024-01-03 | 2024-03-01 |
 | [24K](https://open.spotify.com/track/6xY43nXOaQezJsdE88019U) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:14 | 2023-07-27 |  |
-| [500 GRAMS](https://open.spotify.com/track/215PAiPALqLo3YAby27eGX) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [500 GRAMS](https://open.spotify.com/album/6JQPaS87dfS5mDJu3rEokw) | 3:40 | 2024-02-29 |  |
+| [500 GRAMS](https://open.spotify.com/track/215PAiPALqLo3YAby27eGX) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [500 GRAMS](https://open.spotify.com/album/6JQPaS87dfS5mDJu3rEokw) | 3:40 | 2024-02-29 | 2024-04-20 |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 |  |
 | [94 Flow](https://open.spotify.com/track/7nfLjhLhQJHiauslrpXgnr) | [Big Boi Deep](https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [94 Flow](https://open.spotify.com/album/3wLyMJcP3IKdOJCm3C97n5) | 2:36 | 2023-03-18 |  |
 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 |  |
@@ -50,6 +50,7 @@
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2024-04-19 |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
+| [Infamous](https://open.spotify.com/track/4OUI0zhbSb2nGsHARHpXHF) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [Infamous](https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0) | 2:20 | 2024-04-19 |  |
 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 | 2023-03-18 | 2023-08-01 |
 | [Jatt Di Pasand](https://open.spotify.com/track/6Y3WQXMeooXhysUaOq7XH3) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [Champion](https://open.spotify.com/album/2irCI007oISxePEdTPmxmS) | 2:30 | 2023-04-26 |  |
 | [Kaka](https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Kaka](https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q) | 1:56 | 2023-12-06 | 2023-12-19 |
@@ -102,7 +103,7 @@
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-18 | 2023-05-27 |
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-12 |  |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
-| [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 |  |
+| [Westside](https://open.spotify.com/track/2dUX9zE4jvLbSoLME77qz1) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 3:08 | 2023-07-27 | 2024-04-20 |
 | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/track/08XzbojBXDW2GOGKQXt1ga) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [What's Beef \(feat\. Inderpal Moga\)](https://open.spotify.com/album/5yHCpPgd6ejBh3rHRZ5WSK) | 2:40 | 2023-10-13 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

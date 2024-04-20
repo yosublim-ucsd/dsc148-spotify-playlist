@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 75600,
+  "2024-04-20": 75629,
   "date_first_scraped": "2024-01-30",
   "description": "Your weekly update of the most played tracks right now - Argentina.",
   "name": "Top Songs - Argentina",
@@ -179,6 +179,10 @@
         {
           "name": "Nysix Music",
           "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "CamiMusic",
+          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
         }
       ],
       "date_added": "2024-01-26",

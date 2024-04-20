@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 190145,
+  "2024-04-20": 190095,
   "date_first_scraped": "2022-09-17",
   "description": "get into the groove",
   "name": "Deep House Grooves",
@@ -171,7 +171,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221538,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5eRBmNNRrv66usVlm2K515"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375483,
       "name": "Back In Time - Original Mix",
       "url": "https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT"
@@ -2200,6 +2200,32 @@
     },
     {
       "album": {
+        "name": "Heaven (Doc Martin Subwap Remix)",
+        "url": "https://open.spotify.com/album/1aFCEbQ5wdthtZLqtxkUvN"
+      },
+      "artists": [
+        {
+          "name": "Soul Shadow",
+          "url": "https://open.spotify.com/artist/7xuGYaDGDY1SSSHFroP15c"
+        },
+        {
+          "name": "George JJ Flores",
+          "url": "https://open.spotify.com/artist/4kztAKu2WLcKEl1ldmWt9r"
+        },
+        {
+          "name": "Doc Martin",
+          "url": "https://open.spotify.com/artist/7uFsz7y1rNyMLou4HWLJtT"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259354,
+      "name": "Heaven - Doc Martin Subwap Remix",
+      "url": "https://open.spotify.com/track/12cc0vv3wT3Fj3dwvBma6N"
+    },
+    {
+      "album": {
         "name": "Heavn",
         "url": "https://open.spotify.com/album/2NfL96ilq6da1HHRo4hOIe"
       },
@@ -2906,6 +2932,32 @@
     },
     {
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/555lAEFzI3gfECKsefKAya"
+      },
+      "artists": [
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449666,
+      "name": "Let Me Know - MAW Mix",
+      "url": "https://open.spotify.com/track/3VMZ9EjZOhSirvORKM2nLl"
+    },
+    {
+      "album": {
         "name": "Blaque Katt - EP",
         "url": "https://open.spotify.com/album/5u1liL4XlRb2RlPqtZKHDR"
       },
@@ -3113,6 +3165,28 @@
       "duration_ms": 414560,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4W2WXTweKPaCJeCWPtqdSC"
+    },
+    {
+      "album": {
+        "name": "Making Ends Meet Remix",
+        "url": "https://open.spotify.com/album/7cufHD0NIiHd47jC9wU52v"
+      },
+      "artists": [
+        {
+          "name": "Rob Redford",
+          "url": "https://open.spotify.com/artist/4shvfwybHhZZ5OaVbBBJ92"
+        },
+        {
+          "name": "Demarkus Lewis",
+          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400299,
+      "name": "Makin Ends Meet - Deez Raw Life Mix",
+      "url": "https://open.spotify.com/track/30WaY0F2Hdb3lVTT9mvdAG"
     },
     {
       "album": {
@@ -3888,6 +3962,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Tree EP",
+        "url": "https://open.spotify.com/album/5EEaH1lSQYmztIjAekJQAy"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rimarkable",
+          "url": "https://open.spotify.com/artist/4t1z5s4veUPuhIwzvAvTle"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447262,
+      "name": "Part Of My Soul (feat. Rimarkable)",
+      "url": "https://open.spotify.com/track/0cNyl5k32L9f8MqtgKnT0O"
+    },
+    {
+      "album": {
         "name": "Petal Dance",
         "url": "https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg"
       },
@@ -4237,6 +4333,24 @@
       "duration_ms": 207000,
       "name": "Right On",
       "url": "https://open.spotify.com/track/0WGkkmvZmN9GeW69onzxkg"
+    },
+    {
+      "album": {
+        "name": "Ring for Rhemi",
+        "url": "https://open.spotify.com/album/4UVKFUPji334g7KG6uVD5w"
+      },
+      "artists": [
+        {
+          "name": "Neil Pierce",
+          "url": "https://open.spotify.com/artist/4kzzUjtdcnnCtpKBjsJKPI"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356829,
+      "name": "Ring for Rhemi",
+      "url": "https://open.spotify.com/track/1fjDUwlyeVgOfM1breMTFI"
     },
     {
       "album": {
@@ -4914,6 +5028,24 @@
     },
     {
       "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7mIw2Vn2DVB0myPAlTwOIZ"
+      },
+      "artists": [
+        {
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235448,
+      "name": "Tapioca - Edit",
+      "url": "https://open.spotify.com/track/5HGRzUTj7701fSVmdCSNxx"
+    },
+    {
+      "album": {
         "name": "Taurindo Shuffle",
         "url": "https://open.spotify.com/album/7oTXQmUuyFhluBF7u815XL"
       },
@@ -4983,7 +5115,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362750,
       "name": "The Backyard",
       "url": "https://open.spotify.com/track/6smrRN7I1ryyCDG47kH6XK"
@@ -5401,6 +5533,32 @@
     {
       "album": {
         "name": "Throw It All Away! (Jamie 3:26 & Danou P Remix)",
+        "url": "https://open.spotify.com/album/42EOTHEvDAOnqGQ1LKUzr4"
+      },
+      "artists": [
+        {
+          "name": "Steven Bamidele",
+          "url": "https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6"
+        },
+        {
+          "name": "Jamie 3:26",
+          "url": "https://open.spotify.com/artist/2i3sHUKH86iD6khkNR1Fxi"
+        },
+        {
+          "name": "Danou P",
+          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429453,
+      "name": "Throw It All Away! - Jamie 3: 26 & Danou P Remix",
+      "url": "https://open.spotify.com/track/2lwJaOmZZDCgoaalCso2QB"
+    },
+    {
+      "album": {
+        "name": "Throw It All Away! (Jamie 3:26 & Danou P Remix)",
         "url": "https://open.spotify.com/album/2SrCFhXPZ2mhzzL7pjXB97"
       },
       "artists": [
@@ -5419,7 +5577,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 429453,
       "name": "Throw It All Away! - Jamie 3:26 & Danou P Remix",
       "url": "https://open.spotify.com/track/5OVoN8X9yXmA5fRXAyhxIz"
@@ -5921,6 +6079,28 @@
       "duration_ms": 323516,
       "name": "Visual Basic",
       "url": "https://open.spotify.com/track/4Y2v5FZUIOXTFWACv7Xipb"
+    },
+    {
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/0l0tM3FSc7qVBdS7Qg6zoh"
+      },
+      "artists": [
+        {
+          "name": "N\u00fcbel",
+          "url": "https://open.spotify.com/artist/5H0IAmtC5RCUfzjQTlZjqa"
+        },
+        {
+          "name": "Spektraal",
+          "url": "https://open.spotify.com/artist/44VFjyswLCeOdnNRyUsiy4"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/2fHCvcowBSP1rqdNe9HWLT"
     },
     {
       "album": {

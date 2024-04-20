@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 9317,
+  "2024-04-20": 9315,
   "date_first_scraped": "2022-05-30",
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
   "name": "\ud790\ub9c1 \ud799\ud569",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 136973,
       "name": "Apocalypse Prod. PEEJAY",
       "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222898,
       "name": "Bar Code (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/0el9gNyGpY6xGwOkPwKsPR"
@@ -251,6 +251,24 @@
       "duration_ms": 213659,
       "name": "Be Okay",
       "url": "https://open.spotify.com/track/5PTE5rGhklqRQPuVlZvWAu"
+    },
+    {
+      "album": {
+        "name": "BITCOIN",
+        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
+      },
+      "artists": [
+        {
+          "name": "TimeFeveR",
+          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202062,
+      "name": "BITCOIN (prod. HOWOW)",
+      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
     },
     {
       "album": {
@@ -313,7 +331,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 263123,
       "name": "Brrr Get$",
       "url": "https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh"
@@ -591,7 +609,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209019,
       "name": "Day Day (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/3i6vV5Z2P9uMlxf8wdm2WK"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194111,
       "name": "Daydream (feat. LeeHi)",
       "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 286226,
       "name": "Family Portrait (Feat. Kim Feel)",
       "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247287,
       "name": "FLOWER (Prod. by AVIN)",
       "url": "https://open.spotify.com/track/0nUo9akDwQ5lHUZRjnlFE5"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 153293,
       "name": "foff (Feat. CHOILB)",
       "url": "https://open.spotify.com/track/7iPnMNI8xnI3pOq3w8f3Ao"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 239960,
       "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 177109,
       "name": "GOD DID (Feat. Thug Min) [Prod. TOIL]",
       "url": "https://open.spotify.com/track/5LjLkUUh0curHF39ZdoQwz"
@@ -1073,7 +1091,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-23",
+      "date_removed": null,
       "duration_ms": 238965,
       "name": "Going Home",
       "url": "https://open.spotify.com/track/4eZRWCGNDv0AJAIb5douAe"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266346,
       "name": "Good Day (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
@@ -1149,7 +1167,7 @@
       },
       "artists": [
         {
-          "name": "Untell",
+          "name": "untell",
           "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
         },
         {
@@ -1163,7 +1181,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 257265,
       "name": "GRAIN (Feat. Dynamicduo, BewhY)",
       "url": "https://open.spotify.com/track/5fV59hTTF805bqlzmI3TcH"
@@ -1221,11 +1239,15 @@
         {
           "name": "GARY",
           "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        },
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "HALYANG DREAM (feat.John Park)",
       "url": "https://open.spotify.com/track/2zppBnacbinj3UheY5S0pM"
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206625,
       "name": "HELLP",
       "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
@@ -1369,13 +1391,13 @@
       },
       "artists": [
         {
-          "name": "Reddy",
+          "name": "REDDY",
           "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
         }
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251750,
       "name": "Hmmm",
       "url": "https://open.spotify.com/track/15bT2BHM8ZIvBNE290PSng"
@@ -1419,7 +1441,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209086,
       "name": "Home Sh*t Home (Feat. JINBO)",
       "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
@@ -1543,7 +1565,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 189946,
       "name": "I said it",
       "url": "https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG"
@@ -1651,7 +1673,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257919,
       "name": "If I Die Tomorrow",
       "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
@@ -1721,7 +1743,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205003,
       "name": "illa illa",
       "url": "https://open.spotify.com/track/02UxgpMd5uzA9h39tN7v3x"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279884,
       "name": "Lee Rohan (Prod. by Padi)",
       "url": "https://open.spotify.com/track/5MmDbUVKsC7GyFx03PYqUY"
@@ -2327,7 +2349,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329487,
       "name": "NoNo (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
@@ -2361,7 +2383,7 @@
       },
       "artists": [
         {
-          "name": "Don Malik",
+          "name": "DON MALIK",
           "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         },
         {
@@ -2371,7 +2393,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 192437,
       "name": "ORIGINAL (Feat. Sion) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r"
@@ -2519,7 +2541,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182671,
       "name": "Pat Pat",
       "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
@@ -2563,7 +2585,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235311,
       "name": "poison (Feat. E-Sens Of Supreme Team)",
       "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
@@ -2625,7 +2647,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228607,
       "name": "Problems",
       "url": "https://open.spotify.com/track/66x69sbYKTKrQG5rVnbepA"
@@ -2705,7 +2727,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203615,
       "name": "Re-Birth",
       "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
@@ -2817,7 +2839,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Seat Belt (Feat. Dynamic Duo)",
       "url": "https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ"
@@ -2963,7 +2985,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 246840,
       "name": "Skin (feat. Seori)",
       "url": "https://open.spotify.com/track/4JAqA8BZ9aKqgfYVvro8QJ"
@@ -2981,7 +3003,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 219394,
       "name": "Sky",
       "url": "https://open.spotify.com/track/4cUIXgusfY382xu0JCIXrl"
@@ -2999,7 +3021,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 229463,
       "name": "sleep tight",
       "url": "https://open.spotify.com/track/3W2PPFdSBQeK96qQwKBnhH"
@@ -3043,7 +3065,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
@@ -3125,15 +3147,15 @@
           "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         },
         {
-          "name": "NELL",
-          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
         }
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240562,
-      "name": "Star",
+      "name": "Star(feat.Nell)",
       "url": "https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK"
     },
     {
@@ -3175,7 +3197,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274493,
       "name": "Stay Cool",
       "url": "https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS"
@@ -3197,7 +3219,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276440,
       "name": "Still (Feat. Crush)",
       "url": "https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb"
@@ -3267,6 +3289,28 @@
       "duration_ms": 246842,
       "name": "TAKUWA (feat. KOONTA)",
       "url": "https://open.spotify.com/track/7GlyJ9sUiBXObMdESweu7O"
+    },
+    {
+      "album": {
+        "name": "Thank U",
+        "url": "https://open.spotify.com/album/3c6PzqYExZUGOzCY2YyQex"
+      },
+      "artists": [
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        },
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163744,
+      "name": "Thank U (Feat.Lee Aram)",
+      "url": "https://open.spotify.com/track/2ra21UPWO6BHN8HlguhDFR"
     },
     {
       "album": {
@@ -3383,7 +3427,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233013,
       "name": "Til I Die",
       "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
@@ -3595,7 +3639,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 172177,
       "name": "WHISTLE",
       "url": "https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut"
@@ -3617,7 +3661,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 131180,
       "name": "winter night (Feat. DUT2)",
       "url": "https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d"
@@ -3653,7 +3697,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221142,
       "name": "wish",
       "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
@@ -3761,7 +3805,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193622,
       "name": "X (Butterfly)",
       "url": "https://open.spotify.com/track/4T1vIORq5H4VzaOyAPcA3J"
@@ -3803,7 +3847,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
@@ -3934,24 +3978,6 @@
     },
     {
       "album": {
-        "name": "\ube44\ud2b8\ucf54\uc778",
-        "url": "https://open.spotify.com/album/4MVFegneeORtADZG9KOfYl"
-      },
-      "artists": [
-        {
-          "name": "TimeFeveR",
-          "url": "https://open.spotify.com/artist/3jswVC5CJkKeDp8ugPH42m"
-        }
-      ],
-      "date_added": "2022-06-09",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
-      "duration_ms": 204070,
-      "name": "\ube44\ud2b8\ucf54\uc778 (prod. \ud558\uc6b0\uc640\uc6b0)",
-      "url": "https://open.spotify.com/track/1nTYsc4p0VNzfywsy7gpBl"
-    },
-    {
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -3995,7 +4021,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"

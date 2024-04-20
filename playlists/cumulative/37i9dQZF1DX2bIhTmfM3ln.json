@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Bae Bae",
+      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
+    },
+    {
+      "album": {
         "name": "Balance It",
         "url": "https://open.spotify.com/album/19H3D6ShaQ0aYDu3UAsijY"
       },
@@ -2510,7 +2532,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 124348,
       "name": "Go Low",
       "url": "https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM"
@@ -4100,6 +4122,28 @@
       "duration_ms": 129742,
       "name": "Ikw\u00f6 Ufan Ikw\u00f6 Ima",
       "url": "https://open.spotify.com/track/3UwBc48rW28XNyZFJmE6G2"
+    },
+    {
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "album": {
@@ -7777,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
+    },
+    {
+      "album": {
         "name": "san siro",
         "url": "https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD"
       },
@@ -8770,7 +8832,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 153250,
       "name": "Sunflawa",
       "url": "https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS"

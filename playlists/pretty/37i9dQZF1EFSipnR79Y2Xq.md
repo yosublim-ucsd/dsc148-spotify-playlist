@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 624 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 625 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 47 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 48 | [Malo Del Cuento](https://open.spotify.com/track/2gdgNi2PPsbhlIxVofs6mq) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Malo Del Cuento](https://open.spotify.com/album/1ElHkMCS6BxSRtiCFpIrfD) | 2:57 |
 
-Snapshot ID: `Mjg1NTg1NjAsMDAwMDAwMDA4NmUzYjg3ODUzMjM1YjhkYjc5ZTJhYmYyNjU0ODY4Mg==`
+Snapshot ID: `Mjg1NTk3MDMsMDAwMDAwMDA0ZjdlYzhlZDY0YjljMDc1ZDUwM2Q3NWU5ZGYzMGU4OQ==`

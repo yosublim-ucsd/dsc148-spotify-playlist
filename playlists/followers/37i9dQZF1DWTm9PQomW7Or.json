@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10309,
+  "2024-04-20": 10307,
   "date_first_scraped": "2022-05-15",
   "description": "Enjoy the JTBC drama 'IDOL : The Coup,' OSTs in a different way with the lines in the drama. (JTBC \ub4dc\ub77c\ub9c8 '\uc544\uc774\ub3cc'\uc758 OST\ub97c \ud2b9\ubcc4\ud55c \ucee8\ud150\uce20\uc640 \ud568\uaed8 \uc0c9\ub2e4\ub974\uac8c \uc990\uaca8\ubcf4\uc138\uc694.)",
   "name": "IDOL : The Coup",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246333,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/3fP5W65WQXYiQWxLMfiE68"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246333,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/6iUcZ7QAxt1C6gDd9CkGEk"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 228413,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3KOqoSBMwOeKMKrx7toVza"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228413,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3LP8X7wPZqU1FmkCSoxsqM"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191688,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/0oJq7p6rvOa1RjiDoHi22A"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191688,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/64VDNojMK1crDdPeXJdxLT"

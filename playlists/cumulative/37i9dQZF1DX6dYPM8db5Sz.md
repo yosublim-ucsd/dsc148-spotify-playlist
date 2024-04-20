@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-713 songs - 1 day 16 hr 44 min
+714 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL) | [Cloud Illusions](https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp) | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF) | 4:05 | 2023-06-22 | 2023-08-05 |
 | [Before The Sun Comes Up](https://open.spotify.com/track/4wQIXWOu1YmQanVtbo8R1P) | [The Charles Géne Suite](https://open.spotify.com/artist/5IY1vGqRklTMkio7Pi33ci), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Lerato lichaba](https://open.spotify.com/artist/2kGjcOOtMDyTEK9po6n9l4) | [Suite Nites](https://open.spotify.com/album/5fUfrJpzgHUemAw8TVAz4r) | 6:42 | 2022-07-21 | 2022-11-04 |
 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 | 2023-04-06 | 2023-06-16 |
+| [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 | 2024-04-12 |  |
 | [Best Mistake](https://open.spotify.com/track/3jboUfnR6kBPs2tak6KaKb) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Best Mistake](https://open.spotify.com/album/4JBnjtHQyc2ZtmW6Y3ZwZ1) | 3:21 | 2023-02-09 | 2023-03-25 |
 | [Best One](https://open.spotify.com/track/5ZIpwHR8KLeo6qibMb5nRI) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 2:31 | 2023-04-14 | 2023-06-23 |
 | [Better Together \- Acoustic](https://open.spotify.com/track/65j5HnUBVNkNZAi7wdCrVI) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [Better Together \(Acoustic\)](https://open.spotify.com/album/5HXfoEBYak7Iu5TjLt0IqE) | 3:16 | 2022-09-02 | 2022-12-02 |
@@ -709,7 +710,7 @@
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [You Belong To Me](https://open.spotify.com/track/0GwY3N9lLgnkH5C2i3Xi3G) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [You Belong To Me](https://open.spotify.com/album/20sqcskAFIfVh30MvH8aG1) | 3:29 | 2022-11-10 | 2022-11-25 |
 | [You too hot for this shit](https://open.spotify.com/track/03Hczw8b6SVCbKXovqvonC) | [Ghostly Gav](https://open.spotify.com/artist/2Ynv2c4aZWXo9lC6Q8qppv) | [Pretty Dope](https://open.spotify.com/album/4xR8bCYh7r2RUGHAivBA1y) | 2:22 | 2023-08-11 | 2023-09-02 |
-| [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 | 2024-03-29 |  |
+| [You Were My First Everything](https://open.spotify.com/track/5OJ2WzKRqklsfAeiayVbqQ) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn), [Karma](https://open.spotify.com/artist/5rnNxf9vfxKljGcBFycUM6) | [You Were My First Everything](https://open.spotify.com/album/1CiLpifvEAWG0GWUbSvxa4) | 4:29 | 2024-03-29 | 2024-04-20 |
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2021-10-14 | 2022-11-25 |
 | [You're Not Here](https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ) | [You're Not Here](https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6) | 3:00 | 2023-04-06 | 2023-06-23 |
 | [You're over Me](https://open.spotify.com/track/4s3IyR6U98K18L5Fw5YrxG) | [Louise Carver](https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD) | [You're over Me](https://open.spotify.com/album/4QshjexDZvv7fpHNK6f5NX) | 3:03 | 2022-09-22 | 2022-12-02 |

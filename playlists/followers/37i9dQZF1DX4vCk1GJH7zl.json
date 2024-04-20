@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 138464,
+  "2024-04-20": 138418,
   "date_first_scraped": "2023-07-23",
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra, Hotelo",
   "name": "Rock Leve",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222274,
       "name": "Across The Universe",
       "url": "https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254263,
       "name": "Birds and the Bees",
       "url": "https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 254263,
       "name": "Birds and the Bees",
       "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
@@ -1055,10 +1055,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/2ooYFhMEWlxsvkGVw6QMlM"
+    },
+    {
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "album": {
@@ -1175,6 +1193,24 @@
     {
       "album": {
         "name": "A Bolha",
+        "url": "https://open.spotify.com/album/02G0M9OAq48KLDJ06m6eRU"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180570,
+      "name": "Menina Linda",
+      "url": "https://open.spotify.com/track/1YnLOI6vNwFKUPD0Ym1zQg"
+    },
+    {
+      "album": {
+        "name": "A Bolha",
         "url": "https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE"
       },
       "artists": [
@@ -1185,7 +1221,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180570,
       "name": "Menina Linda",
       "url": "https://open.spotify.com/track/7HUiek8MyBiLGM33NzgUSm"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322969,
       "name": "Na Sua Estante - Ao Vivo",
       "url": "https://open.spotify.com/track/2gherKlc3X6kBvzOdz8jMg"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 322969,
       "name": "Na Sua Estante - Ao Vivo",
       "url": "https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu"
@@ -1815,10 +1851,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179438,
       "name": "Quero Te Levar",
       "url": "https://open.spotify.com/track/5yBvVZR9fRKUQxfe6cg83b"
+    },
+    {
+      "album": {
+        "name": "Quero Te Levar",
+        "url": "https://open.spotify.com/album/5DP1QsiGascLy3m7xTfMBm"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pares",
+          "url": "https://open.spotify.com/artist/1B3VYQcK1cV9R9Ckxun2n3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179438,
+      "name": "Quero Te Levar",
+      "url": "https://open.spotify.com/track/63NmP2zUVMzgTBjjUf2jxB"
     },
     {
       "album": {
@@ -2051,7 +2105,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252699,
       "name": "Stonehenge (Live)",
       "url": "https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY"
@@ -2069,7 +2123,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 252699,
       "name": "Stonehenge - Live",
       "url": "https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw"
@@ -2087,10 +2141,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303120,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
     },
     {
       "album": {

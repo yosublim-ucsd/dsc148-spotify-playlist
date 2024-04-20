@@ -2,7 +2,7 @@
 
 ### [Fresh Pop](https://open.spotify.com/playlist/37i9dQZF1DX2fMaj5GfMh3)
 
-> Perrie op de cover van Fresh Pop!
+> Sabrina Carpenter op de cover van Fresh Pop!
 
 550 songs - 1 day 3 hr 49 min
 

@@ -16969,6 +16969,24 @@
     },
     {
       "album": {
+        "name": "Wait Me There",
+        "url": "https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "Wait Me There",
+      "url": "https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y"
+    },
+    {
+      "album": {
         "name": "WANNABE (Japanese ver.)",
         "url": "https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q"
       },

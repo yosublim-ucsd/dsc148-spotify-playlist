@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 52 min
+60 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Una Leyenda Nunca Muere](https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Una Leyenda Nunca Muere](https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg) | 2:46 | 2023-11-10 |  |
 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 | 2023-11-10 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-11-10 |  |
+| [Yo Soy Así](https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Yo Soy Así](https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP) | 3:44 | 2024-04-20 |  |
 | [¿Qué Hay Que Hacer?](https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [¿Qué Hay Que Hacer?](https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76) | 2:35 | 2023-11-10 | 2024-03-18 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

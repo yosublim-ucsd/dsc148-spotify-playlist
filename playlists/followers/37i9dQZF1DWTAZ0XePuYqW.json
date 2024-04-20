@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 27853,
+  "2024-04-20": 27919,
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: Kehlani",
+  "description": "That's that big energy. Cover: SadBoi",
   "name": "Bounce",
   "tracks": [
     {
@@ -79,7 +79,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210478,
       "name": "1991",
       "url": "https://open.spotify.com/track/0UTmS76yJwuCpiKEn16uN5"
@@ -562,6 +562,46 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173823,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
+    },
+    {
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
       },
@@ -573,7 +613,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
@@ -591,7 +631,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128000,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7"
@@ -829,7 +869,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129007,
       "name": "Bonnet",
       "url": "https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S"
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314000,
       "name": "Deep Love",
       "url": "https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8"
@@ -1771,7 +1811,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126720,
       "name": "Fake ID (Coke & Rum Remix)",
       "url": "https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP"
@@ -1797,7 +1837,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 126720,
       "name": "Fake ID (Coke & Rum Remix)",
       "url": "https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c"
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 195813,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3"
@@ -1867,7 +1907,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195813,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N"
@@ -2009,7 +2049,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 194951,
       "name": "Gag",
       "url": "https://open.spotify.com/track/5weADp7HHlgE2RGl0L4kBF"
@@ -2027,7 +2067,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195995,
       "name": "Gag",
       "url": "https://open.spotify.com/track/3U3ZX37PA3AUzR9t7aUzbq"
@@ -2255,6 +2295,24 @@
     {
       "album": {
         "name": "Go Low",
+        "url": "https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124348,
+      "name": "Go Low",
+      "url": "https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM"
+    },
+    {
+      "album": {
+        "name": "Go Low",
         "url": "https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73"
       },
       "artists": [
@@ -2265,7 +2323,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124348,
       "name": "Go Low",
       "url": "https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu"
@@ -2393,6 +2451,24 @@
       "duration_ms": 204590,
       "name": "Hatin on Me",
       "url": "https://open.spotify.com/track/6swmJkUuSvIVs7SgBAzufv"
+    },
+    {
+      "album": {
+        "name": "Head Start",
+        "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134547,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5"
     },
     {
       "album": {
@@ -2719,7 +2795,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-19",
+      "date_removed": null,
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -2737,7 +2813,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/5a8z2vyIDKMh5qcRG6w9wu"
@@ -3848,6 +3924,28 @@
     },
     {
       "album": {
+        "name": "Picky (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
+      },
+      "artists": [
+        {
+          "name": "Leaf",
+          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159402,
+      "name": "Picky (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
+    },
+    {
+      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -4765,7 +4863,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129705,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2Hc6RM9TyaL3gfRla0Gegq"
@@ -5243,7 +5341,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
@@ -5463,6 +5561,24 @@
       "duration_ms": 357302,
       "name": "Van Vogue",
       "url": "https://open.spotify.com/track/0ZB5g4RVky6RYFYgSz2Gg0"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 165297,
+  "2024-04-20": 165066,
   "date_first_scraped": "2023-06-14",
   "description": "Bienvenidx a la trampa mexa. Peso Pluma y Arc\u00e1ngel en portada.",
   "name": "TRAPPERZ_MX",
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 301153,
       "name": "Chore V2",
       "url": "https://open.spotify.com/track/7iFVNR1fdm0z8wvxSEvmvl"
@@ -2379,7 +2379,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 124100,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq"
@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124100,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/1iw8Tvg0BmqIP1jW69sW1R"
@@ -2781,10 +2781,40 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118800,
       "name": "KAMILA",
       "url": "https://open.spotify.com/track/3V9yNjoKHgUWS3Z97AUe1S"
+    },
+    {
+      "album": {
+        "name": "KAMILA",
+        "url": "https://open.spotify.com/album/1HnftF9yhlUw2r5KdCqBrA"
+      },
+      "artists": [
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Lucca",
+          "url": "https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "KAMILA",
+      "url": "https://open.spotify.com/track/4IJC3amp31rh7dEzvg6y5z"
     },
     {
       "album": {
@@ -2811,10 +2841,40 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146622,
       "name": "Kevin, Hugo & Jorge",
       "url": "https://open.spotify.com/track/0tT1SLOTZfEud3LB7JTgxv"
+    },
+    {
+      "album": {
+        "name": "Kevin, Hugo & Jorge",
+        "url": "https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Go Golden Junk",
+          "url": "https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC"
+        },
+        {
+          "name": "LOS MUCHACHOS",
+          "url": "https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146622,
+      "name": "Kevin, Hugo & Jorge",
+      "url": "https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR"
     },
     {
       "album": {
@@ -2833,6 +2893,24 @@
       "duration_ms": 170967,
       "name": "King Cruz",
       "url": "https://open.spotify.com/track/0nkqlZLqOVHjUzhSihydYK"
+    },
+    {
+      "album": {
+        "name": "UNAVAILABLE",
+        "url": "https://open.spotify.com/album/1V0GjvkmCE7czHgKxPVQOE"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150049,
+      "name": "KOBI XFA VUELVE AL TRAP",
+      "url": "https://open.spotify.com/track/4brASkg3m8bst9RzQ6fisd"
     },
     {
       "album": {
@@ -4843,6 +4921,28 @@
     {
       "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+        "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177442,
+      "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
+      "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
+    },
+    {
+      "album": {
+        "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
       },
       "artists": [
@@ -4857,7 +4957,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
@@ -5231,7 +5331,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 139244,
       "name": "Unico en mi especie",
       "url": "https://open.spotify.com/track/0c7xCenpK86VlUUODSqc3i"
@@ -5249,7 +5349,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139253,
       "name": "Unico en mi especie",
       "url": "https://open.spotify.com/track/6o7WXKdCFKw7S5tDSo9BfU"
@@ -5369,7 +5469,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136750,
       "name": "Wapo y Mam\u00f3n",
       "url": "https://open.spotify.com/track/25wf4gnbICnaetfEAFguu8"
@@ -5387,7 +5487,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 136750,
       "name": "Wapo y Mam\u00f3n",
       "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
@@ -5529,7 +5629,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "Yo tmb me fui",
       "url": "https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5"
@@ -5565,7 +5665,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141176,
       "name": "Yo tmb me fui",
       "url": "https://open.spotify.com/track/2eroNooNR9K6rVVBou98GC"

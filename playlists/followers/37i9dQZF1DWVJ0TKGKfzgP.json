@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 202855,
+  "2024-04-20": 203016,
   "date_first_scraped": "2022-08-06",
   "description": "The best and finest 80s Funk. Cover: Bootsy Collins.",
   "name": "I Love My 80s Funk",
   "tracks": [
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
     {
       "album": {
         "name": "1999",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373747,
       "name": "1999 - 2019 Remaster",
       "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
@@ -71,10 +89,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
       "album": {
@@ -197,7 +233,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 353306,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/1S0U07ifPGgmXGvVmGzUWP"
@@ -215,7 +251,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 353306,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5"
@@ -417,7 +453,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 435333,
       "name": "Controversy",
       "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
@@ -439,6 +475,24 @@
       "duration_ms": 435333,
       "name": "Controversy",
       "url": "https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
     },
     {
       "album": {
@@ -478,6 +532,24 @@
     },
     {
       "album": {
+        "name": "1999 (Remastered)",
+        "url": "https://open.spotify.com/album/2gNTUGxOXukQM0al11HdjU"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497608,
+      "name": "D.M.S.R. - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4UXXUNlG4gq4BJJh2jAzpW"
+    },
+    {
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
       },
@@ -489,7 +561,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 497608,
       "name": "D.M.S.R. - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qCqCsRUhGSuRgg7jX0WM4"
@@ -586,6 +658,24 @@
     },
     {
       "album": {
+        "name": "80s Dance",
+        "url": "https://open.spotify.com/album/6uXSvMD61HahBp7ux2qucP"
+      },
+      "artists": [
+        {
+          "name": "Yarbrough & Peoples",
+          "url": "https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247626,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/3Ik70XpNvyJ3wV3dxPw90w"
+    },
+    {
+      "album": {
         "name": "80s RnB",
         "url": "https://open.spotify.com/album/6CpY73aC3IuzYssLZUFUx2"
       },
@@ -615,7 +705,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250000,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/7C7TiKlyYsVGNdvNJR1QeS"
@@ -651,10 +741,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266733,
       "name": "Endicott",
       "url": "https://open.spotify.com/track/2EAK5uCyXRVHvrPC0LdBkS"
+    },
+    {
+      "album": {
+        "name": "In Praise Of Older Women And Other Crimes",
+        "url": "https://open.spotify.com/album/3OR4pY9jhXNK2dqbhcjv9l"
+      },
+      "artists": [
+        {
+          "name": "Kid Creole And The Coconuts",
+          "url": "https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Endicott",
+      "url": "https://open.spotify.com/track/40ggn7fwCteUvrmbqAOvxR"
     },
     {
       "album": {
@@ -723,10 +831,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370893,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp"
+    },
+    {
+      "album": {
+        "name": "The Best of Lakeside",
+        "url": "https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp"
+      },
+      "artists": [
+        {
+          "name": "Lakeside",
+          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369800,
+      "name": "Fantastic Voyage - Extended",
+      "url": "https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X"
     },
     {
       "album": {
@@ -849,10 +975,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211680,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/2je56j0xuoTi1gYkLLMlJU"
+    },
+    {
+      "album": {
+        "name": "Kool & The Gang - Collected",
+        "url": "https://open.spotify.com/album/4wWEDdybB2Wic6pk31fNE4"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4gu0AQJevmk5noyD2pr2Zh"
     },
     {
       "album": {
@@ -875,7 +1019,7 @@
     {
       "album": {
         "name": "Back To Reality",
-        "url": "https://open.spotify.com/album/3JVEG3pl5Ku4rGSBpKzid4"
+        "url": "https://open.spotify.com/album/23so5xsMJ8OWzBYEYvk6rQ"
       },
       "artists": [
         {
@@ -890,6 +1034,28 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 358653,
+      "name": "Get To The Point",
+      "url": "https://open.spotify.com/track/19MdVbrOk5M4gE6p4X7pLW"
+    },
+    {
+      "album": {
+        "name": "Back To Reality",
+        "url": "https://open.spotify.com/album/3JVEG3pl5Ku4rGSBpKzid4"
+      },
+      "artists": [
+        {
+          "name": "Tony Cook",
+          "url": "https://open.spotify.com/artist/1IibV6YF1Z2QI712E7f0yT"
+        },
+        {
+          "name": "Vernon Cheely",
+          "url": "https://open.spotify.com/artist/1mZBvfkVMlVhK0FpyJ4sNb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 358653,
       "name": "Get To The Point",
       "url": "https://open.spotify.com/track/7j9XHBwgu2CaWA62WB2l7Y"
@@ -1138,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "I'm Real",
+        "url": "https://open.spotify.com/album/1oJMbsZzlWW8HmNxCWdwCT"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332600,
+      "name": "I'm Real",
+      "url": "https://open.spotify.com/track/6ToERIf3Pdl8m5qt5Rjmth"
+    },
+    {
+      "album": {
         "name": "I'm Real (Expanded)",
         "url": "https://open.spotify.com/album/0nWs5H9EEUwvpyPlqaxfeD"
       },
@@ -1149,7 +1333,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334000,
       "name": "I'm Real",
       "url": "https://open.spotify.com/track/6DzXw0IEY1ErHfiVagW33j"
@@ -1301,7 +1485,7 @@
     {
       "album": {
         "name": "A Night to Remember (Mixed By Tony Okungbowa & Jojoflores)",
-        "url": "https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE"
+        "url": "https://open.spotify.com/album/1ADDWk1kGAsgKes4fik49O"
       },
       "artists": [
         {
@@ -1312,6 +1496,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252653,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/34jtsFqKNRSJFa0r6ZRqQh"
+    },
+    {
+      "album": {
+        "name": "A Night to Remember (Mixed By Tony Okungbowa & Jojoflores)",
+        "url": "https://open.spotify.com/album/1EaATYESKxC3pW4Whf2VvE"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 252653,
       "name": "Last Night a D.J. Saved My Life",
       "url": "https://open.spotify.com/track/7dcs4YfIp7PDDw76rWja2t"
@@ -1347,7 +1549,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333148,
       "name": "Let's Celebrate",
       "url": "https://open.spotify.com/track/3S9X1wYuzcISeZbdowhMnn"
@@ -1365,7 +1567,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 333173,
       "name": "Let's Celebrate",
       "url": "https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ"
@@ -1390,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "Level 42",
+        "url": "https://open.spotify.com/album/4wet2AuqCpOyWCREGVDIeN"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313480,
+      "name": "Love Games - Edit Album Version",
+      "url": "https://open.spotify.com/track/6lfBSP1irihuLQEF4UF4P5"
+    },
+    {
+      "album": {
         "name": "The Early Tapes / Level 42",
         "url": "https://open.spotify.com/album/3jNbBEmjeHSUyrqKpDgiw8"
       },
@@ -1401,7 +1621,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313640,
       "name": "Love Games - Edit Album Version",
       "url": "https://open.spotify.com/track/3jEj0AW7fdDP2F3k4EcaLq"
@@ -1657,10 +1877,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330933,
       "name": "Rhythm Nation",
       "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
+    },
+    {
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/7jtBAkD6DL5yn7komrFTxE"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330933,
+      "name": "Rhythm Nation",
+      "url": "https://open.spotify.com/track/51q3nDYWAqPY4hlgKEbP6j"
     },
     {
       "album": {
@@ -1718,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Funk",
+        "url": "https://open.spotify.com/album/5KX7xEa6LK3fhstw0lVpBR"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237533,
+      "name": "She's a Bad Mama Jama (She's Built, She's Stacked)",
+      "url": "https://open.spotify.com/track/69U6e6ucPkxgzgbQ86uQUr"
+    },
+    {
+      "album": {
         "name": "Funk Classics The 80's",
         "url": "https://open.spotify.com/album/2YfukrPJcXMeU05FWVAB5Q"
       },
@@ -1747,10 +2003,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235933,
       "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
       "url": "https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK"
+    },
+    {
+      "album": {
+        "name": "The One Giveth, The Count Taketh Away",
+        "url": "https://open.spotify.com/album/3RHAgZKCD6Lrpc75IEn9wl"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Shine-O-Mite (Rag Poping)",
+      "url": "https://open.spotify.com/track/22qgCjGIca42X0v7N0IL8t"
     },
     {
       "album": {
@@ -1765,7 +2039,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273066,
       "name": "Shine-O-Mite (Rag Poping)",
       "url": "https://open.spotify.com/track/2C95qrzuEsW7o9ERQIArXS"
@@ -1801,10 +2075,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383706,
       "name": "Square Biz",
       "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4yiSTHBM1UPaGuXQkJeZVQ"
+      },
+      "artists": [
+        {
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385533,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/7KIQKq8H0yENFv6nEa41b5"
     },
     {
       "album": {
@@ -1974,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/7DhDuhhalViRMA628XKnQS"
+      },
+      "artists": [
+        {
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460800,
+      "name": "Take Your Time (Do It Right)",
+      "url": "https://open.spotify.com/track/3DIe90xqHuUDtyuapTwCAR"
+    },
+    {
+      "album": {
         "name": "1980 Best of by uDiscover",
         "url": "https://open.spotify.com/album/3GmxilfNvqzcxsQHiEFJHG"
       },
@@ -1985,7 +2295,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 460800,
       "name": "Take Your Time (Do It Right)",
       "url": "https://open.spotify.com/track/7zYuVTJ5mE2kHm6mD1pjDD"
@@ -2021,10 +2331,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297973,
       "name": "The Pleasure Principle",
       "url": "https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5rgQevCH5hYBGnNkWQwjsI"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299933,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/10M0Ai8Lg5DaUTk3rBNtI7"
     },
     {
       "album": {
@@ -2043,6 +2371,24 @@
       "duration_ms": 349466,
       "name": "Tie Me Up",
       "url": "https://open.spotify.com/track/09nHziVFmEdVtguyIRlBVM"
+    },
+    {
+      "album": {
+        "name": "Level 42",
+        "url": "https://open.spotify.com/album/4wet2AuqCpOyWCREGVDIeN"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276440,
+      "name": "Turn It On",
+      "url": "https://open.spotify.com/track/4ij09Y7hdZ4xLVWveyHXhT"
     },
     {
       "album": {
@@ -2075,7 +2421,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280160,
       "name": "Turn It On",
       "url": "https://open.spotify.com/track/7cr6MHjxCKQwqiiCyZrbpo"
@@ -2097,10 +2443,50 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204840,
       "name": "Unity Part 1 (The Third Coming)",
       "url": "https://open.spotify.com/track/5miEPw9RhAQ9hModWqKxjT"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/1EvRj5KPItGB4kogXR1UMB"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Unity, Pt. 1 (The Third Coming)",
+      "url": "https://open.spotify.com/track/6AQ2qP5257jjnNW2NtAeAc"
+    },
+    {
+      "album": {
+        "name": "Get Up To Get Down: Brass Construction's Funky Feeling",
+        "url": "https://open.spotify.com/album/3L740Yg2cAN9O345KvsPZ1"
+      },
+      "artists": [
+        {
+          "name": "Brass Construction",
+          "url": "https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344026,
+      "name": "Walkin' The Line",
+      "url": "https://open.spotify.com/track/47I3nvVDKtbR3xWUd3CNYO"
     },
     {
       "album": {
@@ -2115,7 +2501,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345133,
       "name": "Walkin' The Line",
       "url": "https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb"
@@ -2133,7 +2519,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299493,
       "name": "What Have You Done For Me Lately",
       "url": "https://open.spotify.com/track/2SFq0UIiBWkBgky0fkrHP0"
@@ -2158,8 +2544,44 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/5rgQevCH5hYBGnNkWQwjsI"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300048,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/5kMb4J8QSUaXuVu75bc7uO"
+    },
+    {
+      "album": {
         "name": "Cupid & Psyche 85",
         "url": "https://open.spotify.com/album/0nBH3ITWaQDYT2wAWRdg3K"
+      },
+      "artists": [
+        {
+          "name": "Scritti Politti",
+          "url": "https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 288080,
+      "name": "Wood Beez",
+      "url": "https://open.spotify.com/track/5uhxoEaWGasTiGwLV6azhH"
+    },
+    {
+      "album": {
+        "name": "Cupid & Psyche 85",
+        "url": "https://open.spotify.com/album/4UHaMtf7B0KOwGrtk8ktBZ"
       },
       "artists": [
         {
@@ -2172,7 +2594,7 @@
       "date_removed": null,
       "duration_ms": 288080,
       "name": "Wood Beez",
-      "url": "https://open.spotify.com/track/5uhxoEaWGasTiGwLV6azhH"
+      "url": "https://open.spotify.com/track/7zjdO3toeBJIUzxjHkvRan"
     },
     {
       "album": {

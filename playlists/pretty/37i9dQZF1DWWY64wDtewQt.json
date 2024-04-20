@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 7921272,
+  "num_followers": 7926740,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjkzNjQ4OSwwMDAwMDAwMGU1N2JkYzEyMDAxNDMzYWU3YWI2N2Q3ZWEyMmU5ZmQ2",
+  "snapshot_id": "MTcxMzU0MzYzOCwwMDAwMDAwMDA1ODZmNmNjMGMwMzg3ZjM2YjIyZDdkMTYwNjk1ODAz",
   "tracks": [
     {
       "added_at": "2024-02-09 15:25:18",
@@ -29,10 +29,10 @@
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
     },
     {
-      "added_at": "2023-12-01 14:11:37",
+      "added_at": "2024-03-29 15:57:27",
       "album": {
-        "name": "BRODYAGA FUNK",
-        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
       },
       "artists": [
         {
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
         }
       ],
-      "duration_ms": 134785,
-      "name": "BRODYAGA FUNK",
-      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "added_at": "2023-12-08 15:15:57",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2024-03-29 15:57:27",
-      "album": {
-        "name": "SLAY!",
-        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "SLAY!",
-      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
-    },
-    {
       "added_at": "2023-06-02 17:32:35",
       "album": {
         "name": "MONTAGEM - PR FUNK",
@@ -167,6 +151,22 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
+    },
+    {
+      "added_at": "2023-12-01 14:11:37",
+      "album": {
+        "name": "BRODYAGA FUNK",
+        "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "BRODYAGA FUNK",
+      "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
     },
     {
       "added_at": "2023-08-04 15:24:45",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/6qlnqjooo2LfPr0FLbWsbQ"
     },
     {
+      "added_at": "2024-03-22 16:01:00",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+    },
+    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "FRESH",
@@ -467,22 +483,6 @@
       "duration_ms": 94418,
       "name": "Life in Rio",
       "url": "https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7"
-    },
-    {
-      "added_at": "2024-03-22 16:01:00",
-      "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2022-08-19 05:11:18",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
     },
     {
-      "added_at": "2024-03-22 16:01:00",
-      "album": {
-        "name": "HA-HA!",
-        "url": "https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu"
-      },
-      "artists": [
-        {
-          "name": "FORGOTTENAGE",
-          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
-        }
-      ],
-      "duration_ms": 120952,
-      "name": "HA-HA!",
-      "url": "https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR"
-    },
-    {
       "added_at": "2022-05-20 10:12:52",
       "album": {
         "name": "MIDNIGHT",
@@ -945,6 +929,26 @@
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
     },
     {
+      "added_at": "2024-04-19 16:20:38",
+      "album": {
+        "name": "Fuku",
+        "url": "https://open.spotify.com/album/1Av8SASgUHygkOKLy3WqRo"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        },
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        }
+      ],
+      "duration_ms": 115071,
+      "name": "Fuku",
+      "url": "https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ"
+    },
+    {
       "added_at": "2023-08-11 14:10:06",
       "album": {
         "name": "The Automotivo Infernal 1.0",
@@ -1095,6 +1099,58 @@
       "duration_ms": 90692,
       "name": "ENOUGH!",
       "url": "https://open.spotify.com/track/3bVJS1FUUkx3RmmmOVoeK2"
+    },
+    {
+      "added_at": "2024-03-22 16:01:00",
+      "album": {
+        "name": "HA-HA!",
+        "url": "https://open.spotify.com/album/7BIfQFbE5RqMZlmh1An5tu"
+      },
+      "artists": [
+        {
+          "name": "FORGOTTENAGE",
+          "url": "https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC"
+        }
+      ],
+      "duration_ms": 120952,
+      "name": "HA-HA!",
+      "url": "https://open.spotify.com/track/79wHNI2r74FIjnSsFh03uR"
+    },
+    {
+      "added_at": "2024-04-12 15:41:29",
+      "album": {
+        "name": "MASHA ULTRAFUNK",
+        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
+      },
+      "artists": [
+        {
+          "name": "HISTED",
+          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
+        },
+        {
+          "name": "TXVSTERPLAYA",
+          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
+        }
+      ],
+      "duration_ms": 93650,
+      "name": "MASHA ULTRAFUNK",
+      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2024-04-19 16:20:38",
+      "album": {
+        "name": "pulse",
+        "url": "https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "duration_ms": 97343,
+      "name": "pulse - slowed",
+      "url": "https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW"
     },
     {
       "added_at": "2023-03-17 15:27:46",
@@ -1265,22 +1321,6 @@
       "url": "https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X"
     },
     {
-      "added_at": "2023-01-06 05:01:00",
-      "album": {
-        "name": "MURDER PLOT",
-        "url": "https://open.spotify.com/album/55fBYJVENoSR8pMOr7Cmhv"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "MURDER PLOT",
-      "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
-    },
-    {
       "added_at": "2024-04-05 14:00:00",
       "album": {
         "name": "FUNK ESTRANHO",
@@ -1295,46 +1335,6 @@
       "duration_ms": 106400,
       "name": "FUNK ESTRANHO",
       "url": "https://open.spotify.com/track/3uFuQuXyUpYOlVkPdVeCCh"
-    },
-    {
-      "added_at": "2023-09-29 15:36:46",
-      "album": {
-        "name": "Broken Trust",
-        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
-      },
-      "artists": [
-        {
-          "name": "SAY3AM",
-          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Broken Trust",
-      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
-    },
-    {
-      "added_at": "2024-04-12 15:41:29",
-      "album": {
-        "name": "MASHA ULTRAFUNK",
-        "url": "https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC"
-      },
-      "artists": [
-        {
-          "name": "HISTED",
-          "url": "https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD"
-        },
-        {
-          "name": "TXVSTERPLAYA",
-          "url": "https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5"
-        }
-      ],
-      "duration_ms": 93650,
-      "name": "MASHA ULTRAFUNK",
-      "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1409,6 +1409,26 @@
       "url": "https://open.spotify.com/track/7fuGHAXIjGGycKnIPlhG4L"
     },
     {
+      "added_at": "2023-09-29 15:36:46",
+      "album": {
+        "name": "Broken Trust",
+        "url": "https://open.spotify.com/album/3Wm96XwUfNEfVCTYmyQmBH"
+      },
+      "artists": [
+        {
+          "name": "SAY3AM",
+          "url": "https://open.spotify.com/artist/3UxUktdCJsomjKqozWDWSu"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "Broken Trust",
+      "url": "https://open.spotify.com/track/5Y4OwloGr9QSxZLZ5DXGte"
+    },
+    {
       "added_at": "2023-06-23 15:45:22",
       "album": {
         "name": "One Chance",
@@ -1475,30 +1495,6 @@
       "duration_ms": 84138,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
-    },
-    {
-      "added_at": "2024-02-16 17:03:51",
-      "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC"
-      },
-      "artists": [
-        {
-          "name": "Slowboy",
-          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
-        },
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        },
-        {
-          "name": "zaichkou888",
-          "url": "https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte"
-        }
-      ],
-      "duration_ms": 144138,
-      "name": "ASTRO",
-      "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
     },
     {
       "added_at": "2023-06-16 13:47:05",
@@ -1777,6 +1773,30 @@
       "url": "https://open.spotify.com/track/0uLd2Bf1FBtBNQPsWIkpPG"
     },
     {
+      "added_at": "2024-02-16 17:03:51",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3c8QZL2igzmAcM8IfupjTC"
+      },
+      "artists": [
+        {
+          "name": "Slowboy",
+          "url": "https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja"
+        },
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        },
+        {
+          "name": "zaichkou888",
+          "url": "https://open.spotify.com/artist/7yzEddrxGDljtj9TmeCfte"
+        }
+      ],
+      "duration_ms": 144138,
+      "name": "ASTRO",
+      "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
+    },
+    {
       "added_at": "2023-09-15 14:15:29",
       "album": {
         "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
@@ -1795,30 +1815,6 @@
       "duration_ms": 159842,
       "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
       "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
-    },
-    {
-      "added_at": "2021-05-12 14:02:59",
-      "album": {
-        "name": "Scary Garry",
-        "url": "https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP"
-      },
-      "artists": [
-        {
-          "name": "Kaito Shoma",
-          "url": "https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR"
-        },
-        {
-          "name": "DJ Paul",
-          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
-        },
-        {
-          "name": "Kingpin Skinny Pimp",
-          "url": "https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj"
-        }
-      ],
-      "duration_ms": 99748,
-      "name": "Scary Garry",
-      "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"
     },
     {
       "added_at": "2024-03-08 15:34:20",

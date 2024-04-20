@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Architects
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Bad Omens
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,513 likes - 83 songs - 5 hr 9 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,514 likes - 89 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 81 | [Bananarchy Zoo](https://open.spotify.com/track/5jbB924JhR1lKjdZn58OoV) | [Eye Flys](https://open.spotify.com/artist/7GzM51BvYYlZ6Hdef6fM41) | [Bananarchy Zoo](https://open.spotify.com/album/4aR9eUz1g7Nx6RGnhnauwz) | 5:25 |
 | 82 | [Shame and its Afterbirth](https://open.spotify.com/track/70tCzTXSThhKWtk1njrMOm) | [Vitriol](https://open.spotify.com/artist/7E4LULB8UkUOTEBbpTbLma) | [Shame and its Afterbirth](https://open.spotify.com/album/6tgUVPW5ncqIDCJGnDHh6S) | 6:43 |
 | 83 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 |
+| 84 | [Supernatural](https://open.spotify.com/track/2CJo2Yy3sipDQ3XyiL3Vha) | [Julie Christmas](https://open.spotify.com/artist/4rHZDNrVu2XkdO7eysOHei) | [Supernatural](https://open.spotify.com/album/2SVkD5ABH9AXwPhn5awnVn) | 3:35 |
+| 85 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 |
+| 86 | [Ousted From Eden](https://open.spotify.com/track/4YNzsBxwOieEU3r7T3vK9s) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU), [Broken Vow](https://open.spotify.com/artist/7cbddjy4wOdhxzR4Wnypt3) | [Ousted From Eden](https://open.spotify.com/album/6ro24nyQUiS7uCJJQ5MAWT) | 2:55 |
+| 87 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 |
+| 88 | [Lysergic War Psychosis](https://open.spotify.com/track/1aegOIEWeGvUVm1Kavduz4) | [Antichrist Siege Machine](https://open.spotify.com/artist/0g132bsggkLIMT0pW9aa7s) | [Vengeance of Eternal Fire](https://open.spotify.com/album/4MHngXy37mudMEn2H39sAg) | 2:35 |
+| 89 | [In The Mean Time feat\. Ash Costello of New Years Day](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Ash Costello](https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time feat\. Ash Costello of New Years Day](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 |
 
-Snapshot ID: `MzA1OCw3OTY4MTY2ZjYzMTM0Y2IxOTQ2ZWRiNzAwMzYzM2JmZjM5YTgyNzcw`
+Snapshot ID: `MzA2NSw0NmEyNTY2OTUxZjYyOWJjZWZlMjg5ODgyMzZhMjgzM2M0MmFiYTQ3`

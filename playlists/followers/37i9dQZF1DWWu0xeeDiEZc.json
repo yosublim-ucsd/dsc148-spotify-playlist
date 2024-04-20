@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 383371,
+  "2024-04-20": 383266,
   "date_first_scraped": "2021-12-28",
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
   "name": "Sing Along",
@@ -51,7 +51,7 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160306,
       "name": "A Whole New World - Remastered 2022",
       "url": "https://open.spotify.com/track/0k7Shopj669EbywEjsqoqm"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 75028,
       "name": "ABC's",
       "url": "https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75028,
       "name": "ABC's",
       "url": "https://open.spotify.com/track/1eSmVO3UxWPfle5XCFzzDf"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 115618,
       "name": "Apples and Bananas",
       "url": "https://open.spotify.com/track/4SI0hC16YcC5fZaCEY0ue4"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116751,
       "name": "Bingo - Sing with Me",
       "url": "https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206506,
       "name": "Do You Want To Build A Snowman?",
       "url": "https://open.spotify.com/track/6Oiyl1qV9r2rbWsD6pCMLt"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148040,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/05VFDrNnvtKHn9GwCQrsSZ"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148066,
       "name": "Fruit Salad",
       "url": "https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 72266,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72266,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/5MMkLHLXPwJnBlxVLYpDvy"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118751,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/3xFOkAI6aNreOFejqwvv28"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118751,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 72000,
       "name": "How Much Is That Doggy in the Window? - 2014 Version",
       "url": "https://open.spotify.com/track/2SPESAm7iDMhp9EdY15tMJ"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 77855,
       "name": "I'm a Little Teapot",
       "url": "https://open.spotify.com/track/1t6Gro7Tzeja1SBEiqmH2Q"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 77855,
       "name": "I'm a Little Teapot",
       "url": "https://open.spotify.com/track/3wYY67cxg0p2CYKvUE3gMC"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129761,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/6cKlr2BOXBaqiuaHUY5Zwo"
@@ -797,13 +797,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 129762,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/4l9Rzfhif755mKMZi0D7SN"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221480,
       "name": "Just Sing",
       "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221480,
       "name": "Just Sing",
       "url": "https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163400,
       "name": "Kiss the Girl",
       "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2019-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162200,
       "name": "Kiss the Girl - From \"The Little Mermaid\"/ Soundtrack Version",
       "url": "https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119808,
       "name": "Old Macdonald",
       "url": "https://open.spotify.com/track/47ffTXm408U9thU7xS7CVE"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 119808,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 42933,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/01lr2Sr5lB3uSQbEAHeMGc"
@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 45053,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 106874,
       "name": "This Is the Song That Never Ends - 2014 Version",
       "url": "https://open.spotify.com/track/0ukPjtaTzUNwkdKju0IPz8"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Wheels on the Bus (All Through the Town)",
       "url": "https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130000,
       "name": "Wheels on the Bus (All Through the Town)",
       "url": "https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa"
@@ -1615,7 +1615,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118430,
       "name": "Who Took The Cookie?",
       "url": "https://open.spotify.com/track/3PpuDg0ZVPviHuljT3R087"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118430,
       "name": "Who Took the Cookie?",
       "url": "https://open.spotify.com/track/54sVu0zGDVMTC1NSA84v1a"

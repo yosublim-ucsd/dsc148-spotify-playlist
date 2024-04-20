@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 48452,
+  "2024-04-20": 48478,
   "date_first_scraped": "2022-07-19",
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
   "name": "Latin Hits 2000",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246493,
       "name": "Antonia",
       "url": "https://open.spotify.com/track/51LZ2XHdETvNLQ6SKqTjWF"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248213,
       "name": "Antonia",
       "url": "https://open.spotify.com/track/5n40SAKMk89wdWyhTfWzx4"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 356760,
       "name": "El alma al aire",
       "url": "https://open.spotify.com/track/4Vp3RsQyxbZiIiVj3JSZkp"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 287013,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3bal1VfEO41CQV9RmzkW0D"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190173,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-13",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "Tramposa Y Mentirosa",
       "url": "https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212533,
       "name": "Tramposa y Mentirosa",
       "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"

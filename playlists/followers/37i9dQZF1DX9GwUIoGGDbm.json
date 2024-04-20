@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8660,
+  "2024-04-20": 8660,
   "date_first_scraped": "2023-03-31",
   "description": "Music from \"KAGUYA-SAMA: LOVE IS WAR\". \u300c\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\u300d\u30b7\u30ea\u30fc\u30ba\u3092\u5f69\u308b\u697d\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u8d64\u5742\u30a2\u30ab\uff0f\u96c6\u82f1\u793e\u30fb\u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "KAGUYA-SAMA: LOVE IS WAR \u304b\u3050\u3084\u69d8\u306f\u544a\u3089\u305b\u305f\u3044 ",
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Sentimental Crisis",
+        "url": "https://open.spotify.com/album/48wxnaMynnuZ4XUbrYyu33"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/48gbPVwayrBnpyrjaQxP2q"
+    },
+    {
+      "album": {
         "name": "Assortrip",
         "url": "https://open.spotify.com/album/21WfM8C9tr6u7MEZ4eWufZ"
       },
@@ -577,7 +595,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243960,
       "name": "\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30af\u30e9\u30a4\u30b7\u30b9",
       "url": "https://open.spotify.com/track/31fN64zoCHnWmFmPVmiVJT"
@@ -1420,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "\u98a8\u306b\u5439\u304b\u308c\u3066",
+        "url": "https://open.spotify.com/album/6ZbwErHeIXrRGIMk1sPtY6"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u539f \u9065",
+          "url": "https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271966,
+      "name": "\u98a8\u306b\u5439\u304b\u308c\u3066",
+      "url": "https://open.spotify.com/track/3VEwy927d2YEqnNqP6xwfk"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30eb\u30ab\u30ab\u30ca\u30bf\u30d8",
         "url": "https://open.spotify.com/album/6vkvEwrB0FClvO0pMg7FLq"
       },
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272826,
       "name": "\u98a8\u306b\u5439\u304b\u308c\u3066",
       "url": "https://open.spotify.com/track/6qi17D1xjNEFMLpYwFurV1"

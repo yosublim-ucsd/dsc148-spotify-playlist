@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 144969,
+  "2024-04-20": 144992,
   "date_first_scraped": "2023-09-18",
   "description": "The songs that inspired Ronaldinho in the 2000s. Handpicked by the Brazilian and Bar\u00e7a legend himself!",
   "name": "Bar\u00e7a Legends: R10",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267706,
       "name": "A Princesa E O Plebeu",
       "url": "https://open.spotify.com/track/6wyXMxvFw2tudARW1VpIBm"
+    },
+    {
+      "album": {
+        "name": "Periferia",
+        "url": "https://open.spotify.com/album/2dbhWSDZYlRwHsSmj3Sxmi"
+      },
+      "artists": [
+        {
+          "name": "Negritude Junior",
+          "url": "https://open.spotify.com/artist/3YBaTAcy9PQpIbuRQTbD8F"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "A Princesa E O Plebeu",
+      "url": "https://open.spotify.com/track/6OgtBxnc28lJ6jUf7pyzmZ"
     },
     {
       "album": {
@@ -282,6 +300,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7vF05VyQmk4x9ybW3E6Gd4"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293613,
+      "name": "Faixa Amarela",
+      "url": "https://open.spotify.com/track/131eE1wdPFIUAzxveZispD"
+    },
+    {
+      "album": {
         "name": "Hoje \u00c9 Dia De Festa",
         "url": "https://open.spotify.com/album/4CGL4rqypX9EGhPcXcDqlp"
       },
@@ -293,7 +329,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296640,
       "name": "Faixa Amarela",
       "url": "https://open.spotify.com/track/3Rp4m03mbhlYgIeSWNP9xm"
@@ -329,10 +365,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204493,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/2lNjKOEumoJbrir0Y9dmPB"
+    },
+    {
+      "album": {
+        "name": "Pandemonium!",
+        "url": "https://open.spotify.com/album/7I35r17JNFjVEZPMHfe2nq"
+      },
+      "artists": [
+        {
+          "name": "B2K",
+          "url": "https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/7ewYIt7Zp5JliAWO9aIuWN"
     },
     {
       "album": {
@@ -489,7 +543,7 @@
     {
       "album": {
         "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+        "url": "https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD"
       },
       "artists": [
         {
@@ -504,6 +558,28 @@
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255706,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/24NPziq3dayIMKppeI94Um"
+    },
+    {
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
@@ -521,10 +597,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256226,
       "name": "Many Men (Wish Death)",
       "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256240,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi"
     },
     {
       "album": {
@@ -593,10 +687,28 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203626,
       "name": "Minha F\u00e9",
       "url": "https://open.spotify.com/track/4V2ktBGkNr2JkAAEzywuiJ"
+    },
+    {
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/6dwpP1wpPCBb4We4LzPPtb"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203626,
+      "name": "Minha F\u00e9",
+      "url": "https://open.spotify.com/track/63efSBKSZJWb6JTDpM6Ype"
     },
     {
       "album": {
@@ -872,6 +984,100 @@
     },
     {
       "album": {
+        "name": "Sambabook Dona Ivone Lara",
+        "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Aline Calixto",
+          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
+        },
+        {
+          "name": "Luiza Dionizio",
+          "url": "https://open.spotify.com/artist/6gMrwpIWKyYIk77kZMWwa4"
+        },
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Reinaldo",
+          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Wilson Das Neves",
+          "url": "https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Lu Carvalho",
+          "url": "https://open.spotify.com/artist/2Ye9ezvx9sQjOCnkNbzk6O"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Sonho Meu",
+      "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "album": {
         "name": "Sambabook Dona Ivone Lara, Vol. 2",
         "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
       },
@@ -971,7 +1177,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228132,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"

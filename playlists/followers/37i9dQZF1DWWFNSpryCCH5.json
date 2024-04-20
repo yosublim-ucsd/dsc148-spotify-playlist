@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1075000,
+  "2024-04-20": 1074135,
   "date_first_scraped": "2022-04-22",
   "description": "Revive aquellas grandes canciones desenchufadas.",
   "name": "Grandes Unplugged",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218000,
       "name": "About A Girl - Live",
       "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263226,
       "name": "All Apologies - Live",
       "url": "https://open.spotify.com/track/3bH8PZsfbCRIoeNiFm7JmU"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 249733,
       "name": "Ciega, Sordomuda - En Vivo",
       "url": "https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv"
@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "MTV Presents Unplugged: Florence + The Machine",
+        "url": "https://open.spotify.com/album/11JHRCPKllt4DDiaaBi3Kl"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275333,
+      "name": "Dog Days Are Over - MTV Unplugged, 2012",
+      "url": "https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -259,7 +277,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 414333,
       "name": "El baile y el salon - Unplugged",
       "url": "https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305280,
       "name": "Eres - MTV Unplugged",
       "url": "https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0"
@@ -357,7 +375,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282733,
       "name": "Eres para M\u00ed (with La Mala Rodr\u00edguez) - Unplugged (En Vivo)",
       "url": "https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 278066,
       "name": "He Barrido el Sol - Unplugged Version",
       "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232973,
       "name": "Here Without You - Acoustic",
       "url": "https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267626,
       "name": "I'll Always Be Right There - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Inevitable - En Vivo",
       "url": "https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163186,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/17ZUhkTEK46wyeWm4A71Ja"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 225986,
       "name": "La Camisa Negra - MTV Unplugged",
       "url": "https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 324826,
       "name": "La chispa adecuada - Live",
       "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 420465,
       "name": "La Flaca",
       "url": "https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243040,
       "name": "Labios Rotos - En Vivo Desde M\u00e9xico / 2010",
       "url": "https://open.spotify.com/track/1nULBrlzWatdcjA2ZctIMv"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289026,
       "name": "Layla - Acoustic Live",
       "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295093,
       "name": "Linger",
       "url": "https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295866,
       "name": "Linger (Acoustic Version)",
       "url": "https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 238841,
       "name": "Los Malaventurados No Lloran - MTV Unplugged",
       "url": "https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 292146,
       "name": "Magic - Live at the Enmore Theatre, Sydney",
       "url": "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY"
@@ -1054,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "Hands All Over (Revised International Deluxe)",
+        "url": "https://open.spotify.com/album/3gjJTUMI9q6ReSe0z7gyjp"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Misery - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ieV1TBSMyf5sFiPh9X2ai"
+    },
+    {
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1123,7 +1159,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266104,
       "name": "Pasos de cero - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305120,
       "name": "Prometiste (En Vivo)",
       "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226626,
       "name": "So\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
@@ -1527,7 +1563,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "Tears in Heaven - Acoustic Live",
       "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227466,
       "name": "The Man Who Sold The World - Live",
       "url": "https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi"
@@ -1655,7 +1691,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287840,
       "name": "Un A\u00f1o M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"

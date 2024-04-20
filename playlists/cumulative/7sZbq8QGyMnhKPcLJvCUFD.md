@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-530 songs - 1 day 3 hr 9 min
+532 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Gone For Good](https://open.spotify.com/track/7wrWHbHWCDka64pTNjabae) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [Gone For Good](https://open.spotify.com/album/0GHEFiBavHmTcOoKqnnD18) | 3:01 | 2023-12-13 |  |
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 | 2023-04-28 |
 | [Got A Feeling](https://open.spotify.com/track/3LgEiXnBZGyhBFcoyG5Hql) | [Raul Ojamaa](https://open.spotify.com/artist/6Z3GmozKVgFxFcP2Qzp0Fp), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Soundy](https://open.spotify.com/artist/3b7sLRj01Y93l1Dn186h0W), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Got A Feeling](https://open.spotify.com/album/6MjM00oS1aMPvQcbppe89q) | 2:48 | 2024-03-01 |  |
+| [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 | 2024-04-19 |  |
 | [Grey](https://open.spotify.com/track/18qcT6OvETarEtu2ZAZdRo) | [Carpö](https://open.spotify.com/artist/37XIfiBkXkVPCL3h6pKS2q), [MIHXI](https://open.spotify.com/artist/3flHDpJb60qURPhjCAmuhw), [Endpoint](https://open.spotify.com/artist/1A97b3GlGllZ5BotcYtzD5) | [Grey](https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs) | 3:23 | 2023-05-17 | 2023-08-10 |
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
@@ -222,6 +223,7 @@
 | [Heart My Heart](https://open.spotify.com/track/270q1FvyIjwKdrX5O0sFSN) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Heart My Heart](https://open.spotify.com/album/08PO8CBEiN6EMD9xXnptl1) | 2:49 | 2023-12-13 |  |
 | [Heart Robbery](https://open.spotify.com/track/51I95Yhf3siwoQBpBUY5p6) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Heart Robbery](https://open.spotify.com/album/7IXYVtzISSM1SzL9Xywie8) | 3:29 | 2023-02-22 | 2023-08-10 |
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 | 2023-08-10 |
+| [Help Me Help You](https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:31 | 2024-04-19 |  |
 | [Heroes Tonight](https://open.spotify.com/track/5fOjFkFA0k5MTOo1LmnVTO) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Heroes Tonight](https://open.spotify.com/album/1Rc0YAUUUhW5WuOXvgePFM) | 3:28 | 2023-08-08 |  |
 | [Hide Your Heart](https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [BRIGHTDVWN](https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe) | [Hide Your Heart](https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC) | 2:44 | 2023-08-01 | 2023-08-10 |
 | [High \(feat\. Aleesia\)](https://open.spotify.com/track/3Bin1J5O34OUDb3a4BctoI) | [JPB](https://open.spotify.com/artist/0t5H8FcoVPzn4sVeNxibMU), [Aleesia](https://open.spotify.com/artist/1KV1BqrUpebQPqVU2r89xc) | [High](https://open.spotify.com/album/7LqM3dX7Iv65gtMl29Sqd5) | 2:28 | 2023-08-08 | 2024-04-17 |

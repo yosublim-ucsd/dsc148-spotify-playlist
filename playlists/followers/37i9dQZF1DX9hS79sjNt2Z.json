@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4661,
+  "2024-04-20": 4660,
   "date_first_scraped": "2022-06-02",
   "description": "Celebrate the Risen Savior with songs for the whole family.",
   "name": "Family Easter Worship",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 65586,
       "name": "1, 2, 3, 4, 5 Jesus Christ Is Now Alive",
       "url": "https://open.spotify.com/track/2nkvejSUbGKn67amq9E3Pj"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 65586,
       "name": "1, 2, 3, 4, 5 Jesus Christ Is Now Alive",
       "url": "https://open.spotify.com/track/41oaEtLJcGKjNGCI6qnZQ0"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "Big Big Love",
       "url": "https://open.spotify.com/track/1qv87sym5fmPyZ4Ndj7jPd"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210733,
       "name": "Big Big Love",
       "url": "https://open.spotify.com/track/2LPsEFXoTjwhmFKbk2mOIF"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 114609,
       "name": "Easter Egg Hunt!",
       "url": "https://open.spotify.com/track/6ijiS6TK6bPNuLLHRUgAiD"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 114609,
       "name": "Going on an Egg Hunt",
       "url": "https://open.spotify.com/track/3uQcAhFumcnFyK09PJiHN2"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140133,
       "name": "Hosanna Rock",
       "url": "https://open.spotify.com/track/4kz07ixLQshK8EkodShvpM"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140133,
       "name": "Hosanna Rock",
       "url": "https://open.spotify.com/track/1C9GzLSV6dYRzeRHf9cInr"
@@ -1153,10 +1153,32 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267549,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/2IOq1qsWG3WdN14cRdZIci"
+    },
+    {
+      "album": {
+        "name": "Believe It",
+        "url": "https://open.spotify.com/album/44aaRObtLunYwdAFtgUBXp"
+      },
+      "artists": [
+        {
+          "name": "Gateway Kids Worship",
+          "url": "https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E"
+        },
+        {
+          "name": "Rebecca Brewer",
+          "url": "https://open.spotify.com/artist/0ZQA9R0eMLJhrmJV7V1C8Q"
+        }
+      ],
+      "date_added": "2024-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267549,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/7fl2z562qbTcT7ZhLsEq78"
     },
     {
       "album": {
@@ -1211,7 +1233,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134293,
       "name": "Jesus Christ Was Raised to Life",
       "url": "https://open.spotify.com/track/3ZU7LI3XOn8p17orSX1nZL"
@@ -1229,7 +1251,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "Jesus Christ Was Raised to Life",
       "url": "https://open.spotify.com/track/7k7PchQIg5xBIfMsnXAXjy"
@@ -1409,7 +1431,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 116000,
       "name": "Joyful, Joyful We Adore Thee",
       "url": "https://open.spotify.com/track/09ZBhEhoOzItFFdudh77SD"
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116000,
       "name": "Joyful, Joyful We Adore Thee",
       "url": "https://open.spotify.com/track/3V5YkUwHqcA31lNy1J4imj"
@@ -1547,13 +1569,13 @@
       },
       "artists": [
         {
-          "name": "Seeds Family Worship",
+          "name": "Seeds Kids Worship",
           "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
         }
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 199186,
       "name": "New Creation (2 Corinthians 5:17)",
       "url": "https://open.spotify.com/track/4lDbotjeBAi8QzU7Gl1Qur"
@@ -1571,7 +1593,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199199,
       "name": "New Creation (2 Corinthians 5:17)",
       "url": "https://open.spotify.com/track/3hs7pFQlZT8gobfVihXRvV"
@@ -1813,7 +1835,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 58357,
       "name": "The Best Thing About Easter (Jesus Is Alive!)",
       "url": "https://open.spotify.com/track/6u76bJ9FiwihesMlBmUONu"
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 58986,
       "name": "The Best Thing About Easter (Jesus is Alive!)",
       "url": "https://open.spotify.com/track/2ywhjnLZRvIvzbYMByhuMq"
@@ -2085,13 +2107,13 @@
       },
       "artists": [
         {
-          "name": "Seeds Family Worship",
+          "name": "Seeds Kids Worship",
           "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
         }
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 240920,
       "name": "Worthy Is the Lamb (Revelation 5:12)",
       "url": "https://open.spotify.com/track/2h42R4u7Ez4JkZ0ZRPAcdF"
@@ -2109,7 +2131,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242920,
       "name": "Worthy Is the Lamb (Revelation 5:12)",
       "url": "https://open.spotify.com/track/6U0e4ItflAwI58gFVO2bKr"

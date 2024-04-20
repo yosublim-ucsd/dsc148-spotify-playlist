@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "52 & HAUNTED",
+        "url": "https://open.spotify.com/album/3uPela7bf7RAtg7EnkfQ2M"
+      },
+      "artists": [
+        {
+          "name": "ALBLAK 52",
+          "url": "https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq"
+        },
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "52 & HAUNTED",
+      "url": "https://open.spotify.com/track/4OWzUW3tkhBVwIwE5HLpfu"
+    },
+    {
+      "album": {
         "name": "BALLOUT",
         "url": "https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB"
       },
@@ -122,7 +144,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -194,7 +216,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -411,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Never Broke Again",
+        "url": "https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI"
+      },
+      "artists": [
+        {
+          "name": "xxxmanera",
+          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108068,
+      "name": "Never Broke Again",
+      "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
+    },
+    {
+      "album": {
         "name": "SAVE DAT",
         "url": "https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7"
       },
@@ -430,6 +470,24 @@
       "duration_ms": 149013,
       "name": "SAVE DAT",
       "url": "https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh"
+    },
+    {
+      "album": {
+        "name": "SLAY!",
+        "url": "https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "SLAY!",
+      "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
     },
     {
       "album": {
@@ -652,7 +710,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 156081,
       "name": "\u0411\u0435\u0442\u0445\u043e\u0432\u0435\u043d",
       "url": "https://open.spotify.com/track/6uK4mB7y8JHa87NuYxl3lQ"
@@ -1216,7 +1274,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 144761,
       "name": "\u041c\u0443\u0437\u044b\u043a\u0430",
       "url": "https://open.spotify.com/track/4vsqEFz8rPG8Y3H21ToDnZ"
@@ -1238,6 +1296,28 @@
       "duration_ms": 306415,
       "name": "\u041d\u0430 \u0437\u0430\u0440\u0435",
       "url": "https://open.spotify.com/track/4qlMFQs9oEp5bVxERhTZBU"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u0441\u0435\u0439 \u043b\u044e\u0431\u043e\u0432\u044c",
+        "url": "https://open.spotify.com/album/4F56atiepF2t5YV1iGKKgO"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/48Mg7JaclPFMCGf4tXdPQn"
+        },
+        {
+          "name": "TheBrianMaps",
+          "url": "https://open.spotify.com/artist/4D1NOrj2s49PtbflOh9ivV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124243,
+      "name": "\u041d\u0435 \u0441\u0435\u0439 \u043b\u044e\u0431\u043e\u0432\u044c",
+      "url": "https://open.spotify.com/track/0ApDx6cHuU1pZlO5UIus1a"
     },
     {
       "album": {
@@ -1474,7 +1554,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 181125,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u0435",
       "url": "https://open.spotify.com/track/6OlP8aLDdhWQI9TFmOwgdY"
@@ -1846,6 +1926,24 @@
           "url": "https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc"
         }
       ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89879,
+      "name": "\u0444\u0435\u043d\u0438\u0431\u0443\u0442 2.0",
+      "url": "https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7"
+    },
+    {
+      "album": {
+        "name": "\u0444\u0435\u043d\u0438\u0431\u0443\u0442 2.0",
+        "url": "https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL"
+      },
+      "artists": [
+        {
+          "name": "mapt0v",
+          "url": "https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc"
+        }
+      ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1914,10 +2012,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 215301,
       "name": "\u0426\u0430\u0440\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/1sgGy5HcUAdYoWGj3RXmYb"
+    },
+    {
+      "album": {
+        "name": "\u0426\u0435\u043b\u0443\u044e",
+        "url": "https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7"
+      },
+      "artists": [
+        {
+          "name": "Pepel Nahudi",
+          "url": "https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108923,
+      "name": "\u0426\u0435\u043b\u0443\u044e",
+      "url": "https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9"
     },
     {
       "album": {

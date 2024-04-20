@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 5 | [Headlow \(feat\. Norelle\)](https://open.spotify.com/track/0L38hbPRV0C4x6CH7WZe1W) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Norelle](https://open.spotify.com/artist/5B08rGb3FZKEEhNdsyQV8T) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 4:10 |
 | 6 | [The Chase \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/48Y9pNe30o273HGYKyMKj9) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc) | 3:23 |
 | 7 | [For You \- Many Selves Version](https://open.spotify.com/track/1ZomkKbXsQoycnKzGV6NIZ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [For You \(Many Selves Version\)](https://open.spotify.com/album/1FBMc5U9NTkdVX0jUsy0ir) | 3:41 |
-| 8 | [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 |
+| 8 | [Someone Like You](https://open.spotify.com/track/4K6UMrt38Y8OBhWWQ6gNmu) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/6ES92uhTs5Mudx4XQKH3Z9) | 4:09 |
 | 9 | [Honeycomb](https://open.spotify.com/track/72Q94I0gbEuHDYwLxW1Tbg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 3:47 |
 | 10 | [Plans We Made](https://open.spotify.com/track/64KZxsKOncz4jh3F7GZFmR) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/2e0UMWNKH6j16Kb2otAW5w) | 3:40 |
 | 11 | [The Visitor](https://open.spotify.com/track/6y0NaFU7hfgiWFNzRTl8dS) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 5:05 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFzE2VgSszpf.md) - [plain]
 | 44 | [California Holiday](https://open.spotify.com/track/5DHefQvcjfmg7ZYtgCW0Lf) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [California Holiday](https://open.spotify.com/album/6wN9cmfRgd4drnRvhuKRTT) | 4:40 |
 | 45 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 |
 
-Snapshot ID: `Mjg1NTg1NzAsMDAwMDAwMDA1NjA5YzRmMDJmYzM1NmJkYzcxNGYyYzEzMzc4MmI1Yg==`
+Snapshot ID: `Mjg1NTk3MTAsMDAwMDAwMDA1YWVhMDMxMDc4YzMyNmIzZDhkYTE3NjIyM2MwNWI2NQ==`

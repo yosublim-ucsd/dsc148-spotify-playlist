@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 44193,
+  "2024-04-20": 44163,
   "date_first_scraped": "2023-02-25",
   "description": "Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.",
   "name": "The Pop Lounge",
@@ -64,6 +64,28 @@
     },
     {
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6wjunYcH9bglwVY2KbKysf"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "7Chariot",
+          "url": "https://open.spotify.com/artist/4V3hylv1eMCEVAHtWjsQ8S"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170944,
+      "name": "Bad Dreams (feat. 7Chariot)",
+      "url": "https://open.spotify.com/track/0ewuvkHXRQNa3xgQAKhy32"
+    },
+    {
+      "album": {
         "name": "Beach (Acoustic)",
         "url": "https://open.spotify.com/album/4lLeaaWEwl7C3Ykjltf8do"
       },
@@ -75,7 +97,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 201902,
       "name": "Beach - Acoustic",
       "url": "https://open.spotify.com/track/5omA7G0GjJB25avB53akJi"
@@ -93,7 +115,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
@@ -147,7 +169,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197426,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz"
@@ -201,7 +223,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 189038,
       "name": "Complexion",
       "url": "https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5"
@@ -284,6 +306,24 @@
     },
     {
       "album": {
+        "name": "DON.T (Acoustic)",
+        "url": "https://open.spotify.com/album/0EJ0RlKKyvYpMrBEI6ljL7"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180859,
+      "name": "DON.T - Acoustic",
+      "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Say You Love Me",
         "url": "https://open.spotify.com/album/42bDaVoeDvdS0yfF34Gqq4"
       },
@@ -295,7 +335,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/5Nq19qQnIBvcYbz7UNJTCW"
@@ -313,7 +353,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
@@ -374,6 +414,24 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/3fV8b8CyxiVWutQQe4anVP"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/0Knojdlv1xF0JfLcTZqf3U"
+    },
+    {
+      "album": {
         "name": "This Is What It Feels Like",
         "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
       },
@@ -385,7 +443,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152317,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
@@ -421,7 +479,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
@@ -497,7 +555,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -533,7 +591,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208754,
       "name": "good",
       "url": "https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw"
@@ -621,6 +679,24 @@
     {
       "album": {
         "name": "Holding on to Letting Go",
+        "url": "https://open.spotify.com/album/3lKYH8zdP5KCzfkXULvnls"
+      },
+      "artists": [
+        {
+          "name": "Scott Quinn",
+          "url": "https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165943,
+      "name": "Holding on to Letting Go",
+      "url": "https://open.spotify.com/track/0qoPfcnLNRE8uBMwS7X30f"
+    },
+    {
+      "album": {
+        "name": "Holding on to Letting Go",
         "url": "https://open.spotify.com/album/4QzrKpnh58uBFIEqP91Q8U"
       },
       "artists": [
@@ -631,7 +707,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165943,
       "name": "Holding on to Letting Go",
       "url": "https://open.spotify.com/track/3R8YZSqMrMEY2Axj8A8LZo"
@@ -689,7 +765,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225454,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2PFhevKRsRROz9DjQWBcYV"
@@ -783,7 +859,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 177077,
       "name": "If I Don't Love Me",
       "url": "https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd"
@@ -859,10 +935,28 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199038,
       "name": "Kite in a Hurricane",
       "url": "https://open.spotify.com/track/07zuDFfCjjxjr6xve7rKDI"
+    },
+    {
+      "album": {
+        "name": "Holy Ground",
+        "url": "https://open.spotify.com/album/3QRCCcpdWHmAQ6YSq4nbQd"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199038,
+      "name": "Kite in a Hurricane",
+      "url": "https://open.spotify.com/track/1XNijZmhaQZoMm7bV19fzd"
     },
     {
       "album": {
@@ -881,7 +975,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 212777,
       "name": "Learn to Love - Stripped",
       "url": "https://open.spotify.com/track/3QuArt3TFanlz6XOUiphiE"
@@ -1087,7 +1181,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219642,
       "name": "Love You've Lost",
       "url": "https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti"
@@ -1105,7 +1199,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM"
@@ -1239,7 +1333,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 179253,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO"
@@ -1506,6 +1600,24 @@
     },
     {
       "album": {
+        "name": "Shining Again",
+        "url": "https://open.spotify.com/album/1YXkMjhs1NWt4FuFWQJRCi"
+      },
+      "artists": [
+        {
+          "name": "Rindue",
+          "url": "https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201081,
+      "name": "Shining Again",
+      "url": "https://open.spotify.com/track/5Ys9c8wko5UFNclF8Vq3ar"
+    },
+    {
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/0uu8cPSov9nCPWlfWs8c6d"
       },
@@ -1608,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "We Saw A Light",
+        "url": "https://open.spotify.com/album/5yb7lfdng45j6WKTy3VpGJ"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3Rmh9ouHBlrbEDgFmncVOl"
+    },
+    {
+      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -1619,7 +1749,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
@@ -1655,7 +1785,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183243,
       "name": "The Way You Felt",
       "url": "https://open.spotify.com/track/5myjSxfvS8pzSMK3jJcfIL"
@@ -1695,7 +1825,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190438,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu"
@@ -1833,7 +1963,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 138666,
       "name": "When You Say You Love Me",
       "url": "https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp"
@@ -1877,6 +2007,24 @@
       "duration_ms": 170000,
       "name": "You Know What I Need",
       "url": "https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP"
+    },
+    {
+      "album": {
+        "name": "You Make Me Mad",
+        "url": "https://open.spotify.com/album/5NBLxv2jTPDNN8NVFAc3io"
+      },
+      "artists": [
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "You Make Me Mad",
+      "url": "https://open.spotify.com/track/33P9FJyae9pHmQjMf3226J"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcQRnVXaCXYk"

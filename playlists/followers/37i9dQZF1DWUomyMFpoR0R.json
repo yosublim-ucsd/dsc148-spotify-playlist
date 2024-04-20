@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 32500,
+  "2024-04-20": 32505,
   "date_first_scraped": "2023-12-19",
   "description": " <a href=\"spotify:artist:3TXQ1ddouwQAI78hV4hXDjj\">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week. \"My newest album, \u201993, is a fusion of diverse influences throughout my musical career\u2014from techno to drum and bass, rap to pop, and beyond. Dive into it\". More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Maceo Plex's track IDs",
@@ -139,10 +139,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 499253,
       "name": "Conjure Balearia",
       "url": "https://open.spotify.com/track/6nNVrATle8kh4x3VbTD0t5"
+    },
+    {
+      "album": {
+        "name": "Conjure One",
+        "url": "https://open.spotify.com/album/7sbcVLdBfSqsv3UxZy5G1V"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499253,
+      "name": "Conjure Balearia - Original Mix",
+      "url": "https://open.spotify.com/track/2FMgWMCJl2p3yl1PMXsLom"
     },
     {
       "album": {
@@ -310,6 +328,24 @@
     },
     {
       "album": {
+        "name": "Tough To Love But Worth The Effort",
+        "url": "https://open.spotify.com/album/78FubY4R7Esx2RMMqpOiEC"
+      },
+      "artists": [
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354031,
+      "name": "I Lov U",
+      "url": "https://open.spotify.com/track/4tkYsFUUtrlkOVojnsDYo6"
+    },
+    {
+      "album": {
         "name": "Tough to Love but Worth the Effort",
         "url": "https://open.spotify.com/album/29vMlKzKeQ0YncueKXNujx"
       },
@@ -321,7 +357,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354031,
       "name": "I Lov U",
       "url": "https://open.spotify.com/track/6dNlY6O5rkfhCFWi6ML5wt"
@@ -365,7 +401,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 373333,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/6ZBLQ9beCgU9FFieAcbeOO"
@@ -391,7 +427,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 373333,
       "name": "In The Dark - Original Mix",
       "url": "https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja"

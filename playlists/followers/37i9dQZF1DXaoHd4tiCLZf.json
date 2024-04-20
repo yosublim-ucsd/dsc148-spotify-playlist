@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 168725,
+  "2024-04-20": 168836,
   "date_first_scraped": "2022-11-17",
   "description": "Music from and inspired by Emily in Paris, new episodes now streaming! ",
   "name": "Emily in Paris Official Playlist",
@@ -97,6 +97,24 @@
     {
       "album": {
         "name": "Antony and the Johnsons",
+        "url": "https://open.spotify.com/album/3nUI18PxEXVZsmLva29BeB"
+      },
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Atrocities",
+      "url": "https://open.spotify.com/track/2UAWaiN5xfTWeNrSrhRUIp"
+    },
+    {
+      "album": {
+        "name": "Antony and the Johnsons",
         "url": "https://open.spotify.com/album/2Duq4scZlW8OTM3Bzhn1Zl"
       },
       "artists": [
@@ -111,7 +129,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233000,
       "name": "Atrocities",
       "url": "https://open.spotify.com/track/2yyVDSrMXYMi1AgoXzwRpP"
@@ -147,7 +165,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219642,
       "name": "Back to Heaven",
       "url": "https://open.spotify.com/track/3tJ8ICMDwtw0oisXLiGhA7"
@@ -165,7 +183,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 219642,
       "name": "Back to Heaven",
       "url": "https://open.spotify.com/track/42n3sy0BZsVqlV7ZPFw7ma"
@@ -241,7 +259,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 230350,
       "name": "Beach Break - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2T9JWHvTNoonWl7TCGsz1R"
@@ -263,10 +281,28 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230350,
       "name": "Beach Break - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6u7jxf89VKJ3VfrNojSHJ8"
+    },
+    {
+      "album": {
+        "name": "Big Future",
+        "url": "https://open.spotify.com/album/2tsfZKRq0ClMIm2JxHfCaI"
+      },
+      "artists": [
+        {
+          "name": "Obliques",
+          "url": "https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Big Future",
+      "url": "https://open.spotify.com/track/0Ou2ffHsdTEt55ymYamY5z"
     },
     {
       "album": {
@@ -281,7 +317,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155520,
       "name": "Big Future",
       "url": "https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r"
@@ -357,7 +393,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 221960,
       "name": "Bunga Bunga",
       "url": "https://open.spotify.com/track/26IQGZufsyQbH1LJwYJ2xb"
@@ -375,7 +411,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221960,
       "name": "Bunga Bunga",
       "url": "https://open.spotify.com/track/5MeF4KKGqnFD9Wk7GHe8hC"
@@ -531,10 +567,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154653,
       "name": "Ces bottes sont faites pour marcher",
       "url": "https://open.spotify.com/track/24wWN7iOuZoSai0V5O9vSu"
+    },
+    {
+      "album": {
+        "name": "Mo\u00efra- Denise Brousseau- Muguette",
+        "url": "https://open.spotify.com/album/0Wl5EzMrktOF6FpKOkt5rb"
+      },
+      "artists": [
+        {
+          "name": "Muguette",
+          "url": "https://open.spotify.com/artist/6HydvbnMuprLdr61mcXE2P"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Ces bottes sont faites pour marcher",
+      "url": "https://open.spotify.com/track/33asma5220o2FnEYYhMXMp"
     },
     {
       "album": {
@@ -767,10 +821,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "Dans la radio - Futuro Pelo Remix",
       "url": "https://open.spotify.com/track/04aQGQLfy4u0jU9KPPuXlf"
+    },
+    {
+      "album": {
+        "name": "Dans la radio (Remix)",
+        "url": "https://open.spotify.com/album/6v0ZCDNoMhyUF7pL7gG2Hn"
+      },
+      "artists": [
+        {
+          "name": "Jacques",
+          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+        },
+        {
+          "name": "Futuro Pelo",
+          "url": "https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Dans la radio - Futuro Pelo Remix",
+      "url": "https://open.spotify.com/track/13RDEFlvudZNOOMliO6CqR"
     },
     {
       "album": {
@@ -951,10 +1027,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217721,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1gg7VrHQD09dTZd8MzCsRA"
+    },
+    {
+      "album": {
+        "name": "Dream / Overseas",
+        "url": "https://open.spotify.com/album/7MP5JG1TJshJjvdVz67s11"
+      },
+      "artists": [
+        {
+          "name": "Husbands",
+          "url": "https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217721,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3Txe8uB20MQ7psuOoCbAW7"
     },
     {
       "album": {
@@ -1005,7 +1099,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196133,
       "name": "D\u00e9p\u00eache-toi",
       "url": "https://open.spotify.com/track/0UTdvTTUauenSec2LiNuup"
@@ -1023,7 +1117,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 196133,
       "name": "D\u00e9p\u00eache-toi",
       "url": "https://open.spotify.com/track/6tJz8gWCfs5amDvH7JTFyd"
@@ -1085,7 +1179,7 @@
     {
       "album": {
         "name": "Diamond Queen",
-        "url": "https://open.spotify.com/album/1XCiAgo40uv4ZV9kVcQBmG"
+        "url": "https://open.spotify.com/album/4Z1TJiRsuBnnLt4xgwJtc8"
       },
       "artists": [
         {
@@ -1096,6 +1190,24 @@
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198137,
+      "name": "Eiffel Tower",
+      "url": "https://open.spotify.com/track/2BCixOy6RWdtZTb07A8eOv"
+    },
+    {
+      "album": {
+        "name": "Diamond Queen",
+        "url": "https://open.spotify.com/album/1XCiAgo40uv4ZV9kVcQBmG"
+      },
+      "artists": [
+        {
+          "name": "Paprika Kinski",
+          "url": "https://open.spotify.com/artist/5xyTNHPE6Yfx0CbtErzqz9"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 198137,
       "name": "Eiffel Tower",
       "url": "https://open.spotify.com/track/2OzE9L9NEbiE5CO1sP6GQH"
@@ -1281,6 +1393,24 @@
     {
       "album": {
         "name": "Musica Alla Puttanesca",
+        "url": "https://open.spotify.com/album/7usZBXZSCHeZbLtMIwykto"
+      },
+      "artists": [
+        {
+          "name": "Madonnatron",
+          "url": "https://open.spotify.com/artist/5296LoeRErq9LMXgcFw3yX"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239739,
+      "name": "Goodnight Little Empire",
+      "url": "https://open.spotify.com/track/0YDrHTO62GiZnydalt57Fd"
+    },
+    {
+      "album": {
+        "name": "Musica Alla Puttanesca",
         "url": "https://open.spotify.com/album/7ec1EB4gl8yQt4DI0fTHCK"
       },
       "artists": [
@@ -1291,7 +1421,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239739,
       "name": "Goodnight Little Empire",
       "url": "https://open.spotify.com/track/0efHNLW15aV2w0Z36pbZyw"
@@ -1367,7 +1497,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249440,
       "name": "Holy Lakes (Dusk)",
       "url": "https://open.spotify.com/track/2VK8MXWOGEJlOmSri24UXJ"
@@ -1385,7 +1515,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 249440,
       "name": "Holy Lakes (Dusk)",
       "url": "https://open.spotify.com/track/6FXedT1pjklb2aVLgQtNH9"
@@ -1547,7 +1677,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 183186,
       "name": "Je suis - Tu hais",
       "url": "https://open.spotify.com/track/1s1DqwJZNCrSlFponDoD0k"
@@ -1565,7 +1695,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183186,
       "name": "Je suis - Tu hais",
       "url": "https://open.spotify.com/track/5eMVfBYv22ad10rdZHYBjL"
@@ -1673,7 +1803,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222993,
       "name": "Just a Clown",
       "url": "https://open.spotify.com/track/5ITwotbiHvdjt7HgLtOb7V"
@@ -1691,7 +1821,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 222993,
       "name": "Just a Clown",
       "url": "https://open.spotify.com/track/5JJTagJDBRxOwBDPuvVLB7"
@@ -1713,7 +1843,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212352,
       "name": "Just One Dance",
       "url": "https://open.spotify.com/track/4Tt9F3SsutXa3AEjAUGG1Y"
@@ -1735,7 +1865,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 212352,
       "name": "Just One Dance",
       "url": "https://open.spotify.com/track/7tYCf3ftc99AQrn2cXYM6d"
@@ -1757,10 +1887,32 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263389,
       "name": "Keep It Close to Me - Cyril Hahn Remix",
       "url": "https://open.spotify.com/track/0A7TZtpIH7a3kYnVOkHfsN"
+    },
+    {
+      "album": {
+        "name": "Keep It Close to Me (Cyril Hahn Remix)",
+        "url": "https://open.spotify.com/album/3WARPL1bTlXlRq68ia11a5"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263389,
+      "name": "Keep It Close to Me - Cyril Hahn Remix",
+      "url": "https://open.spotify.com/track/2j1TV2jS2CqK1UOTTmh7Ha"
     },
     {
       "album": {
@@ -1811,7 +1963,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227732,
       "name": "L'amour le jour",
       "url": "https://open.spotify.com/track/3jbi9A7SUq2XKhXj0oBZB5"
@@ -1829,7 +1981,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 227732,
       "name": "L'amour le jour",
       "url": "https://open.spotify.com/track/7E3lkl2RudmSHzholbRzsE"
@@ -1923,7 +2075,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "La flemme",
       "url": "https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ"
@@ -1941,7 +2093,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183333,
       "name": "La flemme",
       "url": "https://open.spotify.com/track/43AAd7EPmd2G6g0bt2tD7r"
@@ -1959,10 +2111,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364333,
       "name": "La f\u00eate noire",
       "url": "https://open.spotify.com/track/0zHTtxEVQhE643OzB3XI1U"
+    },
+    {
+      "album": {
+        "name": "L\u00e9viathan",
+        "url": "https://open.spotify.com/album/1803b0UbnM2mJ1kIXA0X9d"
+      },
+      "artists": [
+        {
+          "name": "Flavien Berger",
+          "url": "https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364333,
+      "name": "La f\u00eate noire",
+      "url": "https://open.spotify.com/track/31LahFauxHfQzlP6UazsIq"
     },
     {
       "album": {
@@ -2002,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "La paix",
+        "url": "https://open.spotify.com/album/6YBAnQs6i59hDWcW75fR7R"
+      },
+      "artists": [
+        {
+          "name": "Barbagallo",
+          "url": "https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236457,
+      "name": "La paix",
+      "url": "https://open.spotify.com/track/64ZZEO9npOOXBerYdscGQt"
+    },
+    {
+      "album": {
         "name": "Les Grands Br\u00fbl\u00e9s",
         "url": "https://open.spotify.com/album/53U2OgkxriblkoAGgfH5cC"
       },
@@ -2013,7 +2201,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237669,
       "name": "La Paix",
       "url": "https://open.spotify.com/track/3acVD8EIi5J4GUqPz1eAe8"
@@ -2357,7 +2545,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208866,
       "name": "Love Is in the Air",
       "url": "https://open.spotify.com/track/4v2K1ZcRXUc87CLtEXI3Pf"
@@ -2375,7 +2563,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 210293,
       "name": "Love Is In The Air",
       "url": "https://open.spotify.com/track/3c4OULLWwgRqBfA2dJtRuY"
@@ -2635,7 +2823,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 182840,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/51xm7ThW7RFWFequh489x2"
@@ -2653,7 +2841,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183826,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/7wl1IwwmZEyMs6Crj4yxQx"
@@ -2769,7 +2957,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390638,
       "name": "Moon (And It Went Like)",
       "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
@@ -2791,7 +2979,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 390638,
       "name": "Moon (And It Went Like)",
       "url": "https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr"
@@ -2817,7 +3005,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241052,
       "name": "Never Get It Right (Shura Remix)",
       "url": "https://open.spotify.com/track/58SeDNMb4niHLPL6GqbVY0"
@@ -2843,7 +3031,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 241052,
       "name": "Never Get It Right - Shura Remix",
       "url": "https://open.spotify.com/track/6kOTygghOZ87u2beHNgjLf"
@@ -2883,7 +3071,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 266920,
       "name": "No Shangri La",
       "url": "https://open.spotify.com/track/0P4Sf15I0czRVDrAS839Xf"
@@ -2901,7 +3089,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266920,
       "name": "No Shangri La",
       "url": "https://open.spotify.com/track/5foqt8rbcJBuvIUy5KJDIy"
@@ -3177,7 +3365,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218403,
       "name": "Parler",
       "url": "https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT"
@@ -3195,7 +3383,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 218482,
       "name": "Parler",
       "url": "https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR"
@@ -3253,7 +3441,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153881,
       "name": "Passion sonore",
       "url": "https://open.spotify.com/track/5uHoa6U6DbM99BLcwzsWlW"
@@ -3275,7 +3463,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 153881,
       "name": "Passion sonore",
       "url": "https://open.spotify.com/track/5g3MKESlpHy2eQtAvNAb7F"
@@ -3427,6 +3615,24 @@
     {
       "album": {
         "name": "Red Carpet Sand",
+        "url": "https://open.spotify.com/album/3T7tWJKDKKEG8UesdmJ6zb"
+      },
+      "artists": [
+        {
+          "name": "NAYAD",
+          "url": "https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Red Carpet Sand",
+      "url": "https://open.spotify.com/track/5JFNMf1Z87FDgZJrALzKya"
+    },
+    {
+      "album": {
+        "name": "Red Carpet Sand",
         "url": "https://open.spotify.com/album/79zwQnFTDLXTUIjJGVwwob"
       },
       "artists": [
@@ -3437,7 +3643,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211826,
       "name": "Red Carpet Sand",
       "url": "https://open.spotify.com/track/5qyLtzuxJ7Gev0zYFn0TaN"
@@ -3495,7 +3701,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200574,
       "name": "Rendez Vous",
       "url": "https://open.spotify.com/track/0TZdKfPAUslDgAVkb9bnQK"
@@ -3513,7 +3719,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 200574,
       "name": "Rendez Vous",
       "url": "https://open.spotify.com/track/1BrfrYcD9wPze2HEV4QQWd"
@@ -3585,7 +3791,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256151,
       "name": "scared",
       "url": "https://open.spotify.com/track/5K3slIpm5CuEOWBbWsCIKA"
@@ -3603,7 +3809,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 256151,
       "name": "scared",
       "url": "https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN"
@@ -3817,7 +4023,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181693,
       "name": "Sounds Familiar (French Version)",
       "url": "https://open.spotify.com/track/32TXj0xMxTRDMSrkzOULfA"
@@ -3835,7 +4041,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 180706,
       "name": "Sounds Familiar - French Version",
       "url": "https://open.spotify.com/track/3I2D0Kpbtr0oXvWGxYUScQ"
@@ -3915,7 +4121,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 262222,
       "name": "Summer is Gone",
       "url": "https://open.spotify.com/track/42zDdOjb59esXiwAEPkcUZ"
@@ -3933,7 +4139,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262222,
       "name": "Summer Is Gone",
       "url": "https://open.spotify.com/track/6L6LCfYY3czYJ5GBfhBqVU"
@@ -4035,6 +4241,24 @@
     {
       "album": {
         "name": "The Break",
+        "url": "https://open.spotify.com/album/2L1fCvBzR37z5XkmTERvVD"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183142,
+      "name": "The Break",
+      "url": "https://open.spotify.com/track/3i3MbescvvY7kxaQokuD1A"
+    },
+    {
+      "album": {
+        "name": "The Break",
         "url": "https://open.spotify.com/album/5FzGZk5IFH8u4ff4rxrt6h"
       },
       "artists": [
@@ -4045,7 +4269,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183142,
       "name": "The Break",
       "url": "https://open.spotify.com/track/7JMZlCsevBlClH6MMENrZL"
@@ -4063,7 +4287,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 226069,
       "name": "Time",
       "url": "https://open.spotify.com/track/4ku64DuJxzDo7NDWzMptlj"
@@ -4081,7 +4305,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226069,
       "name": "Time",
       "url": "https://open.spotify.com/track/678uB8SQ7ra2yUNvh8diwE"
@@ -4197,7 +4421,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222766,
       "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
       "url": "https://open.spotify.com/track/29Qo7Dcu3Z4c8zVAp03R0W"
@@ -4219,7 +4443,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 222766,
       "name": "Toujours des mensonges (feat. Vendredi sur Mer)",
       "url": "https://open.spotify.com/track/7LqTeSI33Tizgz6bOjMw3F"
@@ -4317,10 +4541,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223866,
       "name": "Un jour ou l'autre",
       "url": "https://open.spotify.com/track/1fpji19faOMgQeitY3cTWo"
+    },
+    {
+      "album": {
+        "name": "Un, Deux, Trois bonus",
+        "url": "https://open.spotify.com/album/2ebnQRp9u9K6PN7m1ntO3r"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Un jour ou l'autre",
+      "url": "https://open.spotify.com/track/1XBnw6OQh4m4Jn5UOhcSfV"
     },
     {
       "album": {

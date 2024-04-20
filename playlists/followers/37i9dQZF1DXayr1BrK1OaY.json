@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 216599,
+  "2024-04-20": 216653,
   "date_first_scraped": "2021-12-30",
   "description": "let the dj set u free",
   "name": "crying on the dance floor",
@@ -721,7 +721,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/1UiqtkLyYSF9RSXvkBskGy"
@@ -1064,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Change This Pain For Ecstasy",
+        "url": "https://open.spotify.com/album/08xHiG90YhACt4w637oTqn"
+      },
+      "artists": [
+        {
+          "name": "Rex The Dog",
+          "url": "https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207012,
+      "name": "Change This Pain For Ecstasy",
+      "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes - Spotify Singles",
         "url": "https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201588,
       "name": "Don't Fall in Love",
       "url": "https://open.spotify.com/track/08wEcfIEXMRvgzXVrOED8B"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7dGWQLlYtJszgqdSjxRgpL"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 197739,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 244174,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244480,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/4FjT3dqUW2Uq0R3pMz5V7C"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135000,
       "name": "Honest",
       "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
@@ -2395,10 +2413,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
+    },
+    {
+      "album": {
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
     },
     {
       "album": {
@@ -2695,7 +2739,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174344,
       "name": "Just Over",
       "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
@@ -2837,7 +2881,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Leave the Door Open",
       "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"
@@ -3157,7 +3201,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
@@ -3179,7 +3223,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
@@ -3281,6 +3325,28 @@
       "duration_ms": 289599,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3Uc2IHiwx7VHNMzvyTkRtA"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/2j9CkiAihOT1rZz6dR7pwa"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170070,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw"
     },
     {
       "album": {
@@ -3525,7 +3591,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234909,
       "name": "Never Be Like You (feat. Kai)",
       "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
@@ -3579,7 +3645,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
@@ -3597,7 +3663,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314389,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
@@ -3663,7 +3729,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
@@ -3743,6 +3809,24 @@
       "duration_ms": 226791,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
+    },
+    {
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "album": {
@@ -3877,7 +3961,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157461,
       "name": "on my mind",
       "url": "https://open.spotify.com/track/4tTgwybKE9Ybwj1CD0w7rD"
@@ -3965,7 +4049,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155076,
       "name": "OUT Of TiME",
       "url": "https://open.spotify.com/track/2SzOqvhFUxICiUZuLMYNl1"
@@ -4005,7 +4089,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40"
@@ -4023,7 +4107,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175628,
       "name": "Outside Of Love",
       "url": "https://open.spotify.com/track/7hWzCs92yu0fq5DCdNVlM5"
@@ -4209,7 +4293,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f"
@@ -4227,7 +4311,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 175312,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc"
@@ -4421,7 +4505,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162985,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6FWFxRT3c4FXWvMrDbp2V1"
@@ -5000,6 +5084,32 @@
     },
     {
       "album": {
+        "name": "Spaceman (ft. RIZ LA VIE)",
+        "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "Spaceman (ft. RIZ LA VIE)",
+      "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
+    },
+    {
+      "album": {
         "name": "What's Your Pleasure?",
         "url": "https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp"
       },
@@ -5081,7 +5191,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/0IvsPPZCccqEMfUTUI9bUM"
@@ -5107,10 +5217,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/4sHXKCcNR8CSifCNUhYwuW"
+    },
+    {
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "album": {
@@ -5359,7 +5487,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
@@ -5551,7 +5679,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 184790,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/2xAESeNiNvdIELcUJO5Wre"
@@ -5569,7 +5697,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184790,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/5aSo90L5qKIwdTDBO1YWJ2"
@@ -5613,7 +5741,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "THERE 4 U",
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
@@ -5918,6 +6046,24 @@
     },
     {
       "album": {
+        "name": "Vhs",
+        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
+    },
+    {
+      "album": {
         "name": "Miss Anthropocene",
         "url": "https://open.spotify.com/album/6PVARuXkH97DKHlhI5wzgq"
       },
@@ -5981,7 +6127,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171360,
       "name": "Wasted - Yuto. Remix",
       "url": "https://open.spotify.com/track/5h9FYgx3M1Gn23PeDcMRSb"
@@ -6179,6 +6325,24 @@
       "duration_ms": 215413,
       "name": "win your love",
       "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
+    },
+    {
+      "album": {
+        "name": "Yet",
+        "url": "https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Yet",
+      "url": "https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"
     },
     {
       "album": {

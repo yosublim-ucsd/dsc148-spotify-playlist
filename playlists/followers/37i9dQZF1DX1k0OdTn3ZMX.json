@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 39953,
+  "2024-04-20": 40032,
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now. Cover: Linkin Park",
+  "description": "n\u00fc-metal revival is happening here and now with From Ashes To New.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210132,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/6EVq7Odm1pcur4ERtZssv6"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 230839,
       "name": "Confessions Of The Fallen",
       "url": "https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230839,
       "name": "Confessions Of The Fallen",
       "url": "https://open.spotify.com/track/6Zfhv8jhS1PDGQySEGqPTs"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 241311,
       "name": "Dead World",
       "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241311,
       "name": "Dead World",
       "url": "https://open.spotify.com/track/5bvtxksI05MTxu62VRTNCO"
@@ -539,6 +539,24 @@
       "duration_ms": 170859,
       "name": "DEADZONE",
       "url": "https://open.spotify.com/track/6SvhGaXpd2pkUaAGyMJ3Uw"
+    },
+    {
+      "album": {
+        "name": "Necessary Darkness",
+        "url": "https://open.spotify.com/album/3F9I77amZjv9FRrCBoe4zE"
+      },
+      "artists": [
+        {
+          "name": "DEAR MOTHER",
+          "url": "https://open.spotify.com/artist/1i6SXeSvmfhKqHTAxQx5rg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Delusion",
+      "url": "https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11"
     },
     {
       "album": {
@@ -726,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Fake Ass Friends",
+        "url": "https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138142,
+      "name": "Fake Ass Friends",
+      "url": "https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC"
+    },
+    {
+      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb"
       },
@@ -835,7 +871,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179322,
       "name": "FR33K",
       "url": "https://open.spotify.com/track/1yto0d4mniW3a58qiOQZ2S"
@@ -1095,7 +1131,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108560,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/2KtmPuGbIHDGMZN16x9LG9"
@@ -1398,6 +1434,32 @@
     },
     {
       "album": {
+        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208054,
+      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
+    },
+    {
+      "album": {
         "name": "Operator",
         "url": "https://open.spotify.com/album/2Im99EnQocuboPDHectxjS"
       },
@@ -1427,7 +1489,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202862,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
@@ -1453,7 +1515,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 205742,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa"
@@ -1479,7 +1541,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205742,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb"
@@ -1533,7 +1595,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219775,
       "name": "PLAYING FAVORITES",
       "url": "https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t"
@@ -1555,6 +1617,24 @@
       "duration_ms": 236476,
       "name": "Push",
       "url": "https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Linda",
+        "url": "https://open.spotify.com/album/5ld8B0HseNBSGQiJyDAON5"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165866,
+      "name": "Qu\u00e9 Linda",
+      "url": "https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX"
     },
     {
       "album": {
@@ -2501,7 +2581,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209280,
       "name": "Zero",
       "url": "https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4"

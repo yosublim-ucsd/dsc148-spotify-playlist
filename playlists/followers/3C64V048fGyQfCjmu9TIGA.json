@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2169889,
+  "2024-04-20": 2164650,
   "date_first_scraped": "2022-06-10",
   "description": "The best of the 1990s classics, from TLC, Backstreet Boys, Destiny's Child, *NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.",
   "name": "90s HITS | TOP 100 SONGS",
@@ -2173,6 +2173,24 @@
       "duration_ms": 232720,
       "name": "Little Miss Can't Be Wrong",
       "url": "https://open.spotify.com/track/1uCqIhOePc6hDMG2ijk8sp"
+    },
+    {
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Little Miss Can't Be Wrong",
+      "url": "https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh"
     },
     {
       "album": {

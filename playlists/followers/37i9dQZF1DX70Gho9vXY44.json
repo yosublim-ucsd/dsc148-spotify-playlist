@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 22102,
+  "2024-04-20": 22110,
   "date_first_scraped": "2023-04-03",
   "description": "Desde la Sierra hasta el mar, Per\u00fa es una tierra de rimas y rap. Foto: Jaze",
   "name": "RAP\u00fablica Inca",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 206636,
       "name": "40 y Pico D\u00edas",
       "url": "https://open.spotify.com/track/3x5Fy8vx7ZJvLq4pygDbhm"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206636,
       "name": "40 y Pico D\u00edas",
       "url": "https://open.spotify.com/track/5jZqRZcOTr7JqEhS0T9rjT"
@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Inkas Tape",
+        "url": "https://open.spotify.com/album/2lRHt3grjs7S9gnMvHZIAV"
+      },
+      "artists": [
+        {
+          "name": "Inkas Mob",
+          "url": "https://open.spotify.com/artist/3pl31iTKhYPQIkQUHaqJcw"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306225,
+      "name": "A Tus Pies",
+      "url": "https://open.spotify.com/track/7K8DFgZNe3hxslD8IeRZCv"
+    },
+    {
+      "album": {
+        "name": "Inkas Tape",
         "url": "https://open.spotify.com/album/3CVhwr7XkEmr5o1TDcjvsb"
       },
       "artists": [
@@ -107,7 +125,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306259,
       "name": "A Tus Pies",
       "url": "https://open.spotify.com/track/6ZGMY21AwBCkS9cn5c0ySa"
@@ -167,6 +185,28 @@
     {
       "album": {
         "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0t8AnfjwnXloKKvk8346sL"
+      },
+      "artists": [
+        {
+          "name": "KID FLEX",
+          "url": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
+        },
+        {
+          "name": "Franco Banda",
+          "url": "https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/4Z3GWQHGWAqQhXxCk6tn0T"
+    },
+    {
+      "album": {
+        "name": "Ansiedad",
         "url": "https://open.spotify.com/album/2OEwOYmJLMRKlDlHOjT3I6"
       },
       "artists": [
@@ -181,7 +221,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146500,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6Sy9vpMMTuauIEfb2qgyzD"
@@ -247,10 +287,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171442,
       "name": "Barrio Bendito",
       "url": "https://open.spotify.com/track/53uMaGjlUaE30fD2vM0Pyj"
+    },
+    {
+      "album": {
+        "name": "Imperio Inka",
+        "url": "https://open.spotify.com/album/0v7iW4rFLdp8OP5NikalTX"
+      },
+      "artists": [
+        {
+          "name": "Inkas Mob",
+          "url": "https://open.spotify.com/artist/3pl31iTKhYPQIkQUHaqJcw"
+        },
+        {
+          "name": "Mono con Suerte",
+          "url": "https://open.spotify.com/artist/3dlte7LlzboxVC0xmoqSM7"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171442,
+      "name": "Barrio Bendito",
+      "url": "https://open.spotify.com/track/44ml9DMdElv1EZjmw9gzVH"
     },
     {
       "album": {
@@ -298,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Dos mil Siempre",
+        "url": "https://open.spotify.com/album/1knjzwM5Qj0fc367vUrKul"
+      },
+      "artists": [
+        {
+          "name": "Guerreros del Bajo",
+          "url": "https://open.spotify.com/artist/4M5LprEeIB6MoDmN2EJiss"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/00JwL20Ssq0oPNokLCX0ka"
+    },
+    {
+      "album": {
         "name": "Dos Mil Siempre",
         "url": "https://open.spotify.com/album/0xC4PASZS5Fnhpe0TLFIQn"
       },
@@ -309,10 +389,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268446,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6Vv1NoUZrc35AllBOJA9iJ"
+    },
+    {
+      "album": {
+        "name": "We Don't Play",
+        "url": "https://open.spotify.com/album/0weJOpKvaXLOmqd2cQK9Ik"
+      },
+      "artists": [
+        {
+          "name": "Rapper School",
+          "url": "https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt"
+        },
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295544,
+      "name": "Cantidad & Quality (feat. Canserbero)",
+      "url": "https://open.spotify.com/track/1FdOMPMHTWxXmT7kIkhSC2"
     },
     {
       "album": {
@@ -331,7 +433,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297657,
       "name": "Cantidad y Quality (feat. Cancerbero)",
       "url": "https://open.spotify.com/track/2ZtwyLSmuCO1QGXINW2aOC"
@@ -433,7 +535,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 223556,
       "name": "El Sonido de la Calle",
       "url": "https://open.spotify.com/track/7zfNW06BiZzXSPS8KdgM5u"
@@ -451,7 +553,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223570,
       "name": "El Sonido de la Calle",
       "url": "https://open.spotify.com/track/2eqXh2ldu5pBXE6frpjOvB"
@@ -517,10 +619,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296559,
       "name": "En la Esquina",
       "url": "https://open.spotify.com/track/0YqyxtCr5NuUgykyDDYaIC"
+    },
+    {
+      "album": {
+        "name": "TOTZY",
+        "url": "https://open.spotify.com/album/2cz6c0bNjZGVRXyTMPKeKP"
+      },
+      "artists": [
+        {
+          "name": "Inkas Mob, Young Eiby",
+          "url": "https://open.spotify.com/artist/7w6yzh5lcDr6NldS3DVzhS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296559,
+      "name": "En La Esquina",
+      "url": "https://open.spotify.com/track/26SllRo41se1K83kJkCuiL"
     },
     {
       "album": {
@@ -589,10 +709,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194098,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz"
+    },
+    {
+      "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/33ZiGzFhSsAJj5UJQgNl5i"
+      },
+      "artists": [
+        {
+          "name": "Miguel Guerrero",
+          "url": "https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194098,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6sVkcxtbmibIyphiQ2tvv9"
     },
     {
       "album": {
@@ -625,10 +763,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291088,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/0mFTxc2cynulWEqV0Z7W7n"
+    },
+    {
+      "album": {
+        "name": "Seriedad",
+        "url": "https://open.spotify.com/album/3ovynym8uNcbGdp9X5fSzB"
+      },
+      "artists": [
+        {
+          "name": "Terco92",
+          "url": "https://open.spotify.com/artist/2KUtIRV7tG4q4uyzHSkOqT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291088,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/2SJAJrgRR34z2f6pLp2R8v"
     },
     {
       "album": {
@@ -709,7 +865,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162613,
       "name": "Kaykunapi",
       "url": "https://open.spotify.com/track/5GPMzrfc5U7kU7qCB0kzt2"
@@ -727,10 +883,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 164023,
       "name": "Kaykunapi",
       "url": "https://open.spotify.com/track/1OkUdksTQFu3usuw5OGkb9"
+    },
+    {
+      "album": {
+        "name": "teRAPias",
+        "url": "https://open.spotify.com/album/6w2V106ibiMW4m0vR0lWNS"
+      },
+      "artists": [
+        {
+          "name": "Warrior Rapper School",
+          "url": "https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232875,
+      "name": "King Sin Queen",
+      "url": "https://open.spotify.com/track/5ex9Y5lOU59ihvvI6hUx2a"
     },
     {
       "album": {
@@ -745,7 +919,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234788,
       "name": "King Sin Queen",
       "url": "https://open.spotify.com/track/0bazCMOwUlba4PnBrpIAJv"
@@ -877,7 +1051,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 195666,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/3P1oz2LFj8VZqlLeOB8737"
@@ -895,7 +1069,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195666,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6S7BtVvZIiAIZ8bphLUCxE"
@@ -949,7 +1123,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 205228,
       "name": "Mirador de Estrellas",
       "url": "https://open.spotify.com/track/2kCAzvahD2dnMIdTY86kZ0"
@@ -967,7 +1141,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205228,
       "name": "Mirador de estrellas",
       "url": "https://open.spotify.com/track/4x2764vhtFTWjr5ACvXJzD"
@@ -1021,10 +1195,28 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186461,
       "name": "Monta\u00f1a",
       "url": "https://open.spotify.com/track/3P6k3BcsG53TuHUWsPnCz8"
+    },
+    {
+      "album": {
+        "name": "Monta\u00f1a",
+        "url": "https://open.spotify.com/album/1znfPiyBBw0XQMEyJLpB5O"
+      },
+      "artists": [
+        {
+          "name": "Lateral",
+          "url": "https://open.spotify.com/artist/5DIenL3nznzWs5Xc7EaVA3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Monta\u00f1a",
+      "url": "https://open.spotify.com/track/7DGTGBkoUXy8s5XXZlfdmq"
     },
     {
       "album": {
@@ -1097,7 +1289,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 189545,
       "name": "No Que No",
       "url": "https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI"
@@ -1119,7 +1311,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189545,
       "name": "No Que No",
       "url": "https://open.spotify.com/track/4DglXidRECKDeqeu9G6jfu"
@@ -1277,6 +1469,24 @@
     {
       "album": {
         "name": "Pasando las Horas",
+        "url": "https://open.spotify.com/album/3gDvoRouNZc8zBBzu40c3h"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Pasando las Horas",
+      "url": "https://open.spotify.com/track/1w0JO2wY2r26gXmSHGv73W"
+    },
+    {
+      "album": {
+        "name": "Pasando las Horas",
         "url": "https://open.spotify.com/album/2WuGgXOih9xQYEZRndYf9h"
       },
       "artists": [
@@ -1287,7 +1497,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166400,
       "name": "Pasando las Horas",
       "url": "https://open.spotify.com/track/7MSz1eDbAHC1Gec2bktwWK"
@@ -1423,10 +1633,32 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213263,
       "name": "Que Se Jodan",
       "url": "https://open.spotify.com/track/1BzgjrOrjBEd5GtJVFeRbD"
+    },
+    {
+      "album": {
+        "name": "teRAPias",
+        "url": "https://open.spotify.com/album/6w2V106ibiMW4m0vR0lWNS"
+      },
+      "artists": [
+        {
+          "name": "Warrior Rapper School",
+          "url": "https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8"
+        },
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211322,
+      "name": "Que Se Jodan (feat. Norick)",
+      "url": "https://open.spotify.com/track/61RWyEtsa3pfRO4oEWGVfr"
     },
     {
       "album": {
@@ -1497,6 +1729,24 @@
     {
       "album": {
         "name": "Reloj Vital",
+        "url": "https://open.spotify.com/album/10ZGmJPvJNxxIVuh8VDpHx"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224743,
+      "name": "Reloj Vital",
+      "url": "https://open.spotify.com/track/2Z21et2842A9rNrsNKHPc1"
+    },
+    {
+      "album": {
+        "name": "Reloj Vital",
         "url": "https://open.spotify.com/album/3gNxPvdAjHGwAKPU0N08cX"
       },
       "artists": [
@@ -1507,7 +1757,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224743,
       "name": "Reloj Vital",
       "url": "https://open.spotify.com/track/6Ai5U4htSh3Ln4QMqXYm7d"
@@ -1558,6 +1808,24 @@
     },
     {
       "album": {
+        "name": "Dos mil Siempre",
+        "url": "https://open.spotify.com/album/1knjzwM5Qj0fc367vUrKul"
+      },
+      "artists": [
+        {
+          "name": "Guerreros del Bajo",
+          "url": "https://open.spotify.com/artist/4M5LprEeIB6MoDmN2EJiss"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183980,
+      "name": "Sabanas",
+      "url": "https://open.spotify.com/track/4wXzk2CFEAh3T3pp6icYtW"
+    },
+    {
+      "album": {
         "name": "Dos Mil Siempre",
         "url": "https://open.spotify.com/album/0xC4PASZS5Fnhpe0TLFIQn"
       },
@@ -1569,7 +1837,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189053,
       "name": "Sabanas",
       "url": "https://open.spotify.com/track/5x0Ph9m3Dtzz38IyGC1AVM"
@@ -1631,10 +1899,46 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214640,
       "name": "Son Cosas",
       "url": "https://open.spotify.com/track/1UYvkIoRbxxiuSL4CNIdpu"
+    },
+    {
+      "album": {
+        "name": "Son Cosas",
+        "url": "https://open.spotify.com/album/4ns7SmrQvIjWtcFfqN8SVs"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "Son Cosas",
+      "url": "https://open.spotify.com/track/2r7btoSIVEmUFf8XnYGvr1"
+    },
+    {
+      "album": {
+        "name": "Rap Underground Profesional",
+        "url": "https://open.spotify.com/album/5ol6k5QpJxOnGxc4aTJNBD"
+      },
+      "artists": [
+        {
+          "name": "Warrior Rapper School",
+          "url": "https://open.spotify.com/artist/5BL81UunAE1uoEIIsxfvF8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238948,
+      "name": "S\u00e9 Bien",
+      "url": "https://open.spotify.com/track/3x5vdYPmybp1pPqvlmCGmG"
     },
     {
       "album": {
@@ -1649,7 +1953,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238948,
       "name": "S\u00e9 Bien",
       "url": "https://open.spotify.com/track/6rT41y4Nq8zSOn3KCBaTq2"
@@ -1703,10 +2007,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231160,
       "name": "Tranqui",
       "url": "https://open.spotify.com/track/3x8wYCHXsuCiDrlBynclp1"
+    },
+    {
+      "album": {
+        "name": "Tranqui",
+        "url": "https://open.spotify.com/album/61ffgQnuMXkTkB3uom71HG"
+      },
+      "artists": [
+        {
+          "name": "Jaze",
+          "url": "https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231191,
+      "name": "Tranqui",
+      "url": "https://open.spotify.com/track/2PEyFlJ91KiwVtqS2UiuGr"
     },
     {
       "album": {
@@ -1823,10 +2145,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174782,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/4bwee0MQwjJ0Dd8kDgFhlm"
+    },
+    {
+      "album": {
+        "name": "Vintage",
+        "url": "https://open.spotify.com/album/3IEqUoykNf6M88awxeQCWO"
+      },
+      "artists": [
+        {
+          "name": "Giru Mad Fleiva",
+          "url": "https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174782,
+      "name": "Vintage",
+      "url": "https://open.spotify.com/track/6eZbveFX0km5Smst90Y3pL"
     },
     {
       "album": {

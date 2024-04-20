@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDFkMWExZWEyNmQyODFiOGM1ZDkxMzE5ZGVkNzNiNDU4",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDZkM2E1OGUxYzhkMzBiMTE2OTNiNGNjOGE5MWNjN2Uy",
   "tracks": [
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Mystery Man",
-      "url": "https://open.spotify.com/track/5ReNpU1vhwaC4P2EWQ2SWy"
+      "duration_ms": 350733,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

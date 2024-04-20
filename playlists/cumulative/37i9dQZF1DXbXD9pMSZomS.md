@@ -4,7 +4,7 @@
 
 > Distorted and rough around the edges.
 
-252 songs - 20 hr 26 min
+253 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Feels Like](https://open.spotify.com/track/0toIIfv4yFxvmJKXqdkt0c) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Les Geddit](https://open.spotify.com/artist/42EKMIU9LxY94lUTBDLW4e) | [Beats On Boat: illiterate](https://open.spotify.com/album/54oaiRZEeMNtZvOhYIIG20) | 2:52 | 2021-12-17 | 2022-04-27 |
 | [Flightmode On](https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Beats On Boat: Made in M](https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS) | 5:39 | 2021-12-17 |  |
 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 | 2022-06-02 |  |
-| [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 | 2024-04-19 |  |
+| [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 | 2024-04-19 |  |
+| [Friday](https://open.spotify.com/track/3rhgzuZEWlCb5rQaW5QNUr) | [Kleinefrigo](https://open.spotify.com/artist/4Ds8tVensycYF6njpyIupZ) | [Friday](https://open.spotify.com/album/1aoCK3kkl8HdyVBOHALzLb) | 4:34 | 2024-04-19 | 2024-04-20 |
 | [Fry](https://open.spotify.com/track/08revyYzwNRYYkGSd2yhG5) | [Qnete](https://open.spotify.com/artist/6eHZuPnEu4u6l0pgV4yCEG) | [Fry](https://open.spotify.com/album/694VDVMaHPsH7BoGEIE1F4) | 2:26 | 2021-12-17 | 2022-07-26 |
 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 | 2023-06-01 | 2023-06-10 |
 | [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-12-17 | 2022-12-28 |

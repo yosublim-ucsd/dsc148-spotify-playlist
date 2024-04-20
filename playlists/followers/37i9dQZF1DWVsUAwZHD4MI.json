@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 59011,
+  "2024-04-20": 59006,
   "date_first_scraped": "2022-09-17",
   "description": "<a href=\"spotify:artist:3M3wTTCDwicRubwMyHyEDy\"> Shygirl</a>'s favorite tracks. Updated regularly. Curated by Shygirl. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Shygirl's track IDs",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212333,
       "name": "Blue Racecar",
       "url": "https://open.spotify.com/track/4tmsqsTyxgKUnGczXhBeLa"
@@ -219,11 +219,15 @@
         {
           "name": "Sassy 009",
           "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Sunniva Lindg\u00e5rd (Producer), Sunniva Lindg\u00e5rd (Composer), Andrew Murray Baardsen (Producer)",
+          "url": "https://open.spotify.com/artist/5cBNXQoN1r7meYakVaXiYS"
         }
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 212333,
       "name": "Blue Racecar",
       "url": "https://open.spotify.com/track/4vWY7fEgnUqsohnF5nwtMM"
@@ -285,7 +289,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193090,
       "name": "Catastral",
       "url": "https://open.spotify.com/track/0zahQZiY4j3EiwFxLd7rAO"
@@ -303,7 +307,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 193090,
       "name": "Catastral",
       "url": "https://open.spotify.com/track/3MEAIsuHmcUZCk5Qfp97Zl"
@@ -364,6 +368,24 @@
     },
     {
       "album": {
+        "name": "Signals In My Head",
+        "url": "https://open.spotify.com/album/3rDFYozg6jsHVOgUu7dl4s"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Club GTA",
+      "url": "https://open.spotify.com/track/226GZVbySRDSIpoHtlPAdz"
+    },
+    {
+      "album": {
         "name": "Signals in My Head",
         "url": "https://open.spotify.com/album/1SJo1a9KzyNnnwhjkHOb2n"
       },
@@ -411,7 +433,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246413,
       "name": "Club GTA",
       "url": "https://open.spotify.com/track/6kes8ME4oLfp6XoQ9aEOAc"
@@ -719,6 +741,24 @@
     {
       "album": {
         "name": "Gotta Let You Go",
+        "url": "https://open.spotify.com/album/6ROnWPiM15ldLTNrYpyBp6"
+      },
+      "artists": [
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382400,
+      "name": "Gotta Let You Go - Original '95 Club Mix",
+      "url": "https://open.spotify.com/track/5GX3HxuVnp2ligOAQJLWaP"
+    },
+    {
+      "album": {
+        "name": "Gotta Let You Go",
         "url": "https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR"
       },
       "artists": [
@@ -729,7 +769,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382400,
       "name": "Gotta Let You Go - Original '95 Club Mix",
       "url": "https://open.spotify.com/track/5hVAk39jFzjiYUPULpKkel"
@@ -820,6 +860,28 @@
     },
     {
       "album": {
+        "name": "High Enough",
+        "url": "https://open.spotify.com/album/32GE20xX3GCQzSn2dendGf"
+      },
+      "artists": [
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        },
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258698,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/4lBYIkArQFt2lyK5ejJnxN"
+    },
+    {
+      "album": {
         "name": "Neurofire",
         "url": "https://open.spotify.com/album/5T10lmEkcXlEh9IlroOM9f"
       },
@@ -835,32 +897,10 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258698,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/6xpdm3roD6pYv6J5NWBulx"
-    },
-    {
-      "album": {
-        "name": "High Enough (feat. Tiara Thomas)",
-        "url": "https://open.spotify.com/album/32GE20xX3GCQzSn2dendGf"
-      },
-      "artists": [
-        {
-          "name": "Kingdom",
-          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
-        },
-        {
-          "name": "Tiara Thomas",
-          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
-        }
-      ],
-      "date_added": "2022-09-05",
-      "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
-      "duration_ms": 258698,
-      "name": "High Enough (feat. Tiara Thomas)",
-      "url": "https://open.spotify.com/track/4lBYIkArQFt2lyK5ejJnxN"
     },
     {
       "album": {
@@ -923,7 +963,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129169,
       "name": "Horns",
       "url": "https://open.spotify.com/track/0NPF9SWerJXZrOBP4TmHkm"
@@ -941,7 +981,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 129169,
       "name": "Horns",
       "url": "https://open.spotify.com/track/0rcyKRZTyfM0y6qmDPH548"
@@ -977,7 +1017,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124380,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/3OIOeas9lS9BiwXH9a0Y2d"
@@ -1049,7 +1089,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 124343,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/3qvABg4NERkjpCIs8BVFJC"
@@ -1257,7 +1297,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235426,
       "name": "Lalala (Want Somebody) - X-Coast Remix",
       "url": "https://open.spotify.com/track/6pFXqXNC6q4e0qxODk7Hr6"
@@ -1279,7 +1319,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 235428,
       "name": "Lalala (Want Somebody) - X-Coast Remix",
       "url": "https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn"
@@ -1395,10 +1435,28 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312933,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/3SdXO2B5AVG6BDHiS7dOH6"
+    },
+    {
+      "album": {
+        "name": "Night Works",
+        "url": "https://open.spotify.com/album/3P5IxDoyVaExcDP8IcGkK1"
+      },
+      "artists": [
+        {
+          "name": "Layo & Bushwacka!",
+          "url": "https://open.spotify.com/artist/4XO18kRHLT6F5RhomZGrpc"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312933,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/6g99OTGhJ4BnXDHerdufGR"
     },
     {
       "album": {
@@ -1443,6 +1501,28 @@
     {
       "album": {
         "name": "Mugler",
+        "url": "https://open.spotify.com/album/3P6pnV1TtJowjF9wjwYtBA"
+      },
+      "artists": [
+        {
+          "name": "Housewife 9",
+          "url": "https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM"
+        },
+        {
+          "name": "Soso Zelda",
+          "url": "https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "Mugler",
+      "url": "https://open.spotify.com/track/1klbppIovZXKWFRhqEJ2lb"
+    },
+    {
+      "album": {
+        "name": "Mugler",
         "url": "https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF"
       },
       "artists": [
@@ -1457,7 +1537,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151914,
       "name": "Mugler",
       "url": "https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi"
@@ -1839,10 +1919,28 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154869,
       "name": "Princess Diana",
       "url": "https://open.spotify.com/track/2doammtCiLQMD8LXIKl4OE"
+    },
+    {
+      "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154869,
+      "name": "Princess Diana",
+      "url": "https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC"
     },
     {
       "album": {
@@ -1955,10 +2053,32 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186666,
       "name": "Sana Sana",
       "url": "https://open.spotify.com/track/234Pt4fwI6ObMlqbbHcuaH"
+    },
+    {
+      "album": {
+        "name": "Is It Real",
+        "url": "https://open.spotify.com/album/6BhKdy0E0l1mPhsEnKCiuP"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3izihMDKL79AuUhqhlGEnj"
     },
     {
       "album": {
@@ -2049,7 +2169,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 208960,
       "name": "Silver Surfer - Original Short Mix",
       "url": "https://open.spotify.com/track/1gP8rVBBao6qibrpqxKFWM"
@@ -2067,7 +2187,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208960,
       "name": "Silver Surfer - Original Short Mix",
       "url": "https://open.spotify.com/track/3gsLvZziN9ghF1mjxjM7h7"
@@ -2147,7 +2267,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
@@ -2165,7 +2285,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 544093,
       "name": "Spin Spin Sugar - Armands Dark Garage Mix",
       "url": "https://open.spotify.com/track/2sNJyLDDk7WXLtr1XpgjVY"
@@ -2231,6 +2351,24 @@
     {
       "album": {
         "name": "Trinity",
+        "url": "https://open.spotify.com/album/0NjpedEWmXVlxHhLl7nTor"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184505,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/0Sbxha3C1QZNRBmzVyQawE"
+    },
+    {
+      "album": {
+        "name": "Trinity",
         "url": "https://open.spotify.com/album/2Rs0kFucNpFQVVjFxrt9e9"
       },
       "artists": [
@@ -2259,7 +2397,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184505,
       "name": "Supersoaker",
       "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
@@ -2321,7 +2459,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 236558,
       "name": "Testarossa",
       "url": "https://open.spotify.com/track/4HfyaFz85yjeikeF3l6Y0W"
@@ -2339,7 +2477,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236558,
       "name": "Testarossa",
       "url": "https://open.spotify.com/track/4NyxjOX2aMNPAmSmrxY9PJ"
@@ -2397,7 +2535,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130815,
       "name": "Tic",
       "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
@@ -2410,12 +2548,12 @@
       "artists": [
         {
           "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+          "url": "https://open.spotify.com/artist/1aseLj4QFDOcwred7QYo3a"
         }
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 130816,
       "name": "Tic",
       "url": "https://open.spotify.com/track/6rhaQghzTIhGhwebTAe0hD"
@@ -2571,7 +2709,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx"
@@ -2593,7 +2731,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"

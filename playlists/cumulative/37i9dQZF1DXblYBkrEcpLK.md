@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
 
-648 songs - 1 day 19 hr 20 min
+649 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5 seconds ago](https://open.spotify.com/track/2dWpeauDYzZ5kfl6OOn9gk) | [東 八千穂\(CV:稗田寧々\)](https://open.spotify.com/artist/4JSFkjTr98Px1NKZH6a8on) | [5 seconds ago](https://open.spotify.com/album/3ELRgYerX3smXzYWTIwnS3) | 3:45 | 2024-02-01 | 2024-02-03 |
 | [65535](https://open.spotify.com/track/6Inn2sWeIORMSAVnwdrRkw) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [65535](https://open.spotify.com/album/6ZoU2pym8PqrNtmFpnuimw) | 3:13 | 2023-10-03 | 2023-10-18 |
 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-11 |
-| [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2022-07-07 |  |
+| [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2022-07-07 | 2024-04-20 |
 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 | 2023-10-17 | 2023-11-02 |
 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 | 2022-07-28 | 2023-12-20 |
 | [again](https://open.spotify.com/track/7EUSByOz1UUx78lLDxfxRQ) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [again](https://open.spotify.com/album/2HyLlRf8I4km4ZgIdP8VtA) | 4:17 | 2022-10-03 | 2022-11-13 |
@@ -639,6 +639,7 @@
 | [透明シンガー](https://open.spotify.com/track/4P9DbhVv54fNieI3DJkFw1) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [透明シンガー](https://open.spotify.com/album/73yWqC1fwnccaD2Xw2Wen7) | 2:55 | 2022-06-21 | 2022-06-24 |
 | [透明人間](https://open.spotify.com/track/2ePc0yN0MmzIhA6tUEGtz1) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [la valigia](https://open.spotify.com/album/7AFaeistpx8sxk0353ddN2) | 4:09 | 2023-03-07 | 2023-04-12 |
 | [運命](https://open.spotify.com/track/5HcWjVIBsq3YvW8Xy3j9zA) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [運命](https://open.spotify.com/album/7jtl7cfldtQ6yQDult4cic) | 3:59 | 2024-04-16 |  |
+| [運命ちゃん](https://open.spotify.com/track/6hrFluMqAYUB7708EnnpiN) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [運命ちゃん](https://open.spotify.com/album/4a7LxWB47pTyCvLdK7LvJj) | 3:16 | 2024-04-16 |  |
 | [金剛石ヒューマン](https://open.spotify.com/track/2milpEt1Cqg5CXgslp330L) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [金剛石ヒューマン](https://open.spotify.com/album/7fZhONIwSAWa164nz3jZoM) | 4:09 | 2023-06-13 | 2023-06-15 |
 | [銀河鉄道999](https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia) | [Photon Maiden](https://open.spotify.com/artist/0CsTVU9j8C5nXwgIWyCjMm) | [D4DJ Groovy Mix カバートラックス \(vol.3\)](https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB) | 3:47 | 2022-06-12 | 2022-07-16 |
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 126382,
+  "2024-04-20": 126385,
   "date_first_scraped": "2023-02-14",
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
   "name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 218322,
       "name": "El Okd",
       "url": "https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288000,
       "name": "Enta Ekhtyar - From Bhabak Movie",
       "url": "https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 316880,
       "name": "Etamen",
       "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
@@ -1945,7 +1945,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155998,
       "name": "Habitha Ya Nas - From Bhabak Movie",
       "url": "https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1"
@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225000,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ"
@@ -2677,6 +2677,24 @@
       "duration_ms": 130285,
       "name": "Maktoob Aleina",
       "url": "https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601"
+    },
+    {
+      "album": {
+        "name": "Saharna Ya Lail",
+        "url": "https://open.spotify.com/album/0CgH3MIOquvKzvCsh0MR0i"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316969,
+      "name": "Maktooba Leek",
+      "url": "https://open.spotify.com/track/0M0j8QVE5DE2kg8xjK2BJ2"
     },
     {
       "album": {
@@ -3443,7 +3461,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
@@ -3483,6 +3501,24 @@
       "duration_ms": 220588,
       "name": "W Nefdal Norkos",
       "url": "https://open.spotify.com/track/31bpBRmlNCe4XFvci7EXNW"
+    },
+    {
+      "album": {
+        "name": "Lealy Nahary",
+        "url": "https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg"
+      },
+      "artists": [
+        {
+          "name": "Amr Diab",
+          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237296,
+      "name": "Wahashtiny",
+      "url": "https://open.spotify.com/track/0VvgXZ8N5JZziGhvzdRZDo"
     },
     {
       "album": {
@@ -3814,6 +3850,24 @@
     },
     {
       "album": {
+        "name": "Hala Khasa Gedan",
+        "url": "https://open.spotify.com/album/0MA5maRPOVZeQDw78MDadR"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332531,
+      "name": "Yaretak Fahemni",
+      "url": "https://open.spotify.com/track/4rwFKwkUgiavWjJlHBlr4J"
+    },
+    {
+      "album": {
         "name": "Yom Min el Ayyam",
         "url": "https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9"
       },
@@ -3865,6 +3919,24 @@
       "duration_ms": 204200,
       "name": "Zayaha Meen",
       "url": "https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi"
+    },
+    {
+      "album": {
+        "name": "Zayyo Tani",
+        "url": "https://open.spotify.com/album/11WjHbnypl5Se90ozg0RoE"
+      },
+      "artists": [
+        {
+          "name": "Pousi",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205779,
+      "name": "Zayyo Tani",
+      "url": "https://open.spotify.com/track/6QcRW2RF2qAix4a1GT11V5"
     },
     {
       "album": {
@@ -4023,7 +4095,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218322,
       "name": "\u0627\u0644\u0639\u0642\u062f",
       "url": "https://open.spotify.com/track/57Nvx4s6yYRyaIO1V6tF1R"
@@ -4207,7 +4279,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289123,
       "name": "\u0628\u0637\u0645\u0646\u0643",
       "url": "https://open.spotify.com/track/4AqmPix9i32pQb33bsSWYG"
@@ -4243,7 +4315,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257278,
       "name": "\u0628\u0643\u0644\u0645\u0647 \u0645\u0646\u0643",
       "url": "https://open.spotify.com/track/3uuHB0RCzRGtja8A6YciOB"
@@ -5047,7 +5119,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316969,
       "name": "\u0645\u0643\u062a\u0648\u0628\u0647 \u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/1VLOZmKRWbsZ00VC6YhHxo"
@@ -5119,7 +5191,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237296,
       "name": "\u0648\u062d\u0634\u062a\u064a\u0646\u0649",
       "url": "https://open.spotify.com/track/3Fqohea4ItnRfb8uNdD4XZ"
@@ -5231,6 +5303,28 @@
       "duration_ms": 190545,
       "name": "\u064a\u0648\u0645 \u0645\u0627 \u062c\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/0APfVkcFTt08Beh57ILcdo"
+    },
+    {
+      "album": {
+        "name": "\u0663\u0660 \u062d\u064a\u0627\u0629",
+        "url": "https://open.spotify.com/album/6lGUTiWhKmZMStRv2obKbJ"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        },
+        {
+          "name": "Maha Ftouni",
+          "url": "https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318132,
+      "name": "\u0663\u0660 \u062d\u064a\u0627\u0629",
+      "url": "https://open.spotify.com/track/2uhzCIW1KnPv465S7myMQx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYFV1CnuXO8v"

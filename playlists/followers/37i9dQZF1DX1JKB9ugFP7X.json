@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 24027,
+  "2024-04-20": 24018,
   "date_first_scraped": "2023-10-15",
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
   "name": "ElectroPop",
@@ -371,10 +371,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279600,
       "name": "Caribbean",
       "url": "https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz"
+    },
+    {
+      "album": {
+        "name": "Chicos de la Luz",
+        "url": "https://open.spotify.com/album/6Mh5DKubjomT2XxaSMCILY"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279602,
+      "name": "Caribbean",
+      "url": "https://open.spotify.com/track/6etFpoM9bw0PU094PMLGvL"
     },
     {
       "album": {
@@ -731,7 +749,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/1mbA8WPUU8vUQzjyULTTCd"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-11",
+      "date_removed": null,
       "duration_ms": 179950,
       "name": "Dir\u00e9 tu nombre",
       "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
@@ -847,10 +865,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311386,
       "name": "El Magnetismo",
       "url": "https://open.spotify.com/track/4RJpJjhEH1yFizM4CGD65Z"
+    },
+    {
+      "album": {
+        "name": "El Magnetismo",
+        "url": "https://open.spotify.com/album/3ZKaxyKkBsW1cE4YRux5th"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311386,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/5GcdywutbP0uMkrYnbW9NL"
     },
     {
       "album": {
@@ -919,7 +955,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 246144,
       "name": "En la Torre - AV Remix",
       "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
@@ -1145,7 +1181,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157974,
       "name": "Grana",
       "url": "https://open.spotify.com/track/5PL1SaEHcnb50LJ7itQgNO"
@@ -1181,7 +1217,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
@@ -1207,6 +1243,28 @@
       "duration_ms": 205838,
       "name": "I SEE U LATER",
       "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
+    },
+    {
+      "album": {
+        "name": "Im a Star",
+        "url": "https://open.spotify.com/album/1zebOb5UkfBDAj19xWBgBx"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147510,
+      "name": "Im a Star",
+      "url": "https://open.spotify.com/track/1As9E1SkTEgCyggNXDwjbB"
     },
     {
       "album": {
@@ -1319,7 +1377,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217066,
       "name": "Locura",
       "url": "https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK"
@@ -1337,7 +1395,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 371735,
       "name": "Lucidez",
       "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
@@ -1485,7 +1543,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226464,
       "name": "M\u00edstico Mezcal",
       "url": "https://open.spotify.com/track/4uEvTqHD3KEO7xXuawTSWG"
@@ -1621,7 +1679,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 185187,
       "name": "Noche de Vampiros",
       "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
@@ -1797,7 +1855,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 225746,
       "name": "PARQUE DE LA COSTA",
       "url": "https://open.spotify.com/track/6YAn9OEzg7816kMXnXUYA4"
@@ -2153,7 +2211,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "Sola por la Ciudad",
       "url": "https://open.spotify.com/track/1UH3xWxB8T2kTZlg37tfFs"
@@ -2255,7 +2313,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Todas las Luces - Remix",
       "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
@@ -2429,7 +2487,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198085,
       "name": "Viuda Negra",
       "url": "https://open.spotify.com/track/1iT5jMsGoXWKm1CNwna2kf"
@@ -2469,7 +2527,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Voces",
       "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
@@ -2487,7 +2545,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208095,
       "name": "Volver",
       "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"

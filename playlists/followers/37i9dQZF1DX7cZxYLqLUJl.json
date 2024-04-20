@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 213733,
+  "2024-04-20": 231075,
   "date_first_scraped": "2021-12-21",
   "description": "Wake up at your own pace with gentle piano music.",
   "name": "Wake Up Gently",
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120504,
       "name": "Coziness",
       "url": "https://open.spotify.com/track/4IGPH1ThB3YMjgC6oevUEW"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 120504,
       "name": "Coziness",
       "url": "https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218132,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/52GQU2qUtb25jJEmg9hYcU"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218133,
       "name": "Look Inside Yourself",
       "url": "https://open.spotify.com/track/4UoQyXltWDTbKhz839QILK"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142700,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142706,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "Snefri",
       "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Snefri",
       "url": "https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq"

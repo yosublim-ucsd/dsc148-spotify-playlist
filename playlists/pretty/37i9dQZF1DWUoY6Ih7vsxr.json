@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 260368,
+  "num_followers": 260507,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Oh! - The Second Album",
-        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Gee",
-      "url": "https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 179808,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Oh! - The Second Album",
+        "url": "https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Gee",
+      "url": "https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Give It To Me (2)",
-        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201325,
-      "name": "Give it to me",
-      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Mr. Mr. - The 4th Mini Album",
         "url": "https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 235434,
       "name": "Mr.Mr.",
       "url": "https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Give It To Me (2)",
+        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "Give it to me",
+      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "SHAKE IT",
-        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "SHAKE IT",
-      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -555,22 +539,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Bluetory",
         "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
@@ -583,6 +551,38 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "SHAKE IT",
+        "url": "https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "SHAKE IT",
+      "url": "https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "ALONE",
-        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 193613,
       "name": "Mr.",
       "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
         }
       ],
-      "duration_ms": 186017,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
+      "duration_ms": 206266,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "INSANE LOVE",
-        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
       "artists": [
         {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 221371,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -823,22 +823,6 @@
       "duration_ms": 230546,
       "name": "Genie",
       "url": "https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -875,22 +859,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Fiction And Fact",
-        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
-      },
-      "artists": [
-        {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "On Rainy Days",
-      "url": "https://open.spotify.com/track/4Cdyx3bs8mMYVJWP3wHPXj"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 203711,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/546Y4NAdcGBeOpMWOvuJdw"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Fiction And Fact",
+        "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "On Rainy Days",
+      "url": "https://open.spotify.com/track/4Cdyx3bs8mMYVJWP3wHPXj"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
       "artists": [
         {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 217887,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
+      "duration_ms": 218566,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1035,18 +1035,34 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/2umEcxQ6ifyPQrjNRfSSvm"
       },
       "artists": [
         {
-          "name": "Beast",
-          "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 218566,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+      "duration_ms": 217887,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/21CJvM7HXrI80aDHz2MES4"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Bluelove",
+        "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "duration_ms": 227996,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1067,22 +1083,6 @@
       "duration_ms": 218347,
       "name": "TTL (Time To Love)",
       "url": "https://open.spotify.com/track/4Mpl9b4soNq6nILUkDTZZv"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "Bluelove",
-        "url": "https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU"
-      },
-      "artists": [
-        {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
-        }
-      ],
-      "duration_ms": 227996,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Rising Sun - 2nd Album",
-        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
       "artists": [
         {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
         }
       ],
-      "duration_ms": 282066,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
+      "duration_ms": 207466,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+        "name": "Rising Sun - 2nd Album",
+        "url": "https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
+      "duration_ms": 282066,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl"
     },
     {
       "added_at": "2024-03-27 14:24:46",

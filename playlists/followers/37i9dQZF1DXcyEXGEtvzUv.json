@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 29537,
+  "2024-04-20": 29539,
   "date_first_scraped": "2022-07-17",
   "description": "O melhor do rap e a m\u00fasica urbana em 2023. Foto: T-Rex.",
   "name": "Na Zona: O melhor de 2023",
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 165860,
       "name": "ALKiMISTA",
       "url": "https://open.spotify.com/track/3vUNW5Gx2cNtRJ9feEtt0G"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165860,
       "name": "ALKiMISTA",
       "url": "https://open.spotify.com/track/4ARK0Ed7CfqpvHEeBUw81F"
@@ -271,7 +271,7 @@
     {
       "album": {
         "name": "ANTI$$OCIAL",
-        "url": "https://open.spotify.com/album/3FIMB4lpk1qQnGhXx0aARf"
+        "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
       },
       "artists": [
         {
@@ -286,6 +286,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194505,
+      "name": "ANTI$$OCIAL",
+      "url": "https://open.spotify.com/track/2zYzywRBJleWk5sOWWMjwp"
+    },
+    {
+      "album": {
+        "name": "ANTI$$OCIAL",
+        "url": "https://open.spotify.com/album/3FIMB4lpk1qQnGhXx0aARf"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 194505,
       "name": "ANTI$$OCIAL",
       "url": "https://open.spotify.com/track/6Su25sW12rzNjK3b3yLt9r"
@@ -935,10 +957,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204814,
       "name": "DIAMANTE",
       "url": "https://open.spotify.com/track/5E5Co00dGF0ZWCt4shJSl2"
+    },
+    {
+      "album": {
+        "name": "ANTI$$OCIAL",
+        "url": "https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204814,
+      "name": "DIAMANTE",
+      "url": "https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ"
     },
     {
       "album": {
@@ -1849,7 +1893,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 185147,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/0pDYDKL7Gsd333bEcEgtLO"
@@ -1871,7 +1915,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185147,
       "name": "M\u00e9xico",
       "url": "https://open.spotify.com/track/5XNSavvdx12XYwdMFWIy4S"

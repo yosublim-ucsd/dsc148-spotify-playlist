@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 164057,
+  "num_followers": 164145,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Ja sagen",
-        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 268515,
       "name": "So wie du bist",
       "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -275,18 +275,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Immer in Bewegung",
-        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
       "artists": [
         {
-          "name": "Revolverheld",
-          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Ich lass f\u00fcr dich das Licht an",
-      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -307,22 +311,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+        "name": "Immer in Bewegung",
+        "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "Revolverheld",
+          "url": "https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0"
         }
       ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+      "duration_ms": 212520,
+      "name": "Ich lass f\u00fcr dich das Licht an",
+      "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Laut Gedacht (Re-Edition)",
         "url": "https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 193200,
       "name": "Kaum Erwarten",
       "url": "https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Herz",
-        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
-      },
-      "artists": [
-        {
-          "name": "Rosenstolz",
-          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Liebe ist alles",
-      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Herz",
+        "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
+      },
+      "artists": [
+        {
+          "name": "Rosenstolz",
+          "url": "https://open.spotify.com/artist/2nacZFQ7nlwSw4RpsZlbpP"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Liebe ist alles",
+      "url": "https://open.spotify.com/track/6EatiOQBv70o94sr2oTHLB"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Tanz Der Molek\u00fcle",
-        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
-      },
-      "artists": [
-        {
-          "name": "Mia.",
-          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Tanz der Molek\u00fcle - Single Version",
-      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Nur zu Besuch",
         "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 178423,
       "name": "Versprich mir du gehst",
       "url": "https://open.spotify.com/track/3aQJMAHkaEFNt2fD9JvDXa"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Tanz Der Molek\u00fcle",
+        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
+      },
+      "artists": [
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Tanz der Molek\u00fcle - Single Version",
+      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
     },
     {
       "added_at": "2024-02-09 07:01:34",

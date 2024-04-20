@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 8032,
+  "2024-04-20": 8039,
   "date_first_scraped": "2023-09-29",
   "description": "D\u00e9tendez vous avec ces chansons tranquilles pour toute la famille",
   "name": "Temps calme",
   "tracks": [
+    {
+      "album": {
+        "name": "\u00c0 la faveur de l'automne / Le sacre des Lemmings, et autres contes de la lisi\u00e8re",
+        "url": "https://open.spotify.com/album/2h32MXQ9FQQoYI9i23dREE"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "A la faveur de l'automne",
+      "url": "https://open.spotify.com/track/32tTZwLVOL2TtNV0o5j7li"
+    },
     {
       "album": {
         "name": "Chaise pliante",
@@ -17,7 +35,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1"
@@ -35,7 +53,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO"
@@ -104,6 +122,28 @@
     },
     {
       "album": {
+        "name": "Beat Bugs: Best Of Seasons 1 & 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/3uX8io8RokH3S3NEW612EG"
+      },
+      "artists": [
+        {
+          "name": "The Beat Bugs",
+          "url": "https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151906,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/39GbSCrIorvWBEa7nEgEOG"
+    },
+    {
+      "album": {
         "name": "The Beat Bugs: Complete Season 1 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/27avWEEaNMlHSAAe6KQzdm"
       },
@@ -119,7 +159,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152146,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/0FgkcJWhDUyqpHDcj0jzp2"
@@ -162,6 +202,28 @@
     },
     {
       "album": {
+        "name": "Dernier m\u00e9tro",
+        "url": "https://open.spotify.com/album/7HXfYxfGEUudrIET62rw8O"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223005,
+      "name": "Dernier m\u00e9tro",
+      "url": "https://open.spotify.com/track/3Ve1aLkT81Gst4tDlFPdbh"
+    },
+    {
+      "album": {
         "name": "Mi Vida (Edition de No\u00ebl)",
         "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
       },
@@ -177,7 +239,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223013,
       "name": "Dernier m\u00e9tro",
       "url": "https://open.spotify.com/track/7J8XJt5KveebN0DzWXrbgQ"
@@ -202,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Les Frangines (Version deluxe)",
+        "url": "https://open.spotify.com/album/73qTrwDmiJbnZUfCm2bZ3S"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Donnez-moi",
+      "url": "https://open.spotify.com/track/0kbDehgfwaDX6HBnl5hoyq"
+    },
+    {
+      "album": {
         "name": "Les Frangines (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
       },
@@ -213,7 +293,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214293,
       "name": "Donnez-moi",
       "url": "https://open.spotify.com/track/2057R2gFq9MZfTzej3tSwS"
@@ -271,10 +351,46 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246173,
       "name": "Facile",
       "url": "https://open.spotify.com/track/5DPmVIialQzVljzeuBksmM"
+    },
+    {
+      "album": {
+        "name": "Facile",
+        "url": "https://open.spotify.com/album/4LBojIjeEQ9gdFYH5VUXqq"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Facile",
+      "url": "https://open.spotify.com/track/2yfbi9kGboXXeMVJfHvaFa"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1S1NJXGjE6yBGIq2PhVKyE"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/77vgQcXbwX5C4oapmx6phI"
     },
     {
       "album": {
@@ -289,7 +405,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221120,
       "name": "Father And Son",
       "url": "https://open.spotify.com/track/476V2d6iA2tWXgQboKmTtA"
@@ -325,10 +441,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141653,
       "name": "Here Comes the Sun",
       "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
+    },
+    {
+      "album": {
+        "name": "Here Comes the Sun",
+        "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
     },
     {
       "album": {
@@ -571,10 +705,32 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211933,
       "name": "Les choses simples",
       "url": "https://open.spotify.com/track/0yK76aiiD1jttDY6HSmnkx"
+    },
+    {
+      "album": {
+        "name": "Nouvelle page",
+        "url": "https://open.spotify.com/album/5PIKD9PXYxnG7M3JSJKcSk"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        },
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Les choses simples",
+      "url": "https://open.spotify.com/track/63oSGdyQWGMaGfVdkuoJ1A"
     },
     {
       "album": {
@@ -629,10 +785,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230768,
       "name": "Les plan\u00e8tes",
       "url": "https://open.spotify.com/track/71I3Tqq9fCOSceVpluOqJN"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Les plan\u00e8tes",
+      "url": "https://open.spotify.com/track/5MYDvUdIBOCX3a42L85kM3"
     },
     {
       "album": {
@@ -781,7 +955,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
@@ -799,10 +973,32 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire (Transcendance)",
+        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Reste",
+      "url": "https://open.spotify.com/track/2vruJV9zbgg0CE1x14vVFW"
     },
     {
       "album": {
@@ -821,10 +1017,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231520,
       "name": "Reste",
       "url": "https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI"
+    },
+    {
+      "album": {
+        "name": "Claudio Cap\u00e9o",
+        "url": "https://open.spotify.com/album/364wBf3b5hKbH0NigrUGuj"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Riche",
+      "url": "https://open.spotify.com/track/4TU1lPrTpHYLffIlkx8xnX"
     },
     {
       "album": {
@@ -839,7 +1053,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245053,
       "name": "Riche",
       "url": "https://open.spotify.com/track/3UbgnZgbLpsrpPzSBq7JBK"
@@ -1031,7 +1245,7 @@
     {
       "album": {
         "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
       "artists": [
         {
@@ -1044,7 +1258,43 @@
       "date_removed": null,
       "duration_ms": 233800,
       "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
       "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"
+    },
+    {
+      "album": {
+        "name": "Des ombres et des lumi\u00e8res",
+        "url": "https://open.spotify.com/album/0rpr3y7br4UziFb8pY1HjR"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "Ton visage",
+      "url": "https://open.spotify.com/track/5EqwOeakccoyefDI9n77ZQ"
     },
     {
       "album": {
@@ -1059,7 +1309,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159146,
       "name": "Ton visage",
       "url": "https://open.spotify.com/track/1B8txXLeZkGA65JwmENUGD"
@@ -1077,10 +1327,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209546,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
+    },
+    {
+      "album": {
+        "name": "Upside Down (UK MaxiSingEnhanced)",
+        "url": "https://open.spotify.com/album/0aCRJrY78QHUIJSqxOhwFW"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/4JWZTNlLBlNoa5t7qn1M8i"
     },
     {
       "album": {
@@ -1124,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "I Believe in Little Things",
+        "url": "https://open.spotify.com/album/1uinrEFIJaxI9mjybo0DFj"
+      },
+      "artists": [
+        {
+          "name": "Diana Panton",
+          "url": "https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348826,
+      "name": "When You Wish Upon a Star",
+      "url": "https://open.spotify.com/track/2qC4zeqyQ4qUPM3WoK8OYe"
+    },
+    {
+      "album": {
         "name": "I Believe In Little Things",
         "url": "https://open.spotify.com/album/1FlKW25Y5D6l8fTeuCqq8E"
       },
@@ -1135,7 +1421,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348826,
       "name": "When You Wish Upon A Star",
       "url": "https://open.spotify.com/track/3qoIxlw9BCybS73pNyWPJp"
@@ -1171,10 +1457,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131550,
       "name": "You've Got a Friend in Me - Acoustic",
       "url": "https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo"
+    },
+    {
+      "album": {
+        "name": "Simply Acoustic",
+        "url": "https://open.spotify.com/album/6jME1f4YIAyrphCw1Gnpov"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131550,
+      "name": "You've Got a Friend in Me - Acoustic",
+      "url": "https://open.spotify.com/track/4qguXyFtrO4F64yKOAjqNf"
     },
     {
       "album": {
@@ -1189,7 +1493,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"

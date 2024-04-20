@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 74467,
+  "2024-04-20": 74460,
   "date_first_scraped": "2023-05-04",
   "description": "Faye Webster invites us into her world. Welcome to <a href=\"spotify:genre:0JQ5IMCbQBLz83ugJwU5zb\">mixtape</a>, a curator's playground.",
   "name": "Mixtape",
@@ -267,7 +267,7 @@
     {
       "album": {
         "name": "DSU",
-        "url": "https://open.spotify.com/album/5vLZ3lKEpbRyjTIFPrdGwU"
+        "url": "https://open.spotify.com/album/7mcmdIquDOA2QT8h1SSZpg"
       },
       "artists": [
         {
@@ -278,6 +278,24 @@
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 141373,
+      "name": "After Ur Gone",
+      "url": "https://open.spotify.com/track/1nli52hDC3vtMXw5nFRo6W"
+    },
+    {
+      "album": {
+        "name": "DSU",
+        "url": "https://open.spotify.com/album/5vLZ3lKEpbRyjTIFPrdGwU"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 141373,
       "name": "After Ur Gone",
       "url": "https://open.spotify.com/track/5BjwwMwWSp2Zv7O8oYrz8N"

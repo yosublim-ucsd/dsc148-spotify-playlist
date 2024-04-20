@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13643,
+  "2024-04-20": 13694,
   "date_first_scraped": "2023-06-15",
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
   "name": "Rimas Frescas ",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172584,
       "name": "1/2",
       "url": "https://open.spotify.com/track/1x5WEARAe6hryUBkb6TxRw"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146896,
       "name": "A Buen Entendedor",
       "url": "https://open.spotify.com/track/7s9p5mKXsGoScWsQCbYAs4"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193103,
       "name": "Ahora Me Llamas?",
       "url": "https://open.spotify.com/track/0TNizA9ajRISlMeOHuVarM"
@@ -2827,7 +2827,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 184665,
       "name": "De Por Vida",
       "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184665,
       "name": "De Por Vida",
       "url": "https://open.spotify.com/track/3zWgcYQdN7dC6jj0zrHbpG"
@@ -3489,6 +3489,28 @@
       "duration_ms": 150000,
       "name": "EL POINT",
       "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
+    },
+    {
+      "album": {
+        "name": "El Principio",
+        "url": "https://open.spotify.com/album/4EuEto6ohaUw9ycUf1oTrD"
+      },
+      "artists": [
+        {
+          "name": "Santo Dinero",
+          "url": "https://open.spotify.com/artist/6CU1phuKZ3rraHv35m5ehB"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304500,
+      "name": "El Principio",
+      "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
     },
     {
       "album": {
@@ -4533,7 +4555,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177951,
       "name": "Hermano",
       "url": "https://open.spotify.com/track/0cMsTMfVDkcsHnsQrsYeUC"
@@ -4947,6 +4969,24 @@
       "duration_ms": 227000,
       "name": "JOSEAR",
       "url": "https://open.spotify.com/track/0kqVbc8GrAUQo6zAee7CP1"
+    },
+    {
+      "album": {
+        "name": "Juega Vivo",
+        "url": "https://open.spotify.com/album/1hYuX32YL4KwBgR7wRrI2W"
+      },
+      "artists": [
+        {
+          "name": "Yorking HB",
+          "url": "https://open.spotify.com/artist/0I23ZjoDqCuvH7tyxEkg8d"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "Juega Vivo",
+      "url": "https://open.spotify.com/track/5YbfB34AhHdk7Wuy4m6EJB"
     },
     {
       "album": {
@@ -6825,6 +6865,28 @@
     {
       "album": {
         "name": "Mentiras",
+        "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186197,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3BFMCd9jnedms4JQMOtvVp"
+    },
+    {
+      "album": {
+        "name": "Mentiras",
         "url": "https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK"
       },
       "artists": [
@@ -6967,6 +7029,28 @@
       "duration_ms": 156765,
       "name": "Mi Historia",
       "url": "https://open.spotify.com/track/2dCRn3HuYqnp8Q8tmTJ2Ja"
+    },
+    {
+      "album": {
+        "name": "NOS CRUZAS EN EL POGO",
+        "url": "https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "Zica",
+          "url": "https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "MI PROP\u00d3SITO",
+      "url": "https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc"
     },
     {
       "album": {
@@ -10031,7 +10115,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247741,
       "name": "Se\u00f1ales de Humo",
       "url": "https://open.spotify.com/track/4fKB4aYQsMDfQjZQ2NskwW"
@@ -10961,6 +11045,28 @@
       "duration_ms": 178257,
       "name": "Tu Tu",
       "url": "https://open.spotify.com/track/4wsUPhojb4szqoJdIaL6H6"
+    },
+    {
+      "album": {
+        "name": "T\u00e9 Con Miel",
+        "url": "https://open.spotify.com/album/5fK00gfjMpU3hRUsIC9ryP"
+      },
+      "artists": [
+        {
+          "name": "Aerstame",
+          "url": "https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213940,
+      "name": "T\u00e9 Con Miel",
+      "url": "https://open.spotify.com/track/6s0hTXicqoUdVHSndFNtBx"
     },
     {
       "album": {

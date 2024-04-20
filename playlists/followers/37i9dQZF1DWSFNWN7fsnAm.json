@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 48766,
+  "2024-04-20": 48786,
   "date_first_scraped": "2022-09-15",
   "description": "Listen to <a href=\"spotify:artist:1yqxFtPHKcGcv6SXZNdyT9\">MK</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "MK's track IDs",
@@ -949,7 +949,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 195238,
       "name": "Carinito",
       "url": "https://open.spotify.com/track/03o1pHoBNemisYIUKQc7fl"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195238,
       "name": "Carinito",
       "url": "https://open.spotify.com/track/5EpvbFauycnBBetl4rWoKu"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205984,
       "name": "Destination",
       "url": "https://open.spotify.com/track/5hzWqytXNxnHaeLegfBz3Q"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 205984,
       "name": "Destination",
       "url": "https://open.spotify.com/track/62eI2hOnUOkiHMtACKkqq2"
@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/0695hoA5qD0zkIqMxhAbIy"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 371250,
       "name": "Handy Work",
       "url": "https://open.spotify.com/track/1AXDyDxGiXpAUQb5UmTLu8"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209763,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/0Hmx0QkNOUiknki09OuoC4"
@@ -2255,7 +2255,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 209763,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
@@ -2767,7 +2767,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 201172,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR"
@@ -2895,7 +2895,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346666,
       "name": "NYWTF (feat. Mikhail Beltran) - Extended",
       "url": "https://open.spotify.com/track/0ZIKaQSGwLOoXydXAbgyIy"
@@ -2917,7 +2917,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 346666,
       "name": "NYWTF feat. Mikhail Beltran - Extended",
       "url": "https://open.spotify.com/track/5p0VT1dh3lG8WXpzMe0Bqb"
@@ -3723,7 +3723,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 395640,
       "name": "Supersonic - Extended",
       "url": "https://open.spotify.com/track/55j0vJoGmb8MRo8gZJuhfh"
@@ -3741,7 +3741,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 395640,
       "name": "Supersonic - Extended",
       "url": "https://open.spotify.com/track/7lLqJhSUebhBXkC0n16rQr"
@@ -3817,7 +3817,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198603,
       "name": "Take My Chance",
       "url": "https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA"
@@ -3835,7 +3835,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 198603,
       "name": "Take My Chance",
       "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"
@@ -4325,7 +4325,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 390476,
       "name": "We Will Forgive Ourselves - MK Dub",
       "url": "https://open.spotify.com/track/1iZtXObHD0IQjLF8iIto11"
@@ -4347,7 +4347,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 390476,
       "name": "We Will Forgive Ourselves - MK Dub",
       "url": "https://open.spotify.com/track/6me8qFVKAY7UiZSKGwR7gI"

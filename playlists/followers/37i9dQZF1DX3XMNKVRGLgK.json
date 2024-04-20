@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 21127,
+  "2024-04-20": 21142,
   "date_first_scraped": "2022-10-02",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
   "name": "Nigel Sylvester's Taste",
@@ -289,10 +289,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211496,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH"
+    },
+    {
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
     },
     {
       "album": {
@@ -361,7 +379,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 82000,
       "name": "queens shit.",
       "url": "https://open.spotify.com/track/5toMvCZhvEO17MAejy7f4P"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264866,
       "name": "The Roc (Just Fire)",
       "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
@@ -487,7 +505,7 @@
       },
       "artists": [
         {
-          "name": "Cam\u2019ron",
+          "name": "Cam'ron",
           "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
         },
         {
@@ -501,7 +519,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 264866,
       "name": "The Roc (Just Fire)",
       "url": "https://open.spotify.com/track/0SYGpsMlXdLve9bMNFLnAf"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256706,
       "name": "Who Gon Stop Me",
       "url": "https://open.spotify.com/track/2eqOjSC8dY1iFrQiJGPDOX"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 256706,
       "name": "Who Gon Stop Me",
       "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226220,
       "name": "You're Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-01",
+      "date_removed": null,
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 28719,
+  "2024-04-20": 28729,
   "date_first_scraped": "2022-09-09",
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
   "name": "Jazz Italia",
@@ -545,7 +545,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206797,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/3lFSMND54Kqc6sVBBlqHkC"
@@ -882,6 +882,24 @@
     },
     {
       "album": {
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
+    },
+    {
+      "album": {
         "name": "Av\u00f2",
         "url": "https://open.spotify.com/album/7DP5eWGJUI7hxPMYv9Co54"
       },
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275093,
       "name": "Av\u00f2",
       "url": "https://open.spotify.com/track/4MLHNowxBayqfnt4iFy2Jb"
@@ -1552,6 +1570,24 @@
     },
     {
       "album": {
+        "name": "Don't Beat a Dead Horse",
+        "url": "https://open.spotify.com/album/3qMzzSjhqedavi6i5BrMRa"
+      },
+      "artists": [
+        {
+          "name": "Livio Bartolo",
+          "url": "https://open.spotify.com/artist/77MxqsmJIxcfyJlWMKwPQ4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294693,
+      "name": "Campomarino",
+      "url": "https://open.spotify.com/track/5NRZ8uiQUWGtaKOUzoo4qX"
+    },
+    {
+      "album": {
         "name": "Altera limes",
         "url": "https://open.spotify.com/album/7JwQhhTpkgxOZ4lQ2g2mIl"
       },
@@ -1703,7 +1739,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
@@ -1859,7 +1895,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161920,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2O2TWBdW6bHRpNqOV9UpBa"
@@ -2015,7 +2051,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216773,
       "name": "Controvento",
       "url": "https://open.spotify.com/track/0POCITSdyoT7p8xxb4sls0"
@@ -2221,6 +2257,24 @@
       "duration_ms": 329471,
       "name": "Dance Of Equality",
       "url": "https://open.spotify.com/track/3dF8QBW5KNTgltLFU6vSaJ"
+    },
+    {
+      "album": {
+        "name": "Preludi - Libro primo (Piano solo)",
+        "url": "https://open.spotify.com/album/0yDZuE0p0IKF2vzNZ1M36A"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Giachero",
+          "url": "https://open.spotify.com/artist/7nfMKW2ylTfNw4r4XvjgMT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268026,
+      "name": "Danza armena",
+      "url": "https://open.spotify.com/track/2aBLmxEtEqmHzjw6VO8FHb"
     },
     {
       "album": {
@@ -2668,6 +2722,28 @@
     },
     {
       "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Bosso",
+          "url": "https://open.spotify.com/artist/1Y8kr8EHj08yZJHAWyQxoQ"
+        },
+        {
+          "name": "Sergio Cammariere",
+          "url": "https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388854,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "album": {
         "name": "Cantautore piccolino",
         "url": "https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq"
       },
@@ -2679,7 +2755,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 386653,
       "name": "Estate",
       "url": "https://open.spotify.com/track/5C9nneUkf6RBJqhhHKkyr3"
@@ -2989,7 +3065,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217500,
       "name": "Flower Rain",
       "url": "https://open.spotify.com/track/5hDKM0AWQKlvqvIe6FUhmP"
@@ -3793,7 +3869,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230483,
       "name": "How Do We Know We're Alive",
       "url": "https://open.spotify.com/track/1XTwr6ilGmc7M7xL0CwLiY"
@@ -4644,6 +4720,24 @@
     },
     {
       "album": {
+        "name": "From Another Planet",
+        "url": "https://open.spotify.com/album/1jfPaCTbMFqvqNmALY2JHf"
+      },
+      "artists": [
+        {
+          "name": "Federico Calcagno & The Dolphians",
+          "url": "https://open.spotify.com/artist/26WUNCvc7Bk7aRYZ8Lfnp6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344688,
+      "name": "Jim Crow Suite - Jim Crow",
+      "url": "https://open.spotify.com/track/6CejMbr3nOgIrXXhxbGbgy"
+    },
+    {
+      "album": {
         "name": "1920 - Achille Lauro & The Untouchable Band",
         "url": "https://open.spotify.com/album/6GrQVc0SulD2PzzJM1iXEC"
       },
@@ -5301,7 +5395,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214479,
       "name": "Le mani ti raccontano",
       "url": "https://open.spotify.com/track/32GYthwjvCKi9XVOhxdq4L"
@@ -5743,7 +5837,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 184213,
       "name": "Looping",
       "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
@@ -5951,7 +6045,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 556480,
       "name": "Madiba's World",
       "url": "https://open.spotify.com/track/7h6ARCoB3suQ5dMXu7famg"
@@ -6365,7 +6459,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 222391,
       "name": "Movimento Astratto",
       "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
@@ -7131,7 +7225,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223016,
       "name": "Ostron Koma",
       "url": "https://open.spotify.com/track/63N52mfv6vLedqudN6L0eo"
@@ -7848,6 +7942,24 @@
     },
     {
       "album": {
+        "name": "The Best Things in Life Are Free",
+        "url": "https://open.spotify.com/album/5fFgV5nPvBxmL47oXjd41l"
+      },
+      "artists": [
+        {
+          "name": "Stefano Battaglia Standards Quartet",
+          "url": "https://open.spotify.com/artist/3IvNH4Q36UL0IAqhIzBXDu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306026,
+      "name": "Round Trip",
+      "url": "https://open.spotify.com/track/7v6Jix3IyG0h006U00CbUJ"
+    },
+    {
+      "album": {
         "name": "Les fleurs bleues",
         "url": "https://open.spotify.com/album/0Ps7ksvo1zOjTNA3DzAb8C"
       },
@@ -8081,6 +8193,40 @@
       "duration_ms": 297867,
       "name": "Sen",
       "url": "https://open.spotify.com/track/2acx5TtuRlhvY2kdp30czp"
+    },
+    {
+      "album": {
+        "name": "Milestones - Un Incontro In Jazz",
+        "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
+      },
+      "artists": [
+        {
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
+        },
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+        },
+        {
+          "name": "Rosario Bonaccorso",
+          "url": "https://open.spotify.com/artist/39tl1r5eyobzeSaCOiWyMt"
+        },
+        {
+          "name": "Roberto Gatto",
+          "url": "https://open.spotify.com/artist/6tIWJmvLweVkGTqWVByg70"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438346,
+      "name": "Senza Fine",
+      "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
     },
     {
       "album": {
@@ -8831,10 +8977,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208066,
       "name": "That Old Black Magic",
       "url": "https://open.spotify.com/track/4h5GePlHdEXeGmrPBru2cT"
+    },
+    {
+      "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/3XXHWtBulLdFVGD8zW0oO2"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208066,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/6u1M0I5QpMequyfFxna5fL"
     },
     {
       "album": {
@@ -10307,10 +10471,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233160,
       "name": "Ziza",
       "url": "https://open.spotify.com/track/2jFUhbdMvf2BHxq6DyjBvW"
+    },
+    {
+      "album": {
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
+      },
+      "artists": [
+        {
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "album": {

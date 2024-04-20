@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 134511,
+  "2024-04-20": 134490,
   "date_first_scraped": "2022-07-19",
   "description": "Canciones instrumentales de guitarra.",
   "name": "Guitarra Tranquila",
@@ -417,7 +417,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 201363,
       "name": "Ain't Nothing But A Mistake",
       "url": "https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2"
@@ -4627,7 +4627,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144078,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/6xXgL3PxqD9B3jxDwaQotd"
@@ -7901,7 +7901,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123937,
       "name": "Origins",
       "url": "https://open.spotify.com/track/2v86cHUt2Dv7pCdGinwLaB"
@@ -10695,7 +10695,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 176170,
       "name": "The Longing",
       "url": "https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c"

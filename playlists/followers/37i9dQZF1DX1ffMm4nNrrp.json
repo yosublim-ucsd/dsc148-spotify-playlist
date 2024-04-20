@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 22626,
+  "2024-04-20": 22716,
   "date_first_scraped": "2023-10-03",
   "description": "<a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=Dk6TQfF2Sr-c6CbKcBHboA\">DBN Gogo</a>'s favorite tracks. Updated regularly. Curated by DBN Gogo. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "DBN Gogo's track IDs",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 417857,
       "name": "3310",
       "url": "https://open.spotify.com/track/3VrQOiUF58HYGeWgwGI7Cy"
@@ -51,7 +51,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 417857,
       "name": "3310",
       "url": "https://open.spotify.com/track/4KPKcnNee8ynOSLcmWAVYZ"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 377159,
       "name": "Daily Paper",
       "url": "https://open.spotify.com/track/6BdVmPtF9ADkPb2Ewn1gDg"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377159,
       "name": "Daily Paper (feat. Papa Ghana)",
       "url": "https://open.spotify.com/track/3tWMQ8T3KdkvNqMftOS1Wz"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 696490,
       "name": "Funa",
       "url": "https://open.spotify.com/track/5PQ89CWyL1abb0jv2bNFRn"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 696490,
       "name": "Funa (feat. TBO and JaySax)",
       "url": "https://open.spotify.com/track/2ZOoMZSkaUYGmjVoBWlqyF"
@@ -775,10 +775,36 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 481424,
       "name": "Gumbaya (feat. Denny Dugg) - Kelvin Momo's Soulful Piano Remix",
       "url": "https://open.spotify.com/track/4jVC0GW0rBrbfhc4j1rECr"
+    },
+    {
+      "album": {
+        "name": "Momo's Private School",
+        "url": "https://open.spotify.com/album/4ppJgnUqEaGcX5BKH42SOZ"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        },
+        {
+          "name": "Denny Dugg",
+          "url": "https://open.spotify.com/artist/0qTN1YC7cVx8qDuPw2xFJB"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481424,
+      "name": "Gumbaya (Kelvin Momo's Soulful Piano Remix)",
+      "url": "https://open.spotify.com/track/3sPyRe14BIjugkdHVWmE18"
     },
     {
       "album": {
@@ -805,7 +831,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 369475,
       "name": "GUPTA",
       "url": "https://open.spotify.com/track/3ZDWlHNxPkVcjhRWJUvPz0"
@@ -835,7 +861,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 369475,
       "name": "GUPTA (feat. Lady Du and Mellow and Sleazy)",
       "url": "https://open.spotify.com/track/1UImI56BbRlXsyhauJcD0s"
@@ -1003,7 +1029,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 461797,
       "name": "Intliziyo",
       "url": "https://open.spotify.com/track/3cXiWlWCds62z3ieuwPQsN"
@@ -1029,7 +1055,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 461797,
       "name": "Intliziyo (feat. Sino Msolo)",
       "url": "https://open.spotify.com/track/2Cf5HCgcUy8nxExQwHrep4"
@@ -1101,6 +1127,44 @@
     {
       "album": {
         "name": "Banyana",
+        "url": "https://open.spotify.com/album/2k5u0sNv2ERDu8eAIvRCC1"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Mpura",
+          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445714,
+      "name": "Izolo",
+      "url": "https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42"
+    },
+    {
+      "album": {
+        "name": "Banyana",
         "url": "https://open.spotify.com/album/1H0Us4t0RJOtulhONf5bQp"
       },
       "artists": [
@@ -1131,7 +1195,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 445714,
       "name": "Izolo (feat. Madumane, Mpura & Daliwonga)",
       "url": "https://open.spotify.com/track/2lM7orFD058wiAiBixzffm"
@@ -1337,9 +1401,9 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 237176,
-      "name": "Kwenzekile",
+      "name": "kwenzekile",
       "url": "https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J"
     },
     {
@@ -1363,7 +1427,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237176,
       "name": "kwenzekile",
       "url": "https://open.spotify.com/track/7o59zOj65EXAznoRu39lel"
@@ -1467,6 +1531,40 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/2QSTVPPOkg9s1setcZYExC"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Mpura",
+          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Visca",
+          "url": "https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO"
+        }
+      ],
+      "date_added": "2024-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379285,
+      "name": "Ngwana Mani",
+      "url": "https://open.spotify.com/track/4RZSQxWuovabz4QCWbFQh8"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/7gU2ikb7TomRHH6VLidoXe"
       },
       "artists": [
@@ -1493,7 +1591,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 379285,
       "name": "Ngwana Mani (feat. Madumane, Mpura, Kabza De Small & Visca)",
       "url": "https://open.spotify.com/track/72bZ6mmiHJyHQCKz3zf6wG"
@@ -1657,7 +1755,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 403975,
       "name": "SJEPA",
       "url": "https://open.spotify.com/track/1AIDip3K6hTanmj65dKHV7"
@@ -1683,7 +1781,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403975,
       "name": "SJEPA",
       "url": "https://open.spotify.com/track/5yQeYSKfQs51i1mVo9GvvT"
@@ -1883,7 +1981,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 443091,
       "name": "uMlando",
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"
@@ -1929,7 +2027,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 443091,
       "name": "uMlando (feat. Sir Trill, Sino Msolo, Lady Du, Young Stunna and Slade)",
       "url": "https://open.spotify.com/track/1cVJfZtRjx5PrtUIQrSzHv"

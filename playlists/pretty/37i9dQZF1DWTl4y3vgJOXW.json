@@ -1,13 +1,29 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in. Cover: De'Aaron Fox",
-  "num_followers": 3231688,
+  "num_followers": 3231855,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDc0Yjk2ODRkOGRiNTViZmY4MTJiNDUxNDQ3YmI4ODZj",
+  "snapshot_id": "MTcxMzU0MjQwMCwwMDAwMDAwMDUyNGRkNGFlMjg5Y2E1NjExMDdiYjNhNzM5ODg5ZTYx",
   "tracks": [
+    {
+      "added_at": "2024-04-19 16:00:00",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {

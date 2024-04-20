@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Ellui, Richboy Hardy\)
 
-323 songs - 17 hr 57 min
+324 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Quiz](https://open.spotify.com/track/2WvHcLvA1JVVljJH9wT5RF) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Quiz](https://open.spotify.com/album/13gI4MN1K937wF0aqKJ1vd) | 3:08 | 2024-01-08 |  |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-11-29 |
 | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/album/06k52VffVztZNVAkF1fENg) | 4:08 | 2024-03-15 |  |
+| [Re \(Feat\. Leellamarz\)](https://open.spotify.com/track/489WdoslgFRu6bgI3CGKOF) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Re \(Feat\. Leellamarz\)](https://open.spotify.com/album/5z4KcU9tzN8s2vS61RMwnX) | 3:17 | 2024-04-19 |  |
 | [Re: 14 \(feat\. Minjeong\)](https://open.spotify.com/track/4DmGa6XvEJuWdywgs6mxlK) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Minjeong](https://open.spotify.com/artist/61tWd17tvt3qHk7PlrTVpv) | [New Edition 49](https://open.spotify.com/album/5I95HLTug1H3xEj0mx3tSP) | 3:30 | 2023-03-27 | 2023-04-28 |
 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 | 2022-07-04 | 2022-11-15 |
 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 | 2022-05-28 | 2022-08-03 |

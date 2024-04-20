@@ -1,95 +1,95 @@
 {
-  "2024-04-19": 203599,
+  "2024-04-20": 203677,
   "date_first_scraped": "2022-09-06",
   "description": "Enjoy Music From \"JoJo's Bizarre Adventure\" series! \u30b8\u30e7\u30b8\u30e7\u306e\u6b74\u4ee3\u95a2\u9023\u697d\u66f2\u304c\u4e00\u5802\u306b\u4f1a\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9LUCKY LAND COMMUNICATIONS/\u96c6\u82f1\u793e\u30fb\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967aSO\u88fd\u4f5c\u59d4\u54e1\u4f1a",
   "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a -JOJO's Bizarre Adventure-\u30b7\u30ea\u30fc\u30ba",
   "tracks": [
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 2473874,
       "name": "#01 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u5c0f\u91ce\u5927\u8f14\u300c\u5f90\u502b\u00d7\u627f\u592a\u90ce\u3000\u89aa\u5b50\u5f79\u5bfe\u8ac7\u300d",
       "url": "https://open.spotify.com/episode/7L05z3dhNxgffDvcWpUpaY"
     },
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1753573,
       "name": "#02 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u7530\u6751\u7766\u5fc3\u300c\u30a8\u30eb\u30e1\u30a7\u30b9\u306e\u9b45\u529b\u3001\u30a2\u30d5\u30ec\u30b3\u30a8\u30d4\u30bd\u30fc\u30c9\u306b\u8feb\u308b\uff01\u300d",
       "url": "https://open.spotify.com/episode/0WPl6ifx7qiYpdvPkFNims"
     },
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1605694,
       "name": "#03 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u7530\u6751\u7766\u5fc3\u300c\u5f90\u502b\u00d7\u30a8\u30eb\u30e1\u30a7\u30b9\u3001\u30b9\u30bf\u30f3\u30c9\u30c8\u30fc\u30af\u300d",
       "url": "https://open.spotify.com/episode/1Nc00D2ymuK4rQhbDqEEh3"
     },
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1620009,
       "name": "#04 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u4f0a\u702c\u8309\u8389\u4e5f\u300c\u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u306e\u9b45\u529b\u3001\u5f90\u502b\u00d7\u30a8\u30eb\u30e1\u30a7\u30b9\u00d7\u30d5\u30fc\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u30ba\u30013\u4eba\u306e\u7d46\u3092\u8a9e\u308b\u300d",
       "url": "https://open.spotify.com/episode/2RkTUBkH3MwjXH6B3uzboy"
     },
     {
       "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
-        "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
       },
       "artists": [
         {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3\u3010\u30d6\u30eb\u30fc\u30ed\u30c3\u30af\u3011",
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u8ee2\u751f\u3057\u305f\u3089\u30b9\u30e9\u30a4\u30e0\u3060\u3063\u305f\u4ef6\u3011",
           "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-20",
+      "date_removed": null,
       "duration_ms": 1512855,
       "name": "#05 \u3010\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3\u3011\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044\u00d7\u4f0a\u702c\u8309\u8389\u4e5f\u300c\u3082\u3057\u3082\u30b9\u30bf\u30f3\u30c9\u80fd\u529b\u306b\u76ee\u899a\u3081\u305f\u3089\uff1f\u3042\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u306b\u306a\u308c\u305f\u3089\uff1f\u300d",
       "url": "https://open.spotify.com/episode/5frW066KZUflTu2SiGy1Fh"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245586,
       "name": "Akuyaku Kyousoukyoku",
       "url": "https://open.spotify.com/track/4pudEMQK6XARck35F3exSf"
@@ -151,10 +151,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96827,
       "name": "Akuyaku Kyousoukyoku - Hol Horse&Boingo - TV edit",
       "url": "https://open.spotify.com/track/5XuNJS2K8eJn4hCK7O5LU4"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a O.S.T Battle Tendency [leicht verwendbar]",
+        "url": "https://open.spotify.com/album/72i3cDJpDso05bMzPQKTtO"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "awake",
+      "url": "https://open.spotify.com/track/0pxzDUEn0AMwBMiVIMBKWZ"
     },
     {
       "album": {
@@ -169,7 +187,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201626,
       "name": "awake",
       "url": "https://open.spotify.com/track/1qqbzYjbflz9oo0nwqrKSz"
@@ -187,10 +205,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261920,
       "name": "BLOODY STREAM",
       "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+    },
+    {
+      "album": {
+        "name": "BLOODY STREAM",
+        "url": "https://open.spotify.com/album/7tdCbxollpP6J8F7PuPyUv"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "BLOODY STREAM",
+      "url": "https://open.spotify.com/track/3qzkfEqjbRJ2kWyT6uebt8"
     },
     {
       "album": {
@@ -205,10 +241,46 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309426,
       "name": "BLOODY STREAM - mito remix ver.",
       "url": "https://open.spotify.com/track/2Dw8K5XY626FqVFi1TqAkH"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (2)",
+        "url": "https://open.spotify.com/album/5Wt00VWCuKtFUnlciNG91T"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309426,
+      "name": "BLOODY STREAM - \u301cmito remix ver.\u301c",
+      "url": "https://open.spotify.com/track/5ZU05Ue18ggCGTI3wLqiZv"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8 O.S.T (vol.1 Overture)",
+        "url": "https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144862,
+      "name": "canzoni preferite",
+      "url": "https://open.spotify.com/track/22pURPCv8K4XGzM7q1b8Rb"
     },
     {
       "album": {
@@ -223,10 +295,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144862,
       "name": "Canzoni preferite",
       "url": "https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077"
+    },
+    {
+      "album": {
+        "name": "chase",
+        "url": "https://open.spotify.com/album/5Q5mg7x7f1iQ8w5CzOhNCa"
+      },
+      "artists": [
+        {
+          "name": "batta",
+          "url": "https://open.spotify.com/artist/5vyNgIKfSHb5dvDvDXupGL"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "chase",
+      "url": "https://open.spotify.com/track/5QKiW2Oogj7T5KoI1Wcl2u"
     },
     {
       "album": {
@@ -241,10 +331,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145400,
       "name": "chase",
       "url": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (2)",
+        "url": "https://open.spotify.com/album/5Wt00VWCuKtFUnlciNG91T"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269613,
+      "name": "Crazy my Beat",
+      "url": "https://open.spotify.com/track/1Ede7hqh9UORZs0pjqVfbC"
     },
     {
       "album": {
@@ -259,10 +367,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269613,
       "name": "Crazy my Beat",
       "url": "https://open.spotify.com/track/7oerymdzyu2uCo4HVzdNF8"
+    },
+    {
+      "album": {
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "url": "https://open.spotify.com/album/7qPAJuYABhEaSyBXx6tvCF"
+      },
+      "artists": [
+        {
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "CRAZY NOISY BIZARRE TOWN",
+      "url": "https://open.spotify.com/track/17ak2L9hb5BXExDRRZ1owi"
     },
     {
       "album": {
@@ -277,7 +403,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186720,
       "name": "CRAZY NOISY BIZARRE TOWN",
       "url": "https://open.spotify.com/track/2TsyTag2aNa4wmUNmExzcI"
@@ -295,10 +421,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187573,
       "name": "CRAZY NOISY BIZARRE TOWN - EDM ARRANGE VER.",
       "url": "https://open.spotify.com/track/2HR8ujhAog0t1TE4gBAROy"
+    },
+    {
+      "album": {
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "url": "https://open.spotify.com/album/7qPAJuYABhEaSyBXx6tvCF"
+      },
+      "artists": [
+        {
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "CRAZY NOISY BIZARRE TOWN - EDM ARRANGE VER.",
+      "url": "https://open.spotify.com/track/5TTC2xlrrZs7oM2TCYp0No"
     },
     {
       "album": {
@@ -313,7 +457,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247880,
       "name": "Diamond is unbreakable - Main Theme",
       "url": "https://open.spotify.com/track/6GqMQUzxuTG88y5WZ0HYLr"
@@ -331,10 +475,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190520,
       "name": "Diamond is unbreakable - Stand Hatsudo",
       "url": "https://open.spotify.com/track/5DOen5nBZ36iOcLAKuFAv9"
+    },
+    {
+      "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305666,
+      "name": "Distant Dreamer",
+      "url": "https://open.spotify.com/track/0czRI0qwOQDe1tIIrsvkaK"
     },
     {
       "album": {
@@ -349,7 +511,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305666,
       "name": "Distant Dreamer",
       "url": "https://open.spotify.com/track/1uqXrzulcVflfeZDHbyjIs"
@@ -385,10 +547,46 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253185,
       "name": "Fighting Gold",
       "url": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
+    },
+    {
+      "album": {
+        "name": "Fighting Gold",
+        "url": "https://open.spotify.com/album/6NN3fciOweTHrNdMBYtW1g"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253185,
+      "name": "Fighting Gold",
+      "url": "https://open.spotify.com/track/7mjio4U2J4q19ArbF9jI58"
+    },
+    {
+      "album": {
+        "name": "\u5cb8\u8fba\u9732\u4f34\u306f\u52d5\u304b\u306a\u3044",
+        "url": "https://open.spotify.com/album/6Tz6u4qIofyA5Aw7br3n3A"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237014,
+      "name": "FINDING THE TRUTH",
+      "url": "https://open.spotify.com/track/3unFVpFI2rulvvFZ3rGqWX"
     },
     {
       "album": {
@@ -403,7 +601,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237014,
       "name": "FINDING THE TRUTH",
       "url": "https://open.spotify.com/track/52lYgkdeCJhWlNdII4xUsh"
@@ -421,10 +619,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269640,
       "name": "Fire of Soul",
       "url": "https://open.spotify.com/track/0q7qskWlWOcVBQgDkAtzQc"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (1)",
+        "url": "https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269640,
+      "name": "Fire of Soul",
+      "url": "https://open.spotify.com/track/5wyTWqBkG7c6XJPIsHcE13"
     },
     {
       "album": {
@@ -461,10 +677,32 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243376,
       "name": "Great Days",
       "url": "https://open.spotify.com/track/1Ub6VfiTXgyV8HnsfzrZzC"
+    },
+    {
+      "album": {
+        "name": "Great Days",
+        "url": "https://open.spotify.com/album/5V2u4uiKPCIWxohc1P3cHL"
+      },
+      "artists": [
+        {
+          "name": "Karen Aoki",
+          "url": "https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ"
+        },
+        {
+          "name": "\u30cf\u30bb\u30ac\u30ef\u30c0\u30a4\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243376,
+      "name": "Great Days",
+      "url": "https://open.spotify.com/track/7b4x3IrBFSEnC2XFsKiouR"
     },
     {
       "album": {
@@ -479,7 +717,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215572,
       "name": "Heaven\u2019s falling down",
       "url": "https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH"
@@ -497,10 +735,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 215572,
       "name": "Heaven\u2019s falling down",
       "url": "https://open.spotify.com/track/6q8zgVqFyHm7tnrhe7gMMQ"
+    },
+    {
+      "album": {
+        "name": "Heaven\u2019s falling down (Dawning Ver.)",
+        "url": "https://open.spotify.com/album/1d9tbmHphETO2EWdzZIpyV"
+      },
+      "artists": [
+        {
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93596,
+      "name": "Heaven\u2019s falling down - Dawning Ver.",
+      "url": "https://open.spotify.com/track/2Ygw8qg5vDRglBIhohCM4Q"
     },
     {
       "album": {
@@ -515,7 +771,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93596,
       "name": "Heaven\u2019s falling down - Dawning Ver.",
       "url": "https://open.spotify.com/track/5QRrqq6JS5Nu1SBqVaSlzX"
@@ -533,7 +789,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89906,
       "name": "Hirusagarino Morioutyou",
       "url": "https://open.spotify.com/track/10nGab5OtYD9KnWXSmXyqk"
@@ -569,7 +825,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121800,
       "name": "Ikoi - Piano Ver.",
       "url": "https://open.spotify.com/track/4yTZHUAl92UrfOrNfz4qNe"
@@ -587,10 +843,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295575,
       "name": "il vento d'oro",
       "url": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8 O.S.T (vol.1 Overture)",
+        "url": "https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295575,
+      "name": "il vento d'oro",
+      "url": "https://open.spotify.com/track/4eFjE882anJTh5j0lGeek5"
     },
     {
       "album": {
@@ -605,10 +879,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145416,
       "name": "incursione",
       "url": "https://open.spotify.com/track/0AEG8qKaw6Kj7tHZTuI4Oh"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8 O.S.T (Vol.2 Intermezzo)",
+        "url": "https://open.spotify.com/album/2aKsLzRseaWzHlOW1p9b80"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145416,
+      "name": "incursione",
+      "url": "https://open.spotify.com/track/7CMKiAarJA9M0NQpGbKBNI"
     },
     {
       "album": {
@@ -623,7 +915,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137280,
       "name": "Ishikamen Josyou",
       "url": "https://open.spotify.com/track/6oF5weSdHWvRqNKfNPlM6p"
@@ -641,7 +933,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262566,
       "name": "JOJO SONO CHINO SADAME",
       "url": "https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA"
@@ -659,7 +951,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266853,
       "name": "JOJO SONO CHINO SADAME - Archetype Mix Ver.",
       "url": "https://open.spotify.com/track/46Qjvv3Rg9ciravZaxTYhF"
@@ -677,7 +969,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263566,
       "name": "JoJo Sonochino Kioku~end of THE WORLD~",
       "url": "https://open.spotify.com/track/6x5R5nYhMCwfIJILBi25Ss"
@@ -695,7 +987,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195466,
       "name": "Koukatsuna Nezumi",
       "url": "https://open.spotify.com/track/7GOcaGMgjXCQtJf8TMAu75"
@@ -713,7 +1005,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174546,
       "name": "Kouketsunaru Kyoukou",
       "url": "https://open.spotify.com/track/0nA51z4UszHDnVihedcPFQ"
@@ -731,7 +1023,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338186,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0Rr5Lw09CzqcchhsH0Pmhs"
@@ -749,7 +1041,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 338186,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1"
@@ -767,7 +1059,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404466,
       "name": "Miraiheno Isan -Jonathan's Ballad-",
       "url": "https://open.spotify.com/track/7zwA5jezcEzenC1UorhZQy"
@@ -829,6 +1121,24 @@
     {
       "album": {
         "name": "STAND PROUD",
+        "url": "https://open.spotify.com/album/44ewhH5kSkscHRCx4rpLfz"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278066,
+      "name": "STAND PROUD",
+      "url": "https://open.spotify.com/track/1YTW2IiSDH0buMd07A5Nnw"
+    },
+    {
+      "album": {
+        "name": "STAND PROUD",
         "url": "https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k"
       },
       "artists": [
@@ -839,7 +1149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278066,
       "name": "STAND PROUD",
       "url": "https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3"
@@ -857,10 +1167,46 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309026,
       "name": "STAND PROUD - Dramatic Ver.",
       "url": "https://open.spotify.com/track/1Rd9BnPgT6eRLwsvfUZauD"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (3)",
+        "url": "https://open.spotify.com/album/1ZQod8k8EEAKkIyQoSFyUv"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309026,
+      "name": "STAND PROUD - Dramatic Ver.",
+      "url": "https://open.spotify.com/track/2UTgjcq5oiom7zKgk50MCG"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (3)",
+        "url": "https://open.spotify.com/album/1ZQod8k8EEAKkIyQoSFyUv"
+      },
+      "artists": [
+        {
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Star Platinum",
+      "url": "https://open.spotify.com/track/10SPVKw0pcy7BYdR2QYXL2"
     },
     {
       "album": {
@@ -875,7 +1221,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250653,
       "name": "Star Platinum",
       "url": "https://open.spotify.com/track/34CDBlgjypWjh6oYCSujNk"
@@ -893,7 +1239,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307893,
       "name": "Stardust Crusaders",
       "url": "https://open.spotify.com/track/1xsExFad0m5ikHaejXZrcA"
@@ -911,10 +1257,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209744,
       "name": "STONE OCEAN",
       "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
+    },
+    {
+      "album": {
+        "name": "STONE OCEAN",
+        "url": "https://open.spotify.com/album/1sbyyG5uTdaWHxcr8s85iv"
+      },
+      "artists": [
+        {
+          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209744,
+      "name": "STONE OCEAN",
+      "url": "https://open.spotify.com/track/538rTRGRJqV1L0P8DiSN4V"
     },
     {
       "album": {
@@ -929,10 +1293,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209744,
       "name": "STONE OCEAN - English Ver.",
       "url": "https://open.spotify.com/track/37jKhtJXXIEMBt7FDe0ldB"
+    },
+    {
+      "album": {
+        "name": "STONE OCEAN",
+        "url": "https://open.spotify.com/album/1sbyyG5uTdaWHxcr8s85iv"
+      },
+      "artists": [
+        {
+          "name": "ichigo from \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209744,
+      "name": "STONE OCEAN - English Ver.",
+      "url": "https://open.spotify.com/track/3yi7o6X5WREwCWa1T5bBgi"
     },
     {
       "album": {
@@ -947,7 +1329,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283094,
       "name": "Theme of Stone Ocean",
       "url": "https://open.spotify.com/track/3puQsyxs4ZCgCzt8GQHpNW"
@@ -965,7 +1347,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 283094,
       "name": "Theme of Stone Ocean",
       "url": "https://open.spotify.com/track/61mLwf16eBgltPVQ487rPT"
@@ -983,7 +1365,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224426,
       "name": "Uragirimonono Requiem - Diavolo Ver.",
       "url": "https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85"
@@ -1001,7 +1383,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219187,
       "name": "Uragirimonono Requiem - Giorno Ver.",
       "url": "https://open.spotify.com/track/3q7hI6kxCAbj0yDTR4asML"
@@ -1019,7 +1401,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203226,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
@@ -1044,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Different Light",
+        "url": "https://open.spotify.com/album/4hdp78YnsVLv4Hx5wPXpOp"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/7vyTKKN7FpD9zAp6f82EPp"
+    },
+    {
+      "album": {
         "name": "JOJO'S BIZARRE ADVENTURE -Diamond is unbreakable O.S.T Vol.1 -Good Morning Morioh Cho- Music by Yugo Kanno",
         "url": "https://open.spotify.com/album/047NzKZzhHtLaaedoKi0Cy"
       },
@@ -1055,10 +1455,176 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 84786,
       "name": "YOU ARE MY WOMAN/Alex Reid",
       "url": "https://open.spotify.com/track/2eJjvI5NFznEpURl71EnfX"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044 O.S.T (Vol.1\u301cGood Morning Morioh Cho\u301c)",
+        "url": "https://open.spotify.com/album/0fa6xMDdFIp1JHlArWhJmS"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84786,
+      "name": "YOU ARE MY WOMAN/\u30a2\u30ec\u30c3\u30af\u30b9\u30fb\u30ea\u30fc\u30c9(Song by \u30cf\u30bb\u30ac\u30ef\u30c0\u30a4\u30b9\u30b1)",
+      "url": "https://open.spotify.com/track/1YRcrYxYd2ltEDuLkWb3TV"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9 O.S.T. [Destination]",
+        "url": "https://open.spotify.com/album/3f0EnV6kLjFVRAs3JqbQwp"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245586,
+      "name": "\u30a2\u30af\u5f79\u25c7\u5354\u594f\u66f2",
+      "url": "https://open.spotify.com/track/6tOKYwU4CJTtDye6xSlmrh"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30af\u5f79\u25c7\u5354\u594f\u66f2 \uff5e\u30db\u30eb\u30db\u30fc\u30b9\u3068\u30dc\u30a4\u30f3\u30b4\uff5e",
+        "url": "https://open.spotify.com/album/69sN6fguZnLw33HVOlZf36"
+      },
+      "artists": [
+        {
+          "name": "\u30db\u30eb\u30db\u30fc\u30b9",
+          "url": "https://open.spotify.com/artist/09FLbWkSkeiHzBQT9dtnMl"
+        },
+        {
+          "name": "\u30dc\u30a4\u30f3\u30b4",
+          "url": "https://open.spotify.com/artist/1rHmhZwZq6GhjgQGLNrwWH"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96827,
+      "name": "\u30a2\u30af\u5f79\u25c7\u5354\u594f\u66f2 \uff5e\u30db\u30eb\u30db\u30fc\u30b9\u3068\u30dc\u30a4\u30f3\u30b4\uff5e",
+      "url": "https://open.spotify.com/track/7AfGuVNYayfWZVV71fFHlP"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7 \u305d\u306e\u8840\u306e\u8a18\u61b6\u301cEND OF THE WORLD\u301c",
+        "url": "https://open.spotify.com/album/4ONz90mgJeFj1iFjcF6F4R"
+      },
+      "artists": [
+        {
+          "name": "JO\u2606STARS \u301cTOMMY,Coda,JIN\u301c",
+          "url": "https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263566,
+      "name": "\u30b8\u30e7\u30b8\u30e7 \u305d\u306e\u8840\u306e\u8a18\u61b6\u301cEND OF THE WORLD\u301c",
+      "url": "https://open.spotify.com/track/09du1gawpao1iSUlyuMSPL"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u301c\u305d\u306e\u8840\u306e\u904b\u547d",
+        "url": "https://open.spotify.com/album/50cdfJPU1f3R3VAupPCloV"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262566,
+      "name": "\u30b8\u30e7\u30b8\u30e7\u301c\u305d\u306e\u8840\u306e\u904b\u547d",
+      "url": "https://open.spotify.com/track/6oT13AZPh97zsU5JJlqhpj"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (1)",
+        "url": "https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "\u30b8\u30e7\u30b8\u30e7\u301c\u305d\u306e\u8840\u306e\u904b\u547d\u301c - Archetype Mix Ver.",
+      "url": "https://open.spotify.com/track/6Ki5C3JpUmTEBuA6Bvo9ec"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9O.S.T. [World]",
+        "url": "https://open.spotify.com/album/7jwVVM9ULqVXvY7Apy4chh"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307880,
+      "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/3ScediuEK0qJU77XEcI4o7"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044 O.S.T (Vol.2\u301cGood Night Morioh Cho\u301c)",
+        "url": "https://open.spotify.com/album/1D6UWwuer3zZyKmIYL2fKl"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044\u301c\u30b9\u30bf\u30f3\u30c9\u767a\u52d5\u301c",
+      "url": "https://open.spotify.com/track/1kMI7eGIkxVHd5U2ase3BA"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044 O.S.T (Vol.1\u301cGood Morning Morioh Cho\u301c)",
+        "url": "https://open.spotify.com/album/0fa6xMDdFIp1JHlArWhJmS"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u306f\u7815\u3051\u306a\u3044\u301c\u30e1\u30a4\u30f3\u30c6\u30fc\u30de\u301c",
+      "url": "https://open.spotify.com/track/0QPqMlD4u1yIMCHYg3huvQ"
     },
     {
       "album": {
@@ -1077,6 +1643,150 @@
       "duration_ms": 17922,
       "name": "\u30d5\u30a1\u30a4\u30eb\u30fc\u30ba\u3042\u3044 \u30b3\u30e1\u30f3\u30c8",
       "url": "https://open.spotify.com/track/30bWgKYHsGECq5JbUqSAxQ"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9O.S.T. [Journey]",
+        "url": "https://open.spotify.com/album/4MopTqedSUFAD4fykTiy4p"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121800,
+      "name": "\u61a9\u3044 - Piano Ver.",
+      "url": "https://open.spotify.com/track/6swnNYtCU8YnwucoN6LAa2"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u3099\u30e7\u30b7\u3099\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u30bf\u3099\u30a4\u30e4\u30e2\u30f3\u30c8\u3099\u306f\u7815\u3051\u306a\u3044 O.S.T~Daydream~",
+        "url": "https://open.spotify.com/album/0wNAe0GDTckyWF7cdFZqmx"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89906,
+      "name": "\u663c\u4e0b\u304c\u308a\u306e\u675c\u738b\u753a",
+      "url": "https://open.spotify.com/track/79bIwBHgDgy8qYsECBtAVU"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a The anthology songs (1)",
+        "url": "https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0"
+      },
+      "artists": [
+        {
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404466,
+      "name": "\u672a\u6765\u3078\u306e\u907a\u7523-Jonathan's Ballad-",
+      "url": "https://open.spotify.com/track/1MTNb1Zj1gmSaEV4kzfzyI"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u3099\u30e7\u30b7\u3099\u30e7\u306e\u5947\u5999\u306a\u5192\u967a\u30bf\u3099\u30a4\u30e4\u30e2\u30f3\u30c8\u3099\u306f\u7815\u3051\u306a\u3044 O.S.T~Nightwalk~",
+        "url": "https://open.spotify.com/album/7dabC3QeC7JAxJw5bLVaDF"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "\u72e1\u733e\u306a\u9f20",
+      "url": "https://open.spotify.com/track/7emhF0OnsOkZbzLdtEsCjn"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a O.S.T Phantom Blood [Destiny]",
+        "url": "https://open.spotify.com/album/4vT8j08jVMHOO3nbkefEH5"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u5c3e\u65e9\u4eba",
+          "url": "https://open.spotify.com/artist/0AJFWjU9y4C16lrdCrM9bn"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137280,
+      "name": "\u77f3\u4eee\u9762~\u5e8f\u7ae0~",
+      "url": "https://open.spotify.com/track/3SYpvSrmxfwOZYGik5qfQk"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8 O.S.T (Vol.3 Finare)",
+        "url": "https://open.spotify.com/album/4yauUwryR6UKaAOqoqEPoz"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "\u88cf\u5207\u308a\u8005\u306e\u30ec\u30af\u30a4\u30a8\u30e0 - Diavolo Ver.",
+      "url": "https://open.spotify.com/track/33M6kaWHEUxmMpvlBefRAK"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u9ec4\u91d1\u306e\u98a8 O.S.T (Vol.3 Finare)",
+        "url": "https://open.spotify.com/album/4yauUwryR6UKaAOqoqEPoz"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "\u88cf\u5207\u308a\u8005\u306e\u30ec\u30af\u30a4\u30a8\u30e0 - Giorno Ver.",
+      "url": "https://open.spotify.com/track/2qEKzzpe9U1B8ozntUdJB8"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30b9 O.S.T. [Departure]",
+        "url": "https://open.spotify.com/album/6ke9IRyc59clxPhqlFPdlc"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "\u9ad8\u6f54\u306a\u308b\u6559\u7687",
+      "url": "https://open.spotify.com/track/1tWuYWoSRzSSMA25aagON5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN"

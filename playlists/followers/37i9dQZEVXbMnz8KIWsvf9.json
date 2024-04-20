@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 156214,
+  "2024-04-20": 156233,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Thailand.",
   "name": "Top 50 - Thailand",
@@ -10661,7 +10661,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 212343,
       "name": "\u0e01\u0e49\u0e32\u0e27\u0e01\u0e48\u0e32\u0e22",
       "url": "https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ"
@@ -12539,7 +12539,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186466,
       "name": "\u0e1e\u0e35\u0e48\u0e0a\u0e2d\u0e1a\u0e2b\u0e19\u0e39\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e40\u0e25\u0e22",
       "url": "https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3"
@@ -12637,7 +12637,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241470,
       "name": "\u0e1f\u0e49\u0e32\u0e23\u0e31\u0e01\u0e1e\u0e48\u0e2d (DILF)",
       "url": "https://open.spotify.com/track/45eQSbdATZGC5lowyWUbfH"
@@ -13317,6 +13317,24 @@
       "duration_ms": 264444,
       "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15",
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) [Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32]",
+        "url": "https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221095,
+      "name": "\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21\u0e40\u0e2a\u0e21\u0e2d (Ever-Forever) - Ost. \u0e2b\u0e25\u0e32\u0e19\u0e21\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF"
     },
     {
       "album": {
@@ -14457,7 +14475,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175846,
       "name": "\u0e40\u0e2a\u0e19\u0e2d\u0e15\u0e31\u0e27 (Ooh!)",
       "url": "https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE"
@@ -15361,6 +15379,24 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "album": {
+        "name": "\u6e80\u3061\u3066\u3086\u304f",
+        "url": "https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310997,
+      "name": "\u6e80\u3061\u3066\u3086\u304f",
+      "url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO"
     },
     {
       "album": {

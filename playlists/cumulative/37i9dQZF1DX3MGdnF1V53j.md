@@ -4,7 +4,7 @@
 
 > Oualid on the cover of Habibi Gang Gang!
 
-86 songs - 4 hr 13 min
+87 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Lick \- North African Remix](https://open.spotify.com/track/3cMFuO5FBPqANjHlWbXLxM) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Lick \(North African Remix\)](https://open.spotify.com/album/1mUMh0VT7a9YeqDno2u6IJ) | 3:17 | 2024-02-29 |  |
 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 | 2024-02-29 |  |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2024-02-29 |  |
+| [Ma Sweetie](https://open.spotify.com/track/21yj46QAJ0LjbmixDo6Ibd) | [Bouzzy](https://open.spotify.com/artist/3rOWue4cNcIcaurmz1iqU9) | [Ma Sweetie](https://open.spotify.com/album/2LSb2pNWAqYM3BhwnHc5W5) | 2:31 | 2024-04-18 |  |
 | [Machi 3adi](https://open.spotify.com/track/5LMlEIZB05DzkNcvvF3WGo) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Machi 3adi](https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK) | 2:50 | 2024-04-18 |  |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2024-02-29 | 2024-04-19 |
 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 | 2024-02-29 |  |
@@ -84,7 +85,7 @@
 | [Tin3achin](https://open.spotify.com/track/05byboJ3i5qRQxd5Os6Xoy) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf) | [Tin3achin](https://open.spotify.com/album/0zggXmuYPr9HlbHiAImO3g) | 3:17 | 2024-02-29 |  |
 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 | 2024-02-29 |  |
 | [WAYLE](https://open.spotify.com/track/4spfhufsgVF65phjTLRyn0) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2vkYezfkR1WpgJJmoOW8ZG) | 3:10 | 2024-02-29 | 2024-04-19 |
-| [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 | 2024-04-18 |  |
+| [Wili](https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk) | [Roukss](https://open.spotify.com/artist/4L3YwGjW2Hq8Ar7LWCno0o), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Wili](https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe) | 2:40 | 2024-04-18 | 2024-04-20 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2024-02-29 |  |
 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 | 2024-02-29 |  |
 | [Yemma](https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Yemma](https://open.spotify.com/album/42u4hiZGAjRvVfAO2LrcWt) | 3:11 | 2024-04-18 |  |

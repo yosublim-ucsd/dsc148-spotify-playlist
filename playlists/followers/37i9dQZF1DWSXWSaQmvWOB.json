@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 457822,
+  "2024-04-20": 457861,
   "date_first_scraped": "2020-03-25",
   "description": "New soul-infused music every week! Cover: Sabrina Starke",
   "name": "Soul 'n' the City",
@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Ain't It Funny",
+        "url": "https://open.spotify.com/album/7trgIV3YB3dr3H9Pxm5pfs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199014,
+      "name": "Ain't It Funny",
+      "url": "https://open.spotify.com/track/6GMl3oOdnulFmgiLpoPXLu"
+    },
+    {
+      "album": {
         "name": "Keep It To Yourself",
         "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
       },
@@ -487,7 +505,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199014,
       "name": "Ain't It Funny",
       "url": "https://open.spotify.com/track/6ToyjrRZI3n7pgnhgr0gst"
@@ -1272,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2Gp1UiAMEAPkLoh9aBUBCs"
+      },
+      "artists": [
+        {
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/3nsLmjrN9hwht5VszHwU23"
+    },
+    {
+      "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
       },
@@ -1818,6 +1854,28 @@
     },
     {
       "album": {
+        "name": "Blue Eclipse",
+        "url": "https://open.spotify.com/album/2veHkCq3sm8RAedI04bDlG"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Natalie Lindi",
+          "url": "https://open.spotify.com/artist/6nXILNJclmemd6XXq6u7Fv"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2Sf8zOw0J5qRxxaRYGknzC"
+    },
+    {
+      "album": {
         "name": "Brothers and Sisters",
         "url": "https://open.spotify.com/album/4ZJsUp5BVASSDRKoidrDRU"
       },
@@ -1847,7 +1905,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235106,
       "name": "Brothers And Sisters",
       "url": "https://open.spotify.com/track/6YWjxol9LN0KbJHfgJ6aMe"
@@ -2071,10 +2129,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249656,
       "name": "Can't Afford Therapy",
       "url": "https://open.spotify.com/track/6Mek4TbQaDrS2jqe0KBhWy"
+    },
+    {
+      "album": {
+        "name": "Can't Afford Therapy",
+        "url": "https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249656,
+      "name": "Can't Afford Therapy",
+      "url": "https://open.spotify.com/track/6urArILLJCAMySnR4RA92s"
     },
     {
       "album": {
@@ -3252,6 +3328,24 @@
     },
     {
       "album": {
+        "name": "Don't Answer",
+        "url": "https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "Don't Answer",
+      "url": "https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN"
+    },
+    {
+      "album": {
         "name": "Don't Blame NY",
         "url": "https://open.spotify.com/album/3XPVwXFiWrYDHlg2ALfAyM"
       },
@@ -4384,6 +4478,32 @@
     },
     {
       "album": {
+        "name": "Channel Island",
+        "url": "https://open.spotify.com/album/6jiYuHI6u6q9U34S6OikN4"
+      },
+      "artists": [
+        {
+          "name": ".multibeat",
+          "url": "https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj"
+        },
+        {
+          "name": "Pete Philly",
+          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
+        },
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Fly Over",
+      "url": "https://open.spotify.com/track/5OT8yTWNdxpS73qEpipyUI"
+    },
+    {
+      "album": {
         "name": "Footsteps In The Dark",
         "url": "https://open.spotify.com/album/2m9ys1nOYIrhH8Y8kVbWP7"
       },
@@ -4926,6 +5046,24 @@
     },
     {
       "album": {
+        "name": "Give Me a Reason",
+        "url": "https://open.spotify.com/album/5xDDJqVki1FKnyLOn5UhTs"
+      },
+      "artists": [
+        {
+          "name": "The Tibbs",
+          "url": "https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178966,
+      "name": "Give Me a Reason",
+      "url": "https://open.spotify.com/track/59wDvYiusncM52rcGTV8dP"
+    },
+    {
+      "album": {
         "name": "Keep It To Yourself",
         "url": "https://open.spotify.com/album/5tB3tjThhawiGBwASIEXjr"
       },
@@ -4937,7 +5075,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178966,
       "name": "Give Me a Reason",
       "url": "https://open.spotify.com/track/6H4uvuMnonERh5DucTznYq"
@@ -5217,6 +5355,24 @@
       "duration_ms": 165037,
       "name": "Got The Juice",
       "url": "https://open.spotify.com/track/7DHTzTe6lsjg6oBUPwKjXK"
+    },
+    {
+      "album": {
+        "name": "Greatest Gift (Reimagined)",
+        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Greatest Gift - Reimagined",
+      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
     },
     {
       "album": {
@@ -7033,6 +7189,24 @@
       "duration_ms": 204173,
       "name": "It Ain't Easy",
       "url": "https://open.spotify.com/track/0URMdm9CITB1VIfdVaqTHt"
+    },
+    {
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/2Z0bubZCNHf5RBhAK0sUwb"
+      },
+      "artists": [
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/4xcljUwIz4plmVI0q5dyb9"
     },
     {
       "album": {
@@ -9073,6 +9247,24 @@
     {
       "album": {
         "name": "Brothers & Sisters",
+        "url": "https://open.spotify.com/album/5Ys1u4T4mUIIcruYNart3T"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "More Grace",
+      "url": "https://open.spotify.com/track/01OZZ6TtohuvmWKWGYmizc"
+    },
+    {
+      "album": {
+        "name": "Brothers & Sisters",
         "url": "https://open.spotify.com/album/2VmcCIkNH8csGrM5ztrs4T"
       },
       "artists": [
@@ -9083,7 +9275,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162026,
       "name": "More Grace",
       "url": "https://open.spotify.com/track/5WopyzYU7fGAtGcTBDXDyG"
@@ -9251,7 +9443,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248213,
       "name": "Mrs. Postman",
       "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
@@ -10577,7 +10769,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 150714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY"
@@ -10603,7 +10795,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150714,
       "name": "Pain",
       "url": "https://open.spotify.com/track/2YeRpzh6YWTeDpYGJgS0LM"
@@ -14123,10 +14315,28 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226253,
       "name": "That Is You",
       "url": "https://open.spotify.com/track/4h75t4z8cUnJSf0jWIg7WC"
+    },
+    {
+      "album": {
+        "name": "That Is You",
+        "url": "https://open.spotify.com/album/1iMbj8BIe2irAJc7iUyr4X"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226253,
+      "name": "That Is You",
+      "url": "https://open.spotify.com/track/7BBfnVKkoE5LwkcWqh8ixg"
     },
     {
       "album": {
@@ -15191,6 +15401,32 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "album": {
+        "name": "Unapologetically Me",
+        "url": "https://open.spotify.com/album/0FnsVtGkz6TSkwJdiPnKLe"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Khari Mateen",
+          "url": "https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248262,
+      "name": "Unapologetically Me",
+      "url": "https://open.spotify.com/track/0bgxUe4obsUVgjAnTCQnq3"
     },
     {
       "album": {

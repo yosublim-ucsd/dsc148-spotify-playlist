@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 414102,
+  "2024-04-20": 413457,
   "date_first_scraped": "2021-12-21",
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
   "name": "Rainy Day",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176167,
       "name": "Beautiful Hell",
       "url": "https://open.spotify.com/track/65q0qZbQBdPPYfAcZ7n0e3"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 317026,
       "name": "Bell Under Water",
       "url": "https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 362786,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205402,
       "name": "Caught in the Strange",
       "url": "https://open.spotify.com/track/67SFgwRk1tnYDIIB10j78g"
@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/6ktRXgEx0dyiNeMpeOu0AD"
+      },
+      "artists": [
+        {
+          "name": "Thomas LaVine",
+          "url": "https://open.spotify.com/artist/2T7YLT9nMnXlnW0UjJBN70"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/3N7i5xAfX7AnTiGPClDSmq"
+    },
+    {
+      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
@@ -305,10 +323,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 386146,
       "name": "Damn It All",
       "url": "https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH"
+    },
+    {
+      "album": {
+        "name": "The Lingering",
+        "url": "https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S"
+      },
+      "artists": [
+        {
+          "name": "Siv Jakobsen",
+          "url": "https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193622,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
     },
     {
       "album": {
@@ -385,7 +421,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/6qn7IWtDaT6bLeecinhOsO"
@@ -425,7 +461,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192266,
       "name": "Dirty Rain",
       "url": "https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn"
@@ -483,7 +519,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271580,
       "name": "Dreaming (Mahogany Sessions)",
       "url": "https://open.spotify.com/track/6hhk528iV6EGtIh9DRlJdM"
@@ -559,7 +595,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207773,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
@@ -577,7 +613,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0HFqPzJYCZgQYuqNX0HDJm"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD"
@@ -685,7 +721,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 229104,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw"
@@ -707,7 +743,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191234,
       "name": "For All You Give",
       "url": "https://open.spotify.com/track/6LLb6rVMgQnGNZwwHSxTzn"
@@ -747,10 +783,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258651,
       "name": "Foreign Hands",
       "url": "https://open.spotify.com/track/0XKWjAqbWePqtCwFM2P46P"
+    },
+    {
+      "album": {
+        "name": "Foreign Hands",
+        "url": "https://open.spotify.com/album/3II3vyMCItAgHdgKjEH3NS"
+      },
+      "artists": [
+        {
+          "name": "George Ogilvie",
+          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "Foreign Hands",
+      "url": "https://open.spotify.com/track/7fDkkwlp02iHGzKlG2gZr8"
     },
     {
       "album": {
@@ -783,7 +837,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5"
@@ -801,7 +855,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6Vejmu5dz6MMOnn2pIko9q"
@@ -819,7 +873,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233489,
       "name": "Free As We Wanna Be - Acoustic",
       "url": "https://open.spotify.com/track/0r52k7tp2plpgc7eAiv8l8"
@@ -837,7 +891,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
@@ -855,7 +909,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 252455,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
@@ -891,7 +945,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254173,
       "name": "Heavy Weather",
       "url": "https://open.spotify.com/track/6cDfjpzbfreA0Tv97t2Xll"
@@ -927,7 +981,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291826,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD"
@@ -963,7 +1017,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
@@ -981,7 +1035,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272760,
       "name": "Home",
       "url": "https://open.spotify.com/track/0eOPBCItAtCgtQZj5vxNRa"
@@ -1053,7 +1107,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
@@ -1071,7 +1125,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s"
@@ -1089,7 +1143,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 252640,
       "name": "I Should Live in Salt - The National Cover - Live from Spotify, London",
       "url": "https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu"
@@ -1107,7 +1161,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 351309,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399082,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
@@ -1227,7 +1281,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
@@ -1253,7 +1307,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
@@ -1347,10 +1401,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310693,
       "name": "Looking Too Closely",
       "url": "https://open.spotify.com/track/7bhI6rnvaVw8qgZPn32qE0"
+    },
+    {
+      "album": {
+        "name": "Live at the Mac",
+        "url": "https://open.spotify.com/album/7IfKkyytqHkjdH2uRTXEIX"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Lovers Who Make Love - Live at the Mac",
+      "url": "https://open.spotify.com/track/36VE1ZN6UFtVpAH1HJELA6"
     },
     {
       "album": {
@@ -1365,7 +1437,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 272788,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/3yMCUholqG6FuApwrI3FXA"
@@ -1383,7 +1455,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257399,
       "name": "Make You OK",
       "url": "https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua"
@@ -1419,7 +1491,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 325280,
       "name": "Melatonin (Unplugged)",
       "url": "https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3"
@@ -1491,7 +1563,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219466,
       "name": "Morning Theft",
       "url": "https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL"
@@ -1617,7 +1689,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143240,
       "name": "O I Long to Feel Your Arms Around Me",
       "url": "https://open.spotify.com/track/0rGB4l2BHJhL4C1s8w6jZG"
@@ -1743,7 +1815,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Rainy Day Song",
       "url": "https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4"
@@ -1779,7 +1851,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
@@ -1797,7 +1869,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 198823,
       "name": "Ricochet",
       "url": "https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx"
@@ -1851,7 +1923,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
@@ -1869,7 +1941,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220848,
       "name": "Scattershot",
       "url": "https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP"
@@ -1905,7 +1977,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186143,
       "name": "Seeing Other People",
       "url": "https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u"
@@ -1927,7 +1999,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 247893,
       "name": "Send My Regards",
       "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
@@ -1949,6 +2021,24 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/28nNe1OxZ3hicVX5t28M6S"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275346,
+      "name": "Slow Records",
+      "url": "https://open.spotify.com/track/2dvzf690BYZyiVf8jWtB18"
     },
     {
       "album": {
@@ -1999,7 +2089,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240560,
       "name": "Smother",
       "url": "https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY"
@@ -2035,7 +2125,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221760,
       "name": "Standing in the Rain",
       "url": "https://open.spotify.com/track/5S4pAZfIugwULt49eneojF"
@@ -2053,7 +2143,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322680,
       "name": "Stars",
       "url": "https://open.spotify.com/track/39rXqYJ5vTRmi6kq0JvoiM"
@@ -2115,7 +2205,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "Strangers (feat. Aoife O'donovan)",
       "url": "https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh"
@@ -2155,7 +2245,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239384,
       "name": "The Calla Lily Song",
       "url": "https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2"
@@ -2191,7 +2281,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152480,
       "name": "The Dress Looks Nice on You",
       "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
@@ -2281,7 +2371,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254897,
       "name": "The Lily",
       "url": "https://open.spotify.com/track/783Oiskd1R67HbuKD0nimy"
@@ -2335,7 +2425,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207160,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/09pcOS99wvOAdsCFoC0VGS"
@@ -2389,7 +2479,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211794,
       "name": "The Rains",
       "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
@@ -2443,7 +2533,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 247791,
       "name": "Throwing Good After Bad",
       "url": "https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6"
@@ -2515,7 +2605,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 201085,
       "name": "Visions Of China",
       "url": "https://open.spotify.com/track/7lkmvTlnEs0JfKIFg9NmcL"
@@ -2569,7 +2659,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
@@ -2587,7 +2677,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/5ZD6USvzWXbGxZ9pv6a9b9"

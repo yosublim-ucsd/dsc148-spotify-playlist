@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 388790,
+  "2024-04-20": 388162,
   "date_first_scraped": "2022-04-19",
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Jukjae, Choi Yu Ree(\uc801\uc7ac, \ucd5c\uc720\ub9ac))",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 232720,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215386,
       "name": "Be Your Enemy",
       "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 186880,
       "name": "Better (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 181384,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/2X0Jlj1hP9q2xP5Lkd8sy4"
@@ -878,6 +878,28 @@
     },
     {
       "album": {
+        "name": "Deoksugung Stonewall Walkway - SM STATION",
+        "url": "https://open.spotify.com/album/20ok7HWYOpvNt3UScrbbe1"
+      },
+      "artists": [
+        {
+          "name": "YOONA",
+          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196049,
+      "name": "Deoksugung Stonewall Walkway",
+      "url": "https://open.spotify.com/track/6kuvbu7bRZSGpoFqL20Dw5"
+    },
+    {
+      "album": {
         "name": "Sugar Man 3 \ud22c\uc720\ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e83, EPISODE.3",
         "url": "https://open.spotify.com/album/7JWgu1tSTNDEvQKmGcIVjk"
       },
@@ -897,6 +919,28 @@
       "duration_ms": 246306,
       "name": "DESIRE AND HOPE \uc6d0\ud558\uace0 \uc6d0\ub9dd\ud558\uc8e0",
       "url": "https://open.spotify.com/track/2ULxEFFCkSWaVm88kUhfat"
+    },
+    {
+      "album": {
+        "name": "Dinner - SM STATION",
+        "url": "https://open.spotify.com/album/34DtbBknXHV8X3w4NLzAx1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        },
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204215,
+      "name": "Dinner",
+      "url": "https://open.spotify.com/track/4I48kLVde5Rwvw8MyloC4A"
     },
     {
       "album": {
@@ -959,7 +1003,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 186823,
       "name": "DON`T SAY GOODBYE",
       "url": "https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE"
@@ -981,7 +1025,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219106,
       "name": "Don\u2019t Forget",
       "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
@@ -1091,7 +1135,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 293160,
       "name": "Even for a moment",
       "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
@@ -1329,7 +1373,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 229560,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
@@ -1857,7 +1901,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
       "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
@@ -1975,7 +2019,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205437,
       "name": "Like You",
       "url": "https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW"
@@ -2191,7 +2235,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
@@ -2301,7 +2345,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199266,
       "name": "Mayday (Feat. Joy)",
       "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
@@ -2433,7 +2477,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220933,
       "name": "My Day Is Full Of You",
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
@@ -2499,7 +2543,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "My Love (Duet Ver.)",
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
@@ -2587,7 +2631,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194596,
       "name": "NO ONE",
       "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
@@ -2697,7 +2741,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
@@ -2825,7 +2869,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239099,
       "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
@@ -2869,7 +2913,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199524,
       "name": "PLAY (feat. Changmo)",
       "url": "https://open.spotify.com/track/4gJLkQRcGRJRoHJAavP9iN"
@@ -3059,7 +3103,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186666,
       "name": "See you",
       "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
@@ -3191,7 +3235,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208786,
       "name": "She Said (with BIBI)",
       "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
@@ -3319,7 +3363,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281066,
       "name": "Song Request (feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
@@ -3689,7 +3733,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195942,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
@@ -4343,7 +4387,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
@@ -4779,7 +4823,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/45ryK5kAHyUxV1C73fdur5"
@@ -4801,7 +4845,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
@@ -4867,7 +4911,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"

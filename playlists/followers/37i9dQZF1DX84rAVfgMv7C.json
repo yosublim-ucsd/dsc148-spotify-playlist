@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1096852,
+  "2024-04-20": 1096913,
   "date_first_scraped": "2023-08-09",
   "description": "No te contaron mal... este hombre es el mero-mero del mariache\u00f1o.",
   "name": "This Is Christian Nodal",
@@ -75,10 +75,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142758,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye"
+    },
+    {
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV"
     },
     {
       "album": {
@@ -1059,6 +1077,28 @@
     {
       "album": {
         "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/4UxN31xcXSLuRnpv5u9d5f"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149720,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/5KzhhhqJLt2NU85o53GaAp"
+    },
+    {
+      "album": {
+        "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe"
       },
       "artists": [
@@ -1073,7 +1113,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149720,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj"

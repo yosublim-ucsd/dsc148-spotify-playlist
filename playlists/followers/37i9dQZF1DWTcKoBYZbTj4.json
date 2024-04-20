@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 84746,
+  "2024-04-20": 84683,
   "date_first_scraped": "2023-12-19",
   "description": "Versiones que andan por el camino del rey de la canci\u00f3n ranchera.",
   "name": "Cancionero Jos\u00e9 Alfredo Jim\u00e9nez",
@@ -97,10 +97,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175693,
       "name": "Arrullo de Dios",
       "url": "https://open.spotify.com/track/2c7lszMKpJxhWm8doejzxY"
+    },
+    {
+      "album": {
+        "name": "Las Grandes de la Canci\u00f3n Ranchera: Lucha Reyes y Aida Cuevas",
+        "url": "https://open.spotify.com/album/6hqdJxbeVkzucOu5TMhIj3"
+      },
+      "artists": [
+        {
+          "name": "Lucha Reyes",
+          "url": "https://open.spotify.com/artist/28fsPBiCL1h647XqcwmSN0"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "Arrullo de Dios",
+      "url": "https://open.spotify.com/track/3L49DTlqrKSZrZ2HsNEUa0"
     },
     {
       "album": {
@@ -257,7 +275,7 @@
     {
       "album": {
         "name": "Tambora Sound System",
-        "url": "https://open.spotify.com/album/0SzfgDSmJIjukSjnaIKYzc"
+        "url": "https://open.spotify.com/album/6ZtYl1bvQgQugpRiXBfAuJ"
       },
       "artists": [
         {
@@ -268,6 +286,24 @@
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220893,
+      "name": "El perro negro",
+      "url": "https://open.spotify.com/track/1daNYZYuLihVZOvPymTEr8"
+    },
+    {
+      "album": {
+        "name": "Tambora Sound System",
+        "url": "https://open.spotify.com/album/0SzfgDSmJIjukSjnaIKYzc"
+      },
+      "artists": [
+        {
+          "name": "L\u00edber Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 220893,
       "name": "El perro negro",
       "url": "https://open.spotify.com/track/2pwEpgPRZSKN35ZqMMCQFz"
@@ -289,6 +325,24 @@
       "duration_ms": 146280,
       "name": "El Rey - En Vivo [Un Azteca en el Azteca]",
       "url": "https://open.spotify.com/track/0bf0zZj6XCvNgAt7pIM7y6"
+    },
+    {
+      "album": {
+        "name": "La Hija del Mariachi, Vol. 1",
+        "url": "https://open.spotify.com/album/0dGfmzsexfJzPBwUEF5jnY"
+      },
+      "artists": [
+        {
+          "name": "La Hija Del Mariachi",
+          "url": "https://open.spotify.com/artist/42knawZDBuQbq1mj9aVsfy"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145101,
+      "name": "El Siete Mares",
+      "url": "https://open.spotify.com/track/1sgWOZqv8hlLoBlc7hmnMd"
     },
     {
       "album": {
@@ -328,6 +382,24 @@
     },
     {
       "album": {
+        "name": "Pedro Infante - Concierto Homenaje",
+        "url": "https://open.spotify.com/album/7BMUDy1sFnQRu7KPZYBFoV"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1T7vfOtlLKBDSYu71LxJYR"
+    },
+    {
+      "album": {
         "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
         "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
       },
@@ -339,10 +411,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188290,
       "name": "Ella",
       "url": "https://open.spotify.com/track/2o4z9hi2ULRELWbvsJq4Er"
+    },
+    {
+      "album": {
+        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151103,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/4rAjrLKKUaSs04t6aESqfy"
     },
     {
       "album": {
@@ -357,7 +447,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153391,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/6ytVwYXGtUPKcyDhe2ZKif"
@@ -405,7 +495,7 @@
     {
       "album": {
         "name": "Leyendas de Mi Pueblo",
-        "url": "https://open.spotify.com/album/4twCKZuBHFb6auU7SM8rTa"
+        "url": "https://open.spotify.com/album/1lKf12N9hHyIAImLcvbAOz"
       },
       "artists": [
         {
@@ -416,6 +506,24 @@
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 603733,
+      "name": "Homenaje a Jos\u00e9 Alfredo Jim\u00e9nez",
+      "url": "https://open.spotify.com/track/3zUJto77woCYF6opAi3O8s"
+    },
+    {
+      "album": {
+        "name": "Leyendas de Mi Pueblo",
+        "url": "https://open.spotify.com/album/4twCKZuBHFb6auU7SM8rTa"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 603733,
       "name": "Homenaje a Jos\u00e9 Alfredo Jim\u00e9nez",
       "url": "https://open.spotify.com/track/60tiMEhB6yKogsSLdakFlF"
@@ -469,10 +577,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192120,
       "name": "La Mano de Dios",
       "url": "https://open.spotify.com/track/6or6jeD9fKy0qwj6gVxnAG"
+    },
+    {
+      "album": {
+        "name": "Brillantes - Javier Solis",
+        "url": "https://open.spotify.com/album/6OjUCUUJojORdV3TqjtqGl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "La Mano de Dios",
+      "url": "https://open.spotify.com/track/46Pa0dfDZCHopArGMU2u3V"
     },
     {
       "album": {
@@ -505,10 +631,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169973,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92"
+    },
+    {
+      "album": {
+        "name": "50 Aniversario Luctuoso - Jorge Negrete \"El Charro Cantor\" Vol. 2",
+        "url": "https://open.spotify.com/album/4zSg5rEM2QyGCj3Jv6CWdb"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/5UrnSrZ9lY9EMy7c6arTE9"
     },
     {
       "album": {
@@ -530,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor De - El Piporro",
+        "url": "https://open.spotify.com/album/2RdvvYHzKbArBs8hPXnnaQ"
+      },
+      "artists": [
+        {
+          "name": "El Piporro",
+          "url": "https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210452,
+      "name": "Llego Borracho El Borracho",
+      "url": "https://open.spotify.com/track/5mDgbi5g8cLJg9Bdrdt9P0"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De El Piporro",
         "url": "https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643"
       },
@@ -541,7 +703,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211080,
       "name": "Lleg\u00f3 Borracho El Borracho",
       "url": "https://open.spotify.com/track/1ZBQmE5npCm3h5VTRVR8iy"
@@ -606,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Mundo Raro",
+        "url": "https://open.spotify.com/album/7IMw9ciwI9kwu1zDNFK4rM"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166084,
+      "name": "Mundo Raro",
+      "url": "https://open.spotify.com/track/6b7RECx262nkVJrYBsrznQ"
+    },
+    {
+      "album": {
         "name": "Mi Ranchito",
         "url": "https://open.spotify.com/album/6fqILrDkzxM4UmeIaBkYi2"
       },
@@ -617,7 +797,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166128,
       "name": "Mundo Raro",
       "url": "https://open.spotify.com/track/5HWTkdGXS4W4MnasjWPKR1"
@@ -687,10 +867,54 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201346,
       "name": "Pa' Todo El Ano",
       "url": "https://open.spotify.com/track/627eptCDAIOjO89W8rHfwN"
+    },
+    {
+      "album": {
+        "name": "Canciones Pa' Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/0TCSjd7TLYoJl7z3zDDael"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        },
+        {
+          "name": "Max Baca",
+          "url": "https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Pa' Todo El Ano",
+      "url": "https://open.spotify.com/track/6blXHM6cSWYsfwYbRcGNJD"
+    },
+    {
+      "album": {
+        "name": "Tradicional",
+        "url": "https://open.spotify.com/album/20VJ1DOyAPt4593jpX4CzP"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4JKhNEJ130fAWFwhAdMbJu"
     },
     {
       "album": {
@@ -705,7 +929,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"

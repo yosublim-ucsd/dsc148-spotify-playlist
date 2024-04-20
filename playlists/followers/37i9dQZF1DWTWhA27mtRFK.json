@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 79827,
+  "2024-04-20": 79849,
   "date_first_scraped": "2022-01-05",
   "description": "Open your mind to these classics from the golden era of New Age music. Deuter on cover.",
   "name": "New Age Classics",
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1488720,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/2UjCPffVcAT3e2cI4IrLxV"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1488720,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/5SsZc9Uao0uXApCpLFycTm"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1260123,
       "name": "Crystal Cave (Back To Atlantis)",
       "url": "https://open.spotify.com/track/6B5ZwrGDmo5IicuXcdQmTl"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1260123,
       "name": "Crystal Cave (Back To Atlantis)",
       "url": "https://open.spotify.com/track/7CvxeiVK08dk8T024xjNXw"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 209293,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/03s6eSh8MFevFV6wmMo31b"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209293,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/1COW0wZN5HUK06Mu0CLwVw"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1400133,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/4Xfbsq2VWNYln8kR8nQGQ9"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1400133,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/5hUayouy9mD1UOaGVRNerI"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1292666,
       "name": "Eternal Sanctuary",
       "url": "https://open.spotify.com/track/3XjLFQKxS3giCNrRz7tdQA"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1292666,
       "name": "Eternal Sanctuary",
       "url": "https://open.spotify.com/track/6rkQkcYunSvcHtvLLeSOj4"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/2mDbBQ9Abwo3AV1cbc14Uk"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274333,
       "name": "Freedom at the 45th Floor",
       "url": "https://open.spotify.com/track/3FhTy63b1pmm5FSEUtpCPR"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396159,
       "name": "Golden Cloud Layers",
       "url": "https://open.spotify.com/track/426vkEldQjsWIMCEx26Wee"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 396159,
       "name": "Golden Cloud Layers",
       "url": "https://open.spotify.com/track/46doTykO7orQMvEZg58BCE"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 307533,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5Fryu3Yxywb5F5y1UmiC8I"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308520,
       "name": "Memories (30th Anniversary Edition)",
       "url": "https://open.spotify.com/track/2CF37Au2wj7LyGuYgYNHfv"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362773,
       "name": "Morning Splendor",
       "url": "https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 362773,
       "name": "Morning Splendor",
       "url": "https://open.spotify.com/track/6b6eJ6TUApdRxmOUMwqYCm"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/4hTCTBxBoTTbO6Ao3fKQxk"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1457253,
       "name": "Music for Gymnastics",
       "url": "https://open.spotify.com/track/5DhUiqa8Fc48J17GZtAs7i"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 312773,
       "name": "Novus Pt. 1: Ascent",
       "url": "https://open.spotify.com/track/0A9KM1lMfgem28ehiq8UGG"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 312773,
       "name": "Novus Pt. 1: Ascent",
       "url": "https://open.spotify.com/track/4yhY9LhY4SLqzdOELAEgDP"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 266893,
       "name": "Novus Pt. 1: Tears of Terra",
       "url": "https://open.spotify.com/track/2mrZhu6HeLOB4x0jGFDQCV"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266893,
       "name": "Novus Pt. 1: Tears of Terra",
       "url": "https://open.spotify.com/track/6aZJH8zQOO5BKCeOeqwzQa"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1772760,
       "name": "Sea of Bliss",
       "url": "https://open.spotify.com/track/0zHmC4xmETE5wRhYaz8yUh"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1772760,
       "name": "Sea of Bliss",
       "url": "https://open.spotify.com/track/6n8WRGtapKxhnWjVyBZABO"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 457960,
       "name": "Silent Spirit",
       "url": "https://open.spotify.com/track/6sXAaxtCZFjcUPKX7z1UtS"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 457813,
       "name": "Silent Spirit (30th Anniversary Edition)",
       "url": "https://open.spotify.com/track/0qBm0Tm5HgR11UPZVNKAAo"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1495160,
       "name": "Temple of Aesthetic Action",
       "url": "https://open.spotify.com/track/2uJ68HZNjTNRsAyJy1TZol"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1495160,
       "name": "Temple of Aesthetic Action",
       "url": "https://open.spotify.com/track/4pFLly7AXNRU3bQ9piWJdv"
@@ -1385,7 +1385,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 438560,
       "name": "The Hills of Home",
       "url": "https://open.spotify.com/track/0lNRbszd01OAg61o2zFhMu"
@@ -1402,12 +1402,12 @@
         },
         {
           "name": "Tim Clark",
-          "url": "https://open.spotify.com/artist/5B9WJKf7G8DJMmYnOlmqyO"
+          "url": "https://open.spotify.com/artist/2W4LzrzLKRyasdZSlGbWN1"
         }
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 438560,
       "name": "The Hills of Home",
       "url": "https://open.spotify.com/track/0rXJ5RDh7wwdLgDutWaDFy"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1313970,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/7FNpgKsAUFgt5ONasflWtc"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1313970,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/7pes8uQmsmsHtFiG1eFsJM"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-15",
+      "date_removed": null,
       "duration_ms": 1493200,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/1sWNTVYnz0xbo3AWtBuM2m"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 1493200,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/73YQtVmeUz8Aridl3owXIr"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 161956,
       "name": "Tropical Convergence",
       "url": "https://open.spotify.com/track/3Ic62vrDwJtxQ7lPXfug0O"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161956,
       "name": "Tropical Convergence",
       "url": "https://open.spotify.com/track/5bKllsJIn1Le6YJkipcuwS"

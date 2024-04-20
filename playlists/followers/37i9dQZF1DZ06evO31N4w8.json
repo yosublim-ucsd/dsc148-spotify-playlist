@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 55569,
+  "2024-04-20": 55560,
   "date_first_scraped": "2022-06-02",
   "description": "This Is Los Rieleros Del Norte. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Rieleros Del Norte",
@@ -579,10 +579,28 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171533,
       "name": "Falsa y Mancornadora",
       "url": "https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
     },
     {
       "album": {

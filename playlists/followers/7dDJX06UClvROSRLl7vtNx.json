@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 57811,
+  "2024-04-20": 57876,
   "date_first_scraped": "2023-12-07",
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
   "name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
@@ -121,7 +121,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148000,
       "name": "All of My Life",
       "url": "https://open.spotify.com/track/2ZjY7V5G22ALggY0l2tFz8"
@@ -2379,7 +2379,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136634,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/1dHWwuRihXyoVjLYhlvF31"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132081,
       "name": "Home",
       "url": "https://open.spotify.com/track/3btdOaDH4o9B518GryM5RT"
@@ -3012,6 +3012,32 @@
     },
     {
       "album": {
+        "name": "Kendall Park",
+        "url": "https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf"
+      },
+      "artists": [
+        {
+          "name": "Duce",
+          "url": "https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200635,
+      "name": "Kendall Park",
+      "url": "https://open.spotify.com/track/2SXi0cldambE2930H18LoL"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/64OoWtI7Bp30sAW2Y3RGVi"
       },
@@ -3449,7 +3475,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
@@ -3593,6 +3619,28 @@
       "duration_ms": 225517,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4YM1Jcr8dPy1Ql0khFMt4L"
+    },
+    {
+      "album": {
+        "name": "Losing Sight",
+        "url": "https://open.spotify.com/album/72MjUitQVBs1K22WXK1kOT"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140005,
+      "name": "Losing Sight",
+      "url": "https://open.spotify.com/track/4e5BPVd9A4UBLZBsRPxJ9E"
     },
     {
       "album": {
@@ -3975,7 +4023,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198352,
       "name": "Memories",
       "url": "https://open.spotify.com/track/38ResUOMxk05LUJgFire6b"
@@ -6725,7 +6773,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163509,
       "name": "Wondrous",
       "url": "https://open.spotify.com/track/6AZ2iSCR0pzqutaeBXXooi"

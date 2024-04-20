@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 1995366,
+  "2024-04-20": 1991296,
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: BINI",
+  "description": "Mga nangunguna sa mundo ng OPM. \nCover: NOBITA",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -21,6 +21,24 @@
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
+    },
+    {
+      "album": {
+        "name": "A Tale of Us",
+        "url": "https://open.spotify.com/album/0LEvapJu0hYIKtKo7Ak1JM"
+      },
+      "artists": [
+        {
+          "name": "Huni",
+          "url": "https://open.spotify.com/artist/00ZKfj5ZkA4F4KvipCDZQc"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252447,
+      "name": "A Tale of Us",
+      "url": "https://open.spotify.com/track/5fCd7HfQzCDWplEJMaVr5O"
     },
     {
       "album": {
@@ -707,7 +725,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198573,
       "name": "Huwag Na Huwag Mong Sasabihin",
       "url": "https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI"
@@ -729,6 +747,24 @@
       "duration_ms": 189365,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5zJzTzLFoU78NHB83ixiXL"
+    },
+    {
+      "album": {
+        "name": "Ikot",
+        "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
+      },
+      "artists": [
+        {
+          "name": "Over October",
+          "url": "https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250093,
+      "name": "Ikot",
+      "url": "https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE"
     },
     {
       "album": {
@@ -779,7 +815,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234666,
       "name": "Kailan?",
       "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
@@ -895,7 +931,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
@@ -971,7 +1007,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 121845,
       "name": "Makasarili Malambing",
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
@@ -993,10 +1029,28 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121660,
       "name": "Makasarili Malambing (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
+    },
+    {
+      "album": {
+        "name": "Maling Panahon",
+        "url": "https://open.spotify.com/album/31RWGvdfCCcJvI2VTHeivZ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207307,
+      "name": "Maling Panahon",
+      "url": "https://open.spotify.com/track/1YPIUdTByuxklKaTiNlVaN"
     },
     {
       "album": {
@@ -1139,7 +1193,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227262,
       "name": "Nahuhulog",
       "url": "https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs"
@@ -1829,6 +1883,24 @@
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
+    },
+    {
+      "album": {
+        "name": "Lola Amour",
+        "url": "https://open.spotify.com/album/11RYeRVMyewvGzrBo5UigQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Umiinit",
+      "url": "https://open.spotify.com/track/2BtALVUCAnFvAUwHki5LEg"
     },
     {
       "album": {

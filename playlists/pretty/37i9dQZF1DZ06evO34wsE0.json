@@ -1,12 +1,12 @@
 {
   "description": "This Is Shania Twain. Los temas esenciales, todos en una lista.",
-  "num_followers": 239228,
+  "num_followers": 239190,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDUzYmEzYWQzZjIwZjU3ZTNlOTAwMmE5Y2QxZWMyNzk5",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDRiODg1YTIzNjFjMTZiZjkzYmVjMDEzMzNkZDI1ZTYw",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 289573,
-      "name": "The Woman In Me (Needs The Man In You)",
-      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now (Deluxe)",
         "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 220173,
       "name": "Life's About To Get Good",
       "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 289573,
+      "name": "The Woman In Me (Needs The Man In You)",
+      "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Home Ain't Where His Heart Is (Anymore)",
-      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Of Me",
         "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 159256,
       "name": "Pretty Liar",
       "url": "https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Home Ain't Where His Heart Is (Anymore)",
+      "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Whatever You Do! Don't!",
-      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now (Deluxe)",
         "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 213093,
       "name": "Swingin' With My Eyes Closed",
       "url": "https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Whatever You Do! Don't!",
+      "url": "https://open.spotify.com/track/1oDey7MWmrKRCSM0tgEoU8"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/0SzuhEBT55ECyG1Pur6xIp"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 101600,
-      "name": "Amneris' Letter",
-      "url": "https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz"
+      "duration_ms": 178098,
+      "name": "Queen Of Me",
+      "url": "https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX"
     }
   ],
   "unique_name": "This Is Shania Twain",

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 137882,
+  "2024-04-20": 137911,
   "date_first_scraped": "2021-12-21",
   "description": "Blues with a British flavor. Cover: Jeff Beck",
   "name": "Brit-Blues",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 140905,
       "name": "12 Gauge",
       "url": "https://open.spotify.com/track/60oxeLK5l66VXKfruuj6zX"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 464666,
       "name": "A Fool No More",
       "url": "https://open.spotify.com/track/4h5r5YL1QXFiblkRUtTXCb"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Master",
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 450000,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 166066,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181720,
       "name": "Don't Ask Me What I Say",
       "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 347200,
       "name": "God Loves A Loser",
       "url": "https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 463973,
       "name": "Gotta Get to Know You",
       "url": "https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266120,
       "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
       "url": "https://open.spotify.com/track/2pKJ5WNABAKYfI4Fa4QmKw"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 321160,
       "name": "I Can't Wait Much Longer",
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215453,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330400,
       "name": "I Woke up This Morning",
       "url": "https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 240973,
       "name": "If That Ain't A Reason",
       "url": "https://open.spotify.com/track/4v26MY6oRGioIHvfCYFxMT"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 298173,
       "name": "If You See Him",
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229000,
       "name": "In the Skies",
       "url": "https://open.spotify.com/track/0Irk2FQc4Qs8VeylwfTNn5"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202760,
       "name": "It's Only Love",
       "url": "https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 175853,
       "name": "Jo Ann",
       "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162426,
       "name": "Man of the World",
       "url": "https://open.spotify.com/track/6xiH4qEmsfOvvdMcuAjX7s"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 235115,
       "name": "Married Woman",
       "url": "https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 170826,
       "name": "My Baby's Good to Me",
       "url": "https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-26",
+      "date_removed": null,
       "duration_ms": 232082,
       "name": "No Fool Baby",
       "url": "https://open.spotify.com/track/4nY5qPRiY5x0t1cwMBhNuS"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 169177,
       "name": "Rain Is Such a Lonesome Sound - Remastered",
       "url": "https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 284106,
       "name": "Scaramouche",
       "url": "https://open.spotify.com/track/2F74eGsMRbLJ8dAsZMrMRH"
@@ -1679,7 +1679,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 177306,
       "name": "Sittin' And Thinkin' - Mono Version",
       "url": "https://open.spotify.com/track/0umo8TT1q9CQbOwfjHHK1O"
@@ -1697,7 +1697,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 389933,
       "name": "So Tired of Living",
       "url": "https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn"
@@ -1733,7 +1733,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216186,
       "name": "Someday Baby Blues",
       "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
@@ -1787,7 +1787,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251800,
       "name": "Still a Fool - Single Edit",
       "url": "https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235720,
       "name": "The Fool and Me - 2007 Remaster",
       "url": "https://open.spotify.com/track/0KaBfk7ax1IoCyA1aABCf9"
@@ -1975,7 +1975,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268920,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396106,
       "name": "Thunder in the Sky",
       "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 366533,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR"
@@ -2083,7 +2083,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 451893,
       "name": "Too Rolling Stoned - 2007 Remaster",
       "url": "https://open.spotify.com/track/0aveCMNj686kG1oX4n80P6"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 256733,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
@@ -2191,7 +2191,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180146,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/078TqqyJ2vNKBsgpOm6rZr"

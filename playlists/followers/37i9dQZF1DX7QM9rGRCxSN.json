@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 30395,
+  "2024-04-20": 30402,
   "date_first_scraped": "2023-03-08",
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
   "name": "Shoegaze & Dreampop en espa\u00f1ol",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 283000,
       "name": "Boni Nait\u00f3",
       "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299999,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 228642,
       "name": "Cielo Negro",
       "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
@@ -417,10 +417,28 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd"
+      },
+      "artists": [
+        {
+          "name": "Aura Blum",
+          "url": "https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196408,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI"
     },
     {
       "album": {
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242813,
       "name": "Especial",
       "url": "https://open.spotify.com/track/1nkXSpEZCAHEI7yTxm5ZZp"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361064,
       "name": "Fukushima",
       "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235015,
       "name": "Jupiter and Beyond the Infinite",
       "url": "https://open.spotify.com/track/2naI19G3CIvBAa6fdyN9Wv"
@@ -937,6 +955,24 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "album": {
+        "name": "La Era de los Monstruos",
+        "url": "https://open.spotify.com/album/3p524bCgyYxW0AssSD1es5"
+      },
+      "artists": [
+        {
+          "name": "Bardo Jos\u00e9",
+          "url": "https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "La Era de los Monstruos",
+      "url": "https://open.spotify.com/track/3hjyxB7JF9RdLYbnxwoZ8O"
     },
     {
       "album": {
@@ -1023,7 +1059,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238714,
       "name": "Liberaci\u00f3n",
       "url": "https://open.spotify.com/track/0Qd0MPuE8LLAhgMyS3uJkB"
@@ -1059,7 +1095,7 @@
       ],
       "date_added": "2022-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
@@ -1233,7 +1269,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
@@ -1251,7 +1287,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 207435,
       "name": "m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe"
@@ -1291,6 +1327,24 @@
       "duration_ms": 194440,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1 te mueras",
+        "url": "https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO"
+      },
+      "artists": [
+        {
+          "name": "Menta",
+          "url": "https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247583,
+      "name": "Ojal\u00e1 te mueras",
+      "url": "https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf"
     },
     {
       "album": {
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Poco a Poco",
       "url": "https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX"
@@ -1403,7 +1457,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 212008,
       "name": "Portal",
       "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
@@ -1421,7 +1475,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174343,
       "name": "Purpura",
       "url": "https://open.spotify.com/track/6EGVCwrmaBn3IbQn22oms2"
@@ -1439,7 +1493,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164347,
       "name": "P\u00e1lida",
       "url": "https://open.spotify.com/track/1v8rkd3pR6Yep9fmdtMGw9"
@@ -1569,7 +1623,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 135083,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg"
@@ -1605,7 +1659,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I"
@@ -1771,7 +1825,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/1vyqlRBQeFFfbL1l6d43yD"
@@ -1883,7 +1937,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319058,
       "name": "Wow",
       "url": "https://open.spotify.com/track/5nO4n8RClXZg2ugsBU9hXy"

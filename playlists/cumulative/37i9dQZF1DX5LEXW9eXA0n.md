@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Kim Na Young\(김나영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:PARK WON\(박원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,195 songs - 3 day 5 hr 26 min
+1,197 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2022-03-24 | 2022-04-21 |
 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 | 2023-05-16 | 2023-09-19 |
 | [Begin to snow](https://open.spotify.com/track/2p45sMAYpkYpk1Oq72ulbK) | [Jo Hwanji](https://open.spotify.com/artist/5akSWTgM0AKiKKfSjEdplh) | [Begin to snow](https://open.spotify.com/album/40uF1cLo4ePEhzbH70rg4V) | 3:24 | 2023-01-11 | 2023-02-25 |
+| [beginning and end](https://open.spotify.com/track/6WBlLE5l2dxxdzt4j6GdKD) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [my fuxxxxx romance](https://open.spotify.com/album/3AQTZVGPEZIpeLz43JsrKY) | 4:40 | 2024-04-19 |  |
 | [Behind](https://open.spotify.com/track/31J3EB7lTTqXDuu2SDYGpR) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Battle for Happiness, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3HNZ8hl6Y8925KOfNxi29R) | 3:30 | 2023-06-22 | 2023-09-13 |
 | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/track/0qra3sEPOw2fLrXzyr5l0k) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Behind You \(Monthly Project 2021 May Yoon Jong Shin\)](https://open.spotify.com/album/45JhwZbI1ZraQWnGWhFCk9) | 4:48 | 2022-01-03 | 2022-04-20 |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-03-08 |
@@ -1035,6 +1036,7 @@
 | [Until The End](https://open.spotify.com/track/5ywcBaGtUM4WmAuew0SrYF) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Until The End](https://open.spotify.com/album/3nttddhDLwta0CfJN5RUjI) | 4:08 | 2022-07-07 | 2022-08-13 |
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-03 | 2023-01-21 |
 | [Voyage](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [CASTAWAY DIVA OST Part.8](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) | 4:14 | 2023-11-22 |  |
+| [Wait Me There](https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Wait Me There](https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO) | 3:42 | 2024-04-19 |  |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-08 |  |
 | [Waiting all day](https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Waiting all day](https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ) | 4:40 | 2023-10-11 | 2024-02-16 |
 | [Waiting for Spring](https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [bimil:ier vol.2 "Waiting for Spring"](https://open.spotify.com/album/160i9qiaCyfd8l5YzjYMIY) | 3:21 | 2022-01-14 | 2022-06-11 |

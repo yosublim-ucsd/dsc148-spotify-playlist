@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 88 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 89 | [alone in my room](https://open.spotify.com/track/5GyVWOrOM6W3q8A1c9ZGp6) | [Ami Suzuki](https://open.spotify.com/artist/5txXmJzhOCjswudIed7MAI) | [alone in my room](https://open.spotify.com/album/4Ht04E8kbRJ5PEdUof9QoW) | 5:02 |
 | 90 | [ごきげんだぜっ!〜Nothing But Something〜](https://open.spotify.com/track/4o4mtjhvDAAgum7cfZPQr4) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [ごきげんだぜっ!〜Nothing But Something〜](https://open.spotify.com/album/1eJkgqV3X4UD16C9wzh9nl) | 4:14 |
-| 91 | [POISON\~言いたい事も言えないこんな世の中は\~](https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb) | [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [POISON\~言いたいことも言えないこんな世の中は\~](https://open.spotify.com/album/2ok50clJKYLxafJzLj6O2p) | 4:02 |
+| 91 | [POISON～言いたい事も言えないこんな世の中は～](https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb) | [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [POISON～言いたいことも言えないこんな世の中は～](https://open.spotify.com/album/2ok50clJKYLxafJzLj6O2p) | 4:02 |
 | 92 | [さまよえる蒼い弾丸](https://open.spotify.com/track/22vD6sEksRVOGjh4FZW0eK) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [さまよえる蒼い弾丸](https://open.spotify.com/album/1PLMRB31mV1xYP4NDhoI4X) | 4:04 |
 | 93 | [I for You](https://open.spotify.com/track/3jiir4e9YskLAWFEss7KJU) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [SHINE／LUNA SEA](https://open.spotify.com/album/00TwODQQItzVNRG3bgu0EG) | 5:28 |
 | 94 | [こんな風にして終わるもの](https://open.spotify.com/track/027ixXjIbwao45sdRuWIM3) | [Misako Odani](https://open.spotify.com/artist/1qyvDpymTYPpF5iguflCMT) | [こんな風にして終わるもの](https://open.spotify.com/album/56Zq963c1QxWOiBYO6p1BW) | 4:23 |

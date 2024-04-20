@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: doppel gangs
 
-171 songs - 9 hr 30 min
+172 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [lo único que quería este verano](https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [lo único que quería este verano](https://open.spotify.com/album/4Oh1JcGS5Ws13ZXVGxtXO4) | 3:24 | 2024-03-15 |  |
 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 | 2024-04-05 |  |
 | [Los Halcones](https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Los Halcones](https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz) | 5:26 | 2024-01-26 |  |
+| [Los Lunes](https://open.spotify.com/track/7COVceD2VIwMgh5tKnyWWv) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Los Lunes](https://open.spotify.com/album/5aiLxQadEA6CoBZ2WgBhSS) | 2:59 | 2024-04-19 |  |
 | [Luminosidad \- Remix](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 | 2024-04-05 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-12-15 |  |
 | [Mala Influencia](https://open.spotify.com/track/0l9VKy6AbaCk2mfvD85reL) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS), [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mala Influencia](https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P) | 2:13 | 2023-12-15 | 2024-01-20 |
@@ -160,7 +161,7 @@
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-12-15 | 2024-04-06 |
 | [TLDMPDFDS](https://open.spotify.com/track/2lRtR9qlgfkjsk2KvTtUqG) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [TLDMPDFDS](https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR) | 2:23 | 2023-12-15 |  |
 | [TODO & nada](https://open.spotify.com/track/4y5iaAapB3yFa5fdY8ATXS) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [TODO & nada](https://open.spotify.com/album/2AGVhIhJXLdyMdARFzDIQs) | 2:17 | 2024-04-12 |  |
-| [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 |  |
+| [Todo el Universo](https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Todo el Universo](https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL) | 3:03 | 2023-12-15 | 2024-04-20 |
 | [Todo Lo Que Tengo](https://open.spotify.com/track/39TmRHLELR1MWDlXZAmhWN) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Todo Lo Que Tengo](https://open.spotify.com/album/6TXs9sjN6P6EMF7d5MNFbn) | 1:51 | 2024-01-05 | 2024-02-24 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-12-15 |  |
 | [TRON](https://open.spotify.com/track/2bUGKZBkgUnhSy3BOgsVSV) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ) | [TRON](https://open.spotify.com/album/5s6bzBHKOA5tsFof560XlJ) | 2:25 | 2023-12-15 |  |

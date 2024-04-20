@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11711,
+  "2024-04-20": 11724,
   "date_first_scraped": "2023-05-20",
   "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana. Hit shuffle for a mixed listening experience. Cover: Miguel Cornejo ",
   "name": "New M\u00fasica Mexicana Albums",
@@ -3649,6 +3649,24 @@
     {
       "album": {
         "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176169,
+      "name": "La Prietita Que Yo Quiero",
+      "url": "https://open.spotify.com/track/2RrFo2KKiXqzIS58DWTrgm"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
       },
       "artists": [
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176169,
       "name": "La Prietita Que Yo Quiero",
       "url": "https://open.spotify.com/track/5F2r2rN7mGGgmmXuz83cC8"
@@ -4261,6 +4279,28 @@
     {
       "album": {
         "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/6fXGOQ8CLhMZomA9PCmNfa"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183821,
+      "name": "Maracas",
+      "url": "https://open.spotify.com/track/0JTWNYUddOo4EfR7XBQYIR"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
       },
       "artists": [
@@ -4275,7 +4315,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183821,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/15XX6d9QPjcaMOtZghjSOG"
@@ -6221,6 +6261,24 @@
     {
       "album": {
         "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/1IA28U4u4TqPWcGl3mM3X9"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165964,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/3YJT3H1PDzTBWucbj4woxA"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/45QGHZzGS3RrwGEldKoDk8"
       },
       "artists": [
@@ -6231,7 +6289,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165964,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/7E0VVIGnQI4PruOYBn1mHd"

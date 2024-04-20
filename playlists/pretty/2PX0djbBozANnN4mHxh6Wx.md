@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,272 likes - 544 songs - 1 day 8 hr 44 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 18,266 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -476,7 +476,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 466 | [癌 is the new thin](https://open.spotify.com/track/70c9wwn2pHz2KNw5SPJDAx) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [ｇｅｔ　ａ　ｊｏｂ 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 2:20 |
 | 467 | [solitude i think](https://open.spotify.com/track/6UAab2T6OockED0byUodhQ) | [lvusm](https://open.spotify.com/artist/2iFB1sUnmksG09STRCdEaW) | [solitude i think](https://open.spotify.com/album/2laUoctY0aRMyM2t3KG9i2) | 1:28 |
 | 468 | [Foggy Town](https://open.spotify.com/track/55DbJWtEtgkPA4rUxTk8lv) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [Panoramic Feelings \(Mellow Carefree Lounge Music\)](https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu) | 3:02 |
-| 469 | [Currency Exchange](https://open.spotify.com/track/4BgNu9dseDLYxTMcfqmbGw) | [Limousine](https://open.spotify.com/artist/411IJ9TOjFsm7Jc8ZE9CJT), [猫 シ Corp.](https://open.spotify.com/artist/6ha2n5w1pOH1QE24lZEC08) | [Paypal Playboy](https://open.spotify.com/album/7yFfQ5PuLHs8Tew5E8RC0D) | 2:12 |
+| 469 | [Currency Exchange](https://open.spotify.com/track/4BgNu9dseDLYxTMcfqmbGw) | [Limousine](https://open.spotify.com/artist/411IJ9TOjFsm7Jc8ZE9CJT), [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Paypal Playboy](https://open.spotify.com/album/7yFfQ5PuLHs8Tew5E8RC0D) | 2:12 |
 | 470 | [Night](https://open.spotify.com/track/14dsQfXM1dVAs6iIB8Xo5Z) | [Ｏｃｅａｎ Ｓｈｏｒｅｓ](https://open.spotify.com/artist/4F8OvpfT26bzCmzuUpcMzF) | [Content Feelings](https://open.spotify.com/album/4IqAtsD4Vb9GEd6oL7iuhj) | 2:00 |
 | 471 | [Telepathic Bliss](https://open.spotify.com/track/2nR7HlMx83wBvZNaUltElP) | [Incorporeal Visions Deluxe](https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e) | [Network Entities](https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd) | 2:10 |
 | 472 | [Self\-Isolation Boogie](https://open.spotify.com/track/5R6l0pIwuRyF4AiYZ9Rdpv) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [CoronaWave: コロナウイルス](https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz) | 1:43 |

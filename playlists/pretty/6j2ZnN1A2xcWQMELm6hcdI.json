@@ -1,13 +1,29 @@
 {
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Chl\u00f6e",
-  "num_followers": 337027,
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Lola Brooke",
+  "num_followers": 336553,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzY3MCwwZWY0ZWIwOWU2YmJlN2Q5YzhhNGJkOGQyZDYyZDI3MjE0OGMyNzE4",
+  "snapshot_id": "MzY4MSwxMDRjOWU3YTYxZTU0ZGRkNmU4NjU0MGZmZTBkYzAwNmE3MmQ3MjBh",
   "tracks": [
+    {
+      "added_at": "2024-04-19 13:24:33",
+      "album": {
+        "name": "Dennis Daughter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Neighborhood Hero",
+      "url": "https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ"
+    },
     {
       "added_at": "2024-04-12 13:41:38",
       "album": {
@@ -75,6 +91,54 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2024-04-19 14:25:44",
+      "album": {
+        "name": "Something To Listen To",
+        "url": "https://open.spotify.com/album/19pZSaoSylW9hTSrcwxHYq"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Something To Listen To",
+      "url": "https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn"
+    },
+    {
+      "added_at": "2024-04-19 14:26:02",
+      "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
+    },
+    {
+      "added_at": "2024-04-19 14:25:02",
+      "album": {
+        "name": "chill like that",
+        "url": "https://open.spotify.com/album/4LSq1Mp7qhNPOj65tS2IEF"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "chill like that",
+      "url": "https://open.spotify.com/track/5PThZUzaBqA9l4J4CDW0Cm"
     },
     {
       "added_at": "2024-04-05 14:20:04",

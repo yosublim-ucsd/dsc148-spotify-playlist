@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 383435,
+  "2024-04-20": 382697,
   "date_first_scraped": "2022-03-22",
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Olga Ta\u00f1\u00f3n",
   "name": "Merengue Mania",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295280,
       "name": "A Pedir Su Mano",
       "url": "https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-06",
+      "date_removed": null,
       "duration_ms": 207906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238160,
       "name": "Borr\u00f3n y Cuenta Nueva",
       "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235833,
       "name": "Buscando Tus Besos",
       "url": "https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 205693,
       "name": "Como Yo",
       "url": "https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 277803,
       "name": "Coqueta y Sabrosa",
       "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259186,
       "name": "El Comejen",
       "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265360,
       "name": "El Ni\u00e1gara en Bicicleta",
       "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
@@ -1566,6 +1566,28 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Sin Fronteras (100% Merengue)",
+        "url": "https://open.spotify.com/album/7cfK0f77wSPEByiDDfx3Fr"
+      },
+      "artists": [
+        {
+          "name": "Sin Fronteras",
+          "url": "https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV"
+        },
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216833,
+      "name": "Gozando",
+      "url": "https://open.spotify.com/track/6WkQGg9n2vvUNuu2UYEzD1"
+    },
+    {
+      "album": {
         "name": "El Hombre Mas Famoso De La Tierra",
         "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
@@ -1711,7 +1733,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
@@ -1837,7 +1859,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 288866,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/2gU7z6VLvHtrRCZvLhVehS"
@@ -1945,7 +1967,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306442,
       "name": "La Quiero a Morir",
       "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267733,
       "name": "La Tanga",
       "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
@@ -2319,7 +2341,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 171040,
       "name": "Me Miras Y Te Miro - New Version",
       "url": "https://open.spotify.com/track/5yRdwws9A2CWy9caVCox6q"
@@ -2485,7 +2507,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261355,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe"
@@ -2677,7 +2699,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-03",
+      "date_removed": null,
       "duration_ms": 272013,
       "name": "No hay nadie m\u00e1s",
       "url": "https://open.spotify.com/track/7dBAzD9u3759XcFKFQdVaD"
@@ -2713,7 +2735,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 222426,
       "name": "No Me Veran Caer",
       "url": "https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M"
@@ -2735,7 +2757,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "No Toy En Ti",
       "url": "https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y"
@@ -3071,7 +3093,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 227646,
       "name": "QUIERO",
       "url": "https://open.spotify.com/track/72hrD25ipI1I6TgJeG5Lui"
@@ -3111,7 +3133,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 213976,
       "name": "Qu\u00e9date Conmigo - Remix",
       "url": "https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw"
@@ -3133,7 +3155,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213976,
       "name": "Qu\u00e9date Conmigo - Remix",
       "url": "https://open.spotify.com/track/4rAkFlZZOlhVAIUPPRdYG3"
@@ -3169,7 +3191,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 234426,
       "name": "Sandunga",
       "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
@@ -3335,7 +3357,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-13",
+      "date_removed": null,
       "duration_ms": 327346,
       "name": "Te Gusta Eh",
       "url": "https://open.spotify.com/track/7rQ3bs2Rh4xwFZw2f1HTKE"
@@ -3643,7 +3665,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273365,
       "name": "T\u00fa Eres Ajena",
       "url": "https://open.spotify.com/track/77HRtzFzZyNbBDDJFpz5q0"
@@ -3661,7 +3683,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Una Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
@@ -3733,7 +3755,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207333,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/7uC9TpGGHrAssX8NUKBqed"
@@ -3859,7 +3881,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290800,
       "name": "Ya Viene el Lunes",
       "url": "https://open.spotify.com/track/1v1P2PoDr2JQEx2ruuS8yG"

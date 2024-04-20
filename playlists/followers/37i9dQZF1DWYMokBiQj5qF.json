@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 123578,
+  "2024-04-20": 123859,
   "date_first_scraped": "2023-09-30",
   "description": "Immerse yourself in the sounds of Night City with the official playlist for Cyberpunk 2077. ",
   "name": "Cyberpunk 2077 Official Playlist",
@@ -675,7 +675,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195240,
       "name": "No Save Point (From \u201cCyberpunk 2077\u201d)",
       "url": "https://open.spotify.com/track/5CDuTBTKuXHwLIfbmqQdQK"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 195240,
       "name": "No Save Point - From \"Cyberpunk 2077\"",
       "url": "https://open.spotify.com/track/27SjutLnh1PXRYDjmSDs78"

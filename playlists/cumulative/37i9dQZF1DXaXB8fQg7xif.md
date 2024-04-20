@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,092 songs - 2 day 10 hr 51 min
+1,093 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 |  |
 | [Body Pop](https://open.spotify.com/track/75bs4ULNvZCzTfAa3ZuD8V) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Body Pop](https://open.spotify.com/album/1IzaAM1IEF1VVnpXrJQEZJ) | 2:40 | 2020-05-22\* | 2021-01-29 |
 | [Body Pump \- Lady Bee Remix](https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Body Pump \(Lady Bee Remix\)](https://open.spotify.com/album/3bk3p9RSvYg3o7823tFSB7) | 2:56 | 2021-02-12 | 2022-06-28 |
-| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-03 |  |
+| [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-03 | 2024-04-20 |
 | [Bon Bini](https://open.spotify.com/track/6ytVMBHu1ZXvaBvufHCBOX) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Bon Bini EP](https://open.spotify.com/album/40BvOscZc5SsyKTAKmSsgF) | 6:01 | 2020-12-27 | 2021-10-14 |
 | [Bongo Cha Cha Cha](https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Bongo Cha Cha Cha](https://open.spotify.com/album/0goSLvh4vqvDLQHmee3Bk1) | 1:53 | 2021-06-07 | 2022-12-15 |
 | [Boogie All Night](https://open.spotify.com/track/0nboWXjBJpwLSIjUVGeuwc) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Messing With Magic \(Deluxxe Edition\)](https://open.spotify.com/album/0HlqsgrcA5SMYt6sGC1Fil) | 3:39 | 2021-10-10 | 2022-04-21 |
@@ -591,6 +591,7 @@
 | [Lovefool \- Nicky Romero Remix](https://open.spotify.com/track/7iydGgbqWUwYQNKiUXaoWq) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lovefool \(Nicky Romero Remix\)](https://open.spotify.com/album/5WrYRX2Ov8kYFfCVJTOSkq) | 3:29 | 2020-10-13 | 2022-07-02 |
 | [Loving Touch \- Edit](https://open.spotify.com/track/66gN2X2yIMR51Y2jRkJROa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Loving Touch](https://open.spotify.com/album/4J0OAAqZ8k8B20tXlpidtg) | 3:00 | 2021-03-14 | 2022-05-22 |
 | [Lucky](https://open.spotify.com/track/0Quhzm1B1Z9I5S9RP6BgLh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Lucky](https://open.spotify.com/album/29hQOfDBBJ2kIVXy5nI0FX) | 3:25 | 2020-08-04 | 2021-10-14 |
+| [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2024-04-19 |  |
 | [Magic Carpet](https://open.spotify.com/track/4BAc3BAru7sZajWAftSsAA) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [MAY BBY](https://open.spotify.com/artist/6Lo8eDoMJqDyDBKENRlPMU) | [Magic Carpet](https://open.spotify.com/album/7bjaj1UGXKRZA9SiOtBNu4) | 2:48 | 2021-04-20 | 2022-04-19 |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2021-12-13 | 2022-07-15 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-12-17 | 2022-08-19 |

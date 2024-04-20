@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring John Summit & Dom Dolla \(Everything Always\)
 
-856 songs - 2 day 2 hr 58 min
+857 songs - 2 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-15 | 2024-03-10 |
 | [Dancing Cliché](https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Cliché](https://open.spotify.com/album/0KXXLq1rUjATTps8cptlrH) | 2:32 | 2021-12-17 | 2022-12-13 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-19 | 2023-07-08 |
-| [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-04-19 |  |
+| [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-04-19 | 2024-04-20 |
 | [Deep Inside Of Me](https://open.spotify.com/track/2Ri0Qu7xCrxLRviLC2wo6x) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Deep Inside Of Me](https://open.spotify.com/album/0mxRqyRNmZk6KgOfLrF9jA) | 3:07 | 2023-09-15 | 2023-11-11 |
 | [Desire](https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Desire](https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY) | 2:51 | 2024-02-16 |  |
 | [Devotion](https://open.spotify.com/track/5FTR583VgLzb56v5LVPCGS) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Devotion](https://open.spotify.com/album/0m2DXHBYLnTphwShdcaAt1) | 3:27 | 2021-03-27\* | 2021-04-10 |
@@ -220,6 +220,7 @@
 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 | 2022-07-01 | 2022-09-03 |
 | [Don't Stop](https://open.spotify.com/track/0a60XuzZXC3G4LoPLmseWz) | [Andre Salmon](https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [Don't Stop Swinging EP](https://open.spotify.com/album/0iPMBFnmVGaKsZSg3pQJyv) | 3:17 | 2021-03-27\* | 2021-07-04 |
 | [Don't Stop](https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't Stop](https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW) | 2:50 | 2023-05-12 | 2024-04-13 |
+| [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-19 |  |
 | [Don't You Know](https://open.spotify.com/track/0s2Xg9JK4pRQ3KSoeSPI8X) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Don't You Know](https://open.spotify.com/album/768Hz6QZDXVSobRmaRtSGI) | 3:23 | 2021-06-03 | 2022-06-29 |
 | [Done](https://open.spotify.com/track/49WMXexA9yViG267eOhxGn) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [Done](https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE) | 3:05 | 2024-02-23 |  |
 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 | 2022-03-04 | 2023-03-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 184662,
+  "2024-04-20": 184647,
   "date_first_scraped": "2022-05-30",
   "description": "Time to mend your broken heart with beautiful melodies!",
   "name": "Kaadhal Vali",
@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 246666,
       "name": "En Kadhal (From \"Andhagan\")",
       "url": "https://open.spotify.com/track/5dSxl1cCBhbslpWT7iXeWY"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324000,
       "name": "Ennai Kollathey",
       "url": "https://open.spotify.com/track/6I1nER2VxG6uyodGFnVswe"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 324048,
       "name": "Ennai Kollathey",
       "url": "https://open.spotify.com/track/5Tu2xARdujxgjxazGYvD7n"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208440,
       "name": "Imaye Imaye",
       "url": "https://open.spotify.com/track/2MFopQXldr1aXxvZA09jmD"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208440,
       "name": "Imaye Imaye",
       "url": "https://open.spotify.com/track/6H1hnJRQOGQ9djPL3jNu9G"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 272093,
       "name": "Indha Ponnungalae",
       "url": "https://open.spotify.com/track/2wl41MwsymrIt2oceqdFgP"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 348290,
       "name": "Kan Pesum Varthaigal (From \"7/G Rainbow Colony\")",
       "url": "https://open.spotify.com/track/6YDJ4XEYgW0jbn8WDZCfsB"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289853,
       "name": "Kannamma",
       "url": "https://open.spotify.com/track/02hftz4dERYkXuvk8TrgJ1"
@@ -939,25 +939,13 @@
       },
       "artists": [
         {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        },
-        {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
+          "name": "Pradeep Kumar,Dhee,Ananthu",
+          "url": "https://open.spotify.com/artist/1ALoB8I9ZTqDgodoZ9yiq5"
         }
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 289853,
       "name": "Kannamma",
       "url": "https://open.spotify.com/track/3gJbCMoDT9rUmPS1GPd6kn"
@@ -1031,7 +1019,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 298733,
       "name": "Kulirudha Pulla",
       "url": "https://open.spotify.com/track/5JUHicYaUIOopZr7RKucnn"
@@ -1307,7 +1295,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 83693,
       "name": "Muthu Mazhaiye",
       "url": "https://open.spotify.com/track/0qfyRQdNvRrf7oDpxFAyRg"
@@ -1377,7 +1365,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 305217,
       "name": "Naan Varuvean",
       "url": "https://open.spotify.com/track/7bBE2Q4cUQUMWGEPvloyVp"
@@ -1633,7 +1621,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 423930,
       "name": "Oru Poiyavathu (From \"Jodi\")",
       "url": "https://open.spotify.com/track/2n0ffQTaPdqflETu3qVRnl"
@@ -1703,7 +1691,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 261813,
       "name": "Paakatha",
       "url": "https://open.spotify.com/track/7leZvkSK0HCGJAFSOaaqpA"
@@ -1849,7 +1837,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330400,
       "name": "Pogadhe",
       "url": "https://open.spotify.com/track/6uA90IUWpY0SaMmhVdWWJk"
@@ -1955,7 +1943,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342626,
       "name": "Sakarai Nilave",
       "url": "https://open.spotify.com/track/6XZkIKIWWd0N7bDdqtD7DM"

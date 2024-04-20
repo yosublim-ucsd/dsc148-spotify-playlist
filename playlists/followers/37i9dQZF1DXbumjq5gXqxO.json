@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10069,
+  "2024-04-20": 10082,
   "date_first_scraped": "2022-06-10",
   "description": "Check out the Official Hustle Playlist. Watch now on Netflix.",
   "name": "Hustle Official Playlist",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263359,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/1QWt5CGIXk31EPOkKJ59Y6"
@@ -51,7 +51,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 263359,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/2AqYgGrdPy8Ok6lttZe1cs"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161763,
       "name": "Bo Vs Kermit Pt 1",
       "url": "https://open.spotify.com/track/3PtZ7SsYI8QsAXsGuunill"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 161763,
       "name": "Bo Vs Kermit Pt 1",
       "url": "https://open.spotify.com/track/6c9FZxNyvcHjeC4oI5LIuN"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213469,
       "name": "Combine",
       "url": "https://open.spotify.com/track/42Dz6t9alIUBXLyjNRpAzV"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 213469,
       "name": "Combine",
       "url": "https://open.spotify.com/track/7IrwbXuntE5iGMh22ZvyvF"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 144971,
       "name": "Run Up HIll Fail",
       "url": "https://open.spotify.com/track/2KH7slxLxw2b38TUNoeoTd"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144971,
       "name": "Run Up HIll Fail",
       "url": "https://open.spotify.com/track/6bBqYFW5MgtPlFXoqkjdSZ"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 184756,
       "name": "Run Up HIll Win",
       "url": "https://open.spotify.com/track/0fuNrf9eyCnJkFtFJneInh"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184756,
       "name": "Run Up HIll Win",
       "url": "https://open.spotify.com/track/5CqIB4GFzlWwfx7V4MEq6A"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 122297,
       "name": "Streetball",
       "url": "https://open.spotify.com/track/1p8pZ8f1DvFZZ2GiiKuHFG"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122297,
       "name": "Streetball",
       "url": "https://open.spotify.com/track/3ZmCfGFOw9xy5EnwAhOgVy"

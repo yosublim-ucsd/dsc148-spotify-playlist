@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 73205,
+  "2024-04-20": 73225,
   "date_first_scraped": "2022-09-15",
   "description": "<a href=\"spotify:artist:27LGatz1m8aJ7ZaVVWEphc\">Gui Boratto</a>'s favourite tracks. Updated regularly. Curated by Gui Boratto. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Gui Boratto's track IDs",
@@ -730,6 +730,24 @@
     },
     {
       "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235493,
+      "name": "Erotic City",
+      "url": "https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g"
+    },
+    {
+      "album": {
         "name": "Purple Rain (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
       },
@@ -741,7 +759,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236160,
       "name": "Erotic City - Let's Go Crazy 7\" B-Side Edit; 2017 Remaster",
       "url": "https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF"
@@ -1417,10 +1435,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186533,
       "name": "Jungle Boogie",
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
+    },
+    {
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3826fPFgIEBt3yXineniDV"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/4qxCDr5DquZsfaK7lvnY9G"
     },
     {
       "album": {
@@ -1581,6 +1617,32 @@
     {
       "album": {
         "name": "Dark Night of The Soul",
+        "url": "https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Sparklehorse",
+          "url": "https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE"
+        },
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272933,
+      "name": "Little Girl (feat. Julian Casablancas)",
+      "url": "https://open.spotify.com/track/0Ih55K62jZIbeTysGHJkW0"
+    },
+    {
+      "album": {
+        "name": "Dark Night of The Soul",
         "url": "https://open.spotify.com/album/4m7YqqQc36mQwhHgH4AsVu"
       },
       "artists": [
@@ -1599,7 +1661,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272933,
       "name": "Little Girl (feat. Julian Casablancas)",
       "url": "https://open.spotify.com/track/6lGzMfAWjZbvPPf8SLpu0Y"

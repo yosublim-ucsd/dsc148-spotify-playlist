@@ -754,7 +754,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 167250,
       "name": "Butterfly Fly",
       "url": "https://open.spotify.com/track/2KFKwbjRTXJj0lWKBkBLJX"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 118547,
       "name": "Elder",
       "url": "https://open.spotify.com/track/3zIeAw0QM8l0mElw7BnPV9"
@@ -1442,6 +1442,24 @@
       "duration_ms": 60330,
       "name": "First Lullaby",
       "url": "https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6"
+    },
+    {
+      "album": {
+        "name": "Five In The Morning",
+        "url": "https://open.spotify.com/album/2FySZAFIuyM1fJT7OnR5qg"
+      },
+      "artists": [
+        {
+          "name": "Ellio Chanson",
+          "url": "https://open.spotify.com/artist/1kj2CTKpnlYp8mK1zAuO43"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147416,
+      "name": "Five In The Morning",
+      "url": "https://open.spotify.com/track/7HZwjhPILEmhB0ccHRhpcp"
     },
     {
       "album": {
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 155260,
       "name": "Hot Cross Buns",
       "url": "https://open.spotify.com/track/2ASy1nwrKUW7ABUwS7e5HF"
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 132653,
       "name": "Nocturne For Luna",
       "url": "https://open.spotify.com/track/6WZmh5M14Gb96trVMtNVmj"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 131694,
       "name": "Sleep Hymn",
       "url": "https://open.spotify.com/track/0S2tBDiIpa03YnsBZFa5Or"
@@ -4374,7 +4392,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 123598,
       "name": "Utflukt i skogen",
       "url": "https://open.spotify.com/track/0OkRmQwlzwVpWdp9T8epnu"

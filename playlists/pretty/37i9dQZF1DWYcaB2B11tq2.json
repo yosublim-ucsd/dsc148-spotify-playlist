@@ -1,6 +1,6 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 411139,
+  "num_followers": 410809,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No Te Olvides",
-        "url": "https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Inlight",
-          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "No Te Olvides",
-      "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todos Mis Mejores Amigos",
         "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 305573,
       "name": "M\u00e1s All\u00e1 De Tu Ventana - Studio",
       "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "No Te Olvides",
+        "url": "https://open.spotify.com/album/1GZFd6QKMYeS72xziUk0ue"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Inlight",
+          "url": "https://open.spotify.com/artist/58j6JUyjaD09A7mRuF1Gcc"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "No Te Olvides",
+      "url": "https://open.spotify.com/track/3IkRM0J6C71Bc7to3zJJHx"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -947,18 +947,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Madre Mia",
-        "url": "https://open.spotify.com/album/7yMwoDM1HP0ik1v522O8bj"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/4aE1FP44EEzmDbUXpJY7h3"
       },
       "artists": [
         {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 238278,
-      "name": "Madre Mia",
-      "url": "https://open.spotify.com/track/0qzHSacEttHiStDJBgCUqT"
+      "duration_ms": 209920,
+      "name": "Need Your Love - Live",
+      "url": "https://open.spotify.com/track/6AowVmxZ6G2zikw5MeqfOG"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -979,22 +983,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/4aE1FP44EEzmDbUXpJY7h3"
+        "name": "Madre Mia",
+        "url": "https://open.spotify.com/album/7yMwoDM1HP0ik1v522O8bj"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
         }
       ],
-      "duration_ms": 209920,
-      "name": "Need Your Love - Live",
-      "url": "https://open.spotify.com/track/6AowVmxZ6G2zikw5MeqfOG"
+      "duration_ms": 238278,
+      "name": "Madre Mia",
+      "url": "https://open.spotify.com/track/0qzHSacEttHiStDJBgCUqT"
     },
     {
       "added_at": "2021-05-21 19:19:27",

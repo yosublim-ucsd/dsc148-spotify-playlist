@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 145011,
+  "2024-04-20": 145055,
   "date_first_scraped": "2021-12-30",
   "description": "Hand-curated cuts from the vault, no record player required. ",
   "name": "Turntable",
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 205785,
       "name": "And Groove - Edit",
       "url": "https://open.spotify.com/track/3flV2wHEamgIEu3nUkHnH6"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138760,
       "name": "Another Dose (feat. Mick Jenkins)",
       "url": "https://open.spotify.com/track/3vTkplYptoBlHph3eNeJA1"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196506,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
@@ -459,6 +459,24 @@
       "duration_ms": 153320,
       "name": "Bbydhyonchord",
       "url": "https://open.spotify.com/track/35GYDmixAiE0d36qSPqfuO"
+    },
+    {
+      "album": {
+        "name": "Bedside",
+        "url": "https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1"
+      },
+      "artists": [
+        {
+          "name": "Honeydripper",
+          "url": "https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450020,
+      "name": "Bedside",
+      "url": "https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l"
     },
     {
       "album": {
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245653,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318785,
       "name": "Come On Home",
       "url": "https://open.spotify.com/track/2NIIJ5WfrK4ANNPHcOhSeb"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260160,
       "name": "Crawshay",
       "url": "https://open.spotify.com/track/2O0D6AbuaGHag0QrPGAJhV"
@@ -1053,7 +1071,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/09QrWF1BFYe8Inkh9Al5ye"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 416800,
       "name": "Disco Dancer",
       "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 316194,
       "name": "Every Day the Sun Comes Up",
       "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 308214,
       "name": "Fair Chance - Floating Points Remix",
       "url": "https://open.spotify.com/track/7eXMtBR9ZVlps31ovZKGr8"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2oVLSlo13KxpJMgEA0Jpm5"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318493,
       "name": "I Am in Love",
       "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 415706,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233892,
       "name": "I Tcho Tchass",
       "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274973,
       "name": "Imagineering",
       "url": "https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN"
@@ -2203,7 +2221,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 265378,
       "name": "In the Hills",
       "url": "https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397477,
       "name": "Jazz, Vol. 1",
       "url": "https://open.spotify.com/track/5QqLqt8iHJIJOvXXxcLXvw"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213960,
       "name": "Jimtastic Blues",
       "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 155653,
       "name": "Koko",
       "url": "https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
@@ -3129,7 +3147,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274213,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/1I0O4q0Pq5x6n9d24Es5uN"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381040,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
@@ -3551,7 +3569,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217346,
       "name": "Own Me",
       "url": "https://open.spotify.com/track/6GbOyB2RTcyFFp2EryEaPp"
@@ -3617,7 +3635,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 227991,
       "name": "Perfidia (feat. Igino) (Severino Panzetta & Ray Mang Remix) - Mixed",
       "url": "https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq"
@@ -3635,7 +3653,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 279762,
       "name": "pinky ring",
       "url": "https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
@@ -3835,7 +3853,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215000,
       "name": "Revelation Dub",
       "url": "https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod"
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166200,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/2IhXds0wZkbklKo12XGhb4"
@@ -3897,7 +3915,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
@@ -4557,7 +4575,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
@@ -4611,7 +4629,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 321204,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc"
@@ -4789,7 +4807,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Tokisan",
       "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
@@ -4807,7 +4825,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 287002,
       "name": "Too Soon You're Old",
       "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
@@ -4825,7 +4843,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 237586,
       "name": "Try Repeat",
       "url": "https://open.spotify.com/track/50USlRjAUqxBrS3XyysixE"
@@ -4967,7 +4985,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 591693,
       "name": "Water No Get Enemy",
       "url": "https://open.spotify.com/track/2oWex6rYoQ7Bl2D9zG8d3F"

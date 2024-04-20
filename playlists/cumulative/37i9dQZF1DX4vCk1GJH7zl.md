@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Zimbra, Hotelo
 
-138 songs - 8 hr 24 min
+139 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Antes do Nada](https://open.spotify.com/track/1VSBy96DsRTiv7c44dJtdH) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [Antes do Nada](https://open.spotify.com/album/4DqZL9kZ0FyueNdj0KhYNa) | 3:45 | 2023-07-21 | 2024-02-03 |
 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 | 2023-07-21 |  |
 | [Apocalipse](https://open.spotify.com/track/25w9qSdYRe5ir9pBaUzKbV) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq), [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [antiSOCIAL](https://open.spotify.com/album/0cbkcQlSKTraQDauipPfiD) | 2:39 | 2024-03-15 |  |
-| [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 | 2023-07-21 |  |
+| [Assunto Nós Dois](https://open.spotify.com/track/1YjxRhcSs3W3lglTFJQbeg) | [Luca Latorre](https://open.spotify.com/artist/2gaH37knCSLMyqd0owKdP6) | [Assunto Nós Dois](https://open.spotify.com/album/45EnE3sSlQMHqtBPpsQNln) | 2:57 | 2023-07-21 | 2024-04-20 |
 | [Baby](https://open.spotify.com/track/3upkisMHqSOXfAKbCMfrtJ) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Metade de Um Disco](https://open.spotify.com/album/3iWM5axQbddyXgwzLSuvbq) | 2:45 | 2024-04-05 |  |
 | [Bate Coração](https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Lucas Sfair](https://open.spotify.com/artist/7shKx1EfxkHU1nDqBzQQaq) | [Bate Coração](https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE) | 2:57 | 2023-07-21 | 2024-03-23 |
 | [Beijos, Blues e Poesia](https://open.spotify.com/track/4WAhdM7KNEmezzmKwWsK5J) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Beijos, Blues e Poesia](https://open.spotify.com/album/0ILIY5R8PY4BXfOxhXaM8D) | 3:04 | 2023-07-21 |  |
+| [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 | 2024-04-19 |  |
 | [Birds and the Bees](https://open.spotify.com/track/31ulnxOHy0Ix3RwZ7kZYiq) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/7FIf3cBBy49WetC07pGOjs) | 4:14 | 2024-01-05 | 2024-04-19 |
 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 | 2023-08-25 |  |
 | [Blue](https://open.spotify.com/track/25dMFOp9UeMCVkJoUXczwW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The High Life EP](https://open.spotify.com/album/2t9oCdm1Bu3Ja68sTW2v4t) | 4:09 | 2023-07-21 | 2023-11-05 |

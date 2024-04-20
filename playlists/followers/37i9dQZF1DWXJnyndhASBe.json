@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 511581,
+  "2024-04-20": 511607,
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowych kawa\u0142ki w tej chwili. Cover: Oki",
+  "description": "Najwi\u0119ksze rapowych kawa\u0142ki w tej chwili. Cover: White 2115",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -25,6 +25,32 @@
       "duration_ms": 160353,
       "name": "1000 lat",
       "url": "https://open.spotify.com/track/0utuBTWxhsv4abdCVOt76u"
+    },
+    {
+      "album": {
+        "name": "100K",
+        "url": "https://open.spotify.com/album/6dGWLu5ornBX40DHlkrL6V"
+      },
+      "artists": [
+        {
+          "name": "Beteo",
+          "url": "https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/4wVgUcv07gAFulQSySIeLS"
     },
     {
       "album": {
@@ -378,6 +404,28 @@
     },
     {
       "album": {
+        "name": "Kuku Na Muniu",
+        "url": "https://open.spotify.com/album/4wciEDaLpXoqk0IdNqZ370"
+      },
+      "artists": [
+        {
+          "name": "CatchUp",
+          "url": "https://open.spotify.com/artist/14M41VoNuxxvBXaigqZ9D9"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149291,
+      "name": "Alergia",
+      "url": "https://open.spotify.com/track/6iow78X3i2TXPTAMAv85uW"
+    },
+    {
+      "album": {
         "name": "ALL DAY FRESH",
         "url": "https://open.spotify.com/album/0kVqju6sg0VHllyh1nUC8c"
       },
@@ -453,7 +501,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142978,
       "name": "Ameryka",
       "url": "https://open.spotify.com/track/1y6BLlPX3H2i9ziz4OMZTs"
@@ -1981,7 +2029,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142205,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/30r5RN2yGoKzanggEzqrzM"
@@ -2003,7 +2051,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 142205,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2"
@@ -2872,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "KAUCJA",
+        "url": "https://open.spotify.com/album/36hVOMcM3K8oaMKN8Nto9m"
+      },
+      "artists": [
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147828,
+      "name": "KAUCJA",
+      "url": "https://open.spotify.com/track/2c5z5bn4FlP1oMfVbIHuq6"
+    },
+    {
+      "album": {
         "name": "Kevin sam w domu",
         "url": "https://open.spotify.com/album/6oUD84BY3ycUXnlfqSnj27"
       },
@@ -3691,7 +3757,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 180573,
       "name": "Miyabi",
       "url": "https://open.spotify.com/track/2GgLLdsRjbiAtN5nfm7i7i"
@@ -3709,7 +3775,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180573,
       "name": "Miyabi",
       "url": "https://open.spotify.com/track/2lCNJCCu7eiBeGVu9AevkW"
@@ -4093,7 +4159,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135300,
       "name": "New York Freestyle",
       "url": "https://open.spotify.com/track/0Q0sBnoTWkeswHbvvpQyK6"
@@ -4129,7 +4195,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 217706,
       "name": "Nicea",
       "url": "https://open.spotify.com/track/49pLSmIFXk7rTfWcQ2Bvh7"
@@ -4147,7 +4213,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217706,
       "name": "Nicea",
       "url": "https://open.spotify.com/track/4GoDN5dPdSQbAOwTt1y9F3"
@@ -4521,7 +4587,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 120206,
       "name": "Osobowo\u015bci Dwie",
       "url": "https://open.spotify.com/track/3T49zcFvZaEgJK8bAOJwCb"
@@ -4795,7 +4861,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124255,
       "name": "Peachtree",
       "url": "https://open.spotify.com/track/0FwaZq2zjOAh3qwKa0dZ6i"
@@ -5803,6 +5869,24 @@
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
+    },
+    {
+      "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1676985,
+  "num_followers": 1676307,
   "original_name": "Hip-Hop Controller",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-02-16 20:24:15",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
-    },
-    {
-      "added_at": "2024-02-16 20:24:15",
-      "album": {
         "name": "Yeern 101",
         "url": "https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 140005,
       "name": "Yeern 101",
       "url": "https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ"
+    },
+    {
+      "added_at": "2024-02-16 20:24:15",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1069,26 +1069,6 @@
       "url": "https://open.spotify.com/track/1aTqmtFNinvLcosIriC8lA"
     },
     {
-      "added_at": "2024-01-31 15:42:08",
-      "album": {
-        "name": "Sundown (feat. JID)",
-        "url": "https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 157253,
-      "name": "Sundown (feat. JID)",
-      "url": "https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Off The Court (with Polo G & Einer Bankz)",
@@ -1111,6 +1091,26 @@
       "duration_ms": 193937,
       "name": "Off The Court (with Polo G & Einer Bankz)",
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "added_at": "2024-01-31 15:42:08",
+      "album": {
+        "name": "Sundown (feat. JID)",
+        "url": "https://open.spotify.com/album/3Bhw6mGopsWHhS4OlCGDe3"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 157253,
+      "name": "Sundown (feat. JID)",
+      "url": "https://open.spotify.com/track/0peWrHmZmYS4D77vJJDMhJ"
     },
     {
       "added_at": "2024-02-23 17:24:58",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
-      "album": {
-        "name": "LWRW",
-        "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "LWRW",
-      "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Jenn Jenn Jenn",
@@ -1191,6 +1175,22 @@
       "duration_ms": 203300,
       "name": "Act A Donkey",
       "url": "https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz"
+    },
+    {
+      "added_at": "2024-03-15 17:11:58",
+      "album": {
+        "name": "LWRW",
+        "url": "https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "LWRW",
+      "url": "https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1269,20 +1269,20 @@
       "url": "https://open.spotify.com/track/5u8m1YQAVoyu5k81b5DWvr"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "WONDER WOMAN",
-        "url": "https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X"
+        "name": "Running Late",
+        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
         }
       ],
-      "duration_ms": 113121,
-      "name": "WONDER WOMAN",
-      "url": "https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD"
+      "duration_ms": 127137,
+      "name": "Running Late",
+      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1309,20 +1309,36 @@
       "url": "https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-03-15 17:11:58",
       "album": {
-        "name": "Running Late",
-        "url": "https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq"
+        "name": "WONDER WOMAN",
+        "url": "https://open.spotify.com/album/4M2l5LrqtLdfMZPtgTyr9X"
       },
       "artists": [
         {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 127137,
-      "name": "Running Late",
-      "url": "https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly"
+      "duration_ms": 113121,
+      "name": "WONDER WOMAN",
+      "url": "https://open.spotify.com/track/0MCHjl3LM30HHru55EupsD"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 173025,
+      "name": "I Gotta",
+      "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
     },
     {
       "added_at": "2024-02-23 17:24:58",
@@ -1359,22 +1375,6 @@
       "duration_ms": 150679,
       "name": "Baller",
       "url": "https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 173025,
-      "name": "I Gotta",
-      "url": "https://open.spotify.com/track/3lcfs9Qjfxzy00VSVkixDv"
     },
     {
       "added_at": "2024-01-31 15:42:08",
@@ -1453,26 +1453,6 @@
       "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
-      "added_at": "2024-01-12 21:27:49",
-      "album": {
-        "name": "0% (feat. ZillaKami)",
-        "url": "https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "ZillaKami",
-          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
-        }
-      ],
-      "duration_ms": 132604,
-      "name": "0% (feat. ZillaKami)",
-      "url": "https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "MVP (feat. G-Eazy)",
@@ -1491,6 +1471,26 @@
       "duration_ms": 173948,
       "name": "MVP (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "added_at": "2024-01-12 21:27:49",
+      "album": {
+        "name": "0% (feat. ZillaKami)",
+        "url": "https://open.spotify.com/album/6zwelZygwFIsSOhx16QaJc"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "ZillaKami",
+          "url": "https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM"
+        }
+      ],
+      "duration_ms": 132604,
+      "name": "0% (feat. ZillaKami)",
+      "url": "https://open.spotify.com/track/23kiail6YXSTnS2gPCGv8D"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1565,6 +1565,22 @@
       "url": "https://open.spotify.com/track/00rMGQGXFeY2VQTrg7SWde"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+    },
+    {
       "added_at": "2024-03-15 17:11:58",
       "album": {
         "name": "DIRTY NACHOS",
@@ -1589,22 +1605,6 @@
       "url": "https://open.spotify.com/track/4iIP8R7F5UUthE6M0JnHFx"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
-    },
-    {
       "added_at": "2024-01-31 15:42:08",
       "album": {
         "name": "The Ceremony",
@@ -1619,6 +1619,22 @@
       "duration_ms": 204000,
       "name": "Lil Yea",
       "url": "https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1643,58 +1659,6 @@
       "duration_ms": 174250,
       "name": "Mama (with Skilla Baby & Tay B)",
       "url": "https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2024-02-16 20:24:15",
-      "album": {
-        "name": "Closed Case",
-        "url": "https://open.spotify.com/album/35nmh2HpCJQSM1UvlcUTIk"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Closed Case",
-      "url": "https://open.spotify.com/track/4SPlTmkk7H26tJW5XyRGO8"
-    },
-    {
-      "added_at": "2024-02-16 20:24:15",
-      "album": {
-        "name": "Purple Heart",
-        "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 165097,
-      "name": "Turnt",
-      "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1737,24 +1701,40 @@
       "url": "https://open.spotify.com/track/1gxAYSMc1jbibsnpT3Rflc"
     },
     {
-      "added_at": "2024-03-15 17:11:58",
+      "added_at": "2024-02-16 20:24:15",
       "album": {
-        "name": "Come Here (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
+        "name": "Closed Case",
+        "url": "https://open.spotify.com/album/35nmh2HpCJQSM1UvlcUTIk"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 194875,
-      "name": "Come Here (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
+      "duration_ms": 167441,
+      "name": "Closed Case",
+      "url": "https://open.spotify.com/track/4SPlTmkk7H26tJW5XyRGO8"
+    },
+    {
+      "added_at": "2024-02-16 20:24:15",
+      "album": {
+        "name": "Purple Heart",
+        "url": "https://open.spotify.com/album/0m2bXElzedMjPj8udeytbz"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 165097,
+      "name": "Turnt",
+      "url": "https://open.spotify.com/track/3FYxg905coMBsZgKfOzz5R"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1773,28 +1753,24 @@
       "url": "https://open.spotify.com/track/4j5vI66Qz7HU9jumYqggzX"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-03-15 17:11:58",
       "album": {
-        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+        "name": "Come Here (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
       },
       "artists": [
         {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
         },
         {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 229035,
-      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+      "duration_ms": 194875,
+      "name": "Come Here (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1823,6 +1799,30 @@
       "duration_ms": 249411,
       "name": "Underrated (feat. MoneySign Suede) - Remix",
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 229035,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
     },
     {
       "added_at": "2023-12-01 05:00:00",

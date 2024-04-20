@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 2202356,
+  "2024-04-20": 2202069,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -10249,7 +10249,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 118786,
       "name": "By Now",
       "url": "https://open.spotify.com/track/79UDoyTgfs7s3FTWQ0Iir3"
@@ -17567,7 +17567,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 130472,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1IMMtM5oAW5elaQA9o5ZnT"
@@ -21236,6 +21236,28 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/1s25aSJ2XiY7ur3m8paTkt"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167413,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/25bWYJERXogbJjdjzgrmUd"
+    },
+    {
+      "album": {
         "name": "Ethereal Dub",
         "url": "https://open.spotify.com/album/4ujJwtqhmWV2Ye2jGyNcGZ"
       },
@@ -22331,7 +22353,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 93681,
       "name": "Farlands",
       "url": "https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD"
@@ -22749,7 +22771,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123400,
       "name": "Finally Found U",
       "url": "https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM"
@@ -26771,7 +26793,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101600,
       "name": "Golden Clouds",
       "url": "https://open.spotify.com/track/3aUv5xMwV5sarC3wYxe5Mw"
@@ -29427,7 +29449,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146000,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/2yTFjaAqnVjuuVfiboDlyo"
@@ -30895,7 +30917,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110769,
       "name": "Hug Cloud",
       "url": "https://open.spotify.com/track/0iSaPL6ibq9y3Kc6gdr6vb"
@@ -34416,6 +34438,24 @@
     },
     {
       "album": {
+        "name": "snowflakez",
+        "url": "https://open.spotify.com/album/5JJZEvftqODS7Q0bQlimHD"
+      },
+      "artists": [
+        {
+          "name": "Knowsum",
+          "url": "https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98035,
+      "name": "jazz prism",
+      "url": "https://open.spotify.com/track/5hamACC9xPZ4W6CVE8HlXT"
+    },
+    {
+      "album": {
         "name": "Jazz on a Couch",
         "url": "https://open.spotify.com/album/67a2IvQxPtYN8f5rO9FTPI"
       },
@@ -35943,7 +35983,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-12",
+      "date_removed": null,
       "duration_ms": 72752,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/2W2d4IiC8wVvd9uzNaI4h4"
@@ -39157,7 +39197,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108571,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/1xYrQE0XStZEJ9Z5QnFsJL"
@@ -42223,6 +42263,24 @@
       "duration_ms": 101413,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/1S88WcAiYlpeaYo5VCcP0K"
+    },
+    {
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/2NJkxkYgTqiaCUvmbN6bXH"
+      },
+      "artists": [
+        {
+          "name": "Ben Jammin' Beats",
+          "url": "https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/4H1a1wXWlJlJPDW3zpPG6A"
     },
     {
       "album": {
@@ -48071,7 +48129,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -49315,7 +49373,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147349,
       "name": "No Passenger",
       "url": "https://open.spotify.com/track/42kewiCM6QIdTn4I4rjCPv"
@@ -49557,7 +49615,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144781,
       "name": "Nonobody",
       "url": "https://open.spotify.com/track/6TRmQMiyzoqKDTmrT8ZIpe"
@@ -52153,7 +52211,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128873,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/7A0zEI6O1ywE4PlKNlrr66"
@@ -61603,7 +61661,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 186389,
       "name": "She Is One Of A Kind Pt. III",
       "url": "https://open.spotify.com/track/0yq1K68w2o6q67XLkaG45Z"
@@ -65445,7 +65503,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137522,
       "name": "spirits",
       "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
@@ -68301,7 +68359,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157946,
       "name": "sundaythefirstofaugust",
       "url": "https://open.spotify.com/track/6LIO0pUabklDK3jFZNCgRV"
@@ -81073,7 +81131,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 105789,
       "name": "Yard",
       "url": "https://open.spotify.com/track/7uI9pFWk4XEOzd11mU8iF5"

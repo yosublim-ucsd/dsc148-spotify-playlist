@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 150897,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
@@ -282,6 +282,24 @@
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/52nTSpBzE91qPdD4B2FKQq"
+      },
+      "artists": [
+        {
+          "name": "Nightshifts",
+          "url": "https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271013,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y"
     },
     {
       "album": {
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 227285,
       "name": "Belly Ring",
       "url": "https://open.spotify.com/track/22EYN5lZs59dF0CZlTmCxe"
@@ -588,7 +606,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 203636,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
@@ -776,7 +794,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 306880,
       "name": "C'mon Let's Go",
       "url": "https://open.spotify.com/track/5wGChuyX0KQnp7Sj9C6IBq"
@@ -927,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Vampire in Beverly Hills",
+        "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115177,
+      "name": "Changing Faces (feat. Cuco)",
+      "url": "https://open.spotify.com/track/0Ti4ZWTNevOQFTN63Vldjl"
+    },
+    {
+      "album": {
         "name": "chicago",
         "url": "https://open.spotify.com/album/7hVJmfG8wrRpUIZpsVneCZ"
       },
@@ -974,7 +1014,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 162615,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
@@ -1022,6 +1062,24 @@
       "duration_ms": 174109,
       "name": "cOoL WATeR foR thE nIGHT",
       "url": "https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4"
+    },
+    {
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/14cPbGhop4YtAREj1jYWL9"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Lambring",
+          "url": "https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189730,
+      "name": "Cover Girl",
+      "url": "https://open.spotify.com/track/0a4Xp4UKqigsiSSqKhbJAT"
     },
     {
       "album": {
@@ -1346,6 +1404,24 @@
       "duration_ms": 156942,
       "name": "Fall Into Me",
       "url": "https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7"
+    },
+    {
+      "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/3ro64jGIUAPFuLwo5SdqR7"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254680,
+      "name": "Falling From Grace",
+      "url": "https://open.spotify.com/track/5Oi4Q75BjhoRDRXlE69JbZ"
     },
     {
       "album": {
@@ -1887,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/5NDZnEFfqDy00M85uB0y55"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183927,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/122lxed5Qt4jD6UooYBHrR"
+    },
+    {
+      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -1977,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Hello Lonely",
+        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Hello Lonely",
+      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+    },
+    {
+      "album": {
         "name": "Another Year Gone",
         "url": "https://open.spotify.com/album/5Ue9eH8utP2C5koj3Efp6q"
       },
@@ -2028,7 +2140,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 168941,
       "name": "Hold Me - Diamond Remix",
       "url": "https://open.spotify.com/track/2zoWbqL2v4WPmANqZfTecm"
@@ -2274,7 +2386,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 149101,
       "name": "I Just Killed a Spider",
       "url": "https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY"
@@ -2375,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Imaginary",
+        "url": "https://open.spotify.com/album/452lfMnD6UpKUA7cCk7ghW"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200839,
+      "name": "Imaginary",
+      "url": "https://open.spotify.com/track/7J0uovBm6eDVBQL1ZaXOJ6"
+    },
+    {
+      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -2452,6 +2582,24 @@
       "duration_ms": 253018,
       "name": "it'll be alright",
       "url": "https://open.spotify.com/track/1ksfm4onmPLgyRmar3P9ev"
+    },
+    {
+      "album": {
+        "name": "Memory Morning",
+        "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239089,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
     },
     {
       "album": {
@@ -2844,7 +2992,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 146551,
       "name": "Mrs. Valentine",
       "url": "https://open.spotify.com/track/5wDjQFHYkPL8q8lFWzvVLf"
@@ -3360,7 +3508,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 166746,
       "name": "pick me up",
       "url": "https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm"
@@ -3418,6 +3566,24 @@
       "duration_ms": 236799,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/5cd0OieOl50udY8j8gIXl5"
+    },
+    {
+      "album": {
+        "name": "POTENTIAL",
+        "url": "https://open.spotify.com/album/2l5OMbONtIJiIktDXoixsa"
+      },
+      "artists": [
+        {
+          "name": "sunsetto",
+          "url": "https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "POTENTIAL",
+      "url": "https://open.spotify.com/track/2BeQD9oWDkAm0LPJqw1tTI"
     },
     {
       "album": {
@@ -3754,6 +3920,24 @@
       "duration_ms": 196453,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3zH81xJtnZQY1lERDdQ05S"
+    },
+    {
+      "album": {
+        "name": "shoes / my fault",
+        "url": "https://open.spotify.com/album/65vbgU0RIxw36RmR8Z3UGo"
+      },
+      "artists": [
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127392,
+      "name": "shoes",
+      "url": "https://open.spotify.com/track/2KVf6iZG9pLrtmC5dAcZKG"
     },
     {
       "album": {
@@ -4393,6 +4577,24 @@
     },
     {
       "album": {
+        "name": "this is what slow dancing feels like",
+        "url": "https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145735,
+      "name": "this is what slow dancing feels like",
+      "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
+    },
+    {
+      "album": {
         "name": "Dead Club City (Deluxe)",
         "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
       },
@@ -4664,7 +4866,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 238563,
       "name": "Weird World",
       "url": "https://open.spotify.com/track/116ORJSOi1UltDApfKABzj"
@@ -4816,7 +5018,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 171375,
       "name": "You're Red",
       "url": "https://open.spotify.com/track/0Y3pHfLOlbotjXePEytJv4"

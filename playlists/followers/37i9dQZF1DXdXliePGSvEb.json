@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 60785,
+  "2024-04-20": 60800,
   "date_first_scraped": "2022-04-20",
   "description": "Our favorite electronic songs from around the world this year. Cover: Anyma",
   "name": "Best Electronic Songs of 2023",
@@ -333,7 +333,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 375251,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375251,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/4Qti4wrmLntg5BKAvK47uI"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/4B7Hi7TY2Bl76SI3tojI5e"
@@ -3863,7 +3863,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
@@ -3885,7 +3885,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"

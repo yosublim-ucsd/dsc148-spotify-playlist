@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 100372,
+  "2024-04-20": 100365,
   "date_first_scraped": "2021-12-28",
   "description": "Tom Ashbrook continues The Classical Takeover.",
   "name": "The Classical Takeover: Tom Ashbrook",
@@ -5595,7 +5595,7 @@
     {
       "album": {
         "name": "Scratch My Back",
-        "url": "https://open.spotify.com/album/6UvXlXqOAFv49ePZ22kEyn"
+        "url": "https://open.spotify.com/album/7EhHLOnxROkHHp4usKOKqn"
       },
       "artists": [
         {
@@ -5606,6 +5606,24 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 248706,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1gYMahNjulEXAPhxlm27ek"
+    },
+    {
+      "album": {
+        "name": "Scratch My Back",
+        "url": "https://open.spotify.com/album/6UvXlXqOAFv49ePZ22kEyn"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 248706,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3JnUGjk4IoihcVDmcxDEA1"
@@ -6091,7 +6109,7 @@
     {
       "album": {
         "name": "Immunity",
-        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+        "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
       "artists": [
         {
@@ -6102,6 +6120,24 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 596773,
+      "name": "Immunity",
+      "url": "https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY"
+    },
+    {
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/0Dg1KwgmtUzeMQonDCUFhQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 596772,
       "name": "Immunity - Remaster 2023",
       "url": "https://open.spotify.com/track/69TZeRi1BYt4J712MvrIHC"
@@ -8281,7 +8317,7 @@
     {
       "album": {
         "name": "The Goonies: 25th Anniversary Edition (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/1Ak5MfNDurLnAvctHfxkbP"
+        "url": "https://open.spotify.com/album/1wqruXYx6jRrLsPzVGTP8F"
       },
       "artists": [
         {
@@ -8292,6 +8328,24 @@
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 112560,
+      "name": "Mikey's Vision",
+      "url": "https://open.spotify.com/track/5dyboqBGQnnxOAQiVVWwmV"
+    },
+    {
+      "album": {
+        "name": "The Goonies: 25th Anniversary Edition (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1Ak5MfNDurLnAvctHfxkbP"
+      },
+      "artists": [
+        {
+          "name": "Dave Grusin",
+          "url": "https://open.spotify.com/artist/0SPkat5bgfP5wo2kbqZIwu"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 112560,
       "name": "Mikey's Vision",
       "url": "https://open.spotify.com/track/7g8W0yqZ9A7mvOcJo7jjT8"

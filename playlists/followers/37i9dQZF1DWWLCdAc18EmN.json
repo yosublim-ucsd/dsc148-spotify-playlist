@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 27072,
+  "2024-04-20": 27168,
   "date_first_scraped": "2024-01-30",
   "description": "Be careful what you wish for...Listen to the music from the Wish, available now on digital. ",
   "name": "Wish Official Playlist",
@@ -887,6 +887,24 @@
       "duration_ms": 205466,
       "name": "This Wish",
       "url": "https://open.spotify.com/track/2srilwiYAXsMkmwny0RUQ3"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Wish",
+        "url": "https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229"
     },
     {
       "album": {

@@ -1605,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "Yo Soy As\u00ed",
+        "url": "https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224415,
+      "name": "Yo Soy As\u00ed",
+      "url": "https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw"
+    },
+    {
+      "album": {
         "name": "\u00bfQu\u00e9 Hay Que Hacer?",
         "url": "https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76"
       },

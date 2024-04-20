@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 169536,
+  "2024-04-20": 169586,
   "date_first_scraped": "2022-04-20",
   "description": "Jazz piano to accompany your reading.",
   "name": "Jazz for Reading",
@@ -201,6 +201,24 @@
       "duration_ms": 170965,
       "name": "A Love Letter",
       "url": "https://open.spotify.com/track/5WYHkfV8ZIt9bMPLmSGnBr"
+    },
+    {
+      "album": {
+        "name": "A Mellow Night",
+        "url": "https://open.spotify.com/album/5aquPupDfFBxwkXBgVHgQc"
+      },
+      "artists": [
+        {
+          "name": "Ron Bladworth",
+          "url": "https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157565,
+      "name": "A Mellow Night",
+      "url": "https://open.spotify.com/track/7L2uJOQvmiWtA3aRIeIeBS"
     },
     {
       "album": {
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218829,
       "name": "Dansero",
       "url": "https://open.spotify.com/track/72A294OT4WtwLqmMvm5uhB"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183814,
       "name": "Days of Wine and Roses",
       "url": "https://open.spotify.com/track/0bCwxcB99DGOg6OK9if6c9"
@@ -2652,6 +2670,24 @@
     },
     {
       "album": {
+        "name": "From Now on",
+        "url": "https://open.spotify.com/album/1ceMaaWO0tpwrgx7LzLeuJ"
+      },
+      "artists": [
+        {
+          "name": "Natalie Meir",
+          "url": "https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155942,
+      "name": "From Now on",
+      "url": "https://open.spotify.com/track/47XEkNeHaDlKs440AyBMij"
+    },
+    {
+      "album": {
         "name": "From The Moment (When We Kissed)",
         "url": "https://open.spotify.com/album/3YoAr5li2rHJEorMksbwc1"
       },
@@ -2883,6 +2919,24 @@
       "duration_ms": 161784,
       "name": "Have You Met Miss Jones",
       "url": "https://open.spotify.com/track/3CNMWUJPO4LLndGl6RrSYR"
+    },
+    {
+      "album": {
+        "name": "Havent You Heard",
+        "url": "https://open.spotify.com/album/1ffyAQynFHs2uCD4C6HY0t"
+      },
+      "artists": [
+        {
+          "name": "Joe M. Key",
+          "url": "https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166001,
+      "name": "Havent You Heard",
+      "url": "https://open.spotify.com/track/5kCSDNccCehHIwki5T9lz3"
     },
     {
       "album": {
@@ -3750,6 +3804,24 @@
     },
     {
       "album": {
+        "name": "In the city",
+        "url": "https://open.spotify.com/album/6Rx9kNFho1FSZDDgqrlCT3"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140883,
+      "name": "In the city",
+      "url": "https://open.spotify.com/track/2KT7qCT0QEeqKYaj0RjZeE"
+    },
+    {
+      "album": {
         "name": "In the mood for love",
         "url": "https://open.spotify.com/album/3ZmiSq83xdoXVbbWRrrLaZ"
       },
@@ -3855,6 +3927,24 @@
       "duration_ms": 220537,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ"
+    },
+    {
+      "album": {
+        "name": "Infectious Smile",
+        "url": "https://open.spotify.com/album/2FMCY4KJYrs9F7aNvls7zT"
+      },
+      "artists": [
+        {
+          "name": "Carl Dwight",
+          "url": "https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Infectious Smile",
+      "url": "https://open.spotify.com/track/1Q9PFubjsupZOcz8Br2QAh"
     },
     {
       "album": {
@@ -5129,7 +5219,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149769,
       "name": "Moonlight in the Bay",
       "url": "https://open.spotify.com/track/0HmhtdJkhRy6G6AhCcpaUU"
@@ -6443,7 +6533,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157048,
       "name": "Rosetta",
       "url": "https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij"
@@ -6735,6 +6825,24 @@
       "duration_ms": 143043,
       "name": "She's Funny That Way",
       "url": "https://open.spotify.com/track/0ntMtObu5NMlzV17NSvhPg"
+    },
+    {
+      "album": {
+        "name": "She\u2019s on the Phone",
+        "url": "https://open.spotify.com/album/2XCqeDGsLPRiXXxXiY7g6w"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185807,
+      "name": "She\u2019s on the Phone",
+      "url": "https://open.spotify.com/track/1KfUvFOzEfMTeqTLVj5nrB"
     },
     {
       "album": {
@@ -7311,6 +7419,24 @@
       "duration_ms": 180594,
       "name": "Spring in Chicago",
       "url": "https://open.spotify.com/track/3GZtZDAbxKusD1QjrwCMDH"
+    },
+    {
+      "album": {
+        "name": "Spring is Coming",
+        "url": "https://open.spotify.com/album/3e785eH7oDyVbTCgTNTFK6"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Spring is Coming",
+      "url": "https://open.spotify.com/track/7psK35b0VVetYupEkeqRng"
     },
     {
       "album": {
@@ -8412,6 +8538,24 @@
     },
     {
       "album": {
+        "name": "Time for Us",
+        "url": "https://open.spotify.com/album/45Qb4Al8EDwOjUA5P1F7zR"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Time for Us",
+      "url": "https://open.spotify.com/track/4XPbuoNpOWfesJne5WybtR"
+    },
+    {
+      "album": {
         "name": "Time Remembered",
         "url": "https://open.spotify.com/album/313pbQgHhe9UguJEKfvFKn"
       },
@@ -9233,7 +9377,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190006,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/6sTFLrB048mB8tWwC2xs20"

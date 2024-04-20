@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 64365,
+  "2024-04-20": 64397,
   "date_first_scraped": "2022-09-09",
   "description": "These LGBTQIA+ trailblazers knocked doors wide open with their music. Cover: Tracy Chapman ",
   "name": "Pioneers",
@@ -107,10 +107,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235480,
       "name": "Boys Wanna Be Her",
       "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "album": {
+        "name": "Impeach My Bush",
+        "url": "https://open.spotify.com/album/386sXDRSDDUQsOPVIHUyHA"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/2bm52lyV1o0zXte8Ph5Qu9"
     },
     {
       "album": {
@@ -197,7 +215,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "Comin' Down",
       "url": "https://open.spotify.com/track/0HK3x7CCx8bFLFavoBqk4N"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157200,
       "name": "Comin' Down",
       "url": "https://open.spotify.com/track/6IKVrI3dGHr9sTifS9jf8m"
@@ -413,10 +431,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242773,
       "name": "Heavy Cross",
       "url": "https://open.spotify.com/track/428Dl0NOBojmUS98R2pDHr"
+    },
+    {
+      "album": {
+        "name": "Live In Liverpool / Music For Men",
+        "url": "https://open.spotify.com/album/5986Ox60Imwum9mn64LDPl"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "Heavy Cross",
+      "url": "https://open.spotify.com/track/48eUcHz6HlIXU8tVdv9Lk1"
     },
     {
       "album": {
@@ -539,7 +575,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA"
@@ -557,7 +593,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232806,
       "name": "Immaterial",
       "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
@@ -831,7 +867,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 210933,
       "name": "Nancy Boy",
       "url": "https://open.spotify.com/track/1ZOeXUr9ieWw80zs1T6pkp"
@@ -849,7 +885,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212360,
       "name": "Nancy Boy",
       "url": "https://open.spotify.com/track/3CfbvqIrSOuB142hqFM2mf"
@@ -939,7 +975,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT"
@@ -957,7 +993,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"

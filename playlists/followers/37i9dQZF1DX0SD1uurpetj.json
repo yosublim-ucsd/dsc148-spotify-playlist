@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11211,
+  "2024-04-20": 11219,
   "date_first_scraped": "2024-01-30",
   "description": "Take a bite out of the official playlist for Vampire Academy, streaming Thursdays on Peacock. ",
   "name": "Vampire Academy Official Playlist",
@@ -177,7 +177,7 @@
     {
       "album": {
         "name": "Holy",
-        "url": "https://open.spotify.com/album/2ZjNBNPeQHRCSgbjI51Qbt"
+        "url": "https://open.spotify.com/album/5Qu5NhelMgA8YMRGSTJjVV"
       },
       "artists": [
         {
@@ -188,6 +188,24 @@
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222680,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/2spo0Zbc5aLntKwGYBsnub"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/2ZjNBNPeQHRCSgbjI51Qbt"
+      },
+      "artists": [
+        {
+          "name": "Shelley Segal",
+          "url": "https://open.spotify.com/artist/3Is6CJbBt3YB6gDxnoNfiE"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 222680,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5QtCLRuwIz2Un3CzTC71y1"
@@ -627,7 +645,7 @@
     {
       "album": {
         "name": "Junk",
-        "url": "https://open.spotify.com/album/3ittC22MRmqkjRkzmzi4kC"
+        "url": "https://open.spotify.com/album/3NrPSbZX4csQbQmH83IPzc"
       },
       "artists": [
         {
@@ -638,6 +656,24 @@
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Junk",
+      "url": "https://open.spotify.com/track/5VXfmJCv35AnhptB32msNf"
+    },
+    {
+      "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/3ittC22MRmqkjRkzmzi4kC"
+      },
+      "artists": [
+        {
+          "name": "Vivienne Chi",
+          "url": "https://open.spotify.com/artist/4MTj2lUJ9Gg2J3WFyGFZrw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 250000,
       "name": "Junk",
       "url": "https://open.spotify.com/track/5dBRrzd9SzvfA4CEnjyGDz"
@@ -739,10 +775,28 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151120,
       "name": "LUSTFUL DESIRES",
       "url": "https://open.spotify.com/track/0FnnNfRZJbLgHkrRSsH25z"
+    },
+    {
+      "album": {
+        "name": "LOVE SONGS ABOUT NOBODY",
+        "url": "https://open.spotify.com/album/08lwSiNBp5pLEQFLqQxqAc"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151120,
+      "name": "LUSTFUL DESIRES",
+      "url": "https://open.spotify.com/track/3sHVmld1oExJSlazgzzO2I"
     },
     {
       "album": {
@@ -983,7 +1037,7 @@
     {
       "album": {
         "name": "Disco Submarine",
-        "url": "https://open.spotify.com/album/14XL6CtMLgmBzk0bgQCTKj"
+        "url": "https://open.spotify.com/album/4RnBik4PFGy2POnDbeS6p5"
       },
       "artists": [
         {
@@ -994,6 +1048,24 @@
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174703,
+      "name": "Pufzi",
+      "url": "https://open.spotify.com/track/0TyjnVuspwCjsO53ZpijP3"
+    },
+    {
+      "album": {
+        "name": "Disco Submarine",
+        "url": "https://open.spotify.com/album/14XL6CtMLgmBzk0bgQCTKj"
+      },
+      "artists": [
+        {
+          "name": "Karmic",
+          "url": "https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 174703,
       "name": "Pufzi",
       "url": "https://open.spotify.com/track/5qntZHf9FkoQ39uVIUZCDF"
@@ -1109,10 +1181,28 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186176,
       "name": "Scary People",
       "url": "https://open.spotify.com/track/0EVlFwaU4Od74AXCKPnaTQ"
+    },
+    {
+      "album": {
+        "name": "Where I Go to Disappear",
+        "url": "https://open.spotify.com/album/1G7KR3OxxbLq3SqtycDtij"
+      },
+      "artists": [
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186176,
+      "name": "Scary People",
+      "url": "https://open.spotify.com/track/0n5o2v7AcQKPxCANvOKd3c"
     },
     {
       "album": {
@@ -1192,6 +1282,28 @@
     },
     {
       "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27pNixr5YhvOjxjWJWd9bu"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266930,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/1mk3SPorVhbzVSKDRXSw69"
+    },
+    {
+      "album": {
         "name": "There Will Be Time",
         "url": "https://open.spotify.com/album/0klvKSGjl9QGsJBwf6itVR"
       },
@@ -1207,7 +1319,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267946,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/0CzbkuvsT2gSUkASIRqo7o"

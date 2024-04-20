@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 52992,
+  "2024-04-20": 53065,
   "date_first_scraped": "2022-09-15",
   "description": "Euphoric drum & bass tracks for raving in the sunshine!\n",
   "name": "Sunny dnb",
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -527,10 +527,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205000,
       "name": "Changing",
       "url": "https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY"
+    },
+    {
+      "album": {
+        "name": "Life (Deluxe)",
+        "url": "https://open.spotify.com/album/1Z0wiHzWvZ1qtWkEKNE6TW"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/2KOYMogSqklzXo0nyvQCsD"
     },
     {
       "album": {
@@ -571,10 +593,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228969,
       "name": "Control",
       "url": "https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/6hlTk0Uez126pGiaVpmVPx"
+      },
+      "artists": [
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
+        },
+        {
+          "name": "Max Marshall",
+          "url": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228969,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT"
     },
     {
       "album": {
@@ -867,7 +911,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 217931,
       "name": "Drowning In You",
       "url": "https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW"
@@ -915,7 +959,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200930,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/4ch0ejqrSwJrotLroa9mXn"
@@ -941,7 +985,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Everybody Loves The Sunshine",
       "url": "https://open.spotify.com/track/21JRqTnNDTiMxzTCvzcfc3"
@@ -1007,7 +1051,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248375,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0rA4Qzu2P7gOhnbdxUngNh"
@@ -1121,7 +1165,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 328033,
       "name": "Find Your Way",
       "url": "https://open.spotify.com/track/0HbW183P72KHki0wJsv99I"
@@ -1319,10 +1363,32 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 190387,
       "name": "Got You There",
       "url": "https://open.spotify.com/track/2rY8KKXTr9XOMn0IdpBBXm"
+    },
+    {
+      "album": {
+        "name": "Gravity (feat. Ella Eyre) [Radio Edit]",
+        "url": "https://open.spotify.com/album/1AafbzIgwYyYhkkB3LTEgm"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197671,
+      "name": "Gravity (feat. Ella Eyre) - Radio Edit",
+      "url": "https://open.spotify.com/track/4d6iVPhEpZI48CLkNbWbkq"
     },
     {
       "album": {
@@ -1477,7 +1543,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226206,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/2qxiyScLvjCMb9gg1hTl5F"
@@ -1529,7 +1595,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234827,
       "name": "Hold On - Extended Mix",
       "url": "https://open.spotify.com/track/3PjEGu42RJ2sCWVWovlOGV"
@@ -1573,10 +1639,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 396920,
       "name": "Hometown Glory - High Contrast Remix",
       "url": "https://open.spotify.com/track/1ESvthpg6hWmjlNJdpTrbH"
+    },
+    {
+      "album": {
+        "name": "Hometown Glory",
+        "url": "https://open.spotify.com/album/1BooHlsI6JWUssl89UaqfF"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396920,
+      "name": "Hometown Glory - High Contrast Remix",
+      "url": "https://open.spotify.com/track/5L3o8IfmlLhxGcSnXQIHcz"
     },
     {
       "album": {
@@ -1653,7 +1741,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 320271,
       "name": "If We Ever",
       "url": "https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8"
@@ -1675,6 +1763,24 @@
       "duration_ms": 231973,
       "name": "Inner City Life - Radio Edit",
       "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+    },
+    {
+      "album": {
+        "name": "Jazz Tone",
+        "url": "https://open.spotify.com/album/4LHeAyYBE49kgZJe2sYjw6"
+      },
+      "artists": [
+        {
+          "name": "Zero T",
+          "url": "https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243492,
+      "name": "Jazz Tone",
+      "url": "https://open.spotify.com/track/0mCTA8JPToKZ4fXn75kIiD"
     },
     {
       "album": {
@@ -1729,7 +1835,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 377840,
       "name": "Just One Second - Apex Remix",
       "url": "https://open.spotify.com/track/18IVOQQ6apJcij5vHgWmEz"
@@ -1758,6 +1864,32 @@
     },
     {
       "album": {
+        "name": "Playing the Changes",
+        "url": "https://open.spotify.com/album/5QCAY2iAs2KWejnwlMGEsD"
+      },
+      "artists": [
+        {
+          "name": "Villem",
+          "url": "https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf"
+        },
+        {
+          "name": "Mcleod",
+          "url": "https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289755,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/6U0JZJpmm2oVcExBoincx4"
+    },
+    {
+      "album": {
         "name": "Second Nature",
         "url": "https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh"
       },
@@ -1773,7 +1905,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202543,
       "name": "Let Me Hold You",
       "url": "https://open.spotify.com/track/5soWKIkC6GnpZT99IatCYq"
@@ -1891,7 +2023,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 329746,
       "name": "LK (Carol Carolina Bela)",
       "url": "https://open.spotify.com/track/4QmpVtxnJZ5ZV6sO72nrDu"
@@ -2057,7 +2189,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189207,
       "name": "Mash up the Dance",
       "url": "https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m"
@@ -2171,7 +2303,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270802,
       "name": "My Love - Sigma Remix",
       "url": "https://open.spotify.com/track/0vSkBIWphrAM777tZr0eBi"
@@ -2437,7 +2569,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 344440,
       "name": "Open Page",
       "url": "https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL"
@@ -2547,7 +2679,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290156,
       "name": "Poveglia",
       "url": "https://open.spotify.com/track/53Zida1Qs189gqbNHUKSU7"
@@ -2609,7 +2741,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 381877,
       "name": "Racing Green",
       "url": "https://open.spotify.com/track/2BWIDTVln2LvwGpJ5BYyJD"
@@ -2679,7 +2811,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282758,
       "name": "Remedies",
       "url": "https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn"
@@ -2931,7 +3063,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4"
@@ -2949,7 +3081,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268800,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
@@ -3249,7 +3381,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248536,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/422w50EAk1fhpXrqOsYlpv"
@@ -3271,7 +3403,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226206,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx"
@@ -3337,10 +3469,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292586,
       "name": "Waiting All Night (feat. Ella Eyre)",
       "url": "https://open.spotify.com/track/0g4qRoQ3Bh6puFzBA7fH3S"
+    },
+    {
+      "album": {
+        "name": "Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2O7R7SK5zDsGeI1JpNihNE"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292586,
+      "name": "Waiting All Night (feat. Ella Eyre)",
+      "url": "https://open.spotify.com/track/1uWTlK72KKpzsCHhu62OV5"
     },
     {
       "album": {
@@ -3439,7 +3593,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 234827,
       "name": "We All Need Someone",
       "url": "https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP"
@@ -3479,7 +3633,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 187401,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh"

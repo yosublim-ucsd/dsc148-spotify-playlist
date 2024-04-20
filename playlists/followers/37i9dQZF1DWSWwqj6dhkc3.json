@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 50444,
+  "2024-04-20": 50442,
   "date_first_scraped": "2023-04-07",
   "description": "The official playlist for Valeria. Watch on Netflix.",
   "name": "Valeria Official Playlist",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 210943,
       "name": "Can I Go On",
       "url": "https://open.spotify.com/track/33kTpZiXOEs9yQrSzn0cV5"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210943,
       "name": "Can I Go On",
       "url": "https://open.spotify.com/track/3BZxzGjJdXXfp4uquDlHxe"
@@ -281,10 +281,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245217,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3BpFbQUA13T3mVNNBuK4As"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4oB8ZLlRfQ5Vgp2ewafl86"
+      },
+      "artists": [
+        {
+          "name": "Mueveloreina",
+          "url": "https://open.spotify.com/artist/1P9MmD39aqDwhtTxyTGkb6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7bxfIFklowGfNeDCWFqCeH"
     },
     {
       "album": {
@@ -379,10 +397,50 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186600,
       "name": "Donne-moi l\u2019accord",
       "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/7HQqRTeLUgnqxhIacnisWy"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Donne-moi l\u2019accord",
+      "url": "https://open.spotify.com/track/3dWJfg6c9CFIKtZHkmz2ZF"
+    },
+    {
+      "album": {
+        "name": "Downhearted",
+        "url": "https://open.spotify.com/album/5eh3avirwQjqXcltLjCHc8"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308520,
+      "name": "Downhearted",
+      "url": "https://open.spotify.com/track/29069ieCEe5gqv3j7rWvwT"
     },
     {
       "album": {
@@ -397,7 +455,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308520,
       "name": "Downhearted",
       "url": "https://open.spotify.com/track/42XXmVPagWpFTpqYf0Nnyg"
@@ -419,10 +477,32 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219260,
       "name": "Dr\u00fcg",
       "url": "https://open.spotify.com/track/5Q5TNh4wr6CPoXKrI2H6gx"
+    },
+    {
+      "album": {
+        "name": "Dr\u00fcg",
+        "url": "https://open.spotify.com/album/1ZWQTGYS5yHJVGnzmqwaYu"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219264,
+      "name": "Dr\u00fcg",
+      "url": "https://open.spotify.com/track/4VvTumh88DI240WO9ej6OV"
     },
     {
       "album": {
@@ -527,7 +607,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187839,
       "name": "Fui a Buscar al Sol",
       "url": "https://open.spotify.com/track/7mVuCRl3e36TrJuBUBOQZh"
@@ -549,7 +629,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-13",
+      "date_removed": null,
       "duration_ms": 187839,
       "name": "Fui a Buscar al Sol",
       "url": "https://open.spotify.com/track/72q51tZkGZeN92UAHca86o"
@@ -567,7 +647,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 142280,
       "name": "Go Solo",
       "url": "https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7"
@@ -585,7 +665,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142280,
       "name": "Go Solo",
       "url": "https://open.spotify.com/track/6GI4rgcKBRwbi9hN84ErdW"
@@ -711,7 +791,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 225546,
       "name": "July Flame",
       "url": "https://open.spotify.com/track/1CCUpPjfGDN2gqzCW2PhsE"
@@ -729,7 +809,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225546,
       "name": "July Flame",
       "url": "https://open.spotify.com/track/3vz3lJyDCmhC2JO9gg8nFw"
@@ -823,10 +903,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170996,
       "name": "Lucky Girl",
       "url": "https://open.spotify.com/track/5eEXenmmeqBnXqVTbdyGNI"
+    },
+    {
+      "album": {
+        "name": "Morningside",
+        "url": "https://open.spotify.com/album/3uAXs9TF2jfh92uXLFOwLv"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170996,
+      "name": "Lucky Girl",
+      "url": "https://open.spotify.com/track/5pP3sLkAVZ03hyJ6SbsprC"
     },
     {
       "album": {
@@ -917,7 +1015,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-23",
+      "date_removed": null,
       "duration_ms": 164721,
       "name": "Middle Of My Mind",
       "url": "https://open.spotify.com/track/5RSQUFoAIg75ZQKP5zyT8i"
@@ -935,7 +1033,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164721,
       "name": "Middle Of My Mind",
       "url": "https://open.spotify.com/track/6bhR3uY6YJEJhpC3Z05nde"
@@ -1109,7 +1207,7 @@
     {
       "album": {
         "name": "Smother",
-        "url": "https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL"
+        "url": "https://open.spotify.com/album/2trAetNqz1zTvGwhcHrUQ0"
       },
       "artists": [
         {
@@ -1120,6 +1218,24 @@
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246986,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1FZDPBjYFzJu7h9yip9yX3"
+    },
+    {
+      "album": {
+        "name": "Smother",
+        "url": "https://open.spotify.com/album/6sSjgyWUWZLmZSAAKZLcwL"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 246986,
       "name": "Run",
       "url": "https://open.spotify.com/track/7zEmM99SSam7njYi5XryCa"
@@ -1144,6 +1260,24 @@
     },
     {
       "album": {
+        "name": "Reggaeton Rom\u00e1ntico (Vol. 1)",
+        "url": "https://open.spotify.com/album/3EtE4QDOKoGRCe9Go1AMmQ"
+      },
+      "artists": [
+        {
+          "name": "BEA PELEA",
+          "url": "https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199585,
+      "name": "Si No Te Vuelvo a Ver",
+      "url": "https://open.spotify.com/track/4WUtScJNGEekZ3gViKpa8Z"
+    },
+    {
+      "album": {
         "name": "Reggaeton Romantico Vol 1",
         "url": "https://open.spotify.com/album/6tT4rOPYC3adYrCmBWOXy6"
       },
@@ -1159,7 +1293,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199585,
       "name": "Si No Te Vuelvo a Ver",
       "url": "https://open.spotify.com/track/0OwZ3lqdQfnEZ074m2VXm0"
@@ -1315,7 +1449,7 @@
     {
       "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+        "url": "https://open.spotify.com/album/6g42oKg0CnLrN7UWZAAj7K"
       },
       "artists": [
         {
@@ -1326,6 +1460,24 @@
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183961,
+      "name": "Too Hip To Retire",
+      "url": "https://open.spotify.com/track/2CFWGKsv0xrNBP8qBNtX9p"
+    },
+    {
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Tim Simonec",
+          "url": "https://open.spotify.com/artist/30CTjVKYHkndVX7S7ItTOm"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 184040,
       "name": "Too Hip To Retire",
       "url": "https://open.spotify.com/track/4pSJHktywKsadO7yPdFcpN"
@@ -1405,10 +1557,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163266,
       "name": "Una Persona Sospechosa",
       "url": "https://open.spotify.com/track/03N3GfcATqhDRFqyfftGdu"
+    },
+    {
+      "album": {
+        "name": "Aniquilaci\u00f3n",
+        "url": "https://open.spotify.com/album/2dXEXyzpTqZ3U2lrjKgw5l"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Una Persona Sospechosa",
+      "url": "https://open.spotify.com/track/72WVSNN7xGF7iPVdpoLF0E"
     },
     {
       "album": {
@@ -1477,10 +1647,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250894,
       "name": "Where the Time Went",
       "url": "https://open.spotify.com/track/3OkUiHa9aiUor3HphYw7CH"
+    },
+    {
+      "album": {
+        "name": "Ex:Re",
+        "url": "https://open.spotify.com/album/4GKZHV8rEZEVAU7irzJoi1"
+      },
+      "artists": [
+        {
+          "name": "Ex:Re",
+          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250894,
+      "name": "Where the Time Went",
+      "url": "https://open.spotify.com/track/3lpOAtla04DfSg3384dccN"
     },
     {
       "album": {

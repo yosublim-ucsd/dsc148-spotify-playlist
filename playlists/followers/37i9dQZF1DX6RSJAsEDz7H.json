@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 303845,
+  "2024-04-20": 303956,
   "date_first_scraped": "2022-05-09",
   "description": "Listen to all the iconic tracks from GTA, all in one place. ",
   "name": "Grand Theft Auto Official Playlist",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 150013,
       "name": "(It Won't Be Long) And I'll Be Hating You",
       "url": "https://open.spotify.com/track/0u6lb5FT7FHmLCCeGvMCFy"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150000,
       "name": "(It Won\u2019t Be Long) And I\u2019ll Be Hating You",
       "url": "https://open.spotify.com/track/4wbHM56BWvQbLz4GT2cgOG"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 87200,
       "name": "1988 (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/3tsNrLJC2Jylql6nLtSMLO"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 87200,
       "name": "1988 (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/4ZpNY4Hu3zKusyeXpCTTPj"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186502,
       "name": "418 (Bounce Mix)",
       "url": "https://open.spotify.com/track/1VSosFMbqbitcpqdqcqehz"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 188466,
       "name": "418 (Bounce Mix)",
       "url": "https://open.spotify.com/track/61Phwjcew5syvHc8hxL0DO"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376680,
       "name": "Andreaen Sand Dunes",
       "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217384,
       "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/0Cfs5hD4TUSmBE7Ta1CgwY"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 217384,
       "name": "Bim Bam Bam (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/5VbMIDLX6R4pyoWhy2kO7q"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238320,
       "name": "Children's Story",
       "url": "https://open.spotify.com/track/7laxpWXzfcZV54p1bNRYek"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242040,
       "name": "Children's Story",
       "url": "https://open.spotify.com/track/15HgR9Ht4obJOcMG4wregp"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219715,
       "name": "Chinatown Wars",
       "url": "https://open.spotify.com/track/33l9Eek1u9BpDJSLGfBOh9"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 219715,
       "name": "Chinatown Wars",
       "url": "https://open.spotify.com/track/2w40syGl9qdWmaLbstkATO"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 294533,
       "name": "Clear",
       "url": "https://open.spotify.com/track/6ktxc1Nf5UV7hBpkGlmhYJ"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294533,
       "name": "Clear - Jose \u201cAnimal\u201d Diaz Remix",
       "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205786,
       "name": "Dance Of The Vampires",
       "url": "https://open.spotify.com/track/1vexvgYQCSVjT8yPB5ZFcx"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205626,
       "name": "Dance of the Vampires",
       "url": "https://open.spotify.com/track/3y3aIscR4N87VEtlUFYxyB"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 471360,
       "name": "Disco Devil",
       "url": "https://open.spotify.com/track/11rkUMmEsekXm9CU6ToqQi"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 471826,
       "name": "Disco Devil (Extended Version)",
       "url": "https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239253,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/3ayFLuF2ZytqaGmnLhEUhq"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242386,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199226,
       "name": "Es-Toy",
       "url": "https://open.spotify.com/track/4Y6eKtfvIiJdkRmUlgGr2G"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199296,
       "name": "Es-Toy",
       "url": "https://open.spotify.com/track/7xmGMLRtaMWPzOSgq6HEiT"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204813,
       "name": "Family Man",
       "url": "https://open.spotify.com/track/5KiDWqKsU0EfXQJdnWSOn9"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205466,
       "name": "Family Man",
       "url": "https://open.spotify.com/track/4iET2VSSZ60K8S77FQRPGS"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 208586,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/03Z9Xiu6te6MbMRlICuDGL"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208586,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/10s2eN17PASGcpyuBgdr0G"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232133,
       "name": "Hold Up (feat. Nipsey Hustle)",
       "url": "https://open.spotify.com/track/1jxrIScT7WcT5MFZVZZpxk"
@@ -1401,7 +1401,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Hold Up (feat. Nipsey Hustle)",
       "url": "https://open.spotify.com/track/240mp2P9Iv7iqG30Y8eu3L"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185106,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/4jjPvqzUHNYuNEtSJnklwJ"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185106,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60"
@@ -1745,7 +1745,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188102,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247840,
       "name": "Looks That Kill",
       "url": "https://open.spotify.com/track/1Cznl5CD5aaEYMfJq1l9Hd"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249013,
       "name": "Looks That Kill",
       "url": "https://open.spotify.com/track/5uRN4EmPA7BWs5f4xsIl0Z"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190826,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4"
@@ -2147,7 +2147,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297293,
       "name": "Nine Is God",
       "url": "https://open.spotify.com/track/5ZGM626be3ItMW4UPjfqdY"
@@ -2165,7 +2165,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 297293,
       "name": "Nine Is God",
       "url": "https://open.spotify.com/track/6sChW7Z0IwSvvBR6m4dMws"
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178893,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/2nU1vaARHQ8FoaxFfe4ZN7"
@@ -2223,14 +2223,14 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178893,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/4QmffRRgnwYIJtmDffDvW8"
     },
     {
       "album": {
-        "name": "O Mio Babbino Caro (Hudson Mohawke Remix) - Single",
+        "name": "O Mio Babbino Caro (Hudson Mohawke Remix)",
         "url": "https://open.spotify.com/album/4W3ROmDZUv9xytgLBdEvqQ"
       },
       "artists": [
@@ -2241,7 +2241,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 122979,
       "name": "O Mio Babbino Caro (Hudson Mohawke Remix)",
       "url": "https://open.spotify.com/track/2Wj06oxxu4OSiofAnPM0cl"
@@ -2259,7 +2259,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 122979,
       "name": "O Mio Babbino Caro - Hudson Mohawke Remix",
       "url": "https://open.spotify.com/track/1OUduMYTfDf6bAd00zxFGB"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 233066,
       "name": "Old Love / New Love",
       "url": "https://open.spotify.com/track/6e1rpOJQIXivYKXOBLoAn2"
@@ -2313,7 +2313,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233066,
       "name": "Old Love / New Love",
       "url": "https://open.spotify.com/track/7ah7ropOQbN7tRy4PiiW5a"
@@ -2349,7 +2349,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 225040,
       "name": "Personal Jesus - 2006 Remaster",
       "url": "https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652"
@@ -2367,7 +2367,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224933,
       "name": "Personal Jesus - Single Version",
       "url": "https://open.spotify.com/track/4UCTgh5jvtqoaMX6MAhUNn"
@@ -2419,7 +2419,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233853,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/5YP2Id88tm2pnRQ6Ejh1rh"
@@ -2445,7 +2445,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233853,
       "name": "Play It Cool (feat. Samuel T Herring (Of Future Islands) & Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/2FnkDwpvTypzEX1YP7KgGP"
@@ -2481,7 +2481,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295891,
       "name": "Professor 3",
       "url": "https://open.spotify.com/track/5clxOZObNgDX7yBUpt8z7r"
@@ -2499,7 +2499,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295891,
       "name": "Professor 3",
       "url": "https://open.spotify.com/track/7v5Uo1NjZ09vLORaHjnp4z"
@@ -2553,7 +2553,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 139706,
       "name": "r - Cali",
       "url": "https://open.spotify.com/track/2oMOqX9k4k16odibNkYyrD"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139706,
       "name": "r - Cali",
       "url": "https://open.spotify.com/track/6AtscuPpNRwDvuehpFtWw1"
@@ -2611,7 +2611,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 302133,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/5vrUTmUF0mDNE8lZWEmU9J"
@@ -2629,7 +2629,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 302666,
       "name": "Rebel Without A Pause",
       "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
@@ -2737,7 +2737,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265893,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/57P8gH8rjt4OqEoqzut1bL"
@@ -2755,7 +2755,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-10",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
@@ -2773,7 +2773,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261812,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
@@ -2809,7 +2809,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264333,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/75wP08AtMfGfjk0nPdvVw3"
@@ -2835,7 +2835,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 414000,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5Oo1EZfkK7DzctxRyjizY6"
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414000,
       "name": "Running Away - 12-Inch Long Version",
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
@@ -2987,7 +2987,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200200,
       "name": "Skinny Jeans",
       "url": "https://open.spotify.com/track/2Xf4YEfJ3G3Nh0Jpl10JGT"
@@ -3009,7 +3009,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Skinny Jeans",
       "url": "https://open.spotify.com/track/5oJIwq4dlZ9Bv1DSTM5Jqh"
@@ -3027,7 +3027,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218693,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm"
@@ -3045,7 +3045,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 218693,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/1zdsOgv1hdGGGe9CK1QPY7"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 345704,
       "name": "Stand Up Jamrock",
       "url": "https://open.spotify.com/track/1SL530xuXv4aqHnLPR8zQG"
@@ -3137,15 +3137,19 @@
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers and Damian Marley",
-          "url": "https://open.spotify.com/artist/6P8wwFtPPqQ7q9pGMeCBd4"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 345704,
-      "name": "Stand Up Jamrock",
+      "name": "Stand up Jamrock",
       "url": "https://open.spotify.com/track/3p60ih8Ur9MfYVW5yIKApb"
     },
     {
@@ -3223,7 +3227,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 258293,
       "name": "Stonecutters",
       "url": "https://open.spotify.com/track/2vdlWigVYG6DhduvKOXoRA"
@@ -3241,7 +3245,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258293,
       "name": "Stonecutters",
       "url": "https://open.spotify.com/track/4w8GzssMiUNcrmkJkal6nh"
@@ -3259,7 +3263,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158213,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5re3c22M1lc9PhJyfpDMDX"
@@ -3277,7 +3281,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167233,
       "name": "Stories??",
       "url": "https://open.spotify.com/track/2sQpHRF6hpyCYenzOjinr4"
@@ -3451,7 +3455,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362324,
       "name": "The MBO Theme",
       "url": "https://open.spotify.com/track/7CTpp656yYxkqN53icMBqH"
@@ -3469,7 +3473,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 362324,
       "name": "The MBO Theme",
       "url": "https://open.spotify.com/track/7Dkdo7XT32QWVJEBvMkmkI"
@@ -3545,7 +3549,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 304772,
       "name": "The People",
       "url": "https://open.spotify.com/track/5ivXYN8XooE2s4vDc6Lg4T"
@@ -3563,7 +3567,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 304772,
       "name": "The People",
       "url": "https://open.spotify.com/track/7eAltT0d9gH2MIMG71zR7G"
@@ -3625,7 +3629,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243120,
       "name": "The Set Up",
       "url": "https://open.spotify.com/track/5ObACsupwtxnYfOWKO0Wzo"
@@ -3643,7 +3647,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 243120,
       "name": "The Set Up",
       "url": "https://open.spotify.com/track/5XLjIFOigk5R4oc9UUuG8M"
@@ -3661,7 +3665,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
@@ -3679,7 +3683,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/4fMIe4htuvA8RoygYDFqO5"
@@ -3697,7 +3701,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/56dDonzTxrZKWuVDqUOYGd"
@@ -3715,7 +3719,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5"
@@ -3795,7 +3799,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195906,
       "name": "Vacilar Contigo",
       "url": "https://open.spotify.com/track/1DvQd11NrCzP0IyQLmnQFa"
@@ -3853,7 +3857,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 195216,
       "name": "Vacilar Contigo",
       "url": "https://open.spotify.com/track/5ktUa06LisFFjJZG2BmH2y"
@@ -3889,7 +3893,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 204346,
       "name": "Volando Voy",
       "url": "https://open.spotify.com/track/6YksxWWmhFOZjMfh3eRyYk"
@@ -3907,7 +3911,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221440,
       "name": "Volando Voy - Rumba",
       "url": "https://open.spotify.com/track/0pHBZV2V9dVjwqOmkjZFJY"
@@ -3925,7 +3929,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 148401,
       "name": "War Is Necessary",
       "url": "https://open.spotify.com/track/0g9NT0ve6iUVUfNbRIaGNz"
@@ -3943,7 +3947,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148401,
       "name": "War Is Necessary",
       "url": "https://open.spotify.com/track/7xuStBmO8K78VQDgqrMpx9"
@@ -3979,7 +3983,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245360,
       "name": "West End Girls - 2001 Remaster",
       "url": "https://open.spotify.com/track/7FlwylpJSe3ea6m1IrkizS"
@@ -4015,7 +4019,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
@@ -4069,7 +4073,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 365640,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/409z4jUHpq7eIkg3N3FzZh"
@@ -4087,7 +4091,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"

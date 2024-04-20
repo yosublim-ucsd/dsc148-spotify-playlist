@@ -1,9 +1,27 @@
 {
-  "2024-04-19": 125423,
+  "2024-04-20": 125504,
   "date_first_scraped": "2023-07-25",
   "description": "Pump up your adrenaline with Punjabi hits!",
   "name": "Punjabi Pump",
   "tracks": [
+    {
+      "album": {
+        "name": "10 Bande",
+        "url": "https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7"
+      },
+      "artists": [
+        {
+          "name": "George Sidhu",
+          "url": "https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201983,
+      "name": "10 Bande",
+      "url": "https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu"
+    },
     {
       "album": {
         "name": "10 Bande",
@@ -21,7 +39,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202069,
       "name": "10 Bande",
       "url": "https://open.spotify.com/track/7wX4ffiROMwngmsc3aeL7O"
@@ -223,6 +241,24 @@
     {
       "album": {
         "name": "No Lookin' Back",
+        "url": "https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292173,
+      "name": "Blackberry Sap",
+      "url": "https://open.spotify.com/track/2MajsZJ85B49Rt1KWhu4P7"
+    },
+    {
+      "album": {
+        "name": "No Lookin' Back",
         "url": "https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24"
       },
       "artists": [
@@ -233,7 +269,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292173,
       "name": "Blackberry Sap",
       "url": "https://open.spotify.com/track/35nhjyhtDdeDIyibcQ7Aa0"
@@ -423,10 +459,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200658,
       "name": "Elevated",
       "url": "https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj"
+    },
+    {
+      "album": {
+        "name": "ELEVATED",
+        "url": "https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200658,
+      "name": "ELEVATED",
+      "url": "https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi"
     },
     {
       "album": {
@@ -493,7 +547,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161933,
       "name": "Friend Zone",
       "url": "https://open.spotify.com/track/35alWvmJmu77GoW3Y57cuT"
@@ -519,7 +573,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 161357,
       "name": "FRIEND ZONE",
       "url": "https://open.spotify.com/track/3aTutDkFpZHOZ6roijWEjv"
@@ -559,10 +613,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168000,
       "name": "Gangland",
       "url": "https://open.spotify.com/track/1AGeDbAlIcoJN01bLkFN82"
+    },
+    {
+      "album": {
+        "name": "Mankirt Aulakh - Best Hits",
+        "url": "https://open.spotify.com/album/1xp8NLdS2cGOKnqaNAGzgA"
+      },
+      "artists": [
+        {
+          "name": "Mankirt Aulakh",
+          "url": "https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Gangland",
+      "url": "https://open.spotify.com/track/4UY2GSXlMHfrfvPbBdlRDv"
     },
     {
       "album": {
@@ -761,7 +833,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/2i1oTDv7dODcdQxQ2LMDM3"
@@ -783,7 +855,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173656,
       "name": "Kikli",
       "url": "https://open.spotify.com/track/752ZVuWP4QcOQNgxWaV4b4"
@@ -947,10 +1019,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6"
+    },
+    {
+      "album": {
+        "name": "No Lookin' Back",
+        "url": "https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173195,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
     },
     {
       "album": {
@@ -1049,10 +1139,32 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179154,
       "name": "Rank 1",
       "url": "https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p"
+    },
+    {
+      "album": {
+        "name": "Never Before",
+        "url": "https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179154,
+      "name": "Rank 1",
+      "url": "https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP"
     },
     {
       "album": {
@@ -1346,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "WE ROLLIN",
+        "url": "https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "WE ROLLIN",
+      "url": "https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt"
+    },
+    {
+      "album": {
         "name": "We Rollin",
         "url": "https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf"
       },
@@ -1357,7 +1487,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"

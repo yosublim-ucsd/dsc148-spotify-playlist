@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 137027,
+  "2024-04-20": 136830,
   "date_first_scraped": "2022-09-15",
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
   "name": "Templo do Rock",
@@ -39,10 +39,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232191,
       "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
       "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "album": {
+        "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MjxLoPnQKWGqaYxVKGwlL"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Q1948Kr1w3OIkwSE0r9gn"
     },
     {
       "album": {
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265307,
       "name": "Espelhos M\u00e1gicos / Naves Imperiais",
       "url": "https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 265307,
       "name": "Espelhos M\u00e1gicos / Naves Imperiais - Ao Vivo",
       "url": "https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq"
@@ -867,6 +885,28 @@
     {
       "album": {
         "name": "Estrangeiro",
+        "url": "https://open.spotify.com/album/3ljEi6NobkDOAzexpS3dYn"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226911,
+      "name": "Estrangeiro",
+      "url": "https://open.spotify.com/track/1hrU8It6Ax3MJjqsxA1cqG"
+    },
+    {
+      "album": {
+        "name": "Estrangeiro",
         "url": "https://open.spotify.com/album/3kI4PndJ7hoyt13PWIICpI"
       },
       "artists": [
@@ -881,7 +921,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
@@ -899,7 +939,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
       "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
@@ -917,10 +957,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-22",
+      "date_removed": null,
       "duration_ms": 283933,
       "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/2pUNI9iRqs8ssumEV80N0k"
+    },
+    {
+      "album": {
+        "name": "Eu T\u00f4 no Culto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5wX58MxHM3hqNi3iGyFkbO"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317826,
+      "name": "Eu T\u00f4 no Culto - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JEdfnPZka9zL7GRWAzqvK"
     },
     {
       "album": {
@@ -971,7 +1029,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193662,
       "name": "Fui Encontrado",
       "url": "https://open.spotify.com/track/0U4A3mLKbj59c8WxUFdhZ9"
@@ -989,7 +1047,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 193662,
       "name": "Fui Encontrado",
       "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
@@ -1217,7 +1275,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 258700,
       "name": "Jo\u00e3o 1 - VEC",
       "url": "https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk"
@@ -1235,7 +1293,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258700,
       "name": "Jo\u00e3o 1 - VEC",
       "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
@@ -1471,10 +1529,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296500,
       "name": "Medley Le\u00e3o de Jud\u00e1",
       "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
+    },
+    {
+      "album": {
+        "name": "Medley Le\u00e3o de Jud\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6992k2JHeyVKHqAbzyT0A0"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JgFmY60kpblVPw7uHChSz"
     },
     {
       "album": {
@@ -1761,7 +1837,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150681,
       "name": "O Poder do Todo Dia",
       "url": "https://open.spotify.com/track/3OBnnhkdIGXts9gTZoboZO"
@@ -1837,10 +1913,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382608,
       "name": "OH! Se Fendesses - Ao Vivo",
       "url": "https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm"
+    },
+    {
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/466qdSihFolGNRfdnRLuuS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382608,
+      "name": "OH! Se Fendesses - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lVXZ4l8g3rm2WXOTAFHAV"
     },
     {
       "album": {
@@ -2029,7 +2123,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-07",
+      "date_removed": null,
       "duration_ms": 562285,
       "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37"
@@ -2051,7 +2145,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 562285,
       "name": "Que o Cordeiro Receba - Ao Vivo",
       "url": "https://open.spotify.com/track/00mDRKZ5KvvW7cWalm1X75"
@@ -2309,7 +2403,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
@@ -2327,7 +2421,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/3Jtq6KBwX0TL2GypkiwZl6"
@@ -2345,7 +2439,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7AxEkvEXLyNPdFdAWDF1rX"
@@ -2363,7 +2457,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 279510,
       "name": "Sobre as \u00c1guas",
       "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
@@ -2433,6 +2527,24 @@
     {
       "album": {
         "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/3jsYtCFMSPUFjJ8qoknREt"
+      },
+      "artists": [
+        {
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/0szN6cDZWAFBeilX3d06Zj"
+    },
+    {
+      "album": {
+        "name": "Te Seguirei",
         "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
@@ -2443,7 +2555,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290232,
       "name": "Te Seguirei",
       "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"

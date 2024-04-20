@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 504483,
+  "2024-04-20": 504494,
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Caribou",
+  "description": "The home for alternative electronic music. Cover: Jamie xx",
   "name": "Altar",
   "tracks": [
     {
@@ -1587,6 +1587,28 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
+    },
+    {
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "album": {
@@ -4328,6 +4350,28 @@
     },
     {
       "album": {
+        "name": "Don't Understand",
+        "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Don't Understand",
+      "url": "https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq"
+    },
+    {
+      "album": {
         "name": "Steel City Dance Discs Volume 23",
         "url": "https://open.spotify.com/album/6MeFVWynvM4JCnlYVuoxNZ"
       },
@@ -4455,7 +4499,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282000,
       "name": "druzy@ - Scuba's Bassdrive Refix",
       "url": "https://open.spotify.com/track/6xBSfBYq1jxwML0cxwQup7"
@@ -7433,10 +7477,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262827,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt"
     },
     {
       "album": {
@@ -7567,6 +7629,32 @@
       "duration_ms": 201230,
       "name": "How Music Makes You Feel Better - Edit",
       "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"
+    },
+    {
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "album": {
@@ -8583,7 +8671,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195013,
       "name": "Jenny (Heaven Can You Hear Me)",
       "url": "https://open.spotify.com/track/6j5PkIPTIt17kDCNppFmpy"
@@ -9829,7 +9917,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -11011,7 +11099,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205555,
       "name": "My Crew (feat. Flowdan)",
       "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
@@ -14570,6 +14658,28 @@
     },
     {
       "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "album": {
         "name": "Silent Assassin",
         "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
       },
@@ -14735,6 +14845,24 @@
     {
       "album": {
         "name": "Small Sanctuary",
+        "url": "https://open.spotify.com/album/2SIWee6TyrGjpNliYVvbfH"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Small Sanctuary",
+      "url": "https://open.spotify.com/track/6sRuzyGwCabMtnMZXcoakQ"
+    },
+    {
+      "album": {
+        "name": "Small Sanctuary",
         "url": "https://open.spotify.com/album/3Hw0CqwBTvGz4HfPscEPfp"
       },
       "artists": [
@@ -14745,7 +14873,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218133,
       "name": "Small Sanctuary",
       "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
@@ -16189,7 +16317,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm"
@@ -16207,7 +16335,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147241,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0"
@@ -17077,7 +17205,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 296916,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0csr8I0RwQpbMxmqXQcqbL"
@@ -17099,7 +17227,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 296916,
       "name": "Trust",
       "url": "https://open.spotify.com/track/63TU6HeinhcJyEov0Z8ptB"
@@ -18787,7 +18915,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252012,
       "name": "You're So High (10 Years On) (Sasha Remix)",
       "url": "https://open.spotify.com/track/7gh68qwsiIDWnJxpsR3FXy"
@@ -18867,6 +18995,28 @@
       "duration_ms": 262000,
       "name": "Yours, Mine",
       "url": "https://open.spotify.com/track/6fHovUU6c7i3h7GY8S6BSs"
+    },
+    {
+      "album": {
+        "name": "You\u2019re So High (10 Years On) (Sasha Remix)",
+        "url": "https://open.spotify.com/album/6t0TPYdaexuZPTeitMlNqR"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252012,
+      "name": "You\u2019re So High (10 Years On) (Sasha Remix)",
+      "url": "https://open.spotify.com/track/46CwvNYyLYDZkc6ztrwj8K"
     },
     {
       "album": {

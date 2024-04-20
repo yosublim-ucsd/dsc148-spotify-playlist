@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 39790,
+  "2024-04-20": 39790,
   "date_first_scraped": "2023-04-07",
   "description": "",
   "name": "Canciones de Cuna",
@@ -755,10 +755,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131661,
       "name": "Wings To Fly",
       "url": "https://open.spotify.com/track/6TQz8WoqWFtvFtDEdtFzwo"
+    },
+    {
+      "album": {
+        "name": "Near And Far",
+        "url": "https://open.spotify.com/album/0b2YmF7G6T3beD2SeVnxPw"
+      },
+      "artists": [
+        {
+          "name": "Josef Bel Habib",
+          "url": "https://open.spotify.com/artist/6ZISq2vN9lwN6RZQ4kqcRI"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131661,
+      "name": "Wings To Fly",
+      "url": "https://open.spotify.com/track/7htCsBqjokWQ2fqU9N6F0L"
     },
     {
       "album": {

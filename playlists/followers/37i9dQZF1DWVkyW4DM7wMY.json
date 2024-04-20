@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 10650,
+  "2024-04-20": 10649,
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest alternative music from Nairobi to Dar!",
+  "description": "The hottest alternative music from Nairobi to Dar! Cover: Nu Fvnk",
   "name": "Eastern Vibes",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133324,
       "name": "100 Times",
       "url": "https://open.spotify.com/track/0FxaztVEQJyGXagfrVU3V4"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 133324,
       "name": "100 Times",
       "url": "https://open.spotify.com/track/2WgNtC3w0ACWDm7uQax1Hc"
@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Chandarana",
+        "url": "https://open.spotify.com/album/5VJhzvc65vD0PWFE0bkko0"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260512,
+      "name": "Chandarana",
+      "url": "https://open.spotify.com/track/5d2awA1xY7XCyqMbf3JruP"
+    },
+    {
+      "album": {
         "name": "Changed the Game",
         "url": "https://open.spotify.com/album/0ElhbiaJqf836NlDDU1FcG"
       },
@@ -563,7 +581,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178285,
       "name": "Divine Intervention",
       "url": "https://open.spotify.com/track/3wFzFIZFNn0gxYkfdOybqY"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "Divine Intervention",
       "url": "https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232967,
       "name": "Entebbe",
       "url": "https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176842,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/1ERuwIudqIjDkwDBKADD8V"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 176842,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 108000,
       "name": "Habibi Only Live Once",
       "url": "https://open.spotify.com/track/2ttKPD84VNMDgTZXsE2jpS"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108000,
       "name": "Habibi Only Live Once",
       "url": "https://open.spotify.com/track/4yI4Rezf3Mp0QRns4O10x4"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-20",
+      "date_removed": null,
       "duration_ms": 213932,
       "name": "Jaafari's 19th",
       "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213932,
       "name": "Jaafari's 19th",
       "url": "https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/6ihCdfXsn8YNrt1YjANzjs"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 177245,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/44YtzfSlmFcDPozHlfeivt"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177293,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/0jBp9lAEE0MAV0zeVAVSy3"
@@ -2302,6 +2320,28 @@
     },
     {
       "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
+    },
+    {
+      "album": {
         "name": "Oh! My Dear...",
         "url": "https://open.spotify.com/album/6Is4wsIEwh0xT5FZ9aRnaI"
       },
@@ -2459,7 +2499,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193896,
       "name": "Part 2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/1K1749ogaQ2xe1ZYofp00R"
@@ -2481,7 +2521,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
@@ -2906,6 +2946,24 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/40bEi3XNEzNJe7oiLoHM4R"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149012,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/7MQaJreOuHNGsMFcvvCEey"
+    },
+    {
+      "album": {
         "name": "Slow wine",
         "url": "https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5"
       },
@@ -2917,7 +2975,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 123624,
       "name": "Slow wine",
       "url": "https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca"
@@ -2935,7 +2993,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124000,
       "name": "Slow Wine",
       "url": "https://open.spotify.com/track/09zqopRV6IPEzq3ZUEP75B"
@@ -3117,7 +3175,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157403,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp"
@@ -3531,7 +3589,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 152971,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv"
@@ -3549,7 +3607,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152994,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/23yGrPeT2zyxnr7EWqJsRa"
@@ -3777,7 +3835,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153600,
       "name": "You're Not Here",
       "url": "https://open.spotify.com/track/5MnLVlRhaUIZbwFCN1uqKE"

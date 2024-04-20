@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 125018,
+  "2024-04-20": 125158,
   "date_first_scraped": "2022-05-30",
   "description": "Fill your mind with music for dreaming, thinking and longing. ",
   "name": "Ambient Dreamscapes",
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 306573,
       "name": "American Nihilism",
       "url": "https://open.spotify.com/track/2GbjgxScwFSC3sJ9zp4FuF"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306573,
       "name": "American Nihilism",
       "url": "https://open.spotify.com/track/3R3z6Xr0bIk1LHoIb7glKM"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294175,
       "name": "Bohemian Paradise",
       "url": "https://open.spotify.com/track/6IdB80rkZp5uaKooVoxpjA"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 294175,
       "name": "Bohemian Paradise",
       "url": "https://open.spotify.com/track/76BZeboUrTw8niFWxWET13"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 209850,
       "name": "glowing aura",
       "url": "https://open.spotify.com/track/2Oln7IKNcflZzS8Z9WMj5f"
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209850,
       "name": "glowing aura",
       "url": "https://open.spotify.com/track/2UPdvPrgmcRo9bJjaQl2u2"
@@ -1635,7 +1635,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 151394,
       "name": "Home Now",
       "url": "https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151394,
       "name": "Home Now",
       "url": "https://open.spotify.com/track/6ee6pL1zK1Eh6UJVP8isQX"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 237176,
       "name": "in motion",
       "url": "https://open.spotify.com/track/1SJAJFXAh3qMeVcMfRXrWa"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237176,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/1vwc2jG85k8ksmTKz0n0aF"
@@ -2255,7 +2255,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 185816,
       "name": "Mixed Waves",
       "url": "https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB"
@@ -2277,7 +2277,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185816,
       "name": "Mixed Waves",
       "url": "https://open.spotify.com/track/5jrYXkw35DFx0KVFop8xSw"
@@ -2797,24 +2797,6 @@
     {
       "album": {
         "name": "Reflection (Excerpt)",
-        "url": "https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "date_added": "2022-05-19",
-      "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
-      "duration_ms": 260834,
-      "name": "Reflection (Excerpt)",
-      "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
-    },
-    {
-      "album": {
-        "name": "Reflection (Excerpt)",
         "url": "https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet"
       },
       "artists": [
@@ -2825,10 +2807,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260834,
       "name": "Reflection - Excerpt",
       "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
+    },
+    {
+      "album": {
+        "name": "Reflection (Excerpt)",
+        "url": "https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260834,
+      "name": "Reflection - Excerpt",
+      "url": "https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36"
     },
     {
       "album": {
@@ -3171,7 +3171,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 508112,
       "name": "Sleet",
       "url": "https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc"
@@ -3189,7 +3189,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 508112,
       "name": "Sleet",
       "url": "https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq"
@@ -3229,7 +3229,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 135272,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/1vxzqff8m6YqPRt2LmWND5"
@@ -3251,7 +3251,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135272,
       "name": "Spheroidal",
       "url": "https://open.spotify.com/track/3bpExPx48Z9g89K10PkUgY"
@@ -3431,7 +3431,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 129485,
       "name": "Tender Heartbeat",
       "url": "https://open.spotify.com/track/5cp7kcxfvz6mfJlcepXI1x"
@@ -3449,7 +3449,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129485,
       "name": "Tender Heartbeat",
       "url": "https://open.spotify.com/track/6aOeuVVQfOj1vfN8jYqEPo"
@@ -3467,7 +3467,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 129485,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/6pniqT6V5tqFo5tukYskZ9"
@@ -3489,7 +3489,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129485,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/7p6lihQg27Oj3epadrLBZ9"
@@ -3659,7 +3659,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 167942,
       "name": "Unpacked",
       "url": "https://open.spotify.com/track/12XBxkyD9xTjxWawn0o31Z"
@@ -3677,7 +3677,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167942,
       "name": "Unpacked",
       "url": "https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ"

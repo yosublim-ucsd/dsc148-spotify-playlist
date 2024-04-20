@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 162061,
+  "2024-04-20": 162035,
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: Danique",
+  "description": "De nieuwste Nederlandse pop! Cover: Tino Martin & Anouk",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1790,6 +1790,24 @@
     },
     {
       "album": {
+        "name": "Consensual",
+        "url": "https://open.spotify.com/album/5XQ3CGBa4p7Irp64jyrJc9"
+      },
+      "artists": [
+        {
+          "name": "Sleeq",
+          "url": "https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141483,
+      "name": "Consensual",
+      "url": "https://open.spotify.com/track/3WzfdbLODInkYLnPDZ18x7"
+    },
+    {
+      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
       },
@@ -2654,6 +2672,24 @@
     },
     {
       "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
+    },
+    {
+      "album": {
         "name": "FLEMMING",
         "url": "https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy"
       },
@@ -3227,6 +3263,24 @@
       "duration_ms": 194380,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2rVUddzICzXAXelpLVvCF4"
+    },
+    {
+      "album": {
+        "name": "Gezichten",
+        "url": "https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8"
     },
     {
       "album": {
@@ -4999,6 +5053,24 @@
       "duration_ms": 176674,
       "name": "Jouw Love",
       "url": "https://open.spotify.com/track/1y0SJhnwKGEGZbH9OmrqyN"
+    },
+    {
+      "album": {
+        "name": "Juice Voor Je Ziel",
+        "url": "https://open.spotify.com/album/58om4xOUZjb2DfY04YTjuc"
+      },
+      "artists": [
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218575,
+      "name": "Juice Voor Je Ziel",
+      "url": "https://open.spotify.com/track/7vLUqQuhAyNsXgwYRZsBLy"
     },
     {
       "album": {
@@ -8389,7 +8461,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/3N8l96fR93JyiKJhc8qxFY"
@@ -8407,7 +8479,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202200,
       "name": "Tankstation",
       "url": "https://open.spotify.com/track/6l6QN2twTWU0nnhGJn76lR"
@@ -9433,6 +9505,28 @@
       "duration_ms": 183839,
       "name": "Voor De Gek",
       "url": "https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg"
+    },
+    {
+      "album": {
+        "name": "Voor Je \u2018t Weet",
+        "url": "https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197204,
+      "name": "Voor Je \u2018t Weet",
+      "url": "https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD"
     },
     {
       "album": {

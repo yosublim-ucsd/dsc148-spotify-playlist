@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-81 songs - 4 hr 19 min
+82 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [For My Own](https://open.spotify.com/track/3YKfLsDKd1e6IOCGApfI4d) | [FLiPKiCK](https://open.spotify.com/artist/117KJptkj4EDWkL45naFY3), [Splinter Cub](https://open.spotify.com/artist/7Jna317w0DhXpCzuM1qe6N), [Elation](https://open.spotify.com/artist/2ZTd1ErAfMHBgLDKSv7aKW) | [For My Own](https://open.spotify.com/album/1Bl5tGw5Pf8m5F0C2hsDQu) | 3:41 | 2023-10-20 |  |
 | [Fusion](https://open.spotify.com/track/5QB4LOyZW7ciFPu8uC7HO9) | [Aneesh Chengappa](https://open.spotify.com/artist/5gVQeVBF1ycIuAYwTDgZ95) | [Fusion](https://open.spotify.com/album/7zcsAMbDZv6gNmmkV7ew3E) | 2:48 | 2023-10-20 |  |
 | [Ghar Aao Na \(Rewind\)](https://open.spotify.com/track/6cj4Ah0gfAWbDR6q3IDHdD) | [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ghar Aao Na \(Rewind\)](https://open.spotify.com/album/6SNEIHjZznHNN5VJiSCrLO) | 4:13 | 2023-10-20 |  |
+| [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/track/4Cz7oBICpLdh5LTdpbGLz0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/album/71OwS0R4npYcuUX9YEXQ5b) | 4:17 | 2024-04-19 |  |
 | [Hear Me Say](https://open.spotify.com/track/6kQw53m0qxsZ2HN4iTYNLf) | [FLiPKiCK](https://open.spotify.com/artist/117KJptkj4EDWkL45naFY3) | [Hear Me Say](https://open.spotify.com/album/417EogpR9OgLqitc96gBby) | 3:31 | 2023-10-20 |  |
 | [Her Power](https://open.spotify.com/track/1rtBvfvKn1YzTCNdtgDZxk) | [Stella Key](https://open.spotify.com/artist/56PRQ7kk9woGM2SBKl8lYc), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Jay Sarma](https://open.spotify.com/artist/5Ja4ziHgL3e1KBZO2uTzOi) | [Her Power](https://open.spotify.com/album/4ZIh4X3ofQnHtN2q3TQB1X) | 2:26 | 2023-10-20 |  |
 | [HOP](https://open.spotify.com/track/0Y5m1N5YRyyyMNanVj7EQv) | [Argenil](https://open.spotify.com/artist/2A6Fi9fm0poTuwBWpIzVw2) | [HOP](https://open.spotify.com/album/7LMT5UtFEtAAgCOGiof49o) | 2:51 | 2024-02-05 |  |

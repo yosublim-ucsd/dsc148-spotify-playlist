@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=zqB8bOlZSlaIf\_ZO3HVl1A>Yadah</a>
 
-2,460 songs - 7 day 11 hr 23 min
+2,461 songs - 7 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Agabaidu](https://open.spotify.com/track/22uv4mVTC9xXFSZSagDjH0) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Vera Enenche Shishi](https://open.spotify.com/artist/1o6cQ96mhNuwFbiw6vpKie) | [Agabaidu](https://open.spotify.com/album/6cQgIrOKzHTSevAizYWwjC) | 9:20 | 2023-06-30 | 2023-07-14 |
 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 | 2023-10-06 | 2023-10-20 |
 | [AGBA OJOMI](https://open.spotify.com/track/6dho5KRbEMwWih4RkLF2Hm) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [AGBA OJOMI](https://open.spotify.com/album/5Wop3LTssxYGFcPmV5iO5R) | 6:10 | 2024-04-05 | 2024-04-19 |
+| [Agidigba God](https://open.spotify.com/track/68DQmgvFvO2HlqQ2oZxdpx) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Agidigba God](https://open.spotify.com/album/2iiMwAegfluTEe7ReEdCQA) | 2:50 | 2024-04-19 |  |
 | [AH\-GA\-LEO EDM VERSION](https://open.spotify.com/track/03SmYKggqP8htZ8V6VivAA) | [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [AH\-GA\-LEO EDM VERSION](https://open.spotify.com/album/3EqkedPzoprzTanvX2AnB7) | 3:30 | 2023-11-10 | 2023-11-24 |
 | [Aileyipada](https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Aileyipada](https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ) | 6:35 | 2024-03-08 | 2024-03-22 |
 | [Aiye](https://open.spotify.com/track/6bgTIUu8qvloA5vjL1S4b3) | [Oloro](https://open.spotify.com/artist/65bD8DAiX9XtkkVPjKhtCy) | [Aiye](https://open.spotify.com/album/3MSFQao71j1DxJGKmdHrWC) | 3:00 | 2023-12-22 | 2024-01-05 |

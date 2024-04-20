@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 43758,
+  "2024-04-20": 43799,
   "date_first_scraped": "2022-08-12",
   "description": "Quiet piano for hope and acceptance in times of hardship.",
   "name": "Piano for Healing ",
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 141386,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/2LdHJepGKdvmPPbm0pC6QC"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141386,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/7pUfoepuxnZzQZqqvrVJR3"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196009,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/2FcLmlED9nGB7gs4f8Bl5Z"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 196009,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/3h8VhGaMSwoQxsEFfRkmmb"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 229269,
       "name": "Derni\u00e8re Maison",
       "url": "https://open.spotify.com/track/2RuC6Qw0PI5dOKmsx0jugB"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229269,
       "name": "Derni\u00e8re Maison",
       "url": "https://open.spotify.com/track/5Zwq7RkrAa4dvDsXHaguTw"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203000,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-09",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Fid\u00e8le",
       "url": "https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B"
@@ -1667,6 +1667,24 @@
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2"
+    },
+    {
+      "album": {
+        "name": "Late",
+        "url": "https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "Late",
+      "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
     },
     {
       "album": {
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271374,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/4Mwv1IAyhdh9oWMcUHB0Vc"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
+      "date_removed": null,
       "duration_ms": 271387,
       "name": "Mirror Lake",
       "url": "https://open.spotify.com/track/1eVJInWM1ElhWTAFbCAQS9"
@@ -2856,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "Son Kolo Vikon",
+        "url": "https://open.spotify.com/album/540X3bGOuNshysD1DtMT2a"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217442,
+      "name": "Son Kolo Vikon",
+      "url": "https://open.spotify.com/track/0hYVdwqT4WOHNDeq7aiCkS"
+    },
+    {
+      "album": {
         "name": "When We Return to the Sun",
         "url": "https://open.spotify.com/album/2YYhlfUBBzGGsV18uztQgL"
       },
@@ -2867,7 +2903,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217442,
       "name": "Son Kolo Vikon",
       "url": "https://open.spotify.com/track/1pYesH9rsTnzEkRRhYk9Hn"
@@ -3393,10 +3429,28 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201000,
       "name": "vierde moment",
       "url": "https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv"
+    },
+    {
+      "album": {
+        "name": "Midnight Improvisations // Momenten",
+        "url": "https://open.spotify.com/album/0ybD0BRRdBivIT6Db8iu7P"
+      },
+      "artists": [
+        {
+          "name": "antinode",
+          "url": "https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3"
+        }
+      ],
+      "date_added": "2024-04-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "vierde moment",
+      "url": "https://open.spotify.com/track/2odkdy9ZmZPuH3U1q3BPXD"
     },
     {
       "album": {

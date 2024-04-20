@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12695,
+  "2024-04-20": 12704,
   "date_first_scraped": "2024-01-30",
   "description": "The music from Love Life on HBO Max.",
   "name": "Love Life",
@@ -97,10 +97,28 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279760,
       "name": "Alena",
       "url": "https://open.spotify.com/track/6nW8ZaGRUeVYphoOoF9Zla"
+    },
+    {
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/76Bw9lz68pV8Kmc3Ev3hm2"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2020-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279760,
+      "name": "Alena",
+      "url": "https://open.spotify.com/track/79rsyrBNHFKrHZ01LkEQuE"
     },
     {
       "album": {
@@ -173,10 +191,32 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205506,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/66fENdiRzl9hZViaDJ44Ol"
+    },
+    {
+      "album": {
+        "name": "Alton & Hortense Ellis",
+        "url": "https://open.spotify.com/album/1hWDeXQy6iBX5avTe0TKmy"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        },
+        {
+          "name": "Hortense Ellis",
+          "url": "https://open.spotify.com/artist/3rZYrTkyrwz1CiW09bfLE2"
+        }
+      ],
+      "date_added": "2020-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/7tLQLPqOWPESUxueSLiW6I"
     },
     {
       "album": {
@@ -216,6 +256,24 @@
     },
     {
       "album": {
+        "name": "45 84 89 : A Sides",
+        "url": "https://open.spotify.com/album/6BE4XsMrq8p3AUQHCQaQrZ"
+      },
+      "artists": [
+        {
+          "name": "The Fall",
+          "url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "C.R.E.E.P.",
+      "url": "https://open.spotify.com/track/7EVwZkub8heUMbvODVEw7q"
+    },
+    {
+      "album": {
         "name": "C.R.E.E.P.",
         "url": "https://open.spotify.com/album/3TG2BVKu0Oyuwaz7lfegYR"
       },
@@ -227,7 +285,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176933,
       "name": "C.R.E.E.P.",
       "url": "https://open.spotify.com/track/7cIlkkAj38EsNcIGO2ILpu"
@@ -293,7 +351,7 @@
     {
       "album": {
         "name": "Our Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1NARQBmcxcYtB30XwFa8Yz"
+        "url": "https://open.spotify.com/album/7k7LfcXJsRSWzzlNb3zjDC"
       },
       "artists": [
         {
@@ -304,6 +362,24 @@
       "date_added": "2020-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 456978,
+      "name": "Can't Do Without You (Tale of Us & Mano Le Tough Remix)",
+      "url": "https://open.spotify.com/track/5pNgnQa5Qn9EpL0GxuP6LB"
+    },
+    {
+      "album": {
+        "name": "Our Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1NARQBmcxcYtB30XwFa8Yz"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "date_added": "2020-05-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 456978,
       "name": "Can't Do Without You - Tale of Us & Mano Le Tough Remix",
       "url": "https://open.spotify.com/track/3ynw5Imx2U9J69r6NCF1j0"
@@ -321,10 +397,28 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284144,
       "name": "Can\u00d5t Control My Love",
       "url": "https://open.spotify.com/track/1iUlRTMGCysA8FpsFKcp9d"
+    },
+    {
+      "album": {
+        "name": "Can't Control My Love",
+        "url": "https://open.spotify.com/album/5p7bIDRqme8tv8ToQkSMJD"
+      },
+      "artists": [
+        {
+          "name": "Total Giovanni",
+          "url": "https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1"
+        }
+      ],
+      "date_added": "2020-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284144,
+      "name": "Can\u2019t Control My Love",
+      "url": "https://open.spotify.com/track/2uZpItKqisFdDsjTjif3Nv"
     },
     {
       "album": {
@@ -433,10 +527,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163973,
       "name": "Debold",
       "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
+    },
+    {
+      "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
     },
     {
       "album": {
@@ -469,10 +581,28 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+    },
+    {
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/6fqDwkVt4E4Kbg4CHMHs45"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "date_added": "2020-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/3xBGFVU2b2PV556Q3ebsQH"
     },
     {
       "album": {
@@ -509,10 +639,28 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333346,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/1MS9qwsiRgKqtkWZTbGXaY"
+    },
+    {
+      "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX"
+      },
+      "artists": [
+        {
+          "name": "Terry Mackson",
+          "url": "https://open.spotify.com/artist/0TtUsK3beR9gO08uFFlqUE"
+        }
+      ],
+      "date_added": "2021-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333346,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5LKSl2HQrsysvVJ13eZdgs"
     },
     {
       "album": {
@@ -579,7 +727,7 @@
     {
       "album": {
         "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/3XVkLkZp6fFwQGYNfDt7l7"
+        "url": "https://open.spotify.com/album/0SwOiyhQr5X52PI6UbFrzM"
       },
       "artists": [
         {
@@ -590,6 +738,24 @@
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220035,
+      "name": "Evil Twin",
+      "url": "https://open.spotify.com/track/6Ju5vBeaPiBH4CTIbRnHQb"
+    },
+    {
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/3XVkLkZp6fFwQGYNfDt7l7"
+      },
+      "artists": [
+        {
+          "name": "Krrum",
+          "url": "https://open.spotify.com/artist/1qxSVLNqRcdhXPkE6suUlN"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 220035,
       "name": "Evil Twin",
       "url": "https://open.spotify.com/track/7fzminwEsq5h0bz1AOVplB"
@@ -769,7 +935,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 383126,
       "name": "Home Boy",
       "url": "https://open.spotify.com/track/2yBhIp7eJG8arUOYTbSlth"
@@ -787,10 +953,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383126,
       "name": "Home Boy",
       "url": "https://open.spotify.com/track/7jk7K6EfHOuJhu0iPYDAb3"
+    },
+    {
+      "album": {
+        "name": "Greasepaint Smile",
+        "url": "https://open.spotify.com/album/4SFEF4Dg6Kl5aJtmsr8V0s"
+      },
+      "artists": [
+        {
+          "name": "Elyse Weinberg",
+          "url": "https://open.spotify.com/artist/2Aelm5hqlvbD7jxDGGKToM"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216269,
+      "name": "Houses",
+      "url": "https://open.spotify.com/track/19OQocztE243f4vzmP0uP7"
     },
     {
       "album": {
@@ -805,7 +989,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216269,
       "name": "Houses",
       "url": "https://open.spotify.com/track/2b73Q6Kl8Gh6Brb40lpLcr"
@@ -895,10 +1079,28 @@
       ],
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260853,
       "name": "I Was a Lover",
       "url": "https://open.spotify.com/track/4bp7ZjViSZT5wEnaxNT9Ge"
+    },
+    {
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "date_added": "2020-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "I Was A Lover",
+      "url": "https://open.spotify.com/track/68GdLQqyM7zkjDlVgMqRv8"
     },
     {
       "album": {
@@ -949,10 +1151,32 @@
       ],
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186213,
       "name": "I've Got Another",
       "url": "https://open.spotify.com/track/5qSFwhTLU7xWfeNaPQcfRK"
+    },
+    {
+      "album": {
+        "name": "I've Got Another b/w Southside Chicago",
+        "url": "https://open.spotify.com/album/67tXlk4XdYoQtc3yMrWMIn"
+      },
+      "artists": [
+        {
+          "name": "Otis Brown",
+          "url": "https://open.spotify.com/artist/0zwPBH9v7TUk4xfrZbS4nC"
+        },
+        {
+          "name": "The Delights",
+          "url": "https://open.spotify.com/artist/4J6Ylc8rv8LDVeRGwFDtut"
+        }
+      ],
+      "date_added": "2020-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186061,
+      "name": "I've Got Another",
+      "url": "https://open.spotify.com/track/6kHaeMNshLj9LAszX2zYEs"
     },
     {
       "album": {
@@ -1025,10 +1249,32 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247625,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/32BQD6M5H434NiRUkZTjvc"
+    },
+    {
+      "album": {
+        "name": "Emotional Support Animal",
+        "url": "https://open.spotify.com/album/3D4mMuXKsV5R6jUdGVZDEB"
+      },
+      "artists": [
+        {
+          "name": "Rainsford",
+          "url": "https://open.spotify.com/artist/4XxCuxkBeoJUdzaVRGJjrJ"
+        },
+        {
+          "name": "Twin Shadow",
+          "url": "https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247625,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/5jSuMOy5qFzXRsm3jdtXhM"
     },
     {
       "album": {
@@ -1043,10 +1289,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 427978,
       "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
       "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
+    },
+    {
+      "album": {
+        "name": "Larry Levan's Classic West End Records Remixes Made Famous at the Legendary Paradise Garage (2012 - Remaster)",
+        "url": "https://open.spotify.com/album/5HOw3ZJZmZduZlCnjMoeoA"
+      },
+      "artists": [
+        {
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416885,
+      "name": "Is It All Over My Face? - (Female Vocal) [2012 - Remaster]",
+      "url": "https://open.spotify.com/track/6Z00jJyuRxyTUacHANUInu"
     },
     {
       "album": {
@@ -1133,10 +1397,28 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110583,
       "name": "Leo",
       "url": "https://open.spotify.com/track/4B1A2L3Qy8S21i6K1d68yj"
+    },
+    {
+      "album": {
+        "name": "Floral Place",
+        "url": "https://open.spotify.com/album/5dJnB0USQuzQUoaeaSbqvR"
+      },
+      "artists": [
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "date_added": "2021-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110615,
+      "name": "Leo",
+      "url": "https://open.spotify.com/track/1SQUpaFHUAG42eIawsuSlj"
     },
     {
       "album": {
@@ -1194,6 +1476,24 @@
     },
     {
       "album": {
+        "name": "Dear Science",
+        "url": "https://open.spotify.com/album/4VRx3B1CT7lWCdw6o5HDQ4"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336480,
+      "name": "Love Dog",
+      "url": "https://open.spotify.com/track/0Qhre4lJhMu2tVkdjdJZ70"
+    },
+    {
+      "album": {
         "name": "Dear Science (Bonus Track Version)",
         "url": "https://open.spotify.com/album/21yNVHh5OZ4r3BphLjDVJK"
       },
@@ -1205,7 +1505,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336480,
       "name": "Love Dog",
       "url": "https://open.spotify.com/track/0SOHG1sxnACzLvk3H9EArp"
@@ -1227,10 +1527,32 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155720,
       "name": "Loving Is Easy",
       "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "album": {
+        "name": "Loving Is Easy (feat. Benny Sings)",
+        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Loving Is Easy (feat. Benny Sings)",
+      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
     },
     {
       "album": {
@@ -1263,10 +1585,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv"
+    },
+    {
+      "album": {
+        "name": "Soul Christmas",
+        "url": "https://open.spotify.com/album/56Fl7uCKwUbcRA1V172BbK"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/6UflNqGQUFW1yUGGoV2frv"
     },
     {
       "album": {
@@ -1281,10 +1621,28 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167560,
       "name": "Moody",
       "url": "https://open.spotify.com/track/6kG6NaXS2WuwZ4Hc6TwFIr"
+    },
+    {
+      "album": {
+        "name": "ESG",
+        "url": "https://open.spotify.com/album/6LZhEbjp7j7a7zgsHFHcTa"
+      },
+      "artists": [
+        {
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/4mIV2brwH5Hu4yX6VN6qJQ"
     },
     {
       "album": {
@@ -1368,6 +1726,24 @@
     },
     {
       "album": {
+        "name": "Eccentric Soul: The Forte Label",
+        "url": "https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC"
+      },
+      "artists": [
+        {
+          "name": "Marva Whitney",
+          "url": "https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191722,
+      "name": "Nothing I'd Rather Be (Than Your Weakness)",
+      "url": "https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb"
+    },
+    {
+      "album": {
         "name": "Nothing I\u2019d Rather Be (Than Your Weakness) b/w I've Lived The Life",
         "url": "https://open.spotify.com/album/0tQUz3kkptMtRl83IWTuqm"
       },
@@ -1379,7 +1755,7 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191722,
       "name": "Nothing I'd Rather Be (Than Your Weakness)",
       "url": "https://open.spotify.com/track/5APDOR7JsLSHeaRr7hENsn"
@@ -1419,10 +1795,28 @@
       ],
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189293,
       "name": "Real Love Baby",
       "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
+    },
+    {
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6IpBMtAMrBvSHc9y6rTtQQ"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2020-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/6YDf6QV7QfCEo8O2dbWalK"
     },
     {
       "album": {
@@ -1488,6 +1882,24 @@
     },
     {
       "album": {
+        "name": "Sheer Magic b/w Wonderful To be Loved",
+        "url": "https://open.spotify.com/album/1C54psnubtAaOhIIg54Ghj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cold Love",
+          "url": "https://open.spotify.com/artist/4hWaCuySXsgdffrYakU2eG"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Sheer Magic",
+      "url": "https://open.spotify.com/track/3qEMeZl3KEQviFCOdDFfCn"
+    },
+    {
+      "album": {
         "name": "Sheer Magic b/w Wonderful To Be Loved",
         "url": "https://open.spotify.com/album/7kIgUimXM8XR8OlLBjK0jO"
       },
@@ -1503,7 +1915,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208120,
       "name": "Sheer Magic",
       "url": "https://open.spotify.com/track/6MiRjPd9Bs95hba2V4i5wx"
@@ -1539,10 +1951,50 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163492,
       "name": "Sleep A Million Years",
       "url": "https://open.spotify.com/track/5kIgA1zYupC2NZ8pNqHrAD"
+    },
+    {
+      "album": {
+        "name": "Move With Love",
+        "url": "https://open.spotify.com/album/1sB5hCBFQF0zS9qHB5Ei6I"
+      },
+      "artists": [
+        {
+          "name": "Kathy Heideman",
+          "url": "https://open.spotify.com/artist/4u9ZHrFXFXptM7H68RJbiY"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163492,
+      "name": "Sleep A Million Years",
+      "url": "https://open.spotify.com/track/74ytjTPC5opPN8uOkPvhzp"
+    },
+    {
+      "album": {
+        "name": "Wrong Way Up [Expanded Edition]",
+        "url": "https://open.spotify.com/album/60iUtvboDimzQEiZjGfkzP"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327120,
+      "name": "Spinning Away",
+      "url": "https://open.spotify.com/track/0EZ4GxnjKkB5Q0X5MhMNEf"
     },
     {
       "album": {
@@ -1561,7 +2013,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327120,
       "name": "Spinning Away",
       "url": "https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC"
@@ -1597,10 +2049,28 @@
       ],
       "date_added": "2020-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260545,
       "name": "Summer Brings the Sunshine",
       "url": "https://open.spotify.com/track/4UYKnpqvHrvDKpblMr9JxZ"
+    },
+    {
+      "album": {
+        "name": "Summer Brings the Sunshine",
+        "url": "https://open.spotify.com/album/6QDNz5r99z7iJpkHjnldW7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Carter and Dallas County Green",
+          "url": "https://open.spotify.com/artist/2RWgO3s8UmCP8tG1kTFFzF"
+        }
+      ],
+      "date_added": "2020-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260546,
+      "name": "Summer Brings the Sunshine",
+      "url": "https://open.spotify.com/track/4OOo2t44ViVk5CDd61sxeH"
     },
     {
       "album": {
@@ -1623,7 +2093,7 @@
     {
       "album": {
         "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+        "url": "https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze"
       },
       "artists": [
         {
@@ -1634,6 +2104,24 @@
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 283386,
+      "name": "This Is The Last Time",
+      "url": "https://open.spotify.com/track/6XW2rKHwNnX5qzk79Qis9w"
+    },
+    {
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "date_added": "2020-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 283386,
       "name": "This is the Last Time",
       "url": "https://open.spotify.com/track/70ZuQywnmOpqcIiEnUA5yV"
@@ -1739,7 +2227,7 @@
     {
       "album": {
         "name": "We Are Your Friends",
-        "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
+        "url": "https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi"
       },
       "artists": [
         {
@@ -1754,6 +2242,28 @@
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262773,
+      "name": "We Are Your Friends - Justice Vs Simian",
+      "url": "https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA"
+    },
+    {
+      "album": {
+        "name": "We Are Your Friends",
+        "url": "https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Simian",
+          "url": "https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP"
+        }
+      ],
+      "date_added": "2020-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 262773,
       "name": "We Are Your Friends - Justice Vs Simian",
       "url": "https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8"
@@ -1854,6 +2364,24 @@
     },
     {
       "album": {
+        "name": "Bobo Y\u00e9y\u00e9: Belle \u00c9poque in Upper Volta",
+        "url": "https://open.spotify.com/album/4tGlp1d3Lv1e1EezFKFmyB"
+      },
+      "artists": [
+        {
+          "name": "Volta Jazz",
+          "url": "https://open.spotify.com/artist/7tr837m0bWZnXajwk9XqJI"
+        }
+      ],
+      "date_added": "2020-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252546,
+      "name": "W\u00ear\u00ea W\u00ear\u00ea Magne",
+      "url": "https://open.spotify.com/track/2r2LfBClS5Ry0keaXmHeoL"
+    },
+    {
+      "album": {
         "name": "Air Volta",
         "url": "https://open.spotify.com/album/1EvHC1dyyR441gd6dv2AK5"
       },
@@ -1865,7 +2393,7 @@
       ],
       "date_added": "2020-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 252546,
       "name": "W\u00ear\u00ea W\u00ear\u00ea Magne",
       "url": "https://open.spotify.com/track/3I3kFDNIDX6EWyCCiAXSFo"

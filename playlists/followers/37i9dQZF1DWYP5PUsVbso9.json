@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 295814,
+  "2024-04-20": 295779,
   "date_first_scraped": "2021-12-28",
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
   "name": "70s Country",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-09",
+      "date_removed": null,
       "duration_ms": 156960,
       "name": "Baby I'm Burnin'",
       "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "Coal Miner's Daughter",
       "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142773,
       "name": "Daydreams About Night Things",
       "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 167706,
       "name": "East Bound and Down",
       "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145253,
       "name": "Heaven's Just A Sin Away",
       "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181733,
       "name": "Let Me Be There",
       "url": "https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199400,
       "name": "Love In The Hot Afternoon",
       "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220866,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 190773,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 158973,
       "name": "Paper Roses",
       "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223344,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7Ic12BgSrOcE8TNiyBMDV7"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 223351,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/6D8zVrXxtOfJ6JZXV1WYRh"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 141040,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 168360,
       "name": "Some Broken Hearts Never Mend - Single Version",
       "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "Southern Nights",
       "url": "https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd"
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189007,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/2m25daTa9vh2G3kR4ZnSSS"
@@ -2247,7 +2247,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
@@ -2535,7 +2535,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164720,
       "name": "The Year That Clayton Delaney Died",
       "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
@@ -2571,7 +2571,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 144733,
       "name": "This Time",
       "url": "https://open.spotify.com/track/03T4H6czLK426qcW870hBZ"

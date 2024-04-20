@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8510,
+  "2024-04-20": 8509,
   "date_first_scraped": "2022-11-30",
   "description": "Music from and inspired by Blood & Water, now streaming on Netflix.",
   "name": "Blood & Water",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 246857,
       "name": "Bekezela",
       "url": "https://open.spotify.com/track/4Jq6FYc0XfBKe6mfvavL9b"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246857,
       "name": "Bekezela (feat. Bongeziwe Mabandla)",
       "url": "https://open.spotify.com/track/4uPK2HSzUk1g1qcOfv08j4"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 225669,
       "name": "Dhora",
       "url": "https://open.spotify.com/track/5ASfq5HDggA3eOfO95Zc43"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225669,
       "name": "Dhora (feat. Guspy Warrior)",
       "url": "https://open.spotify.com/track/1GPqXvqGF0c7f430Tqx9FS"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 164642,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2YOGTQF0EarnzzrfMvWyqT"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164642,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3pbrBQieIG9Vod0uE7WDwv"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219196,
       "name": "Dust and Iron",
       "url": "https://open.spotify.com/track/2K7J2YcstlUKdqyVYQgZhI"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 219196,
       "name": "Dust and Iron",
       "url": "https://open.spotify.com/track/5Jolry4jIBmVEBrdL268IG"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241286,
       "name": "Flex",
       "url": "https://open.spotify.com/track/2wkIdHkqm1ciA7PI6BuENS"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 241286,
       "name": "Flex",
       "url": "https://open.spotify.com/track/3TmCAGXkhoDlB52vmAJA5g"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 189701,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2gR7yAkNOE7S3cnjM1hrvX"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189701,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/6gsc1IZ9kEXdWsclKCRfpN"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162352,
       "name": "Heartburn (Sooibrand)",
       "url": "https://open.spotify.com/track/1nfnagD6ai7JafEQHbK52G"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "Heartburn (Sooibrand)",
       "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
@@ -669,10 +669,36 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274827,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/3gM6ImMKFRITabN3qWbxQH"
+    },
+    {
+      "album": {
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/46E6U2A5A8jhybgP8u0WPv"
+      },
+      "artists": [
+        {
+          "name": "Tshego",
+          "url": "https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY"
+        },
+        {
+          "name": "Gemini Major",
+          "url": "https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274827,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/1UdVZz1MceVU631wanvBqU"
     },
     {
       "album": {
@@ -723,7 +749,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 213750,
       "name": "Huku",
       "url": "https://open.spotify.com/track/09zl1Tb8QaW64mMAo3dZOU"
@@ -741,7 +767,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213750,
       "name": "Huku",
       "url": "https://open.spotify.com/track/2WVMptACMLOvceN59esg8D"
@@ -803,7 +829,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "Idhom",
       "url": "https://open.spotify.com/track/1pVciVSYHcEbAtKTNvZxh5"
@@ -821,7 +847,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218026,
       "name": "Idhom",
       "url": "https://open.spotify.com/track/49XOM6iscGA6vQkk1wsk1g"
@@ -839,7 +865,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 181422,
       "name": "John Cena",
       "url": "https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg"
@@ -857,7 +883,7 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181422,
       "name": "John Cena",
       "url": "https://open.spotify.com/track/1RwIJvRjIAJPqG3IVeeS1l"
@@ -1019,7 +1045,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230874,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/4KrWcLip76seNBnjVlUgxg"
@@ -1037,7 +1063,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 230874,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/66DKTykm14MvLFiyqfJFjA"
@@ -1125,7 +1151,7 @@
     {
       "album": {
         "name": "Azania",
-        "url": "https://open.spotify.com/album/0VGYRAdzWhlG3DwUGe5vNl"
+        "url": "https://open.spotify.com/album/0ChKN9BVkXZrP7ITN1ESvj"
       },
       "artists": [
         {
@@ -1144,6 +1170,32 @@
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 237505,
+      "name": "O Suna Mang",
+      "url": "https://open.spotify.com/track/75TWMVj4YTLKsTKW9uHtvI"
+    },
+    {
+      "album": {
+        "name": "Azania",
+        "url": "https://open.spotify.com/album/0VGYRAdzWhlG3DwUGe5vNl"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/56RqECMp24h0Zrr4YwlbYb"
+        },
+        {
+          "name": "Kid X",
+          "url": "https://open.spotify.com/artist/7bbG2jEwQ56ay7Ve4QW3Bf"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 237505,
       "name": "O Suna Mang",
       "url": "https://open.spotify.com/track/7xfVFKHHZQtjIsBxrxBNC5"
@@ -1339,10 +1391,28 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/14zC2gKUxFVSXubszpMx4h"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/4Kl8X4nruiSdUaoroUfqnn"
+      },
+      "artists": [
+        {
+          "name": "Kaz",
+          "url": "https://open.spotify.com/artist/30J7H62LTnp0uOki5i5CXQ"
+        }
+      ],
+      "date_added": "2020-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/5F21eb4JrAk25q8ktjviDi"
     },
     {
       "album": {
@@ -1365,10 +1435,36 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 447253,
       "name": "Richi Richi",
       "url": "https://open.spotify.com/track/6V0LaIuveaowpZ3833dr67"
+    },
+    {
+      "album": {
+        "name": "Moya Wa Taola",
+        "url": "https://open.spotify.com/album/59c1MvQnjo8K9VTUlg69Jg"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        },
+        {
+          "name": "Lady X",
+          "url": "https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447253,
+      "name": "Richi Richi (feat. Uhuru & Lady X)",
+      "url": "https://open.spotify.com/track/1IkKBFCqYK1jkdQMvnlJwQ"
     },
     {
       "album": {
@@ -1413,7 +1509,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 440840,
       "name": "Save South Africa",
       "url": "https://open.spotify.com/track/2ipraSAl9NkMLb3OnuYhpJ"
@@ -1435,7 +1531,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 440840,
       "name": "Save South Africa (feat. Chronical Deep)",
       "url": "https://open.spotify.com/track/0xVSayFikmr5B5X0XFeFai"
@@ -1457,10 +1553,32 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 468000,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5ntJmeu7GMF7YFMqIE8jbx"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/1H61P7t7N3TfFq2B4txIzT"
+      },
+      "artists": [
+        {
+          "name": "Lady X",
+          "url": "https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum"
+        },
+        {
+          "name": "Afrikan Roots",
+          "url": "https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468480,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5Dppb3e2am8lcKLNd6rrHs"
     },
     {
       "album": {
@@ -1505,7 +1623,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 368953,
       "name": "Skeleton Move",
       "url": "https://open.spotify.com/track/5rVst2E577tPxXdaBxMhmX"
@@ -1527,7 +1645,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368953,
       "name": "Skeleton Move (feat. Zanda Zakuza)",
       "url": "https://open.spotify.com/track/2CZISJpMaC2TayNPR0deQh"
@@ -1585,7 +1703,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 209017,
       "name": "Still",
       "url": "https://open.spotify.com/track/1R4ojHMaQU0T3cDGvsPmHo"
@@ -1603,7 +1721,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209017,
       "name": "Still",
       "url": "https://open.spotify.com/track/4H7ohxPRTRYL2TQBCq0llJ"
@@ -1639,7 +1757,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221076,
       "name": "Surviva",
       "url": "https://open.spotify.com/track/21EXSaTkJ52OCzkgFVw9iy"
@@ -1657,7 +1775,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 221076,
       "name": "Surviva",
       "url": "https://open.spotify.com/track/66136dLlJa5kY68quXMYsG"
@@ -1843,10 +1961,32 @@
       ],
       "date_added": "2020-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322000,
       "name": "Who",
       "url": "https://open.spotify.com/track/2CYeq92aKQGXBsnvZoLkqn"
+    },
+    {
+      "album": {
+        "name": "Who",
+        "url": "https://open.spotify.com/album/2fe9lidphEyH13YChOIREu"
+      },
+      "artists": [
+        {
+          "name": "Lady X",
+          "url": "https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum"
+        },
+        {
+          "name": "Afrikan Roots",
+          "url": "https://open.spotify.com/artist/4wl9UDbyFoBgCNG34ugdge"
+        }
+      ],
+      "date_added": "2020-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326200,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/35N8yriJRvED6cCq40773c"
     },
     {
       "album": {

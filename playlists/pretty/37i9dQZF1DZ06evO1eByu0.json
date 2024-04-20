@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 160398,
+  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "num_followers": 160182,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDFjZmExMGUzMjhiMDRmZGEyZTJjMWEwYjBiZmZiNGM5",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDJhZjJiZTk2MTk1ZmI0ZWE4NDA1MGE3OTllZDFjNGRi",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-        "url": "https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m"
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 209293,
-      "name": "Deus do Imposs\u00edvel (Ao Vivo em Mojave Desert)",
-      "url": "https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4"
+      "duration_ms": 295360,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reino",
-        "url": "https://open.spotify.com/album/16vOvThGZLTiQf2t4m5Igi"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus do Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 209674,
+      "name": "Deus do Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/6gIsv3ZQysvQzvJO4Dcbs5"
       },
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Vit\u00f3ria no Deserto",
+      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pai Presente",
         "url": "https://open.spotify.com/album/682eYG75UszY1zmE0yHhys"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 293684,
       "name": "Pai Presente",
       "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Vit\u00f3ria no Deserto",
-      "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Diante da Cruz (At the Cross)",
+      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habr\u00e1 Victoria",
         "url": "https://open.spotify.com/album/01wnhbveeUx0CgwlrNKgjU"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 355265,
-      "name": "Diante da Cruz (At the Cross)",
-      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
+      "duration_ms": 167137,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 167137,
-      "name": "Homenzinho Torto",
-      "url": "https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS"
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 359166,
-      "name": "Poder Pra Salvar (Mighty to Save)",
-      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 394924,
       "name": "Te Adorar \u00e9 o Meu Prazer",
       "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia",
-        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 176053,
-      "name": "Dan\u00e7a do Pinguim",
-      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autor de Vida (Autor da Vida)",
-        "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 296578,
-      "name": "Autor de Vida (Autor da Vida)",
-      "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Autor de Vida (Autor da Vida)",
+        "url": "https://open.spotify.com/album/2l2BlmPtP3jfR3ujWWUiOu"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 296578,
+      "name": "Autor de Vida (Autor da Vida)",
+      "url": "https://open.spotify.com/track/6nixEbKEEewJ6JjmevRUxz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 272741,
       "name": "Esperan\u00e7a",
       "url": "https://open.spotify.com/track/6Vmwm73j6P6Xyr4FbPSzZx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00daNICO DEUS",
-        "url": "https://open.spotify.com/album/3z0PmaUmQzaAgU8IZkqgE8"
-      },
-      "artists": [
-        {
-          "name": "Talitha Franco",
-          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 240745,
-      "name": "\u00danico Deus",
-      "url": "https://open.spotify.com/track/3nkwtUdNS8uEXwCZag7BAR"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 239294,
       "name": "Yo S\u00e9 Quien Soy",
       "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00daNICO DEUS",
+        "url": "https://open.spotify.com/album/3z0PmaUmQzaAgU8IZkqgE8"
+      },
+      "artists": [
+        {
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 240745,
+      "name": "\u00danico Deus",
+      "url": "https://open.spotify.com/track/3nkwtUdNS8uEXwCZag7BAR"
     },
     {
       "added_at": null,

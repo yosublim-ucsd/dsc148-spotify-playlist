@@ -1,12 +1,12 @@
 {
-  "2024-04-19": 4175,
+  "2024-04-20": 4177,
   "date_first_scraped": "2023-03-25",
   "description": "Eladio Carrion takes over Fuego! Featuring Beny Jr, Neutro Shorty, Tego Calder\u00f3n & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
   "name": "Fuego #043 - Eladio Carrion's Mixtape",
   "tracks": [
     {
       "album": {
-        "name": "Poesia Difusa",
+        "name": "Poes\u00eda Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
       "artists": [
@@ -73,7 +73,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 228423,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5ScC12iqm4GgYNRhxw6KU7"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233769,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/4B23TtgMz4GaBslQf0X3EY"
@@ -125,6 +125,24 @@
     {
       "album": {
         "name": "Brillando Sin Luz",
+        "url": "https://open.spotify.com/album/6z8Ux2WoLuFN76loM9ck1u"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Brillando Sin Luz",
+      "url": "https://open.spotify.com/track/2ZBt40coo7kKoUDbGwbptx"
+    },
+    {
+      "album": {
+        "name": "Brillando Sin Luz",
         "url": "https://open.spotify.com/album/3uFtc07N3dShu4jpnNFMoW"
       },
       "artists": [
@@ -135,7 +153,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180000,
       "name": "Brillando Sin Luz",
       "url": "https://open.spotify.com/track/5rz37f8yrSWGR1arwxq9Kb"

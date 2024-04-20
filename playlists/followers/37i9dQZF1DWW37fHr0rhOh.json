@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 36216,
+  "2024-04-20": 36213,
   "date_first_scraped": "2022-03-01",
   "description": "Always there, always true!  These are the songs, old and new, you can count on time after time.  Cover: Bobby, Teddi, and Billy Ray Cyrus",
   "name": "Faithful Melodies",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 123025,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/1qkpT6anpq60mDodOkGpVL"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 123025,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/43Bq77lTBLMxEf5phduzKH"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244506,
       "name": "Ask Me Why",
       "url": "https://open.spotify.com/track/6F4SJY0WDftskPqVCoQD5O"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244506,
       "name": "Ask Me Why",
       "url": "https://open.spotify.com/track/6vO2wjHPVOExkAVXp6V3DP"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259786,
       "name": "God's Been Good",
       "url": "https://open.spotify.com/track/5GPYYW2SziHGFFzU01pzJP"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259786,
       "name": "God's Been Good",
       "url": "https://open.spotify.com/track/7aF49Ss3DPphTPOyvp0aBH"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231680,
       "name": "God's Great",
       "url": "https://open.spotify.com/track/3puMAV6xXfHP818Vev0lIE"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231680,
       "name": "God's Great",
       "url": "https://open.spotify.com/track/5tQUIqejsQcWPaRnqPB3nE"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206760,
       "name": "He Is To Me",
       "url": "https://open.spotify.com/track/34tctvGanz52Ozqo7a4cSF"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207733,
       "name": "He Is To Me",
       "url": "https://open.spotify.com/track/0LRClbKfqCGcmvq9pSYrYi"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282653,
       "name": "He Took the Nails",
       "url": "https://open.spotify.com/track/5LDnTZwZvZV0OlsYvbCG3x"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282653,
       "name": "He Took the Nails",
       "url": "https://open.spotify.com/track/5raxn2LAc5jJJ1LDqkSj4x"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 255053,
       "name": "Hidden Heroes",
       "url": "https://open.spotify.com/track/2ZKzU4dqjP5MMnFNTDkUSL"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255053,
       "name": "Hidden Heroes",
       "url": "https://open.spotify.com/track/3KxtrZs43aVh8dYw8OwDL1"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249613,
       "name": "I Want to Be That Man",
       "url": "https://open.spotify.com/track/5oPdxfCzdBfASHQk2RRVlX"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249613,
       "name": "I Want to Be That Man",
       "url": "https://open.spotify.com/track/6GnXlYZzxC2la9gS6Cu4TQ"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 212746,
       "name": "I'll Take You Home",
       "url": "https://open.spotify.com/track/2TDe3tKqBs1Hj3P7SCPaEI"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212746,
       "name": "I'll Take You Home",
       "url": "https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289760,
       "name": "If You Knew Him",
       "url": "https://open.spotify.com/track/1zSc1jQYXfam46npX6aLdH"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289760,
       "name": "If You Knew Him",
       "url": "https://open.spotify.com/track/4lWaLcpZhP7GgTqFgjc5t7"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183253,
       "name": "Jesus Is In The House",
       "url": "https://open.spotify.com/track/5o6MBQojqbL5XjtcZUN2NI"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183253,
       "name": "Jesus Is In The House",
       "url": "https://open.spotify.com/track/5y2JfftrZzXKSNPd49uq1d"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272173,
       "name": "Jesus, the One",
       "url": "https://open.spotify.com/track/1fFWNfVcCdPKwmY6CsKA1Z"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-25",
+      "date_removed": null,
       "duration_ms": 276240,
       "name": "Jesus, The One",
       "url": "https://open.spotify.com/track/0TMGJmaXAKnUPmigOH5qrA"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162613,
       "name": "Let It Be Known",
       "url": "https://open.spotify.com/track/0EC4hbsJ82IO3aOuCf1Q49"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 162613,
       "name": "Let It Be Known",
       "url": "https://open.spotify.com/track/5pS98JjD95Q2RykrG4LCG1"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188996,
       "name": "Mountain Moving Faith",
       "url": "https://open.spotify.com/track/4Fzqt3PAbjMIrv3Eq8ReCW"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188996,
       "name": "Mountain Moving Faith",
       "url": "https://open.spotify.com/track/5CLFyGzFasmVgIKxB2sJ2H"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239653,
       "name": "Never Forsaken",
       "url": "https://open.spotify.com/track/6A38eOAi4jOfKg3WoMNi9J"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239653,
       "name": "Never Forsaken",
       "url": "https://open.spotify.com/track/6deffkMvFM7HsKDt5LYAE7"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171080,
       "name": "No Bones About It",
       "url": "https://open.spotify.com/track/0jrbL1mvRUpTaxvUDlPlrt"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171080,
       "name": "No Bones About It",
       "url": "https://open.spotify.com/track/7IdjRdGpf5aLXrZfh9cUFl"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281786,
       "name": "Pray On The Little Days",
       "url": "https://open.spotify.com/track/0biHuPyqZNBWDYkA18UVdB"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 281786,
       "name": "Pray On the Little Days",
       "url": "https://open.spotify.com/track/6rewBlPgraytKwejxDd4A0"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 246026,
       "name": "Preacher Tell Me Like It Is",
       "url": "https://open.spotify.com/track/4YNiIVWAQWR3YsXKpLh9aj"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246026,
       "name": "Preacher Tell Me Like It Is",
       "url": "https://open.spotify.com/track/5u8sJB6NIv1Ys11N7PvlG6"
@@ -1101,7 +1101,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219000,
       "name": "Put out the Fire",
       "url": "https://open.spotify.com/track/3suYRvsYjl4CqvczP9g79e"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Put out the Fire",
       "url": "https://open.spotify.com/track/7FihPbwTgrD7YQ01OHWt1k"
@@ -1177,7 +1177,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273146,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre"
@@ -1199,7 +1199,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273146,
       "name": "Say Amen",
       "url": "https://open.spotify.com/track/5hylfPj5G68DOkooVSKAkt"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250680,
       "name": "Somebody Died For Me",
       "url": "https://open.spotify.com/track/0nr8WV9wznKesNCCGZUcVT"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250680,
       "name": "Somebody Died For Me",
       "url": "https://open.spotify.com/track/3lBiYr6IAvvvO1BEEUUabY"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233773,
       "name": "Sometimes He Whispers",
       "url": "https://open.spotify.com/track/4AzDGT4FH5VN1z3PIYsrsM"
@@ -1289,7 +1289,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233773,
       "name": "Sometimes He Whispers",
       "url": "https://open.spotify.com/track/742Hlx2xdKpdPTZIjSyAg8"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340773,
       "name": "Sometimes It Takes A Mountain",
       "url": "https://open.spotify.com/track/0LpbCChXvttSqSi51Wnfo7"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340773,
       "name": "Sometimes It Takes A Mountain",
       "url": "https://open.spotify.com/track/5XX76HSOKKdewC3wZ49sdo"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 332373,
       "name": "Sweeter As The Days Go By",
       "url": "https://open.spotify.com/track/1JQUWd3mO8X9juFK9Nzn2H"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334133,
       "name": "Sweeter as the Days Go By",
       "url": "https://open.spotify.com/track/7G6WP9xJHIa18Kr6hFKPoI"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237066,
       "name": "The Beauty of the Blood",
       "url": "https://open.spotify.com/track/6aO8y9WvS3eaTIacPfbytw"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237066,
       "name": "The Beauty of the Blood",
       "url": "https://open.spotify.com/track/7ELkReejYTA1hjQGOD5bqN"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219653,
       "name": "The Broken Ones",
       "url": "https://open.spotify.com/track/0gdMxfopB9G1HYTpFBIwh8"
@@ -1487,7 +1487,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219773,
       "name": "The Broken Ones",
       "url": "https://open.spotify.com/track/215JiixpD2GvlWpG62XPjD"
@@ -1523,7 +1523,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241400,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/6BrngBvcklK8u4pmv4Bcrr"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242120,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/6DfCFXypXTLJNCOdPcKomo"
@@ -1595,7 +1595,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231626,
       "name": "The Next Cloud",
       "url": "https://open.spotify.com/track/5UhDenv71Txc65I7rIMWVk"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231626,
       "name": "The Next Cloud",
       "url": "https://open.spotify.com/track/60AF6cEmUxjgHvmf4umlFg"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 240165,
       "name": "The People In The Line",
       "url": "https://open.spotify.com/track/4z6pkg3axG8p8e1oCTuzef"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240165,
       "name": "The People in the Line",
       "url": "https://open.spotify.com/track/7Ks8w2NQV9sucN8FJx7K7S"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171000,
       "name": "There Is A Love",
       "url": "https://open.spotify.com/track/0Gqo3QNcrrkCXPXPTSfMN3"
@@ -1703,7 +1703,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "There Is A Love",
       "url": "https://open.spotify.com/track/5WWpf8gDtQ3gxFGLvNugz4"
@@ -1757,7 +1757,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205453,
       "name": "Uncommon Praise",
       "url": "https://open.spotify.com/track/30ppa6BZZxeaGltm4DFE2h"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205453,
       "name": "Uncommon Praise",
       "url": "https://open.spotify.com/track/4SsXkpEm3Zp0yQgTJcr52B"
@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196160,
       "name": "Unspoken Request",
       "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "Unspoken Request",
       "url": "https://open.spotify.com/track/6twhBwsKg8IPd0idLy5Zit"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132093,
       "name": "You Can Find What I Found",
       "url": "https://open.spotify.com/track/031WW1NOdbLJdKImkq7wEg"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 132093,
       "name": "You Can Find What I Found",
       "url": "https://open.spotify.com/track/6RjPfdvN9rkSyQGpH6KGBL"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4882,
+  "2024-04-20": 4884,
   "date_first_scraped": "2022-08-06",
   "description": "consider this an RSVP to littest wedding parties ",
   "name": "Small Chops ",
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/0pPaHAsyHLYt45J42IXKuG"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
@@ -515,6 +515,28 @@
       "duration_ms": 220320,
       "name": "Come and See My Moda (feat. Yemi Alade)",
       "url": "https://open.spotify.com/track/5W4iLxBJknbKAjNAUSH2L5"
+    },
+    {
+      "album": {
+        "name": "Confirmation (feat. Iyanya)",
+        "url": "https://open.spotify.com/album/6EE9T34Fn575k7ydCe1CgG"
+      },
+      "artists": [
+        {
+          "name": "Yo Maps",
+          "url": "https://open.spotify.com/artist/6ctMiUYEAd4cy0CaH355Hk"
+        },
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197590,
+      "name": "Confirmation (feat. Iyanya)",
+      "url": "https://open.spotify.com/track/3ctflWaoyphfupV0M5ATVS"
     },
     {
       "album": {
@@ -1067,10 +1089,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171730,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/7uBFRR5edpEwT2WGl9ThIN"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/2YLlWggRiwD6UAFQj3rRmh"
     },
     {
       "album": {
@@ -1123,6 +1163,24 @@
     {
       "album": {
         "name": "No Bad Songz",
+        "url": "https://open.spotify.com/album/7aBqPFpPw91lIsW9pNZ1zt"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Madu",
+      "url": "https://open.spotify.com/track/0kJy3um7LxqMqfs0en45rG"
+    },
+    {
+      "album": {
+        "name": "No Bad Songz",
         "url": "https://open.spotify.com/album/0DpLAtDsBunoPN3V8ir3QS"
       },
       "artists": [
@@ -1133,7 +1191,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161400,
       "name": "Madu",
       "url": "https://open.spotify.com/track/69vmMU3DyducrazXbFmOqH"
@@ -1383,7 +1441,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198620,
       "name": "ODO",
       "url": "https://open.spotify.com/track/5rRKhpWLZzDp8a7KZ4wPYO"
@@ -1423,7 +1481,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202146,
       "name": "Onyeka (Baby)",
       "url": "https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf"
@@ -1445,6 +1503,24 @@
       "duration_ms": 202146,
       "name": "Onyeka (Baby)",
       "url": "https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202146,
+      "name": "Onyeka (Baby)",
+      "url": "https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J"
     },
     {
       "album": {
@@ -1669,6 +1745,28 @@
     {
       "album": {
         "name": "Running (To You)",
+        "url": "https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191245,
+      "name": "Running (To You)",
+      "url": "https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0"
+    },
+    {
+      "album": {
+        "name": "Running (To You)",
         "url": "https://open.spotify.com/album/0rwqdLBpVDxg3QKhxOfZmH"
       },
       "artists": [
@@ -1683,7 +1781,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191245,
       "name": "Running (To You)",
       "url": "https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X"
@@ -1770,6 +1868,28 @@
     },
     {
       "album": {
+        "name": "Southy Love",
+        "url": "https://open.spotify.com/album/0IYiZqSbFcLxa5xPMSwKEG"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Southy Love",
+      "url": "https://open.spotify.com/track/5fNuSX2WFLQgJ4X5b5qexN"
+    },
+    {
+      "album": {
         "name": "Rum & Boogie",
         "url": "https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC"
       },
@@ -1785,7 +1905,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210048,
       "name": "Southy Love",
       "url": "https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA"
@@ -1825,7 +1945,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175792,
       "name": "Stand By You",
       "url": "https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR"
@@ -1850,6 +1970,46 @@
     },
     {
       "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/39WVQ6PF89aHiysP6RXCdT"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/6Y8rlNz9wcfWOMGiHPgYzI"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162102,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/1pLOxV11pQRIyHnGIVZVDH"
+    },
+    {
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -1865,7 +2025,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162102,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65"
@@ -2032,6 +2192,24 @@
     },
     {
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/0ZpRrn5pcVaxmmlPnC8X5J"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168742,
+      "name": "woman",
+      "url": "https://open.spotify.com/track/5PjVhymNaWsU57S7zhOjgo"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -2043,7 +2221,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"

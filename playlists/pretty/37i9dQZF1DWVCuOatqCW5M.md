@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Sukriti Kakar, Prakriti Kakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,483 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,512 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Saath Tere](https://open.spotify.com/track/4NUMMY9FHZZ66mPHdcoASO) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Saath Tere](https://open.spotify.com/album/1h8upXtYhz5JIKnQcIUAw0) | 3:10 |
 | 2 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 |
-| 3 | [Main Na Jaanu Kyu](https://open.spotify.com/track/3o9WNCC2eyne6YKbqbx2RX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 |
+| 3 | [Main Na Jaanu Kyun](https://open.spotify.com/track/3o9WNCC2eyne6YKbqbx2RX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 |
 | 4 | [Khwabon Wali Raat](https://open.spotify.com/track/2GozYPicH3zmddSgoKbQBi) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Khwabon Wali Raat](https://open.spotify.com/album/49Ryh0d4x1wed6JNP0w15T) | 2:45 |
 | 5 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 |
 | 6 | [Khaali Botal](https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Khaali Botal](https://open.spotify.com/album/6YatkhZz9GNPjrh6Zyrdye) | 4:16 |

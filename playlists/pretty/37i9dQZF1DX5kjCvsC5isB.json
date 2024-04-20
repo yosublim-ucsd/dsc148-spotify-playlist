@@ -1,6 +1,6 @@
 {
   "description": "Women who rock our world. Cover: The Last Dinner Party",
-  "num_followers": 293861,
+  "num_followers": 293863,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "A Dozen Roses",
         "url": "https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 157085,
       "name": "A Dozen Roses",
       "url": "https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Real Power",
-        "url": "https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 255253,
-      "name": "Real Power",
-      "url": "https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 217327,
       "name": "Rest In Peace",
       "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Real Power",
+        "url": "https://open.spotify.com/album/4x6PFHaTEgzT5NsVAgszZE"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 255253,
+      "name": "Real Power",
+      "url": "https://open.spotify.com/track/340KzsVkQVS4W3u8VizsBr"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "poser",
-        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 169065,
-      "name": "poser",
-      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "ghost",
         "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "poser",
+        "url": "https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 169065,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "hostage",
-        "url": "https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 163736,
-      "name": "hostage",
-      "url": "https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -571,6 +555,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "hostage",
+        "url": "https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 163736,
+      "name": "hostage",
+      "url": "https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Why Am I Like This? / Ipecac",
         "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "you were good to me (deluxe)",
-        "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
-      },
-      "artists": [
-        {
-          "name": "Chloe Lilac",
-          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
-        }
-      ],
-      "duration_ms": 151088,
-      "name": "sound in my head",
-      "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "you were good to me (deluxe)",
+        "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lilac",
+          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
+        }
+      ],
+      "duration_ms": 151088,
+      "name": "sound in my head",
+      "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "MONKI",
-        "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 164819,
-      "name": "MONKI",
-      "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Honda Civic",
         "url": "https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 170520,
       "name": "Honda Civic",
       "url": "https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "MONKI",
+        "url": "https://open.spotify.com/album/25qSW0rOBp95ioiWhiAlTm"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 164819,
+      "name": "MONKI",
+      "url": "https://open.spotify.com/track/30eZI7pnpdWKgk1UmUAxoF"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Liquor and Kerosene (feat. The Maine)",
-        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 214024,
-      "name": "Liquor and Kerosene (feat. The Maine)",
-      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "girls just wanna have sex",
         "url": "https://open.spotify.com/album/07IkuWQnBVe4ZtwOzJ7vQg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 124029,
       "name": "girls just wanna have sex",
       "url": "https://open.spotify.com/track/6u9pA8Izk34kgKXd0ukLv3"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Liquor and Kerosene (feat. The Maine)",
+        "url": "https://open.spotify.com/album/2Hz30mmJGwlVXhbffxDM8j"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 214024,
+      "name": "Liquor and Kerosene (feat. The Maine)",
+      "url": "https://open.spotify.com/track/7k0OJud8YsBKbncUPa46TY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 163785,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Nosebleeds",
         "url": "https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "ask nicely",
-        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
       },
       "artists": [
         {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 159200,
-      "name": "ask nicely",
-      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
+      "duration_ms": 163785,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+        "name": "ask nicely",
+        "url": "https://open.spotify.com/album/0aM2bVnkmBZcW38sKuyAv9"
       },
       "artists": [
         {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
         }
       ],
-      "duration_ms": 178804,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+      "duration_ms": 159200,
+      "name": "ask nicely",
+      "url": "https://open.spotify.com/track/0adKvhR28ImyPl8yKC5oKO"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -939,6 +923,22 @@
       "duration_ms": 140178,
       "name": "And They All Fall Down",
       "url": "https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 178804,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "duration_ms": 173998,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr"
-      },
-      "artists": [
-        {
-          "name": "The Mysterines",
-          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
-        }
-      ],
-      "duration_ms": 173998,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 226188,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Call Me Later",
         "url": "https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 180099,
       "name": "Call Me Later",
       "url": "https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2apgxM7pfYfejgrPg4N6cB"
+      },
+      "artists": [
+        {
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 226188,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4tVcX8MGswvfbfESHIChzH"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Scaredy Pants",
         "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192440,
       "name": "Scaredy Pants",
       "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "SILYMI",
-        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
       "artists": [
         {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 149388,
-      "name": "SILYMI",
-      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
       },
       "artists": [
         {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Kills Me To Be Kind",
-        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
-      },
-      "artists": [
-        {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
-        }
-      ],
-      "duration_ms": 280982,
-      "name": "Kills Me To Be Kind",
-      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Hate You When You Party",
         "url": "https://open.spotify.com/album/5oDm9L1HZpWELHtEpDamTn"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 214226,
       "name": "Hate You When You Party",
       "url": "https://open.spotify.com/track/4fh7Ymv5hojW13vBLOJ8yj"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Kills Me To Be Kind",
+        "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 280982,
+      "name": "Kills Me To Be Kind",
+      "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
-      },
-      "artists": [
-        {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "CULT CLASSIC",
-      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
         "name": "Love Goes On",
         "url": "https://open.spotify.com/album/30eJbXVjjtYtYtwkt337Sr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 195226,
       "name": "Love Goes On",
       "url": "https://open.spotify.com/track/3xeyZGEEVW8SZPmteR9Fw6"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/3vw9IZ3YV2T5bqYTYG0IXr"
+      },
+      "artists": [
+        {
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "CULT CLASSIC",
+      "url": "https://open.spotify.com/track/7hgIaQykdol1sWnj1uqBup"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 164453,
       "name": "Falling from the Sky",
       "url": "https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Squeeze",
-        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD"
     },
     {
       "added_at": "2024-02-28 19:20:31",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-02-28 19:20:31",
       "album": {
+        "name": "Jabberwocky",
+        "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 192290,
+      "name": "Jabberwocky",
+      "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
+    },
+    {
+      "added_at": "2024-02-28 19:20:31",
+      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 173666,
       "name": "Kiss Kiss Bang Bang",
       "url": "https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ"
-    },
-    {
-      "added_at": "2024-02-28 19:20:31",
-      "album": {
-        "name": "Jabberwocky",
-        "url": "https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 192290,
-      "name": "Jabberwocky",
-      "url": "https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU"
     },
     {
       "added_at": "2024-02-28 19:20:31",

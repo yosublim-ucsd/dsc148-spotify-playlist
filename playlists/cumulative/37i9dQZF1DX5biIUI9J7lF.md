@@ -4,7 +4,7 @@
 
 > I'm just a girl
 
-127 songs - 6 hr 37 min
+128 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 | 2022-07-27 |  |
 | [Gbona](https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:07 | 2022-07-27 |  |
 | [Girls Deserve More Money](https://open.spotify.com/track/7itEqiDQTTgU8r7JGy7vie) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:43 | 2023-09-09 |  |
+| [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 | 2024-04-19 |  |
 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 | 2024-04-05 |  |
 | [Have Fun](https://open.spotify.com/track/0lfDJO9YpO6LdPAmeZSy50) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/3oGGPxoSSnThtJaFp210lv) | 2:16 | 2022-07-27 | 2024-04-19 |
 | [Have Fun](https://open.spotify.com/track/1YE6R8iv39utNlRBhsncEM) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Have Fun](https://open.spotify.com/album/4hfMvgMtZgnzS97qbsYNSq) | 2:16 | 2024-04-19 |  |

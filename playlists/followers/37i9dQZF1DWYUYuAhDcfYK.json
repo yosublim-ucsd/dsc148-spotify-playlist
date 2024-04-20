@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 722,
+  "2024-04-20": 722,
   "date_first_scraped": "2024-01-30",
   "description": "Fresh takes- from new revisions and iconic covers to unexpected versions. ",
   "name": "Dolly Parton: Covered",
@@ -79,6 +79,28 @@
     {
       "album": {
         "name": "Do I Ever Cross Your Mind",
+        "url": "https://open.spotify.com/album/1wtJCSBYOF1w24uuebLeaW"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        },
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145281,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/291QLL91Lu39rkkWxDfNZZ"
+    },
+    {
+      "album": {
+        "name": "Do I Ever Cross Your Mind",
         "url": "https://open.spotify.com/album/0Sy1ndBokQwCQ0P2zx4Xpe"
       },
       "artists": [
@@ -93,7 +115,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145281,
       "name": "Do I Ever Cross Your Mind",
       "url": "https://open.spotify.com/track/5hpnLYTyiQOBMP3fpIdY8H"
@@ -489,6 +511,28 @@
     {
       "album": {
         "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/0AJgG9Mysbxk2QDOIYuKBd"
+      },
+      "artists": [
+        {
+          "name": "Dan Bettridge",
+          "url": "https://open.spotify.com/artist/626PNFpj7VtxuYllBq7Ju1"
+        },
+        {
+          "name": "Mahogany",
+          "url": "https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328360,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/1t5i1pVLOkYr0ju5gkklN1"
+    },
+    {
+      "album": {
+        "name": "The Bargain Store",
         "url": "https://open.spotify.com/album/2knwNrZtjIS1xPg3j5FGjR"
       },
       "artists": [
@@ -503,7 +547,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328360,
       "name": "The Bargain Store",
       "url": "https://open.spotify.com/track/7FNhnbq4wLq2OMuh4OOcwn"
@@ -587,6 +631,24 @@
     {
       "album": {
         "name": "Twang On A Wire",
+        "url": "https://open.spotify.com/album/04dcYq8bajhjRdEHIGoMA9"
+      },
+      "artists": [
+        {
+          "name": "Kate Campbell",
+          "url": "https://open.spotify.com/artist/1NZA6DefBtQo2PgcmBtnTg"
+        }
+      ],
+      "date_added": "2024-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Touch Your Woman",
+      "url": "https://open.spotify.com/track/1Rgo8fk3zm48QV2qmRyIW2"
+    },
+    {
+      "album": {
+        "name": "Twang On A Wire",
         "url": "https://open.spotify.com/album/1JAzY7B1BEY7MKgpIIeBsd"
       },
       "artists": [
@@ -597,7 +659,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219373,
       "name": "Touch Your Woman",
       "url": "https://open.spotify.com/track/3RcRNuyL4xpeqORYb2pYMY"

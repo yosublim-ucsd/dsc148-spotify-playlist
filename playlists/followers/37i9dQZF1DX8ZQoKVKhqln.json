@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4919,
+  "2024-04-20": 4924,
   "date_first_scraped": "2023-01-11",
   "description": "Coldcut's Takeover selection, as previously featured on <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL\">Ambient X</a>.",
   "name": "Ambient X Takeover: Coldcut",
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273000,
       "name": "Agate or Barium - Bersarin Quartett Remix",
       "url": "https://open.spotify.com/track/0nfS82i90nv96o9SWDc9fb"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "Agate or Barium - Bersarin Quartett Remix",
       "url": "https://open.spotify.com/track/3xyFu3aZJo8tCVQvUI2PbB"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 688958,
       "name": "Mir",
       "url": "https://open.spotify.com/track/0IGrAZzfpOkV2ECNy4Sz5P"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 688958,
       "name": "Mir",
       "url": "https://open.spotify.com/track/3wyNQNDrg9ntkIZe6RaO4v"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 912614,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/0OsZjtaB8djRq9NGVBwRLO"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 912614,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/4ED1r1V1kA5BGmTTYc4nf2"
@@ -351,6 +351,24 @@
     {
       "album": {
         "name": "Clarinet & Piano: Selected Works, Vol. 1",
+        "url": "https://open.spotify.com/album/0MyJiGAWtExobMGfp7uwsr"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289413,
+      "name": "Snow Canon",
+      "url": "https://open.spotify.com/track/4cBctjDviU70W1rNK1rtWR"
+    },
+    {
+      "album": {
+        "name": "Clarinet & Piano: Selected Works, Vol. 1",
         "url": "https://open.spotify.com/album/1Og9tQJXutnIGZlZJrqVvM"
       },
       "artists": [
@@ -361,7 +379,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289413,
       "name": "Snow Canon",
       "url": "https://open.spotify.com/track/7c4BrwUPbpKWpTWISpPOcp"
@@ -439,6 +457,24 @@
     {
       "album": {
         "name": "By the River",
+        "url": "https://open.spotify.com/album/0QJwAnNdtXXQANOZtgVIjf"
+      },
+      "artists": [
+        {
+          "name": "Valotihkuu",
+          "url": "https://open.spotify.com/artist/0OylZQzS2T7iRxTUzvdnhL"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244615,
+      "name": "Whispering Wind",
+      "url": "https://open.spotify.com/track/0yY2oyqVgFoo3Jw7siaGhb"
+    },
+    {
+      "album": {
+        "name": "By the River",
         "url": "https://open.spotify.com/album/2XxkxuDG1NmPw1kGF8qyAp"
       },
       "artists": [
@@ -449,7 +485,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244615,
       "name": "Whispering Wind",
       "url": "https://open.spotify.com/track/4sV8Xi1vPf4p6ILk6g6gJo"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 51685,
+  "2024-04-20": 51790,
   "date_first_scraped": "2023-08-11",
   "description": "Smooth indie jazz joints from around the globe. Cover: Andr\u00e9 3000",
   "name": "Rarities",
@@ -203,6 +203,24 @@
     {
       "album": {
         "name": "Bad State",
+        "url": "https://open.spotify.com/album/4olKeHrhZ5NZqfnj3vRGOA"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143173,
+      "name": "Bad State",
+      "url": "https://open.spotify.com/track/1iT8kdKFOaYhbH7fz1A4dU"
+    },
+    {
+      "album": {
+        "name": "Bad State",
         "url": "https://open.spotify.com/album/129jl3rEjJF4JnicTq4N4R"
       },
       "artists": [
@@ -249,7 +267,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143173,
       "name": "Bad State",
       "url": "https://open.spotify.com/track/60HUBKxo7tMHPLbLCEK2XQ"
@@ -465,7 +483,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258716,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/0hVKrrJGlQYzD88ytKZ2H7"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 258716,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/2Rr5PghSBFo5xXx1WqFLua"
@@ -803,7 +821,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 231176,
       "name": "DIRT!",
       "url": "https://open.spotify.com/track/4EW0bDoXwk7CTK58TQr3vh"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231176,
       "name": "DIRT!",
       "url": "https://open.spotify.com/track/7p6HkxWPWMnPmOtSOFqJd3"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/3uyAmrmQS6GDm0XllcMGMK"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 197282,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/4j6pXSqfkzcI3jXUAA7B7B"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197282,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/6bFwnfuHCnhW0NQqBJPian"
@@ -1469,10 +1487,28 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 263206,
       "name": "I DM U",
       "url": "https://open.spotify.com/track/5e0gYGMPLrsSUjSQONdjlF"
+    },
+    {
+      "album": {
+        "name": "I DM U",
+        "url": "https://open.spotify.com/album/1IIZNcK6YUDis4Fu9SYAMk"
+      },
+      "artists": [
+        {
+          "name": "Loraine James",
+          "url": "https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263206,
+      "name": "I DM U",
+      "url": "https://open.spotify.com/track/68lJLfOBW85RyWcbPxzMcO"
     },
     {
       "album": {
@@ -2173,7 +2209,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Never Fight The Way You Feel",
       "url": "https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl"
@@ -2191,7 +2227,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163000,
       "name": "Never Fight The Way You Feel",
       "url": "https://open.spotify.com/track/4pZeOERX9UErM22y7nVjrL"
@@ -2269,6 +2305,28 @@
     {
       "album": {
         "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/5rW58nzgWhqERhafY4KV4n"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "No Confusion",
+      "url": "https://open.spotify.com/track/1t6DCfkVYL4nWTIy3hEx2m"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
       },
       "artists": [
@@ -2283,7 +2341,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194440,
       "name": "No Confusion (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/1DkHcsvPvbfmEtKwDvmYmY"
@@ -2703,10 +2761,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 582566,
       "name": "Return To Centaurus",
       "url": "https://open.spotify.com/track/0eYbnFAoXGyJEHfmqHfMXQ"
+    },
+    {
+      "album": {
+        "name": "Return To Centaurus",
+        "url": "https://open.spotify.com/album/23ICXWJ6tPP1mOcFOGtgbq"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582566,
+      "name": "Return To Centaurus",
+      "url": "https://open.spotify.com/track/70FOl52yL8uBW3GBuNso3w"
     },
     {
       "album": {
@@ -2765,10 +2841,32 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+    },
+    {
+      "album": {
+        "name": "Rust (feat. Tom Misch)",
+        "url": "https://open.spotify.com/album/60EqifwSuc3sGlo0ysgg3u"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238786,
+      "name": "Rust (feat. Tom Misch)",
+      "url": "https://open.spotify.com/track/1ubbdrZv0EoDc40awvh8Rh"
     },
     {
       "album": {
@@ -2787,7 +2885,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340503,
       "name": "Safe From Harm (feat. Reginald AK)",
       "url": "https://open.spotify.com/track/1crJ36QxInBL1wTJGCwqJm"
@@ -2809,7 +2907,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 340503,
       "name": "Safe From Harm (feat. Reginald AK)",
       "url": "https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf"
@@ -3033,7 +3131,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 173981,
       "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
       "url": "https://open.spotify.com/track/0kVJEG5pdADLbeyEabOyYi"
@@ -3055,7 +3153,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173981,
       "name": "Some Of Us Are Brave (Georgia Anne Muldrow's Geemix)",
       "url": "https://open.spotify.com/track/67xeUEYZOxGcrjsjvs1mxG"
@@ -3073,7 +3171,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "Soon We'll Make It",
       "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
@@ -3091,7 +3189,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139500,
       "name": "Soon We'll Make It",
       "url": "https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH"
@@ -3153,10 +3251,28 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 403954,
       "name": "Stalemate (Edit)",
       "url": "https://open.spotify.com/track/6Nc3VlsiqEZNvF42ziCCAl"
+    },
+    {
+      "album": {
+        "name": "Stalemate (Edit)",
+        "url": "https://open.spotify.com/album/5ZNGeIk9sgQfgNBikHrFU8"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403954,
+      "name": "Stalemate - Edit",
+      "url": "https://open.spotify.com/track/1V7LkpiUuuECEEU80qUcl0"
     },
     {
       "album": {
@@ -3397,10 +3513,32 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340840,
       "name": "The Light (feat. Bahia Dayes)",
       "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
+    },
+    {
+      "album": {
+        "name": "The Light (feat. Bahia Dayes)",
+        "url": "https://open.spotify.com/album/4SecYNmUfTlg29S48YfIyr"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Bahia Dayes",
+          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340840,
+      "name": "The Light (feat. Bahia Dayes)",
+      "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
     },
     {
       "album": {

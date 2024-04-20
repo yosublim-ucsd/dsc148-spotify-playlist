@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 17754,
+  "2024-04-20": 17762,
   "date_first_scraped": "2021-12-29",
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA\">Prime Circle</a>",
   "name": "SA Rock ",
@@ -2853,7 +2853,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249720,
       "name": "Free Falling (Radio)",
       "url": "https://open.spotify.com/track/5sV4pK5Ks0oB40x3hUbFLC"
@@ -3051,7 +3051,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 187626,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ"
@@ -4481,10 +4481,28 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216106,
       "name": "Like You Madly",
       "url": "https://open.spotify.com/track/01LzrcDkl2wsDj2fkx5GR2"
+    },
+    {
+      "album": {
+        "name": "All Comes Round 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
+      },
+      "artists": [
+        {
+          "name": "Just Jinger",
+          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
+        }
+      ],
+      "date_added": "2024-02-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Like You Madly",
+      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
     },
     {
       "album": {

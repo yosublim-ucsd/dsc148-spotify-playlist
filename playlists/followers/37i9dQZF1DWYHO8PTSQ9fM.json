@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 420334,
+  "2024-04-20": 420286,
   "date_first_scraped": "2022-05-13",
   "description": "Les hits du moment sont ici. Cover : Morad, GIMS",
   "name": "Hot Hits Maghreb",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 168979,
       "name": "Ajini",
       "url": "https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6"
@@ -1584,6 +1584,28 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
         "name": "Gaw El Banat",
         "url": "https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx"
       },
@@ -2047,7 +2069,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 155280,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155302,
       "name": "Hyati",
       "url": "https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow"
@@ -2149,6 +2171,28 @@
       "duration_ms": 168365,
       "name": "Jamais yensak",
       "url": "https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5"
+    },
+    {
+      "album": {
+        "name": "Jelaba",
+        "url": "https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM"
+      },
+      "artists": [
+        {
+          "name": "Liamsi",
+          "url": "https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw"
+        },
+        {
+          "name": "Tawsen",
+          "url": "https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186346,
+      "name": "Jelaba",
+      "url": "https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j"
     },
     {
       "album": {
@@ -2315,7 +2359,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 152590,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/1GDHRaUxihjkGMFESApltm"
@@ -2333,7 +2377,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152611,
       "name": "Khssara",
       "url": "https://open.spotify.com/track/3XouPSvnWkkepjdbjyFW8i"

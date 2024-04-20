@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 1380817,
+  "2024-04-20": 1380825,
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Avenoir",
+  "description": "Leaders of the new school...Alternative R&B. Cover: AMINDI",
   "name": "Vanguard",
   "tracks": [
     {
@@ -969,7 +969,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 249520,
       "name": "All the Noise",
       "url": "https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d"
@@ -2289,7 +2289,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155151,
       "name": "BIG BOYS DON'T CRY",
       "url": "https://open.spotify.com/track/5VLm4s6b7rUFus9NDbynAR"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 164102,
       "name": "Blue Hundreds",
       "url": "https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi"
@@ -3943,7 +3943,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/5snFgC1DedpQ5yhJINZ70A"
@@ -4153,7 +4153,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226453,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL"
@@ -4331,7 +4331,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 134060,
       "name": "Concentrate (feat. Dua Saleh)",
       "url": "https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E"
@@ -4385,7 +4385,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV"
@@ -4501,7 +4501,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146216,
       "name": "cross my heart",
       "url": "https://open.spotify.com/track/1GnTBbaFtxNkHEjUsWEdNu"
@@ -4795,7 +4795,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 151926,
       "name": "Damn Gloves",
       "url": "https://open.spotify.com/track/7qJXfY2YuKeAc4y8CdWJPq"
@@ -4871,6 +4871,24 @@
       "duration_ms": 233640,
       "name": "Dancing Circles",
       "url": "https://open.spotify.com/track/6lNyT8TfnpMTRrmJRQKQC9"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/67dCHnIYSsNEaSoWOAgMQ5"
+      },
+      "artists": [
+        {
+          "name": "TYuS",
+          "url": "https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4KZi5Ubz23DQOLDJuNLnKZ"
     },
     {
       "album": {
@@ -5827,7 +5845,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/1tneXzol13bt8PkPTPMsS7"
@@ -5849,7 +5867,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201218,
       "name": "Ellipsis",
       "url": "https://open.spotify.com/track/3MaBdTM6hLwb4n280HJaia"
@@ -6193,7 +6211,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 205354,
       "name": "exodus the north star",
       "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
@@ -7375,7 +7393,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101333,
       "name": "get back",
       "url": "https://open.spotify.com/track/1kr266GQyqocYCrfcYz2lH"
@@ -8697,7 +8715,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196373,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0p3DnWActE2qcJDqs6sI4k"
@@ -9797,6 +9815,24 @@
     {
       "album": {
         "name": "Imaan",
+        "url": "https://open.spotify.com/album/0DB3121n8MTCyE0LfhxIEX"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214088,
+      "name": "Imaan",
+      "url": "https://open.spotify.com/track/1prJ8ZRyFjd60AYJOa9gbP"
+    },
+    {
+      "album": {
+        "name": "Imaan",
         "url": "https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P"
       },
       "artists": [
@@ -9825,7 +9861,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214088,
       "name": "Imaan",
       "url": "https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR"
@@ -10075,7 +10111,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9"
@@ -10111,7 +10147,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160440,
       "name": "Intergalactic Janet",
       "url": "https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ"
@@ -13725,8 +13761,8 @@
           "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         },
         {
-          "name": "Mavi",
-          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
         }
       ],
       "date_added": "2024-04-12",
@@ -14663,7 +14699,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo"
@@ -14681,7 +14717,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173329,
       "name": "pink dress",
       "url": "https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb"
@@ -15223,7 +15259,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 167956,
       "name": "protect",
       "url": "https://open.spotify.com/track/3dXn10jdtOSIp1kwUo9Zlu"
@@ -15305,7 +15341,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149189,
-      "name": "Pulp Jam ( feat. Mamii)",
+      "name": "Pulp Jam (feat. Mamii)",
       "url": "https://open.spotify.com/track/3CarOVyNEOcK89v0o3elHk"
     },
     {
@@ -16675,7 +16711,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130626,
       "name": "She'll Be OK",
       "url": "https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN"
@@ -20183,7 +20219,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172800,
-      "name": "UGOMDN pt. 2 (ft. Mick Jenkins) - pt. 2",
+      "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
       "url": "https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg"
     },
     {
@@ -20777,7 +20813,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216178,
       "name": "Washed Away",
       "url": "https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 202929,
+  "2024-04-20": 202835,
   "date_first_scraped": "2021-12-28",
   "description": "Songs of faith, hope, and the greatest of these, love.",
   "name": "Higher Love",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Another Song About Love",
+        "url": "https://open.spotify.com/album/2JFvBrpQEAWqS2kgpe7UKw"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/3i05I3sLtP491SLdez1J5S"
+    },
+    {
+      "album": {
         "name": "Enough Already",
         "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191794,
       "name": "Another Song About Love",
       "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
@@ -199,7 +217,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213338,
       "name": "Baby Will You Love Me",
       "url": "https://open.spotify.com/track/0lfzTHeMZJYG5icmPK7diT"
@@ -217,7 +235,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 213338,
       "name": "Baby Will You Love Me",
       "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 208493,
       "name": "Band of Gold // Summer Sessions",
       "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
@@ -253,10 +271,28 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208493,
       "name": "Band of Gold // Summer Sessions",
       "url": "https://open.spotify.com/track/4kwsg89ymfCXPPt4VdjsmJ"
+    },
+    {
+      "album": {
+        "name": "Be with you",
+        "url": "https://open.spotify.com/album/0XqFHiZ2liZy2TG6936Tww"
+      },
+      "artists": [
+        {
+          "name": "Estella Kirk",
+          "url": "https://open.spotify.com/artist/4KVIc4NXmxjAe1UTWsJ8zG"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Be with you",
+      "url": "https://open.spotify.com/track/2uUKp2IXHZ6vPAlE7wFjzR"
     },
     {
       "album": {
@@ -333,7 +369,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216612,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/3g61xRaqII8q1wlQDzv550"
@@ -351,7 +387,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216612,
       "name": "Beautiful Soul",
       "url": "https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM"
@@ -376,6 +412,28 @@
     },
     {
       "album": {
+        "name": "Best In Me",
+        "url": "https://open.spotify.com/album/05njSWOf5Yn13lDbaxXbnG"
+      },
+      "artists": [
+        {
+          "name": "Ilish",
+          "url": "https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi"
+        },
+        {
+          "name": "A-Dub White",
+          "url": "https://open.spotify.com/artist/0fIrICgUetNRbRQxq3yxyZ"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/301kBapJYmfmEqwfbnuVJW"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An"
       },
@@ -391,7 +449,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-08",
+      "date_removed": null,
       "duration_ms": 173861,
       "name": "Better",
       "url": "https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz"
@@ -413,7 +471,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173861,
       "name": "Better",
       "url": "https://open.spotify.com/track/2N61h8fv13gVHvDf4EcZuT"
@@ -507,7 +565,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250520,
       "name": "Bless The Broken Road",
       "url": "https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov"
@@ -692,6 +750,28 @@
     },
     {
       "album": {
+        "name": "COME MY WAY",
+        "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
+      },
+      "artists": [
+        {
+          "name": "Jay Sanon",
+          "url": "https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu"
+        },
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "COME MY WAY",
+      "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
       },
@@ -707,6 +787,28 @@
       "duration_ms": 216991,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
+    },
+    {
+      "album": {
+        "name": "Copacetic",
+        "url": "https://open.spotify.com/album/7ogPeerzRi048GrlgEjc0B"
+      },
+      "artists": [
+        {
+          "name": "Czar Josh",
+          "url": "https://open.spotify.com/artist/0uMdSPqGMACq3BFqRSaEQ5"
+        },
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Copacetic",
+      "url": "https://open.spotify.com/track/4Ruz004Up9H5sPPeLs7JLe"
     },
     {
       "album": {
@@ -747,7 +849,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210372,
       "name": "Dancing in the Minefields",
       "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
@@ -765,7 +867,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210372,
       "name": "Dancing In The Minefields",
       "url": "https://open.spotify.com/track/1pDYCsbY4NkeQb8AvanZMj"
@@ -787,6 +889,24 @@
       "duration_ms": 210372,
       "name": "Dancing In The Minefields",
       "url": "https://open.spotify.com/track/4SyGjosRg6d4tvE1EMtqFf"
+    },
+    {
+      "album": {
+        "name": "Day 1",
+        "url": "https://open.spotify.com/album/62toDLoNV7Z0Glh8BGuPis"
+      },
+      "artists": [
+        {
+          "name": "DJ Mal-Ski",
+          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Day 1",
+      "url": "https://open.spotify.com/track/4sLYab7HPkBmFw6KnO4GU0"
     },
     {
       "album": {
@@ -837,7 +957,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
@@ -859,6 +979,28 @@
       "duration_ms": 197846,
       "name": "Dear No One",
       "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
+    },
+    {
+      "album": {
+        "name": "Do Something",
+        "url": "https://open.spotify.com/album/2DnLwuLzehmXLOmNnfuBPy"
+      },
+      "artists": [
+        {
+          "name": "Swat",
+          "url": "https://open.spotify.com/artist/0CQpEzzQecM9nFBkLkMpme"
+        },
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109113,
+      "name": "Do Something",
+      "url": "https://open.spotify.com/track/0pHdJcXOqFXIJEU2LMM0BD"
     },
     {
       "album": {
@@ -891,7 +1033,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148633,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/3UVuCyBiSajWBUGlME1sZL"
@@ -945,7 +1087,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237573,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq"
@@ -1006,6 +1148,46 @@
     },
     {
       "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/6l3uQKJtgCEkZZkbOwS167"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "Arik Nelson",
+          "url": "https://open.spotify.com/artist/0mj1wRm8UV7qjUtiftIc0W"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113427,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/11pTXXWhwMxGSTJDlNmHUT"
+    },
+    {
+      "album": {
+        "name": "Fall in Love with You.",
+        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1017,7 +1199,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
@@ -1071,7 +1253,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244693,
       "name": "Feel The Waters",
       "url": "https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb"
@@ -1161,7 +1343,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187706,
       "name": "Gave You My Heart",
       "url": "https://open.spotify.com/track/0JdIj8YUpJkftN6bVbEAr2"
@@ -1179,7 +1361,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187706,
       "name": "Gave You My Heart",
       "url": "https://open.spotify.com/track/3QVBuJCFgr7Grt0a5awIiA"
@@ -1251,7 +1433,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228960,
       "name": "God Gave Me You",
       "url": "https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL"
@@ -1287,7 +1469,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178253,
       "name": "Going Together",
       "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
@@ -1367,7 +1549,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219613,
       "name": "Heaven (All Around You) - Acoustic",
       "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
@@ -1389,6 +1571,24 @@
       "duration_ms": 242920,
       "name": "Hemorrhage",
       "url": "https://open.spotify.com/track/7rHXQjFDKJ4R4AAEfuoNJM"
+    },
+    {
+      "album": {
+        "name": "HERE FOR U",
+        "url": "https://open.spotify.com/album/4x1raU0kC6Q2FsC5lKnGMY"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "HERE FOR U",
+      "url": "https://open.spotify.com/track/3Wu5EGR3dNatQR0b3zx0dT"
     },
     {
       "album": {
@@ -1464,6 +1664,46 @@
     },
     {
       "album": {
+        "name": "Holding On To You",
+        "url": "https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw"
+      },
+      "artists": [
+        {
+          "name": "Dan Stirling",
+          "url": "https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp"
+        },
+        {
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222868,
+      "name": "Holding On to You - Single Version",
+      "url": "https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g"
+    },
+    {
+      "album": {
+        "name": "HOW DOES IT FEEL",
+        "url": "https://open.spotify.com/album/6b5axnC9yBEz1jrtV9kzpB"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "HOW DOES IT FEEL",
+      "url": "https://open.spotify.com/track/0I5Z4qbYI7D3BSyTmnyNxG"
+    },
+    {
+      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1529,7 +1769,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261306,
       "name": "I Feel the Love Between Us",
       "url": "https://open.spotify.com/track/5qMT6T7uAU8KqJjPSXAEjE"
@@ -1547,7 +1787,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261306,
       "name": "I Feel the Love Between Us",
       "url": "https://open.spotify.com/track/78UHDGBTtSRTVU9v8XYYlv"
@@ -1609,7 +1849,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226826,
       "name": "I Will Always Be Yours",
       "url": "https://open.spotify.com/track/35RrDnREM1xxx4YBxDHikm"
@@ -1627,7 +1867,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226826,
       "name": "I Will Always Be Yours",
       "url": "https://open.spotify.com/track/4m1lB7qJ78VPYsQy7RoBcU"
@@ -1753,7 +1993,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221979,
       "name": "It's Our Time",
       "url": "https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T"
@@ -1797,6 +2037,24 @@
     {
       "album": {
         "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
+    },
+    {
+      "album": {
+        "name": "Just Too Good",
         "url": "https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf"
       },
       "artists": [
@@ -1807,7 +2065,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk"
@@ -1915,7 +2173,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/11S5G8taDSpsUiGYP4lKxm"
@@ -1933,7 +2191,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183573,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
@@ -2023,7 +2281,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
@@ -2377,7 +2635,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
@@ -2413,7 +2671,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6"
@@ -2431,7 +2689,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211200,
       "name": "More Than Me",
       "url": "https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha"
@@ -2453,7 +2711,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 177968,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5wAh9qbpzlRrdgVtIeNObM"
@@ -2475,7 +2733,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125714,
       "name": "Nice n Slow",
       "url": "https://open.spotify.com/track/5lLOxGJhIem0mC8IYUSzVG"
@@ -2511,7 +2769,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232752,
       "name": "Oh How I Love You - Bonus Track",
       "url": "https://open.spotify.com/track/0af0z5Jks46ew0thVFET4u"
@@ -2547,7 +2805,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 233050,
       "name": "Oh How I Love You - R&B Version",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
@@ -2667,7 +2925,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219653,
       "name": "Pilots",
       "url": "https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz"
@@ -2817,7 +3075,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187134,
       "name": "Pretty Beautiful",
       "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
@@ -3119,7 +3377,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 282280,
       "name": "sweetest love - live recording",
       "url": "https://open.spotify.com/track/7v3qP1ZU2Xv3Tx13XXjQDT"
@@ -3217,7 +3475,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195160,
       "name": "Thank God I Got Her",
       "url": "https://open.spotify.com/track/5Rv2Qybimpsp9hzFnMQBYN"
@@ -3235,7 +3493,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195160,
       "name": "Thank God I Got Her",
       "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
@@ -3253,10 +3511,28 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209986,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1NNp0mT7KHz0trwTAvbaaG"
+    },
+    {
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209986,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj"
     },
     {
       "album": {
@@ -3597,7 +3873,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Warm",
       "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
@@ -3695,7 +3971,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/0PHlJJa4i5f2DV1QrL65s9"
@@ -3713,7 +3989,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
@@ -3793,7 +4069,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216453,
       "name": "With Every Act of Love",
       "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
@@ -3854,6 +4130,24 @@
     },
     {
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3cBv1pXf2VSNw9ifwPmPDE"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6yoqMIIZU8LBoyKEYkLjpG"
+    },
+    {
+      "album": {
         "name": "Without Your Love",
         "url": "https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC"
       },
@@ -3887,7 +4181,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/45W0GYB7YQO5wq6ePZPA4F"
@@ -3905,7 +4199,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226293,
       "name": "You",
       "url": "https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3"
@@ -3959,7 +4253,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 180800,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/01Yu78p79vbsR8kHDY1Czt"
@@ -4017,6 +4311,32 @@
       "duration_ms": 125598,
       "name": "YOU'RE THE ONE I WANT",
       "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "album": {
+        "name": "you.",
+        "url": "https://open.spotify.com/album/6B7etnFvfuyy0H0cY7DsrD"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "Young C.A.",
+          "url": "https://open.spotify.com/artist/7HqTbZVd1CTsXqDFk1zSL7"
+        },
+        {
+          "name": "Siah SZN",
+          "url": "https://open.spotify.com/artist/61hBWUbyOpJpA8NDkiwdEH"
+        }
+      ],
+      "date_added": "2024-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236526,
+      "name": "you.",
+      "url": "https://open.spotify.com/track/5aIWSE31yrW7hbrjMpeJVl"
     },
     {
       "album": {
@@ -4089,7 +4409,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309840,
       "name": "Your Love Is Strong",
       "url": "https://open.spotify.com/track/2VlvH2VwDr68KoSRp7CIDi"
@@ -4125,7 +4445,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309840,
       "name": "Your Love Is Strong",
       "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"

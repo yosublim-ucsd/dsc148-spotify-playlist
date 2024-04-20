@@ -1,9 +1,35 @@
 {
-  "2024-04-19": 23394,
+  "2024-04-20": 23391,
   "date_first_scraped": "2022-12-13",
   "description": "The most calming Christmas carols.",
   "name": "Calming Carols",
   "tracks": [
+    {
+      "album": {
+        "name": "The Wonder of Christmas",
+        "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124866,
+      "name": "A Boy Was Born, Op. 3: Theme",
+      "url": "https://open.spotify.com/track/4I00sMOhbckH6dKthGWUGN"
+    },
     {
       "album": {
         "name": "The Wonder of Christmas",
@@ -25,7 +51,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124866,
       "name": "A Boy Was Born, Op. 3: Theme: A Boy Was Born",
       "url": "https://open.spotify.com/track/1MZHEyKKVzZFRUyF5Hfoi6"
@@ -55,6 +81,32 @@
     {
       "album": {
         "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
+        "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
+      },
+      "artists": [
+        {
+          "name": "Gerald Finzi",
+          "url": "https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP"
+        },
+        {
+          "name": "Blossom Street",
+          "url": "https://open.spotify.com/artist/0DmHKevU8qP3i2WoxwKc4r"
+        },
+        {
+          "name": "Hilary Campbell",
+          "url": "https://open.spotify.com/artist/616vVI89Pg2uEhIpFDmISc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "A Lullaby",
+      "url": "https://open.spotify.com/track/68PPhaGW7YDyrUrPAjdE4B"
+    },
+    {
+      "album": {
+        "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
         "url": "https://open.spotify.com/album/7esaQqLjea4J69sVu02O2c"
       },
       "artists": [
@@ -73,7 +125,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182440,
       "name": "A Lullaby",
       "url": "https://open.spotify.com/track/6E0OSTuSD6KGOGI1qiwb1G"
@@ -129,10 +181,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189053,
       "name": "A Shepherd's Carol",
       "url": "https://open.spotify.com/track/0whBlFjvsePcmtFPf5aWju"
+    },
+    {
+      "album": {
+        "name": "Choral Music - Paulus, S. / Britten, B. / Mcdowall, C. / Howells, H. / Busto, J. / Willan, H. / Belmont, J. (Spotless Rose)",
+        "url": "https://open.spotify.com/album/54CBoLZazdcA5KOSVcrWr7"
+      },
+      "artists": [
+        {
+          "name": "Herbert Howells",
+          "url": "https://open.spotify.com/artist/0Artcj84fSLUN93JectewP"
+        },
+        {
+          "name": "Phoenix Chorale",
+          "url": "https://open.spotify.com/artist/33YCmNkqNaxaGlCMisYKCd"
+        },
+        {
+          "name": "Charles Bruffy",
+          "url": "https://open.spotify.com/artist/2ai9WL8wYLTiYqg1QFHQyT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219746,
+      "name": "A Spotless Rose",
+      "url": "https://open.spotify.com/track/04jCDghWqnkhcoURY81NlG"
     },
     {
       "album": {
@@ -159,7 +237,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221733,
       "name": "A Spotless Rose",
       "url": "https://open.spotify.com/track/6UOj6Tgpw4KKY872f4A7v2"
@@ -237,7 +315,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-01",
+      "date_removed": null,
       "duration_ms": 137000,
       "name": "Anonymous: El Rorro",
       "url": "https://open.spotify.com/track/1fIb8o9rPVZVOdvshVlKMC"
@@ -415,10 +493,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139935,
       "name": "Carol Eliseus",
       "url": "https://open.spotify.com/track/057xEJDuZr9ILFOrOnEoCC"
+    },
+    {
+      "album": {
+        "name": "Watkins: Carol Eliseus",
+        "url": "https://open.spotify.com/album/13T9ea5DyktonLeZ632Hng"
+      },
+      "artists": [
+        {
+          "name": "Huw Watkins",
+          "url": "https://open.spotify.com/artist/3xgcjXeaaGErogsNHWbYPU"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139935,
+      "name": "Carol Eliseus",
+      "url": "https://open.spotify.com/track/7x4ItZ816T9PIwafbKCp8c"
     },
     {
       "album": {
@@ -481,10 +585,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126720,
       "name": "Der er ingenting i verden sa stille som sne (Nothing in the world is as quiet as snow): Der er ingenting i verden s\u00e5 stille som sne.",
       "url": "https://open.spotify.com/track/6Q1pVxAkmkKHgZl39ePzG7"
+    },
+    {
+      "album": {
+        "name": "A Danish Christmas",
+        "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
+      },
+      "artists": [
+        {
+          "name": "Povl Hamburger",
+          "url": "https://open.spotify.com/artist/6a6VLTNbKLDjmrCCgsOnoH"
+        },
+        {
+          "name": "Musica Ficta",
+          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
+        },
+        {
+          "name": "Bo Holten",
+          "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124506,
+      "name": "Der er ingenting i verden s\u00e5 stille som sne",
+      "url": "https://open.spotify.com/track/5W0gD1zaO5IOxCzZZm5PnE"
     },
     {
       "album": {
@@ -507,10 +637,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184866,
       "name": "Ecce Concipies",
       "url": "https://open.spotify.com/track/2Yl5ZUo8Q643hYAMLjYi32"
+    },
+    {
+      "album": {
+        "name": "The Wonder of Christmas",
+        "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"
+      },
+      "artists": [
+        {
+          "name": "Mark Sirett",
+          "url": "https://open.spotify.com/artist/7mdEHYUUPtmUEXPa61ZQjv"
+        },
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Ecce concipies",
+      "url": "https://open.spotify.com/track/1bjOst6MAgdptVFM9RVoxr"
     },
     {
       "album": {
@@ -533,7 +689,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137000,
       "name": "El Rorro",
       "url": "https://open.spotify.com/track/47lEjBiQoUyVvEMa27iMx4"
@@ -559,10 +715,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110000,
       "name": "Entre le boeuf",
       "url": "https://open.spotify.com/track/0t1n5x37jVHlsDtLfUV1y8"
+    },
+    {
+      "album": {
+        "name": "101 Christmas",
+        "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111106,
+      "name": "Entre le boeuf",
+      "url": "https://open.spotify.com/track/5m8UGMYduXJXZwPQRHf5qT"
     },
     {
       "album": {
@@ -687,6 +869,32 @@
     {
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
+        "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tewkesbury Abbey Choir",
+          "url": "https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ"
+        },
+        {
+          "name": "Andrew Sackett",
+          "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "I Saw a Maiden",
+      "url": "https://open.spotify.com/track/4PSJlhR5BOClWSsvEELVpp"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag"
       },
       "artists": [
@@ -709,7 +917,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177000,
       "name": "I Saw A Maiden: I saw a maiden (arr. E. Pettman)",
       "url": "https://open.spotify.com/track/0btvQEwU9bSFR8CB4rDrLE"
@@ -863,6 +1071,32 @@
     {
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
+        "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tewkesbury Abbey Choir",
+          "url": "https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ"
+        },
+        {
+          "name": "Andrew Sackett",
+          "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Infant Holy, Infant Lowly",
+      "url": "https://open.spotify.com/track/1DQZuhz3gJk9rLdcnPEGJH"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/1BCTTrLVeS68wGHvkj3zag"
       },
       "artists": [
@@ -885,7 +1119,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135000,
       "name": "Infant Holy, Infant Lowly (arr. David Willcocks)",
       "url": "https://open.spotify.com/track/60BrNbRolLrykOhDeVeZpL"
@@ -911,10 +1145,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226800,
       "name": "Jesus Christ the Apple Tree",
       "url": "https://open.spotify.com/track/3iefwcS6iEo9cMz3OUF9TP"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Poston",
+          "url": "https://open.spotify.com/artist/7M0wkA6tqTLE54EweP8JRl"
+        },
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Jesus Christ the Apple Tree",
+      "url": "https://open.spotify.com/track/3iWzlc7GzsCbcJSyKzyksO"
     },
     {
       "album": {
@@ -941,10 +1201,58 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202680,
       "name": "Jesus, Jesus, Rest Your Head",
       "url": "https://open.spotify.com/track/6RAZZ4WkEwwSteQdt7Xrh0"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
+      },
+      "artists": [
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        },
+        {
+          "name": "Raymond Johnston",
+          "url": "https://open.spotify.com/artist/5UWZBoWuSJtbK9dDpvRMZp"
+        },
+        {
+          "name": "Donald Hunt",
+          "url": "https://open.spotify.com/artist/279XZ7aFQzT7dxswiwuyWN"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202680,
+      "name": "Jesus, Jesus, Rest Your Head (Arr. A. Warrell)",
+      "url": "https://open.spotify.com/track/2dE45LpxTM8GDGnz0bW6JR"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+      },
+      "artists": [
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "King Jesus Hath a Garden",
+      "url": "https://open.spotify.com/track/26gykO1LdAsBHUK3dlYoOM"
     },
     {
       "album": {
@@ -967,7 +1275,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149786,
       "name": "King Jesus hath a Garden",
       "url": "https://open.spotify.com/track/4cuI804v1BQPBKS68vBKHU"
@@ -1138,6 +1446,32 @@
     },
     {
       "album": {
+        "name": "A Danish Christmas",
+        "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
+      },
+      "artists": [
+        {
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
+        },
+        {
+          "name": "Musica Ficta",
+          "url": "https://open.spotify.com/artist/5WKv8DLIGTPZP1QRaY6Uau"
+        },
+        {
+          "name": "Bo Holten",
+          "url": "https://open.spotify.com/artist/4f32MH6GiPxxIsYeDl16kL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Mit hjerte altid vanker",
+      "url": "https://open.spotify.com/track/2aPE4X1bjj89wWLReWyffw"
+    },
+    {
+      "album": {
         "name": "Christmas Danske Julesalmer Og Sange, Vol. 1 (Danish Christmas Hymns, Vol. 1)",
         "url": "https://open.spotify.com/album/025MVK1Uw89fXum0Mpqyme"
       },
@@ -1149,7 +1483,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203040,
       "name": "Mit hjerte altid vanker (My heart always wanders) (arr. P. Hellmuth): Mit hjerte altid vanker.",
       "url": "https://open.spotify.com/track/4ZynBH2au2iSvYjNQ7Nz4I"
@@ -1175,10 +1509,36 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268400,
       "name": "Nativity Carol",
       "url": "https://open.spotify.com/track/1QrYNyzm91YKxzcyNrso0j"
+    },
+    {
+      "album": {
+        "name": "Carols Of The Nativity",
+        "url": "https://open.spotify.com/album/2BMURLQIQgmhR9XPZ1BE4Q"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Nativity Carol",
+      "url": "https://open.spotify.com/track/1cw2xmDu2SdEEHyYi7aZKG"
     },
     {
       "album": {
@@ -1381,6 +1741,32 @@
     {
       "album": {
         "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        },
+        {
+          "name": "Donald Hunt",
+          "url": "https://open.spotify.com/artist/279XZ7aFQzT7dxswiwuyWN"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103573,
+      "name": "Rocking",
+      "url": "https://open.spotify.com/track/0KkgyIZxBS55G5LSFY7bpu"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/4HffNrQ5TRTLlbHuPiJHYV"
       },
       "artists": [
@@ -1403,7 +1789,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96773,
       "name": "Rocking",
       "url": "https://open.spotify.com/track/0IsJotxkr54F2ejGA0ru8f"
@@ -1471,6 +1857,32 @@
     {
       "album": {
         "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
+        "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
+      },
+      "artists": [
+        {
+          "name": "Alexander Campkin",
+          "url": "https://open.spotify.com/artist/0o7jmcccqd7tALmB83dQT8"
+        },
+        {
+          "name": "Blossom Street",
+          "url": "https://open.spotify.com/artist/0DmHKevU8qP3i2WoxwKc4r"
+        },
+        {
+          "name": "Hilary Campbell",
+          "url": "https://open.spotify.com/artist/616vVI89Pg2uEhIpFDmISc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247720,
+      "name": "Sleep, Holy Babe",
+      "url": "https://open.spotify.com/track/08B9bWEtqirNe72qm6xQN9"
+    },
+    {
+      "album": {
+        "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
         "url": "https://open.spotify.com/album/7esaQqLjea4J69sVu02O2c"
       },
       "artists": [
@@ -1489,10 +1901,32 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247720,
       "name": "Sleep, Holy Babe",
       "url": "https://open.spotify.com/track/1k8JDHW1MMseKChbLdReah"
+    },
+    {
+      "album": {
+        "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
+        "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
+      },
+      "artists": [
+        {
+          "name": "Blossom Street",
+          "url": "https://open.spotify.com/artist/0DmHKevU8qP3i2WoxwKc4r"
+        },
+        {
+          "name": "Hilary Campbell",
+          "url": "https://open.spotify.com/artist/616vVI89Pg2uEhIpFDmISc"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Sleep, my dreaming one",
+      "url": "https://open.spotify.com/track/4KJJodkPh1isOq2nZGiNAy"
     },
     {
       "album": {
@@ -1511,10 +1945,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297600,
       "name": "Sleep, my dreaming one",
       "url": "https://open.spotify.com/track/1XW8cag0N9vVHqfnQN2w4P"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Star in the South",
+      "url": "https://open.spotify.com/track/2HxO75cQo1QyBf3rI5dz6b"
     },
     {
       "album": {
@@ -1541,7 +2001,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199040,
       "name": "Star in the South (arr. Malcolm Sargent)",
       "url": "https://open.spotify.com/track/4jjSKbfgSdtFeKYyJBlGgH"
@@ -1593,10 +2053,66 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176573,
       "name": "The 3 Kings: The Three Kings",
       "url": "https://open.spotify.com/track/2JRpDd1VLVKRonXpfNbeJP"
+    },
+    {
+      "album": {
+        "name": "The Mystery of Christmas",
+        "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
+      },
+      "artists": [
+        {
+          "name": "Healey Willan",
+          "url": "https://open.spotify.com/artist/0i2zc5Z4VsWEHenuAyMqNu"
+        },
+        {
+          "name": "The Elora Singers",
+          "url": "https://open.spotify.com/artist/6V3rM6AuJ8NIe35TeOiSR5"
+        },
+        {
+          "name": "Noel Edison",
+          "url": "https://open.spotify.com/artist/3XDSnbQl8YjKtXZjweDQjy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "The 3 Kings: The Three Kings",
+      "url": "https://open.spotify.com/track/3n4ja4eGntFYh9tfHOWnCW"
+    },
+    {
+      "album": {
+        "name": "Chilcott: The Rose in the Middle of Winter",
+        "url": "https://open.spotify.com/album/3u5Fczt8EiHVWuPezi33fO"
+      },
+      "artists": [
+        {
+          "name": "Bob Chilcott",
+          "url": "https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7"
+        },
+        {
+          "name": "Commotio",
+          "url": "https://open.spotify.com/artist/1aK8jJG1b09BFYmECQf4gE"
+        },
+        {
+          "name": "Tanya Houghton",
+          "url": "https://open.spotify.com/artist/1ODtAuRRp8Gem39F5XWWGK"
+        },
+        {
+          "name": "Matthew Berry",
+          "url": "https://open.spotify.com/artist/5CtxtzQxyOBTWrDbANKg2v"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "The Advent Candle",
+      "url": "https://open.spotify.com/track/1QRUb1j32Fbdd6niEOHp4v"
     },
     {
       "album": {
@@ -1623,10 +2139,44 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174013,
       "name": "The Advent Candle",
       "url": "https://open.spotify.com/track/3qVbHo5aBHSyivXlwAiCvT"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols",
+        "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Robert Stringer",
+          "url": "https://open.spotify.com/artist/44L94lUy9LjKKzBBTmihao"
+        },
+        {
+          "name": "Worcester Cathedral Choir",
+          "url": "https://open.spotify.com/artist/2Q8CT4BXxx2vm5KcaeLoQz"
+        },
+        {
+          "name": "Raymond Johnston",
+          "url": "https://open.spotify.com/artist/5UWZBoWuSJtbK9dDpvRMZp"
+        },
+        {
+          "name": "Donald Hunt",
+          "url": "https://open.spotify.com/artist/279XZ7aFQzT7dxswiwuyWN"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169680,
+      "name": "The Cherry Tree Carol (Arr. Donald Hunt)",
+      "url": "https://open.spotify.com/track/7rre9AWUeHvP0aFwCXquL5"
     },
     {
       "album": {
@@ -1653,7 +2203,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169680,
       "name": "The Cherry Tree Carol - Arr. Donald Hunt",
       "url": "https://open.spotify.com/track/3VpC4fbEqtPyRjflD0bTkc"
@@ -1758,6 +2308,40 @@
     },
     {
       "album": {
+        "name": "101 Christmas",
+        "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
+      },
+      "artists": [
+        {
+          "name": "John Ireland",
+          "url": "https://open.spotify.com/artist/0QzZLY6jZif9KbXnxaLIUV"
+        },
+        {
+          "name": "Stephen Ryde Weller",
+          "url": "https://open.spotify.com/artist/0S87NpYzNmGUx6N6Ajq5U7"
+        },
+        {
+          "name": "Nicholas Richardson",
+          "url": "https://open.spotify.com/artist/5aqldQkYKGgEWvPNhFmgPr"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "David Hill",
+          "url": "https://open.spotify.com/artist/4Qq5rJ5mqO9DIXo2OPBWG8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "The Holy Boy",
+      "url": "https://open.spotify.com/track/1L3npTsXSbChXmkIclQQZ2"
+    },
+    {
+      "album": {
         "name": "Christmas Fantasy",
         "url": "https://open.spotify.com/album/3k3md2BdrQZ28dgO2t0IPa"
       },
@@ -1785,7 +2369,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190840,
       "name": "The Holy Boy",
       "url": "https://open.spotify.com/track/0UK8JpLfFKlBc0HNRB9ku5"
@@ -1811,10 +2395,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198026,
       "name": "The Infant King",
       "url": "https://open.spotify.com/track/0ADpKc9lhA2n7M49jMay6P"
+    },
+    {
+      "album": {
+        "name": "101 Christmas",
+        "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Sir David Willcocks",
+          "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "The Infant King",
+      "url": "https://open.spotify.com/track/0lFj048MzSEUcrziub3sxm"
     },
     {
       "album": {
@@ -1837,10 +2447,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213146,
       "name": "The Lamb",
       "url": "https://open.spotify.com/track/1iUNUV6RiPrwKTKJjNQb5B"
+    },
+    {
+      "album": {
+        "name": "The John Tavener Collection",
+        "url": "https://open.spotify.com/album/2nYYQPIdIEAFrnxiMeck17"
+      },
+      "artists": [
+        {
+          "name": "John Tavener",
+          "url": "https://open.spotify.com/artist/45ff9QmiC1LkmDPk5TBN21"
+        },
+        {
+          "name": "The Temple Church Choir",
+          "url": "https://open.spotify.com/artist/76tVWIYmmTAVFQ2TdOt3TM"
+        },
+        {
+          "name": "Stephen Layton",
+          "url": "https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "The Lamb",
+      "url": "https://open.spotify.com/track/5iYpHuC2kgavYPyAEu662D"
     },
     {
       "album": {
@@ -1863,6 +2499,32 @@
       "duration_ms": 175440,
       "name": "The Oxen",
       "url": "https://open.spotify.com/track/1zPv5KR8byLsf3756onjPh"
+    },
+    {
+      "album": {
+        "name": "Favourite Carols from King's",
+        "url": "https://open.spotify.com/album/3SBTbZQLObtqqw8Zp4LjUR"
+      },
+      "artists": [
+        {
+          "name": "Bob Chilcott",
+          "url": "https://open.spotify.com/artist/5Q2lvqropyKbugryLHx8e7"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189053,
+      "name": "The Shepherd's Carol",
+      "url": "https://open.spotify.com/track/1PgtdNIE83A4NjTPIrhDru"
     },
     {
       "album": {
@@ -1889,10 +2551,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223000,
       "name": "The Shepherds' Cradle-Song (arr. Charles Macpherson)",
       "url": "https://open.spotify.com/track/49F2loxneIjbAo57sgwjQY"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols From Tewkesbury Abbey",
+        "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tewkesbury Abbey Choir",
+          "url": "https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ"
+        },
+        {
+          "name": "Andrew Sackett",
+          "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "The Shepherds' Cradle-Song (Arr. Charles Macpherson)",
+      "url": "https://open.spotify.com/track/3gHRrTol1xu1WhFEXB1QG1"
     },
     {
       "album": {
@@ -1937,10 +2625,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144986,
       "name": "The Stable Door",
       "url": "https://open.spotify.com/track/0AkU2CTTrrLxTWqhzCdfkO"
+    },
+    {
+      "album": {
+        "name": "A Winter's Light: A Christmas Collection",
+        "url": "https://open.spotify.com/album/1AzqBGmKqvkaBpZ6raPpjc"
+      },
+      "artists": [
+        {
+          "name": "Cecil Armstrong Gibbs",
+          "url": "https://open.spotify.com/artist/5hrypd0adAHTj2JSBs2CvU"
+        },
+        {
+          "name": "Vasari Singers",
+          "url": "https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx"
+        },
+        {
+          "name": "Jeremy Backhouse",
+          "url": "https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144986,
+      "name": "The Stable Door",
+      "url": "https://open.spotify.com/track/3bwKcXjfeAB5CX6vbUBuJG"
     },
     {
       "album": {
@@ -1967,10 +2681,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184000,
       "name": "The Truth From Above (arr. R.V. Williams)",
       "url": "https://open.spotify.com/track/7j9scuNhYqSWassnA3hfw9"
+    },
+    {
+      "album": {
+        "name": "Christmas Carols From Tewkesbury Abbey",
+        "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tewkesbury Abbey Choir",
+          "url": "https://open.spotify.com/artist/4NOFolaAMP4kBDVq8GwEfQ"
+        },
+        {
+          "name": "Andrew Sackett",
+          "url": "https://open.spotify.com/artist/2Q4Ge9DEARr3PU0lCHb6kz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "The Truth from Above (Arr. R.V. Williams)",
+      "url": "https://open.spotify.com/track/1VvBzbkNq1DcqhXR4XLEUJ"
     },
     {
       "album": {

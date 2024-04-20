@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 44585,
+  "2024-04-20": 44596,
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Yseult",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : ELOI",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171400,
       "name": "A l'envers",
       "url": "https://open.spotify.com/track/6sHyC8rtNTwKFqbYLYQRqz"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182985,
       "name": "Aspiration",
       "url": "https://open.spotify.com/track/1blgJMWytwChDZK16qWCfl"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199230,
       "name": "babyBB",
       "url": "https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "babyBB",
       "url": "https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ"
@@ -417,10 +417,28 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189059,
       "name": "Calme-toi bouge tes genoux",
       "url": "https://open.spotify.com/track/5YOjTNyz3YvHeGEbDYiCSB"
+    },
+    {
+      "album": {
+        "name": "cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217233,
+      "name": "cam\u00e9l\u00e9on",
+      "url": "https://open.spotify.com/track/16t191oUr541iQTZrbqYuM"
     },
     {
       "album": {
@@ -583,6 +601,24 @@
       "duration_ms": 187986,
       "name": "COLL\u00c9 SERR\u00c9",
       "url": "https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy"
+    },
+    {
+      "album": {
+        "name": "Comme Un Animal",
+        "url": "https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185991,
+      "name": "Comme Un Animal",
+      "url": "https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL"
     },
     {
       "album": {
@@ -914,6 +950,24 @@
     },
     {
       "album": {
+        "name": "x 1000",
+        "url": "https://open.spotify.com/album/0HW9HpXzElTKhAOcF5OJo5"
+      },
+      "artists": [
+        {
+          "name": "Magenta Club",
+          "url": "https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "G\u00e9ant",
+      "url": "https://open.spotify.com/track/1o9XESUAUgS3iVVt6KyHcX"
+    },
+    {
+      "album": {
         "name": "Pop Sauvage",
         "url": "https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw"
       },
@@ -1189,6 +1243,24 @@
     {
       "album": {
         "name": "KLNX",
+        "url": "https://open.spotify.com/album/19VEDVCNaVICCxnjhCrCVm"
+      },
+      "artists": [
+        {
+          "name": "Akira & le Sabbat",
+          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "KLNX",
+      "url": "https://open.spotify.com/track/3ZBddPuRshTebTdeZNRRnr"
+    },
+    {
+      "album": {
+        "name": "KLNX",
         "url": "https://open.spotify.com/album/7kDH9ZPKK5JhmWUUSR1lcj"
       },
       "artists": [
@@ -1199,7 +1271,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210653,
       "name": "KLNX",
       "url": "https://open.spotify.com/track/63cOm5jCSwyRG9szlKdBcC"
@@ -1217,10 +1289,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183330,
       "name": "l'amour et la bagarre",
       "url": "https://open.spotify.com/track/6WxZeXxZWF2BVTrmHB4Ijl"
+    },
+    {
+      "album": {
+        "name": "LOVECITY",
+        "url": "https://open.spotify.com/album/2IAzTOiNRzzJ9Srz17zWKf"
+      },
+      "artists": [
+        {
+          "name": "Lulu Van Trapp",
+          "url": "https://open.spotify.com/artist/6N9HDXBvQ0Nd9GVtHg3DMZ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "l'enfer avec toi",
+      "url": "https://open.spotify.com/track/2qWuc7hDIv68DlLftdpglz"
     },
     {
       "album": {
@@ -1437,7 +1527,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 220882,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd"
@@ -1455,7 +1545,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221493,
       "name": "Les gar\u00e7ons",
       "url": "https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6"
@@ -1783,7 +1873,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171802,
       "name": "Paradis",
       "url": "https://open.spotify.com/track/7s5RBWSYciJ7N2zvhSKgOs"
@@ -1989,6 +2079,24 @@
     {
       "album": {
         "name": "Requin",
+        "url": "https://open.spotify.com/album/77n7xkH2PA1sHHbR2bnm8N"
+      },
+      "artists": [
+        {
+          "name": "Akira & le Sabbat",
+          "url": "https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "Requin",
+      "url": "https://open.spotify.com/track/2sjJ9bl92hOk4M4JKQzQOY"
+    },
+    {
+      "album": {
+        "name": "Requin",
         "url": "https://open.spotify.com/album/6vDrJh1nHKv9iLPUFVVvgs"
       },
       "artists": [
@@ -1999,7 +2107,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 158026,
       "name": "Requin",
       "url": "https://open.spotify.com/track/3ucY4VVFz8fmM1RyfxOlD1"
@@ -2655,7 +2763,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179007,
       "name": "Z",
       "url": "https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs"
@@ -2673,7 +2781,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 179007,
       "name": "Z",
       "url": "https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF"
@@ -2731,6 +2839,24 @@
       "duration_ms": 294509,
       "name": "\u00c7a m'a tellement manqu\u00e9",
       "url": "https://open.spotify.com/track/5hGQ4fuHjsLtC3n1fIq7KV"
+    },
+    {
+      "album": {
+        "name": "\u00c9quipe",
+        "url": "https://open.spotify.com/album/1I81vxPxnVlukTv4lrEmg9"
+      },
+      "artists": [
+        {
+          "name": "TERRIER",
+          "url": "https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u00c9quipe",
+      "url": "https://open.spotify.com/track/4qmPxoru0whIW8roDQBAmf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A"

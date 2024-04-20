@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-352 songs - 15 hr 24 min
+353 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Fire Truck](https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Fire Truck](https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz) | 1:57 | 2024-04-05 |  |
 | [Flowers](https://open.spotify.com/track/5XVi2b9XfHjUeOSWdWp8e4) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 19](https://open.spotify.com/album/4tl5DTMWtWNNQkuFHyV3LU) | 3:18 | 2024-03-15 |  |
 | [Follow Your Passion](https://open.spotify.com/track/167R2ezxujzd4CA89RNZon) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Follow Your Passion](https://open.spotify.com/album/3Gz2eX6W56Dk5DKlfTwavH) | 2:27 | 2024-03-22 |  |
+| [Freight Train](https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Freight Train](https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd) | 2:19 | 2024-04-19 |  |
 | [Funky Leg](https://open.spotify.com/track/2aq4DbosfzQRYbDKCdatle) | [Shine and the Moonbeams](https://open.spotify.com/artist/5IwCPV7WRS7rIQN41cur1q) | [I Am](https://open.spotify.com/album/4ST8f5iI7KoSvYGYma4Yjp) | 2:43 | 2022-04-15 | 2024-01-05 |
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-04-15 | 2024-01-05 |
 | [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 | 2023-10-21 |

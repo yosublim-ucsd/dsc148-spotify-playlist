@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 286593,
+  "2024-04-20": 286648,
   "date_first_scraped": "2022-07-11",
   "description": "I'm The One! A TEEnager Z is here.",
   "name": "This Is ATEEZ",
@@ -317,10 +317,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187310,
       "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
       "url": "https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187310,
+      "name": "BOUNCY (K-HOT CHILLI PEPPERS)",
+      "url": "https://open.spotify.com/track/7Lhm9BUglm30Q6Fb1Fl2By"
     },
     {
       "album": {
@@ -487,6 +505,24 @@
     {
       "album": {
         "name": "Limitless",
+        "url": "https://open.spotify.com/album/2bphYBX2pGfeqMkYcRpNwd"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204218,
+      "name": "DIAMOND",
+      "url": "https://open.spotify.com/track/4v84zRLkXkPrOK3NGNtk1U"
+    },
+    {
+      "album": {
+        "name": "Limitless",
         "url": "https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT"
       },
       "artists": [
@@ -497,7 +533,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206213,
       "name": "DIAMOND",
       "url": "https://open.spotify.com/track/5sIcMld4YXTlTqztVEa3hU"
@@ -515,10 +551,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191923,
       "name": "DJANGO",
       "url": "https://open.spotify.com/track/5Ku5uYEtkdpNlkgqU6p4ir"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191923,
+      "name": "DJANGO",
+      "url": "https://open.spotify.com/track/7Hu8kY7LI6sWm8XQndu6fP"
     },
     {
       "album": {
@@ -533,7 +587,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190301,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/184WoVKN9Z7TznkzDfR406"
@@ -551,7 +605,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-06",
+      "date_removed": null,
       "duration_ms": 190301,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k"
@@ -605,10 +659,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195483,
       "name": "Dune",
       "url": "https://open.spotify.com/track/1CwzGOJqmATtWE8H00MEIL"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3naizvQHCq8SfQZFJQMW4a"
     },
     {
       "album": {
@@ -843,10 +915,28 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197025,
       "name": "HALAZIA",
       "url": "https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe"
+    },
+    {
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197034,
+      "name": "HALAZIA",
+      "url": "https://open.spotify.com/track/5lh5eRZDsMC19G0DruLYTX"
     },
     {
       "album": {
@@ -879,7 +969,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194088,
       "name": "I'm The One - Eden-ary Remix",
       "url": "https://open.spotify.com/track/57RBkK05Zi0dF00Sn2oCM9"
@@ -1012,6 +1102,24 @@
     },
     {
       "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194096,
+      "name": "I\u2032m The One - Eden-ary Remix",
+      "url": "https://open.spotify.com/track/489EL3wjZc3PdlV0LMWSpS"
+    },
+    {
+      "album": {
         "name": "TREASURE EP.2 : Zero To One",
         "url": "https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw"
       },
@@ -1031,6 +1139,24 @@
     {
       "album": {
         "name": "Limitless",
+        "url": "https://open.spotify.com/album/2bphYBX2pGfeqMkYcRpNwd"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203416,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/6LelnEuuxJ1p1TAPH49zpd"
+    },
+    {
+      "album": {
+        "name": "Limitless",
         "url": "https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT"
       },
       "artists": [
@@ -1041,7 +1167,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204426,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk"
@@ -1167,10 +1293,28 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199306,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/6UM7j0WbcGtk06c6pGKiQ6"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/7hhDrSGmt0eyGzcI36yJlL"
     },
     {
       "album": {
@@ -1185,10 +1329,28 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126139,
       "name": "Outro : Blue Bird",
       "url": "https://open.spotify.com/track/7H9O0vNSv2cAfKa2OQtwji"
+    },
+    {
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126148,
+      "name": "Outro : Blue Bird",
+      "url": "https://open.spotify.com/track/08ZUbm2IEQqfgqHb2f2tcr"
     },
     {
       "album": {
@@ -1661,10 +1823,28 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214404,
       "name": "Take Me Home - IDIOTAPE Remix",
       "url": "https://open.spotify.com/track/5DPf9BgRYLa061j7W7VLJi"
+    },
+    {
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214413,
+      "name": "Take Me Home - IDIOTAPE Remix",
+      "url": "https://open.spotify.com/track/4cL8ijndXiO4CHMKUJmKt8"
     },
     {
       "album": {
@@ -1813,6 +1993,24 @@
     {
       "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212105,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/2l1WKJiFMq89EiNI2tcpWY"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
       "artists": [
@@ -1823,7 +2021,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212105,
       "name": "This World",
       "url": "https://open.spotify.com/track/6QDcmN2Avrim8kNoCHkw9s"
@@ -2029,6 +2227,24 @@
     {
       "album": {
         "name": "THE WORLD EP.2 : OUTLAW",
+        "url": "https://open.spotify.com/album/2EigNQpm52bqjiInaZUSfL"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186434,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/0aUOHifA8jhGKHrXcLz053"
+    },
+    {
+      "album": {
+        "name": "THE WORLD EP.2 : OUTLAW",
         "url": "https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H"
       },
       "artists": [
@@ -2039,7 +2255,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186434,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2fZ1DdMpQZIiPMIgyt27dT"
@@ -2183,10 +2399,28 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209029,
       "name": "WIN - June One Remix",
       "url": "https://open.spotify.com/track/3E1sa5r0X7iwmXktb2v38l"
+    },
+    {
+      "album": {
+        "name": "SPIN OFF : FROM THE WITNESS",
+        "url": "https://open.spotify.com/album/44tgTsmpbozp5uZwB4o0HC"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209037,
+      "name": "WIN - June One Remix",
+      "url": "https://open.spotify.com/track/5NlrT0yEa3Vji8kIgf30XS"
     },
     {
       "album": {

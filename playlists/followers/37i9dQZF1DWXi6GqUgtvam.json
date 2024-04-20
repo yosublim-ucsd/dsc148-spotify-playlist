@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 444174,
+  "2024-04-20": 443990,
   "date_first_scraped": "2022-04-19",
   "description": "medieval tunes for board gaming, roleplay or some historical chill. ",
   "name": "medieval vibes",
@@ -25,7 +25,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274706,
       "name": "2 Pieces in F Major: II. Ciacconna (II: 77-80)",
       "url": "https://open.spotify.com/track/12KnUo5B6Kso6QAObTZ0DA"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188743,
       "name": "Around the Fire",
       "url": "https://open.spotify.com/track/5Y3ioFx5T8xOfAKu76E1X0"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189929,
       "name": "Around the Fire",
       "url": "https://open.spotify.com/track/0JP97EPP5NkoemtNNjQYPR"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274706,
       "name": "Deux pi\u00e8ces en fa majeur: II. Ciacconna (II: 77-80)",
       "url": "https://open.spotify.com/track/51Zg1ep2lGpu2TKKAXj0ru"
@@ -435,9 +435,9 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 243000,
-      "name": "Fantasia",
+      "name": "Fantasia (I)",
       "url": "https://open.spotify.com/track/1wtICs9nvS3zl27bCgBaUP"
     },
     {
@@ -457,7 +457,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243000,
       "name": "Fantasia (I)",
       "url": "https://open.spotify.com/track/6Cneh90xYDJqfIFbnam4Bz"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164960,
       "name": "Frogg Galliard",
       "url": "https://open.spotify.com/track/4uswqnBI5LjRIcTr3LgFcF"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164960,
       "name": "Frogg Galliard",
       "url": "https://open.spotify.com/track/6Z7E4Qk7NTmtgSxPrWUpqG"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238906,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/10ZHpk2c9AhJ8GL29O1ZqY"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238906,
       "name": "Greensleeves",
       "url": "https://open.spotify.com/track/6CcnQUkdGVmHjIUG6JCLRm"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117106,
       "name": "Lady Rich, Her Galliard",
       "url": "https://open.spotify.com/track/39y37kTFNhraC6XKEdT8Qk"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 117106,
       "name": "Lady Rich, Her Galliard",
       "url": "https://open.spotify.com/track/7n71q1cB3sFGdPXjfxSTGY"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 289903,
       "name": "Le secret des Muses: Pavanne en forme de complainte",
       "url": "https://open.spotify.com/track/1Y29bY6zqY6qtAPzlsRGBY"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210666,
       "name": "Lute music - Italy: Ricercar XIII",
       "url": "https://open.spotify.com/track/4F0djAXz13OIHARPeH9FWw"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211000,
       "name": "Lute music - Italy: Ricercar XIII",
       "url": "https://open.spotify.com/track/1KiKxwDqfCMqbg0Wt8Hcuw"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289903,
       "name": "Pavanne en forme de complainte",
       "url": "https://open.spotify.com/track/4LSVC1jLMWLAU4YAN40onz"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75440,
       "name": "Pr\u00e9lude en r\u00e9 mineur",
       "url": "https://open.spotify.com/track/0fw41LXX7qiXgeMi6GSGCX"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 75440,
       "name": "Pr\u00e9lude en r\u00e9 mineur",
       "url": "https://open.spotify.com/track/603QYL8bS4KON9BVqI5WRC"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273413,
       "name": "Recercada primera, quarta, ottava",
       "url": "https://open.spotify.com/track/5fbYLFJEKXvTNvSnIfy72B"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 131039,
       "name": "Tout par compas suy compos\u00e9s",
       "url": "https://open.spotify.com/track/4BRWhGmL5aLQEDZ2Wjxhm2"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 131039,
       "name": "Tout par compas suy compos\u00e9s",
       "url": "https://open.spotify.com/track/7pwd4GXi4szGLhNPFSRfSW"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273413,
       "name": "Trattado de glosas: Recercada prima, quarta, ottava",
       "url": "https://open.spotify.com/track/2Deq3ml2cOeHkYXxLiotjx"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 50180,
       "name": "Wild Boar Inn",
       "url": "https://open.spotify.com/track/123dbEu64JKmhfU0fGy0gX"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 50180,
       "name": "Wild Boar Inn",
       "url": "https://open.spotify.com/track/2QTP9Tf3j2fxjFKkrqArNu"

@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 223730,
+  "2024-04-20": 223703,
   "date_first_scraped": "2024-02-15",
-  "description": "Music from shows and movies you love including Greatest Hits, now streaming on Hulu.",
+  "description": "Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.",
   "name": "Hulu Hits",
   "tracks": [
     {
@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289971,
+      "name": "Dr. Feelgood",
+      "url": "https://open.spotify.com/track/1mrwGzom3ttIcxkZztbq4U"
+    },
+    {
+      "album": {
         "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
         "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289971,
       "name": "Dr. Feelgood (2021- Remaster)",
       "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
@@ -443,10 +461,52 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 133697,
       "name": "Echo",
       "url": "https://open.spotify.com/track/2W1819JHLnNhB4paubiPWK"
+    },
+    {
+      "album": {
+        "name": "Echo (From \"Echo\")",
+        "url": "https://open.spotify.com/album/1Fp8O0KHxXodPjvIAdUiCY"
+      },
+      "artists": [
+        {
+          "name": "Dave Porter",
+          "url": "https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5"
+        },
+        {
+          "name": "Brenner Billy",
+          "url": "https://open.spotify.com/artist/39s2fv1CDe6pxNT3Kne2pj"
+        },
+        {
+          "name": "Bryon \"Mahli\" Billy",
+          "url": "https://open.spotify.com/artist/4JHxRNU2YIhFMK6PpzbHso"
+        },
+        {
+          "name": "Philip L. Billy",
+          "url": "https://open.spotify.com/artist/1muYBPXPmzBlQIcSoize2D"
+        },
+        {
+          "name": "Lisa Johnson-Billy",
+          "url": "https://open.spotify.com/artist/4WFBUcHNMlLx2EqYsaFbMn"
+        },
+        {
+          "name": "Alisha Williams",
+          "url": "https://open.spotify.com/artist/6w6aLgf6yZPXXaZ4ZSb63T"
+        },
+        {
+          "name": "Seth Fairchild",
+          "url": "https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132638,
+      "name": "Echo - From \"Echo\"",
+      "url": "https://open.spotify.com/track/7MNFjEqc7G4kjskQSz7Bxn"
     },
     {
       "album": {
@@ -548,6 +608,24 @@
     },
     {
       "album": {
+        "name": "Girls, Girls, Girls (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/4qj8vXZyFP4XHv8HBBi8dz"
+    },
+    {
+      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
       },
@@ -559,7 +637,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270533,
       "name": "Girls, Girls, Girls",
       "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
@@ -835,10 +913,28 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "album": {
+        "name": "Dr. Feelgood (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282710,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/7s60huPEeS8f9ytqAlQksr"
     },
     {
       "album": {

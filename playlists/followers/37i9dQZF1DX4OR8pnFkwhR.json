@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 68421,
+  "2024-04-20": 68452,
   "date_first_scraped": "2022-02-21",
   "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: tuki.",
   "name": "RADAR: Early Noise ",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 125887,
       "name": "!",
       "url": "https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160122,
       "name": "A box of Stockholm",
       "url": "https://open.spotify.com/track/42W6i5cSE3TcLSaRwlwDZl"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232472,
       "name": "Airai",
       "url": "https://open.spotify.com/track/1AraC46v7BfteuiQRuGWhe"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127925,
       "name": "Any angle",
       "url": "https://open.spotify.com/track/4KiY8v1cM2S8BS8ob2IGVg"
@@ -3855,7 +3855,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227250,
       "name": "Donut Song",
       "url": "https://open.spotify.com/track/5JPN8TqaCEeB2bD9jHfALI"
@@ -3873,7 +3873,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 227250,
       "name": "Donut Song",
       "url": "https://open.spotify.com/track/5m5B3uG46zGUc4ed8VPss8"
@@ -4571,7 +4571,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125887,
       "name": "Exclamation Mark",
       "url": "https://open.spotify.com/track/5OaXyd4vZLJE4pdFkerhxK"
@@ -4723,7 +4723,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 259065,
       "name": "Fever",
       "url": "https://open.spotify.com/track/50bQfnQ9OXxDLc158BoAOR"
@@ -4745,7 +4745,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259065,
       "name": "Fever",
       "url": "https://open.spotify.com/track/6AooAMhGS6YIU7IDoHeBbZ"
@@ -5235,7 +5235,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210602,
       "name": "Fukan Romance",
       "url": "https://open.spotify.com/track/4qUBjqmstuHK8DfdfKpkWk"
@@ -5463,7 +5463,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193375,
       "name": "GIG",
       "url": "https://open.spotify.com/track/4MWQGEF9vdMrrW4wRlKKVN"
@@ -5481,7 +5481,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 193375,
       "name": "GIG",
       "url": "https://open.spotify.com/track/7KOfQ62yOjVbJfgu9hwKok"
@@ -6343,7 +6343,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240933,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1aD8qLixfwBmfawlUCeljB"
@@ -6361,7 +6361,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 240933,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK"
@@ -6877,7 +6877,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/0uVBJS8UMzZkg0L0wbF28N"
@@ -6895,7 +6895,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
@@ -7545,7 +7545,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170624,
       "name": "kimnosoba",
       "url": "https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r"
@@ -7689,7 +7689,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208309,
       "name": "Koi suru wakusei \"Anata\"",
       "url": "https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u"
@@ -7761,7 +7761,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266349,
       "name": "Kuchibiruwo Mikatani -Sing Sing Sing-",
       "url": "https://open.spotify.com/track/4j99gDJQHea3LoKEUGtuD5"
@@ -8599,7 +8599,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218649,
       "name": "LOVELY",
       "url": "https://open.spotify.com/track/2p6mMrccBiWuwtpWCyVPbq"
@@ -10787,10 +10787,28 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171440,
       "name": "paypay",
       "url": "https://open.spotify.com/track/2Zs44ccb41dYvMavig1kRQ"
+    },
+    {
+      "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171440,
+      "name": "paypay",
+      "url": "https://open.spotify.com/track/358tYU7Q5wJUobXl5YKPcG"
     },
     {
       "album": {
@@ -11057,7 +11075,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235885,
       "name": "Planetarium",
       "url": "https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG"
@@ -12183,7 +12201,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 185393,
       "name": "Sanzameku",
       "url": "https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK"
@@ -12201,7 +12219,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185393,
       "name": "Sanzameku",
       "url": "https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz"
@@ -13317,7 +13335,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189946,
       "name": "spotkaranigete",
       "url": "https://open.spotify.com/track/6YhHCFF7wJvCT0V2PP1Kzn"
@@ -13645,7 +13663,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250972,
       "name": "Sukideshita.",
       "url": "https://open.spotify.com/track/458E7acH1K8c5wx8AYAnVi"
@@ -14775,10 +14793,28 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248098,
       "name": "Tomodachi",
       "url": "https://open.spotify.com/track/0aN84pd1P3r9eSqZA9pLv9"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248098,
+      "name": "TOMODACHI",
+      "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
     },
     {
       "album": {
@@ -14905,7 +14941,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239000,
       "name": "Transpose",
       "url": "https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P"
@@ -14923,7 +14959,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Transpose",
       "url": "https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo"
@@ -18387,7 +18423,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 232472,
       "name": "\u30a2\u30a4\u30e9\u30a4",
       "url": "https://open.spotify.com/track/6CJkRcooiymjh59vFxHtKS"
@@ -19539,7 +19575,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 160122,
       "name": "\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0\u306e\u7bb1",
       "url": "https://open.spotify.com/track/4gMLLDFwe4Ehd8Kd6cYHmo"
@@ -19593,7 +19629,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 189946,
       "name": "\u30b9\u30dd\u30c3\u30c8\u304b\u3089\u306b\u3052\u3066",
       "url": "https://open.spotify.com/track/3P13EH5Nu3LEMfIOHLlW6z"
@@ -20689,7 +20725,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 235885,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/115wUJPzuzOPybG6iMYxJZ"
@@ -21309,7 +21345,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 218649,
       "name": "\u30e9\u30d6\u30ea\u30fc",
       "url": "https://open.spotify.com/track/4wTeVlzNPyvTwxdJ52AI6D"
@@ -21691,7 +21727,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 210602,
       "name": "\u4e0d\u5b8c\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/6GeiPhDFSxzta6J1YCjaIB"
@@ -22109,7 +22145,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 127925,
       "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
       "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
@@ -22434,6 +22470,24 @@
     },
     {
       "album": {
+        "name": "23\u6625",
+        "url": "https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u3001\u541b\u304c\u3044\u306a\u3044\u8857",
+          "url": "https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "\u541b\u306e\u305d\u3070",
+      "url": "https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli"
+    },
+    {
+      "album": {
         "name": "\u541b\u306e\u6b6f\u30d6\u30e9\u30b7",
         "url": "https://open.spotify.com/album/0FOZQaABYtZiBHJd6WLKQ5"
       },
@@ -22535,7 +22589,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 266349,
       "name": "\u5507\u3092\u5473\u65b9\u306b -Sing Sing Sing-",
       "url": "https://open.spotify.com/track/3UZEz7DnXN8Mt1do14lHwG"
@@ -23205,7 +23259,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 250972,
       "name": "\u597d\u304d\u3067\u3057\u305f\u3002",
       "url": "https://open.spotify.com/track/588cVGxOSFqg8HnlGE6IDI"
@@ -23569,7 +23623,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-15",
+      "date_removed": null,
       "duration_ms": 208309,
       "name": "\u604b\u3059\u308b\u60d1\u661f\u300c\u30a2\u30ca\u30bf\u300d",
       "url": "https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg"

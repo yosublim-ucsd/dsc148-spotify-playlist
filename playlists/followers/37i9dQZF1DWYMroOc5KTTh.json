@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 480807,
+  "2024-04-20": 480936,
   "date_first_scraped": "2021-12-30",
   "description": "100% good vibes.",
   "name": "Serotonin",
@@ -603,7 +603,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -829,6 +829,24 @@
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca"
+    },
+    {
+      "album": {
+        "name": "Back On 74",
+        "url": "https://open.spotify.com/album/0rEzk4hWc3xg8nd291GgEO"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/5EoJXdts36dAzKWxz3jiVx"
     },
     {
       "album": {
@@ -1473,10 +1491,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 323959,
       "name": "C.Y.S.",
       "url": "https://open.spotify.com/track/4fT63gOZxWxZsUYyFpc7s4"
+    },
+    {
+      "album": {
+        "name": "C.Y.S.",
+        "url": "https://open.spotify.com/album/3n7RR3fJCk1dsB26G2inz9"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323959,
+      "name": "C.Y.S. - Original Mix",
+      "url": "https://open.spotify.com/track/4VqzmxFxUFUB7lTturRUrC"
     },
     {
       "album": {
@@ -2379,7 +2415,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243945,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
@@ -2731,7 +2767,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
@@ -3057,7 +3093,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 439994,
       "name": "Final Credits",
       "url": "https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O"
@@ -3635,7 +3671,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
@@ -3867,7 +3903,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0"
@@ -4731,7 +4767,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
@@ -5377,7 +5413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 204226,
       "name": "Let It Go (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
@@ -5929,6 +5965,28 @@
     {
       "album": {
         "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
       "artists": [
@@ -5943,7 +6001,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -8219,7 +8277,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235506,
       "name": "Slipping Away",
       "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
@@ -8533,7 +8591,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398598,
       "name": "Starry Night",
       "url": "https://open.spotify.com/track/46KG2wmw38sYm1GoRHIsOW"
@@ -9199,10 +9257,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299060,
       "name": "Think Of You - Feat. Tendai",
       "url": "https://open.spotify.com/track/3lAX3g9THAPdtiVdREKTj2"
+    },
+    {
+      "album": {
+        "name": "Pain & Love",
+        "url": "https://open.spotify.com/album/43uCGkLDUTIVqmEcaZz0YU"
+      },
+      "artists": [
+        {
+          "name": "T.Williams",
+          "url": "https://open.spotify.com/artist/4XYh8yz79ILkPPbUSi9S20"
+        },
+        {
+          "name": "Tendai",
+          "url": "https://open.spotify.com/artist/1M0CCoQo5AGCoWh7FIdaNs"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299060,
+      "name": "Think Of You - Feat. Tendai",
+      "url": "https://open.spotify.com/track/5FRBMrqNyzw3eAbTz1EBI1"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 46840,
+  "2024-04-20": 46879,
   "date_first_scraped": "2022-12-14",
   "description": "<a href=\"spotify:artist:77J3V0V7sEOf5ifCDBSNaJ\">Nu Genea</a>'s favorite tracks. Updated regularly. Curated by Nu Genea. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Nu Genea's track IDs",
@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Part 2) (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg"
+      },
+      "artists": [
+        {
+          "name": "Zohra",
+          "url": "https://open.spotify.com/artist/3l2fkH1yrsHsfYYU2ZnwtI"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "Badala Zamana",
+      "url": "https://open.spotify.com/track/0C2eSToZdCu2bNSh1UXP5R"
+    },
+    {
+      "album": {
         "name": "Badala Zamana (Habibi Funk 015)",
         "url": "https://open.spotify.com/album/04Ok581SPH7eTevAKZUeQB"
       },
@@ -53,7 +71,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190124,
       "name": "Badala Zamana (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/0x267yS2OeozYaFzCyqnx6"
@@ -107,7 +125,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308721,
       "name": "Can't Face The Night - Club Mix",
       "url": "https://open.spotify.com/track/3P2R4iPAO1u7aSWq3JwQcT"
@@ -125,7 +143,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 308721,
       "name": "Can't Face The Night - Club Mix",
       "url": "https://open.spotify.com/track/3klN7znqTUm0ub9Cfc1hEL"
@@ -294,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Part 2) (Habibi Funk 015)",
+        "url": "https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg"
+      },
+      "artists": [
+        {
+          "name": "Ait Meslayene",
+          "url": "https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279874,
+      "name": "El Fen",
+      "url": "https://open.spotify.com/track/2XWm5Dzs7pt1qr57gUrZ5U"
+    },
+    {
+      "album": {
         "name": "El Fen / Casbah",
         "url": "https://open.spotify.com/album/4FyMIn7x3MvXhS77CU8gOs"
       },
@@ -323,7 +359,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279920,
       "name": "El fen",
       "url": "https://open.spotify.com/track/4rDxUHTSSRzYmYgzYOSRCr"
@@ -551,7 +587,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "Il Vecchiaccio",
       "url": "https://open.spotify.com/track/7ozKNLwCWp6dIHR1li1Cbr"
@@ -569,7 +605,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225613,
       "name": "Il vecchiaccio",
       "url": "https://open.spotify.com/track/1u0uPBJx7pHVlx9L2Wcydu"
@@ -699,7 +735,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 338640,
       "name": "Love the Way You Love Me",
       "url": "https://open.spotify.com/track/20pLtbIDmrm5W4bBTLGM7V"
@@ -717,7 +753,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 338640,
       "name": "Love the Way You Love Me",
       "url": "https://open.spotify.com/track/4pZQtqA3P3e1gjgwPOHDUC"
@@ -829,7 +865,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 246424,
       "name": "Omoge",
       "url": "https://open.spotify.com/track/3hr1gRMGcKVeRYLqDZLTh1"
@@ -847,10 +883,28 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246424,
       "name": "Omoge",
       "url": "https://open.spotify.com/track/4ZYomCRQEsIduQE2O1DcEU"
+    },
+    {
+      "album": {
+        "name": "Ritmo Fantas\u00eda: Balearic Spanish Synth-Pop, Boogie And House (1982-1992)",
+        "url": "https://open.spotify.com/album/259xflhgPOhk2ZTaKuL4dT"
+      },
+      "artists": [
+        {
+          "name": "Nsue",
+          "url": "https://open.spotify.com/artist/3mP60wj7zbSsAnI26egtol"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270360,
+      "name": "Rebelde Silueta",
+      "url": "https://open.spotify.com/track/2IHSnyPIw0SABUYnrXACei"
     },
     {
       "album": {
@@ -865,7 +919,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270360,
       "name": "Rebelde Silueta",
       "url": "https://open.spotify.com/track/5apFmj9frwrTV1BvclAfZM"
@@ -1053,7 +1107,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273202,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0u8ZMXcwzcKqQnWqcCAvLB"
@@ -1071,7 +1125,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 273202,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/5wNkMIiej8AYMkPH2XNNFr"
@@ -1155,10 +1209,32 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283160,
       "name": "The Time Is Come",
       "url": "https://open.spotify.com/track/67Ap9BKsZXan4gYWzCb3Pn"
+    },
+    {
+      "album": {
+        "name": "Mr Bongo Record Club Volume 2",
+        "url": "https://open.spotify.com/album/0svTEhVMXKLKWc4I9OxPBP"
+      },
+      "artists": [
+        {
+          "name": "Effi Duke",
+          "url": "https://open.spotify.com/artist/6TKG61vYDn0PmgoXUYkrOx"
+        },
+        {
+          "name": "The Love Family",
+          "url": "https://open.spotify.com/artist/2PMQqmwNVSap6TxKMZRuMh"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283160,
+      "name": "The Time Is Come",
+      "url": "https://open.spotify.com/track/6OnvVQZ3Iu8zMLud656qqV"
     },
     {
       "album": {
@@ -1191,10 +1267,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278029,
       "name": "Tienat\u00e9",
       "url": "https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O"
+    },
+    {
+      "album": {
+        "name": "Tienat\u00e9",
+        "url": "https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278749,
+      "name": "Tienat\u00e9",
+      "url": "https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg"
     },
     {
       "album": {
@@ -1227,7 +1321,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 267693,
       "name": "Use My Body",
       "url": "https://open.spotify.com/track/04mJG6sKQJyXBG4KgrCdES"
@@ -1245,7 +1339,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267693,
       "name": "Use My Body",
       "url": "https://open.spotify.com/track/7icSPAv1VMEjh7jHP4rqt0"
@@ -1317,7 +1411,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 241332,
       "name": "You Can't Change A Man",
       "url": "https://open.spotify.com/track/1dR7rHSrmfcnih3Bi9yorZ"
@@ -1371,7 +1465,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241397,
       "name": "You Can't Change a Man",
       "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"

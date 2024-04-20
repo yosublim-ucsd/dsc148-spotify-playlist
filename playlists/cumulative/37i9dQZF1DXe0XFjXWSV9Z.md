@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-173 songs - 10 hr 45 min
+174 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2021-10-20 |  |
 | [Bicicleta Intergalactica](https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU) | [Bacalao Men](https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk) | [El Nuevo Bugalu](https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF) | 4:30 | 2021-10-20 |  |
 | [Black Catbird](https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc) | 2:45 | 2021-10-20 | 2024-04-19 |
-| [Bomba Atómica](https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Meridian Brothers & El Grupo Renacimiento](https://open.spotify.com/album/7lH6L9KUFciaS90VDFaUNA) | 4:37 | 2023-01-07 |  |
+| [Bomba Atómica](https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Meridian Brothers & El Grupo Renacimiento](https://open.spotify.com/album/7lH6L9KUFciaS90VDFaUNA) | 4:37 | 2023-01-07 | 2024-04-20 |
 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 | 2021-10-20 | 2024-04-19 |
 | [Bueltatzen](https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o) | [Goxua´n Salsa](https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL) | [Bueltatzen](https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv) | 4:18 | 2022-07-01 |  |
 | [Caminito](https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL) | [Swing Original Monks](https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq) | [Somos](https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T) | 3:48 | 2021-10-20 |  |
@@ -48,6 +48,7 @@
 | [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 |  |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2021-10-20 | 2024-04-19 |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 | 2024-01-25 |
+| [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 | 2021-10-20 |  |
 | [Cumbia Disco Energy](https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo), [Polymarchs](https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99) | [Cumbia Disco Energy](https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur) | 3:57 | 2024-03-16 |  |
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 | 2024-04-19 |
 | [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2021-10-20 | 2024-04-19 |

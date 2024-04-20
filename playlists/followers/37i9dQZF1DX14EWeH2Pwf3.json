@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 941164,
+  "2024-04-20": 940766,
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Baby Gang, BLANCO, Marracash",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Icy Subzero",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -193,7 +193,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172500,
       "name": "20 Anni (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/7EasyPWcoQlYlBuD3xULpL"
@@ -4027,7 +4027,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177576,
       "name": "Freaky (feat. Shiva & Niky Savage)",
       "url": "https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6"
@@ -5728,6 +5728,24 @@
     },
     {
       "album": {
+        "name": "Leanin'",
+        "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Leanin'",
+      "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
+    },
+    {
+      "album": {
         "name": "Teoria Del Contrario Mixtape Vol. 2",
         "url": "https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx"
       },
@@ -6073,7 +6091,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135652,
       "name": "Machiavelli (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/3KRwYDQt79HltHM1YHzQbl"
@@ -8778,6 +8796,32 @@
     },
     {
       "album": {
+        "name": "Sedicinoni",
+        "url": "https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV"
+      },
+      "artists": [
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Big Joe",
+          "url": "https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Quadrato (feat. Massimo Pericolo)",
+      "url": "https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
       },
@@ -9113,7 +9157,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7HyJYGyYCU7M9VCaOwbFg6"
@@ -9135,7 +9179,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184615,
       "name": "Ricordi Sbiaditi (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7peaWA39b8g5mbw3DXpcMJ"
@@ -10899,6 +10943,24 @@
       "duration_ms": 154778,
       "name": "Vida Mala (feat. Medy)",
       "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"
+    },
+    {
+      "album": {
+        "name": "VIENI DALLA BADDIE (interlude)",
+        "url": "https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93333,
+      "name": "VIENI DALLA BADDIE - interlude",
+      "url": "https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F"
     },
     {
       "album": {

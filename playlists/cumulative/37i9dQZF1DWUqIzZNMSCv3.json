@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Chopin: \u00c9tudes, Opp. 10 & 25",
+        "url": "https://open.spotify.com/album/65tTkPhfEt17nOy0nxSc3S"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330693,
+      "name": "12 \u00c9tudes, Op. 25: No. 7 in C-Sharp Minor \"Cello\"",
+      "url": "https://open.spotify.com/track/0RAyUDOpyH8kYaNgVEWuMn"
+    },
+    {
+      "album": {
         "name": "Sergej Rachmaninov: Piano Works for Four and Six Hands",
         "url": "https://open.spotify.com/album/2FEgIwxz5qelt3WAJg25Ww"
       },

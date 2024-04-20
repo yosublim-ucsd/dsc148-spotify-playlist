@@ -45485,6 +45485,32 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/6NzoJk6v02UJZyup1FjQl2"
+      },
+      "artists": [
+        {
+          "name": "Tzolkin",
+          "url": "https://open.spotify.com/artist/2f0AJZMR1N9x57y8hGGY9B"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0w6DNPF2pJUDxdIf3vnl9F"
+    },
+    {
+      "album": {
         "name": "Un Eterno Loop Sin Fin",
         "url": "https://open.spotify.com/album/0rO0NHGworrKc2o1X5q3ne"
       },

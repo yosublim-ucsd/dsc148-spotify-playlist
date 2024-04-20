@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1599983,
+  "2024-04-20": 1599998,
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Joyner Lucas",
   "name": "Spilled Ink",
@@ -959,7 +959,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195200,
       "name": "Bobby Boucher",
       "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
@@ -2434,6 +2434,32 @@
     },
     {
       "album": {
+        "name": "Heads I Win, Tails You Lose",
+        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Cloud Surfing",
+      "url": "https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT"
+    },
+    {
+      "album": {
         "name": "Rise & Fall of Slaughterhouse",
         "url": "https://open.spotify.com/album/0zQGSKJi3TcAQF5jXzSvtp"
       },
@@ -3036,6 +3062,28 @@
     },
     {
       "album": {
+        "name": "Define My Name",
+        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190988,
+      "name": "Define My Name",
+      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
+    },
+    {
+      "album": {
         "name": "DENiM (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
@@ -3197,6 +3245,32 @@
       "duration_ms": 201768,
       "name": "Different League",
       "url": "https://open.spotify.com/track/3dEgWY6zXTVRFLFloNEhLr"
+    },
+    {
+      "album": {
+        "name": "Heads I Win, Tails You Lose",
+        "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Oh No",
+          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+        },
+        {
+          "name": "Gangrene",
+          "url": "https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "Dinosaur Jr.",
+      "url": "https://open.spotify.com/track/10yyP7F6AKRaPWsQ2bT1ZJ"
     },
     {
       "album": {
@@ -4949,7 +5023,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144140,
       "name": "Guapanese",
       "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
@@ -8453,7 +8527,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 232017,
       "name": "Office Hours (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
@@ -10553,7 +10627,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260000,
       "name": "Show & Tell (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx"
@@ -10827,7 +10901,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175750,
       "name": "Smoke Break-Dance (feat. JID)",
       "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
@@ -13601,6 +13675,32 @@
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
+    },
+    {
+      "album": {
+        "name": "Yokohama Slim",
+        "url": "https://open.spotify.com/album/0EFCnTO7xvVAXFHXTcPLDR"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "RichGains",
+          "url": "https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Yokohama Slim",
+      "url": "https://open.spotify.com/track/0FUttXeJKxykc1EqlJXNgy"
     },
     {
       "album": {

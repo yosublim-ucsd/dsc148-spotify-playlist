@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 250927,
+  "2024-04-20": 250932,
   "date_first_scraped": "2022-05-23",
   "description": "Bailando de caballito, aunque se enoje tu mam\u00e1. Mi Banda El Mexicano en portada.",
   "name": "Quebradita",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165929,
       "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4qoKGWLcsYKkCDJnWxMJUG"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166823,
       "name": "Anda Borracho El Buey",
       "url": "https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d"
@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Alegria Calentana",
+        "url": "https://open.spotify.com/album/32I4qzfK3Nfmf3aVtmJzky"
+      },
+      "artists": [
+        {
+          "name": "Tierra Cali",
+          "url": "https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "El Baile Del Sacadito",
+      "url": "https://open.spotify.com/track/6jtvpZf65a20G9wgfCEzSy"
+    },
+    {
+      "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216013,
       "name": "El Baile del Sacadito",
       "url": "https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/3e0UGZKNCocEJv7feS8d93"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163874,
       "name": "El Caracol",
       "url": "https://open.spotify.com/track/6EhUL5fqcXGaOpZUnfQJHO"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 120266,
       "name": "El Perro De Mi Compadre",
       "url": "https://open.spotify.com/track/2mrBqGEkYb70SZPmvD2zLO"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 158293,
       "name": "El puchoncito",
       "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 176889,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176889,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172361,
       "name": "El Torero Cotorro",
       "url": "https://open.spotify.com/track/1i2AwNOPHkyd0i3BSwX87L"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172361,
       "name": "El Torero Cotorro",
       "url": "https://open.spotify.com/track/6Btr1VUmPoPsniS5uhaq2Z"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175400,
       "name": "Eso no, no, no",
       "url": "https://open.spotify.com/track/5oXY2tOOcrI6ePYJfNrx3d"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/45iHQJmGDY9RRHb4EXDySF"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218267,
       "name": "Feliz, Feliz",
       "url": "https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256420,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/7aGYG6w2hMxiJXot3LZVTS"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208352,
       "name": "La Bota",
       "url": "https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/6fAgsEWreF327VmKHhKQYf"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187768,
       "name": "La Danza del Coyote",
       "url": "https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187768,
       "name": "La Danza del Coyote",
       "url": "https://open.spotify.com/track/4q7QCuZStwhymthrUmN3Ve"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174146,
       "name": "La nena",
       "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198800,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214987,
       "name": "Mambo Lupita",
       "url": "https://open.spotify.com/track/5WXizCxqmrlovOExcVmaFE"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215138,
       "name": "Mambo Lupita",
       "url": "https://open.spotify.com/track/2bPotQOSSXnitoVeZbtJDT"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 194538,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/3N4fXn95JzMo9slLuZWArp"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241452,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/3PTfu2zsB5IH0nTu9vP8iR"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241870,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/28If7KaffAjwCsKfQDmScA"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210546,
       "name": "Nosotros Tambien Podemos",
       "url": "https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Nosotros Tambi\u00e9n Podemos",
       "url": "https://open.spotify.com/track/0pyoQa5euHAX9tadX92UqK"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207737,
       "name": "Orgullosa Mar\u00eda",
       "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171549,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180626,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180626,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/6rGUVwXPZfeOAcqmFlhPua"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212746,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/5SiAusJizzxkKXy0oowWyK"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 124344,
       "name": "Tabaco Mascao",
       "url": "https://open.spotify.com/track/5Co1f3RoqnIVLr526pQG4Y"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128186,
       "name": "Tabaco Mascao",
       "url": "https://open.spotify.com/track/30Q48f3hKqmUaTP4s35JeD"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 154693,
       "name": "Tenis m\u00e1gicos",
       "url": "https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154693,
       "name": "Tenis m\u00e1gicos",
       "url": "https://open.spotify.com/track/7jcjJi2aVb8F1V1Ct4vBtK"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186247,
       "name": "Yo Quiero Quebrarte",
       "url": "https://open.spotify.com/track/1A6ASsT0qx2wUXlTUolCCj"
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186247,
       "name": "Yo Quiero Quebrarte",
       "url": "https://open.spotify.com/track/0Byi0pNpSr0FKDQ8HtMwKY"

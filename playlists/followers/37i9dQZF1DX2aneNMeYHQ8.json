@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 467974,
+  "2024-04-20": 467713,
   "date_first_scraped": "2021-12-21",
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Hozier",
   "name": "Rockin' Vibes",
@@ -125,7 +125,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/1hS3RXEQbXtWgYpot2Ay07"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 168705,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1Ft5ivAGXYDmNoKmys13sX"
@@ -1171,6 +1171,24 @@
     {
       "album": {
         "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Deep Stays Down",
+      "url": "https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG"
+    },
+    {
+      "album": {
+        "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
       "artists": [
@@ -1300,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Dramamine",
+        "url": "https://open.spotify.com/album/1RgOz8zYC5GKsZEZPjQ0pT"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4LkUIkfIw7f3l7eJnOj9OW"
+    },
+    {
+      "album": {
         "name": "Dream Never Dies",
         "url": "https://open.spotify.com/album/4KknXTBGrp4A1C8aIvtgOk"
       },
@@ -1329,7 +1365,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233164,
       "name": "Easy Now",
       "url": "https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH"
@@ -1599,7 +1635,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209760,
       "name": "Evicted",
       "url": "https://open.spotify.com/track/2VxHh66fLYCJgKVOs56AY5"
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 250565,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 199971,
       "name": "Falling Down (with Nick Hexum of 311)",
       "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
@@ -1765,10 +1801,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270066,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6bueV7zlPwN6eyhSan67Wb"
     },
     {
       "album": {
@@ -1891,7 +1945,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207294,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5149LIHpBivPrcQsX5HZO6"
@@ -1981,7 +2035,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 333280,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6KPjAsDsH425JhWiHAWHOK"
@@ -2197,7 +2251,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197737,
       "name": "Head Right",
       "url": "https://open.spotify.com/track/7JsrgtynTsvDBuzUJ82o89"
@@ -2371,7 +2425,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-11",
+      "date_removed": null,
       "duration_ms": 253320,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/5pbvXAfrjtRwfwcKGPAZma"
@@ -2505,7 +2559,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
@@ -2631,7 +2685,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192840,
       "name": "How High",
       "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
@@ -2769,7 +2823,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327546,
       "name": "I Don't Live Here Anymore (feat. Lucius)",
       "url": "https://open.spotify.com/track/5Uou8idst1XJc0F6MRAk5S"
@@ -2881,7 +2935,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192135,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
@@ -3537,7 +3591,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257906,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o"
@@ -3573,7 +3627,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Mercy Mercy",
       "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
@@ -4185,7 +4239,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 208006,
       "name": "Nu-Grape",
       "url": "https://open.spotify.com/track/2lHavDhFoVwqspUakBUCZe"
@@ -4661,7 +4715,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 284597,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/7mEkQOIF0GtCWD4ch2EIjW"
@@ -4805,7 +4859,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/5ssnt7GzfLILpZkNQ0oU3U"
@@ -4895,7 +4949,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
@@ -5003,7 +5057,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX"
@@ -5057,7 +5111,7 @@
       ],
       "date_added": "2022-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228553,
       "name": "So Caught Up",
       "url": "https://open.spotify.com/track/2SrTIQZs2Dzv9WC538a8xM"
@@ -5118,6 +5172,24 @@
     },
     {
       "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/2NzJnMiQdUlxjNP4lxOMEk"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/0JIdzqE6KollCBswa5HpIP"
+    },
+    {
+      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -5129,7 +5201,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232080,
       "name": "So Sick Of Dreaming",
       "url": "https://open.spotify.com/track/2VWU98gL9ePoBWzjttq3iC"
@@ -5205,7 +5277,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/2QYmaiPbbXxXMBrvWj34m0"
@@ -5367,7 +5439,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 185317,
       "name": "Stay Out Of It",
       "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
@@ -5385,7 +5457,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
@@ -5565,7 +5637,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
@@ -5637,7 +5709,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 242576,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/51cFoZgKkZJhQa9iHy0EcD"
@@ -5857,7 +5929,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 193369,
       "name": "The Hardest Cut",
       "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
@@ -6329,7 +6401,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
@@ -6546,6 +6618,24 @@
     },
     {
       "album": {
+        "name": "What We Used To Be Is Not Who We Are",
+        "url": "https://open.spotify.com/album/7EEkK4YD0sF1ngAUOeawrJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Frasco & the U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195147,
+      "name": "What We Used To Be Is Not Who We Are",
+      "url": "https://open.spotify.com/track/7qMJfopcQrfegqylcyCq9V"
+    },
+    {
+      "album": {
         "name": "What's Coming To Me",
         "url": "https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs"
       },
@@ -6629,7 +6719,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
@@ -6647,7 +6737,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7"
@@ -6683,7 +6773,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
@@ -6773,7 +6863,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb"
@@ -6791,7 +6881,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-04",
+      "date_removed": null,
       "duration_ms": 232917,
       "name": "Wondering Why",
       "url": "https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0"

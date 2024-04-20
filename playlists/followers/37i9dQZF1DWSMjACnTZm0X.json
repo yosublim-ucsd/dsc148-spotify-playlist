@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 11827,
+  "2024-04-20": 11844,
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV?si=LQdhPbCeROi-ZxQPyR6PdA\">Nonso Amadi</a>,  <a href=https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0?si=u9uN2idsRqOl_3O7WscWSQ>SjavasDaDeejay</a>,  <a href=\"https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD?si=co48q4iCRyCD12ahGgQ_sQ\">Tumelo_za</a>",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: <a href=\"https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn?si=vPMKVF4FSi6lM3uLNi3zvw\">Savage</a>,  <a href=https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=FjEmTtW9RoGz1Phk4uyAxg>Zlatan</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -349,6 +349,28 @@
       "duration_ms": 378124,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1hf69oGe91RtdLyqa02eb2"
+    },
+    {
+      "album": {
+        "name": "Anatomy",
+        "url": "https://open.spotify.com/album/1yWqGDo7VLYP7EjDhtPn9P"
+      },
+      "artists": [
+        {
+          "name": "Tsebebe Moroke",
+          "url": "https://open.spotify.com/artist/69cVOrLqyATYnlxF6ZQFoC"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454408,
+      "name": "Anatomy",
+      "url": "https://open.spotify.com/track/3Sa3juDsSrz5lvxfKMk74w"
     },
     {
       "album": {
@@ -1047,6 +1069,28 @@
       "duration_ms": 175342,
       "name": "Cleopatra (feat. Alex Price)",
       "url": "https://open.spotify.com/track/3VkVbl3uuVnceUaGUlrN83"
+    },
+    {
+      "album": {
+        "name": "Concussion (Remix)",
+        "url": "https://open.spotify.com/album/21nupdfTnGduMsVXIyuc9u"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158105,
+      "name": "Concussion - Remix",
+      "url": "https://open.spotify.com/track/2eBk5x3MJ5wmd2tSYzpCv0"
     },
     {
       "album": {
@@ -1844,6 +1888,28 @@
     },
     {
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "album": {
         "name": "Holy Father",
         "url": "https://open.spotify.com/album/0kljfz9uC9F0cbWIVvwnQ4"
       },
@@ -1855,7 +1921,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237866,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/59iCcjlrj25sslexuin6HU"
@@ -1877,7 +1943,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 240005,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3b3EBj7XhtJ5YhMpr7eXL4"
@@ -2701,7 +2767,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 187433,
       "name": "Maria",
       "url": "https://open.spotify.com/track/3c1dmfIGuGXSKtQGejjc2T"
@@ -2727,7 +2793,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187506,
       "name": "Maria",
       "url": "https://open.spotify.com/track/63Z0GqJuGyTojf5B2XoMze"
@@ -2935,7 +3001,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/0bXnjLwjvFJqQE1MB4Wd1M"
@@ -2957,7 +3023,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 480000,
       "name": "Narcos (feat. J Slayz)",
       "url": "https://open.spotify.com/track/3gbDq9fLBXr6GZS1rle02N"
@@ -3597,7 +3663,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291428,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
@@ -3623,7 +3689,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 291428,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/7bFWys0I1Dl2qsgOki3SMq"
@@ -4173,7 +4239,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282857,
       "name": "The Out of Africa Hypothesis",
       "url": "https://open.spotify.com/track/1EJ4NsHvhxdWfmC4SukwRd"
@@ -4203,6 +4269,32 @@
       "duration_ms": 282857,
       "name": "The Out of Africa Hypothesis",
       "url": "https://open.spotify.com/track/3k6MvIaHbm6YEOquLmEcw3"
+    },
+    {
+      "album": {
+        "name": "The Out of Africa Hypothesis",
+        "url": "https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "TOMC",
+          "url": "https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0"
+        },
+        {
+          "name": "\u8358\u5b50it",
+          "url": "https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "The Out of Africa Hypothesis",
+      "url": "https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60"
     },
     {
       "album": {

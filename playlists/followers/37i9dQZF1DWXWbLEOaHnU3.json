@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 541448,
+  "2024-04-20": 541435,
   "date_first_scraped": "2022-04-20",
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
   "name": "Psytrance Supernova",
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 450206,
       "name": "Bansuri",
       "url": "https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343098,
       "name": "Crossroads (Remix)",
       "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
@@ -1838,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma"
+      },
+      "artists": [
+        {
+          "name": "Phazed",
+          "url": "https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303820,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX"
+    },
+    {
+      "album": {
         "name": "Feel Home",
         "url": "https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc"
       },
@@ -2293,7 +2311,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 348274,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
@@ -3695,7 +3713,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
@@ -5793,7 +5811,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150909,
       "name": "Viera",
       "url": "https://open.spotify.com/track/121Qef9f4Fa2AKfsBLQWpW"

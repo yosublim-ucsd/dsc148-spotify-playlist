@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 72908,
+  "2024-04-20": 72892,
   "date_first_scraped": "2024-03-12",
   "description": "Get into the Eid spirit with this uplifting Eid songs collection.",
   "name": "Eid Mubarak",
@@ -115,10 +115,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109884,
       "name": "Al Eid Gaa",
       "url": "https://open.spotify.com/track/2MjIicyL4V6KB1IqnJiQlj"
+    },
+    {
+      "album": {
+        "name": "Al Eid Gaa",
+        "url": "https://open.spotify.com/album/3TwvfliTWcoaU3lc3PzGHu"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109884,
+      "name": "Al Eid Gaa",
+      "url": "https://open.spotify.com/track/5ra4kmbcUvek1OdmMcDRm5"
     },
     {
       "album": {
@@ -767,6 +785,24 @@
       "duration_ms": 139599,
       "name": "Hanen Alena Ya Rab",
       "url": "https://open.spotify.com/track/2zQtX0AL8stVNw3tMcHY51"
+    },
+    {
+      "album": {
+        "name": "Sahbit Raey",
+        "url": "https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226680,
+      "name": "Hanghanni Kaman W Kaman",
+      "url": "https://open.spotify.com/track/67BhQrmFsuqdIuYiUK5JIg"
     },
     {
       "album": {
@@ -2463,10 +2499,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194769,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/2YMwxis2lMtraN0CW8IaaD"
+    },
+    {
+      "album": {
+        "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+        "url": "https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
+      "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"
     },
     {
       "album": {
@@ -2535,7 +2589,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226680,
       "name": "\u0647\u0646\u063a\u0646\u064a \u0643\u0645\u0627\u0646 \u0648\u0643\u0645\u0627\u0646",
       "url": "https://open.spotify.com/track/1bVHiY8JtZGhXcrmYVd2QC"

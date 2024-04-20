@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 66651,
+  "2024-04-20": 66611,
   "date_first_scraped": "2022-09-15",
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
   "name": "Gospel Kids",
@@ -311,10 +311,32 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333113,
       "name": "Caminho no Deserto - Vers\u00e3o Kids",
       "url": "https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG"
+    },
+    {
+      "album": {
+        "name": "Caminho No Deserto (Vers\u00e3o Kids)",
+        "url": "https://open.spotify.com/album/4fLbLFLA4S6DEFI3ez7eSw"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        },
+        {
+          "name": "Kaiky Mello",
+          "url": "https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333113,
+      "name": "Caminho No Deserto - Vers\u00e3o Kids",
+      "url": "https://open.spotify.com/track/6DvLLo7zE7pPaXKbKxn3qf"
     },
     {
       "album": {
@@ -637,7 +659,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181458,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
@@ -655,7 +677,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-10",
+      "date_removed": null,
       "duration_ms": 182910,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
@@ -953,10 +975,28 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 310106,
       "name": "O Amor do Nosso Deus",
       "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+    },
+    {
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0nMQzcj9lT3yRECJlxGEhG"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/5VTmiFLEnS531Dljz9PCWR"
     },
     {
       "album": {
@@ -1050,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "3 Palavrinhas Vol. 3",
+        "url": "https://open.spotify.com/album/60EtnK9eXaiDSckq6svb9T"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117613,
+      "name": "Por Dentro, Fora, Alto, Embaixo",
+      "url": "https://open.spotify.com/track/28TJi7S4890dx20i7q5WIL"
+    },
+    {
+      "album": {
         "name": "3 Palavrinhas, Vol. 3",
         "url": "https://open.spotify.com/album/4Aw3KlIumWtvdpamB7DMsU"
       },
@@ -1061,7 +1119,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 117613,
       "name": "Por Dentro, Fora, Alto, Embaixo",
       "url": "https://open.spotify.com/track/5zuOwjPMZkCfzTa9mE8I87"
@@ -1105,6 +1163,24 @@
     {
       "album": {
         "name": "Reluz",
+        "url": "https://open.spotify.com/album/1p9LL7bfA85oG7vjD2wtAP"
+      },
+      "artists": [
+        {
+          "name": "Mara Maravilha",
+          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226403,
+      "name": "Rei Davi",
+      "url": "https://open.spotify.com/track/39iAdQZ6xeTXJKmR9K9NSK"
+    },
+    {
+      "album": {
+        "name": "Reluz",
         "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
       },
       "artists": [
@@ -1115,7 +1191,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226486,
       "name": "Rei Davi",
       "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4288,
+  "2024-04-20": 4290,
   "date_first_scraped": "2022-10-01",
   "description": "Fresh Gospel tracks to make you move and bop your head in Praise",
   "name": "Trinity Connect ",
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 233569,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6XGUIaVkvoyc5An6h0uotV"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233569,
       "name": "Backslide",
       "url": "https://open.spotify.com/track/6QTmofmaXx6UhmZoBUhEm2"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216511,
       "name": "Far Above",
       "url": "https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-11",
+      "date_removed": null,
       "duration_ms": 216511,
       "name": "Far Above",
       "url": "https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S"
@@ -371,6 +371,28 @@
     {
       "album": {
         "name": "Halellujah",
+        "url": "https://open.spotify.com/album/5uEEHX4hsZiwZnpqZVtvvm"
+      },
+      "artists": [
+        {
+          "name": "Stivo simple boy",
+          "url": "https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s"
+        },
+        {
+          "name": "Made in Kibera",
+          "url": "https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Halellujah",
+      "url": "https://open.spotify.com/track/5i27XFa7rMos44qN7fq7lu"
+    },
+    {
+      "album": {
+        "name": "Halellujah",
         "url": "https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo"
       },
       "artists": [
@@ -389,7 +411,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184058,
       "name": "Halellujah",
       "url": "https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I"
@@ -459,7 +481,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275435,
       "name": "Hubadiliki",
       "url": "https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg"
@@ -481,7 +503,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 275435,
       "name": "Hubadiliki (feat. Bella Kombo)",
       "url": "https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I"
@@ -499,7 +521,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186331,
       "name": "Huru",
       "url": "https://open.spotify.com/track/0MKqUGeZLxjJeNlMQqMTBz"
@@ -517,7 +539,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 186331,
       "name": "Huru",
       "url": "https://open.spotify.com/track/5zFw2qypqYA2rZfeoR7YbD"
@@ -557,7 +579,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253561,
       "name": "Ipo Siku (Remix)",
       "url": "https://open.spotify.com/track/3KTdvq3WhZAYEinZ8FBUdB"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 253561,
       "name": "Ipo Siku Remix",
       "url": "https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl"
@@ -619,7 +641,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 182073,
       "name": "Jirani Yangu",
       "url": "https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1"
@@ -637,7 +659,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182073,
       "name": "Jirani Yangu",
       "url": "https://open.spotify.com/track/5ssNZTVFgpT5z058zUtmcA"
@@ -719,6 +741,28 @@
     {
       "album": {
         "name": "Lenga",
+        "url": "https://open.spotify.com/album/3dBYgjC44flylPLTfBFX2y"
+      },
+      "artists": [
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        },
+        {
+          "name": "Size 8",
+          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Lenga",
+      "url": "https://open.spotify.com/track/7pRb8X9cHy14Om1Y14DUfW"
+    },
+    {
+      "album": {
+        "name": "Lenga",
         "url": "https://open.spotify.com/album/5hanZO8J0Uv5LQy9c9c4am"
       },
       "artists": [
@@ -733,7 +777,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196858,
       "name": "Lenga",
       "url": "https://open.spotify.com/track/3bEDq23F2zS6kG8SMhvA2C"
@@ -859,7 +903,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208587,
       "name": "Moyo Unauma",
       "url": "https://open.spotify.com/track/5Df5S1Pa7ufjj4G47wGvPF"
@@ -877,7 +921,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 208587,
       "name": "moyo unauma",
       "url": "https://open.spotify.com/track/7e9AVrgGiIyfYa7TNJhhyo"
@@ -994,6 +1038,32 @@
     },
     {
       "album": {
+        "name": "Goodluck Gozbert",
+        "url": "https://open.spotify.com/album/0lWK1AqTBGfpBcunPToAOL"
+      },
+      "artists": [
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        },
+        {
+          "name": "Bony Mwaitege",
+          "url": "https://open.spotify.com/artist/1vh543t6ipbRMe1shJp0j1"
+        },
+        {
+          "name": "Tiddy Hotter",
+          "url": "https://open.spotify.com/artist/47U6Bi5RlUhIkOmq4hkwxY"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316238,
+      "name": "Nipe",
+      "url": "https://open.spotify.com/track/3eNOyLHRiMmQZDee8KYCYO"
+    },
+    {
+      "album": {
         "name": "Shukurani",
         "url": "https://open.spotify.com/album/5R0ccaog0qDe7Ubztu6ChM"
       },
@@ -1005,7 +1075,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320536,
       "name": "Nipe Kukumbuka",
       "url": "https://open.spotify.com/track/2MY7dMPcDPmn7MZd5Y3a6R"
@@ -1041,10 +1111,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223965,
       "name": "Nivute",
       "url": "https://open.spotify.com/track/5Fpv3Rb1a9SfjmG6oGm4g1"
+    },
+    {
+      "album": {
+        "name": "Zaidi",
+        "url": "https://open.spotify.com/album/3uxeo8DDCDvRs2lPiOHdRI"
+      },
+      "artists": [
+        {
+          "name": "Mercy Masika",
+          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223965,
+      "name": "Nivute",
+      "url": "https://open.spotify.com/track/6XovE1sUt2yDLGNH8XAw7m"
     },
     {
       "album": {
@@ -1371,10 +1459,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253403,
       "name": "Wanitazama",
       "url": "https://open.spotify.com/track/33LoZtHwsnaJsCTu9TAIep"
+    },
+    {
+      "album": {
+        "name": "Thamani",
+        "url": "https://open.spotify.com/album/3OVn1ruXhSCBtQNjpgVHCL"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253403,
+      "name": "Wanitazama",
+      "url": "https://open.spotify.com/track/3kvPS3W3H9rWXSD813Uo2C"
     },
     {
       "album": {

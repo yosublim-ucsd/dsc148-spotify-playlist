@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 122252,
+  "2024-04-20": 122244,
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Pitbull, Mawell & IAmChino",
+  "description": "\u00a1M\u00fasica urbana representando a Cuba! Cover: Gente de Zona",
   "name": "Cubat\u00f3n",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195193,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/0nDQNtW88DWTwLKHkNoppt"
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195193,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/1c2lJocDQiD2hgXupkYdWz"
@@ -87,6 +87,24 @@
       "duration_ms": 219333,
       "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
     },
     {
       "album": {
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210016,
       "name": "Asere Que Bola",
       "url": "https://open.spotify.com/track/2IZ0Ji8yN4eglShpwasZ4Z"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210016,
       "name": "Asere Que Bola",
       "url": "https://open.spotify.com/track/4jf3OP6ndwKJQFMAyrc9xi"
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212373,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/1Pbn9UgscbHOM7OY5dCjaa"
@@ -305,7 +323,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253714,
       "name": "Calentando la Habana",
       "url": "https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf"
@@ -341,10 +359,36 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254146,
       "name": "Calentando la Habana",
       "url": "https://open.spotify.com/track/6P367zPr9yTCQ0LIgT9foX"
+    },
+    {
+      "album": {
+        "name": "CONTIGO",
+        "url": "https://open.spotify.com/album/11Tx94g3ByNjOKw8m7sfiP"
+      },
+      "artists": [
+        {
+          "name": "L Kimii",
+          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
+        },
+        {
+          "name": "Mgy",
+          "url": "https://open.spotify.com/artist/5NFR2F8V9UrUppV2tHxdSd"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/6Qz2kT3YXxCXzdFWVoHeai"
     },
     {
       "album": {
@@ -570,6 +614,24 @@
     },
     {
       "album": {
+        "name": "El Farsante (Timba Remix)",
+        "url": "https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239156,
+      "name": "El Farsante (Timba Remix)",
+      "url": "https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl"
+    },
+    {
+      "album": {
         "name": "El Grande",
         "url": "https://open.spotify.com/album/6RykDFDZm5Fg4ZdyjpP4n1"
       },
@@ -599,28 +661,10 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239156,
       "name": "El Farsante - Timba Remix",
       "url": "https://open.spotify.com/track/1YyACfmqsUNOEqiN0fx85H"
-    },
-    {
-      "album": {
-        "name": "El Farsante (Timba Remix)",
-        "url": "https://open.spotify.com/album/2TbFKVI7lW1Q91nr8ddXUR"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "date_added": "2022-02-25",
-      "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
-      "duration_ms": 239156,
-      "name": "El Farsante - Timba Remix",
-      "url": "https://open.spotify.com/track/6rQ8bYJwMHTWGJhA143RIl"
     },
     {
       "album": {
@@ -789,7 +833,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211491,
       "name": "Focking Ni**a",
       "url": "https://open.spotify.com/track/4LVXf7z1doa6vHEG6jDtNz"
@@ -807,7 +851,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211565,
       "name": "Focking Nigga",
       "url": "https://open.spotify.com/track/3K5kIXRD9l9bEyraHIMagK"
@@ -927,7 +971,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221309,
       "name": "Jala Jala",
       "url": "https://open.spotify.com/track/7bDl3llKm7u0MrcuiUsMwK"
@@ -945,7 +989,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225312,
       "name": "Jala Jala",
       "url": "https://open.spotify.com/track/0F6tVwr60Dp0YVlyYn2zjn"
@@ -989,7 +1033,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "La Dura",
       "url": "https://open.spotify.com/track/3MhY2IqU3KHxi5IXPDjLB8"
@@ -1007,7 +1051,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234640,
       "name": "La Dura - Reggaeton Version",
       "url": "https://open.spotify.com/track/7lyObt45080OP566E98czV"
@@ -1167,7 +1211,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/1e0XAUTcp9QwnD2JiWx1Hg"
@@ -1189,7 +1233,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237900,
       "name": "La Historia",
       "url": "https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ"
@@ -1211,7 +1255,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224106,
       "name": "La Mala Y La Buena",
       "url": "https://open.spotify.com/track/5DcEz9lEgKFserQ1OrRS9X"
@@ -1311,7 +1355,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218181,
       "name": "Las Feas",
       "url": "https://open.spotify.com/track/2WiWXnVgfeU0N0gCZr6eKy"
@@ -1539,7 +1583,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191843,
       "name": "Me Imagino",
       "url": "https://open.spotify.com/track/65ZnzcnOEesvbYdldAm1ZQ"
@@ -1557,7 +1601,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192006,
       "name": "Me Imagino",
       "url": "https://open.spotify.com/track/6VsrmWdxO5GgFKPS6WVCix"
@@ -1579,7 +1623,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232523,
       "name": "Me Quiero Perder",
       "url": "https://open.spotify.com/track/0K4etmnBqe0Pgn2aiyL5ws"
@@ -1601,7 +1645,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232523,
       "name": "Me Quiero Perder",
       "url": "https://open.spotify.com/track/5YZtKHTOn2ZfvRwSttpSTW"
@@ -1743,7 +1787,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220291,
       "name": "Mi Palon Divino",
       "url": "https://open.spotify.com/track/0WzpyDEB8sDLIEufgYf6Kg"
@@ -1765,7 +1809,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 226019,
       "name": "Mio y Tuyo",
       "url": "https://open.spotify.com/track/2jFCB5MGjDdiKQIQgHvVps"
@@ -1787,10 +1831,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226019,
       "name": "Mio y Tuyo",
       "url": "https://open.spotify.com/track/50LCW1Ws3KjI4itaaFUYjP"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Nunca T\u00fa la Tocas",
+        "url": "https://open.spotify.com/album/0zQQdSTmLoIwfXTbSO6DWs"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Metaliko",
+          "url": "https://open.spotify.com/artist/7omz6u7o8LnQ1r5uwL4DNA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "M\u00e1s Nunca T\u00fa la Tocas",
+      "url": "https://open.spotify.com/track/0APTAkNwk0XVgNABDc3Nmk"
     },
     {
       "album": {
@@ -1839,7 +1905,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 244591,
       "name": "No Mas Mentiras (Remix)",
       "url": "https://open.spotify.com/track/6wgLzHzCA8BJxDT37KMFNZ"
@@ -1865,7 +1931,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244591,
       "name": "No Mas Mentiras - Remix",
       "url": "https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3"
@@ -1949,7 +2015,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218181,
       "name": "Noche de Brujas (Las Feas)",
       "url": "https://open.spotify.com/track/2mcqH0c5ZeEsbeMZ4HU9Ye"
@@ -1997,7 +2063,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224448,
       "name": "Noche Fria",
       "url": "https://open.spotify.com/track/1qk0so7GxNqitvmBln39T4"
@@ -2015,7 +2081,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224448,
       "name": "Noche Fria",
       "url": "https://open.spotify.com/track/3wXTwMHia0OMllumUV5CKG"
@@ -2143,7 +2209,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249606,
       "name": "Pa' tr\u00e1",
       "url": "https://open.spotify.com/track/1oHRAvQTs6UmKKwxbFvdDC"
@@ -2187,6 +2253,28 @@
       "duration_ms": 211704,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/5A61D7KaPQZYg29l4YaBLP"
+    },
+    {
+      "album": {
+        "name": "Papelito (Remix)",
+        "url": "https://open.spotify.com/album/2IVhyVYgmWJYBNmQCS0xGF"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211704,
+      "name": "Papelito (Remix)",
+      "url": "https://open.spotify.com/track/6uPD7XrP6YTvHV219omT4n"
     },
     {
       "album": {
@@ -2509,7 +2597,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215640,
       "name": "Si No Vuelves",
       "url": "https://open.spotify.com/track/0PE1dlvMZeBqEbm4BtVVSZ"
@@ -2527,7 +2615,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215640,
       "name": "Si No Vuelves",
       "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
@@ -2685,7 +2773,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "Todo Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/1UVhtVwRBmLtU8yQ0LZRWb"
@@ -2703,7 +2791,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193560,
       "name": "Todo Est\u00e1 Rico",
       "url": "https://open.spotify.com/track/4VHC2EFYKo0yN0t3h2wssz"
@@ -2937,10 +3025,44 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279111,
       "name": "Verano Permanente",
       "url": "https://open.spotify.com/track/4ldXfi0TePKFe7OtmEjIxH"
+    },
+    {
+      "album": {
+        "name": "Verano Permanente",
+        "url": "https://open.spotify.com/album/24nuDNQnfyAyxSlpAiFkRl"
+      },
+      "artists": [
+        {
+          "name": "Osmani Garcia \"La Voz\"",
+          "url": "https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        },
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Carli",
+          "url": "https://open.spotify.com/artist/7BZAkhYaYQxuuGqcqcN8L1"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279111,
+      "name": "Verano Permanente",
+      "url": "https://open.spotify.com/track/6vRLN4Q4ZEFZa20SeesOnS"
     },
     {
       "album": {
@@ -3034,6 +3156,24 @@
     },
     {
       "album": {
+        "name": "Yo Dar\u00eda",
+        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222239,
+      "name": "Yo Dar\u00eda",
+      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
+    },
+    {
+      "album": {
         "name": "Ambidiestros",
         "url": "https://open.spotify.com/album/3Ni4EcYEa90suVEg4lqj08"
       },
@@ -3045,7 +3185,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207058,
       "name": "Yo Lo Se",
       "url": "https://open.spotify.com/track/4Wg0arjOVJ0cGYpm1lZqoJ"
@@ -3063,7 +3203,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207698,
       "name": "Yo Lo Se",
       "url": "https://open.spotify.com/track/3tpOjFm3syJjeQoccgSY8C"

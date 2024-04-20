@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 68257,
+  "num_followers": 68253,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Dream Your Life Away",
-        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Drinking From The Sun, Walking Under Stars Restrung",
         "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 239280,
       "name": "1955",
       "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "The Long Road Back",
-        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
-      },
-      "artists": [
-        {
-          "name": "Peter Andre",
-          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Mysterious Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Birds Of Tokyo",
         "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 218000,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "The Long Road Back",
+        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
+      },
+      "artists": [
+        {
+          "name": "Peter Andre",
+          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Mysterious Girl - Radio Edit",
+      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -651,26 +651,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Changa",
-        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kira Divine",
-          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
-        }
-      ],
-      "duration_ms": 198020,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "One of One",
         "url": "https://open.spotify.com/album/2VjgAAF4WQCmVy2YBkM5uZ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 222040,
       "name": "Call On Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Changa",
+        "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kira Divine",
+          "url": "https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha"
+        }
+      ],
+      "duration_ms": 198020,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Innocent Eyes",
+        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Innocent Eyes",
-        "url": "https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu"
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
       "artists": [
         {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
         }
       ],
-      "duration_ms": 248546,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -843,18 +859,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
       "artists": [
         {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -871,22 +887,6 @@
       "duration_ms": 214093,
       "name": "Is This How You Feel?",
       "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Slideshows",
-        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "20 Good Reasons",
-      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 244866,
       "name": "Weir",
       "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Slideshows",
+        "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "20 Good Reasons",
+      "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Awake Is the New Sleep",
-        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
-      },
-      "artists": [
-        {
-          "name": "Ben Lee",
-          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Catch My Disease",
-      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 208146,
       "name": "Regular Touch",
       "url": "https://open.spotify.com/track/2qiYw6eNM2rwv2vgtzH5o5"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Awake Is the New Sleep",
+        "url": "https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam"
+      },
+      "artists": [
+        {
+          "name": "Ben Lee",
+          "url": "https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Catch My Disease",
+      "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
     },
     {
       "added_at": "2022-04-18 02:03:22",

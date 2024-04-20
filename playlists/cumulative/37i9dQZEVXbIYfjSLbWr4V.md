@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-136 songs - 5 hr 54 min
+137 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [HURTZ](https://open.spotify.com/track/2WWlNStuw5Tqg5noCtR7oq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [HOTSHOT](https://open.spotify.com/album/2Tt5k4YZ6gkYtjJeLBHGkG) | 1:44 | 2024-01-29 |  |
 | [Ignis Aeternus](https://open.spotify.com/track/2D7xpmq3H8ld4J1sXUWv9i) | [Antinem](https://open.spotify.com/artist/1Gz538DkElU8nUejaYW3HA) | [Amor Et Memoria](https://open.spotify.com/album/0X7BfIp0NbQZVF4YnwrIQJ) | 4:12 | 2024-03-28 | 2024-03-30 |
 | [juice](https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL) | [juice](https://open.spotify.com/album/704AHdqt76FvWV8EFSPtDV) | 1:47 | 2024-03-02 |  |
+| [KRVSH!](https://open.spotify.com/track/1mVlzw3sHcyhMDFKwj2SEy) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [KRVSH!](https://open.spotify.com/album/65kyqMMsojSFxxSTdRt3Wt) | 1:43 | 2024-04-19 |  |
 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 | 2024-01-29 |  |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2024-01-29 |  |
 | [MAKE UP \(FBL\)](https://open.spotify.com/track/6KYhmIY3N11aSweAZdZwDs) | [Japssii](https://open.spotify.com/artist/0hbaN5CWD4d7U0U98AxbBU) | [MAKE UP \(FBL\)](https://open.spotify.com/album/5WPQSiRMmFpe1A19A8SqI8) | 1:14 | 2024-03-08 | 2024-03-10 |
@@ -127,7 +128,7 @@
 | [У мамы есть секрет](https://open.spotify.com/track/2d14PCvGkNZQ9oWzj27iBt) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [У мамы есть секрет](https://open.spotify.com/album/0d4DGxYF0uDiK2kl8BAnyC) | 2:44 | 2024-03-12 | 2024-03-15 |
 | [У меня свег, у меня стиль](https://open.spotify.com/track/0yieEy5KmWrGZZpijadoaX) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Платина](https://open.spotify.com/album/7knOFjfoZgvKFymD31Y7jN) | 1:47 | 2024-04-06 | 2024-04-08 |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-19 |
-| [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 |  |
+| [Утро](https://open.spotify.com/track/0aKl63MnUIVKkXlVtp2vLr) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Радио огонь](https://open.spotify.com/album/5Zzj1GE0qY6yyewhe5jwMc) | 2:27 | 2024-03-07 | 2024-04-20 |
 | [фенибут 2.0](https://open.spotify.com/track/4YfWMQ0M3FYOh71etUTmO7) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:29 | 2024-04-16 |  |
 | [фенибут 2.0 \- speed up](https://open.spotify.com/track/5ktnJaccf1XbHRws28PlyK) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут 2.0](https://open.spotify.com/album/102uVTPFXr32GnnmD2piYL) | 1:15 | 2024-04-06 |  |
 | [ХАЙЕГОХО](https://open.spotify.com/track/5DIprzXMd8Ot7RSVe50qfq) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [JAZZ DO IT](https://open.spotify.com/album/54qJYajtPSQ350ArxQmmcU) | 1:36 | 2024-04-13 | 2024-04-17 |

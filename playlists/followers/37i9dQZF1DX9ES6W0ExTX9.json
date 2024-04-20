@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 351062,
+  "2024-04-20": 351243,
   "date_first_scraped": "2023-10-23",
   "description": "Can you survive? Listen to the music from and inspired by FNAF. ",
   "name": "Five Nights at Freddy's Official Playlist",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/2ItNKt19iqefEe590Z9GeE"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 165831,
       "name": "Five Nights at Freddy's",
       "url": "https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR"
@@ -507,6 +507,24 @@
       "duration_ms": 210000,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/5iaDOrWLCyewyzoB9bLE4n"
+    },
+    {
+      "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/07HCUJzOLakHtftpKEKa5G"
+      },
+      "artists": [
+        {
+          "name": "Shadrow",
+          "url": "https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/2FfRcyV3BoxU5jZwyaQfNT"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 531977,
+  "2024-04-20": 532016,
   "date_first_scraped": "2021-12-21",
   "description": "Indie jams that sound like lounging under the sun with friends. ",
   "name": "Park Hangs",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 183666,
       "name": "25MPH",
       "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 212830,
       "name": "All Over This Party",
       "url": "https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148192,
       "name": "Beach Bummer",
       "url": "https://open.spotify.com/track/1EEon0WCgeb8cTUbqo6qlq"
@@ -383,6 +383,24 @@
       "duration_ms": 148192,
       "name": "Beach Bummer",
       "url": "https://open.spotify.com/track/4loxhrC7MqARWyHLofmhtW"
+    },
+    {
+      "album": {
+        "name": "Junie",
+        "url": "https://open.spotify.com/album/35o1xFjA5CLCF5fNaIbk1b"
+      },
+      "artists": [
+        {
+          "name": "Hanna Mars",
+          "url": "https://open.spotify.com/artist/30dv12QYVsWO5OMPdoephN"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178317,
+      "name": "Beanie Baby Blues",
+      "url": "https://open.spotify.com/track/1NrqHMBUoOn2R5iyvvL44G"
     },
     {
       "album": {
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "bootleg jordans",
       "url": "https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128129,
       "name": "Cleaner Air",
       "url": "https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227234,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280878,
       "name": "Disco Yes",
       "url": "https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171696,
       "name": "Electric U",
       "url": "https://open.spotify.com/track/1h3ODYcDJly0H53W2Ai42Q"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283190,
       "name": "Everything Is Just a Mess",
       "url": "https://open.spotify.com/track/2OMlPoee6u5IJzWTXhS2jN"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149944,
       "name": "freetime",
       "url": "https://open.spotify.com/track/5jwZ3lqPkYBYECY9v08fsl"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 208243,
       "name": "Gaims",
       "url": "https://open.spotify.com/track/33QRZ83m8m6l7dO8Qx0mvn"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
@@ -2354,6 +2372,28 @@
     },
     {
       "album": {
+        "name": "in the morning",
+        "url": "https://open.spotify.com/album/23OzYmy1eo98Q4Q81MiV3Z"
+      },
+      "artists": [
+        {
+          "name": "Peter Kuli",
+          "url": "https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV"
+        },
+        {
+          "name": "Willy P",
+          "url": "https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "in the morning",
+      "url": "https://open.spotify.com/track/7lMsXRZwZmZjdVOWVX1sCl"
+    },
+    {
+      "album": {
         "name": "2 Be & In Your Mind",
         "url": "https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe"
       },
@@ -2365,7 +2405,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz"
@@ -2495,7 +2535,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 230310,
       "name": "Keep On Calling",
       "url": "https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P"
@@ -2535,6 +2575,28 @@
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
+    },
+    {
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/4OFpJuysTqCDoZISfmEkAC"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197493,
+      "name": "Kids feat. KYLE",
+      "url": "https://open.spotify.com/track/2hNBhYGXQbq9KHYvK2itFY"
     },
     {
       "album": {
@@ -2845,7 +2907,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/5mlirWXPq6KoroAUgy6Wdq"
@@ -2917,7 +2979,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162663,
       "name": "Metamodernity",
       "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
@@ -2975,7 +3037,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 148360,
       "name": "Mood",
       "url": "https://open.spotify.com/track/21PaOSZdsh7DToHW6d5B38"
@@ -3047,7 +3109,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183907,
       "name": "Movie Screen",
       "url": "https://open.spotify.com/track/1OEEIcF2Q2aK0zZNnFmc05"
@@ -3065,7 +3127,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303373,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
@@ -3123,7 +3185,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215625,
       "name": "Napkins",
       "url": "https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP"
@@ -3261,7 +3323,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 252797,
       "name": "Nothing Works",
       "url": "https://open.spotify.com/track/1ovHiPLgMF3NCcu6OgpX90"
@@ -3301,6 +3363,28 @@
       "duration_ms": 199232,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
+    },
+    {
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/3jhmyqo90UQYCnPGhenR4X"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261461,
+      "name": "Off the Lot (feat. Mereba)",
+      "url": "https://open.spotify.com/track/4APWjGMsSGdJg0l2t4QoW0"
     },
     {
       "album": {
@@ -3399,7 +3483,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 264300,
       "name": "Pack of Gum",
       "url": "https://open.spotify.com/track/0PACdf6vCQee3ICq02EWlf"
@@ -3497,7 +3581,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132915,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE"
@@ -3627,7 +3711,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224933,
       "name": "Put a Light On",
       "url": "https://open.spotify.com/track/1M8HqdQbTxkUn1NaY6329V"
@@ -3942,6 +4026,24 @@
     },
     {
       "album": {
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
+    },
+    {
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -3997,7 +4099,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130714,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1"
@@ -4099,7 +4201,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311000,
       "name": "Shadow Man",
       "url": "https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC"
@@ -4307,7 +4409,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "soulboy",
       "url": "https://open.spotify.com/track/4Gkr7ol2xye6fPlBPRJo4R"
@@ -4325,7 +4427,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 201056,
       "name": "Southside",
       "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
@@ -4437,7 +4539,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218400,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
@@ -4665,7 +4767,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
@@ -4793,7 +4895,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/00la3AttWg75aLlKhJT8Tj"
@@ -4837,7 +4939,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
@@ -4859,7 +4961,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX"
@@ -5123,7 +5225,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178066,
       "name": "Two Worlds Apart",
       "url": "https://open.spotify.com/track/34qvgmIagzNQdZTRL2poiv"
@@ -5181,7 +5283,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 222773,
       "name": "Vintage - Flight Facilities Remix",
       "url": "https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x"
@@ -5403,7 +5505,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162379,
       "name": "Who Am I But Someone",
       "url": "https://open.spotify.com/track/2aIMQ8exqALB45htgOenLF"

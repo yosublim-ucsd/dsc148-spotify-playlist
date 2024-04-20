@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 13075,
+  "2024-04-20": 13074,
   "date_first_scraped": "2023-08-09",
   "description": "\u00a1Nos vemos el 16, 17 y 18 de Febrero en Las Estacas para celebrar juntos! Compra tus entradas <a href=\"https://bahidora.com//\"> aqu\u00ed</a>. ",
   "name": "Bahidor\u00e1 2024",
@@ -2699,7 +2699,7 @@
     {
       "album": {
         "name": "Na Kozonga",
-        "url": "https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0"
+        "url": "https://open.spotify.com/album/71JxwyZOpB4SgsgfzNyvoD"
       },
       "artists": [
         {
@@ -2710,6 +2710,24 @@
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179487,
+      "name": "Na Kozonga",
+      "url": "https://open.spotify.com/track/2xuiFU7C86h6eDb4Tw3HJO"
+    },
+    {
+      "album": {
+        "name": "Na Kozonga",
+        "url": "https://open.spotify.com/album/4SgDBBS8LUgy7Wmxo3Lam0"
+      },
+      "artists": [
+        {
+          "name": "Jupiter & Okwess",
+          "url": "https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 179487,
       "name": "Na Kozonga",
       "url": "https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145713,
       "name": "Phonkay",
       "url": "https://open.spotify.com/track/7pX107w1oLawMhoBvNnr6e"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 145714,
       "name": "Phonkay",
       "url": "https://open.spotify.com/track/7Gi8tO48Xe7IcgiVXTqs1x"
@@ -3717,7 +3735,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 215412,
       "name": "si preguntas por mi",
       "url": "https://open.spotify.com/track/7z3rdMzhY122waIpkSsE7P"

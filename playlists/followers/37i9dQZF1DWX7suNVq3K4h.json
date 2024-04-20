@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 178573,
+  "2024-04-20": 178623,
   "date_first_scraped": "2022-04-19",
   "description": "Relaxing Mozart to soothe you and your baby. ",
   "name": "Mozart for Babies",
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 459000,
       "name": "Bassoon Concerto In B Flat, K.191: 2. Andante ma adagio - Cadenza: Dietmar Zeman",
       "url": "https://open.spotify.com/track/4DDNZesn4zABDeOeVps5Xt"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 459000,
       "name": "Bassoon Concerto in B-Flat Major, K. 191: II. Andante ma adagio - Cadenza: Dietmar Zeman",
       "url": "https://open.spotify.com/track/3FHSkQOuRdktWZEkb9iM89"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 464973,
       "name": "Divertimento No. 10 in F Major, K. 247, \"Lodron Night Music No. 1\": IV. Adagio",
       "url": "https://open.spotify.com/track/4cS11p2PZMhjCJx3PJxF8m"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 464973,
       "name": "Divertimento No. 10 in F Major, K. 247: IV. Adagio",
       "url": "https://open.spotify.com/track/3e0mbSoiRg8oyTPJ2FxHnJ"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 316653,
       "name": "Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 397786,
       "name": "Flute Concerto No. 2 in D Major, K. 314: II. Andante ma non troppo",
       "url": "https://open.spotify.com/track/13wZFvlfcsX8Pq5tu2ius4"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397786,
       "name": "Flute Concerto No. 2 in D Major, K. 314: II. Andante ma non troppo",
       "url": "https://open.spotify.com/track/23AOhtylpYvZ76TCzU0j6p"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216146,
       "name": "Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante",
       "url": "https://open.spotify.com/track/2d3PU6nAZfCRztLoXIccKW"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216146,
       "name": "Horn Concerto No. 2 in E-Flat Major, K. 417: II. Andante",
       "url": "https://open.spotify.com/track/4V6sBosrQDKi92lyuK0Sod"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 260986,
       "name": "Horn Concerto No. 3 in E-Flat Major, K. 447: II. Romance. Larghetto",
       "url": "https://open.spotify.com/track/1ackWWwq3eM3QflxAgTHG2"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260986,
       "name": "Horn Concerto No. 3 in E-Flat Major, K. 447: II. Romance: Larghetto",
       "url": "https://open.spotify.com/track/5H36Hfqn9N8QSx8TBBX0at"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269360,
       "name": "Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romance. Andante cantabile",
       "url": "https://open.spotify.com/track/18VOosUe2bahT0LgvSCSTd"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269360,
       "name": "Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romance: Andante cantabile",
       "url": "https://open.spotify.com/track/7scYpyAUHLgqS20Yxb1HWx"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282493,
       "name": "Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romanza (Andante cantabile)",
       "url": "https://open.spotify.com/track/00vOdEvR4Tc70EkWherEny"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 319973,
       "name": "Mozart: Fantasia in D Minor, K. 397",
       "url": "https://open.spotify.com/track/1O0XZAJf8fIN7wRgXffL0P"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282493,
       "name": "Mozart: Horn Concerto No. 4 in E-Flat Major, K. 495: II. Romance. Andante cantabile",
       "url": "https://open.spotify.com/track/5fz765COUg9h2zX2g19Nid"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 456400,
       "name": "Piano Concerto No. 12 in A Major, K. 414: II. Andante",
       "url": "https://open.spotify.com/track/24Y4um6M2d4huD6Lx4aHcv"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456400,
       "name": "Piano Concerto No. 12 in A Major, K. 414: II. Andante",
       "url": "https://open.spotify.com/track/5c93FTvb9z2PGqWvQlNthN"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258466,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/2wZktCFcNrvxle7jWXDv8c"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 258466,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/2y2JgBXBIo5RGoWJFHyCzr"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 397386,
       "name": "Piano Sonata No. 15 in F Major, K. 533: III. Rondo",
       "url": "https://open.spotify.com/track/4XjJ78EbSyMHo7LYxMmkk6"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 397386,
       "name": "Piano Sonata No. 15 in F Major, K. 533: III. Rondo: Allegretto, K. 494",
       "url": "https://open.spotify.com/track/4ifQr4rMgN5brImUHTCyjV"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401760,
       "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/1QJMj7aZPABjqB86zucpzB"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 401760,
       "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/4VQ6AvYNUoKL7Tj2pQnoNz"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 592852,
       "name": "Piano Sonata No. 8 in A Minor, K. 310: II. Andante cantabile con espressione",
       "url": "https://open.spotify.com/track/1bW9h3vWoJVXyZK7em3noV"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 592852,
       "name": "Piano Sonata No. 8 in A Minor, K. 310: II. Andante cantabile con espressione",
       "url": "https://open.spotify.com/track/4ZMWxDenfokiahMiGGDAcO"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 330000,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/0XkcuWNLacWDwEDmvq4CCy"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 330293,
       "name": "Serenade in B-Flat Major, K. 361 \"Gran Partita\": III. Adagio",
       "url": "https://open.spotify.com/track/5Zf5prtvv7KRQ1J6kNn4C6"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361000,
       "name": "Serenade No. 11 in E-Flat Major, K. 375: III. Adagio",
       "url": "https://open.spotify.com/track/3wc9LRfX1qWr5yRpXbvPKW"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 361000,
       "name": "Serenade No. 11 in E-Flat Major, K. 375: III. Adagio",
       "url": "https://open.spotify.com/track/3y2zgAXVwU5NfcyUVsvTxc"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251200,
       "name": "Serenade No. 12 in C Minor, K. 388: II. Andante",
       "url": "https://open.spotify.com/track/2jTXrav9Voj0FpdT2yUIuH"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251200,
       "name": "Serenade No. 12 in C Minor, K. 388: II. Andante",
       "url": "https://open.spotify.com/track/5jahnGcLiUJ534BdDmmgwq"
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romance",
       "url": "https://open.spotify.com/track/6u3UVuVTsLY3K1phDc3RH6"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romanze: Andante",
       "url": "https://open.spotify.com/track/7JAX6pO5DuIXQC68mCO6H8"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 563000,
       "name": "Sonata for 2 Pianos in D Major, K. 448/375a: II. Andante",
       "url": "https://open.spotify.com/track/2WH8jAfo67uNTZ0Ezq2AbM"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 561000,
       "name": "Sonata for 2 pianos in D, K.448: 2. Andante",
       "url": "https://open.spotify.com/track/48I99KUopQ2TOvU3uFL0rz"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 456000,
       "name": "Sonata for Keyboard and Violin No. 23 in D Major, K. 306: II. Andantino cantabile",
       "url": "https://open.spotify.com/track/3ZU2i3wI7SmQfoe3FI360L"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 337586,
       "name": "Sonata for Piano and Violin in E Minor, K. 304: II. Tempo di minuetto",
       "url": "https://open.spotify.com/track/4DsbdOinvRPoD2ax4DhxMU"
@@ -1581,7 +1581,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 337586,
       "name": "Sonata for Piano and Violin in E Minor, K. 304: II. Tempo di minuetto",
       "url": "https://open.spotify.com/track/5PuX2GQai2jADwE4begkfJ"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279240,
       "name": "String Quartet No. 12 in B-Flat Major, K. 172: II. Adagio",
       "url": "https://open.spotify.com/track/0sG7UZ3veHi1o3BkNqmigG"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279240,
       "name": "String Quartet No. 12 in B-Flat Major, K. 172: II. Adagio",
       "url": "https://open.spotify.com/track/7Ai1RkNBGTu08R3MOeOQso"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 462880,
       "name": "String Quartet No. 14 in G Major, K. 387 \"Spring\": III. Andante cantabile",
       "url": "https://open.spotify.com/track/6YoOXJyamFrIhkLJXAPJnR"
@@ -1665,7 +1665,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 462880,
       "name": "String Quartet No. 14 in G Major, K. 387: III. Andante cantabile",
       "url": "https://open.spotify.com/track/10sEfHy8IUzqtuiumsBY3E"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 455426,
       "name": "String Quartet No. 15 in D Minor, K. 421: II. Andante",
       "url": "https://open.spotify.com/track/2DewJxq643GZgg67l1wYUm"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 455426,
       "name": "String Quartet No. 15 in D Minor, K. 421: II. Andante",
       "url": "https://open.spotify.com/track/2ed7BSiaCaSxfIU1ehLLzJ"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 454760,
       "name": "String Quartet No. 19 in C Major, K. 465, \"Dissonance\": II. Andante cantabile",
       "url": "https://open.spotify.com/track/3WhFUJLXtLSzrJ71Pm1yLr"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 454760,
       "name": "String Quartet No. 19 in C Major, K. 465, \"Dissonance\": II. Andante cantabile",
       "url": "https://open.spotify.com/track/6O7iXmIucRXi1ZmCS9jaat"
@@ -1793,7 +1793,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256079,
       "name": "String Quartet No. 2 in D Major, K. 155: II. Andante",
       "url": "https://open.spotify.com/track/0FDB6WK117Zy82eHWtiDTP"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256079,
       "name": "String Quartet No. 2 in D Major, K. 155: II. Andante",
       "url": "https://open.spotify.com/track/5ZtMYcOzhOL6UBYussfW8Y"
@@ -1837,7 +1837,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268546,
       "name": "String Quartet No. 21 in D Major, K. 575 \"Prussian No. 1\": II. Andante",
       "url": "https://open.spotify.com/track/57NukaDeBZfnJnM7aUmLM4"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268546,
       "name": "String Quartet No. 21 in D Major, K. 575, \"Prussian No. 1\": II. Andante",
       "url": "https://open.spotify.com/track/7tPmBwMQpAKHhcsXujduYs"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 546400,
       "name": "String Quintet No. 3 in C Major, K. 515*: II. Andante",
       "url": "https://open.spotify.com/track/3BYhyLzNIvSaFY2jGomMKr"
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 546400,
       "name": "String Quintet No. 3 in C Major, K. 515: II. Andante",
       "url": "https://open.spotify.com/track/1lcB4nlJMbXGRlPULJf22E"
@@ -1981,7 +1981,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "Symphony No. 14 in A Major, K. 114: II. Andante",
       "url": "https://open.spotify.com/track/0qnytyAJxRsfhHnwcHaKgL"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245533,
       "name": "Symphony No. 14 in A Major, K. 114: II. Andante",
       "url": "https://open.spotify.com/track/7LfMLcgllBbSXVMFhJsjYI"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333000,
       "name": "Symphony No. 28 in C Major, K. 200*: II. Andante",
       "url": "https://open.spotify.com/track/7pGs5QLEHfRwMPqXpb2q1O"
@@ -2111,7 +2111,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 333000,
       "name": "Symphony No. 28 in C Major, K. 200: II. Andante",
       "url": "https://open.spotify.com/track/7va2xRMFprSkJAjPvFipvF"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 418000,
       "name": "Symphony No. 36 in C Major, K. 425 \"Linz\": II. Poco adagio",
       "url": "https://open.spotify.com/track/5BMclwJF1sh8Lv3lHXa7GM"
@@ -2163,7 +2163,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 418000,
       "name": "Symphony No. 36 in C Major, K. 425 \"Linz\": II. Poco adagio",
       "url": "https://open.spotify.com/track/6evV5t20lKsP8Hczy7fBpB"
@@ -2235,7 +2235,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256200,
       "name": "Vesperae solennes de confessore, K. 339: Laudate Dominum",
       "url": "https://open.spotify.com/track/1P4P6FJh734Fh2jF6GZ13A"
@@ -2281,7 +2281,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256200,
       "name": "Vesperae solennes de confessore, K. 339: V. Laudate Dominum",
       "url": "https://open.spotify.com/track/7aHOmybSL7OvujPad7cBDW"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 502920,
       "name": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio",
       "url": "https://open.spotify.com/track/3oi0pyF5otzhaZIx76VF5n"
@@ -2341,7 +2341,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 502920,
       "name": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio",
       "url": "https://open.spotify.com/track/6krzysaTzM9L9W2z7T4kNF"
@@ -2397,7 +2397,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 320000,
       "name": "Violin Sonata No. 17 in C Major, K. 296: II. Andante sostenuto",
       "url": "https://open.spotify.com/track/1NkhckJVoUKz6jceHYrHUF"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Violin Sonata No. 17 in C Major, K. 296: II. Andante sostenuto",
       "url": "https://open.spotify.com/track/5ZCSahKtRkp3jgILTl6Tcj"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Violin Sonata No. 19 in E-Flat Major, K. 302: II. Rondo. Andante grazioso",
       "url": "https://open.spotify.com/track/32kUj6OJj8n6MWgvoCvMwF"
@@ -2501,7 +2501,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 368000,
       "name": "Violin Sonata No. 19 in E-Flat Major, K. 302: II. Rondo: Andante grazioso",
       "url": "https://open.spotify.com/track/3YMYaAdUE3FywuM7ZEZ6VI"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 456000,
       "name": "Violin Sonata No. 23 in D Major, K. 306: II. Andantino cantabile",
       "url": "https://open.spotify.com/track/0RedD2YytlbOEt1fMNDjkL"
@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 398466,
       "name": "Violin Sonata No. 26 in B-Flat Major, K. 378: II. Andantino sostenuto e cantabile",
       "url": "https://open.spotify.com/track/1QyuDm8nSVRXZ42u8El7wg"
@@ -2605,7 +2605,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 398466,
       "name": "Violin Sonata No. 26 in B-Flat Major, K. 378: II. Andantino sostenuto e cantabile",
       "url": "https://open.spotify.com/track/4YRl9A8ANaZxZ46ygEEnuW"

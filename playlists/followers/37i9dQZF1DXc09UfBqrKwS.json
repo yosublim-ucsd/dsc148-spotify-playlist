@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 99299,
+  "2024-04-20": 99290,
   "date_first_scraped": "2023-04-07",
   "description": "hora d hacer la meme",
   "name": "mimir",
@@ -6055,10 +6055,32 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127723,
       "name": "Suavizar El Dolor",
       "url": "https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot"
+    },
+    {
+      "album": {
+        "name": "Suavizar el Dolor",
+        "url": "https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "date_added": "2024-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127723,
+      "name": "Suavizar el Dolor",
+      "url": "https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio"
     },
     {
       "album": {

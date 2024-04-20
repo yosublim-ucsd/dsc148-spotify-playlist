@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Deepack
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,302 likes - 110 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,356 likes - 110 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 3 | [Legends Of Tomorrow](https://open.spotify.com/track/4EK1akQh1ogVg4bEttgIRW) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Kirsten](https://open.spotify.com/artist/2NMTLnuQmdjXGkXijepEgL) | [Legends Of Tomorrow](https://open.spotify.com/album/7fHEHsdw8FGlTEIqa9ZKU9) | 3:21 |
 | 4 | [Warrior](https://open.spotify.com/track/4C38Ho0CQ5Te98cjDWASTl) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Warrior](https://open.spotify.com/album/6tJQXtb3xjCzi74z5nXMcs) | 2:36 |
 | 5 | [T Kortste Eind \(Official Kamping Kitsch Club Anthem\)](https://open.spotify.com/track/1ibiZukMi3ttKI37rUwO2U) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Kamping Kitsch Club Soundsystem](https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG) | [T Kortste Eind \(Official Kamping Kitsch Club Anthem\)](https://open.spotify.com/album/0jEo2cPacCmxOlMBMsi3tf) | 2:44 |
-| 6 | [Reject Authority](https://open.spotify.com/track/6XWkProtffPtfMF7NpXP8A) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Last Word](https://open.spotify.com/artist/7H5TWJGIBPrOV5qbchyD6e) | [Reject Authority](https://open.spotify.com/album/3zBSxjPiKHZO3Ock0hTMO3) | 3:02 |
+| 6 | [Reject Authority](https://open.spotify.com/track/6XWkProtffPtfMF7NpXP8A) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Reject Authority](https://open.spotify.com/album/3zBSxjPiKHZO3Ock0hTMO3) | 3:02 |
 | 7 | [SNUIFBEZORGD](https://open.spotify.com/track/00dipGdUu4LKZDBTmsqQYP) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf) | [SNUIFBEZORGD](https://open.spotify.com/album/32X4SkRQN16nGT1dRRZQ5C) | 2:36 |
 | 8 | [Never Go To Sleep](https://open.spotify.com/track/7qnQYdTfkTeSjv3yv41Yvp) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Never Go To Sleep](https://open.spotify.com/album/00VujTlzhoi39Bijteh2LD) | 2:40 |
 | 9 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 |

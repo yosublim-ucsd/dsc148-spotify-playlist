@@ -473,6 +473,32 @@
     },
     {
       "album": {
+        "name": "Ghar Aao Na (Techno Mix)",
+        "url": "https://open.spotify.com/album/71OwS0R4npYcuUX9YEXQ5b"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "DJ Nyk",
+          "url": "https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257463,
+      "name": "Ghar Aao Na (Techno Mix)",
+      "url": "https://open.spotify.com/track/4Cz7oBICpLdh5LTdpbGLz0"
+    },
+    {
+      "album": {
         "name": "Hear Me Say",
         "url": "https://open.spotify.com/album/417EogpR9OgLqitc96gBby"
       },

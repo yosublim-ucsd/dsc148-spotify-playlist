@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 145188,
+  "2024-04-20": 145199,
   "date_first_scraped": "2022-02-05",
   "description": "Lovely, acoustic pop. Cover: Taylor Swift",
   "name": "Acoustic Pop",
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 142440,
       "name": "Good To Be (Acoustic)",
       "url": "https://open.spotify.com/track/1y7Ymq9FEjAE3IgwdLYpP4"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142440,
       "name": "Good To Be (Acoustic)",
       "url": "https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh"
@@ -1789,7 +1789,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 211111,
       "name": "How To Save A Life",
       "url": "https://open.spotify.com/track/0OfJNkSwSLUxEywRxQ3ose"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211111,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/2Q7ZNu0GWr9Lr5uoxoQ6oh"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/0yyFpden41F1GBOjst2KkZ"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 285902,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3bQvXxexTD0T8OYhrJPJzh"
@@ -2523,7 +2523,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218449,
       "name": "Kiss Me - Guitar",
       "url": "https://open.spotify.com/track/0X2DSuFNxMdw6Gr4XZcTqJ"
@@ -2541,7 +2541,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 218449,
       "name": "Kiss Me - Guitar",
       "url": "https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp"
@@ -2613,7 +2613,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223429,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3"
@@ -2631,7 +2631,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 223429,
       "name": "Latch - Acoustic",
       "url": "https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr"
@@ -3779,7 +3779,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-21",
+      "date_removed": null,
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/4cJfy4NKPrgJuT95gruimF"
@@ -3797,7 +3797,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208066,
       "name": "SNAP - Acoustic",
       "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"

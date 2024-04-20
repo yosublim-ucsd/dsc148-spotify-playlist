@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Shaya Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,216 likes - 83 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,818 likes - 83 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 14 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 15 | [Floating in the Night](https://open.spotify.com/track/6zaoI9cxWGAyozvMU5HLeG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Floating in the Night](https://open.spotify.com/album/460chVvDygcJD9jvu0FKkl) | 3:41 |
 | 16 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
-| 17 | [hey, honey](https://open.spotify.com/track/3FLwV0IrH5PsMB1LW4HHAC) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX), [Hey‚ Nothing](https://open.spotify.com/artist/5OXnmrYjOXhjj7eL5bUgHk) | [The 502s](https://open.spotify.com/album/3uNdSCudRJ4aagWtWh839E) | 3:16 |
+| 17 | [hey, honey](https://open.spotify.com/track/3FLwV0IrH5PsMB1LW4HHAC) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX), [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [The 502s](https://open.spotify.com/album/3uNdSCudRJ4aagWtWh839E) | 3:16 |
 | 18 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
 | 19 | [Say I](https://open.spotify.com/track/0Ce1uvHTCRazNpIj6JVbO6) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Say I](https://open.spotify.com/album/5YMxs5DlTKY6ayKp6mFegb) | 2:45 |
 | 20 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 |

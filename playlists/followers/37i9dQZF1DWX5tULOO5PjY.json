@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 31038,
+  "2024-04-20": 31057,
   "date_first_scraped": "2022-08-06",
   "description": "80s electronic boogie and post-disco",
   "name": "80s Boogie",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291596,
       "name": "Boogie's Gonna Get Ya",
       "url": "https://open.spotify.com/track/73d5pFuEPATPXuKROhVITY"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 291626,
       "name": "Boogies Gonna Get Ya",
       "url": "https://open.spotify.com/track/32Mu2PQSnL2HFcBasP6NEq"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 502035,
       "name": "Don't Make Me Wait (MAW Main) ( 2016 - Remaster)",
       "url": "https://open.spotify.com/track/7mXVDv3vFhJzfFaMT2AAay"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 502035,
       "name": "Don't Make Me Wait - MAW Main; 2016 - Remaster",
       "url": "https://open.spotify.com/track/6cAHBfBDjtfNUAaQrr0SFf"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 370893,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/0rc9Uwm4vmnQEfx5omLWWF"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 370893,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp"
@@ -407,6 +407,24 @@
       "duration_ms": 347834,
       "name": "Feelin' Lucky Lately - Remastered",
       "url": "https://open.spotify.com/track/3eO590MvMxfHYBNFCVsUK6"
+    },
+    {
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/0CpKwwxcosSey6YRRCXESH"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409520,
+      "name": "Feels So Real (Won't Let Go)",
+      "url": "https://open.spotify.com/track/1By78kkp659I6PkaO0avAC"
     },
     {
       "album": {
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 409648,
       "name": "Feels So Real (Won't Let Go) - 12\" Version",
       "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
@@ -537,7 +555,7 @@
     {
       "album": {
         "name": "With Love",
-        "url": "https://open.spotify.com/album/1rj8M1ano07y53htwMsCem"
+        "url": "https://open.spotify.com/album/4qMmZxZDurWikXhqyFu5xI"
       },
       "artists": [
         {
@@ -548,6 +566,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 319466,
+      "name": "He's a Freak Undercover",
+      "url": "https://open.spotify.com/track/1wNweHZuLkmuzlNOoleFOE"
+    },
+    {
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1rj8M1ano07y53htwMsCem"
+      },
+      "artists": [
+        {
+          "name": "Fatback Band",
+          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 319466,
       "name": "He's a Freak Undercover",
       "url": "https://open.spotify.com/track/2WFS0puLBFzV698XkYbt3Z"
@@ -565,7 +601,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 293994,
       "name": "High",
       "url": "https://open.spotify.com/track/0tQ92AMarYMFFcLnJPjBCT"
@@ -583,7 +619,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293994,
       "name": "High",
       "url": "https://open.spotify.com/track/6yLDffyb831xAuyjL0kOTI"
@@ -771,7 +807,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333148,
       "name": "Let's Celebrate",
       "url": "https://open.spotify.com/track/3S9X1wYuzcISeZbdowhMnn"
@@ -789,7 +825,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 333173,
       "name": "Let's Celebrate",
       "url": "https://open.spotify.com/track/3nf3xKlene4BpKqaCrdtwQ"
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 363157,
       "name": "You Can't Have Your Cake and Eat It Too (Alternate Mix) ( 2012 - Remaster)",
       "url": "https://open.spotify.com/track/7Fg1OMNNlJD6UjDh8rLEuT"
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 363160,
       "name": "You Can't Have Your Cake and Eat It Too - Vocal",
       "url": "https://open.spotify.com/track/7kYW2EsK6YV6gwB32HmbeI"

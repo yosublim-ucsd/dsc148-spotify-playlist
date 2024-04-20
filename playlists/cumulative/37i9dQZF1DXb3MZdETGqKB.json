@@ -3461,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "Queen Of The Road",
+        "url": "https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Sophia Urista",
+          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225068,
+      "name": "Queen Of The Road",
+      "url": "https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0"
+    },
+    {
+      "album": {
         "name": "Racing To A Red Light",
         "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },

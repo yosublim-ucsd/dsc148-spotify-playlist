@@ -1,12 +1,12 @@
 {
   "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
-  "num_followers": 15131,
+  "num_followers": 15127,
   "original_name": "This Is Maaya Sakamoto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDkyY2Y2NTQyMGQxNjBmNWI4ZjJkMmZiYzY1YTFkOThk",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDY4MDM0YmFjYTUwNjFlNjhlNjBkMGNhMzdmN2QzOWEw",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u79c1\u304b\u3099\u77e5\u3063\u3066\u3044\u308b5\u3064\u306e\u65b9\u6cd5/\u8272\u5f69",
-        "url": "https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "\u8272\u5f69",
-      "url": "https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9006\u5149",
         "url": "https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 288666,
       "name": "\u9006\u5149",
       "url": "https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5e78\u305b\u306b\u3064\u3044\u3066\u79c1\u304b\u3099\u77e5\u3063\u3066\u3044\u308b5\u3064\u306e\u65b9\u6cd5/\u8272\u5f69",
+        "url": "https://open.spotify.com/album/4f2jYtFDHK66bUVSSzD6MD"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "\u8272\u5f69",
+      "url": "https://open.spotify.com/track/3SbOOdiONumSVvLtsSBKOt"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOLF'S RAIN",
-        "url": "https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 203233,
-      "name": "gravity",
-      "url": "https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u62b1\u304d\u3057\u3081\u3066",
         "url": "https://open.spotify.com/album/5c44hFzL4fj1h6P6uhgREi"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 287033,
       "name": "\u62b1\u304d\u3057\u3081\u3066",
       "url": "https://open.spotify.com/track/2vETGnAnQLNQFl6VR84Bfo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOLF'S RAIN",
+        "url": "https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 203233,
+      "name": "gravity",
+      "url": "https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l"
     },
     {
       "added_at": null,

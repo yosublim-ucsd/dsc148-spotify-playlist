@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 58248,
+  "2024-04-20": 58238,
   "date_first_scraped": "2023-12-14",
   "description": "\u4eca\u5e74\u306e\u51ac\u306b\u3074\u3063\u305f\u308a\u306a\u3001\"\u30cf\u30c3\u30d4\u30fc\"\u306a\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b7\u30f3\u30b0\u30b9 Christmas Things",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220886,
       "name": "3 Minutes 'Til New Years",
       "url": "https://open.spotify.com/track/3z3bA1b0df9exR6yc9rChM"
+    },
+    {
+      "album": {
+        "name": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Ykgv5ZADfbU5WgwZkWYIJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220886,
+      "name": "3 Minutes 'Til New Years",
+      "url": "https://open.spotify.com/track/5wdlnI4So6CXuWAf17ffpt"
     },
     {
       "album": {
@@ -114,6 +132,24 @@
     },
     {
       "album": {
+        "name": "Kerst Hits Top 100 - TOP 40 HITDOSSIER",
+        "url": "https://open.spotify.com/album/4Z94GGol9n2V8tpzGEwqro"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/7z10BGU6HjSmIjqf8rOnyU"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -125,7 +161,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153240,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
@@ -235,10 +271,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179426,
       "name": "Christmas the Whole Year Round",
       "url": "https://open.spotify.com/track/065CI94mu3IZwqPU4BX4Cb"
+    },
+    {
+      "album": {
+        "name": "Christmas the Whole Year Round",
+        "url": "https://open.spotify.com/album/7fcezr1c3mi45pst3hfJad"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Christmas the Whole Year Round",
+      "url": "https://open.spotify.com/track/7vSeyFV11gbIMDYzsN18Nu"
     },
     {
       "album": {
@@ -325,10 +379,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213314,
       "name": "Dynamite (Holiday Remix)",
       "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
+    },
+    {
+      "album": {
+        "name": "Dynamite (Holiday Remix)",
+        "url": "https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213314,
+      "name": "Dynamite - Holiday Remix",
+      "url": "https://open.spotify.com/track/6SM3TJaWkmT8Iq8l9J0BIS"
     },
     {
       "album": {
@@ -350,6 +422,36 @@
     },
     {
       "album": {
+        "name": "Power To The People - The Hits",
+        "url": "https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "The Harlem Community Choir",
+          "url": "https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy"
+        },
+        {
+          "name": "The Plastic Ono Band",
+          "url": "https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
+    },
+    {
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -365,7 +467,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -459,10 +561,28 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3ibjMS5AXh0Dd40WWK473n"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/7x9iKdVpMwtA7nhcpU3Muw"
     },
     {
       "album": {
@@ -557,10 +677,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135206,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B"
+    },
+    {
+      "album": {
+        "name": "Pop Para Navidad",
+        "url": "https://open.spotify.com/album/0sJKd292wKgIkn9cYD8Qje"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135206,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7wpk1O3efw6HMDQeyD45eY"
     },
     {
       "album": {
@@ -727,10 +865,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209183,
       "name": "Love Me Like You - Christmas Mix",
       "url": "https://open.spotify.com/track/5wTRIbgSw1WKNUufanQSab"
+    },
+    {
+      "album": {
+        "name": "Julesange - Julemusik og julehits til julehyggen, julefrokosten og juleaften",
+        "url": "https://open.spotify.com/album/7AqPChbYRYMZocyJIaUDeW"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "Love Me Like You - Christmas Mix",
+      "url": "https://open.spotify.com/track/7zuqxVAql3uljqHXVDtiGb"
     },
     {
       "album": {
@@ -917,6 +1073,28 @@
     {
       "album": {
         "name": "Christmas Songs",
+        "url": "https://open.spotify.com/album/6TrBZsEdcM4SiIAiEEZJbJ"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147861,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/0DdRiJLOcekwfwLlAT79wU"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/0sMsffrWHZtGjJxqddnYYk"
       },
       "artists": [
@@ -931,10 +1109,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148885,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/5yxQAcmVgzVr1PBpm3yF0g"
+    },
+    {
+      "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
     },
     {
       "album": {
@@ -949,7 +1145,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
       "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
@@ -993,6 +1189,24 @@
     {
       "album": {
         "name": "Secret Santa",
+        "url": "https://open.spotify.com/album/05HHEwVss4IDhyBlz0Ijt6"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144230,
+      "name": "Secret Santa",
+      "url": "https://open.spotify.com/track/4RLFhuzugi2DOjxXLJTHek"
+    },
+    {
+      "album": {
+        "name": "Secret Santa",
         "url": "https://open.spotify.com/album/4dmwa7uzj7ISi8GUqJnjTe"
       },
       "artists": [
@@ -1003,7 +1217,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144230,
       "name": "Secret Santa",
       "url": "https://open.spotify.com/track/5cbpeA82zye1B8KUkCi5jw"
@@ -1082,6 +1296,24 @@
     },
     {
       "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30b9\u30d4\u30ea\u30c3\u30c8\uff06SWEET HARMONY",
+        "url": "https://open.spotify.com/album/26Nm8cHyRnjJdwi69EPe5k"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289662,
+      "name": "SWEET HARMONY",
+      "url": "https://open.spotify.com/track/21jV0KutQfOw9SjkK8qii6"
+    },
+    {
+      "album": {
         "name": "CHRISTMAS SPIRIT &SWEET HARMONY",
         "url": "https://open.spotify.com/album/5pT2fiPF2gwfge0CSmS3xn"
       },
@@ -1093,10 +1325,28 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289662,
       "name": "SWEET HARMONY",
       "url": "https://open.spotify.com/track/30rQ7aUu23GphiaVkQfr3P"
+    },
+    {
+      "album": {
+        "name": "Thank You Note",
+        "url": "https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156265,
+      "name": "Thank You Note",
+      "url": "https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug"
     },
     {
       "album": {
@@ -1111,7 +1361,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156265,
       "name": "Thank You Note",
       "url": "https://open.spotify.com/track/67ss3RFo9MIjrdJcyINI0w"
@@ -1230,6 +1480,28 @@
     },
     {
       "album": {
+        "name": "A Legendary Christmas: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160226,
+      "name": "What Christmas Means to Me (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/1k0bj8p3dIkXcyQTG34Mxs"
+    },
+    {
+      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
@@ -1245,7 +1517,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160226,
       "name": "What Christmas Means to Me (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/4hnzXzE7JiU5QAZFF9OUsI"
@@ -1289,6 +1561,24 @@
     {
       "album": {
         "name": "wishlist",
+        "url": "https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1"
+    },
+    {
+      "album": {
+        "name": "wishlist",
         "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
       },
       "artists": [
@@ -1299,7 +1589,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203093,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"

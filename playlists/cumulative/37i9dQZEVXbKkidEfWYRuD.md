@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,451 songs - 2 day 19 hr 9 min
+1,452 songs - 2 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -785,6 +785,7 @@
 | [Zima Blue](https://open.spotify.com/track/6qDSvO2uSPFsQTlItqzxNH) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Zima Blue](https://open.spotify.com/album/5wcO88C0Zi6cCl4rw5KJqD) | 3:02 | 2021-10-03 | 2021-10-08 |
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-24 | 2021-09-24 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-21 |
+| [А я все плакала](https://open.spotify.com/track/6gYFTv081r8gQaC19iiszf) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [LEBIGA](https://open.spotify.com/artist/5QFYXpPnIZPu2OSD9n8BVN) | [А я все плакала](https://open.spotify.com/album/5SBkXFqymV5QTNBWbozv0z) | 2:30 | 2024-04-19 |  |
 | [Абонент \(Prod\. by manyice x blessque\)](https://open.spotify.com/track/7zXZHEkkdT29CmCIAIaoKo) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:18 | 2021-03-27 | 2021-03-29 |
 | [Автомагістралі](https://open.spotify.com/track/1TyGIDpK57pPdg6u9Zlg5j) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Автомагістралі](https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ) | 3:21 | 2023-04-08 | 2023-04-23 |
 | [АВТОМАТ \(feat\. Гуф\)](https://open.spotify.com/track/4QtNvfqd6Vn7GyivMhL8xC) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [GUF](https://open.spotify.com/artist/0OCyDRYamSDX0nSnJ59W1u) | [PUSSY BOY](https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH) | 2:59 | 2021-07-18 | 2021-07-21 |
@@ -1018,7 +1019,7 @@
 | [Как на войне](https://open.spotify.com/track/12Jgi4t8YPs8G858lNGfZm) | [Agatha Christie](https://open.spotify.com/artist/6UvQrW56NzLbUtAKIdTg8N) | [Ностальгия](https://open.spotify.com/album/2orZvcMdBAZrh9iO1SX1FD) | 4:04 | 2023-03-27 | 2023-04-30 |
 | [Как тебя покорить](https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo) | [Перемотка](https://open.spotify.com/artist/3AwNBhYb8tZmJ5m0VIKHp2) | [Начало прекрасной дружбы](https://open.spotify.com/album/1SyTRxa2OlwnzXGyrGtfOU) | 3:38 | 2021-05-11 | 2022-03-04 |
 | [Какая?](https://open.spotify.com/track/0lEQFpuJSpREmNlc2h3PA2) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:56 | 2024-04-01 | 2024-04-15 |
-| [Какая? \(Speed Up\)](https://open.spotify.com/track/2T41OZDWpiz5LTjyP6gZrX) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:40 | 2024-04-01 |  |
+| [Какая? \(Speed Up\)](https://open.spotify.com/track/2T41OZDWpiz5LTjyP6gZrX) | [whyspurky](https://open.spotify.com/artist/1KIeXmQtSdJhogky2IJIFB), [whylovly](https://open.spotify.com/artist/26z9rMtxlbq8pwPJ9FfsFe) | [Какая?](https://open.spotify.com/album/4l5vDIyg4iFAIQ050QMGXc) | 2:40 | 2024-04-01 | 2024-04-20 |
 | [Калека \(Prod\. by VisaGangBeatz x Nastyboy24k\)](https://open.spotify.com/track/3aSgG5KhnoCuVoPOOpmSl6) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 2:16 | 2021-03-27 | 2021-03-29 |
 | [Калуські вечорниці \(feat\. Tember Blanche\)](https://open.spotify.com/track/6keRNvHKCOhmySQa1jCX8P) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Калуські вечорниці \(feat\. Tember Blanche\)](https://open.spotify.com/album/5jA4rmGtIDLtZcSquSwMoW) | 3:00 | 2022-03-18 | 2023-04-19 |
 | [Капли](https://open.spotify.com/track/0LwPFTgtNaQrfyWHM42Z83) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Капли](https://open.spotify.com/album/2G5WhV5vAbitKizDrCX8ry) | 2:40 | 2022-04-16 | 2022-04-25 |

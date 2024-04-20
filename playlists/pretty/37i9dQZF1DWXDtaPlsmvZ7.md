@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,067 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,986 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 35 | [Que No Quede Huella](https://open.spotify.com/track/130fvcSaaPEqqwVAvaHfQK) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Que No Quede Huella](https://open.spotify.com/album/2okjeW5I1Bsox3nHC8hXtb) | 3:49 |
 | 36 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
 | 37 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
-| 38 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
-| 39 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
+| 38 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
+| 39 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
 | 40 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
 | 41 | [Ya Me Enteré](https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Ya Me Enteré](https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk) | 3:06 |
 | 42 | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr) | 3:08 |

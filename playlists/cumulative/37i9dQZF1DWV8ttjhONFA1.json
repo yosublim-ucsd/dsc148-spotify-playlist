@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Los Lunes",
+        "url": "https://open.spotify.com/album/5aiLxQadEA6CoBZ2WgBhSS"
+      },
+      "artists": [
+        {
+          "name": "Tango Astral",
+          "url": "https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179264,
+      "name": "Los Lunes",
+      "url": "https://open.spotify.com/track/7COVceD2VIwMgh5tKnyWWv"
+    },
+    {
+      "album": {
         "name": "Como Bailan los Dem\u00e1s (Lado B)",
         "url": "https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk"
       },
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 183296,
       "name": "Todo el Universo",
       "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"

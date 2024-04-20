@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1257711,
+  "2024-04-20": 1262736,
   "date_first_scraped": "2022-05-30",
   "description": "Stray Kids everywhere all around the world. You make Stray Kids STAY. ",
   "name": "This Is Stray Kids",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218442,
       "name": "0325",
       "url": "https://open.spotify.com/track/0V1nMNKvNsPfq3KAQ3wDp6"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 218442,
       "name": "0325",
       "url": "https://open.spotify.com/track/6VlDJlR0xvCjEJwkoO6agZ"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206440,
       "name": "19",
       "url": "https://open.spotify.com/track/2226EvPWOQRalBjwGv9zgh"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206440,
       "name": "19",
       "url": "https://open.spotify.com/track/4FIEtn5MqtRyAHpPJDsDkj"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216773,
       "name": "24 to 25",
       "url": "https://open.spotify.com/track/6WM7pRXIeXuZ3Wowi9v1Wr"
@@ -125,10 +125,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216773,
       "name": "24 to 25",
       "url": "https://open.spotify.com/track/7cRYXWQjXyLg6C1Hu9uc1S"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "3RACHA (Bang Chan, Changbin, HAN)",
+      "url": "https://open.spotify.com/track/1PPxqlqzSl9af2NEQsZZzt"
     },
     {
       "album": {
@@ -143,7 +161,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208573,
       "name": "3RACHA (Bang Chan, Changbin, HAN)",
       "url": "https://open.spotify.com/track/6T4o4xEh61CpgM9v4jG5DJ"
@@ -161,7 +179,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 243960,
       "name": "3rd Eye",
       "url": "https://open.spotify.com/track/26TIfStHIKPlgzr4PkTB0i"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 243960,
       "name": "3rd Eye",
       "url": "https://open.spotify.com/track/5KjcsZHtCTxrrbr2bZluHZ"
@@ -197,7 +215,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214726,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/45GRs2YmGzTKp2MmafqCjG"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214726,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/74nVZpjqAjZvuOWmu3I6o5"
@@ -269,7 +287,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184597,
       "name": "ALL IN (Korean Ver.)",
       "url": "https://open.spotify.com/track/3bT5zY5OCspnWmGU8TbxGi"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184597,
       "name": "ALL IN (Korean Ver.)",
       "url": "https://open.spotify.com/track/6MNO35c8EUdXs1Zs4gD974"
@@ -327,7 +345,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169140,
       "name": "Any",
       "url": "https://open.spotify.com/track/5NbmRFtL4YLYv045u4bSNS"
@@ -399,7 +417,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169140,
       "name": "Any",
       "url": "https://open.spotify.com/track/5S7kMbtEikXwCAHMu3R3jw"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180053,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/1zeAd1eaHdNU2RxvRmv4xW"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180053,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4TXHE0TVqmAMmCRfGurb15"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193975,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/3vaCSLh9vDnG75rIbD2l3f"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193975,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/6JcOCiL2Qlfv4aKYyg2ihk"
@@ -489,7 +507,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195320,
       "name": "Awkward Silence",
       "url": "https://open.spotify.com/track/0DKnykHG3eGnUM6YQe7Z5a"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195320,
       "name": "Awkward Silence",
       "url": "https://open.spotify.com/track/2mBtKEUCZVh9BTDhlj5OiW"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205102,
       "name": "B Me",
       "url": "https://open.spotify.com/track/4TT3Ri8Idncs23UDGMC6Hy"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205102,
       "name": "B Me",
       "url": "https://open.spotify.com/track/5eIB5RjmpZTE2S83gvekvz"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189286,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189286,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270003,
       "name": "Behind The Light",
       "url": "https://open.spotify.com/track/3bYw4SExNTSeFIpRVYrNDe"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270003,
       "name": "Behind The Light",
       "url": "https://open.spotify.com/track/4PpMKj0qmas8OncPsDH7F1"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190653,
       "name": "BEWARE",
       "url": "https://open.spotify.com/track/4pbn3QsIKWv6BawpO14Kzq"
@@ -687,10 +705,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190653,
       "name": "BEWARE",
       "url": "https://open.spotify.com/track/4xvA5uuQrpdGXoO2Mv72Kb"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200813,
+      "name": "BLIND SPOT",
+      "url": "https://open.spotify.com/track/4PV7XCf0Kts7mWu4KPbi56"
     },
     {
       "album": {
@@ -705,7 +741,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200813,
       "name": "BLIND SPOT",
       "url": "https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh"
@@ -723,7 +759,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251300,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/2JzOF5Ex1BfufuZ6DgvOPe"
@@ -759,7 +795,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251300,
       "name": "Blueprint",
       "url": "https://open.spotify.com/track/560TR1d15nGMXufjbt5tys"
@@ -777,7 +813,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220648,
       "name": "Booster",
       "url": "https://open.spotify.com/track/0d0dnERp81YYz95fuakZb5"
@@ -795,7 +831,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220648,
       "name": "Booster",
       "url": "https://open.spotify.com/track/7wXRIqYoEZfNRsDs6pHcVO"
@@ -813,7 +849,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202293,
       "name": "Boxer",
       "url": "https://open.spotify.com/track/09i5WtpyEswhWwzmucaAVw"
@@ -831,7 +867,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202293,
       "name": "Boxer",
       "url": "https://open.spotify.com/track/1MYmqPMb3nYRtqo5l3mosX"
@@ -849,7 +885,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221453,
       "name": "Broken Compass",
       "url": "https://open.spotify.com/track/1HIak6kcz3MRcMuMjKEMiY"
@@ -867,7 +903,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221453,
       "name": "Broken Compass",
       "url": "https://open.spotify.com/track/5IqYohaBtPHl30pE07RGqO"
@@ -911,7 +947,7 @@
     {
       "album": {
         "name": "MAXIDENT",
-        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
       },
       "artists": [
         {
@@ -919,12 +955,12 @@
           "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "date_added": "2022-10-07",
+      "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209666,
       "name": "Can't Stop (Seungmin, I.N)",
-      "url": "https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR"
+      "url": "https://open.spotify.com/track/2kJBakUhqFBNT2wNZQQaZY"
     },
     {
       "album": {
@@ -939,7 +975,43 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 209666,
+      "name": "Can't Stop (Seungmin, I.N)",
+      "url": "https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 191964,
       "name": "CASE 143",
       "url": "https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq"
@@ -975,7 +1047,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188573,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/4QDpsNBlllaLGj8zbF2EE0"
@@ -993,7 +1065,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188573,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/5PyqnR2KX6a6qwf6l9rgpj"
@@ -1011,7 +1083,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182080,
       "name": "CHEESE",
       "url": "https://open.spotify.com/track/5Kllw7Fco57MHtMEGgRdoc"
@@ -1029,7 +1101,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182080,
       "name": "CHEESE",
       "url": "https://open.spotify.com/track/7qpSatdWQcRHA3hpedL2u4"
@@ -1047,10 +1119,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195146,
       "name": "CHILL",
       "url": "https://open.spotify.com/track/1HshHZrFIF5MRXWCZntOPr"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195146,
+      "name": "CHILL",
+      "url": "https://open.spotify.com/track/4ie6svg1VgsNI8g1Uo8PLO"
     },
     {
       "album": {
@@ -1083,7 +1173,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178529,
       "name": "Christmas EveL",
       "url": "https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg"
@@ -1101,7 +1191,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178529,
       "name": "Christmas EveL",
       "url": "https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW"
@@ -1119,7 +1209,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200440,
       "name": "Chronosaurus",
       "url": "https://open.spotify.com/track/4ugyIuBiZNcbaWQFnpVHqb"
@@ -1137,7 +1227,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200440,
       "name": "Chronosaurus",
       "url": "https://open.spotify.com/track/58epKNTOOt4RDWObkR9e43"
@@ -1173,10 +1263,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194400,
       "name": "CIRCUS (Korean Ver.)",
       "url": "https://open.spotify.com/track/3JeLa5o0NxQjQHhVYaTLV0"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "CIRCUS (Korean version)",
+      "url": "https://open.spotify.com/track/6MqXGSU0kh2auxtZivJ9kT"
     },
     {
       "album": {
@@ -1209,10 +1317,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157626,
       "name": "Collision",
       "url": "https://open.spotify.com/track/2vukoriV9e7oyOojN1NtsB"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Collision",
+      "url": "https://open.spotify.com/track/7FDsNFY6Pp0VKPsshxEonw"
     },
     {
       "album": {
@@ -1227,10 +1353,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172320,
       "name": "COMFLEX",
       "url": "https://open.spotify.com/track/2Rz7TEBsIXbI1tKsfQOCjI"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "COMFLEX",
+      "url": "https://open.spotify.com/track/7289Xa5folExThdAnsfZsI"
     },
     {
       "album": {
@@ -1253,7 +1397,7 @@
     {
       "album": {
         "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
       },
       "artists": [
         {
@@ -1264,6 +1408,24 @@
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3JANGirqYxKdxjh55Lj1a9"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 191013,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/5dUjBnP5zrWpWA5RGrr73g"
@@ -1317,7 +1479,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213586,
       "name": "District 9",
       "url": "https://open.spotify.com/track/430IfeGHWJxnZOkhBYACt9"
@@ -1335,10 +1497,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213586,
       "name": "District 9",
       "url": "https://open.spotify.com/track/58XXaW1pFAiXZRouc7ulaJ"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "DLC",
+      "url": "https://open.spotify.com/track/4C2jrNeDjZj1XLSct7dqXO"
     },
     {
       "album": {
@@ -1353,7 +1533,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186000,
       "name": "DLC",
       "url": "https://open.spotify.com/track/6dyXogYZZ45wBgRY1Wq3P1"
@@ -1389,7 +1569,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198720,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/6Ib6RkvLBMD85bov85apSL"
@@ -1407,7 +1587,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198720,
       "name": "DOMINO",
       "url": "https://open.spotify.com/track/6h9xMouzZfgzhfAJJnVoZz"
@@ -1425,7 +1605,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198733,
       "name": "DOMINO (English Ver.)",
       "url": "https://open.spotify.com/track/0b9YBfAcbnhVDUFmsfpDFj"
@@ -1443,7 +1623,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198733,
       "name": "DOMINO - English",
       "url": "https://open.spotify.com/track/5p56pVLbYafZMT9rcuymY2"
@@ -1479,7 +1659,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191546,
       "name": "Double Knot",
       "url": "https://open.spotify.com/track/1Sftw4WKhFJGv7qQXlse4Y"
@@ -1497,7 +1677,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191546,
       "name": "Double Knot",
       "url": "https://open.spotify.com/track/6VEwhm9m2rMnDKhc1WSLIA"
@@ -1533,7 +1713,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183134,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2AeLlfB0vLKz7nukzQ97ri"
@@ -1551,7 +1731,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183134,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4s9diT9GXpI7QiysMkoANG"
@@ -1569,7 +1749,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 217225,
       "name": "Ex",
       "url": "https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7"
@@ -1587,7 +1767,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217225,
       "name": "Ex",
       "url": "https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd"
@@ -1631,6 +1811,24 @@
     {
       "album": {
         "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "FNF",
+      "url": "https://open.spotify.com/track/24oLpnz97P67nPQ10zf69H"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
       "artists": [
@@ -1641,7 +1839,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171680,
       "name": "FNF",
       "url": "https://open.spotify.com/track/7LQvpgaadSh74HzYAjOisA"
@@ -1659,7 +1857,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249432,
       "name": "For You",
       "url": "https://open.spotify.com/track/3kSuhOJll1HiI05IFJ72SR"
@@ -1677,7 +1875,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249432,
       "name": "For You",
       "url": "https://open.spotify.com/track/3qBlU2fEz1JD098Z5nHvIo"
@@ -1695,7 +1893,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178386,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/2L7hSYdvF0CtaM6JisfKEG"
@@ -1713,7 +1911,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178386,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/2plJdCLTDrATAlL7pU8SeA"
@@ -1731,7 +1929,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196440,
       "name": "Get Cool",
       "url": "https://open.spotify.com/track/0uUOYmOu7V6v18XLkVtjDF"
@@ -1749,10 +1947,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196440,
       "name": "Get Cool",
       "url": "https://open.spotify.com/track/6TCQ5kYMTXFrrCobvXqUxY"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "GET LIT",
+      "url": "https://open.spotify.com/track/2Gq5ruFhVSunkos4YpWwsH"
     },
     {
       "album": {
@@ -1767,10 +1983,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171000,
       "name": "GET LIT",
       "url": "https://open.spotify.com/track/7dqUVy6c69qzuAtIFbNeZ8"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Give Me Your TMI",
+      "url": "https://open.spotify.com/track/3dqyF94Z2VfLUCwnwipYFS"
     },
     {
       "album": {
@@ -1785,7 +2019,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198173,
       "name": "Give Me Your TMI",
       "url": "https://open.spotify.com/track/7CQhZA3qNDZBoTKWqjD7gR"
@@ -1803,7 +2037,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 110621,
       "name": "GO LIVE",
       "url": "https://open.spotify.com/track/1M9qmt6EFa0RJJV8C7Y3HO"
@@ -1821,7 +2055,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110621,
       "name": "GO LIVE",
       "url": "https://open.spotify.com/track/65AJTgtczHH8LjbCfauT4n"
@@ -1839,7 +2073,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B"
@@ -1857,7 +2091,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167922,
       "name": "God\u2019s Menu",
       "url": "https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy"
@@ -1901,7 +2135,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241280,
       "name": "Gone Away (HAN, Seungmin, I.N)",
       "url": "https://open.spotify.com/track/3YcqGVg8Fu5ASIF1iQu2MS"
@@ -1919,7 +2153,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241280,
       "name": "Gone Away (HAN, Seungmin, I.N)",
       "url": "https://open.spotify.com/track/6l8YJbgWzvh05e3Bnfw9lw"
@@ -1937,7 +2171,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213040,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/2XwBhQ6GqXa27dh8ELQOPE"
@@ -1955,10 +2189,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/5m34huZyl058eNO7F4hIG9"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171026,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/5iyF0nXqJbcnnVtwCGxgiG"
     },
     {
       "album": {
@@ -1973,7 +2225,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171026,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
@@ -2009,7 +2261,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199671,
       "name": "Haven",
       "url": "https://open.spotify.com/track/1B960zmIFgde0TflN2q8Au"
@@ -2027,7 +2279,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199671,
       "name": "Haven",
       "url": "https://open.spotify.com/track/6RjcdArzX2hixSXkGVLt1o"
@@ -2045,7 +2297,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239133,
       "name": "Hellevator",
       "url": "https://open.spotify.com/track/4iNXUjXMr6rVJxH7a7yvGq"
@@ -2063,7 +2315,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Hellevator",
       "url": "https://open.spotify.com/track/6UDtY4939Z6p8gwuHhXb3g"
@@ -2117,7 +2369,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234177,
       "name": "Hoodie Season",
       "url": "https://open.spotify.com/track/1QpB7Lk986qwjOBiZbLSxP"
@@ -2135,7 +2387,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234177,
       "name": "Hoodie Season",
       "url": "https://open.spotify.com/track/2A9f341bPHEwb4Cw7WNlMJ"
@@ -2171,7 +2423,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "I am YOU",
       "url": "https://open.spotify.com/track/1feJB1Z00FJZgieyfiVSeI"
@@ -2189,7 +2441,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206840,
       "name": "I am YOU",
       "url": "https://open.spotify.com/track/6ZRkZgq3o9ouLJTELktXmL"
@@ -2261,7 +2513,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206430,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0HfcWa99R1HmLAbqWGpDRF"
@@ -2279,7 +2531,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206430,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/27ONBeTAyqpBJG2Nv01qdf"
@@ -2297,10 +2549,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191533,
       "name": "ITEM",
       "url": "https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "ITEM",
+      "url": "https://open.spotify.com/track/61leYl0z8jpaj8t9X7IkWG"
     },
     {
       "album": {
@@ -2337,10 +2607,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/79f5CcWzdkkDVD4XAIQgKr"
     },
     {
       "album": {
@@ -2355,7 +2643,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187586,
       "name": "LALALALA (Rock Ver.)",
       "url": "https://open.spotify.com/track/20FfCMC46eOIIrxCUdSNZT"
@@ -2363,7 +2651,43 @@
     {
       "album": {
         "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "LALALALA (Rock Version)",
+      "url": "https://open.spotify.com/track/12xk4SqP3omYgUZbPWF3nF"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
         "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 219093,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
       },
       "artists": [
         {
@@ -2376,7 +2700,7 @@
       "date_removed": null,
       "duration_ms": 219093,
       "name": "Leave",
-      "url": "https://open.spotify.com/track/2zPqhdPGNCwzXnvSvj7WgD"
+      "url": "https://open.spotify.com/track/6fZLf0RxpJ9TS3xk7U7woI"
     },
     {
       "album": {
@@ -2391,7 +2715,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Levanter",
       "url": "https://open.spotify.com/track/0o0Cw5YbhMhADD0BlxSGhN"
@@ -2409,7 +2733,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197706,
       "name": "Levanter",
       "url": "https://open.spotify.com/track/4obrd9niIX70q5At9HURLd"
@@ -2427,7 +2751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195671,
       "name": "Levanter (English Ver.)",
       "url": "https://open.spotify.com/track/5sPdWGv1MlA0qHzjN9hPPv"
@@ -2445,7 +2769,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195671,
       "name": "Levanter - English",
       "url": "https://open.spotify.com/track/55qqNyvwWUn1A3ItPVUOoo"
@@ -2511,7 +2835,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164853,
       "name": "Lonely St.",
       "url": "https://open.spotify.com/track/0KtKaZ0jNXOrHb3OxeXz9A"
@@ -2529,7 +2853,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164853,
       "name": "Lonely St.",
       "url": "https://open.spotify.com/track/2xo84jGkxFPrZmmBtS3Pkd"
@@ -2583,7 +2907,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211626,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/0okF4ps9VeRQbEUYnImA1x"
@@ -2601,7 +2925,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211626,
       "name": "M.I.A.",
       "url": "https://open.spotify.com/track/4qB1r2kVuMjWhnHLk6N9m7"
@@ -2645,7 +2969,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
@@ -2663,7 +2987,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV"
@@ -2699,7 +3023,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 175186,
       "name": "Maze of Memories",
       "url": "https://open.spotify.com/track/2DQ3ccmetoe0RzBnuoHVZJ"
@@ -2717,10 +3041,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175186,
       "name": "Maze of Memories",
       "url": "https://open.spotify.com/track/4ppuLW4bGqMhRK90XMEzcb"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "MEGAVERSE",
+      "url": "https://open.spotify.com/track/3USu1p2lKTzoKFIRDeeJf8"
     },
     {
       "album": {
@@ -2735,7 +3077,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185520,
       "name": "MEGAVERSE",
       "url": "https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO"
@@ -2753,7 +3095,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208666,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/3888prAY7qaqRx1vjQZSdI"
@@ -2771,7 +3113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/6gisOiWATiawP3eFUAGtJe"
@@ -2789,7 +3131,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222440,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6War9Nidwyd881TDnaKWV8"
@@ -2807,7 +3149,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222440,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6wFFqR7yjw21vqFvA08PWu"
@@ -2843,7 +3185,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194885,
       "name": "Mixtape : Gone Days",
       "url": "https://open.spotify.com/track/41qqDAW8PnUMNFdqqrvMEz"
@@ -2861,7 +3203,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194885,
       "name": "Mixtape : Gone Days",
       "url": "https://open.spotify.com/track/6hN2ugioAqMYH1GAjKJg6l"
@@ -2897,7 +3239,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212479,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN"
@@ -2915,7 +3257,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
@@ -2933,7 +3275,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208143,
       "name": "Mixtape : On Track",
       "url": "https://open.spotify.com/track/0exBaw5BGLf2MP4MIO0yOh"
@@ -2951,7 +3293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208143,
       "name": "Mixtape : On Track",
       "url": "https://open.spotify.com/track/6KIMwt89RFhB1iuUgHjXui"
@@ -2977,6 +3319,24 @@
     {
       "album": {
         "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175293,
+      "name": "Mixtape : Time Out",
+      "url": "https://open.spotify.com/track/2vbruB59QlmmZlIIuOAsH0"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
         "url": "https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6"
       },
       "artists": [
@@ -2987,7 +3347,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175293,
       "name": "Mixtape : Time Out",
       "url": "https://open.spotify.com/track/5vMQIOhLw85H8WYIf1kEWw"
@@ -3005,7 +3365,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197360,
       "name": "Muddy Water (Changbin, Hyunjin, HAN, Felix)",
       "url": "https://open.spotify.com/track/0oHn3CGVerdfLqIrN6CT42"
@@ -3023,7 +3383,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 197360,
       "name": "Muddy Water (Changbin, Hyunjin, HAN, Felix)",
       "url": "https://open.spotify.com/track/64naasHUvHELX6sIP4Ckme"
@@ -3041,7 +3401,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190306,
       "name": "My Pace",
       "url": "https://open.spotify.com/track/4yJUQqcnYkDafFzguSbZAl"
@@ -3059,7 +3419,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190306,
       "name": "My Pace",
       "url": "https://open.spotify.com/track/77S3DRpDbkxHW1ZVTVyF9w"
@@ -3077,7 +3437,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216788,
       "name": "My Side",
       "url": "https://open.spotify.com/track/0H4OkBB1np7bWkCP4EnkiB"
@@ -3095,7 +3455,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216788,
       "name": "My Side",
       "url": "https://open.spotify.com/track/2yTpNVq1gSpfaW9TNNtqeM"
@@ -3113,7 +3473,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N Feat. Changbin)",
       "url": "https://open.spotify.com/track/4wMKQGoS7TwkGMvPk9lcHG"
@@ -3135,7 +3495,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203424,
       "name": "My Universe (Seungmin, I.N)",
       "url": "https://open.spotify.com/track/4a2TlUwtrzLwjcHe1vPvj9"
@@ -3153,7 +3513,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224042,
       "name": "N/S",
       "url": "https://open.spotify.com/track/1YXrdkQxSzDI3eh08Fmp9j"
@@ -3171,7 +3531,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224042,
       "name": "N/S",
       "url": "https://open.spotify.com/track/4awANMW1SGfKtN5283lWjN"
@@ -3247,7 +3607,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190602,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/4MHeQ9324LT2oNH1cu2l4Z"
@@ -3265,7 +3625,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190602,
       "name": "Pacemaker",
       "url": "https://open.spotify.com/track/53StevmjK3N3aYHwoxRsBQ"
@@ -3301,7 +3661,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212618,
       "name": "Phobia",
       "url": "https://open.spotify.com/track/1KC5Y3kIiHvEDdinY0OcRL"
@@ -3319,7 +3679,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212618,
       "name": "Phobia",
       "url": "https://open.spotify.com/track/6m8vPz16wTojmAnVgdWtls"
@@ -3355,7 +3715,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 234660,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/0I7YEuT1gfVfNmUEDqoRs0"
@@ -3373,7 +3733,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234660,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/62x6J6Mfom0h7J509dvusH"
@@ -3391,7 +3751,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184360,
       "name": "Question",
       "url": "https://open.spotify.com/track/2vfgmmnUDkZNs75AJm7lev"
@@ -3409,7 +3769,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184360,
       "name": "Question",
       "url": "https://open.spotify.com/track/4uvAnZY8axmju0aJrulJna"
@@ -3427,7 +3787,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189906,
       "name": "Red Lights (Bang Chan, Hyunjin)",
       "url": "https://open.spotify.com/track/0LatE4S9UtCDwIdGQsFFKL"
@@ -3445,7 +3805,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189906,
       "name": "Red Lights (Bang Chan, Hyunjin)",
       "url": "https://open.spotify.com/track/0oPxoF9HNMC2cWbCZ9SxPs"
@@ -3463,7 +3823,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193469,
       "name": "ROCK",
       "url": "https://open.spotify.com/track/6p4pfgTkaktK4sp3ZP7NzA"
@@ -3481,7 +3841,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193469,
       "name": "ROCK",
       "url": "https://open.spotify.com/track/6w7dwWYHdrWEDmT3lBwVQB"
@@ -3543,10 +3903,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195688,
+      "name": "S-Class",
+      "url": "https://open.spotify.com/track/4Y82MlgKEeIpFnnUTsnchn"
     },
     {
       "album": {
@@ -3579,7 +3957,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199373,
       "name": "Scars (Korean Ver.)",
       "url": "https://open.spotify.com/track/0bqTleRlZBXtueX1fyVlcc"
@@ -3597,7 +3975,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199373,
       "name": "Scars - Korean",
       "url": "https://open.spotify.com/track/3gwPPXwBaGHdbEShxfQfC6"
@@ -3615,7 +3993,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209986,
       "name": "Secret Secret",
       "url": "https://open.spotify.com/track/1pLJ9T4v4p68otzCDonbc6"
@@ -3633,7 +4011,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Secret Secret",
       "url": "https://open.spotify.com/track/6by3m4NmNQEkbHqVRotCnj"
@@ -3651,7 +4029,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195253,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/1n0deeH4R7k0A5zENssBYc"
@@ -3669,7 +4047,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195253,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/39doHPm8Vsicb2kuD0weyZ"
@@ -3687,7 +4065,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209506,
       "name": "Silent Cry",
       "url": "https://open.spotify.com/track/48oWkLbv2p63rgmSfckHQL"
@@ -3705,7 +4083,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209506,
       "name": "Silent Cry",
       "url": "https://open.spotify.com/track/5kBJH5gU89axZDauhfddpy"
@@ -3741,7 +4119,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134792,
       "name": "SLUMP (\"Tower of God\" ED)",
       "url": "https://open.spotify.com/track/2GpRNFluKholHzpWM7t0t8"
@@ -3759,7 +4137,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134792,
       "name": "SLUMP (\"Tower of God\" ED)",
       "url": "https://open.spotify.com/track/7clTWebfXxZG2lQYe24luY"
@@ -3821,10 +4199,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197267,
       "name": "Social Path (Feat. LiSA) (Korean Ver.)",
       "url": "https://open.spotify.com/track/5w6HF09YaD6wWlC90NaeVP"
+    },
+    {
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197267,
+      "name": "Social Path (Korean Version)",
+      "url": "https://open.spotify.com/track/3W96Ba34ka0uGYTlPU3JvM"
     },
     {
       "album": {
@@ -3839,7 +4239,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177613,
       "name": "Sorry, I Love You",
       "url": "https://open.spotify.com/track/5kkOHHTccylnkYxDRgDWMs"
@@ -3857,7 +4257,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177613,
       "name": "Sorry, I Love You",
       "url": "https://open.spotify.com/track/7FV6MOPNv5m1zUpWhN6oTJ"
@@ -3875,7 +4275,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202120,
       "name": "Spread My Wings",
       "url": "https://open.spotify.com/track/0cYKULL0oKenKk6IkubNUn"
@@ -3893,7 +4293,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202120,
       "name": "Spread My Wings",
       "url": "https://open.spotify.com/track/3aYsXEPnbdHwIByyJIF4b8"
@@ -3911,7 +4311,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "SSICK",
       "url": "https://open.spotify.com/track/0CIJjPU8FDKijaWmTjU6iG"
@@ -3929,7 +4329,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190146,
       "name": "SSICK",
       "url": "https://open.spotify.com/track/238HdxvQkmYeSyo6qkPQoU"
@@ -3947,7 +4347,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215240,
       "name": "Star Lost",
       "url": "https://open.spotify.com/track/1LSHzXAZXQH9R1zSEFF8Hz"
@@ -3965,7 +4365,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 215240,
       "name": "Star Lost",
       "url": "https://open.spotify.com/track/2tfxfQC5uWAAVTwWCggr3U"
@@ -4001,7 +4401,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189513,
       "name": "STOP",
       "url": "https://open.spotify.com/track/552ixkxUI6snTyEcZUlYRN"
@@ -4019,7 +4419,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189513,
       "name": "STOP",
       "url": "https://open.spotify.com/track/5rqvgt4X1q8M6PYDQm7PCg"
@@ -4059,7 +4459,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -4077,7 +4477,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/3GYmjbJ1EU4TOMEYuVMXu0"
@@ -4095,10 +4495,46 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185960,
       "name": "SUPER BOARD",
       "url": "https://open.spotify.com/track/078fJxqEUz0LvbHSM6AoXJ"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "SUPER BOARD",
+      "url": "https://open.spotify.com/track/4lcJyn1TIlgyx9pdq78Gfg"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "Super Bowl",
+      "url": "https://open.spotify.com/track/1OPl5AzCJ9RcNuaRgMVLdP"
     },
     {
       "album": {
@@ -4113,7 +4549,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183160,
       "name": "Super Bowl",
       "url": "https://open.spotify.com/track/3OhW68CiyfCoeGntozuUMl"
@@ -4149,7 +4585,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "Surfin' (Lee Know, Changbin, Felix)",
       "url": "https://open.spotify.com/track/27DbIP4CqfrHgZqSybcmyr"
@@ -4167,7 +4603,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191333,
       "name": "Surfin\u2019 (Lee Know, Changbin, Felix)",
       "url": "https://open.spotify.com/track/1FdnsU6An1Ye3uBJe8j23c"
@@ -4185,7 +4621,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208657,
       "name": "TA",
       "url": "https://open.spotify.com/track/0I952Ff5CiRpdtfpSGUuA9"
@@ -4203,7 +4639,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208657,
       "name": "TA",
       "url": "https://open.spotify.com/track/1DOBBWtkabIjo955KkMLuQ"
@@ -4239,10 +4675,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216120,
       "name": "TASTE (Lee Know, Hyunjin, Felix)",
       "url": "https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "TASTE (Lee Know, Hyunjin, Felix)",
+      "url": "https://open.spotify.com/track/2pH3EXnScj9T0Q2ZPpidNt"
     },
     {
       "album": {
@@ -4275,10 +4729,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178338,
       "name": "THE SOUND (Korean Ver.)",
       "url": "https://open.spotify.com/track/0q9IyhNXRse5fdfYEoFOdi"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178338,
+      "name": "THE SOUND (Korean Ver.)",
+      "url": "https://open.spotify.com/track/7xfE0xPiTHDJJZbkTyrwR2"
     },
     {
       "album": {
@@ -4293,7 +4765,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224365,
       "name": "The Tortoise and the Hare",
       "url": "https://open.spotify.com/track/1Zv6xilw5El5P6frlNnYcH"
@@ -4311,7 +4783,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224365,
       "name": "The Tortoise and the Hare",
       "url": "https://open.spotify.com/track/68nztiBbdiddgbCUgXlCs5"
@@ -4329,7 +4801,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201746,
       "name": "The View",
       "url": "https://open.spotify.com/track/5FM1V3qjHroqsXRBbL57rW"
@@ -4347,7 +4819,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201746,
       "name": "The View",
       "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
@@ -4383,7 +4855,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt"
@@ -4401,7 +4873,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183266,
       "name": "Thunderous",
       "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
@@ -4419,7 +4891,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209026,
       "name": "TMT",
       "url": "https://open.spotify.com/track/7g2BHf27dzC61uSW3s4G0F"
@@ -4437,7 +4909,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209026,
       "name": "TMT",
       "url": "https://open.spotify.com/track/7tjAwgoK0afrLa8tsv2tKX"
@@ -4455,7 +4927,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185552,
       "name": "TOP (\"Tower of God\" OP)",
       "url": "https://open.spotify.com/track/05E7iRWsq1MYAlJElzCKCv"
@@ -4473,10 +4945,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185552,
       "name": "TOP (\"Tower of God\" OP)",
       "url": "https://open.spotify.com/track/4yosBfkEtlSLxH7n4PonsI"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "TOPLINE",
+      "url": "https://open.spotify.com/track/60ji0V9GfeOSsxavGuFxxG"
     },
     {
       "album": {
@@ -4495,7 +4989,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203546,
       "name": "TOPLINE (Feat. Tiger JK)",
       "url": "https://open.spotify.com/track/0jvZ9caE53ubCQXMki6W23"
@@ -4531,7 +5025,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194840,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/4b3rGL8LDSkbARUUA20136"
@@ -4549,7 +5043,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 194840,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/5VwOAFFqlLikti3l1RJnPz"
@@ -4567,7 +5061,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198053,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/1StYAeSCACp9ZlaJ4uxAf3"
@@ -4585,7 +5079,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198053,
       "name": "Victory Song",
       "url": "https://open.spotify.com/track/6r3aSLQGUwMaKtcrZgYESL"
@@ -4603,7 +5097,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202120,
       "name": "Voices",
       "url": "https://open.spotify.com/track/2IiTy93oA78tCTMnwCldgS"
@@ -4621,7 +5115,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202120,
       "name": "Voices",
       "url": "https://open.spotify.com/track/3zutAkkwy9Ucd9l4H4EReH"
@@ -4639,7 +5133,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219506,
       "name": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",
       "url": "https://open.spotify.com/track/2LzRBroL4J9pXLf1Nsen4s"
@@ -4657,7 +5151,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 219506,
       "name": "Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",
       "url": "https://open.spotify.com/track/4zrj0FVWhDKNGTw818O026"
@@ -4675,7 +5169,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157483,
       "name": "We Go (Bang Chan, Changbin, HAN)",
       "url": "https://open.spotify.com/track/4wbY22D0I6GL49RltKwdB5"
@@ -4693,7 +5187,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157483,
       "name": "We Go (Bang Chan, Changbin, HAN)",
       "url": "https://open.spotify.com/track/5GhuFbB6NjKzehvws0GGUP"
@@ -4729,7 +5223,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0BeqHPNJSLzfH8TZ7Adpb3"
@@ -4747,7 +5241,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/68JybsZc5XKAWxmHBL8z0U"
@@ -4801,7 +5295,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193811,
       "name": "Wow (Lee Know, Hyunjin, Felix)",
       "url": "https://open.spotify.com/track/2OU8SjA9462FhrfqssKJJn"
@@ -4819,7 +5313,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193811,
       "name": "Wow (Lee Know, Hyunjin, Felix)",
       "url": "https://open.spotify.com/track/2i15lsdOIZb9PpuAFKO58Y"
@@ -4837,7 +5331,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202666,
       "name": "YAYAYA",
       "url": "https://open.spotify.com/track/289yMKn2spa548pE3u7oPc"
@@ -4855,7 +5349,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "YAYAYA",
       "url": "https://open.spotify.com/track/3TdDuTNDALwxyPSy8mqVWY"
@@ -4873,7 +5367,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208443,
       "name": "You Can STAY",
       "url": "https://open.spotify.com/track/4YQel4FiTWYHUn6TXMCuPa"
@@ -4891,7 +5385,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208443,
       "name": "You Can STAY",
       "url": "https://open.spotify.com/track/5VoUJEP8CmWmHrsmcAaNSh"
@@ -4927,10 +5421,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209280,
       "name": "Youtiful",
       "url": "https://open.spotify.com/track/5sSv2lotkWeHZ9YSTQrdbf"
+    },
+    {
+      "album": {
+        "name": "5-STAR",
+        "url": "https://open.spotify.com/album/6kI8Ji0ivWkfRBOHBV7agS"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Youtiful",
+      "url": "https://open.spotify.com/track/7LxAgqV8gb3F0sMpMn8TGn"
     },
     {
       "album": {
@@ -4999,7 +5511,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 244866,
       "name": "\ub05d\ub098\uc9c0 \uc54a\uc744 \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/0KHCa8hM5Jff6Ji0JxQYMb"
@@ -5017,7 +5529,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244866,
       "name": "\ub05d\ub098\uc9c0 \uc54a\uc744 \uc774\uc57c\uae30",
       "url": "https://open.spotify.com/track/4K9U23CgCB7eT6BGWltAs4"

@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-520 songs - 1 day 6 hr 57 min
+521 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [MASK](https://open.spotify.com/track/1zaTR4uLURikYS5TbZpNhH) | [Srikanth Deva](https://open.spotify.com/artist/20k9i5MJ09Zbjg7P4osPrh), [Jainraj Ejoumale](https://open.spotify.com/artist/6ZeBAWpvO38ifGoym9gy3C) | [MASK](https://open.spotify.com/album/7iFsJLDUjbWvTV4X8pTBEG) | 3:30 | 2023-03-21 | 2023-04-01 |
 | [May Madham](https://open.spotify.com/track/7c64MLHZNg2vshQUFvQi0d) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD) | [May Madham](https://open.spotify.com/album/6D8fWKn3o7GwPeR8IpW1pI) | 3:54 | 2023-05-26 | 2023-06-24 |
 | [Maya Mohini](https://open.spotify.com/track/28vyPvdBUySEwrPZ4wZRHa) | [KVR](https://open.spotify.com/artist/2ShMUR5Cjnt67tvZUChLEu), [LAURITZ FRANCIS](https://open.spotify.com/artist/2LrLzxSOvQ2qCEcY4VMaH9) | [Maya Mohini](https://open.spotify.com/album/2vUpby0lT7zFoeou8tXk8b) | 3:55 | 2022-12-02 | 2023-03-22 |
+| [Mayakkam](https://open.spotify.com/track/2gkiPPb1kjvPrR55I5z1zz) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Mayakkam](https://open.spotify.com/album/2Oixh8URDzxcXZWrqoIEQn) | 3:13 | 2024-04-19 |  |
 | [Mayangi Porene](https://open.spotify.com/track/6tFLx1VLB8pf8OHIo0w5su) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Mayangi Porene](https://open.spotify.com/album/4hVpItdDOGiUYXccGQsEWs) | 1:04 | 2023-11-14 | 2023-12-19 |
 | [Mayil Iragae](https://open.spotify.com/track/2VLl0OAIYgzETYAXwa1qgf) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Mayil Iragae](https://open.spotify.com/album/1NSfqN4NtVJycVwkboD9iY) | 3:01 | 2023-05-26 | 2023-06-24 |
 | [Mayilu](https://open.spotify.com/track/7wFXImJlaYB7PUq8fHRrHB) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt) | [Mayilu](https://open.spotify.com/album/5ODNrjXo2I640UF0294PNP) | 3:41 | 2022-12-12 |  |
@@ -416,7 +417,7 @@
 | [Sagavaasi](https://open.spotify.com/track/6e1AEcNa3ECIOJPw4xpMjb) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP) | [Sagavaasi](https://open.spotify.com/album/0lYfNFeX2w67OMAEm7mxst) | 6:22 | 2023-02-02 | 2023-02-24 |
 | [Sakkaraiya](https://open.spotify.com/track/2rOyLZZst8HKrXgDHDnauI) | [SATTHIA](https://open.spotify.com/artist/5mHPapKjRFXq1IdaFDnHW9), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Sakkaraiya](https://open.spotify.com/album/414SPcYwEra3PTStaJwVXU) | 3:43 | 2023-08-16 | 2023-10-04 |
 | [Saree Pop](https://open.spotify.com/track/7BpecExcXrWvvgna0gbuSL) | [Daddy Prince](https://open.spotify.com/artist/10w7hLvjbpcCBEE9OmcSa4), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Saree Pop](https://open.spotify.com/album/4n885BClN8wlrtg4NUylyZ) | 2:33 | 2022-04-22 | 2022-12-20 |
-| [SAROJA](https://open.spotify.com/track/2FD2oa0hgNj40ZpTsOn5lQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [SAROJA](https://open.spotify.com/album/4HPwpVtkDblRgLzv9jw53h) | 2:42 | 2024-02-16 |  |
+| [SAROJA](https://open.spotify.com/track/2FD2oa0hgNj40ZpTsOn5lQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [RXZOR](https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9) | [SAROJA](https://open.spotify.com/album/4HPwpVtkDblRgLzv9jw53h) | 2:42 | 2024-02-16 | 2024-04-20 |
 | [Sathiyama](https://open.spotify.com/track/6t7XOZk8Hv07QJOZVHekFv) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Priyashankari](https://open.spotify.com/artist/2uhjPLTC6bHZYvLXsHgrf8) | [Sathiyama](https://open.spotify.com/album/7MRQnV1a5MvQ7PPhymeGxv) | 4:38 | 2021-12-01 | 2023-02-07 |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-02-02 | 2024-01-20 |
 | [Scene\-U Singaari](https://open.spotify.com/track/7MUFv0xMRBgA0zqgdMaI7A) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Sridhar Sena](https://open.spotify.com/artist/5YSYUHw3olaxG4SZhtCPET), [Bharath K Rajesh](https://open.spotify.com/artist/13n9V5dYM3IMUSIJQp0i45) | [Scene\-U Singaari](https://open.spotify.com/album/0vuhvk9LTtGNPer0oEQh8G) | 3:40 | 2022-01-06 | 2022-07-08 |

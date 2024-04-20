@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1083561,
+  "2024-04-20": 1083030,
   "date_first_scraped": "2021-12-21",
   "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Rina Sawayama",
   "name": "GLOW",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/1TFcz69v0KJ6QY1xznGoDL"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-17",
+      "date_removed": null,
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq"
@@ -582,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Ai Ai Ai Mega Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183713,
+      "name": "Ai Ai Ai Mega Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF"
+    },
+    {
+      "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/4vWvJUynYR1cdGjyyWGeei"
       },
@@ -593,7 +611,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183713,
       "name": "Ai Ai Ai Mega Pr\u00edncipe",
       "url": "https://open.spotify.com/track/5yemzKG0VNqq6NpeAmZ3fH"
@@ -6651,6 +6669,28 @@
     {
       "album": {
         "name": "Gangbang",
+        "url": "https://open.spotify.com/album/1Nt80TxpfCjpOQFPs64k5q"
+      },
+      "artists": [
+        {
+          "name": "Aisho Nakajima",
+          "url": "https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Gangbang",
+      "url": "https://open.spotify.com/track/1x2TmFVVHYquL4yYdtKrUp"
+    },
+    {
+      "album": {
+        "name": "Gangbang",
         "url": "https://open.spotify.com/album/1lv5dbqg82UeGTkA6ZYxh5"
       },
       "artists": [
@@ -6665,7 +6705,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136500,
       "name": "Gangbang",
       "url": "https://open.spotify.com/track/7eXxSzId7BWiwaJre9oLtS"
@@ -8859,10 +8899,28 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251009,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
+    },
+    {
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/2JSzdaZgvPilynY4B3VrCN"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/3yv0PNx5lOY0YQ7P3FOXW8"
     },
     {
       "album": {
@@ -11775,6 +11833,28 @@
     {
       "album": {
         "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/251UuJohZb0avSzcIYDvkD"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/0A3MUy6ifDxog1zfy4m7de"
+    },
+    {
+      "album": {
+        "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
       },
       "artists": [
@@ -11789,7 +11869,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212250,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
@@ -13965,10 +14045,32 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
+    },
+    {
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/25XqmGzypcKDWVpwqZ5cIZ"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO"
     },
     {
       "album": {

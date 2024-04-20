@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Elaine \(Singapore\)
 
-1,260 songs - 3 day 3 hr 47 min
+1,261 songs - 3 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,7 @@
 | [Uneven](https://open.spotify.com/track/352StnCiFEF6hqe3eR791o) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Restless](https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip) | 4:11 | 2023-03-31 | 2023-05-19 |
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-06-30 | 2022-09-09 |
 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 | 2022-03-24 | 2022-06-03 |
-| [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-04-04 |  |
+| [Unwavering](https://open.spotify.com/track/5om9MS3yRKxRrt9FSMBq4w) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Unwavering](https://open.spotify.com/album/60Ems1fT6kFthRWEaL3Nkj) | 3:37 | 2024-04-04 | 2024-04-20 |
 | [Unwell](https://open.spotify.com/track/18w9yxEycSSclOznmhrfoU) | [sleepy benjamin](https://open.spotify.com/artist/2Dpw5rzcRedRcJLH9eyVRc), [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO) | [Unwell](https://open.spotify.com/album/6RxjMmmDWygc4cE0DKeyEp) | 2:54 | 2022-09-15 | 2022-10-29 |
 | [Upon You](https://open.spotify.com/track/37EGDFUeDj02buaxZfnX4G) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2tvmzgCJ6ZYmBtUJl0RfRs) | 3:36 | 2022-11-10 | 2022-12-03 |
 | [Upon You](https://open.spotify.com/track/6raHSY9SaPWOKXmHiBEegd) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:36 | 2022-12-02 | 2022-12-24 |
@@ -1224,7 +1224,7 @@
 | [影子 Shadow \(feat\. hiyune from chilldspot\)](https://open.spotify.com/track/2oBnEG5GCTcf95eJYatRZQ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [影子 Shadow \(feat\. hiyune from chilldspot\)](https://open.spotify.com/album/6YjoG0bEIlL7JI3iZRT7rz) | 3:46 | 2023-06-29 | 2023-07-21 |
 | [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-13 | 2023-06-08 |
 | [惚けるな](https://open.spotify.com/track/5xJ8VJfzgwrj6FDYzTcj9v) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [惚けるな](https://open.spotify.com/album/5vWrG2fg9eeXiQIReBW2Ty) | 2:52 | 2024-02-01 | 2024-02-16 |
-| [想要有個避風港](https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [想要有個避風港](https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp) | 5:57 | 2024-04-11 | 2024-04-19 |
+| [想要有個避風港](https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [想要有個避風港](https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp) | 5:57 | 2024-04-11 |  |
 | [愛想のないブレイク \- with FORDTRIO](https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [ヘルシンキラムダクラブへようこそ](https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE) | 4:06 | 2023-08-10 | 2023-08-18 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 | 2023-06-13 |
 | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/track/1tJD2IVvz1wD5QvxKyvusv) | [青虫 aoi](https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5) | [我毋是刁故意 \(馬崗漁村 Version\) \- WINDIE 收OUT!](https://open.spotify.com/album/1aGF7rNcF1TSi3pf69PaSA) | 3:50 | 2022-05-19 | 2022-07-01 |
@@ -1238,6 +1238,7 @@
 | [景美](https://open.spotify.com/track/3czww3w60fmC2JZnxSa0Z7) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [景美](https://open.spotify.com/album/6QNJgsgKDRWVr5umnDgOGC) | 3:35 | 2022-05-12 | 2022-06-17 |
 | [暗流](https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [暗流](https://open.spotify.com/album/35WbOyVHUlWYO4sTlc5DVW) | 4:22 | 2023-11-16 | 2024-03-07 |
 | [死んでくれ](https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Bee and The Whales](https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs) | 3:27 | 2023-06-01 | 2023-09-12 |
+| [母船](https://open.spotify.com/track/3ZATN9nilk2MxQXkl2B7AL) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [卵](https://open.spotify.com/album/4qe0XanRyN4rIkJxjdSoh6) | 4:01 | 2024-04-19 |  |
 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 | 2023-03-02 | 2023-04-14 |
 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 | 2022-09-08 | 2022-10-14 |
 | [漂流木](https://open.spotify.com/track/6YCBSjzVSspsPj3cOVPHGN) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [漂流木](https://open.spotify.com/album/6dgOQF7zMiL2T9uuJlUItQ) | 4:20 | 2024-02-15 | 2024-04-10 |
@@ -1246,7 +1247,7 @@
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 | 2023-05-26 |
 | [琥珀](https://open.spotify.com/track/2cyLtPHD0SwHjYJGvD7z2V) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TIME](https://open.spotify.com/album/6uEPUNxIJkdZ6AGSKhywHB) | 4:11 | 2024-03-14 | 2024-03-29 |
 | [留在原地等你追](https://open.spotify.com/track/4lX0k2U34XEVZcAhh9xSOu) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [留在原地等你追](https://open.spotify.com/album/4QBcJM4hB8sRAQP2s6SRDL) | 3:42 | 2022-07-21 | 2022-08-05 |
-| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 |  |
+| [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 | 2024-01-10 | 2024-04-20 |
 | [窓](https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [窓](https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP) | 4:16 | 2023-06-01 | 2023-07-15 |
 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 | 2023-05-25 |  |
 | [羽球少年](https://open.spotify.com/track/7rAMxhio3gkeUzn5HoUMmo) | [イルカポリス 海豚刑警](https://open.spotify.com/artist/5F14oggNO5Nvl08UsULzaT) | [羽球大報社《Bad News Punched!》](https://open.spotify.com/album/1FoxPReflUbnRmEDByYlvj) | 5:05 | 2022-09-15 | 2022-11-11 |

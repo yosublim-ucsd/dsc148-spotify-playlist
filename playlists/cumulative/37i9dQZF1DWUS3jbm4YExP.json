@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Contemporary Afro Beat",
+        "url": "https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE"
+      },
+      "artists": [
+        {
+          "name": "Fanga",
+          "url": "https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305106,
+      "name": "Crache La Douleur",
+      "url": "https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4"
+    },
+    {
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/4qibOzAneFCtZRApyluWq4"
       },
@@ -7588,7 +7606,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 365759,
       "name": "Mapenzi Hayana Daktari - Frankie Francis Edit",
       "url": "https://open.spotify.com/track/4QIvczQeuOGAsQ4FpgrMUI"

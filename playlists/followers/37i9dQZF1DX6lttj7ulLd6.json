@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 196700,
+  "2024-04-20": 196942,
   "date_first_scraped": "2022-05-19",
   "description": "Instrumental Smooth Jazz for relaxing.",
   "name": "Smooth Jazz Chill",
@@ -241,6 +241,24 @@
       "duration_ms": 144729,
       "name": "Battery Park",
       "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
+    },
+    {
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "album": {
@@ -505,7 +523,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 333880,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318053,
       "name": "Costa del Soul",
       "url": "https://open.spotify.com/track/0pfYPKBNCIu7WPq293pRqG"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 190232,
       "name": "Driving West",
       "url": "https://open.spotify.com/track/7voJqXn9Ee7Iaw7Wr0qarI"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 297240,
       "name": "Get Up, Stand Up",
       "url": "https://open.spotify.com/track/5XhuPA2XvYOeYJ8Lwn2Dnx"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 285824,
       "name": "last of the leather jackets",
       "url": "https://open.spotify.com/track/5h7gFuZYOB6vlUkhraNDJ2"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251973,
       "name": "London Chimes",
       "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262666,
       "name": "Lost and Found",
       "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 218375,
       "name": "Peaceful Horizon",
       "url": "https://open.spotify.com/track/6EkB8OluCOTk6ziNVm4Tpc"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "The Dubble",
       "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"

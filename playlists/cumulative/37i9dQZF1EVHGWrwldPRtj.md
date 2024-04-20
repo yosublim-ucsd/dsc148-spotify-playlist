@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EVHGWrwldPRtj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [弛放音乐合辑](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>、<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>、<a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> 等更多曲风
 
 586 songs - 1 day 9 hr 6 min
 

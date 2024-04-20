@@ -5313,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "IN\u00cdCIO",
+        "url": "https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD"
+      },
+      "artists": [
+        {
+          "name": "ZARCO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205862,
+      "name": "IN\u00cdCIO",
+      "url": "https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28"
+    },
+    {
+      "album": {
         "name": "Jorge Mundo",
         "url": "https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA"
       },
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
@@ -8199,6 +8217,32 @@
     },
     {
       "album": {
+        "name": "PESSOAS MUDAM",
+        "url": "https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
+        },
+        {
+          "name": "Raptorxy",
+          "url": "https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z"
+        },
+        {
+          "name": "Dream Studio",
+          "url": "https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147930,
+      "name": "PESSOAS MUDAM",
+      "url": "https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X"
+    },
+    {
+      "album": {
         "name": "Pick Up The Phone",
         "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
       },
@@ -9224,7 +9268,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 306731,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3OS9HqgLoWRd8JQWiSogyo"
@@ -10750,6 +10794,24 @@
       "duration_ms": 182437,
       "name": "Tou Leve",
       "url": "https://open.spotify.com/track/3vIj4m5xmi6y5LOb9Obq3s"
+    },
+    {
+      "album": {
+        "name": "TOU NA MESMA",
+        "url": "https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205594,
+      "name": "TOU NA MESMA",
+      "url": "https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC"
     },
     {
       "album": {

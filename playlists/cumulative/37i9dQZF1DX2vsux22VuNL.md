@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-375 songs - 19 hr 35 min
+376 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Facilita](https://open.spotify.com/track/17m36UejL2gFbQXj2IiB1R) | [Daniel Cruz](https://open.spotify.com/artist/3rz9EEzOyMgtVEnrplaD7h), [ADORA](https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Facilita](https://open.spotify.com/album/5yCYj2nj0VXelPDxX6AVPH) | 3:15 | 2022-09-20 | 2022-09-24 |
 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 | 2022-06-14 | 2023-07-01 |
 | [Falando Dela 2](https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP) | [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Falando Dela 2](https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF) | 2:02 | 2022-05-23 | 2022-06-18 |
-| [Falar de Nós](https://open.spotify.com/track/0LmhGDFtLZnMCrGdT5COl9) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Falar de Nós](https://open.spotify.com/album/1jHE3xrIQmTc0eHct6RpLa) | 2:40 | 2024-03-22 |  |
+| [Falar de Nós](https://open.spotify.com/track/0LmhGDFtLZnMCrGdT5COl9) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Falar de Nós](https://open.spotify.com/album/1jHE3xrIQmTc0eHct6RpLa) | 2:40 | 2024-03-22 | 2024-04-20 |
 | [Faminta](https://open.spotify.com/track/49LBlTClQWmunnBtadpzGI) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 3:37 | 2022-10-28 | 2022-11-26 |
 | [fase](https://open.spotify.com/track/1zV8QFCfpK50GpqrNZ1O0N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:12 | 2023-11-10 | 2024-04-13 |
+| [Fico Bem](https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Fico Bem](https://open.spotify.com/album/1SNQV9at6GikGl11XRMUtR) | 3:04 | 2024-04-19 |  |
 | [Fim de Semana](https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [BORIS FARIAS](https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Fim de Semana](https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM) | 2:43 | 2023-09-29 | 2023-11-04 |
 | [Fim de Semana](https://open.spotify.com/track/4bMFMvGNOGQ5GN91G4vw1K) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Fim de Semana](https://open.spotify.com/album/3QrfrubXNF6xRzCAV6DvB7) | 3:14 | 2023-03-15 | 2023-04-15 |
 | [Final de Semana](https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Final de Semana](https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu) | 3:21 | 2022-10-07 | 2023-07-15 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 226927,
+  "2024-04-20": 226820,
   "date_first_scraped": "2020-10-29",
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
   "name": "indie pop & chill",
@@ -273,7 +273,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-14",
+      "date_removed": null,
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG"
@@ -847,10 +847,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238346,
       "name": "Alonica",
       "url": "https://open.spotify.com/track/02CUxAiWvvEq6pLItneLQ6"
+    },
+    {
+      "album": {
+        "name": "Alonica",
+        "url": "https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238346,
+      "name": "Alonica",
+      "url": "https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26"
     },
     {
       "album": {
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208593,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy"
@@ -2395,10 +2413,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179144,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/1U1TpPbxYRFteIeT0Az4kM"
+    },
+    {
+      "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
       "album": {
@@ -2891,6 +2927,24 @@
       "duration_ms": 129455,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb"
+    },
+    {
+      "album": {
+        "name": "medium plaisir",
+        "url": "https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292960,
+      "name": "Ce n'est pas de la chance",
+      "url": "https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR"
     },
     {
       "album": {
@@ -4631,10 +4685,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232706,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1ReHqNFQ2HfJcWzajkDx8g"
+    },
+    {
+      "album": {
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/5Y4yrUzwEuyAbytsdKFqpc"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/3wfaRiR52nrk5G3cJ66KM1"
     },
     {
       "album": {
@@ -4801,7 +4873,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 235554,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/0fpkHQGbWh9riooDthOYx8"
@@ -4819,10 +4891,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235554,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/32BncKYogLQS8i0tgBc9oL"
+    },
+    {
+      "album": {
+        "name": "LIMBO",
+        "url": "https://open.spotify.com/album/7zRAnRLCMzizB4xRSpIDf2"
+      },
+      "artists": [
+        {
+          "name": "Blair Lee",
+          "url": "https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208710,
+      "name": "Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/3Y1sbQyG9oB78IMasWoi4y"
     },
     {
       "album": {
@@ -6947,7 +7037,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172773,
       "name": "gimme all ur luv",
       "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
@@ -7401,7 +7491,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209454,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0HUizC6vRNIYcVj7o1YaNP"
@@ -7419,7 +7509,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q"
@@ -8301,7 +8391,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
@@ -8319,7 +8409,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
@@ -8557,6 +8647,24 @@
       "duration_ms": 209560,
       "name": "hope ur ok",
       "url": "https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3"
+    },
+    {
+      "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "album": {
@@ -9897,7 +10005,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
@@ -9915,7 +10023,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218800,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/6X1e8vitsmstMQIC2wrETx"
@@ -10517,7 +10625,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
@@ -10535,7 +10643,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq"
@@ -10841,7 +10949,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 176775,
       "name": "keep our love alive",
       "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
@@ -10859,7 +10967,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176775,
       "name": "keep our love alive",
       "url": "https://open.spotify.com/track/5Skpe6bbhoZqJMR6pfQLZr"
@@ -12665,7 +12773,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
@@ -12683,7 +12791,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
@@ -12892,6 +13000,24 @@
     },
     {
       "album": {
+        "name": "Mulholland's Dinner and Wine",
+        "url": "https://open.spotify.com/album/257etELsVtvnLWKBk81S9N"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201197,
+      "name": "Mulholland's Dinner and Wine",
+      "url": "https://open.spotify.com/track/1V8W9BmMStQInKnD5T2btq"
+    },
+    {
+      "album": {
         "name": "What Happened to the Beach?",
         "url": "https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg"
       },
@@ -12903,7 +13029,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201197,
       "name": "Mulholland's Dinner and Wine",
       "url": "https://open.spotify.com/track/2RjD1CgW7MWRWSNkimCPNy"
@@ -15325,10 +15451,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 235455,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg"
+    },
+    {
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/37EYSu5EaOgHhB7stzTkHn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235455,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH"
     },
     {
       "album": {
@@ -15441,7 +15585,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
@@ -15463,7 +15607,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168240,
       "name": "Pyjamas (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3Q8SnMp3lhGGoIJBDmYRPa"
@@ -16087,7 +16231,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159781,
       "name": "Same Place",
       "url": "https://open.spotify.com/track/06iWqPVbWiaKR05SzCnYYw"
@@ -17521,7 +17665,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 193749,
       "name": "Sore Eyes",
       "url": "https://open.spotify.com/track/0peToxR0ejwehVaUEKZEzD"
@@ -17539,7 +17683,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193749,
       "name": "Sore Eyes",
       "url": "https://open.spotify.com/track/1vyaeOV5TqHDFK7ugi05Sk"
@@ -18297,10 +18441,28 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236933,
       "name": "Stupid 4 U",
       "url": "https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/0pDb1YcrQhm53dSMWPNvU8"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Stupid 4 U",
+      "url": "https://open.spotify.com/track/63U1ZQGiTQpJ6DP5vbyXCJ"
     },
     {
       "album": {
@@ -18431,7 +18593,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192078,
       "name": "Summer Of 99",
       "url": "https://open.spotify.com/track/5bHESPEBM1vvWeES2cVYSf"
@@ -18449,7 +18611,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 192078,
       "name": "Summer Of 99",
       "url": "https://open.spotify.com/track/7pYNJTBcjZjiONdUdk4vUM"

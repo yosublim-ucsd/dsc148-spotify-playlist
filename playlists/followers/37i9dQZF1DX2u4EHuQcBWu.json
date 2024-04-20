@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 190868,
+  "2024-04-20": 190856,
   "date_first_scraped": "2022-06-30",
-  "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
+  "description": "Somos un pueblo fuerte que no se calla \u270a\ud83c\udf0e",
   "name": "Himnos de Resistencia Latinoamericana",
   "tracks": [
     {
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191306,
       "name": "2 de Octubre",
       "url": "https://open.spotify.com/track/66FI8Hc54T8r83QH8vD1LC"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 284164,
       "name": "5 Malparidos",
       "url": "https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268467,
       "name": "Al Pueblo Le Asusta La Revolucio\u0301n",
       "url": "https://open.spotify.com/track/582Lfqa9mSQO8bXtZImRYl"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 256306,
       "name": "Balada Del Asalariado",
       "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157106,
       "name": "Bandera",
       "url": "https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 217000,
       "name": "Basta",
       "url": "https://open.spotify.com/track/3sVJ7neCJG5W0QqMqKGVWR"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 122436,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173977,
       "name": "Bloody Bloody Border",
       "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
@@ -752,7 +752,7 @@
     },
     {
       "album": {
-        "name": "Yo No Quiero Volverme Tan Loco",
+        "name": "Yo No Quiero Volverme Tan Loco (En Vivo)",
         "url": "https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr"
       },
       "artists": [
@@ -763,9 +763,9 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 257666,
-      "name": "Canci\u00f3n De Alicia En El Pa\u00eds",
+      "name": "Canci\u00f3n De Alicia En El Pa\u00eds - En Vivo",
       "url": "https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU"
     },
     {
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253200,
       "name": "Cinco Siglos Igual",
       "url": "https://open.spotify.com/track/3fL89NetmOyr0q8c4eg8XD"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254186,
       "name": "Cinco Siglos Igual",
       "url": "https://open.spotify.com/track/6CIjy70IxwaCi1uEx07TyY"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220613,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149173,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3"
@@ -1055,7 +1055,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161026,
       "name": "Como La Cigarra - En Directo",
       "url": "https://open.spotify.com/track/17QskQeUQ8Pskjgv5tThIw"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262533,
       "name": "Cordillera",
       "url": "https://open.spotify.com/track/5NL0SXbEMtWkAVmzjQV8s5"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 303120,
       "name": "D\u00eda Negro",
       "url": "https://open.spotify.com/track/4DtPr14uVvVdi8zHquBBBj"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 343701,
       "name": "El Baile De Los Que Sobran",
       "url": "https://open.spotify.com/track/15T3otpUnJKin5njR8x0Tx"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 343887,
       "name": "El Baile de los Que Sobr\u00e1n",
       "url": "https://open.spotify.com/track/4bGjPkl0BKXeFJOyKpdSwS"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213213,
       "name": "El Club de la Resistencia",
       "url": "https://open.spotify.com/track/3TYSlb2zMxnnhPEyhdl3QK"
@@ -1803,7 +1803,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 227444,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215733,
       "name": "El Pa\u00eds de No Pasa Nada",
       "url": "https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs"
@@ -2017,10 +2017,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 284413,
       "name": "Ellas",
       "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
+    },
+    {
+      "album": {
+        "name": "La Dieta del Lagarto",
+        "url": "https://open.spotify.com/album/2TBrmbIm2ks1iQ6XExMyMw"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Empresaurio",
+      "url": "https://open.spotify.com/track/2nnHeIo6kBeSWqj41EmC2x"
     },
     {
       "album": {
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199105,
       "name": "Exigimos",
       "url": "https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 305893,
       "name": "Fuerte",
       "url": "https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/6FY8Imjs6YSglIAqnbU9mM"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250640,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 275327,
       "name": "Grita Tierra",
       "url": "https://open.spotify.com/track/1TbUrLorDczVuZuPz0U5lZ"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221800,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 298049,
       "name": "La Canci\u00f3n Es Protesta",
       "url": "https://open.spotify.com/track/4SwobFMtZrCVdcBE4PNBoy"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 430853,
       "name": "La Casita",
       "url": "https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 354973,
       "name": "La chusma inconsciente",
       "url": "https://open.spotify.com/track/47XK3ngp9tfIJNhJ281LBP"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216688,
       "name": "La Fuerza del Amor",
       "url": "https://open.spotify.com/track/2Hej26B36YlkZ97Xw4xW3M"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183640,
       "name": "La Maldici\u00f3n de Mi Pa\u00eds",
       "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
@@ -2815,7 +2833,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 376451,
       "name": "La Rebelion",
       "url": "https://open.spotify.com/track/6GvKKrKjFPbS3t8h8asMx7"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-26",
+      "date_removed": null,
       "duration_ms": 226145,
       "name": "La vida no vale nada (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270088,
       "name": "Mar\u00eda Land\u00f3",
       "url": "https://open.spotify.com/track/1GVgU5BK361ZtYx17yxaUZ"
@@ -3477,7 +3495,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 160068,
       "name": "Mujer detente",
       "url": "https://open.spotify.com/track/2F9mSzT7MIA9CHswF0b0KB"
@@ -3641,7 +3659,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 114781,
       "name": "Nada Es Verdad (Finale) / Spoken Words",
       "url": "https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99"
@@ -3659,7 +3677,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279413,
       "name": "Nada Pas\u00f3",
       "url": "https://open.spotify.com/track/4GO7nRMoH2XnvXSIUqNMqg"
@@ -3749,7 +3767,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226355,
       "name": "Ni\u00f1x",
       "url": "https://open.spotify.com/track/5YdwhRwik4FMlzlU4RbYHo"
@@ -3843,7 +3861,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239906,
       "name": "Nuestro Amo Juega al Esclavo",
       "url": "https://open.spotify.com/track/14UY2VvUlmEmSd9ILCqyUz"
@@ -3865,7 +3883,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 228456,
       "name": "Octubre",
       "url": "https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb"
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253333,
       "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
       "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
@@ -4129,7 +4147,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147520,
       "name": "Para Que Nunca Mas",
       "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
@@ -4309,7 +4327,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193933,
       "name": "Plegaria A Un Labrador",
       "url": "https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z"
@@ -4327,7 +4345,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194160,
       "name": "Plegaria A Un Labrador",
       "url": "https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2"
@@ -4345,7 +4363,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 482333,
       "name": "Poder Elegir",
       "url": "https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS"
@@ -4363,7 +4381,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238360,
       "name": "Politicos Paraliticos",
       "url": "https://open.spotify.com/track/68NE76Trr1bo28gDuqUL5h"
@@ -4453,7 +4471,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179188,
       "name": "Por Que No Se Van",
       "url": "https://open.spotify.com/track/0U79l5US7T8snNuDSrZ3X6"
@@ -4471,7 +4489,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 296040,
       "name": "Por Qu\u00e9 Los Ricos",
       "url": "https://open.spotify.com/track/0GvT2AUiVLteoFm11XgdjL"
@@ -4489,7 +4507,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Por Qu\u00e9 No Se Van",
       "url": "https://open.spotify.com/track/0FRpkVdaghjib91eaXOA97"
@@ -4555,7 +4573,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 308732,
       "name": "Prende la Mecha",
       "url": "https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8"
@@ -4603,7 +4621,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 220520,
       "name": "Promesas y Perdones",
       "url": "https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7"
@@ -4679,7 +4697,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 267520,
       "name": "Quememos el Reino",
       "url": "https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G"
@@ -4719,7 +4737,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 260429,
       "name": "Regal\u00e9 Mis Ojos",
       "url": "https://open.spotify.com/track/0OQRpjoRZUBSN7q3VZ1znH"
@@ -4795,7 +4813,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128573,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/5vHv37nWrQKPVlzsL0R4Zp"
@@ -4849,7 +4867,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 223040,
       "name": "Rico el Pa\u00eds",
       "url": "https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q"
@@ -4987,7 +5005,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197386,
       "name": "Santiago De Chile",
       "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
@@ -5005,7 +5023,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 154450,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
@@ -5023,10 +5041,28 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242306,
       "name": "Se Me Ocurre",
       "url": "https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89"
+    },
+    {
+      "album": {
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242306,
+      "name": "Se Me Ocurre",
+      "url": "https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa"
     },
     {
       "album": {
@@ -5085,6 +5121,24 @@
     {
       "album": {
         "name": "Abrazo",
+        "url": "https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/3Tv57oLXrydAK4Hlwm7fX6"
+    },
+    {
+      "album": {
+        "name": "Abrazo",
         "url": "https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx"
       },
       "artists": [
@@ -5095,7 +5149,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250706,
       "name": "Si Me Matan",
       "url": "https://open.spotify.com/track/5L9OruCuqnA9PGGh1VkXcm"
@@ -5113,7 +5167,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 123333,
       "name": "Si Somos Americanos",
       "url": "https://open.spotify.com/track/5kScKNyugdcqoEPKWPpBq1"
@@ -5193,7 +5247,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346506,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
@@ -5277,7 +5331,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
@@ -5299,7 +5353,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250080,
       "name": "Somos M\u00e1s Americanos",
       "url": "https://open.spotify.com/track/0kBFfb1T2aCkhSJUIo56Mz"
@@ -5379,7 +5433,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220000,
       "name": "Sororidad",
       "url": "https://open.spotify.com/track/01Wueuzjgm3EWjjmeR7AmB"
@@ -5535,7 +5589,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 248106,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/6SNNyxD0jCgoQBqNQfMTDU"
@@ -5553,7 +5607,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248466,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5"
@@ -5709,7 +5763,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 284680,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
@@ -5781,7 +5835,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 302600,
       "name": "Transgresores de la Ley",
       "url": "https://open.spotify.com/track/1tWVXH2sHASBg1W9CRObRH"
@@ -5807,7 +5861,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182439,
       "name": "Verte Regresar",
       "url": "https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns"

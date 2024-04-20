@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 89149,
+  "2024-04-20": 89412,
   "date_first_scraped": "2022-06-10",
   "description": "Summer Barbeque grilling essentials for your backyard party. Featuring 80s Classic Rock, 70s Yacht Rock, and Country Music favorites from AC/DC, Kenny Loggins, Rick Springfield, Kansas, TOTO, Van Morrison + more!",
   "name": "BBQ Classics: Best of 70s 80s 90s",
@@ -2146,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Little Miss Can't Be Wrong",
+      "url": "https://open.spotify.com/track/4mFIxFJg3Di1OIyVs7mcYh"
+    },
+    {
+      "album": {
         "name": "1999 (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
       },
@@ -3611,6 +3629,24 @@
       "duration_ms": 225600,
       "name": "True To Myself",
       "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
+    },
+    {
+      "album": {
+        "name": "Pocket Full Of Kryptonite",
+        "url": "https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256733,
+      "name": "Two Princes",
+      "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 12458,
+  "2024-04-20": 12867,
   "date_first_scraped": "2023-06-15",
   "description": "Indie and alternative favorites.",
   "name": "Dive Bar Anthems",
@@ -79,7 +79,7 @@
     {
       "album": {
         "name": "A Certain Trigger",
-        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+        "url": "https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4"
       },
       "artists": [
         {
@@ -90,6 +90,24 @@
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Apply Some Pressure",
+      "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
+    },
+    {
+      "album": {
+        "name": "A Certain Trigger",
+        "url": "https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip"
@@ -125,7 +143,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244346,
       "name": "At Night in Dreams",
       "url": "https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5"
@@ -143,7 +161,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 244346,
       "name": "At Night In Dreams",
       "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
@@ -197,7 +215,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-07",
+      "date_removed": null,
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP"
@@ -215,7 +233,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211706,
       "name": "Bohemian Like You",
       "url": "https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-17",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186560,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp"
@@ -575,10 +593,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215825,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/4Zb88sF1Qj778KV5lstVxT"
+    },
+    {
+      "album": {
+        "name": "Refried Ectoplasm [Switched On Volume 2]",
+        "url": "https://open.spotify.com/album/6grZsNH92wnHOtj4VDBEeY"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215825,
+      "name": "French Disko",
+      "url": "https://open.spotify.com/track/5BlmlqySQMeRvRm6YjhwyO"
     },
     {
       "album": {
@@ -1133,10 +1169,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225333,
       "name": "Spread Your Love",
       "url": "https://open.spotify.com/track/1gq5tbU9FTm90duAZtDZUv"
+    },
+    {
+      "album": {
+        "name": "B.R.M.C.",
+        "url": "https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Spread Your Love",
+      "url": "https://open.spotify.com/track/4mpAm83XX1iS63l8wmkEC6"
     },
     {
       "album": {
@@ -1349,10 +1403,28 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278160,
       "name": "Whatever Happened To My Rock 'N' Roll (Punk Song)",
       "url": "https://open.spotify.com/track/0wZurfElW3yOHscb38vBL8"
+    },
+    {
+      "album": {
+        "name": "B.R.M.C.",
+        "url": "https://open.spotify.com/album/5abOBUmWegGxl1YUi28ovw"
+      },
+      "artists": [
+        {
+          "name": "Black Rebel Motorcycle Club",
+          "url": "https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278160,
+      "name": "Whatever Happened To My Rock 'N' Roll (Punk Song)",
+      "url": "https://open.spotify.com/track/4A7KHIDzVdDFd81XPWFiix"
     },
     {
       "album": {
@@ -1385,7 +1457,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277466,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
@@ -1403,7 +1475,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 279293,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11108,
+  "2024-04-20": 11106,
   "date_first_scraped": "2023-03-09",
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Mindflip",
   "name": "Hip-Hop Rewind",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161613,
       "name": "2 time zones",
       "url": "https://open.spotify.com/track/4IVRrPsmHBk4VpoRPVgzZG"
@@ -87,7 +87,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 163250,
       "name": "Alejandro Sosa",
       "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/6oOX1c2fcsYbdgxUkI80h0"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159205,
       "name": "Body & A Face",
       "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Brk Frm Nrml",
       "url": "https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED"
@@ -561,6 +561,32 @@
       "duration_ms": 235859,
       "name": "Canada Goose",
       "url": "https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN"
+    },
+    {
+      "album": {
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219816,
+      "name": "Car Sick (feat. NAV & Metro Boomin)",
+      "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
     },
     {
       "album": {
@@ -631,7 +657,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266599,
       "name": "Come Inside (Kaytranada Edit)",
       "url": "https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6"
@@ -667,7 +693,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198383,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
@@ -714,6 +740,28 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/68IuaaKNXd9GAGMkqtfY5Z"
+      },
+      "artists": [
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "NojokeJigsaw",
+          "url": "https://open.spotify.com/artist/1HR6NXbtapncZNxVMpgISe"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Cost Ya",
+      "url": "https://open.spotify.com/track/0kKgA2NKTfdyucK37RthS6"
+    },
+    {
+      "album": {
         "name": "Dead Or Alive",
         "url": "https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp"
       },
@@ -751,10 +799,36 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205386,
       "name": "DnF (feat. Drake & Future)",
       "url": "https://open.spotify.com/track/5EMKS6mLi4JprJxy8IGdhT"
+    },
+    {
+      "album": {
+        "name": "DnF (feat. Drake & Future)",
+        "url": "https://open.spotify.com/album/7o1c3ILj4edCp9PH7sg7BM"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "DnF (feat. Drake & Future)",
+      "url": "https://open.spotify.com/track/6AaOtHsKd195ec0Y4kC9ER"
     },
     {
       "album": {
@@ -769,7 +843,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 197224,
       "name": "Don't Dance",
       "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"
@@ -813,7 +887,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/2B5QF7KSCv5jz2hIxyKic5"
@@ -893,7 +967,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/7poCHtHRWvgSaRezTWcW76"
@@ -1064,6 +1138,28 @@
     },
     {
       "album": {
+        "name": "Here to Stay",
+        "url": "https://open.spotify.com/album/3BhmVZuaaK2hMqkp30CWhY"
+      },
+      "artists": [
+        {
+          "name": "Slim Dinero",
+          "url": "https://open.spotify.com/artist/5M6PQwimbEZ46FXjsIcZxd"
+        },
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179047,
+      "name": "Guala",
+      "url": "https://open.spotify.com/track/46qLW9eNMxoJ2ccp1v7ZDV"
+    },
+    {
+      "album": {
         "name": "Made 4 More 2",
         "url": "https://open.spotify.com/album/1BTRlRnUM0XZaLGJBJoBqy"
       },
@@ -1079,7 +1175,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Hard to Replace (feat. Luh Kel)",
       "url": "https://open.spotify.com/track/4zJGmbyLquw8H53vrVHUKq"
@@ -1101,7 +1197,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 189450,
       "name": "Here it Goes",
       "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
@@ -1127,6 +1223,24 @@
       "duration_ms": 121904,
       "name": "Hold Out",
       "url": "https://open.spotify.com/track/4E2wIuFOblfmOxZburqG4d"
+    },
+    {
+      "album": {
+        "name": "intres-ting",
+        "url": "https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "intres-ting",
+      "url": "https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8"
     },
     {
       "album": {
@@ -1199,7 +1313,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196363,
       "name": "Jupiter & Mars",
       "url": "https://open.spotify.com/track/7GSOsyYPXAS31vaEVyzzRh"
@@ -1217,7 +1331,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 96024,
       "name": "KickStart FreeStyle",
       "url": "https://open.spotify.com/track/5lCD5KHEN070NOlP0BtgyP"
@@ -1351,7 +1465,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180748,
       "name": "Live Up to My Name",
       "url": "https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh"
@@ -1493,7 +1607,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198676,
       "name": "My Town (feat. Giggs)",
       "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
@@ -1599,7 +1713,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 109446,
       "name": "NightmareZ",
       "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
@@ -1673,7 +1787,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 267415,
       "name": "One of Mines",
       "url": "https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO"
@@ -1695,7 +1809,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153406,
       "name": "Over The Top (feat. Drake)",
       "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
@@ -1749,7 +1863,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191489,
       "name": "Pizzazz",
       "url": "https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu"
@@ -1845,7 +1959,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
@@ -2009,7 +2123,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 173658,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH"
@@ -2057,7 +2171,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232122,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
@@ -2111,10 +2225,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/5BqEut8sdVvVMqs60BgwCl"
+    },
+    {
+      "album": {
+        "name": "Trust Your Gut",
+        "url": "https://open.spotify.com/album/2sqgQk4Ks5C7FTeKm9rvh3"
+      },
+      "artists": [
+        {
+          "name": "Merkules",
+          "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229624,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/5a3cnyx9ic2LxkRiXj9PyW"
     },
     {
       "album": {
@@ -2213,7 +2345,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-31",
+      "date_removed": null,
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"

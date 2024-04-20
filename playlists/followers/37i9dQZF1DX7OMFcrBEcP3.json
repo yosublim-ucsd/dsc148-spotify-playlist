@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 81438,
+  "2024-04-20": 81500,
   "date_first_scraped": "2022-05-23",
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
   "name": "We Love Corridos Viejitos ",
@@ -173,7 +173,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174773,
       "name": "Catarino y Los Rurales",
       "url": "https://open.spotify.com/track/33JJG2BO1r1u57K2XpwfmK"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-22",
+      "date_removed": null,
       "duration_ms": 162854,
       "name": "Domingo Corrales",
       "url": "https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 162453,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3QwBIH2IqujOVmZmnymHFa"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219160,
       "name": "El Bazucazo",
       "url": "https://open.spotify.com/track/4zShCKR8dEqLNMTlZkH6zJ"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 185546,
       "name": "El Federal de Caminos",
       "url": "https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi"
@@ -1212,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
+    },
+    {
+      "album": {
         "name": "El Jardinero",
         "url": "https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL"
       },
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193106,
       "name": "El Jardinero",
       "url": "https://open.spotify.com/track/15p94RmWiXBXQidL2kX7F2"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198200,
       "name": "El Palomito",
       "url": "https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190400,
       "name": "Entre Perico y Perico",
       "url": "https://open.spotify.com/track/36m3Gq1HHTnT9BKbSuhm0R"
@@ -2064,6 +2082,24 @@
     },
     {
       "album": {
+        "name": "15 \u00c9xitos Originales Lo Mejor de los Broncos de Reynosa",
+        "url": "https://open.spotify.com/album/4vqSHUgGUdXVEbMOywYiQA"
+      },
+      "artists": [
+        {
+          "name": "Los Broncos de Reynosa",
+          "url": "https://open.spotify.com/artist/3fzjCvgvfaez28s4JTabRS"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "La Carga Ladeada",
+      "url": "https://open.spotify.com/track/2vFnXzihAFSKEMpnalM5WS"
+    },
+    {
+      "album": {
         "name": "Corridos Perros Vol.1",
         "url": "https://open.spotify.com/album/6gi63Tzp521cz82jS7ItHA"
       },
@@ -2115,7 +2151,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180426,
       "name": "La Cheyene del A\u00f1o",
       "url": "https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 195291,
       "name": "La Chiva Colgada",
       "url": "https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg"
@@ -2387,7 +2423,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165933,
       "name": "La Raza Michoacana",
       "url": "https://open.spotify.com/track/7bTIHRRwHGOhWN9ggFxxT9"
@@ -2549,7 +2585,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-30",
+      "date_removed": null,
       "duration_ms": 180653,
       "name": "Las Tres Mujeres",
       "url": "https://open.spotify.com/track/2gDESZOQKJK91LYAdtBRu1"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136706,
       "name": "Mi Clavo",
       "url": "https://open.spotify.com/track/2jibTmnltzTASYyhKashO7"
@@ -2955,6 +2991,24 @@
       "duration_ms": 162840,
       "name": "Mis Tres Viejas",
       "url": "https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP"
+    },
+    {
+      "album": {
+        "name": "Te Vengo A Ver... Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Misa de Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3TQb4FBJq97WEnL62VHpwl"
     },
     {
       "album": {
@@ -3327,7 +3381,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
@@ -3523,7 +3577,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe"
@@ -3791,7 +3845,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 145360,
       "name": "Sucedio en el Aguaje",
       "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
@@ -3925,7 +3979,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 338997,
       "name": "Un Cruzado en Palestina",
       "url": "https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR"

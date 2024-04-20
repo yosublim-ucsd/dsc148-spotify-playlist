@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8637,
+  "2024-04-20": 8639,
   "date_first_scraped": "2023-09-29",
   "description": "Reprenez ces hymnes tous en choeur jusqu'\u00e0 votre prochaine destination",
   "name": "Road trip en famille",
@@ -21,6 +21,24 @@
       "duration_ms": 197986,
       "name": "A c\u00f4t\u00e9 de toi - Version radio",
       "url": "https://open.spotify.com/track/079OwtobI8CKoSUbVYKBey"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la faveur de l'automne / Le sacre des Lemmings, et autres contes de la lisi\u00e8re",
+        "url": "https://open.spotify.com/album/2h32MXQ9FQQoYI9i23dREE"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "A la faveur de l'automne",
+      "url": "https://open.spotify.com/track/32tTZwLVOL2TtNV0o5j7li"
     },
     {
       "album": {
@@ -144,6 +162,24 @@
     },
     {
       "album": {
+        "name": "Les Frangines (Version deluxe)",
+        "url": "https://open.spotify.com/album/73qTrwDmiJbnZUfCm2bZ3S"
+      },
+      "artists": [
+        {
+          "name": "Les Frangines",
+          "url": "https://open.spotify.com/artist/2sYOUJa6fNc4ke4Zo6EkZ4"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Donnez-moi",
+      "url": "https://open.spotify.com/track/0kbDehgfwaDX6HBnl5hoyq"
+    },
+    {
+      "album": {
         "name": "Les Frangines (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1AnZKsSHpXjV4d4zyUDGu5"
       },
@@ -155,10 +191,28 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214293,
       "name": "Donnez-moi",
       "url": "https://open.spotify.com/track/2057R2gFq9MZfTzej3tSwS"
+    },
+    {
+      "album": {
+        "name": "Engelberg",
+        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "D\u00e9jeuner en paix",
+      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
     },
     {
       "album": {
@@ -173,7 +227,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239546,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/4QJfrtZEaJ51F1drECpOIe"
@@ -267,7 +321,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/2AMysGXOe0zzZJMtH3Nizb"
@@ -285,7 +339,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213933,
       "name": "Formidable",
       "url": "https://open.spotify.com/track/382n05RtneO3ykQlFQrAd1"
@@ -328,6 +382,36 @@
     },
     {
       "album": {
+        "name": "Le Roi Lion (Deluxe Collection - Lion King)",
+        "url": "https://open.spotify.com/album/0xLiUhw4KfSUUX6MC0VI0J"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Rougeul",
+          "url": "https://open.spotify.com/artist/3PzoTevg3zUvrwgDgDrc2v"
+        },
+        {
+          "name": "Jean-Philippe Puymartin",
+          "url": "https://open.spotify.com/artist/6WPnEpeD5Z91FkW0sOeyhE"
+        },
+        {
+          "name": "Michel Elias",
+          "url": "https://open.spotify.com/artist/22kowY6hA6JUuGS1tAXWnr"
+        },
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/4Cip5rpau6JC8OgBIg71jn"
+    },
+    {
+      "album": {
         "name": "The Lion King: Special Edition Original Soundtrack (Norwegian Version)",
         "url": "https://open.spotify.com/album/2fv8z7YZQCV6bsqp4gwHqO"
       },
@@ -351,7 +435,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212733,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5VeXUDkjN6EXElAPw91LUC"
@@ -485,10 +569,36 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171706,
       "name": "Je Voudrais D\u00e9j\u00e0 \u00eatre Roi",
       "url": "https://open.spotify.com/track/4uAjN3NPLhUfQE0NP61a3n"
+    },
+    {
+      "album": {
+        "name": "Le Roi Lion (Deluxe Collection - Lion King)",
+        "url": "https://open.spotify.com/album/0xLiUhw4KfSUUX6MC0VI0J"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Rougeul",
+          "url": "https://open.spotify.com/artist/3PzoTevg3zUvrwgDgDrc2v"
+        },
+        {
+          "name": "Michel Prudhomme",
+          "url": "https://open.spotify.com/artist/7I7XXmoLUcGUAvnMkZkd7I"
+        },
+        {
+          "name": "Melinda Attia",
+          "url": "https://open.spotify.com/artist/0InOXzwEUnqz7x5EX5jCKH"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "Je Voudrais D\u00e9j\u00e0 \u00catre Roi",
+      "url": "https://open.spotify.com/track/2vRKm8OTmxJP1dImXQ8Od3"
     },
     {
       "album": {
@@ -511,7 +621,7 @@
     {
       "album": {
         "name": "Ceinture noire",
-        "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
+        "url": "https://open.spotify.com/album/3Ivl72MtrJqHqzla3ar7fG"
       },
       "artists": [
         {
@@ -526,6 +636,28 @@
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199040,
+      "name": "La m\u00eame",
+      "url": "https://open.spotify.com/track/7HK0UeyxUWJjc6ndRZVKFg"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire",
+        "url": "https://open.spotify.com/album/1A8bVeAEqVs7GYfdls22hl"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 200040,
       "name": "La m\u00eame",
       "url": "https://open.spotify.com/track/1Y4FUedllg2jNVA5BRIwEc"
@@ -667,7 +799,7 @@
     {
       "album": {
         "name": "Un monde meilleur",
-        "url": "https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ"
+        "url": "https://open.spotify.com/album/77wx0Wq7baLkRsaH5ilctF"
       },
       "artists": [
         {
@@ -678,6 +810,24 @@
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174417,
+      "name": "On \u00e9crit sur les murs",
+      "url": "https://open.spotify.com/track/3DHi3fz6yRG8Z3ssWotC0d"
+    },
+    {
+      "album": {
+        "name": "Un monde meilleur",
+        "url": "https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 174417,
       "name": "On \u00e9crit sur les murs",
       "url": "https://open.spotify.com/track/5LaNypZh0fQMMy70pClm8d"
@@ -702,6 +852,24 @@
     },
     {
       "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/4WW3ME0M2dUoAK5hmbXsN7"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Papaoutai",
+      "url": "https://open.spotify.com/track/09TcIuH1ZO7i4vicWKoaN2"
+    },
+    {
+      "album": {
         "name": "Racine Carr\u00e9e (Standard US Version)",
         "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
       },
@@ -713,7 +881,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232146,
       "name": "Papaoutai",
       "url": "https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj"
@@ -749,10 +917,28 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250066,
       "name": "Quelque chose de Tennessee",
       "url": "https://open.spotify.com/track/54BqQGaBnDTkSKOp7A3MRP"
+    },
+    {
+      "album": {
+        "name": "70eme Anniversaire",
+        "url": "https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Quelque chose de Tennessee",
+      "url": "https://open.spotify.com/track/01JT9PAUZcUTEAL6yDJQ6Z"
     },
     {
       "album": {
@@ -767,7 +953,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
@@ -785,10 +971,32 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
+    },
+    {
+      "album": {
+        "name": "Ceinture noire (Transcendance)",
+        "url": "https://open.spotify.com/album/1YXFTSMHY8kqwiJDDuOIrH"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230520,
+      "name": "Reste",
+      "url": "https://open.spotify.com/track/2vruJV9zbgg0CE1x14vVFW"
     },
     {
       "album": {
@@ -807,7 +1015,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231520,
       "name": "Reste",
       "url": "https://open.spotify.com/track/4F0B8TLdJVACskfkkTqHDI"
@@ -959,7 +1167,7 @@
     {
       "album": {
         "name": "Debout les yeux ouverts",
-        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
+        "url": "https://open.spotify.com/album/63gEduDiDMEgoB3N9BRRJh"
       },
       "artists": [
         {
@@ -970,6 +1178,24 @@
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Tout le bonheur du monde",
+      "url": "https://open.spotify.com/track/0434l9P9D5MfOy6NQ8uAAn"
+    },
+    {
+      "album": {
+        "name": "Debout les yeux ouverts",
+        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
+      },
+      "artists": [
+        {
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 229426,
       "name": "Tout le bonheur du monde",
       "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
@@ -1016,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
       },
@@ -1027,7 +1271,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
@@ -1045,7 +1289,7 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223706,
       "name": "\u00c0 la faveur de l'automne",
       "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
@@ -1063,10 +1307,28 @@
       ],
       "date_added": "2021-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
+    },
+    {
+      "album": {
+        "name": "Un air de rien",
+        "url": "https://open.spotify.com/album/7q0vvjpDUdacKdjeThEx9V"
+      },
+      "artists": [
+        {
+          "name": "Trois Caf\u00e9s Gourmands",
+          "url": "https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO"
+        }
+      ],
+      "date_added": "2021-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "\u00c0 nos souvenirs",
+      "url": "https://open.spotify.com/track/4h3SqMd5F16XJVdGp5fsZG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcwnhpAC5MCO"

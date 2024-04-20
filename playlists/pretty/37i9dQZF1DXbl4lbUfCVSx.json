@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 31437,
+  "num_followers": 31443,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2024-04-06 04:00:00",
       "album": {
+        "name": "Mortal kompa",
+        "url": "https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx"
+      },
+      "artists": [
+        {
+          "name": "lucas seb",
+          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
+        }
+      ],
+      "duration_ms": 273835,
+      "name": "Mortal kompa",
+      "url": "https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz"
+    },
+    {
+      "added_at": "2024-04-06 04:00:00",
+      "album": {
         "name": "Douce Tankou Sirop",
         "url": "https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 315898,
       "name": "Douce Tankou Sirop",
       "url": "https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6"
-    },
-    {
-      "added_at": "2024-04-06 04:00:00",
-      "album": {
-        "name": "Mortal kompa",
-        "url": "https://open.spotify.com/album/7Icz6IIxVeARwDOZo9csfx"
-      },
-      "artists": [
-        {
-          "name": "lucas seb",
-          "url": "https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl"
-        }
-      ],
-      "duration_ms": 273835,
-      "name": "Mortal kompa",
-      "url": "https://open.spotify.com/track/0o1aJCYLo904JH0xyA8fgz"
     },
     {
       "added_at": "2024-04-06 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-04-06 04:00:00",
       "album": {
-        "name": "Kompa SHATTA",
-        "url": "https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm"
-      },
-      "artists": [
-        {
-          "name": "Ken'zii Bwa",
-          "url": "https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn"
-        }
-      ],
-      "duration_ms": 114934,
-      "name": "Kompa SHATTA",
-      "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
-    },
-    {
-      "added_at": "2024-04-06 04:00:00",
-      "album": {
         "name": "F\u00e8'l Vini Avan",
         "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 360200,
       "name": "Pitit deyo",
       "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
+    },
+    {
+      "added_at": "2024-04-06 04:00:00",
+      "album": {
+        "name": "Kompa SHATTA",
+        "url": "https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm"
+      },
+      "artists": [
+        {
+          "name": "Ken'zii Bwa",
+          "url": "https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn"
+        }
+      ],
+      "duration_ms": 114934,
+      "name": "Kompa SHATTA",
+      "url": "https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3"
     },
     {
       "added_at": "2024-04-06 04:00:00",
@@ -547,38 +547,6 @@
     {
       "added_at": "2024-04-06 04:00:00",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Michael Benjamin",
-          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Ou pati",
-      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
-    },
-    {
-      "added_at": "2024-04-06 04:00:00",
-      "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
-    },
-    {
-      "added_at": "2024-04-06 04:00:00",
-      "album": {
         "name": "Kilot",
         "url": "https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 309936,
       "name": "Kilot",
       "url": "https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5"
+    },
+    {
+      "added_at": "2024-04-06 04:00:00",
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
+    },
+    {
+      "added_at": "2024-04-06 04:00:00",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Michael Benjamin",
+          "url": "https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Ou pati",
+      "url": "https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H"
     },
     {
       "added_at": "2024-04-06 04:00:00",

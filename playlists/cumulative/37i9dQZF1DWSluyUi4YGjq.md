@@ -4,7 +4,7 @@
 
 > 20 new tracks added by Wisp to celebrate her new EP Pandora.
 
-618 songs - 1 day 16 hr 12 min
+620 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Dead Lands](https://open.spotify.com/track/4bFyukeX4nCR9BEY1iuhps) | [Punchlove](https://open.spotify.com/artist/5Tbdx7OG835TPTxnEgfNiW) | [Dead Lands](https://open.spotify.com/album/02N4g76ECc45R7WAsK0ml8) | 4:34 | 2023-12-08 | 2024-02-24 |
 | [dead pixels](https://open.spotify.com/track/0YxJXh7N2N5gJdmsRlEFX4) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [phantasea pharm](https://open.spotify.com/album/4N11sevcaIze3Q6xG6wIfL) | 4:00 | 2023-08-18 | 2023-09-02 |
 | [DEAR FUTURE '18](https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD) | [Coaltar Of The Deepers](https://open.spotify.com/artist/2S5Vk5knCxjALFqlMnULmZ) | [RABBIT EP](https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um) | 5:09 | 2022-12-15 | 2023-01-14 |
+| [death is my best friend](https://open.spotify.com/track/35FaJebaqjmuO1TwbTZ4ts) | [Holladay](https://open.spotify.com/artist/7EgVKRTV4O1d8EKduQzq2Q), [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [death is my best friend](https://open.spotify.com/album/2576dP2vXULafIB9D1MaCY) | 2:30 | 2024-04-19 |  |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2023-02-17 | 2023-07-18 |
 | [Destroy Us](https://open.spotify.com/track/2wSFjD7g5QQ3jiComKKDiA) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/07DZCEUCKN27wKjAHTMfST) | 4:17 | 2021-10-19 | 2022-08-02 |
 | [Destroy Us](https://open.spotify.com/track/5JTsQo9mTbBs8d68UIjNEl) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 4:17 | 2021-10-19 | 2022-07-29 |
@@ -368,6 +369,7 @@
 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-10 | 2023-09-30 |
 | [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-19 | 2022-07-19 |
 | [Lush](https://open.spotify.com/track/15kIIljB6b5pmMafU7w9CB) | [Chlorine](https://open.spotify.com/artist/5gYijxUwsux7N88QuiLQJG) | [Lust](https://open.spotify.com/album/1Zan8FfTJ2LTjwWALcs8dB) | 5:15 | 2024-02-23 |  |
+| [lust](https://open.spotify.com/track/3QRwycTXCQrrDaFvQn235B) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [lust](https://open.spotify.com/album/0Lm2tTEWpEYyZKhS5tXzku) | 3:48 | 2024-04-19 |  |
 | [Lux](https://open.spotify.com/track/6VDgwdarNZ5yaQAWhSFPS5) | [Zeruel](https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu) | [Lux](https://open.spotify.com/album/5kHxWoHIvm5u8rV6DD4flR) | 2:42 | 2023-07-21 | 2023-09-30 |
 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 | 2022-04-12 | 2023-01-14 |
 | [Mantra](https://open.spotify.com/track/5iPdRGqkEDG3Y8xTt76Z4T) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 6:28 | 2023-10-12 |  |
@@ -401,7 +403,7 @@
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-25 | 2022-11-07 |
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 |  |
 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 | 2021-10-19 | 2023-06-08 |
-| [NPC](https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [NPC](https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb) | 3:38 | 2023-10-20 |  |
+| [NPC](https://open.spotify.com/track/1UbE5driFCXOtqjRoqOqqQ) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [NPC](https://open.spotify.com/album/2djvGQmMqVG6b1rP7G2Kbb) | 3:38 | 2023-10-20 | 2024-04-20 |
 | [Oceans](https://open.spotify.com/track/53WUmuG7PPNjtbRWoN56SA) | [JAUS](https://open.spotify.com/artist/0m43w9Hjef7w2XWtttk7j2) | [Oceans](https://open.spotify.com/album/1k3X1D3AnKLXo1mnMk1WeC) | 3:17 | 2021-10-19 | 2022-07-29 |
 | [Océano](https://open.spotify.com/track/72Qedzj7OHNDti4yTh7YuD) | [Resplandor](https://open.spotify.com/artist/3vgAuHUBcrSQgTqNMcNk6o) | [Tristeza](https://open.spotify.com/album/0cTKav3mJnKD4SefScUVgY) | 7:36 | 2022-06-29 | 2022-08-04 |
 | [Old Man](https://open.spotify.com/track/2X2moPOG9suNlRdefbhDKq) | [Keep](https://open.spotify.com/artist/0oPLf7tpRZAVZMHWA0Nu7W) | [Hypnosis for Sleep](https://open.spotify.com/album/5jl789uO1UrUISOFYtzvNk) | 2:10 | 2024-04-05 |  |

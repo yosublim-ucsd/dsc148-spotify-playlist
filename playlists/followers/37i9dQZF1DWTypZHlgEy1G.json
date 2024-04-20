@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 535843,
+  "2024-04-20": 535664,
   "date_first_scraped": "2021-12-21",
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
   "name": "Standards de la Chanson Fran\u00e7aise",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169946,
       "name": "Aline",
       "url": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 170840,
       "name": "Aline",
       "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163306,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "Amoureux de ma femme",
       "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197573,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199586,
       "name": "Armstrong",
       "url": "https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264266,
       "name": "Avec le temps",
       "url": "https://open.spotify.com/track/4cncK4CmE3lW8DMCsj2494"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 266906,
       "name": "Avec le temps",
       "url": "https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182200,
       "name": "Chanson pour l'auvergnat",
       "url": "https://open.spotify.com/track/03i4HQaxKuef4sNUTB3txK"
@@ -381,6 +381,24 @@
       "duration_ms": 182360,
       "name": "Chanson pour l'Auvergnat",
       "url": "https://open.spotify.com/track/4KN47jMjOFK5QY5NHL8TGE"
+    },
+    {
+      "album": {
+        "name": "George Brassens: Douce France",
+        "url": "https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Chanson pour l'Auvergnat",
+      "url": "https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7"
     },
     {
       "album": {
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209640,
       "name": "Chez Laurette",
       "url": "https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210226,
       "name": "Chez Laurette",
       "url": "https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249333,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253013,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/3oHpcWfXvtA6RrzgYahuAT"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146333,
       "name": "Comment te dire adieu - It Hurts to Say Goodbye",
       "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
@@ -539,7 +557,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148506,
       "name": "Comment te dire adieu - Remasteris\u00e9 en 2016",
       "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186800,
       "name": "C\u00e9line",
       "url": "https://open.spotify.com/track/6IgZ9zDxJ6H0IUQ6HKBa8A"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188466,
       "name": "C\u00e9line",
       "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Douce France",
       "url": "https://open.spotify.com/track/1YwQo6MrcSn0RQfnk0iG8D"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192160,
       "name": "Douce France",
       "url": "https://open.spotify.com/track/6zlMAsPgiG81sZzsYVFwL3"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Emmenez Moi",
       "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
@@ -719,7 +737,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212746,
       "name": "Emmenez-moi",
       "url": "https://open.spotify.com/track/61Yh6AEwsba6RYsrWiNmI0"
@@ -791,7 +809,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "Fais comme l'oiseau",
       "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186693,
       "name": "Fais comme l'oiseau",
       "url": "https://open.spotify.com/track/725PsGr5yXLJl8uENrVXPa"
@@ -827,10 +845,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182253,
       "name": "Frou-Frou",
       "url": "https://open.spotify.com/track/2Ucg35BqNQWSNnBossVGVZ"
+    },
+    {
+      "album": {
+        "name": "Frou-Frou et 29 succ\u00e8s de Berthe Sylva (Chanson fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/5OBNIcpo707UYPxurX6fGW"
+      },
+      "artists": [
+        {
+          "name": "Berthe Sylva",
+          "url": "https://open.spotify.com/artist/0vR8oYjqxHpaUbZucd95a0"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Frou-Frou",
+      "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
     },
     {
       "album": {
@@ -852,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140826,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+    },
+    {
+      "album": {
         "name": "Que c'est triste Venise (Remastered 2014)",
         "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
       },
@@ -863,7 +917,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143466,
       "name": "Hier encore",
       "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
@@ -888,6 +942,24 @@
     },
     {
       "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175026,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
+    },
+    {
+      "album": {
         "name": "Paroles\u2026 paroles\u2026",
         "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
       },
@@ -899,7 +971,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176826,
       "name": "Il venait d'avoir 18 ans",
       "url": "https://open.spotify.com/track/4u1OoyLiL8ufdJOLwZE3XS"
@@ -921,24 +993,6 @@
       "duration_ms": 179666,
       "name": "Il venait d'avoir 18 ans",
       "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
-    },
-    {
-      "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "date_added": "2021-03-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 175026,
-      "name": "Il venait d'avoir 18 ans - French Version",
-      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
     },
     {
       "album": {
@@ -978,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
+        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190987,
+      "name": "J'ai deux amours",
+      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
+    },
+    {
+      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -989,7 +1061,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191053,
       "name": "J'ai Deux Amours",
       "url": "https://open.spotify.com/track/52NUhRcTRhpRj4NCkLd6Ys"
@@ -1025,7 +1097,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248133,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/123u5rlIfXR8Eynx3aabMA"
@@ -1043,7 +1115,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249013,
       "name": "Je suis malade",
       "url": "https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7"
@@ -1079,7 +1151,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199800,
       "name": "Je suis venu te dire que je m'en vais",
       "url": "https://open.spotify.com/track/35arjnsPj4gLO8aFclgexb"
@@ -1115,7 +1187,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203800,
       "name": "Je suis venu te dire que je m'en vais",
       "url": "https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm"
@@ -1133,7 +1205,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 158493,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf"
@@ -1151,7 +1223,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159106,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0cJSWKB0XV6B4zSFzTtS6b"
@@ -1169,7 +1241,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294426,
       "name": "L'aigle noir",
       "url": "https://open.spotify.com/track/2rvuhf0UzKgVuhDaLc6r7y"
@@ -1212,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "L'Aigle Noir",
+        "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297426,
+      "name": "L'aigle noir",
+      "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
+    },
+    {
+      "album": {
         "name": "Souvenirs d'un troubadour",
         "url": "https://open.spotify.com/album/3Y3Nir48qezCcwG33Kbvcl"
       },
@@ -1241,7 +1331,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
@@ -1277,7 +1367,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180893,
       "name": "L'eau vive",
       "url": "https://open.spotify.com/track/0eziJsP0e5LCvy0Drk1u4N"
@@ -1313,7 +1403,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197773,
       "name": "La ballade des gens heureux",
       "url": "https://open.spotify.com/track/2I69iebe4CftqShXyRoIZh"
@@ -1331,7 +1421,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 198240,
       "name": "La Ballade Des Gens Heureux",
       "url": "https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9"
@@ -1349,7 +1439,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245186,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/2o0hVSbnkdvDDKKVNaUxnB"
@@ -1367,7 +1457,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
@@ -1418,6 +1508,24 @@
     },
     {
       "album": {
+        "name": "L'Etonnant Serge Gainsbourg",
+        "url": "https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "La chanson de Pr\u00e9vert",
+      "url": "https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z"
+    },
+    {
+      "album": {
         "name": "L'\u00e9tonnant Serge Gainsbourg (N\u00b03)",
         "url": "https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj"
       },
@@ -1429,7 +1537,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182013,
       "name": "La chanson de Pr\u00e9vert",
       "url": "https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All"
@@ -1465,7 +1573,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177106,
       "name": "La Foule",
       "url": "https://open.spotify.com/track/6cvIJ1zOcshUv0yCtcphaG"
@@ -1483,7 +1591,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178840,
       "name": "La foule",
       "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
@@ -1509,7 +1617,7 @@
     {
       "album": {
         "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+        "url": "https://open.spotify.com/album/40C5ZxUE9bB48VhEOqhhNu"
       },
       "artists": [
         {
@@ -1520,6 +1628,24 @@
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/1JjhnamLSonSLf9RnkmhJV"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 149240,
       "name": "La javanaise",
       "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
@@ -1537,7 +1663,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153133,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/6S4VGbTsHYtqchpkCx0kxW"
@@ -1573,7 +1699,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155800,
       "name": "La madrague",
       "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
@@ -1609,7 +1735,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
@@ -1627,7 +1753,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
@@ -1663,7 +1789,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130960,
       "name": "La mauvaise r\u00e9putation",
       "url": "https://open.spotify.com/track/0EwayOD7FeIY07W30rncvf"
@@ -1681,7 +1807,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 132213,
       "name": "La mauvaise r\u00e9putation",
       "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
@@ -1717,7 +1843,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184813,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
@@ -1735,7 +1861,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185093,
       "name": "La montagne",
       "url": "https://open.spotify.com/track/6ninjFrpTv2rmMfrNFTRq7"
@@ -1771,7 +1897,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193706,
       "name": "La poup\u00e9e qui fait non",
       "url": "https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj"
@@ -1789,7 +1915,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193706,
       "name": "La poup\u00e9e qui fait non",
       "url": "https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD"
@@ -1825,7 +1951,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "La vie en rose",
       "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
@@ -1861,7 +1987,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187733,
       "name": "La Vie en rose",
       "url": "https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx"
@@ -1879,7 +2005,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "Lady Lay",
       "url": "https://open.spotify.com/track/1qB3PKYW5muVtgi5OEA68t"
@@ -1897,7 +2023,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179453,
       "name": "Lady Lay",
       "url": "https://open.spotify.com/track/2jd6aKjjhH5hu2mZedooNo"
@@ -1951,7 +2077,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
@@ -1969,28 +2095,10 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/2IvsJEIjx8fWfkTWDCuEYm"
-    },
-    {
-      "album": {
-        "name": "Le Chasseur",
-        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "date_added": "2021-03-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 184800,
-      "name": "Le chasseur",
-      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
     },
     {
       "album": {
@@ -2023,10 +2131,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184480,
       "name": "Le chasseur (Les oies sauvages)",
       "url": "https://open.spotify.com/track/69rHFP4fPoWr8lBSST9km0"
+    },
+    {
+      "album": {
+        "name": "Le Chasseur",
+        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Le chasseur (Les oies sauvages)",
+      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
     },
     {
       "album": {
@@ -2095,7 +2221,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127706,
       "name": "Le tourbillon",
       "url": "https://open.spotify.com/track/1GlwHwQqCxqaHyX4Iz21q1"
@@ -2149,7 +2275,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127333,
       "name": "Le tourbillon",
       "url": "https://open.spotify.com/track/0SfpHtKHFHryAbKwU6viHm"
@@ -2189,10 +2315,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180240,
       "name": "Les amoureux des bancs publics",
       "url": "https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ"
+    },
+    {
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
     },
     {
       "album": {
@@ -2261,7 +2405,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Les copains d'abord",
       "url": "https://open.spotify.com/track/1RarFtujsd7NHoe0mFtVLx"
@@ -2279,7 +2423,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241906,
       "name": "Les copains d'abord",
       "url": "https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ"
@@ -2333,7 +2477,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
@@ -2351,7 +2495,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250613,
       "name": "Les mots bleus",
       "url": "https://open.spotify.com/track/1rCd7kvnOBmT4dYHwHychc"
@@ -2394,6 +2538,24 @@
     },
     {
       "album": {
+        "name": "Deluxe: Les roses blanches",
+        "url": "https://open.spotify.com/album/3Rkjk3ZZYfGygICKyhqN6j"
+      },
+      "artists": [
+        {
+          "name": "Berthe Silva",
+          "url": "https://open.spotify.com/artist/72UR9TdmSwOx2wLoNMrP9t"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "Les roses blanches",
+      "url": "https://open.spotify.com/track/1BQXfo0ZYVqOUndPef2pAi"
+    },
+    {
+      "album": {
         "name": "Chante",
         "url": "https://open.spotify.com/album/1g18yXxYwQ1N660N5HFJpt"
       },
@@ -2405,7 +2567,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206933,
       "name": "Les roses blanches",
       "url": "https://open.spotify.com/track/7ydTfhNqTm76kd23L0RJrQ"
@@ -2459,7 +2621,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231200,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/0P63efIEcuG9zKYzBff6gQ"
@@ -2495,7 +2657,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232675,
       "name": "Mamy Blue",
       "url": "https://open.spotify.com/track/4HAEmZNJ29EWMyfgbfZ30J"
@@ -2531,7 +2693,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208733,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/0BRnXs3uLJF2YVt3giM3S7"
@@ -2549,7 +2711,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212466,
       "name": "Mon vieux",
       "url": "https://open.spotify.com/track/05GcBfZY8Zno2DkWToHyIw"
@@ -2585,7 +2747,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "Ne Me Quitte Pas",
       "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
@@ -2603,7 +2765,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250933,
       "name": "Ne me quitte pas - R\u00e9-enregistrement 1972",
       "url": "https://open.spotify.com/track/45CkvJbPxUS5YLy8oOQTtG"
@@ -2700,6 +2862,24 @@
     },
     {
       "album": {
+        "name": "Midnight in Paris - French Classics",
+        "url": "https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Boyer",
+          "url": "https://open.spotify.com/artist/5KIyBfTJdvEzz2OxfVvsE6"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175613,
+      "name": "Parlez moi d'amour",
+      "url": "https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc"
+    },
+    {
+      "album": {
         "name": "Parlez-moi d'amour",
         "url": "https://open.spotify.com/album/7w5tAsVVbOdWgIEhKkSNzG"
       },
@@ -2711,32 +2891,10 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180640,
       "name": "Parlez-moi d'amour",
       "url": "https://open.spotify.com/track/3iznKcLLjWek1s329iuTxh"
-    },
-    {
-      "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        },
-        {
-          "name": "Alain Delon",
-          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
-        }
-      ],
-      "date_added": "2021-03-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 243000,
-      "name": "Paroles paroles",
-      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
     },
     {
       "album": {
@@ -2762,6 +2920,28 @@
     },
     {
       "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        },
+        {
+          "name": "Alain Delon",
+          "url": "https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8"
+        }
+      ],
+      "date_added": "2021-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Paroles\u2026 paroles\u2026",
+      "url": "https://open.spotify.com/track/0sRA0BcQaCo2B7TWxdNQsl"
+    },
+    {
+      "album": {
         "name": "Paroles\u2026 paroles\u2026",
         "url": "https://open.spotify.com/album/6JiuuqFh8JDjSFNKkmoZYr"
       },
@@ -2777,7 +2957,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245146,
       "name": "Paroles\u2026 paroles\u2026",
       "url": "https://open.spotify.com/track/4upAAK88rtQ3L9vTnk5YKs"
@@ -2817,7 +2997,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153346,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
@@ -2871,10 +3051,28 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153480,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
+    },
+    {
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2024-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Que C'est Triste Venise",
+      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     },
     {
       "album": {
@@ -2889,7 +3087,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157240,
       "name": "Que c'est triste Venise",
       "url": "https://open.spotify.com/track/5paHM9dgKmjUGy8n7HufaH"
@@ -2943,7 +3141,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195533,
       "name": "Salade de fruits",
       "url": "https://open.spotify.com/track/4yvuxFp9SAPviEb7J9dtAc"
@@ -2961,7 +3159,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195280,
       "name": "Salade de fruits",
       "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
@@ -2997,7 +3195,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 132533,
       "name": "Santiano",
       "url": "https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz"
@@ -3015,7 +3213,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 134973,
       "name": "Santiano",
       "url": "https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ"
@@ -3105,7 +3303,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193106,
       "name": "Tu verras",
       "url": "https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53"
@@ -3123,7 +3321,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196106,
       "name": "Tu verras",
       "url": "https://open.spotify.com/track/5jsCb9iTwwY7VVD73PGezb"
@@ -3181,7 +3379,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
@@ -3199,7 +3397,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
@@ -3235,7 +3433,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186533,
       "name": "Vesoul",
       "url": "https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC"
@@ -3253,7 +3451,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 186533,
       "name": "Vesoul",
       "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
@@ -3271,7 +3469,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Vous permettez, monsieur ?",
       "url": "https://open.spotify.com/track/0BZkhtJceF2dcvazRrfguv"
@@ -3307,7 +3505,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182640,
       "name": "Vous permettez, monsieur ?",
       "url": "https://open.spotify.com/track/3xCE5pciNmiRNUk9J6pWeM"
@@ -3325,7 +3523,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162800,
       "name": "\u00c0 bicyclette",
       "url": "https://open.spotify.com/track/5px3ShFMjwhidOFVVc0Z4R"
@@ -3361,7 +3559,7 @@
       ],
       "date_added": "2021-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163040,
       "name": "\u00c0 bicyclette",
       "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"

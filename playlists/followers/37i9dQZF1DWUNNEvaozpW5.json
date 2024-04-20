@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 574890,
+  "2024-04-20": 574150,
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Arde Bogot\u00e1 con Bunbury.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Celtas Cortos.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/1CrN92KYQTOePdubueHipL"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/10706ilBOvqVSOAbUoxean"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 230779,
       "name": "Aviones Plateados - En Directo",
       "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 226539,
       "name": "Cada vez duele menos",
       "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
@@ -1851,6 +1851,32 @@
       "duration_ms": 276426,
       "name": "Devil Came To Me - 2007 Remastered Version",
       "url": "https://open.spotify.com/track/7oycM5ZYxqampQrp1z5Zsk"
+    },
+    {
+      "album": {
+        "name": "Devu\u00e9lveme a mi chica",
+        "url": "https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193101,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv"
     },
     {
       "album": {
@@ -1945,7 +1971,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 311866,
       "name": "Dolores se llamaba Lola",
       "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
@@ -2205,7 +2231,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287873,
       "name": "El Carro de la Vida - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/7LVBTC1yuwJxoEm9kAyTbl"
@@ -2687,7 +2713,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246339,
       "name": "EL VOLC\u00c1N",
       "url": "https://open.spotify.com/track/6aP14Dojz4IGPT6BNiYkla"
@@ -2785,7 +2811,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245026,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh"
@@ -2803,7 +2829,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
@@ -3238,6 +3264,24 @@
     },
     {
       "album": {
+        "name": "Los Zigarros",
+        "url": "https://open.spotify.com/album/2j5gSZN3pvMMBSLBJ6dhNP"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Hablar, Hablar, Hablar...",
+      "url": "https://open.spotify.com/track/4OP27AFFqUJ8de27sOIIku"
+    },
+    {
+      "album": {
         "name": "Hasta que amaneciera",
         "url": "https://open.spotify.com/album/5JE8pcfZgxn23gujCDsM4T"
       },
@@ -3423,7 +3467,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-07",
+      "date_removed": null,
       "duration_ms": 134200,
       "name": "Insurreccion (En Directo)",
       "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
@@ -3441,7 +3485,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 134200,
       "name": "Insurreccion (En Directo)",
       "url": "https://open.spotify.com/track/6xnHAQ96sirlw7Gm4ppqxG"
@@ -3745,6 +3789,24 @@
       "duration_ms": 214560,
       "name": "La Manzana - En directo",
       "url": "https://open.spotify.com/track/0p5BUKPYF6ogD5OCcHKVrE"
+    },
+    {
+      "album": {
+        "name": "La Orilla",
+        "url": "https://open.spotify.com/album/7bwz4aqT6xHJs7x2UiXNhP"
+      },
+      "artists": [
+        {
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199551,
+      "name": "La Orilla",
+      "url": "https://open.spotify.com/track/3dFqQse30uPsmAWjw67dql"
     },
     {
       "album": {
@@ -4487,7 +4549,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194666,
       "name": "MANOS VAC\u00cdAS",
       "url": "https://open.spotify.com/track/5vRBR3K4dgnp8SIEE7Rf41"
@@ -5059,7 +5121,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175333,
       "name": "No Hay Tregua",
       "url": "https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR"
@@ -5345,7 +5407,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156197,
       "name": "PALIQUE",
       "url": "https://open.spotify.com/track/3isUnEQtuJhx771cMLqcsP"
@@ -5389,7 +5451,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
@@ -5625,7 +5687,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
@@ -5643,7 +5705,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
@@ -5867,7 +5929,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 220626,
       "name": "Quiero tener tu presencia",
       "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
@@ -5975,7 +6037,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -6429,7 +6491,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244013,
       "name": "Sinti\u00e9ndolo Mucho (feat. Leiva)",
       "url": "https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE"
@@ -6487,6 +6549,24 @@
       "duration_ms": 254373,
       "name": "Soldadito marinero",
       "url": "https://open.spotify.com/track/0eVborSuxUeSg0meWYd9dZ"
+    },
+    {
+      "album": {
+        "name": "El mundo del rev\u00e9s",
+        "url": "https://open.spotify.com/album/4Q0YkTaNHufFcXxNHVrEun"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225429,
+      "name": "Solo ante el peligro",
+      "url": "https://open.spotify.com/track/6ZqIZLqSBlNmY7H4J14ikj"
     },
     {
       "album": {
@@ -6693,7 +6773,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
@@ -7101,7 +7181,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 293466,
       "name": "Una noche de amor desesperada",
       "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"
@@ -7167,7 +7247,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 217900,
       "name": "Ur\u00f3boros",
       "url": "https://open.spotify.com/track/5BYG5PsbPY8dYyXczRoSPX"

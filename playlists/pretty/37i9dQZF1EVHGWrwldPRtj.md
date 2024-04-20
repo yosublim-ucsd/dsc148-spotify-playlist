@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [弛放音乐合辑](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>、<a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>、<a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> 等更多曲风
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 43 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 50 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 |
 
-Snapshot ID: `MCwwMDAwMDAwMDYxOTM2N2U1OGYwZTY5NTAwY2Q2YmM3NzcwMWQ1YWM4`
+Snapshot ID: `MCwwMDAwMDAwMDgyMWUyZjBhMmFhMjQ3NmYwNmRiZTVkYTJkMWFhZjZh`

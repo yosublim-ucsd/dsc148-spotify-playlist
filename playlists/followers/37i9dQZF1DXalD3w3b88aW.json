@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 11271,
+  "2024-04-20": 11270,
   "date_first_scraped": "2022-02-24",
   "description": "The emotional interludes we wish were longer.",
   "name": "Mood Swing",
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72043,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/3hHOTDFrciIXTZ9SttBHNy"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 72043,
       "name": "Bluff",
       "url": "https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 145813,
       "name": "Daniel's Interlude",
       "url": "https://open.spotify.com/track/1EGvhh9BxIsSZ52Y7fQ1il"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145813,
       "name": "Daniel's Interlude",
       "url": "https://open.spotify.com/track/6hLR1DWGfMfaYERzHRzBTX"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 90826,
       "name": "Looks Good With Trouble",
       "url": "https://open.spotify.com/track/0Gd7jRGDujBSYAW3AOfXSc"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90826,
       "name": "Looks Good With Trouble",
       "url": "https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 110466,
       "name": "Maxine's Interlude",
       "url": "https://open.spotify.com/track/14gPCmJHuXrgGiytQGnv3Q"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 110466,
       "name": "Maxine's Interlude",
       "url": "https://open.spotify.com/track/6lGynZ7lt5rw97b73p9clO"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 137848,
       "name": "Runnin' - Interlude",
       "url": "https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137848,
       "name": "Runnin' - Interlude",
       "url": "https://open.spotify.com/track/6mPTMg3DKv58M5JLbUm5lf"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 39000,
       "name": "Teo Licks",
       "url": "https://open.spotify.com/track/57UEt3DqCsFpXmjk30pHBP"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 39026,
       "name": "Teo Licks",
       "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 69930,
+  "2024-04-20": 70012,
   "date_first_scraped": "2023-05-19",
   "description": "Prominent Indian independent music creators. Cover - Lucky Ali",
   "name": "Legends of Indie India",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 404245,
       "name": "Aaro Ekbar",
       "url": "https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 404245,
       "name": "Aro Ekbar",
       "url": "https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX"
@@ -93,10 +93,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 468600,
       "name": "Bandeh",
       "url": "https://open.spotify.com/track/1i8pdZ3FmoL70ghtsmmoIj"
+    },
+    {
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468793,
+      "name": "Bandheh",
+      "url": "https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku"
     },
     {
       "album": {
@@ -165,7 +183,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 317425,
       "name": "Bulla Ki Jaana Mein Kaun",
       "url": "https://open.spotify.com/track/2mDayytAT6lXBYVDWpjhpR"
@@ -183,10 +201,28 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317425,
       "name": "Bulla Ki Jana",
       "url": "https://open.spotify.com/track/71EsSmCOr91bFkCWQzyCmu"
+    },
+    {
+      "album": {
+        "name": "But It Rained (Deluxe)",
+        "url": "https://open.spotify.com/album/1wtXVpD1T2swmcbgJLbFof"
+      },
+      "artists": [
+        {
+          "name": "Parikrama",
+          "url": "https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425142,
+      "name": "But It Rained (Deluxe)",
+      "url": "https://open.spotify.com/track/2t50GB1d3Ua4WmdsIotmM5"
     },
     {
       "album": {
@@ -201,7 +237,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 425143,
       "name": "But It Rained (Extended Version)",
       "url": "https://open.spotify.com/track/6F0E0Af1cZpNczVczzSTC4"
@@ -335,10 +371,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 527754,
       "name": "Kabeera",
       "url": "https://open.spotify.com/track/4U7xldapTfEMmrNnWZd3yD"
+    },
+    {
+      "album": {
+        "name": "Mrigya",
+        "url": "https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE"
+      },
+      "artists": [
+        {
+          "name": "Mrigya",
+          "url": "https://open.spotify.com/artist/0p5FLesLYt17BYby6Vjn43"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527804,
+      "name": "Kabeera",
+      "url": "https://open.spotify.com/track/5tl6ztJRObsPut7WI1J3lu"
     },
     {
       "album": {
@@ -353,10 +407,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 460533,
       "name": "Kandisa",
       "url": "https://open.spotify.com/track/0Dynr2pQ9wrBD05IWGnxBv"
+    },
+    {
+      "album": {
+        "name": "Kandisa",
+        "url": "https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460721,
+      "name": "Kandisa",
+      "url": "https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc"
     },
     {
       "album": {
@@ -411,10 +483,32 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245000,
       "name": "Let's Work It Out",
       "url": "https://open.spotify.com/track/4BtEy5bRmoYWBgswJe5eeU"
+    },
+    {
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9"
+        },
+        {
+          "name": "Jahaziel",
+          "url": "https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Let's Work It out (feat. Jahaziel)",
+      "url": "https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c"
     },
     {
       "album": {
@@ -469,7 +563,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 349786,
       "name": "Manavyalakinchara (Mist of Capricorn)",
       "url": "https://open.spotify.com/track/4CynbtCIynnanmhYj1FW7Q"
@@ -487,7 +581,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 349786,
       "name": "Manavyalakinchara (Mist of Capricorn)",
       "url": "https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94"
@@ -567,6 +661,24 @@
     {
       "album": {
         "name": "Dhuan",
+        "url": "https://open.spotify.com/album/4ybpUVEq9QLSe6UncFUAZW"
+      },
+      "artists": [
+        {
+          "name": "Suneeta Rao",
+          "url": "https://open.spotify.com/artist/5BzzAgWSH6Q4yPQOAKeWRd"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361706,
+      "name": "Paree",
+      "url": "https://open.spotify.com/track/6tY5QQhqKXRd8qCDaTlAmg"
+    },
+    {
+      "album": {
+        "name": "Dhuan",
         "url": "https://open.spotify.com/album/3aM2nInNBIUFZRbzevm0Jp"
       },
       "artists": [
@@ -577,7 +689,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361706,
       "name": "Paree",
       "url": "https://open.spotify.com/track/7xlZrgxFI83OCzNYFyO50x"
@@ -743,7 +855,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322701,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/4ynrGpHy0cTZPRBJrhIHNP"
@@ -761,7 +873,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 322701,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/5frmIBzZKMjU2PlWJJ8Ir3"

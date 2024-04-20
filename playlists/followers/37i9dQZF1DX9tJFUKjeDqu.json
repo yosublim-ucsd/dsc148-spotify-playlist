@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 35683,
+  "2024-04-20": 35709,
   "date_first_scraped": "2022-05-26",
   "description": "Soft, instrumental blues to help you concentrate.\n",
   "name": "Blues Focus",
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 293600,
       "name": "Answer to Ronnie",
       "url": "https://open.spotify.com/track/0FEO7enEiq1uVm27W2sjFT"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293600,
       "name": "Answer To Ronnie",
       "url": "https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 230442,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/1fGPWHGdhxb8UciPOgRgyU"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230442,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/317zGzgpLAjKABVBPaikaD"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 309185,
       "name": "Blues After Hours",
       "url": "https://open.spotify.com/track/56ENCoeGxJ9PWnAJpEktgs"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 309185,
       "name": "Blues After Hours",
       "url": "https://open.spotify.com/track/59AKB7WO9P4Z1jiS7zQntK"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340693,
       "name": "Elegy for a Bluesman",
       "url": "https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340693,
       "name": "Elegy for a Bluesman",
       "url": "https://open.spotify.com/track/6ezalWK2RCMwOoVPm6Yqj7"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210013,
       "name": "It's a Rough Ride We're On",
       "url": "https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210013,
       "name": "It's a Rough Ride We're On",
       "url": "https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292762,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/2p3wZWi5ibHbmJ636e9ImG"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 292762,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 405160,
       "name": "Marje's Melody",
       "url": "https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 405160,
       "name": "Marje's Melody",
       "url": "https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097"
@@ -1605,7 +1605,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 212409,
       "name": "On My Way To See Nancy",
       "url": "https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212409,
       "name": "On My Way To See Nancy",
       "url": "https://open.spotify.com/track/7l2SXepXmjEyU1IBXlrxMr"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340389,
       "name": "Soo Soo",
       "url": "https://open.spotify.com/track/2sZxRxTAZIIWqBQzbWNSrf"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340389,
       "name": "Soo Soo",
       "url": "https://open.spotify.com/track/5Wb5ESjqKLXpUeraCpSTbG"
@@ -2351,7 +2351,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 362146,
       "name": "The Blink Of An Eye",
       "url": "https://open.spotify.com/track/0hJMvkxq0vS5oDq7y46HWX"
@@ -2369,7 +2369,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 362146,
       "name": "The Blink Of An Eye",
       "url": "https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3"

@@ -2281,7 +2281,7 @@
         },
         {
           "name": "Wardz",
-          "url": "https://open.spotify.com/artist/0M1lN3mMhgliDlANe2a0A0"
+          "url": "https://open.spotify.com/artist/2nd78NYnkIIRsWP7bhsljl"
         }
       ],
       "date_added": "2024-04-19",
@@ -12477,6 +12477,24 @@
     },
     {
       "album": {
+        "name": "Mini Me's",
+        "url": "https://open.spotify.com/album/2juJFdzjxF5S4Nca1D0sKm"
+      },
+      "artists": [
+        {
+          "name": "Meekz",
+          "url": "https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249824,
+      "name": "Mini Me's",
+      "url": "https://open.spotify.com/track/0Nfh3RkaFSCaL0MtpDSAG8"
+    },
+    {
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -17538,7 +17556,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 221564,
       "name": "Send Your Loving (feat. Tayc) [Remix]",
       "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"

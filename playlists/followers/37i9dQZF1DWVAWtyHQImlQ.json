@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 145668,
+  "2024-04-20": 145684,
   "date_first_scraped": "2022-04-19",
   "description": "All 60s, all ballads. Cover: Etta James",
   "name": "60s Ballads",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 248946,
       "name": "A Whiter Shade of Pale - Original Single Version",
       "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/42fKW5Jhj97tj0TwE1pK8u"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171226,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168840,
       "name": "Emotions - Single Version",
       "url": "https://open.spotify.com/track/6xcsBcIvvE3zIEu5gDsOkI"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "It's A Man's, Man's, Man's World",
       "url": "https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 167373,
       "name": "It's A Man's, Man's, Man's World",
       "url": "https://open.spotify.com/track/3SQ9Hb9rfpJ02AWfaOPhpy"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 151973,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5O56HDGXBEDLD1y03heq1V"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 154173,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187266,
       "name": "Your Precious Love",
       "url": "https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2019-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183960,
       "name": "Your Precious Love - Stereo Version",
       "url": "https://open.spotify.com/track/3LLqU3MrWCq2qfrYEeOVv4"

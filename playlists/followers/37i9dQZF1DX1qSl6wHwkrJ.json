@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 14794,
+  "2024-04-20": 14793,
   "date_first_scraped": "2021-12-28",
   "description": "Christmas classics from your favourite Blues artists. ",
   "name": "Christmas Blues",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268520,
       "name": "A Bluesman's Christmas",
       "url": "https://open.spotify.com/track/1N5BsYST3CYCrgGqNv2zrL"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268520,
       "name": "A Bluesman's Christmas",
       "url": "https://open.spotify.com/track/7tjI7zKXCOVHS7cfaMMnLY"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163306,
       "name": "A Little Bit Of Christmas Love",
       "url": "https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163306,
       "name": "A Little Bit of Christmas Love (Bonus Track)",
       "url": "https://open.spotify.com/track/6DPRRbx7FoQIg6XCysME9i"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155400,
       "name": "A Weary Silent Night",
       "url": "https://open.spotify.com/track/0XBRbKEaWOUwFFdttU2Q88"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 265346,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/6vhYWdn4dx1y3Xc20gtUrh"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 265346,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/6vmh4vhMa99D6KZ2NNU8u3"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 192533,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/1pvxx14nQfRglOJfQxJcDV"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192533,
       "name": "Boogie Woogie Santa Claus",
       "url": "https://open.spotify.com/track/1ralRyNhB09WyWlGyGJOrl"
@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Mark Lamarr's Rhythm & Blues Christmas",
+        "url": "https://open.spotify.com/album/6C1mVXItX2Ogzk8hisGqy3"
+      },
+      "artists": [
+        {
+          "name": "Harry Grafton",
+          "url": "https://open.spotify.com/artist/4rpFqzxvE92ob1pjkj4ygq"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Bring That Cadillac Back",
+      "url": "https://open.spotify.com/track/4u3N1uzv3OxmrUwzWom5WD"
+    },
+    {
+      "album": {
         "name": "J. B. Summers and The Blues Shouters",
         "url": "https://open.spotify.com/album/7IfhBVKvJCcVYGeBEISaKY"
       },
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163533,
       "name": "Bring That Cadillac Back (feat. Harry Crafton & Doc Bagby Orchestra)",
       "url": "https://open.spotify.com/track/6UxSLMwVMOqEE3FXLag4hY"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192906,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/1MpFJiLGfXg7WQdYHbw2f9"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 192906,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/5xgkFbIJZflD1itjY5L6ih"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-27",
+      "date_removed": null,
       "duration_ms": 348040,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/1zAJrTZdszRzt12vxc0GN3"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 348040,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/2MmByherqjfgXrmEcslkox"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205380,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/4WamHw3fBlpAo4Y1AdOkM5"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205380,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/7iRsHtzLvEtBlfYLN5BCL1"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203173,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/6pOb1aPQkuyd3UldXh7SkK"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203154,
       "name": "Christmas Morning Blues",
       "url": "https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183986,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/0bAEpMET7y6XlLqkm1eyrj"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Christmas Time Blues",
       "url": "https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 216560,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/01iehy23FOL9dyo4bDir1g"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216560,
       "name": "Christmas Train",
       "url": "https://open.spotify.com/track/2AMep7trysJeDAyfQ7E96T"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222493,
       "name": "Fattening Up The Turkey",
       "url": "https://open.spotify.com/track/0fOsnjGID1a3D6LrfygqeG"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 222493,
       "name": "Fattening Up The Turkey",
       "url": "https://open.spotify.com/track/1yHfGGKXmg1CrY2zcljhrJ"
@@ -1327,10 +1345,28 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195745,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/6XsoEbKIVrLnR8tR9G42YR"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4W32kJML1IfiPlSmAQ1hU8"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/3jMryalIecyAt3f4PiCGtf"
     },
     {
       "album": {
@@ -1363,7 +1399,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209362,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1dTbaytzmCoyFrWMvyV1BR"
@@ -1381,7 +1417,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209362,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/7ecTsJ3c6LfkHcum1h43UG"
@@ -1424,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Presenting The Moonglows",
+        "url": "https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v"
+      },
+      "artists": [
+        {
+          "name": "The Moonglows",
+          "url": "https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145773,
+      "name": "Hey Santa Claus",
+      "url": "https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf"
+    },
+    {
+      "album": {
         "name": "Jazz Collection",
         "url": "https://open.spotify.com/album/02rkTlK6y1sc6nNZXjJIZM"
       },
@@ -1453,7 +1507,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174973,
       "name": "I'm Your Santa",
       "url": "https://open.spotify.com/track/0l7GHJ9ImzdO4E3iJSQKD9"
@@ -1471,7 +1525,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 174973,
       "name": "I'm Your Santa",
       "url": "https://open.spotify.com/track/2j2xdfcAoQ48krzJlaTpof"
@@ -1525,7 +1579,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193880,
       "name": "It's Christmas Time Again (Spend, Spend, Spend)",
       "url": "https://open.spotify.com/track/2OzEePxJDmtEt9xl29XCUp"
@@ -1543,7 +1597,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193880,
       "name": "It's Christmas Time Again (Spend, Spend, Spend)",
       "url": "https://open.spotify.com/track/4DthSTvpxJUpbTWaZWGjgG"
@@ -1633,7 +1687,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231146,
       "name": "Lonesome Christmas",
       "url": "https://open.spotify.com/track/1yBXaVUr6fWW6d0dkqrdRG"
@@ -1651,7 +1705,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231146,
       "name": "Lonesome Christmas",
       "url": "https://open.spotify.com/track/5tpYxyS2Ic5rugVnlSKGU0"
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 204626,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0GpWqvadwzCfevKjQcTHWm"
@@ -1705,7 +1759,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 204626,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/3OoPWE8UFg4Vu8kMsKRApn"
@@ -1763,7 +1817,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 204080,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/4numb7lAi5gbfXLAwRs8gx"
@@ -1781,7 +1835,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 305466,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/4p4z8a8I9ORaoFqhlEwUSY"
@@ -1799,7 +1853,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203866,
       "name": "Merry Christmas Baby - New Orleans Version",
       "url": "https://open.spotify.com/track/3ps6Pv734JDeN2iZG54EDe"
@@ -1817,7 +1871,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305426,
       "name": "Merry Christmas Baby - Special Bonus Track",
       "url": "https://open.spotify.com/track/0OI7TVMEcudGu3pyuAxnTX"
@@ -1929,7 +1983,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262200,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/39tlSUW4NY0wItNa7MR1aH"
@@ -1947,7 +2001,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 262320,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2"
@@ -2005,7 +2059,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208986,
       "name": "Really Been Good This Year",
       "url": "https://open.spotify.com/track/0vEVoUboMf7x6j2SEplQ8O"
@@ -2023,7 +2077,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 208986,
       "name": "Really Been Good This Year",
       "url": "https://open.spotify.com/track/1fYAFiGWMZ2MQdP2xsIoQW"
@@ -2077,7 +2131,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -2095,7 +2149,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163373,
       "name": "Run Rudolph Run - Single Version",
       "url": "https://open.spotify.com/track/6kNsrLAZNOI4O5U5Ji1aiE"
@@ -2131,7 +2185,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "Santa Claus",
       "url": "https://open.spotify.com/track/1gYi8O7dAFAlaqckT5kNzy"
@@ -2149,7 +2203,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177000,
       "name": "Santa Claus",
       "url": "https://open.spotify.com/track/3lkLhmTRgijn96O9wWTWTZ"
@@ -2185,7 +2239,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 259533,
       "name": "Santa Claus Is Back In Town",
       "url": "https://open.spotify.com/track/0CrDBZ5QpdnUEIBPpYp28p"
@@ -2203,7 +2257,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259533,
       "name": "Santa Claus Is Back In Town",
       "url": "https://open.spotify.com/track/0ZoZqNYk87V3tul0yrwXG0"
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223466,
       "name": "Santa Claus Is Messin' with the Kid",
       "url": "https://open.spotify.com/track/0Hv0pBujoGJhB5Je2OQmNc"
@@ -2239,7 +2293,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 223466,
       "name": "Santa Claus Is Messin' with the Kid",
       "url": "https://open.spotify.com/track/7utSLHZXv0KWOR7BBLcigl"
@@ -2257,7 +2311,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203266,
       "name": "Santa Claus Wants Some Lovin'",
       "url": "https://open.spotify.com/track/35d8cz7V2ppNIwmPFV5w9g"
@@ -2275,7 +2329,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203266,
       "name": "Santa Claus Wants Some Lovin'",
       "url": "https://open.spotify.com/track/4NIprN2UmZsfOazPKLsU0j"
@@ -2347,10 +2401,36 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157600,
       "name": "Sonny Boy's Christmas Blues",
       "url": "https://open.spotify.com/track/5rbIjCVVXOyTAdX7u59HZ7"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas Baby (1950-1951)",
+        "url": "https://open.spotify.com/album/35QfACrmI15EQdKUSQCZ3o"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        },
+        {
+          "name": "His Harmonica",
+          "url": "https://open.spotify.com/artist/3SZ6jDra9YUYwBfwICOY9p"
+        },
+        {
+          "name": "Houserockers",
+          "url": "https://open.spotify.com/artist/2lB3JZ8mfRSa63NWZs4r6R"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154733,
+      "name": "Sonny Boy's Christmas Blues",
+      "url": "https://open.spotify.com/track/4weFccuXOr6pFIC58i5cvq"
     },
     {
       "album": {
@@ -2467,7 +2547,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188804,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1VN41eUF6GgeZdNIYSVj6b"
@@ -2525,7 +2605,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 205066,
       "name": "Zydeco Christmas",
       "url": "https://open.spotify.com/track/6BZQxhVnaJdEL29bn1T9gA"
@@ -2543,7 +2623,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205066,
       "name": "Zydeco Christmas",
       "url": "https://open.spotify.com/track/7gasD9T7DdXyjyotYJJ4vJ"

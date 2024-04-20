@@ -4341,7 +4341,7 @@
     },
     {
       "album": {
-        "name": "Dr\u00f6mf\u00e5ngare",
+        "name": "DR\u00d6MF\u00c5NGARE",
         "url": "https://open.spotify.com/album/2jVfLZceQpyVa67SV4j0Wl"
       },
       "artists": [
@@ -16108,7 +16108,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 215735,
       "name": "Segeltorp",
       "url": "https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u"
@@ -19230,6 +19230,28 @@
       "duration_ms": 187106,
       "name": "Third strike",
       "url": "https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5"
+    },
+    {
+      "album": {
+        "name": "This Right Here",
+        "url": "https://open.spotify.com/album/1VLk0YxKsUyIf7OqDlmS1G"
+      },
+      "artists": [
+        {
+          "name": "Ulrik Munther",
+          "url": "https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM"
+        },
+        {
+          "name": "Free Will",
+          "url": "https://open.spotify.com/artist/5oMmUxH4OljQDTGkkZDLaY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261006,
+      "name": "This Right Here",
+      "url": "https://open.spotify.com/track/2zBQE3F3st2HToVlhG2dQ0"
     },
     {
       "album": {

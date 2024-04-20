@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 974438,
+  "2024-04-20": 973388,
   "date_first_scraped": "2021-12-21",
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
   "name": "Morning Commute",
@@ -841,6 +841,24 @@
     {
       "album": {
         "name": "Angel",
+        "url": "https://open.spotify.com/album/5YtvD7V1TE3fuE8ok4wsMW"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305160,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/23DwQbHY3nDj1ego2cx1Q9"
+    },
+    {
+      "album": {
+        "name": "Angel",
         "url": "https://open.spotify.com/album/3iGBGOKL0eH0MjBZHHN4qU"
       },
       "artists": [
@@ -869,7 +887,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 305160,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4HhqdvbBk2YeGayKnBZxF6"
@@ -3045,7 +3063,7 @@
     {
       "album": {
         "name": "Unreal Unearth",
-        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+        "url": "https://open.spotify.com/album/0TFpENEamBfIfGISdSTXFB"
       },
       "artists": [
         {
@@ -3060,6 +3078,28 @@
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268653,
+      "name": "Damage Gets Done",
+      "url": "https://open.spotify.com/track/1EYP6mRfJY45IDKETJsjMO"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth",
+        "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
@@ -3803,7 +3843,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-14",
+      "date_removed": null,
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
@@ -3821,7 +3861,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184746,
       "name": "Empty Room",
       "url": "https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU"
@@ -5714,6 +5754,24 @@
     },
     {
       "album": {
+        "name": "Home Is Where The Hurt Is",
+        "url": "https://open.spotify.com/album/2yZZdzNyIzNm2PVnLZMWwO"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Home Is Where The Hurt Is",
+      "url": "https://open.spotify.com/track/2VwAnJDRNjLQMIAgCgGhvG"
+    },
+    {
+      "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI"
       },
@@ -5725,7 +5783,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240706,
       "name": "Home Is Where The Hurt Is",
       "url": "https://open.spotify.com/track/4sg4F6umL7Sqw72el799mV"
@@ -10905,7 +10963,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/1eCYt8zLtpnrwE1P5Gq4dD"
@@ -10927,6 +10985,24 @@
       "duration_ms": 194262,
       "name": "Really Mean It",
       "url": "https://open.spotify.com/track/4S5F8SY0JV4xBm2juOXwSC"
+    },
+    {
+      "album": {
+        "name": "Really Mean It",
+        "url": "https://open.spotify.com/album/4N4e8nrMt10llVtkUwPKrz"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194262,
+      "name": "Really Mean It",
+      "url": "https://open.spotify.com/track/4vhC4RETf50LkuIAHMqb1f"
     },
     {
       "album": {

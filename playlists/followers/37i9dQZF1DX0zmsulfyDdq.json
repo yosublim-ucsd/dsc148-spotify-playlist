@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 292159,
+  "2024-04-20": 292229,
   "date_first_scraped": "2022-04-19",
-  "description": "Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
+  "description": "Help your little one drift off to sleep with this soothing playlist of Disney favorites, including Wish.",
   "name": "Disney Lullaby",
   "tracks": [
     {
@@ -3547,6 +3547,24 @@
       "duration_ms": 275760,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Wish",
+        "url": "https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229"
     },
     {
       "album": {

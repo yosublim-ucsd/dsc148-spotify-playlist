@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 71337,
+  "2024-04-20": 71342,
   "date_first_scraped": "2021-12-28",
   "description": "Alternative Arabic songs. Cover: Mohammed Saeed",
   "name": "Arab Indie",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/5lyUDM4Bsb0xMelClStJk7"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246026,
       "name": "Aman Aman",
       "url": "https://open.spotify.com/track/2j7P3MgabmaHfcxNLZNMfg"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 246073,
       "name": "Aman Aman",
       "url": "https://open.spotify.com/track/4PxgQVobtqrn0MSSFu4GIS"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-01",
+      "date_removed": null,
       "duration_ms": 172861,
       "name": "Ghouyoum",
       "url": "https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172861,
       "name": "Ghouyoum",
       "url": "https://open.spotify.com/track/4jRENpUjx6AVcs4qwDPmn5"
@@ -1113,6 +1113,24 @@
     {
       "album": {
         "name": "Hashrab Hashish",
+        "url": "https://open.spotify.com/album/0GDXEudxSlauLzuQxfq2KO"
+      },
+      "artists": [
+        {
+          "name": "Luka Salam",
+          "url": "https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Hashrab Hashish",
+      "url": "https://open.spotify.com/track/4S7oLETjomhx5WCDHf1166"
+    },
+    {
+      "album": {
+        "name": "Hashrab Hashish",
         "url": "https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX"
       },
       "artists": [
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184123,
       "name": "Hashrab Hashish",
       "url": "https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9"
@@ -1513,7 +1531,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 212214,
       "name": "Lahali",
       "url": "https://open.spotify.com/track/5QHKRsNsL8c6sXCSNnIhAc"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212214,
       "name": "Lahali",
       "url": "https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx"
@@ -2087,15 +2105,11 @@
         {
           "name": "Bigsam",
           "url": "https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8"
-        },
-        {
-          "name": "siilawy",
-          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
         }
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 207840,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/69UHeUvlSuDB6lBQfzWZe1"
@@ -2117,7 +2131,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207888,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN"
@@ -2605,7 +2619,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn"
@@ -2623,7 +2637,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"
@@ -2681,7 +2695,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193346,
       "name": "Wainek Min Zaman",
       "url": "https://open.spotify.com/track/29DwQyK5zL5VRfC3dKpKUy"
@@ -2699,7 +2713,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 193384,
       "name": "Wainek Min Zaman",
       "url": "https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS"
@@ -3085,7 +3099,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 260476,
       "name": "\u062e\u0627\u0637\u064a",
       "url": "https://open.spotify.com/track/6yEHeItedqVCm48d9yturc"
@@ -3103,7 +3117,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 260527,
       "name": "\u062e\u0627\u0637\u064a",
       "url": "https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b"
@@ -3255,7 +3269,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187501,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR"
@@ -3273,7 +3287,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187508,
       "name": "\u0639\u0634\u0627\u0646\u0643",
       "url": "https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx"

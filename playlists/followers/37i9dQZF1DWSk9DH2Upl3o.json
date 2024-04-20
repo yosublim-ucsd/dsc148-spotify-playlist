@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 30140,
+  "2024-04-20": 30159,
   "date_first_scraped": "2022-06-28",
   "description": "The jam scene is alive and well. Cover: SunSquabi",
   "name": "Modern Jam Band",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 401213,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 393266,
       "name": "Another Plan of Attack",
       "url": "https://open.spotify.com/track/6z8lUADbhHlP3eKNfVtqjZ"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-21",
+      "date_removed": null,
       "duration_ms": 394596,
       "name": "Another Plan of Attack",
       "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
@@ -280,7 +280,7 @@
         },
         {
           "name": "Josh Phillips",
-          "url": "https://open.spotify.com/artist/7LYmBFwfXHGqCDWvHfARke"
+          "url": "https://open.spotify.com/artist/2yoLBWKwU6H5gw1UE8TDul"
         }
       ],
       "date_added": "2024-03-01",
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 306840,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 306840,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/5UgymKh4hQH97G0m7sJeYl"
@@ -635,10 +635,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 218949,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/3AZlc4kfSwUi3H58Oh4r5h"
+    },
+    {
+      "album": {
+        "name": "Nowhere To Go But Everywhere",
+        "url": "https://open.spotify.com/album/2ispQP4b20p3IoW4bWfHrQ"
+      },
+      "artists": [
+        {
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218949,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/3oVXcvauOF5fUgQXtfcyVy"
     },
     {
       "album": {
@@ -899,7 +917,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389403,
       "name": "Fate",
       "url": "https://open.spotify.com/track/21wWMrhOMhSGwU2iRB2kYv"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 389403,
       "name": "Fate",
       "url": "https://open.spotify.com/track/482ebo7gGPGL1NAubLzYJM"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186763,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
@@ -1739,10 +1757,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250573,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/12tRRP8jnBGOc3eQMFpcxk"
+    },
+    {
+      "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/0fn00wTH1vbkr4dWpozmOS"
+      },
+      "artists": [
+        {
+          "name": "WIZRD",
+          "url": "https://open.spotify.com/artist/1PJytjaK6elVRZ7ZI3u3lr"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250573,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/1rT1QBkBlfmhwbggWMAP5Z"
     },
     {
       "album": {
@@ -1851,6 +1887,24 @@
       "duration_ms": 288711,
       "name": "Madman's Eyes",
       "url": "https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1"
+    },
+    {
+      "album": {
+        "name": "Sorry, Kids",
+        "url": "https://open.spotify.com/album/2RkP7plWT7JDYYNnoINWJp"
+      },
+      "artists": [
+        {
+          "name": "Taylor Scott Band",
+          "url": "https://open.spotify.com/artist/5XVKB8kFnLX5NLNMEwvIBe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259851,
+      "name": "Make That Booty Clap (Must Be Jelly)",
+      "url": "https://open.spotify.com/track/0uzRJgu1yEtDgzffzo4PyN"
     },
     {
       "album": {
@@ -2357,7 +2411,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 347600,
       "name": "Scarlet Begonias",
       "url": "https://open.spotify.com/track/7w3f1gluu1NTtKcTD6s5p0"
@@ -2379,7 +2433,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 347600,
       "name": "Scarlet Begonias (feat. Oteil Burbridge)",
       "url": "https://open.spotify.com/track/08cjN3kq6Ox1RGcITIFjOO"
@@ -2723,7 +2777,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 414475,
       "name": "The $1000 Question",
       "url": "https://open.spotify.com/track/1HgB8yD2d196KAW5gCGq9k"
@@ -2757,7 +2811,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 414475,
       "name": "The $1000 Question",
       "url": "https://open.spotify.com/track/5ZtQFLmOlYAd16NgGZDACL"
@@ -2931,7 +2985,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/184uLww2SrfPYRWs6RuyGN"
@@ -2949,7 +3003,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 513070,
       "name": "The World Is A Ghetto",
       "url": "https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI"
@@ -3118,6 +3172,24 @@
     },
     {
       "album": {
+        "name": "Walk Around The Moon",
+        "url": "https://open.spotify.com/album/4PN9sGknmzIRLE2pItVS5u"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289636,
+      "name": "Walk Around the Moon",
+      "url": "https://open.spotify.com/track/7iBUz3MdI11jzHsmuyO0Ou"
+    },
+    {
+      "album": {
         "name": "Walk Around the Moon",
         "url": "https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6"
       },
@@ -3147,7 +3219,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 289853,
       "name": "Walk Around the Moon",
       "url": "https://open.spotify.com/track/37WuRklCFQVuTw7hZeUE6o"
@@ -3409,10 +3481,28 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382887,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/3lFyL9JJvWnlZ13YzpTwzS"
+    },
+    {
+      "album": {
+        "name": "Yourself",
+        "url": "https://open.spotify.com/album/2MAH1uPu3OZHwLEiHg7bhJ"
+      },
+      "artists": [
+        {
+          "name": "Mildlife",
+          "url": "https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382887,
+      "name": "Yourself",
+      "url": "https://open.spotify.com/track/4JQkCqj2vjcsECCL37bPEL"
     },
     {
       "album": {

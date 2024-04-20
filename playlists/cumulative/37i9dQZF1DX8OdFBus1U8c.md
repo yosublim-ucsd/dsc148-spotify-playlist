@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip\-Hop!<br/>Cover : Neeraj Madhav
 
-164 songs - 8 hr 47 min
+165 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Thamburati](https://open.spotify.com/track/7zZsi7kpplYLn7q7K6qQUu) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm) | [Thamburati](https://open.spotify.com/album/05fOT0Hp6GgFl5cdiFOCrN) | 2:58 | 2022-04-18 | 2024-03-01 |
 | [Thampuran](https://open.spotify.com/track/4xKPUaIGFKtArC7di4oqDu) | [AK Hash](https://open.spotify.com/artist/4X0Ez8IAyMT3vPbwHENoF9), [Sachin Raj](https://open.spotify.com/artist/4N0UOy9N9HGnKVVjNcnBsR) | [Thampuran](https://open.spotify.com/album/33kfbVUPzhJmLENH92yis5) | 4:16 | 2024-01-12 | 2024-02-13 |
 | [Thannatthaan \- From "Naradan"](https://open.spotify.com/track/6VcGJCQwQlpKWkrQ7wCIJS) | [DJ Sekhar](https://open.spotify.com/artist/2AepjEFzesduzgTezL8263), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Manchild](https://open.spotify.com/artist/29DEknQpxdiLrlgOHxnWKF) | [Thannatthaan \(From "Naradan"\)](https://open.spotify.com/album/4IMYANN7cQvkyFsFUtci3O) | 3:17 | 2022-04-18 |  |
+| [The Last Dance](https://open.spotify.com/track/5EbJjO0X1Xw620AXZMyyNZ) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Aavesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki) | 1:23 | 2024-04-19 |  |
 | [Therapara](https://open.spotify.com/track/5bcDMaATnR4HzSHzYjWRNS) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:10 | 2023-07-23 |  |
 | [Theruvinte Kalakaran](https://open.spotify.com/track/07m5XcQaa9fFVPsCPyTtof) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Theruvinte Kalakaran](https://open.spotify.com/album/363vnlGOUs1yjshF3cxwlX) | 3:28 | 2022-06-23 |  |
 | [Theruvinte Mon](https://open.spotify.com/track/0uf8atzwCLOdHhn7Fh3Ms1) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [Theruvinte Mon](https://open.spotify.com/album/1n3teNhKap8DypDAAEHdoI) | 2:43 | 2024-02-12 |  |

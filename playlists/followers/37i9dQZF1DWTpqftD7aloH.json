@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 347364,
+  "2024-04-20": 347514,
   "date_first_scraped": "2022-09-15",
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
   "name": "Louvando no Tr\u00e2nsito",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 562388,
       "name": "A Casa \u00c9 Sua",
       "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 425800,
       "name": "Aquieta Minh'alma",
       "url": "https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 301311,
       "name": "Em Meio Ao Vendaval (Ao Vivo)",
       "url": "https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-04",
+      "date_removed": null,
       "duration_ms": 362666,
       "name": "Estremece a Terra",
       "url": "https://open.spotify.com/track/4dAXUOXLtF5Tj5BQZ65zug"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346697,
       "name": "Eu Te Vejo Em Tudo",
       "url": "https://open.spotify.com/track/7DWmnmZJicTPIxoZb0m9Go"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317013,
       "name": "Fica Tranquilo",
       "url": "https://open.spotify.com/track/5M3cdM4H3Lv425CN5Nq8cM"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-18",
+      "date_removed": null,
       "duration_ms": 317013,
       "name": "Fica Tranquilo",
       "url": "https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe"
@@ -1899,6 +1899,32 @@
       "duration_ms": 245136,
       "name": "Filho - Ao Vivo",
       "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
+    },
+    {
+      "album": {
+        "name": "Flutuar",
+        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214191,
+      "name": "Flutuar",
+      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
     },
     {
       "album": {
@@ -2131,7 +2157,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 281760,
       "name": "Grita! (Shout!) - Ao Vivo",
       "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
@@ -2999,7 +3025,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314640,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/5uWsP8qTYiCLycyFxf9pYE"
@@ -3409,7 +3435,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 495026,
       "name": "Oceanos (Onde Meus P\u00e9s Podem Falhar) [Oceans Where Feet May Fail] - Ao Vivo",
       "url": "https://open.spotify.com/track/0fLXW4Nn98fE571xO5qpMt"
@@ -3431,10 +3457,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536000,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
     },
     {
       "album": {
@@ -3963,7 +4011,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-31",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Quem Te Guarda \u00c9 Deus",
       "url": "https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak"
@@ -4377,7 +4425,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 431072,
       "name": "Se Eu Me Humilhar - Ao Vivo",
       "url": "https://open.spotify.com/track/5tPLQS4JuRh0kqMUnRhALL"
@@ -4395,7 +4443,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 431080,
       "name": "Se Eu Me Humilhar - Ao Vivo",
       "url": "https://open.spotify.com/track/1iyfDciNARp0q8ntP6xF6K"
@@ -4785,7 +4833,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 314297,
       "name": "Todo Poderoso - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ko5h3XvOo2u9qr0XkgHdH"
@@ -5289,7 +5337,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 472000,
       "name": "Yahweh Se Manifestar\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/3plqEt5OtBwy5oiCupu9O6"
@@ -5329,7 +5377,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 522461,
       "name": "Yeshua",
       "url": "https://open.spotify.com/track/2EMy05KEE6JLDUSvnklzk6"
@@ -5395,6 +5443,32 @@
       "duration_ms": 243409,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/337boaYUw9T4DArIIASGT9"
+    },
+    {
+      "album": {
+        "name": "Som do Secreto Vol.3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QpOUVnR9gvy8mXdD5mLdT"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "Jos\u00e9 Jr",
+          "url": "https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6"
+        },
+        {
+          "name": "Alessandro Vilas Boas",
+          "url": "https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597352,
+      "name": "Yeshua - Ao Vivo",
+      "url": "https://open.spotify.com/track/04c9qb1R40fw6F5H86pJeI"
     },
     {
       "album": {

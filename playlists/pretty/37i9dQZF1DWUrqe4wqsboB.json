@@ -1,6 +1,6 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Ana Macho",
-  "num_followers": 5462,
+  "num_followers": 5468,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 264038,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Tejido de Laurel",
         "url": "https://open.spotify.com/album/5pE7hfdLbcswAR4fMvPp2B"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 62986,
       "name": "Hilos",
       "url": "https://open.spotify.com/track/5jedB0wihSnYa93YAOwZZD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/43ouDVkgCx8hfZ7UbSYpoB"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 264038,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/0SPr1VZrc4sQ0IWz3iXkr6"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -395,6 +395,70 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Hasta el final",
+        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hasta el final",
+      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "La Estrella del Show",
+        "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "La Estrella del Show",
+      "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tu Mundo",
+        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "Tu Mundo",
+      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -423,22 +487,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -459,38 +507,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Hasta el final",
-        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hasta el final",
-      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "La Estrella del Show",
-        "url": "https://open.spotify.com/album/7DDXnFfS9GhbzewYgRAkKf"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 177958,
-      "name": "La Estrella del Show",
-      "url": "https://open.spotify.com/track/6BdwWjSICtNMrNx9npEDuX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Nacarile",
         "url": "https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 174080,
       "name": "(Escap\u00e1ndome) de m\u00ed",
       "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Tu Mundo",
-        "url": "https://open.spotify.com/album/0lB32Pr3KZsLqLR7JCnjQ6"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "Tu Mundo",
-      "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
     },
     {
       "added_at": "2024-03-15 04:00:00",

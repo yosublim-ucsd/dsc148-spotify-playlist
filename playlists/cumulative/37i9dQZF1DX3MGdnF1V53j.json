@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Ma Sweetie",
+        "url": "https://open.spotify.com/album/2LSb2pNWAqYM3BhwnHc5W5"
+      },
+      "artists": [
+        {
+          "name": "Bouzzy",
+          "url": "https://open.spotify.com/artist/3rOWue4cNcIcaurmz1iqU9"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151005,
+      "name": "Ma Sweetie",
+      "url": "https://open.spotify.com/track/21yj46QAJ0LjbmixDo6Ibd"
+    },
+    {
+      "album": {
         "name": "Machi 3adi",
         "url": "https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 160473,
       "name": "Wili",
       "url": "https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk"

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 311421,
+  "2024-04-20": 311633,
   "date_first_scraped": "2022-05-01",
   "description": "A taste of French caf\u00e9 culture; the charming sounds of the Parisian streets.",
   "name": "Caf\u00e9 de Paris",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 210613,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0u1Z6QGnebrQTI00Ep05rZ"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210613,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "Boum musette",
       "url": "https://open.spotify.com/track/5o21zzrmo3ppnruabrr1Fa"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 145173,
       "name": "Boum Musette",
       "url": "https://open.spotify.com/track/7wBDJL7T1pSzwpfm5fzqjt"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 242066,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/6W8cg08lZU9JnndwYtEhTS"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242066,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/1CEjw6vteEMITpEl15WseM"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146466,
       "name": "Courtoise musette",
       "url": "https://open.spotify.com/track/78Q7kxeHrk1Qnh5fCSzi5l"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146466,
       "name": "Courtoisie Musette",
       "url": "https://open.spotify.com/track/1PGdiadhp5dIYvLOQJmBZo"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178266,
       "name": "Die Prinzessin des Akkordeons",
       "url": "https://open.spotify.com/track/7bkF2XCl41sxITMEVfamKq"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "Die Prinzessin des Akkordeons",
       "url": "https://open.spotify.com/track/7fQBdAmIIcaK0xYfn8vjRl"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216533,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/5UwkZZP8FoClw3lNhKLXGy"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/0i7gyqUzc0eF4y9nIJNemA"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183933,
       "name": "L'ombre de Ton Sourire",
       "url": "https://open.spotify.com/track/4cNus5tgT5v9UF9uF41dpU"
@@ -2795,7 +2795,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Pour Chopin",
       "url": "https://open.spotify.com/track/2ZEIj6XsMcGqNMct7cn9f9"
@@ -2831,7 +2831,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199080,
       "name": "Pour Michele",
       "url": "https://open.spotify.com/track/74rD7WHLAShBWZaOoajaYZ"
@@ -3009,7 +3009,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172666,
       "name": "Reve d'accordeonist",
       "url": "https://open.spotify.com/track/1Lz7wiD9KaBS7zptRQJbWk"
@@ -3089,7 +3089,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 172666,
       "name": "R\u00eave d'accordeonist",
       "url": "https://open.spotify.com/track/3ZDqCG9RzyaJSVxaQgvaal"
@@ -3125,7 +3125,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214826,
       "name": "Sauvageonne",
       "url": "https://open.spotify.com/track/0Ff6dRcjdx0IdMWbpk5cVV"
@@ -3147,7 +3147,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214826,
       "name": "Sauvageonne",
       "url": "https://open.spotify.com/track/77zttmofwkD3dTNWEgxuOq"
@@ -3165,7 +3165,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 142906,
       "name": "Sensibilite Musette",
       "url": "https://open.spotify.com/track/6N7djpUh42oguiWKyoVivT"
@@ -3183,7 +3183,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 142906,
       "name": "Sensibilit\u00e9 musette",
       "url": "https://open.spotify.com/track/23c4owlvn3O72bWlHx1Kb5"
@@ -3205,6 +3205,24 @@
       "duration_ms": 142906,
       "name": "Sensibilit\u00e9 musette",
       "url": "https://open.spotify.com/track/2wliHjwY0veVidLVYLQdhv"
+    },
+    {
+      "album": {
+        "name": "Sometime Ago",
+        "url": "https://open.spotify.com/album/3kyIBZMvMKerwf85pCEBHo"
+      },
+      "artists": [
+        {
+          "name": "Quintet de Jazz Parisien",
+          "url": "https://open.spotify.com/artist/5jjAtTkp5UsT9PQyGfFOwO"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185943,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/3udoYwO5okk3sIwyxtlOhm"
     },
     {
       "album": {
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-07",
+      "date_removed": null,
       "duration_ms": 164333,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/4mEaQLFPna3vD3mOltpzho"
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160413,
       "name": "Sous Le Ciel De Paris - 1951",
       "url": "https://open.spotify.com/track/3uLV311pq2SRLKbiV8oA64"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 185165,
       "name": "Sunbeam Bossa",
       "url": "https://open.spotify.com/track/1vh9W9ZWrC7n646F9xylVx"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185165,
       "name": "Sunbeam Bossa",
       "url": "https://open.spotify.com/track/3u5eEzUziM9DKtGlWDxH3s"
@@ -3615,7 +3633,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157000,
       "name": "Valse Aux Champs-Elysees",
       "url": "https://open.spotify.com/track/1Wxdx6fbqM380Gf9C0ODBC"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 157028,
       "name": "Valse Aux Champs-Elysees",
       "url": "https://open.spotify.com/track/501iTeeBoE0l0lDoUUNO3R"
@@ -3741,7 +3759,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214173,
       "name": "Valse violette",
       "url": "https://open.spotify.com/track/7xwWj1c8EgNPS8ez6xmOjd"
@@ -3763,7 +3781,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214173,
       "name": "Valse violette",
       "url": "https://open.spotify.com/track/67Mpe35GP02yAmQFCtXVVF"
@@ -3803,7 +3821,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 238040,
       "name": "Volo degli angeli",
       "url": "https://open.spotify.com/track/4DxBTULiLnGnvD1C4hjNfM"
@@ -3839,7 +3857,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238040,
       "name": "Volo degli angeli (Flight of the Angels)",
       "url": "https://open.spotify.com/track/6iIsE9H3kmwV2mhvUBf9rn"
@@ -3857,7 +3875,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 163466,
       "name": "Wenn Mademoiselle dich kusst",
       "url": "https://open.spotify.com/track/5y5mJLGym2sSuuZbTf2saN"
@@ -3879,7 +3897,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163466,
       "name": "Wenn Mademoiselle dich k\u00fcsst",
       "url": "https://open.spotify.com/track/3EtlvHFNd6C9ReDEX8Ep6t"

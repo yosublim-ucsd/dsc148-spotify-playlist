@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 69810,
+  "2024-04-20": 69924,
   "date_first_scraped": "2023-05-03",
   "description": "Crusin' is not a crime, it's a lifestyle! ",
   "name": "Lowrider Crusin'",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178000,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/3BMePsiHhkMmUnGFYxvBiZ"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-20",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/7K4VGWx0F3XY3QQZQ3FWi2"
@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "Heatwave's Greatest Hits",
+        "url": "https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287266,
+      "name": "Always and Forever - Edit",
+      "url": "https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY"
+    },
+    {
+      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -89,7 +107,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 290866,
       "name": "Always and Forever - Single Version",
       "url": "https://open.spotify.com/track/6wiL61UORY5exOzXFBxPlc"
@@ -215,10 +233,46 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Stylistics",
+        "url": "https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Betcha By Golly, Wow",
+      "url": "https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ"
+    },
+    {
+      "album": {
+        "name": "Between The Sheets",
+        "url": "https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338133,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX"
     },
     {
       "album": {
@@ -233,7 +287,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 340013,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
@@ -251,7 +305,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 244053,
       "name": "Boy With the Angel Eyes",
       "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
@@ -399,10 +453,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156106,
       "name": "Darling Baby",
       "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
+    },
+    {
+      "album": {
+        "name": "Tonight's The Night",
+        "url": "https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120306,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j"
     },
     {
       "album": {
@@ -417,7 +489,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 124186,
       "name": "Dedicated To The One I Love",
       "url": "https://open.spotify.com/track/4HdRMye6yPWOFrfLLM7W6b"
@@ -565,7 +637,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171066,
       "name": "Earth Angel",
       "url": "https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE"
@@ -583,7 +655,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
@@ -652,6 +724,24 @@
     },
     {
       "album": {
+        "name": "Float On",
+        "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 708866,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/4YmKTCL86mpGHUS0sEWAUV"
+    },
+    {
+      "album": {
         "name": "The Floaters",
         "url": "https://open.spotify.com/album/3R4GYvXz5zKCBG7rgUeEjX"
       },
@@ -663,7 +753,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 708866,
       "name": "Float On",
       "url": "https://open.spotify.com/track/7xg0Rbj3SVOVzQVJEqh5Zd"
@@ -807,10 +897,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160080,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/1lv1pjnBPOQbGBt4tYedy6"
+    },
+    {
+      "album": {
+        "name": "Solid Gold Northern Soul",
+        "url": "https://open.spotify.com/album/4IUMwDgxFzz1GDtg6zx8qC"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160080,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/6p3bMHTo45nQZTg3ntxPzt"
     },
     {
       "album": {
@@ -973,7 +1081,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 146809,
       "name": "I Like the Way You Love Me",
       "url": "https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr"
@@ -1067,7 +1175,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 186237,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt"
@@ -1157,7 +1265,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 255560,
       "name": "I Want You, I Need You, I Love You",
       "url": "https://open.spotify.com/track/5rsL7vz0rU31i1Ugd5lyQY"
@@ -1193,10 +1301,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188800,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
+    },
+    {
+      "album": {
+        "name": "Dead Presidents Vol. 1/Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/09yaGU6AaYLHAONWqhWmMk"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2fzv6NSM477kN87qmiz07m"
     },
     {
       "album": {
@@ -1247,7 +1373,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 191636,
       "name": "I'm Still in Love with You",
       "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
@@ -1273,6 +1399,28 @@
     {
       "album": {
         "name": "Ilusi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM"
+      },
+      "artists": [
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225796,
+      "name": "Ilusi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq"
+    },
+    {
+      "album": {
+        "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
       "artists": [
@@ -1287,7 +1435,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225796,
       "name": "Ilusi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
@@ -1341,7 +1489,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 184213,
       "name": "In The Still Of The Nite",
       "url": "https://open.spotify.com/track/5QEJbqvNNkFWzyF1l8d2Ci"
@@ -1395,10 +1543,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "album": {
+        "name": "Dead Presidents Volume II / Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN"
     },
     {
       "album": {
@@ -1453,6 +1619,24 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "album": {
+        "name": "Two Lovers",
+        "url": "https://open.spotify.com/album/4dfP6ztb54XjPNDMOQ1MSL"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170439,
+      "name": "Laughing Boy",
+      "url": "https://open.spotify.com/track/3jnxnBVwaRUMYuQQmts6YR"
     },
     {
       "album": {
@@ -1601,7 +1785,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 270826,
       "name": "Mujer Mia",
       "url": "https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC"
@@ -1619,7 +1803,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 268939,
       "name": "Mujer Mia (2022 - Remaster)",
       "url": "https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v"
@@ -1637,7 +1821,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
@@ -1685,6 +1869,24 @@
     {
       "album": {
         "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV"
+    },
+    {
+      "album": {
+        "name": "Nobody's Clown",
         "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
       },
       "artists": [
@@ -1695,7 +1897,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209200,
       "name": "Nobody's Clown",
       "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
@@ -1857,10 +2059,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 375400,
       "name": "Outstanding - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6korvxtUEyt590jUFOfADm"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Gap Band",
+        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376640,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
     },
     {
       "album": {
@@ -1875,7 +2095,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
@@ -1937,7 +2157,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211369,
       "name": "Reaper of Love",
       "url": "https://open.spotify.com/track/05x6NUnAj83IGdYpM9rvRM"
@@ -1955,7 +2175,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-19",
+      "date_removed": null,
       "duration_ms": 211369,
       "name": "Reaper of Love",
       "url": "https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO"
@@ -1991,7 +2211,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
@@ -2067,10 +2287,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150533,
       "name": "Searching For My Love",
       "url": "https://open.spotify.com/track/6EtOgpD6m1fBzcnckUAEfW"
+    },
+    {
+      "album": {
+        "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
+        "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
+      },
+      "artists": [
+        {
+          "name": "Bobby Moore & The Rhythm Aces",
+          "url": "https://open.spotify.com/artist/6qlpFH9e4sZ52tAPy2KmLz"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152693,
+      "name": "Searching For My Love",
+      "url": "https://open.spotify.com/track/0Q25xKgIaiT5JTDCT0qMea"
     },
     {
       "album": {
@@ -2085,10 +2323,28 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T"
     },
     {
       "album": {
@@ -2193,10 +2449,28 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159973,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
+    },
+    {
+      "album": {
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/6vTJGd8uvZ1nGw6DuMsS2H"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0e7q3Hd0K1CypBz5R1p2iz"
     },
     {
       "album": {
@@ -2211,7 +2485,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119553,
       "name": "Smile Now, Cry Later",
       "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
@@ -2255,6 +2529,24 @@
     {
       "album": {
         "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3"
+    },
+    {
+      "album": {
+        "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
       "artists": [
@@ -2265,7 +2557,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
@@ -2305,6 +2597,36 @@
       "duration_ms": 395200,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
+    },
+    {
+      "album": {
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilkins",
+          "url": "https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS"
+        },
+        {
+          "name": "Adonai Melod\u00edas",
+          "url": "https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI"
+        },
+        {
+          "name": "Scott Griffin",
+          "url": "https://open.spotify.com/artist/7rt6LADzZyTTDxwjsM4ASJ"
+        },
+        {
+          "name": "Al\u00e9jandra Soleil",
+          "url": "https://open.spotify.com/artist/6Qpj6XaX9rQr4XXOgFfntn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90"
     },
     {
       "album": {
@@ -2497,7 +2819,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 160063,
       "name": "The Entertainer",
       "url": "https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA"
@@ -2634,6 +2956,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Tired Of Being Alone",
+      "url": "https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0"
+    },
+    {
+      "album": {
         "name": "Gets Next to You",
         "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
       },
@@ -2645,7 +2985,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
@@ -2663,7 +3003,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250045,
       "name": "To Say I Love You",
       "url": "https://open.spotify.com/track/6p2xp5G0SKMTTfYF4ZAfhe"
@@ -2681,7 +3021,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255203,
       "name": "Together",
       "url": "https://open.spotify.com/track/0lwHRyx3Sxl07UoVp2dcUM"
@@ -2880,6 +3220,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of the Stylistics ... And More!",
+        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
+    },
+    {
+      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -2891,7 +3249,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
@@ -3017,7 +3375,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 192133,
       "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
       "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
@@ -3035,7 +3393,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-29",
+      "date_removed": null,
       "duration_ms": 329146,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV"
@@ -3051,7 +3409,7 @@
           "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
         },
         {
-          "name": "Louie Thesinger",
+          "name": "Louie TheSinger",
           "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
         }
       ],

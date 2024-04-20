@@ -1,6 +1,6 @@
 {
   "description": "The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 66517,
+  "num_followers": 66521,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-03-07 15:00:00",
       "album": {
+        "name": "The Snow Goose",
+        "url": "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB"
+      },
+      "artists": [
+        {
+          "name": "Camel",
+          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+        }
+      ],
+      "duration_ms": 65946,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92"
+    },
+    {
+      "added_at": "2024-03-07 15:00:00",
+      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
-    },
-    {
-      "added_at": "2024-03-07 15:00:00",
-      "album": {
-        "name": "The Snow Goose",
-        "url": "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB"
-      },
-      "artists": [
-        {
-          "name": "Camel",
-          "url": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
-        }
-      ],
-      "duration_ms": 65946,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92"
     },
     {
       "added_at": "2024-03-07 15:00:00",

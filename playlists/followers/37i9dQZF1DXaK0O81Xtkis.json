@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 214264,
+  "2024-04-20": 214215,
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Glass Animals",
+  "description": "make it pop! cover: Knox",
   "name": "soda",
   "tracks": [
     {
@@ -1490,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Best Imposter",
+        "url": "https://open.spotify.com/album/4t1mS6c0iepFdit4iRM2Tp"
+      },
+      "artists": [
+        {
+          "name": "Hey Violet",
+          "url": "https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187123,
+      "name": "Best Imposter",
+      "url": "https://open.spotify.com/track/4P1jAyChjeXdPbj5BDw6fI"
+    },
+    {
+      "album": {
         "name": "Better Than Real Life",
         "url": "https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng"
       },
@@ -2492,6 +2510,24 @@
     },
     {
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
+    },
+    {
+      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/1LKHRk9y7a0h07RSU6zGhZ"
       },
@@ -3233,6 +3269,24 @@
       "duration_ms": 156050,
       "name": "Cry (let it out)",
       "url": "https://open.spotify.com/track/5DbArXOkqbbxmrdkf6On9l"
+    },
+    {
+      "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6"
+      },
+      "artists": [
+        {
+          "name": "Alex Coles",
+          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176285,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ"
     },
     {
       "album": {
@@ -5607,7 +5661,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164286,
       "name": "Good Side",
       "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
@@ -5665,7 +5719,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK"
@@ -5683,7 +5737,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
@@ -6611,7 +6665,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-08",
+      "date_removed": null,
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
@@ -6629,7 +6683,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -6813,7 +6867,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185166,
       "name": "House On Fire",
       "url": "https://open.spotify.com/track/5RZr7XkmM2iMtNjxApbS8n"
@@ -8209,7 +8263,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160680,
       "name": "Japanese Cafe",
       "url": "https://open.spotify.com/track/20cZPbzQ9wqxWfMDWn0vPo"
@@ -8235,6 +8289,24 @@
       "duration_ms": 159666,
       "name": "jealousy (feat. rema)",
       "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "album": {
+        "name": "Jennifer's Body",
+        "url": "https://open.spotify.com/album/1HekaZKhXgi9JpGFODnmHF"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117430,
+      "name": "Jennifer's Body",
+      "url": "https://open.spotify.com/track/176fR2MtPlctufVYwqoW1j"
     },
     {
       "album": {
@@ -9583,7 +9655,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151544,
       "name": "Love Me Better",
       "url": "https://open.spotify.com/track/60JBgHmNQ437PrKp0eWFDn"
@@ -9929,7 +10001,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162647,
       "name": "Me, Myself & Your Eyes",
       "url": "https://open.spotify.com/track/0KbiElEOrLB2Yeo8aHkenq"
@@ -10041,7 +10113,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161782,
       "name": "Middle Of The Night",
       "url": "https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2"
@@ -11045,7 +11117,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/0tireFhMGfLWtbelX0EBqd"
@@ -11117,7 +11189,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
@@ -12722,6 +12794,24 @@
     },
     {
       "album": {
+        "name": "RUNNING BACK 2 YOU!",
+        "url": "https://open.spotify.com/album/6Ljd8e2grL1ahPm9r4B1zd"
+      },
+      "artists": [
+        {
+          "name": "Presence",
+          "url": "https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173168,
+      "name": "RUNNING BACK 2 YOU!",
+      "url": "https://open.spotify.com/track/4QmrjOhetgFIAorbown2aB"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/1Td33W13Kvh7xAam42b2pK"
       },
@@ -12877,7 +12967,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152521,
       "name": "SATURDAY NIGHT",
       "url": "https://open.spotify.com/track/4r2K4hNxpIc21xw2e7PhdF"
@@ -14275,7 +14365,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 129229,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT"
@@ -15318,6 +15408,24 @@
     },
     {
       "album": {
+        "name": "The Last Time",
+        "url": "https://open.spotify.com/album/6iJ4cxaqYj7IOVjEKWZMWD"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146931,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/3bwyDktNV0Y9WJp3HiJq3c"
+    },
+    {
+      "album": {
         "name": "WHO HURT YOU?",
         "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
       },
@@ -16000,6 +16108,28 @@
     },
     {
       "album": {
+        "name": "TRENDSETTER",
+        "url": "https://open.spotify.com/album/7yAP8wmCWTfXZd21167KIp"
+      },
+      "artists": [
+        {
+          "name": "DXRKNOVA",
+          "url": "https://open.spotify.com/artist/4P8JfVa8eBo9subUetsNRV"
+        },
+        {
+          "name": "jvstblake",
+          "url": "https://open.spotify.com/artist/5SxRN6YmVzqVecObct98Zj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166348,
+      "name": "TRENDSETTER",
+      "url": "https://open.spotify.com/track/2IoQzlp7Q43spYYriDyHn9"
+    },
+    {
+      "album": {
         "name": "Trouble With This Bed",
         "url": "https://open.spotify.com/album/47sLITsveH5BfAQIAgLitj"
       },
@@ -16047,7 +16177,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136941,
       "name": "Try",
       "url": "https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG"
@@ -16997,7 +17127,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-24",
+      "date_removed": null,
       "duration_ms": 216733,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/24HWZczGAczojNdUnupoo4"
@@ -17015,7 +17145,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216733,
       "name": "Wild Things",
       "url": "https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg"

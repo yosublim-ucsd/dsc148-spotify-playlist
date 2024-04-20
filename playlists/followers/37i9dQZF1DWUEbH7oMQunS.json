@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 60668,
+  "2024-04-20": 60668,
   "date_first_scraped": "2020-10-20",
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
   "name": "The Good Cup",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143453,
       "name": "10,000 Reasons (Bless the Lord)",
       "url": "https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN"
@@ -143,10 +143,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282734,
       "name": "5am",
       "url": "https://open.spotify.com/track/4I5EclhnK253hJsoDbJTKA"
+    },
+    {
+      "album": {
+        "name": "5am",
+        "url": "https://open.spotify.com/album/6qoSZuDzC0pxEYW7HoxAFS"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282734,
+      "name": "5am",
+      "url": "https://open.spotify.com/track/5ZRfi9VQZJUK6MyaGSgjt7"
     },
     {
       "album": {
@@ -313,7 +331,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 346773,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK"
@@ -331,7 +349,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 164960,
       "name": "Be Kind To Yourself",
       "url": "https://open.spotify.com/track/1wGT5V8UDHe2Hd4UU9YFuM"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164960,
       "name": "Be Kind to Yourself",
       "url": "https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH"
@@ -367,7 +385,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 394520,
       "name": "Beckon",
       "url": "https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 175496,
       "name": "Breathe My Name",
       "url": "https://open.spotify.com/track/0xBQYzgZky7yqbGw4lmddl"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 151169,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rFYyHoZgm6EaOw1NsHJP5"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 151169,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/6Qq9sLJvJhDjwoRMZSLHuP"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 267933,
       "name": "Even Here Love Comes - Acoustic",
       "url": "https://open.spotify.com/track/6BIVOCaJMcS4okKENbf7pL"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/2WbFoLk3VvAPhh0WZcXYMr"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258292,
       "name": "Faith Fall - pensive piano",
       "url": "https://open.spotify.com/track/3sZtzuWSGkOBvr8n8XGGTP"
@@ -783,10 +801,28 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241400,
       "name": "For The One - Instrumental",
       "url": "https://open.spotify.com/track/7ph250c2s06TIsL18QceuA"
+    },
+    {
+      "album": {
+        "name": "Freedom Fighter (Jimmy James Remix)",
+        "url": "https://open.spotify.com/album/3hXJRJ5rEtQ2qm8sbrQwfD"
+      },
+      "artists": [
+        {
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Freedom Fighter (Jimmy James Remix)",
+      "url": "https://open.spotify.com/track/6vLgWjoZtQuHxQQbQopab5"
     },
     {
       "album": {
@@ -805,7 +841,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210461,
       "name": "Freedom Fighter (Jimmy James Remix)",
       "url": "https://open.spotify.com/track/1xSVf7fLxIf6rcDD0haXIb"
@@ -859,7 +895,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 187058,
       "name": "God Keep Us",
       "url": "https://open.spotify.com/track/5BDGWkNfrS7g1R6KwKS5dr"
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 336853,
       "name": "Greater Than All Other Names (Instrumental)",
       "url": "https://open.spotify.com/track/0kk8MqjYbkW5C7cvKBf1yq"
@@ -997,7 +1033,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 336853,
       "name": "Greater Than All Other Names - Instrumental",
       "url": "https://open.spotify.com/track/5wZDGb6knlJSMRVIpnROCb"
@@ -1112,6 +1148,28 @@
     },
     {
       "album": {
+        "name": "hold on",
+        "url": "https://open.spotify.com/album/5wT1Um8Gg0CfBgKknqUmY3"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216366,
+      "name": "hold on",
+      "url": "https://open.spotify.com/track/6uN12X8i63pa8wGgtii6Qe"
+    },
+    {
+      "album": {
         "name": "features",
         "url": "https://open.spotify.com/album/0Fc7umL5EClDmFhOI5GNuz"
       },
@@ -1127,7 +1185,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216366,
       "name": "hold on (alt. version)",
       "url": "https://open.spotify.com/track/6OXaUmzgo2kjXK1Aa6Qza2"
@@ -1163,7 +1221,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 153854,
       "name": "Holy Holy",
       "url": "https://open.spotify.com/track/4bAPk8AwHTAs5eMOt2yjbj"
@@ -1217,7 +1275,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 120558,
       "name": "How To Love",
       "url": "https://open.spotify.com/track/1IC9zHtLv9Kmsqnsj4RLsB"
@@ -1242,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "I Go",
+        "url": "https://open.spotify.com/album/6HPoxXm674EXxkcAidgkY3"
+      },
+      "artists": [
+        {
+          "name": "WILLO",
+          "url": "https://open.spotify.com/artist/5t5UKNdX3RZUCePoXSYx4N"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236172,
+      "name": "I Go",
+      "url": "https://open.spotify.com/track/2Zom8KgY4hnsZUlgg0WNQP"
+    },
+    {
+      "album": {
         "name": "Eternal Jetlag",
         "url": "https://open.spotify.com/album/19SWlFIVXqpsMypajm42Kk"
       },
@@ -1253,7 +1329,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236172,
       "name": "I Go",
       "url": "https://open.spotify.com/track/46BDMbLdWkMvWoxrTDAe5D"
@@ -1289,7 +1365,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/0MqaKrT6Xak9kxjN64HKkq"
@@ -1307,7 +1383,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232293,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/706slEZ03AMqpvUAAI95zs"
@@ -1517,7 +1593,7 @@
       ],
       "date_added": "2018-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp"
@@ -1535,7 +1611,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206987,
       "name": "Letters",
       "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
@@ -1565,7 +1641,7 @@
     {
       "album": {
         "name": "The Universal Christ",
-        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+        "url": "https://open.spotify.com/album/46fbwOpTO1VSuu8KORrGl1"
       },
       "artists": [
         {
@@ -1576,6 +1652,24 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231422,
+      "name": "Lord Have Mercy",
+      "url": "https://open.spotify.com/track/26AXymgHGVUBSdmVgrywg3"
+    },
+    {
+      "album": {
+        "name": "The Universal Christ",
+        "url": "https://open.spotify.com/album/1RSAdj0a47u2IMyyoN364t"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 231424,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/3PncNGSRsBsDXuSTSTtSv2"
@@ -1593,7 +1687,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179678,
       "name": "Lord I need You",
       "url": "https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4"
@@ -1611,7 +1705,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179678,
       "name": "Lord I Need You",
       "url": "https://open.spotify.com/track/6eEqMhbiCFUyJYq37x3TEu"
@@ -1647,7 +1741,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 346773,
       "name": "More Love, More Power",
       "url": "https://open.spotify.com/track/04M4Yr4GwxR7S5rby2kC3M"
@@ -1683,7 +1777,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213370,
       "name": "Nearer My God to Thee - Eventide Mix",
       "url": "https://open.spotify.com/track/5dsnVbeWMJCp4T3HNYZwZa"
@@ -1701,7 +1795,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 213370,
       "name": "Nearer My God to Thee - Eventide Mix",
       "url": "https://open.spotify.com/track/7nDGSAjfHIM0dgHvEfriCy"
@@ -1741,10 +1835,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264332,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
+    },
+    {
+      "album": {
+        "name": "Nothing Else",
+        "url": "https://open.spotify.com/album/3qTycMB7VucF8cIv2ZbVu4"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264332,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/41FnfKYB6m3uQSAzPC7Jfc"
     },
     {
       "album": {
@@ -1813,7 +1929,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
@@ -1831,7 +1947,7 @@
       ],
       "date_added": "2018-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236466,
       "name": "Oh What a Father",
       "url": "https://open.spotify.com/track/599w7fRMgsd0TBKfKsej0D"
@@ -1853,7 +1969,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 188586,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
@@ -1871,7 +1987,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 271363,
       "name": "out of my grave (undone)",
       "url": "https://open.spotify.com/track/3cFqLVWoYecLckMx87c6UK"
@@ -1919,7 +2035,7 @@
     {
       "album": {
         "name": "playing pretend",
-        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
+        "url": "https://open.spotify.com/album/628wLG046Fbt8SDbE8uORG"
       },
       "artists": [
         {
@@ -1930,6 +2046,24 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236546,
+      "name": "playing pretend",
+      "url": "https://open.spotify.com/track/0xtzfaicZhawDIVrpFibKj"
+    },
+    {
+      "album": {
+        "name": "playing pretend",
+        "url": "https://open.spotify.com/album/4x9YHiyWw5bbdJEeMZSSGJ"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 236546,
       "name": "playing pretend",
       "url": "https://open.spotify.com/track/7fDRcqnAQvWPJ7X1Ycnkgf"
@@ -2037,7 +2171,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222613,
       "name": "Rest with Me",
       "url": "https://open.spotify.com/track/5AdZAVqRLyF4AMfBpV0pcE"
@@ -2189,7 +2323,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 327186,
       "name": "Spoken",
       "url": "https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um"
@@ -2338,6 +2472,24 @@
     },
     {
       "album": {
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/3hmHFqqTF626oH1OoHdNAj"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/3iIr7z2tdSwd1TJcWtipsz"
+    },
+    {
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t"
       },
@@ -2349,7 +2501,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208000,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/7KhqjDjqRU3nYWqjQeFINH"
@@ -2447,7 +2599,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 261500,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO"
@@ -2549,7 +2701,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/3Nou5g8qSke2RT562MoAtn"
@@ -2575,7 +2727,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165914,
       "name": "Water Harp",
       "url": "https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9"
@@ -2651,10 +2803,32 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 172000,
       "name": "wearing thin (alt. version)",
       "url": "https://open.spotify.com/track/1vZQZrT8BHfBZUMElDaSyv"
+    },
+    {
+      "album": {
+        "name": "wearing thin (Tyson Motsenbocker Edit)",
+        "url": "https://open.spotify.com/album/7tEcZqGDo4CuMjqQ0psMB6"
+      },
+      "artists": [
+        {
+          "name": "Paul Whitacre",
+          "url": "https://open.spotify.com/artist/4QcUyC5d8B6rRL61AYAegO"
+        },
+        {
+          "name": "Tyson Motsenbocker",
+          "url": "https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "wearing thin - Tyson Motsenbocker Edit",
+      "url": "https://open.spotify.com/track/2iAcNMqMYKyxS7hFg32L7w"
     },
     {
       "album": {
@@ -2705,7 +2879,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270500,
       "name": "Weight of Heaven",
       "url": "https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv"
@@ -2770,6 +2944,24 @@
     },
     {
       "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/37ojI0gaLiwqKI0L5nfOHs"
+      },
+      "artists": [
+        {
+          "name": "Activate Music",
+          "url": "https://open.spotify.com/artist/1CvJjbeELK5b5VGyiF9a9p"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225883,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/3wpIWUex7uWAUik95fyePm"
+    },
+    {
+      "album": {
         "name": "The Grunewald Church Session",
         "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
@@ -2803,7 +2995,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150612,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/1Sd7Qaw9EwlePYzSTaofKY"
@@ -2821,7 +3013,7 @@
       ],
       "date_added": "2018-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-02",
+      "date_removed": null,
       "duration_ms": 150612,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3oBZhDhGuOfhrKjOEwgfWF"

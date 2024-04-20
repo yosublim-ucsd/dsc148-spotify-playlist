@@ -1001,6 +1001,28 @@
     },
     {
       "album": {
+        "name": "Schumann: Carnaval, Op.9, 12. Chopin",
+        "url": "https://open.spotify.com/album/6ezCZHbpHReYh0u4jd9jcd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90413,
+      "name": "Carnaval, Op. 9: XII. Chopin",
+      "url": "https://open.spotify.com/track/0XNjIYSeBccSL0jGgOfHQ5"
+    },
+    {
+      "album": {
         "name": "Schumann - Great Recordings",
         "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
       },
@@ -2624,7 +2646,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 224000,
       "name": "Lyric Pieces, Book III, Op. 43: No. 5, Erotikon",
       "url": "https://open.spotify.com/track/4Fr1EjBybRVAeHyEW8xoXv"
@@ -4036,7 +4058,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 125466,
       "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
       "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
@@ -4298,6 +4320,28 @@
       "duration_ms": 503475,
       "name": "Spiegel im spiegel",
       "url": "https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj"
+    },
+    {
+      "album": {
+        "name": "Stars of Sand (From \"Trigun\")",
+        "url": "https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209057,
+      "name": "Stars of Sand (From \"Trigun\")",
+      "url": "https://open.spotify.com/track/601dCT51AL4c6JdlRQYaRr"
     },
     {
       "album": {

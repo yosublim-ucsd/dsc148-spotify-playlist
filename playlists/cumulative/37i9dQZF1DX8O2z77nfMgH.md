@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Ryan Castro en portada.
 
-7,178 songs - 16 day 0 hr 18 min
+7,179 songs - 16 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3539,6 +3539,7 @@
 | [Lo Admito](https://open.spotify.com/track/150dZVo0DsY782Grmk0T3O) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Lo Admito](https://open.spotify.com/album/6OG2uyPhTr2iCHYkhD681t) | 2:49 | 2023-06-16 | 2023-06-24 |
 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 | 2023-09-29 | 2023-10-07 |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2022-02-18 | 2022-02-26 |
+| [Lo Dejaría Todo](https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Lo Dejaría Todo](https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38) | 3:22 | 2024-04-19 |  |
 | [Lo Estoy Pagando](https://open.spotify.com/track/76PiO53LB0HlJZWJ8Gk6p5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS) | [Lo Estoy Pagando](https://open.spotify.com/album/1Wjvnceb4dwl7cYyUi5Jly) | 3:57 | 2021-12-31 | 2022-01-15 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-09 | 2024-02-17 |
 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 | 2022-03-26 |

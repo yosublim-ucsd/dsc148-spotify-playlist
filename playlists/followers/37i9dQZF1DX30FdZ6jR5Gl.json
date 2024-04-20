@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 106753,
+  "2024-04-20": 106762,
   "date_first_scraped": "2021-12-21",
   "description": "An introduction to American composer Philip Glass (b. 1937), whose hypnotic and powerful music has become part of our cultural soundtrack.",
   "name": "This Is Philip Glass",
@@ -369,7 +369,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 202840,
       "name": "I Knew Her",
       "url": "https://open.spotify.com/track/2gTc0Vgo3Lg8erahaCwVjm"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "I Knew Her",
       "url": "https://open.spotify.com/track/5cDIQncK7a2TsiEPWymeyk"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111831,
       "name": "Truman Sleeps",
       "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 111831,
       "name": "Truman Sleeps",
       "url": "https://open.spotify.com/track/5GdsFfVUUnRvSk3kXu0P5O"

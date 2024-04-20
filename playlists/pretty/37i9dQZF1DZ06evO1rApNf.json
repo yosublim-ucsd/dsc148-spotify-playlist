@@ -1,12 +1,12 @@
 {
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124293,
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
+  "num_followers": 124244,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDFmNjJmOWNiYWE5NGYzYTY0YTcwM2Q2MWZlYjg3YzQ3",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGUyYWQ0M2ZiMzdhZTgyODQ4YzZiZDZmYTYxNmYxOTU4",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PAP\u00c1S",
+        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "PAP\u00c1S",
+      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OTRA COSA",
         "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 225106,
       "name": "Tan Buena",
       "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAP\u00c1S",
-        "url": "https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "PAP\u00c1S",
-      "url": "https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESGENERADOS MIXTAPE",
-        "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Ex (con La Joaqui)",
-      "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 181804,
       "name": "Malo",
       "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESGENERADOS MIXTAPE",
+        "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Ex (con La Joaqui)",
+      "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
     },
     {
       "added_at": null,

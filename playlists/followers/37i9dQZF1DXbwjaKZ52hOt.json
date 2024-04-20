@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 41540,
+  "2024-04-20": 41555,
   "date_first_scraped": "2022-04-19",
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
   "name": "Nursery Rhymes",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 96905,
       "name": "1 2 3 4 5 Once I Caught a Fish Alive",
       "url": "https://open.spotify.com/track/1ps96x3xQdMv04EOwSzXgH"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 96905,
       "name": "1 2 3 4 5 Once I Caught a Fish Alive",
       "url": "https://open.spotify.com/track/3mgNiUk24QyAscY4a5tp5b"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 143877,
       "name": "3 Blind Mice",
       "url": "https://open.spotify.com/track/0F5Y5cU4vPUlrFwVPoYP2s"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 143877,
       "name": "3 Blind Mice",
       "url": "https://open.spotify.com/track/1jgJ60KbxMyP4meGiPc8bz"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 136470,
       "name": "Aiken Drum",
       "url": "https://open.spotify.com/track/15PBbDrfH8C58pDGKfsE9M"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136470,
       "name": "Aiken Drum",
       "url": "https://open.spotify.com/track/3bm2q7YuwnwcBG676p9gfK"
@@ -191,13 +191,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 233454,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/33UhuYp07GOrCZtq5vhcQj"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 233454,
       "name": "Ants Go Marching",
       "url": "https://open.spotify.com/track/5qHQNhAgND2Wg1lj17D2rG"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 93846,
       "name": "Are You Sleeping",
       "url": "https://open.spotify.com/track/05ccBT7fdmteXh6PtlYHqM"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147780,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/0dF7HP4wDwxCtID3mXpdYX"
@@ -389,13 +389,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 147780,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/3Up1OaeaBsqhatQUGkurYk"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 108829,
       "name": "Bear Went Over the Mountain",
       "url": "https://open.spotify.com/track/09WHajV2FCmFDlrU673nSR"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 108829,
       "name": "Bear Went Over the Mountain",
       "url": "https://open.spotify.com/track/4TKREQ4Law4SErfyQy58qg"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116751,
       "name": "BINGO",
       "url": "https://open.spotify.com/track/7l4EYTzxQM4Z3e4VYPRTwI"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116751,
       "name": "Bingo - Sing with Me",
       "url": "https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161200,
       "name": "Bingo Dog Song",
       "url": "https://open.spotify.com/track/5sNumuFeIsnM7gX35q49GU"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 163410,
       "name": "Bingo Dog Song Nursery Rhyme",
       "url": "https://open.spotify.com/track/0Tt9r7jWnURy3CrJ5fzsxY"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140414,
       "name": "Daisy Bell (Bicycle Built for Two)",
       "url": "https://open.spotify.com/track/0MMwvews31GnUzRiGPxnS7"
@@ -735,13 +735,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140414,
       "name": "Daisy Bell (Bicycle Built for Two)",
       "url": "https://open.spotify.com/track/3ybcg3XIwEG54lIg2LvEPt"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92426,
       "name": "Der Glumph",
       "url": "https://open.spotify.com/track/3zH2D7rnh1G9VR2hnPes23"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92426,
       "name": "Der Glumph",
       "url": "https://open.spotify.com/track/7zfa0NZCwts3QzmysV2tqj"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 116905,
       "name": "Down by the Bay",
       "url": "https://open.spotify.com/track/1tm4z1rqmXjhRut3EWdCGK"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116905,
       "name": "Down by the Bay",
       "url": "https://open.spotify.com/track/6P8SJgXmEMqGb1uFq3Lx93"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130343,
       "name": "Dr Knickerbocker",
       "url": "https://open.spotify.com/track/6R18KYLFL2o4qxl4dM14PL"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130343,
       "name": "Dr Knickerbocker",
       "url": "https://open.spotify.com/track/6esTR8Dr7MHB3qhyPxBFJv"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 72295,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/0yc7vvzuxjn1WIJuebImR1"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72295,
       "name": "Farmer in the Dell",
       "url": "https://open.spotify.com/track/7yaOGB25vsRLOHgee2G2hv"
@@ -1149,13 +1149,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 136002,
       "name": "Finger Family",
       "url": "https://open.spotify.com/track/4byCkR4SN3DO2cTgKMrynI"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136002,
       "name": "Finger Family",
       "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 58229,
       "name": "Five Finger Family",
       "url": "https://open.spotify.com/track/5WVc6IZN4vjCdcr2DkxiJ4"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 58229,
       "name": "Five Fingered Family",
       "url": "https://open.spotify.com/track/44VN9upYxkcF1NL5g3J5CA"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169302,
       "name": "Five Little Monkeys Jumping on the Bed",
       "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
@@ -1275,13 +1275,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169302,
       "name": "Five Little Monkeys Jumping on the Bed",
       "url": "https://open.spotify.com/track/7lKOQAh2tdX3F5GpB98qaf"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 169765,
       "name": "Five Little Speckled Frogs",
       "url": "https://open.spotify.com/track/2oi26hzvmT9mbOGMBoEWtG"
@@ -1329,13 +1329,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 169765,
       "name": "Five Little Speckled Frogs",
       "url": "https://open.spotify.com/track/79F7Fzgo7anhxGB2cgdW2E"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 72266,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/0iHDnCbFMopN23ru3qqY9j"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72266,
       "name": "Fr\u00e8re Jacques",
       "url": "https://open.spotify.com/track/5MMkLHLXPwJnBlxVLYpDvy"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 93846,
       "name": "Fr\u00e8re Jacques (Are You Sleeping)",
       "url": "https://open.spotify.com/track/2eadPFdyLp4zZoyl3VAr1X"
@@ -1455,13 +1455,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 127026,
       "name": "Head Shoulder Knees and Toes",
       "url": "https://open.spotify.com/track/6nNyY5nzV7fWL5rAdNEJu4"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127026,
       "name": "Head Shoulder Knees and Toes",
       "url": "https://open.spotify.com/track/6xfOJl9l0Gc5WxjmBAvQsA"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118751,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/3xFOkAI6aNreOFejqwvv28"
@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118751,
       "name": "Head, Shoulders, Knees and Toes",
       "url": "https://open.spotify.com/track/7toZuecF36JJeBq1faE2Xt"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149413,
       "name": "Hey Diddle Diddle",
       "url": "https://open.spotify.com/track/0NqHM8WCs7xn25VlRxvopC"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 149413,
       "name": "Hey Diddle Diddle",
       "url": "https://open.spotify.com/track/7dzeZcPuTdlRWEEJQkg3BD"
@@ -1681,7 +1681,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 75545,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/7BDAPOsAOTpD7lRYTGTcMu"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 75545,
       "name": "Hickory Dickory Dock - (Sheep)",
       "url": "https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU"
@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 67379,
       "name": "Hot Cross Buns",
       "url": "https://open.spotify.com/track/60qf2b4x5wZp0bX1btrrfe"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 67379,
       "name": "Hot Cross Buns",
       "url": "https://open.spotify.com/track/72IQmlbJEzq5qCZ3bUgeiN"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 55280,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/1dbPzJFqmq7YtimuTsHm1s"
@@ -1933,7 +1933,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 55280,
       "name": "Humpty Dumpty",
       "url": "https://open.spotify.com/track/44PkloIHqAyBhT7QvpK1e2"
@@ -2077,7 +2077,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/4jbFdoR43axNgUz4SE3Vnd"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 92853,
       "name": "If You're Happy and You Know It",
       "url": "https://open.spotify.com/track/62pjp2SjPEGn0frGFVCJoV"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 105032,
       "name": "Incy Wincy Spider Nursery Rhyme",
       "url": "https://open.spotify.com/track/2qqrvZpBfR2QcjvruWJFAF"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 105940,
       "name": "Incy Wincy Spider Nursery Rhyme",
       "url": "https://open.spotify.com/track/03UUlyT64WFftDMfPuyXYy"
@@ -2149,7 +2149,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 64285,
       "name": "It's Raining It's Pouring",
       "url": "https://open.spotify.com/track/05E2YbFAJE1DnHSuFfTk5V"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 64285,
       "name": "It's Raining It's Pouring",
       "url": "https://open.spotify.com/track/2hpyiHWayvDSYQ7Vm9R4AG"
@@ -2203,7 +2203,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 70114,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/0o7aCL3vu7HNlvkUoI71E3"
@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 70114,
       "name": "Itsy Bitsy Spider",
       "url": "https://open.spotify.com/track/3pj90fhlknhRWpXlj7oJci"
@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 86842,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/1ItOBdf2Bz9dW2zp8ChRvh"
@@ -2275,7 +2275,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 86842,
       "name": "Jack and Jill",
       "url": "https://open.spotify.com/track/1jBDD3Cr7RwZ9hSha6IOgk"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 99155,
       "name": "Jelly on a Plate",
       "url": "https://open.spotify.com/track/2xwD5QLZMXqHG8lPrpDH5T"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 99155,
       "name": "Jelly on a Plate",
       "url": "https://open.spotify.com/track/4tvx5doXC1lw50HK3ZUvUj"
@@ -2455,7 +2455,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 79082,
       "name": "Johny Johny Yes Papa Nursery Rhyme",
       "url": "https://open.spotify.com/track/0L4pJJ7IFpFGncw5SH5Ubq"
@@ -2473,7 +2473,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 79393,
       "name": "Johny Johny Yes Papa Nursery Rhyme",
       "url": "https://open.spotify.com/track/1AFVz4LDKreZ9yfSnWhUb2"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 55653,
       "name": "Kookaburra Sits In The Old Gum Tree",
       "url": "https://open.spotify.com/track/3c3sQsyEppUqFx5fpO3s5P"
@@ -2527,7 +2527,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 55800,
       "name": "Kookaburra Sits in the Old Gum Tree",
       "url": "https://open.spotify.com/track/3ZUtET420eJeSrMbZGHpFR"
@@ -2611,13 +2611,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 165624,
       "name": "Little Bunny Foo Foo",
       "url": "https://open.spotify.com/track/16dXGfBDyJAbsHBHu5Y951"
@@ -2635,7 +2635,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165624,
       "name": "Little Bunny Foo Foo",
       "url": "https://open.spotify.com/track/4oFujsAkA3KV1d87EkPMck"
@@ -2797,7 +2797,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 149983,
       "name": "Looby Loo",
       "url": "https://open.spotify.com/track/2aqZSUnGtSrtXjZVnAcrSH"
@@ -2809,13 +2809,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 149983,
       "name": "Looby Loo",
       "url": "https://open.spotify.com/track/2yaSzTMuw6EHSSeIxPXW4r"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 67052,
       "name": "Lucy Had a Ducky",
       "url": "https://open.spotify.com/track/3O8xd441CAg6b1SsEsaA4l"
@@ -2869,7 +2869,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 67052,
       "name": "Lucy Had a Ducky",
       "url": "https://open.spotify.com/track/49C5Fxf15cCnTxXEy9UhgB"
@@ -2887,7 +2887,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 160248,
       "name": "Mary Had a Little Lamb Nursery Rhyme",
       "url": "https://open.spotify.com/track/7r3lfD2MIPjkBv8EDQukOF"
@@ -2905,7 +2905,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Mary Had a Little Lamb Song",
       "url": "https://open.spotify.com/track/1eLgThRQFLPLIP0nEMMrY4"
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 101830,
       "name": "Mary, Mary, Quite Contrary",
       "url": "https://open.spotify.com/track/2QkADFBtqKlXJQmfsRug87"
@@ -2941,7 +2941,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 101830,
       "name": "Mary, Mary, Quite Contrary",
       "url": "https://open.spotify.com/track/4fNH8pNTb4Pa6Wf8DjzX6S"
@@ -2995,7 +2995,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 67579,
       "name": "Michael Finnegan",
       "url": "https://open.spotify.com/track/05EHOMxcxDQHOPn3fHwQx1"
@@ -3013,7 +3013,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 67579,
       "name": "Michael Finnegan",
       "url": "https://open.spotify.com/track/28e9dYvsc9RHhXxNMiQiYa"
@@ -3049,7 +3049,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 187894,
       "name": "Miss Muffet",
       "url": "https://open.spotify.com/track/1KQwWAZ5UMG6IS0cccnz6R"
@@ -3067,7 +3067,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187894,
       "name": "Miss Muffet",
       "url": "https://open.spotify.com/track/1cOCwJS3D30eOXBtd2Tt8X"
@@ -3085,7 +3085,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 72555,
       "name": "Mr Polly Had a Dolly",
       "url": "https://open.spotify.com/track/0L9ZzvJozKo4PMVQZM2pwY"
@@ -3103,7 +3103,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72555,
       "name": "Mr Polly Had a Dolly",
       "url": "https://open.spotify.com/track/7iKvaBav9HiDbEP0iKlG0D"
@@ -3247,7 +3247,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119808,
       "name": "Old Macdonald",
       "url": "https://open.spotify.com/track/47ffTXm408U9thU7xS7CVE"
@@ -3265,7 +3265,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 119808,
       "name": "Old MacDonald",
       "url": "https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW"
@@ -3373,7 +3373,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 118218,
       "name": "One Potato, Two Potatoes",
       "url": "https://open.spotify.com/track/1yon4uhxW75G48LGFarDZe"
@@ -3385,13 +3385,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 118218,
       "name": "One Potato, Two Potatoes",
       "url": "https://open.spotify.com/track/37JN19WzTsGJpmucHxs6yh"
@@ -3488,6 +3488,24 @@
     },
     {
       "album": {
+        "name": "Open Shut Them",
+        "url": "https://open.spotify.com/album/3BTzETecI6nG1FieG6dJWk"
+      },
+      "artists": [
+        {
+          "name": "ItsyBitsyKids",
+          "url": "https://open.spotify.com/artist/69sRWANSmSFxBlJ7yfx3Au"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122240,
+      "name": "Open Shut Them",
+      "url": "https://open.spotify.com/track/2bo8EzJS1zfT2AbnntJpuE"
+    },
+    {
+      "album": {
         "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 7: Kids Sing & Learn",
         "url": "https://open.spotify.com/album/3DrqTp4SDht5Guqh1O9WWI"
       },
@@ -3517,7 +3535,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 69219,
       "name": "Pat-a-Cake",
       "url": "https://open.spotify.com/track/0gEduEeigUTtRW6FQjsbwA"
@@ -3535,7 +3553,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69219,
       "name": "Pat-a-Cake",
       "url": "https://open.spotify.com/track/4o1E1Hd9szuIUyLKeRG0iU"
@@ -3571,7 +3589,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 90555,
       "name": "Pease Porridge Hot",
       "url": "https://open.spotify.com/track/1mRYrDUpY0vrG33uij1rrq"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 90555,
       "name": "Pease Porridge Hot",
       "url": "https://open.spotify.com/track/5oY6g1XOWnniksnVakPt4Z"
@@ -3625,7 +3643,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 104111,
       "name": "Peter Piper",
       "url": "https://open.spotify.com/track/0HVwfRUrlbcJkBYaPYH9RC"
@@ -3643,7 +3661,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 104111,
       "name": "Peter Piper",
       "url": "https://open.spotify.com/track/69RGYABj4PQdlZH7qZgWMB"
@@ -3697,7 +3715,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 70013,
       "name": "Polly Put the Kettle On",
       "url": "https://open.spotify.com/track/3ab9mdk8fOzjCU0054dghC"
@@ -3715,7 +3733,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 70013,
       "name": "Polly Put the Kettle On",
       "url": "https://open.spotify.com/track/4ebxbMfNr6StAGWyZgQXD4"
@@ -3733,7 +3751,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 140052,
       "name": "Polly Wolly Doodle",
       "url": "https://open.spotify.com/track/5FPYALzokpgQY2Kl5x3IBP"
@@ -3751,7 +3769,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140052,
       "name": "Polly Wolly Doodle",
       "url": "https://open.spotify.com/track/73DsyRYHkYprrQhU3Fwoz8"
@@ -3931,7 +3949,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 128000,
       "name": "Ring Around the Rosy",
       "url": "https://open.spotify.com/track/3hN8QrmVJwzhCvKs3lRxYH"
@@ -3943,13 +3961,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Ring Around the Rosy",
       "url": "https://open.spotify.com/track/6xI0MhqGvOsAyz0XAuPO7O"
@@ -3985,7 +4003,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130496,
       "name": "Rock-a-Bye Baby",
       "url": "https://open.spotify.com/track/3NEgsdTwk3tIjt6x4d2VzE"
@@ -3997,13 +4015,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130497,
       "name": "Rock-a-Bye Baby",
       "url": "https://open.spotify.com/track/7hNZxlVgeaHVaL4rqJYtbW"
@@ -4039,7 +4057,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 72631,
       "name": "Row Row Row Your Boat",
       "url": "https://open.spotify.com/track/0Gk57QBPdwpexPaQT9VNaU"
@@ -4057,7 +4075,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 72631,
       "name": "Row Row Row Your Boat",
       "url": "https://open.spotify.com/track/0zkyKpG5ZaKUfxD8mJVUot"
@@ -4111,7 +4129,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 46869,
       "name": "Sailor Went to Sea",
       "url": "https://open.spotify.com/track/52g0f18rRtOOCPFuauJrDl"
@@ -4129,7 +4147,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 46869,
       "name": "Sailor Went to Sea",
       "url": "https://open.spotify.com/track/5TOcoD0OvixnYBIYNjZIGe"
@@ -4165,7 +4183,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 69565,
       "name": "See Saw Margery Daw",
       "url": "https://open.spotify.com/track/0qSxerDcrIDv5Ok4Hsm1vT"
@@ -4183,7 +4201,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 69565,
       "name": "See Saw Margery Daw",
       "url": "https://open.spotify.com/track/5tUvxPayqR94RrYVl4wHRY"
@@ -4219,7 +4237,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 42933,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/01lr2Sr5lB3uSQbEAHeMGc"
@@ -4237,7 +4255,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 45053,
       "name": "Shake My Sillies Out",
       "url": "https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F"
@@ -4273,7 +4291,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/1FRXzmHFOsstktMhUKfrOO"
@@ -4291,7 +4309,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 121016,
       "name": "She'll Be Coming Round the Mountain",
       "url": "https://open.spotify.com/track/2TScmZPWSAOXRkXMJ6y8qR"
@@ -4345,7 +4363,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111666,
       "name": "Short'nin' Bread",
       "url": "https://open.spotify.com/track/26nRFjiXqeH4jbqlqaSRNf"
@@ -4363,7 +4381,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 111666,
       "name": "Short'nin' Bread",
       "url": "https://open.spotify.com/track/2gremjoXqhkV60TNuygGZR"
@@ -4615,7 +4633,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156545,
       "name": "The Ant and the Grasshopper",
       "url": "https://open.spotify.com/track/5o0oIgZ4BcBlqMTywVegI9"
@@ -4627,13 +4645,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 156545,
       "name": "The Ant and the Grasshopper",
       "url": "https://open.spotify.com/track/63v8N0HYKZK58SOAWDv2kt"
@@ -4669,7 +4687,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 61500,
       "name": "The Bear Went over the Mountain",
       "url": "https://open.spotify.com/track/2vL1BzVlZVGsaIUWmSS4jU"
@@ -4691,7 +4709,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 61500,
       "name": "The Bear Went over the Mountain",
       "url": "https://open.spotify.com/track/0EN7UscZeRbMniUJncB3Ys"
@@ -4727,7 +4745,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 74768,
       "name": "The Grand Old Duke of York",
       "url": "https://open.spotify.com/track/7eCTAKT6tIy6NPzVloKLbR"
@@ -4745,7 +4763,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 75746,
       "name": "The Grand Old Duke Of York",
       "url": "https://open.spotify.com/track/1Uu0G63skDXNwnLo7exa8A"
@@ -4799,7 +4817,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 119759,
       "name": "The Highland Fling",
       "url": "https://open.spotify.com/track/0qazJqtxySzjGSPknqEEad"
@@ -4817,7 +4835,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119759,
       "name": "The Highland Fling",
       "url": "https://open.spotify.com/track/4PL5cH0E2xdUooTVe6zYL3"
@@ -4871,7 +4889,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 78544,
       "name": "The Lion and the Unicorn",
       "url": "https://open.spotify.com/track/3gcMict0i0WkEAkdiVDnCO"
@@ -4889,7 +4907,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78544,
       "name": "The Lion and the Unicorn",
       "url": "https://open.spotify.com/track/6KOdGLb1Lt8KsC5UXQO5nQ"
@@ -5015,7 +5033,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 119361,
       "name": "The Panda Bear Went Over the Mountain",
       "url": "https://open.spotify.com/track/5sebSH7kwKBxPZBx6yCguI"
@@ -5033,7 +5051,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 119361,
       "name": "The Panda Bear Went Over the Mountain",
       "url": "https://open.spotify.com/track/6Y1zAR6pSenrSpZlXGz3cL"
@@ -5117,13 +5135,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135401,
       "name": "This Is the Way",
       "url": "https://open.spotify.com/track/1FlseUwKFQLX1PUkq7i9Fz"
@@ -5159,7 +5177,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135401,
       "name": "This Is the Way",
       "url": "https://open.spotify.com/track/7cflwTZGGtZdzVU4eDIajw"
@@ -5315,13 +5333,13 @@
       },
       "artists": [
         {
-          "name": "Cocomelon",
+          "name": "CoComelon",
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 189789,
       "name": "Three Little Pigs",
       "url": "https://open.spotify.com/track/0mO6HAsf78gRIQNZDJDa81"
@@ -5339,7 +5357,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189789,
       "name": "Three Little Pigs",
       "url": "https://open.spotify.com/track/6tvZ0W9XvXEKpQsk4P5vro"
@@ -5429,7 +5447,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 162198,
       "name": "Twinkle Twinkle Little Star Baby Nursery Rhyme",
       "url": "https://open.spotify.com/track/0rlV6TDQRTb4ojvKr4Ddqa"
@@ -5447,7 +5465,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 162198,
       "name": "Twinkle Twinkle Little Star Baby Nursery Rhyme",
       "url": "https://open.spotify.com/track/6KDxkfDlboIT2UPa4MfR2r"
@@ -5609,7 +5627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Wheels on the Bus (All Through the Town)",
       "url": "https://open.spotify.com/track/6SHCXhux6u4DxIiy77E2al"
@@ -5627,7 +5645,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 130000,
       "name": "Wheels on the Bus (All Through the Town)",
       "url": "https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa"
@@ -5753,7 +5771,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 112658,
       "name": "Wind the Bobbin Up",
       "url": "https://open.spotify.com/track/3k9zvNZZgrk0GwJckGnTeM"
@@ -5771,7 +5789,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 112658,
       "name": "Wind the Bobbin Up",
       "url": "https://open.spotify.com/track/6AYZd8wkHDxdqfFzJh1JDH"

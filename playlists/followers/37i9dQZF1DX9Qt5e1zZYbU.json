@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4315,
+  "2024-04-20": 4315,
   "date_first_scraped": "2023-08-06",
   "description": "These are the songs that have shaped <a href=\"spotify:artist:5ObBtv5VunwwhQaXXnUrsM\">KennyHoopla's</a> alternative spirit. Check out the latest COUNTER//CULTURE mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI\"> here.",
   "name": "COUNTER//CULTURE: KennyHoopla",
@@ -97,7 +97,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 277080,
       "name": "Autonomy (feat. Cooper B. Handy)",
       "url": "https://open.spotify.com/track/0Pz21tEIrYH2teQMqffWN5"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277080,
       "name": "Autonomy (Ft. Lucy - Cooper B. Handy)",
       "url": "https://open.spotify.com/track/2ro7o4RZVhksrTkcpk3rtC"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 78283,
       "name": "Parks 'n' Recreation",
       "url": "https://open.spotify.com/track/35sEC7kxGoF8niAzzHhSUf"
@@ -406,12 +406,12 @@
       "artists": [
         {
           "name": "Saint Wellesley",
-          "url": "https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6"
+          "url": "https://open.spotify.com/artist/7LVfRRoVa6KgK7nOwYaUho"
         }
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 78283,
       "name": "Parks 'n' Recreation",
       "url": "https://open.spotify.com/track/3OsKTBizjyA0WG72nJtsFH"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-14",
+      "date_removed": null,
       "duration_ms": 214906,
       "name": "Starring",
       "url": "https://open.spotify.com/track/2aeDbtWEBWJ3bjk4wZw1zZ"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214906,
       "name": "Starring",
       "url": "https://open.spotify.com/track/73w47iG3XBhRsWgkpKRoR9"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322758,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/0iLhRFbr7cZ0DrQl8FS3kb"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 322758,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4zBdObrAnn5OVWC9F02wA3"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 246000,
       "name": "Young Tender Hearts Beat Fast",
       "url": "https://open.spotify.com/track/3BeXtu9bc0qoMfUm7OWO2O"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Young Tender Hearts Beat Fast",
       "url": "https://open.spotify.com/track/6vmVm1kWWgiGZgiLP97hGv"

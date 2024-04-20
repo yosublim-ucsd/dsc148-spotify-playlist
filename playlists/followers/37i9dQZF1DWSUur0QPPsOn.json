@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 566128,
+  "2024-04-20": 566125,
   "date_first_scraped": "2021-12-30",
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ronniefieg/\">Ronnie Fieg</a> ",
   "name": "Taste",
@@ -6036,6 +6036,24 @@
     },
     {
       "album": {
+        "name": "Enter The Wu-Tang (36 Chambers)",
+        "url": "https://open.spotify.com/album/0ujpvwNskNwgU6nb2krDZS"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287493,
+      "name": "Da Mystery of Chessboxin'",
+      "url": "https://open.spotify.com/track/0bMRXxgaLU3LDEFgNI5WH5"
+    },
+    {
+      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -6075,7 +6093,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 287493,
       "name": "Da Mystery of Chessboxin' (feat. Method Man, U-God, Inspectah Deck, Raekwon, Ol' Dirty Bastard, Ghostface Killah & Masta Killa)",
       "url": "https://open.spotify.com/track/4xOTVtbCPcfxMs2hSt9D6i"
@@ -6656,6 +6674,24 @@
     },
     {
       "album": {
+        "name": "Mr. Smith",
+        "url": "https://open.spotify.com/album/4RowEH0oNbHDie8rP2FDnJ"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/1mU0es3QUBRAxKkYvTANpG"
+    },
+    {
+      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -6671,7 +6707,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 293933,
       "name": "Doin' It",
       "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
@@ -10911,6 +10947,24 @@
     {
       "album": {
         "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "How's It Goin' Down",
+      "url": "https://open.spotify.com/track/343xt5q01Q73Yw6uL0jGVD"
+    },
+    {
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
       "artists": [
@@ -10921,7 +10975,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 282906,
       "name": "How's It Goin' Down",
       "url": "https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP"
@@ -11165,7 +11219,7 @@
     {
       "album": {
         "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+        "url": "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
       },
       "artists": [
         {
@@ -11176,6 +11230,24 @@
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252106,
+      "name": "I Can Feel It",
+      "url": "https://open.spotify.com/track/0FDFVHjCwgwfAiQl5Y1Xvi"
+    },
+    {
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 252106,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/5FPihLzhH0bQ3tTco9VVdf"
@@ -11539,10 +11611,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 277000,
       "name": "I Love My Life",
       "url": "https://open.spotify.com/track/5lBtERzg8tgFfLExZTl7Bz"
+    },
+    {
+      "album": {
+        "name": "N.O.R.E",
+        "url": "https://open.spotify.com/album/4XjV9XgIKm4qECjy37USEX"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "I Love My Life - feat. Carl Thomas",
+      "url": "https://open.spotify.com/track/59l4a4TTUJrocPq7FNBW0X"
     },
     {
       "album": {
@@ -12709,7 +12799,7 @@
     {
       "album": {
         "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+        "url": "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
       },
       "artists": [
         {
@@ -12720,6 +12810,24 @@
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1fCfq7brgINIAJ3I4RnJh1"
+    },
+    {
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 249933,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7xXy5wG7nUXwCz6zrnwiTI"
@@ -16506,6 +16614,24 @@
     },
     {
       "album": {
+        "name": "Life After Death (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/2ePUMv5qu8q6G8Ir6A5b9A"
+    },
+    {
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -16517,7 +16643,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 299333,
       "name": "Miss U - 2014 Remaster",
       "url": "https://open.spotify.com/track/612lE4c57zWDOqeWca1Pmf"
@@ -25557,10 +25683,32 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295360,
       "name": "The Whole World (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/2z873VStrk6goKwYefOq0Q"
+    },
+    {
+      "album": {
+        "name": "Big Boi & Dre Present...OutKast",
+        "url": "https://open.spotify.com/album/3zl0RrxQ12lge8qcm6PbE6"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295360,
+      "name": "The Whole World (feat. Killer Mike)",
+      "url": "https://open.spotify.com/track/3BBVKzYSV7iuWutG3saanI"
     },
     {
       "album": {
@@ -29510,6 +29658,24 @@
     },
     {
       "album": {
+        "name": "Life After Death (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292933,
+      "name": "You're Nobody (Til Somebody Kills You)",
+      "url": "https://open.spotify.com/track/1B7KXTZ5shneLSZcfmXgAK"
+    },
+    {
+      "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
@@ -29521,7 +29687,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292933,
       "name": "You're Nobody (Til Somebody Kills You) - 2014 Remaster",
       "url": "https://open.spotify.com/track/5elwGhYsxqm09XbHvFyWcw"

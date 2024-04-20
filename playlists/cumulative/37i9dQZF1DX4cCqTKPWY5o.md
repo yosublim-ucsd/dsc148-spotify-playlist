@@ -4,7 +4,7 @@
 
 > Move it and groove it to these great tunes!
 
-113 songs - 5 hr 50 min
+114 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Bam Bam](https://open.spotify.com/track/7yHKMYnJoR0mT3IIBczhKV) | [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys), [Coolie Ranx](https://open.spotify.com/artist/129KG3I5BRF7QqEHnPTs6C) | [It's A Bam Bam Diddly!](https://open.spotify.com/album/4tHDTFoSUB5Oavol8DQAuB) | 2:32 | 2022-03-31 | 2022-06-29 |
 | [Banana Boat Song \(Dance Version\)](https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 3:07 | 2022-07-15 |  |
 | [Beggin'](https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beggin'](https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq) | 3:18 | 2022-03-31 | 2022-07-23 |
+| [Best Thing Ever \- Dance Remix](https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Nickelodeon Mix It Up! Vol\. 9: Danceapalooza \(The Remixes\)](https://open.spotify.com/album/20sByOLAT2A2S3VpaWCnyK) | 2:33 | 2024-03-22 |  |
 | [Better Days](https://open.spotify.com/track/46jJ6aqpwugeYhg0rciBUx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Better Days](https://open.spotify.com/album/1G5XNPBHbI7gKmN9JzOLB7) | 2:39 | 2022-03-31 | 2022-07-28 |
 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 | 2024-01-30 |  |
 | [Better When I'm Dancin'](https://open.spotify.com/track/0BMyRHOFOvHjAEzeNfQIeN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0YEI8tlvSXBOI5sy4WL4zF) | 2:56 | 2022-10-14 | 2022-11-12 |
@@ -113,7 +114,7 @@
 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 | 2022-03-31 |  |
 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 | 2022-03-31 |  |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-03-31 |  |
-| [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 | 2022-03-31 |  |
+| [Thingamajig](https://open.spotify.com/track/5sXoGN56c1q4P4fGpk5iY0) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Lishy Lou and Lucky Too!](https://open.spotify.com/album/5eyeNOy5N5QvMa1ppNPdCY) | 3:25 | 2022-03-31 | 2024-04-20 |
 | [Time To PJ Dance](https://open.spotify.com/track/5sJ6fGDODcfJd8OKZ3WC40) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Time To PJ Dance](https://open.spotify.com/album/6nNqcW8ZpqwJN3QVDeALue) | 1:36 | 2023-06-02 | 2024-04-09 |
 | [Togetherness](https://open.spotify.com/track/5zQKFfPXJQnHbtK29DwyFA) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Togetherness](https://open.spotify.com/album/0wxN6gRLSmWTnJovM1TsWY) | 2:33 | 2022-03-31 | 2022-07-29 |
 | [Twinkle, Twinkle, Little Star \(Dance Version\)](https://open.spotify.com/track/2f885pl9H89sHvpAlz1OfB) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 2:18 | 2022-07-15 | 2022-07-22 |

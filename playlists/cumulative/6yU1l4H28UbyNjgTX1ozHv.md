@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-225 songs - 11 hr 46 min
+226 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 |  |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
+| [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 |  |
 | [Because You Loved Me \- Acoustic](https://open.spotify.com/track/46riIukB23FBujbdYQTfmf) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Because You Loved Me \(Acoustic\)](https://open.spotify.com/album/4XbwbcopmQJCRuETbjr1RN) | 3:37 | 2022-06-17 | 2023-05-10 |
 | [Believe \- Acoustic](https://open.spotify.com/track/52VvzULC47oauMWtVdAejU) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Believe \(Acoustic\)](https://open.spotify.com/album/6f8znb9G5J0MlLe895IzJt) | 3:48 | 2023-12-01 | 2024-02-24 |
 | [Believe \- Acoustic](https://open.spotify.com/track/3CTDZeM0OMz49BdQ2kI0HU) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [Believe \(Acoustic\)](https://open.spotify.com/album/4s5feYt6hMWRjjHYCybysv) | 3:07 | 2022-04-10 | 2023-01-21 |
@@ -170,7 +171,7 @@
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
 | [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 | 2022-08-07 |
-| [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 | 2021-08-01 |  |
+| [Sit Down \- Acoustic](https://open.spotify.com/track/5dGgyreFnyXsYTRW7vV7Xy) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Sit Down \(Acoustic\)](https://open.spotify.com/album/58BKYmicaHsxUzmIfjkJvo) | 2:47 | 2021-08-01 | 2024-04-20 |
 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 | 2019-10-13 |  |
 | [Smells Like Teen Spirit \- Acoustic](https://open.spotify.com/track/5Y0X7NxowxPpvDb4vzq1Hr) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Smells Like Teen Spirit \(Acoustic\)](https://open.spotify.com/album/4Si5kpHAc3ec1bB07qwxJu) | 2:30 | 2021-04-13 |  |
 | [So Sick \- Acoustic](https://open.spotify.com/track/1JnwWC2dcOHjjb85glfjKc) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [So Sick \(Acoustic\)](https://open.spotify.com/album/2k0vtHSago585tJuBIBnN9) | 2:33 | 2023-01-27 | 2024-02-03 |

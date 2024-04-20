@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-32 songs - 1 hr 28 min
+33 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [偽りの理](https://open.spotify.com/track/0utotNyTQgcj3ryT8FuAVu) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [偽りの理](https://open.spotify.com/album/20nzrK1EPA0yAzHm8GMfj7) | 3:09 | 2024-04-12 |  |
 | [傷つき傷つけ痛くて辛い](https://open.spotify.com/track/2185RCcistacxWByF55kAz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [傷つき傷つけ痛くて辛い](https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj) | 3:16 | 2024-04-12 |  |
 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 | 2024-04-12 |  |
+| [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 | 2024-04-19 |  |
 | [極私的極彩色アンサー](https://open.spotify.com/track/3wemos54Nu8zliDXfDjfvK) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [極私的極彩色アンサー](https://open.spotify.com/album/4RJ3m1en7gKpVGpXTNjCdM) | 2:33 | 2024-04-12 |  |
 | [気鬱、白濁す](https://open.spotify.com/track/2wxq162dGuXaQuhFMbgLSp) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [気鬱、白濁す](https://open.spotify.com/album/2gqiFS1rMMBYjrPi7NtFzn) | 3:05 | 2024-04-12 |  |
 | [爆ぜて咲く](https://open.spotify.com/track/615jr8wFWfeTiRhfAHSG9D) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [爆ぜて咲く](https://open.spotify.com/album/5Fiv8V10wlCa5Cop5FMmxr) | 3:41 | 2024-04-12 |  |

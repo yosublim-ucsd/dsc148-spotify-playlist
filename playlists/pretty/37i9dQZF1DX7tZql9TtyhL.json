@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 18341,
+  "num_followers": 4048,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Ya No Tiene Novio",
         "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 198933,
       "name": "Ya No Tiene Novio",
       "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1091,22 +1091,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+        "name": "Otro Nivel de M\u00fasica",
+        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
+      "duration_ms": 269591,
+      "name": "La Pregunta",
+      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1127,18 +1123,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Otro Nivel de M\u00fasica",
-        "url": "https://open.spotify.com/album/4zBoN1dVPUT2w4b1fFNFEh"
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
         }
       ],
-      "duration_ms": 269591,
-      "name": "La Pregunta",
-      "url": "https://open.spotify.com/track/5GChYjT0HJVDtJMjcfhYmS"
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
         "name": "Loca (feat. Cali y El Dandee)",
         "url": "https://open.spotify.com/album/7FvIkcyYTd9iOJApAdxomS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 234366,
       "name": "Loca (feat. Cali y El Dandee)",
       "url": "https://open.spotify.com/track/05ZXXyeZFhZtA6DAP3Aw7x"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "El Principe (Ghost Edition)",
-        "url": "https://open.spotify.com/album/2xewTv2y5yrMwA36X2Vxzs"
+        "name": "Olha a Explos\u00e3o",
+        "url": "https://open.spotify.com/album/4QKoUnOfhE67ZxyCPVSnrY"
       },
       "artists": [
         {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 238475,
-      "name": "Prrrum",
-      "url": "https://open.spotify.com/track/23YEpFgAVvr0w3cDm7EQ1Q"
+      "duration_ms": 161593,
+      "name": "Olha a Explos\u00e3o",
+      "url": "https://open.spotify.com/track/6m2LNopVJKsvBB9l7Z1rwn"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
-        "name": "Olha a Explos\u00e3o",
-        "url": "https://open.spotify.com/album/4QKoUnOfhE67ZxyCPVSnrY"
+        "name": "El Principe (Ghost Edition)",
+        "url": "https://open.spotify.com/album/2xewTv2y5yrMwA36X2Vxzs"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
         }
       ],
-      "duration_ms": 161593,
-      "name": "Olha a Explos\u00e3o",
-      "url": "https://open.spotify.com/track/6m2LNopVJKsvBB9l7Z1rwn"
+      "duration_ms": 238475,
+      "name": "Prrrum",
+      "url": "https://open.spotify.com/track/23YEpFgAVvr0w3cDm7EQ1Q"
     },
     {
       "added_at": "2023-11-30 12:32:36",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2023-11-30 12:32:36",
       "album": {
+        "name": "SIE7E",
+        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
+    },
+    {
+      "added_at": "2023-11-30 12:32:36",
+      "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/1FvTfT61pqrVLvT0G6SZrI"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 173627,
       "name": "X",
       "url": "https://open.spotify.com/track/2zKhN4gBTln4QgDo2KYuML"
-    },
-    {
-      "added_at": "2023-11-30 12:32:36",
-      "album": {
-        "name": "SIE7E",
-        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
     },
     {
       "added_at": "2023-11-30 12:32:36",

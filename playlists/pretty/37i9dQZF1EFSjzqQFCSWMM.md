@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
-| 2 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 |
-| 3 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 |
+| 2 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 |
+| 3 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 |
 | 4 | [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 |
 | 5 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 |
 | 6 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 95 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 96 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Mjg1NTg1NjAsMDAwMDAwMDA0MGZmM2EwZTk0MmQwNTc4ODA1YWIwNzdlZDZjOGQ0Yw==`
+Snapshot ID: `Mjg1NTk3MDIsMDAwMDAwMDAyZmM4NDVjNmNkY2Q3MDYyMDRmYzYzMGZhZmRkY2FmYQ==`

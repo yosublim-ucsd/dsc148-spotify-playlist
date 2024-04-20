@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5042,
+  "num_followers": 5041,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMGQ3MDFmOGI5ZWUzODQwYmFjZWNjNzA3NjM3YjViZjMz",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDA2NzkwN2M5OGJjYjBiYjFlMDkwNjc5Nzg3N2M4NThl",
   "tracks": [
     {
       "added_at": null,
@@ -531,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
       "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 197333,
-      "name": "The Kiss",
-      "url": "https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11"
+      "duration_ms": 100106,
+      "name": "Momentary Architecture",
+      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
     },
     {
       "added_at": null,
@@ -567,42 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 100106,
-      "name": "Momentary Architecture",
-      "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "Arabesque 1 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Budd Box (Spotify Only)",
         "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
@@ -612,41 +580,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 360333,
-      "name": "Nove Alberi",
-      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jane 1-11",
-        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Jane 2",
-      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 1107266,
-      "name": "Bismillahi 'Rrahmani 'Rrahim",
-      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+      "duration_ms": 197333,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11"
     },
     {
       "added_at": null,
@@ -667,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Jane 1-11",
+        "url": "https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft"
       },
       "artists": [
         {
@@ -676,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 154933,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
+      "duration_ms": 296800,
+      "name": "Jane 2",
+      "url": "https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb"
     },
     {
       "added_at": null,
@@ -699,6 +635,90 @@
       "duration_ms": 434733,
       "name": "A Delicate Romance",
       "url": "https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 360333,
+      "name": "Nove Alberi",
+      "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "Arabesque 1 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6inVF4smJ5IgaYgrtHiaOF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 1107266,
+      "name": "Bismillahi 'Rrahmani 'Rrahim",
+      "url": "https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 85586,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
     },
     {
       "added_at": null,
@@ -739,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+      },
+      "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 76066,
+      "name": "Avenue of Trees",
+      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jane 12-21",
         "url": "https://open.spotify.com/album/6RIxSz62ARCq1iXXqMRtTT"
       },
@@ -755,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 85586,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/6hhZYB38RdXAok3StFocCK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Mist",
         "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
       },
@@ -787,22 +807,6 @@
       "duration_ms": 137026,
       "name": "The Panther of Small Favors",
       "url": "https://open.spotify.com/track/4HdqbNllRPg0mTaZNuCeWv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Bella Vista",
-        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 120960,
-      "name": "Bell Tower",
-      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
     },
     {
       "added_at": null,
@@ -840,9 +844,25 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 76066,
-      "name": "Avenue of Trees",
-      "url": "https://open.spotify.com/track/4RDIqkBNCH7WzCKwDYgZFI"
+      "duration_ms": 93986,
+      "name": "Someone Almost There",
+      "url": "https://open.spotify.com/track/35TCHjntA1Nz3S7iZSkcur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Bella Vista",
+        "url": "https://open.spotify.com/album/38mMknfb4LvKFcdbnTQ8TL"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 120960,
+      "name": "Bell Tower",
+      "url": "https://open.spotify.com/track/1GoCV1beN8Bv6Wl4kmbMdW"
     },
     {
       "added_at": null,
@@ -859,6 +879,26 @@
       "duration_ms": 106880,
       "name": "Mars and the Artist (after Cy Twombly)",
       "url": "https://open.spotify.com/track/6eMNszDeDRUFbRlghDs1P5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before the Day Breaks",
+        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "She is My Weakness",
+      "url": "https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o"
     },
     {
       "added_at": null,
@@ -892,29 +932,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 221373,
-      "name": "She is My Weakness",
-      "url": "https://open.spotify.com/track/7fdElFPQEnakOMsl9xrx8o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
-      },
-      "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 93986,
-      "name": "Someone Almost There",
-      "url": "https://open.spotify.com/track/35TCHjntA1Nz3S7iZSkcur"
+      "duration_ms": 321226,
+      "name": "A Minute, a Day, No More",
+      "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
     }
   ],
   "unique_name": "This Is Harold Budd",

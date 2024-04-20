@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,038 likes - 170 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,247 likes - 170 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 4 | [Greatest Gift \- Reimagined](https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Greatest Gift \(Reimagined\)](https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi) | 3:59 |
 | 5 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
 | 6 | [Ms\. Ebony Brown](https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Ms\. Ebony Brown](https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz) | 3:18 |
-| 7 | [Pressure](https://open.spotify.com/track/5XeibBA25uruR2fj9SgCJk) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx) | 3:29 |
+| 7 | [Pressure](https://open.spotify.com/track/5XeibBA25uruR2fj9SgCJk) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Wait, There's More](https://open.spotify.com/album/02fFyLFZE7MkMTgQpZ2gzx) | 3:17 |
 | 8 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
 | 9 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 |
 | 10 | [Better \- A COLORS SHOW](https://open.spotify.com/track/3qOT3q3BIc4ZR4lqfGmboE) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Better \- A COLORS SHOW](https://open.spotify.com/album/4CqOltY6OL5mhCaIcKnODi) | 3:16 |

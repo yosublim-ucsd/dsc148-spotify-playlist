@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Bodhisattva",
+        "url": "https://open.spotify.com/album/3gkwlJ1M1i6jd1jdhXKWIw"
+      },
+      "artists": [
+        {
+          "name": "Romanderground",
+          "url": "https://open.spotify.com/artist/01NKdNe1CI4T2pxlL70VK1"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181157,
+      "name": "Bodhisattva",
+      "url": "https://open.spotify.com/track/2OxYYFJusnOQufGRWRznjS"
+    },
+    {
+      "album": {
         "name": "60 Hz",
         "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 272195,
       "name": "Deep Challenger - Reloaded Version",
       "url": "https://open.spotify.com/track/6VuHwT0qI2PCAgUCzxbbT1"

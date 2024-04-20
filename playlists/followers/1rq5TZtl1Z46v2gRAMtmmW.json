@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 29546,
+  "2024-04-20": 29546,
   "date_first_scraped": "2022-06-10",
   "description": "",
   "name": "Ninja Tune // New Releases",
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 283074,
       "name": "How Music Makes You Feel Better",
       "url": "https://open.spotify.com/track/2wGoegWa8zTI85Y8kxG3OP"
@@ -3513,6 +3513,28 @@
       "duration_ms": 126066,
       "name": "rimel",
       "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "ROZET",
+          "url": "https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160986,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
     },
     {
       "album": {

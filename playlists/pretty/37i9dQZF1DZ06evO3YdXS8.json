@@ -1,12 +1,12 @@
 {
-  "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 584077,
+  "description": "This is Selena. The essential tracks, all in one playlist.",
+  "num_followers": 583816,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMxMjAwMCwwMDAwMDAwMDQ3Mjk4MjRiNTcxZjg3OTc0ZWIwMzkyMTVlOWI2YTVh",
+  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDlmMWM4ZDFhN2UyZjE0ODcxYmE2NTQ5OGM0YjY4ZDE1",
   "tracks": [
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
-        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 189200,
-      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
-      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+      "duration_ms": 290773,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+        "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
+        "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
       },
       "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 290773,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+      "duration_ms": 189200,
+      "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
+      "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
     },
     {
       "added_at": null,

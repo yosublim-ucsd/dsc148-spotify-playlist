@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 8218,
+  "2024-04-20": 8229,
   "date_first_scraped": "2024-03-12",
   "description": "Enjoy these songs while you eat.",
   "name": "Iftar",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275413,
       "name": "Ak\u015fam G\u00fcne\u015fi - Live",
       "url": "https://open.spotify.com/track/1WaVrvdpRfkGPXx34B84wk"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 293151,
       "name": "A\u015fk\u0131n ile ey nevcivan",
       "url": "https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 277199,
       "name": "Esinti (K\u00fcrdi Saz Eseri)",
       "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279057,
       "name": "Gnossienne No.1",
       "url": "https://open.spotify.com/track/0xiM8EA89dvymLKODbtVjC"
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Ahmet \u00d6zhan",
+        "url": "https://open.spotify.com/album/5Nf1taWXqdReHYkdzZo2MX"
+      },
+      "artists": [
+        {
+          "name": "Ahmet \u00d6zhan",
+          "url": "https://open.spotify.com/artist/6Du3hAAxRtIdKp3zF66Z78"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84241,
+      "name": "H\u00fczzam Saz Semai",
+      "url": "https://open.spotify.com/track/2g0dHAFlelutOOWJKnW5am"
+    },
+    {
+      "album": {
         "name": "One Truth",
         "url": "https://open.spotify.com/album/4wCfLoyvMTGVE5mkmShVkJ"
       },
@@ -349,7 +367,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 492666,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6MSCWPjKrG5aAcRG9oh3R7"
@@ -465,7 +483,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361840,
       "name": "Long Wait",
       "url": "https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr"
@@ -555,7 +573,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 200110,
       "name": "Nikriz Sirto",
       "url": "https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 334414,
       "name": "Sazkar Pe\u015frev",
       "url": "https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 341120,
       "name": "Seg\u00e2h Karabatak Pe\u015frevi",
       "url": "https://open.spotify.com/track/7lQkiLymvb4mWiQSn0yp7X"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-14",
+      "date_removed": null,
       "duration_ms": 105560,
       "name": "Seg\u00e2h Pe\u015frev - Seg\u00e2h",
       "url": "https://open.spotify.com/track/50lyXPqNvboCr2Xi8v2grj"
@@ -841,7 +859,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 249754,
       "name": "Suzidilara Saz Semaisi",
       "url": "https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147240,
       "name": "\u015eedaraban M\u00fc\u015fterek Taksim",
       "url": "https://open.spotify.com/track/30t67rdkYEo5agfOJrXJWE"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 89866,
       "name": "\u015eehnaz Pe\u015frevi",
       "url": "https://open.spotify.com/track/6hOF6PIf9I4UkgNjknPyzW"

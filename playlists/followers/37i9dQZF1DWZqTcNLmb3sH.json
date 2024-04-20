@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 57566,
+  "2024-04-20": 57550,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -5641,10 +5641,32 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127765,
       "name": "Devil The Hero Theme (From \"Devil The Hero\")",
       "url": "https://open.spotify.com/track/42NA1xlDyARsiNnGet2liL"
+    },
+    {
+      "album": {
+        "name": "Devil The Hero Theme (From \"Devil The Hero\")",
+        "url": "https://open.spotify.com/album/24UQHkRsgTkaKswjILai4K"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "C.R.Bobby",
+          "url": "https://open.spotify.com/artist/1WMMdHnsy7rwTnKmsu85z1"
+        }
+      ],
+      "date_added": "2024-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127765,
+      "name": "Devil The Hero Theme (From \"Devil The Hero\")",
+      "url": "https://open.spotify.com/track/6rOjGQlGADf40NVG7gZzuO"
     },
     {
       "album": {
@@ -5921,7 +5943,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223726,
       "name": "Dharege Doddovru",
       "url": "https://open.spotify.com/track/2dDyeZTtBhKFKvMWV5eyXg"
@@ -5976,12 +5998,12 @@
         },
         {
           "name": "Shankara",
-          "url": "https://open.spotify.com/artist/5G43SgIhCmTNzLcHR2b88O"
+          "url": "https://open.spotify.com/artist/7zLLJNQsa9GWg1ExisOc5i"
         }
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-02",
+      "date_removed": null,
       "duration_ms": 223726,
       "name": "Dharege Doddovru (From \"Lineman\") (Kannada)",
       "url": "https://open.spotify.com/track/0jivW1vm0joYBzxYvQtRiv"
@@ -6875,7 +6897,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201777,
       "name": "Eerappanu (From \"Captain Miller\")",
       "url": "https://open.spotify.com/track/1qscQ1xijcC6dBuS4HN4BF"
@@ -6901,7 +6923,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-07",
+      "date_removed": null,
       "duration_ms": 201777,
       "name": "Eerappanu (From \"Captain Miller\") (Kannada)",
       "url": "https://open.spotify.com/track/2UJnORv1nEQerKIcbLtYyX"
@@ -7385,7 +7407,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 193109,
       "name": "Enna Manadarasi (From \"Ranganayaka\")",
       "url": "https://open.spotify.com/track/3xxZtSzm4hDz5uylliePyg"
@@ -8284,6 +8306,28 @@
     },
     {
       "album": {
+        "name": "Garadi",
+        "url": "https://open.spotify.com/album/3F77nRCtkmoCLMWlfHxIW7"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Garadi Title Track",
+      "url": "https://open.spotify.com/track/1zcEnLgILmlk2216qniN3A"
+    },
+    {
+      "album": {
         "name": "Garadi Title Track (From \"Garadi\")",
         "url": "https://open.spotify.com/album/40LN2w1d5n8cq4c1pPmf4m"
       },
@@ -8329,7 +8373,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225600,
       "name": "Garadi Title Track (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6uaOJCLS6kZXidqfykTAgP"
@@ -9227,7 +9271,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144071,
       "name": "Happy Birthday London Sparrow",
       "url": "https://open.spotify.com/track/49ZFsBxIpNiQXm93yZHhY0"
@@ -9261,7 +9305,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 144071,
       "name": "Happy Birthday London Sparrow (From \"Lineman\") (Kannada)",
       "url": "https://open.spotify.com/track/2gT0mdD11b6jM2uowlaVcu"
@@ -11422,6 +11466,28 @@
     },
     {
       "album": {
+        "name": "Garadi",
+        "url": "https://open.spotify.com/album/3F77nRCtkmoCLMWlfHxIW7"
+      },
+      "artists": [
+        {
+          "name": "V. Harikrishna",
+          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
+        },
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        }
+      ],
+      "date_added": "2024-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226434,
+      "name": "Jeevamaana",
+      "url": "https://open.spotify.com/track/76uycqd4KjC6dbbI0HxBAU"
+    },
+    {
+      "album": {
         "name": "Jeevamaana (From \"Garadi\")",
         "url": "https://open.spotify.com/album/3wy7tCMVwKKKX8dqikIXqr"
       },
@@ -11441,7 +11507,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226434,
       "name": "Jeevamaana (From \"Garadi\")",
       "url": "https://open.spotify.com/track/6BZRrmvDfDyaKaz8mkX1du"
@@ -14218,6 +14284,24 @@
     },
     {
       "album": {
+        "name": "Maathalli Donnevarse (From \"Matinee\")",
+        "url": "https://open.spotify.com/album/4DQQpO78ePfyo9Z6kPHQEQ"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117282,
+      "name": "Maathalli Donnevarse (From \"Matinee\")",
+      "url": "https://open.spotify.com/track/5qX8AFALLImg9i4UkYf14V"
+    },
+    {
+      "album": {
         "name": "Baanadariyalli (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2GAM8uL1n929vXo2JUkWSo"
       },
@@ -14383,10 +14467,36 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219636,
       "name": "Madve Byada (From \" Lineman\")",
       "url": "https://open.spotify.com/track/4rWiqybyUvZNZvDj12HJLP"
+    },
+    {
+      "album": {
+        "name": "Madve Byada (From \"Lineman\") (Kannada)",
+        "url": "https://open.spotify.com/album/2tLwD0BUUkJNkdRkwqf86l"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Guru Kiran",
+          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
+        },
+        {
+          "name": "V Raghu Shastry",
+          "url": "https://open.spotify.com/artist/4HIXKu2NIlPwjhDVj9l4LA"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219636,
+      "name": "Madve Byada (From \"Lineman\") (Kannada)",
+      "url": "https://open.spotify.com/track/31XiI9U8eWS9WTF8UsyJYY"
     },
     {
       "album": {
@@ -14865,7 +14975,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198968,
       "name": "Manada Kitaki (From \" Lineman\")",
       "url": "https://open.spotify.com/track/2ZzAak06P7TdRykmiDNw53"
@@ -14891,7 +15001,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 198968,
       "name": "Manada Kitaki (From \"Lineman\") (Kannada)",
       "url": "https://open.spotify.com/track/5lRCjJMhS9C1GwJNNOGsBe"
@@ -15149,6 +15259,32 @@
       "duration_ms": 245400,
       "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
       "url": "https://open.spotify.com/track/5XLCyX3kqNwDoBOvVhORUD"
+    },
+    {
+      "album": {
+        "name": "Manave Irula Kaanana (From \"Anshu\")",
+        "url": "https://open.spotify.com/album/7IXkpNwUoVrq0svPN3kRG9"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
+        },
+        {
+          "name": "Jyothsna Bharadwaj",
+          "url": "https://open.spotify.com/artist/4YZCXhMrK9ZzCtJQnNQCC5"
+        },
+        {
+          "name": "K C Balasarangan",
+          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198028,
+      "name": "Manave Irula Kaanana (From \"Anshu\")",
+      "url": "https://open.spotify.com/track/5BusK56rrFDXafFpM8YKrB"
     },
     {
       "album": {
@@ -15515,7 +15651,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 51458,
       "name": "Max Title Theme (From \"Max\")",
       "url": "https://open.spotify.com/track/5SDQkDYHFXSPqY0lOF24kt"
@@ -15537,7 +15673,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 51458,
       "name": "Max Title Theme (From \"Max\")",
       "url": "https://open.spotify.com/track/0mBmQS4J3tNj2E7SoMIYng"
@@ -18261,6 +18397,28 @@
       "duration_ms": 344491,
       "name": "Neenillade (From \"Mandala - The UFO Incident\")",
       "url": "https://open.spotify.com/track/3WFDYO4qmhxnTFmHJlOxe2"
+    },
+    {
+      "album": {
+        "name": "Neenirade (From \"Matinee\")",
+        "url": "https://open.spotify.com/album/0YwAYuejSRoNq0SCUdJIk6"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165780,
+      "name": "Neenirade (From \"Matinee\")",
+      "url": "https://open.spotify.com/track/5kOdyuz2zpGRSqT1t4X9Ep"
     },
     {
       "album": {
@@ -21758,28 +21916,6 @@
     },
     {
       "album": {
-        "name": "Malaikottai Vaaliban (Kannada)",
-        "url": "https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq"
-      },
-      "artists": [
-        {
-          "name": "Prashant Pillai",
-          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
-        },
-        {
-          "name": "P.S Rafeeque",
-          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
-        }
-      ],
-      "date_added": "2024-03-04",
-      "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
-      "duration_ms": 170061,
-      "name": "Raak",
-      "url": "https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4"
-    },
-    {
-      "album": {
         "name": "Malaikottai Vaaliban (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2Wrhc8VB162sVUxsDgWIBu"
       },
@@ -21799,10 +21935,40 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170061,
       "name": "Raakk",
       "url": "https://open.spotify.com/track/1p0jSQRxGrro0WDeypZhwF"
+    },
+    {
+      "album": {
+        "name": "Malaikottai Vaaliban (Kannada)",
+        "url": "https://open.spotify.com/album/6NAqokJsRcEmPfIVBwXWrq"
+      },
+      "artists": [
+        {
+          "name": "Prashant Pillai",
+          "url": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
+        },
+        {
+          "name": "P.S Rafeeque",
+          "url": "https://open.spotify.com/artist/6Ef2IbiTvMc8iehZA1Ss15"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        },
+        {
+          "name": "Justin Philipos",
+          "url": "https://open.spotify.com/artist/33fWNx8qcdZEDvpU8flV45"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170061,
+      "name": "Raakk",
+      "url": "https://open.spotify.com/track/32UZbiFV3u4Nxu5O0dUcA4"
     },
     {
       "album": {
@@ -22787,7 +22953,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 273157,
       "name": "Sakhi (From \"Blink\")",
       "url": "https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK"
@@ -22813,7 +22979,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273157,
       "name": "Sakhi (From \"Blink\")",
       "url": "https://open.spotify.com/track/2J0f8pSPKmtCfSe25CjzG2"
@@ -23205,7 +23371,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195577,
       "name": "Sangeetha Sulabhavalla (from \"Ondu Sarala Prema Kathe\")",
       "url": "https://open.spotify.com/track/6Q6LRKXPhn60sDrcSeDOmO"
@@ -24147,7 +24313,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195093,
       "name": "Sothodheyo (From \"Cicada\")",
       "url": "https://open.spotify.com/track/6ATSVCm11MmFLjw7J9DsVH"
@@ -24620,6 +24786,28 @@
     },
     {
       "album": {
+        "name": "Lineman (Kannada)",
+        "url": "https://open.spotify.com/album/5ROWZ6NNpVoEszP1V8ulPV"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Suvvaali",
+      "url": "https://open.spotify.com/track/5v2VCI67tlNEWziOt6UOck"
+    },
+    {
+      "album": {
         "name": "Lineman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5nJvtkOE5xy4LNW82AJaVl"
       },
@@ -24635,7 +24823,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 177500,
       "name": "Suvvaali",
       "url": "https://open.spotify.com/track/5L23yulC7t9BL7oJ4rHPXP"

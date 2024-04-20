@@ -5239,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "King of the Void",
+        "url": "https://open.spotify.com/album/1JWjJN17jrxsmzLbji8Ghr"
+      },
+      "artists": [
+        {
+          "name": "Ezediel",
+          "url": "https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158098,
+      "name": "King of the Void",
+      "url": "https://open.spotify.com/track/0EduJ8lt4T2jYCwnO8FVLa"
+    },
+    {
+      "album": {
         "name": "knockin'",
         "url": "https://open.spotify.com/album/0vyNt5OveaDoZ0i9eI4o6b"
       },

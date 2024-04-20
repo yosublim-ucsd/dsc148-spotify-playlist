@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 4097,
+  "2024-04-20": 4098,
   "date_first_scraped": "2023-10-21",
   "description": "All the music from Barracuda Queens... now on Netflix.",
   "name": "Barracuda Queens Official Playlist",
@@ -17,7 +17,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231466,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/2IJftBfq7pJ43tfnOR0RB3"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 232466,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/4ZhPLoMzZwewHLLjV1J15c"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5CQvKyzkWI7TnUu2oB9QZ0"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
@@ -112,6 +112,24 @@
     },
     {
       "album": {
+        "name": "Brotherhood (Deluxe)",
+        "url": "https://open.spotify.com/album/0koZYtM93uGBsPaD2uqa8A"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294026,
+      "name": "Block Rockin' Beats",
+      "url": "https://open.spotify.com/track/2wPFy7SAFnt9Nj2TipWcqb"
+    },
+    {
+      "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/7uqmBZKWSQY20q1EMrV8dt"
       },
@@ -123,7 +141,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 294026,
       "name": "Block Rockin' Beats",
       "url": "https://open.spotify.com/track/6nGUM3Z0FNJZW9wbNj97Ig"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 332229,
       "name": "Rhythm Is A Dancer",
       "url": "https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA"
@@ -393,7 +411,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 332229,
       "name": "Rhythm Is a Dancer",
       "url": "https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 187026,
       "name": "Se p\u00e5 mig",
       "url": "https://open.spotify.com/track/0x29B8qeLXUq5FB7CH8wrz"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 187026,
       "name": "Se p\u00e5 mig",
       "url": "https://open.spotify.com/track/7nqogta9WJDwXkSNHu9wfJ"

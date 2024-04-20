@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 40623,
+  "2024-04-20": 40623,
   "date_first_scraped": "2022-06-02",
   "description": "Be inspired and let the music heal your soul and uplift your spirits.",
   "name": "Sing His Praises",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178189,
       "name": "10,000 Reasons / What a Beautiful Name",
       "url": "https://open.spotify.com/track/33Ush8XeSGoH1qivkTF8ED"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 178189,
       "name": "10,000 Reasons / What a Beautiful Name",
       "url": "https://open.spotify.com/track/34r6cLVbeT4UoPgTRSBIE0"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 334000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3q7FPEDlu4LPAt51vovq82"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5TjWv28A1YWX0sYC0Ey8Ov"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 324000,
       "name": "Change My Heart, Oh God",
       "url": "https://open.spotify.com/track/2m8XWYMBTB1cXAxpgCQtOr"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-03",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Change My Heart, Oh God",
       "url": "https://open.spotify.com/track/4cauwv2JwSGHEOehKhwZSC"
@@ -439,7 +439,7 @@
     {
       "album": {
         "name": "Come Jesus Come",
-        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+        "url": "https://open.spotify.com/album/2wMZd05naUzrxv71qnYa3G"
       },
       "artists": [
         {
@@ -450,6 +450,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298050,
+      "name": "Come Jesus Come",
+      "url": "https://open.spotify.com/track/0HQBjmtfGFzhXHo8UUys1c"
+    },
+    {
+      "album": {
+        "name": "Come Jesus Come",
+        "url": "https://open.spotify.com/album/0aYbAtML1iNwTXvkMdwirB"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/6WHe4Ilqwx9H5cY8V9glhr"
@@ -493,6 +511,24 @@
     {
       "album": {
         "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
       },
       "artists": [
@@ -507,7 +543,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307896,
       "name": "Delightful (The Sower Never Wastes A Tear)",
       "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
@@ -627,7 +663,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 250976,
       "name": "Far Greater Love",
       "url": "https://open.spotify.com/track/0Nx53o4TyKSpnTiQ0MAiEj"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250976,
       "name": "Far Greater Love",
       "url": "https://open.spotify.com/track/1kAT4F1NJDWbqtnfrc5T0O"
@@ -907,7 +943,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179813,
       "name": "Holy",
       "url": "https://open.spotify.com/track/295zxNbaRxYp7cKmFEdwqG"
@@ -933,6 +969,28 @@
       "duration_ms": 179813,
       "name": "Holy",
       "url": "https://open.spotify.com/track/56W2qptuhftndvAooq7vuE"
+    },
+    {
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/6TJwvt9HrcnOLQXx8OOq7X"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        },
+        {
+          "name": "Wes Harris",
+          "url": "https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/3brUbKvNipUN7T6Nl8Wbbj"
     },
     {
       "album": {
@@ -1021,6 +1079,28 @@
     {
       "album": {
         "name": "Take Heart (Again)",
+        "url": "https://open.spotify.com/album/4cIDrAPIwTqFLPcdMT16L4"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314493,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/2Ilbv0FdK3FDydyjwLYbz9"
+    },
+    {
+      "album": {
+        "name": "Take Heart (Again)",
         "url": "https://open.spotify.com/album/6HcqVBH2iWODP7vYAuvR8O"
       },
       "artists": [
@@ -1035,7 +1115,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 314493,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
@@ -1133,7 +1213,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278260,
       "name": "Ililigtas Ka Niya",
       "url": "https://open.spotify.com/track/00LHqyWw8CoUcqk3jgCUUb"
@@ -1151,7 +1231,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 278260,
       "name": "Ililigtas Ka Niya",
       "url": "https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk"
@@ -1333,7 +1413,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 255915,
       "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
       "url": "https://open.spotify.com/track/62DGHbXNczniQqp0W8Qs0E"
@@ -1351,7 +1431,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 255915,
       "name": "Kuwaa na, Kagurangnan (The Sume et Suscipe of St Ignatius in Bikol)",
       "url": "https://open.spotify.com/track/6AYoOKOpxa6j7OaGZoGWkZ"
@@ -1459,7 +1539,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 273305,
       "name": "Lord Speak",
       "url": "https://open.spotify.com/track/20WFxQ4lx4hvxvnuu13FSN"
@@ -1477,7 +1557,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273305,
       "name": "Lord Speak",
       "url": "https://open.spotify.com/track/2D3ZFUBbnKSJklgoE7w3gb"
@@ -1561,7 +1641,7 @@
     {
       "album": {
         "name": "Maging Katulad Mo",
-        "url": "https://open.spotify.com/album/7eqDsFLkkFXnNb6HzPIOO0"
+        "url": "https://open.spotify.com/album/4hh6PV1ZfVjhe2zZ86nauK"
       },
       "artists": [
         {
@@ -1572,6 +1652,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 256983,
+      "name": "Maging Katulad Mo",
+      "url": "https://open.spotify.com/track/2h6LeC15ynRwIKfg23RN3Z"
+    },
+    {
+      "album": {
+        "name": "Maging Katulad Mo",
+        "url": "https://open.spotify.com/album/7eqDsFLkkFXnNb6HzPIOO0"
+      },
+      "artists": [
+        {
+          "name": "Poppert Bernadas",
+          "url": "https://open.spotify.com/artist/6R9MgvtKnpQwMsBMGBr6Hl"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 256983,
       "name": "Maging Katulad Mo",
       "url": "https://open.spotify.com/track/3fEX3r2qCLlkrzEw1DqTnk"
@@ -1815,7 +1913,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 244239,
       "name": "Nasaan Kaya Ako",
       "url": "https://open.spotify.com/track/1ylLUQy3WwGEUJ5p5PAyuJ"
@@ -1833,7 +1931,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244239,
       "name": "Nasaan Kaya Ako",
       "url": "https://open.spotify.com/track/2ynqCIq6D7vJKL873GFQrt"
@@ -1931,7 +2029,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 536000,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/2PDlIgTWeNkVwx3QIAQT0i"
@@ -1953,7 +2051,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
@@ -1982,6 +2080,24 @@
     },
     {
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/4eVo5kyRzRJqV6xvB59Z9v"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271379,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1RVSKrJR0Qoi1eoSMuT1AH"
+    },
+    {
+      "album": {
         "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
       },
@@ -2001,7 +2117,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271586,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/0HiR1fErIN1CgzLyzBFhDw"
@@ -2091,10 +2207,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 279278,
       "name": "Pagkakaibigan",
       "url": "https://open.spotify.com/track/5zCfJrP9u5N8iRAWXIsb3Q"
+    },
+    {
+      "album": {
+        "name": "Pagkakaibigan",
+        "url": "https://open.spotify.com/album/2weaBN29YP8FEYvAM14ON2"
+      },
+      "artists": [
+        {
+          "name": "Darwin Lomentigar",
+          "url": "https://open.spotify.com/artist/2FhqBp3dKby5iS8URN5giI"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279278,
+      "name": "Pagkakaibigan",
+      "url": "https://open.spotify.com/track/6socX6ghMZ1wlJcpgPa2Ah"
     },
     {
       "album": {
@@ -2135,7 +2269,7 @@
     {
       "album": {
         "name": "Pintig ng Puso",
-        "url": "https://open.spotify.com/album/2ZJtY1yPx1J4FZbyGbHYvE"
+        "url": "https://open.spotify.com/album/4AsfutBrRtw4Ha2FVnPT9A"
       },
       "artists": [
         {
@@ -2146,6 +2280,24 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191092,
+      "name": "Pintig ng Puso",
+      "url": "https://open.spotify.com/track/4WR29G5CT8AqbNxlnuLL0u"
+    },
+    {
+      "album": {
+        "name": "Pintig ng Puso",
+        "url": "https://open.spotify.com/album/2ZJtY1yPx1J4FZbyGbHYvE"
+      },
+      "artists": [
+        {
+          "name": "Floyd Tena",
+          "url": "https://open.spotify.com/artist/4xODnj5Y62813OgmtheRXT"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 191092,
       "name": "Pintig ng Puso",
       "url": "https://open.spotify.com/track/69QV2S4a5eEmt7j3uTtU9m"
@@ -2449,7 +2601,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253044,
       "name": "Showers of Love",
       "url": "https://open.spotify.com/track/4wfFQ0Z2XrKngqkeVadmcq"
@@ -2467,7 +2619,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-28",
+      "date_removed": null,
       "duration_ms": 253044,
       "name": "Showers of Love",
       "url": "https://open.spotify.com/track/6TCAsOAsWZTwtI1SG22Ah3"
@@ -2485,7 +2637,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 402612,
       "name": "Sigaw Ng Puso",
       "url": "https://open.spotify.com/track/0SDhDia5qGCTCyDflHT0T5"
@@ -2503,7 +2655,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 402612,
       "name": "Sigaw Ng Puso",
       "url": "https://open.spotify.com/track/5MhOky7jQ564pwCf6QbZrC"
@@ -2521,7 +2673,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 256842,
       "name": "Sinasamba Kita",
       "url": "https://open.spotify.com/track/1aBymU4ycD12YpUBT9nuaj"
@@ -2539,7 +2691,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 256842,
       "name": "Sinasamba Kita",
       "url": "https://open.spotify.com/track/46VE4tQX8PVDo5z6ADonxH"
@@ -2673,7 +2825,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 272500,
       "name": "The Good God",
       "url": "https://open.spotify.com/track/13yRKcO7grILliLJxcGqDb"
@@ -2691,7 +2843,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 272500,
       "name": "The Good God",
       "url": "https://open.spotify.com/track/5W2lmvNODzxh8HWKIKGuWt"
@@ -2727,7 +2879,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183868,
       "name": "The Lord Is My Strength",
       "url": "https://open.spotify.com/track/4nLRzSNYahU2dg4kMb8DCw"
@@ -2745,7 +2897,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 183868,
       "name": "The Lord Is My Strength",
       "url": "https://open.spotify.com/track/5pn6jIp7xDLeqsolqo8xPM"
@@ -2781,7 +2933,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 180974,
       "name": "This Year",
       "url": "https://open.spotify.com/track/232GkQUm3vxkug4dFIknAf"
@@ -2799,7 +2951,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180974,
       "name": "This Year",
       "url": "https://open.spotify.com/track/3UwIhoYUUjs6kYJq9IVYso"
@@ -2865,7 +3017,7 @@
     {
       "album": {
         "name": "Tungo Sa'yo",
-        "url": "https://open.spotify.com/album/3YLfQuufMs7a0OrHAisBBn"
+        "url": "https://open.spotify.com/album/4dMokw1VM5U3OgGJJYkFEZ"
       },
       "artists": [
         {
@@ -2880,6 +3032,28 @@
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299146,
+      "name": "Tungo Sa'yo",
+      "url": "https://open.spotify.com/track/2UodFaBIAVbTvvev04pth1"
+    },
+    {
+      "album": {
+        "name": "Tungo Sa'yo",
+        "url": "https://open.spotify.com/album/3YLfQuufMs7a0OrHAisBBn"
+      },
+      "artists": [
+        {
+          "name": "Bituin Escalante",
+          "url": "https://open.spotify.com/artist/0lyIvVIJZWM6K64it2HqWk"
+        },
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 299146,
       "name": "Tungo Sa'yo",
       "url": "https://open.spotify.com/track/4sHcUvNf3lwDaibrFdqum9"
@@ -2991,10 +3165,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 292382,
       "name": "Walang Ibang Tahanan",
       "url": "https://open.spotify.com/track/2exSTFp46dOvCc13ipeW0n"
+    },
+    {
+      "album": {
+        "name": "Walang Ibang Tahanan",
+        "url": "https://open.spotify.com/album/0YgMzl87hrYfdFfb58dDcM"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292382,
+      "name": "Walang Ibang Tahanan",
+      "url": "https://open.spotify.com/track/7sunmx7KreKSQ7TMY0s5jx"
     },
     {
       "album": {
@@ -3085,7 +3277,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 244784,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/1QN30TGAZWHiGInfeR5o2Q"
@@ -3103,7 +3295,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244784,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/6oAlchGEsM9sqbpEeVrIxA"

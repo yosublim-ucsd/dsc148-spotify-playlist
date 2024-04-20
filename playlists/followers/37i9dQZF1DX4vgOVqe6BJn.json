@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 192122,
+  "2024-04-20": 192151,
   "date_first_scraped": "2022-09-23",
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
   "name": "FIFA 23 Official Soundtrack",
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237973,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/3osAu1YKO9KBZnS5jGzKVl"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207360,
       "name": "Bricks in the Wall",
       "url": "https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 207414,
       "name": "Bricks in the Wall",
       "url": "https://open.spotify.com/track/79OIgwVIAyRyONl4r5JDD9"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 225202,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/2Uwllv1d2yJHNUrQG7RVLV"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-27",
+      "date_removed": null,
       "duration_ms": 225202,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/3tAnmq1vtA2GTYV6xw0BW2"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 206798,
       "name": "Choose A Life",
       "url": "https://open.spotify.com/track/0H5SDb0KCXx3c4CNjSwktn"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 206798,
       "name": "Choose A Life",
       "url": "https://open.spotify.com/track/206aJvufLWSF3RRJJonlFl"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-09",
+      "date_removed": null,
       "duration_ms": 208106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/54ARgdtJz0bkmTxGsJnR5t"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5OTZXDxcrbRqv6DzI1R2mm"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 231851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/1ARuHk4XNA0FJXuCOIassd"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-01",
+      "date_removed": null,
       "duration_ms": 231851,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/4I6PEk4Mg4P1sHt3kjxD1W"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 186903,
       "name": "FIX YOUR FACE",
       "url": "https://open.spotify.com/track/5KAO2QUiNjO3uM12aexykO"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 164075,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/1Et6hUJwEgMp4ibm9Bml23"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181448,
       "name": "Hela V\u00e4gen Upp",
       "url": "https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 181448,
       "name": "Hela V\u00e4gen Upp (feat. Jaqe)",
       "url": "https://open.spotify.com/track/5PfBWTtklToHiwR6ykNfmE"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159324,
       "name": "High Level",
       "url": "https://open.spotify.com/track/0ukJe2qwhEseGHFB5DTM70"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 159324,
       "name": "High Level",
       "url": "https://open.spotify.com/track/7kdDzuTex0Z84GMcH98l4E"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/2u2nlJGXbc4cFCOSaSB0rL"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203573,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 167893,
       "name": "I'm Gon' Get You",
       "url": "https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168226,
       "name": "Look",
       "url": "https://open.spotify.com/track/2UnYp6QyIXKJiDF0tB8Smy"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 168226,
       "name": "Look",
       "url": "https://open.spotify.com/track/42y1R39jgfNb8tNtNNoYMZ"
@@ -1459,7 +1459,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-16",
+      "date_removed": null,
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 137739,
       "name": "Maybe Not",
       "url": "https://open.spotify.com/track/1vwCloetc88FvjuzEyixZm"
@@ -1579,10 +1579,32 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 137739,
       "name": "Maybe Not",
       "url": "https://open.spotify.com/track/4baVlZg9mWWkNYPBpMdZON"
+    },
+    {
+      "album": {
+        "name": "Must Be Love",
+        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270145,
+      "name": "Must Be Love",
+      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
     },
     {
       "album": {
@@ -1601,32 +1623,10 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 270145,
       "name": "Must Be Love",
       "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
-    },
-    {
-      "album": {
-        "name": "Must Be Love (feat. Electric Fields)",
-        "url": "https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "date_added": "2022-09-22",
-      "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
-      "duration_ms": 270145,
-      "name": "Must Be Love (feat. Electric Fields)",
-      "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
     },
     {
       "album": {
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 223991,
       "name": "On Your Own",
       "url": "https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 223991,
       "name": "On Your Own (feat. Elderbrook)",
       "url": "https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 125312,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-17",
+      "date_removed": null,
       "duration_ms": 125312,
       "name": "Pedi",
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 224120,
       "name": "People (with The Knocks)",
       "url": "https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224120,
       "name": "People (with The Knocks)",
       "url": "https://open.spotify.com/track/71pm3H94okCkUNqwFQZr8k"
@@ -1991,7 +1991,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-29",
+      "date_removed": null,
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 171145,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG"
@@ -2049,7 +2049,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/6vFjgISjK4fwJYPnMt8zAX"
@@ -2071,7 +2071,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262346,
       "name": "READY4DEM",
       "url": "https://open.spotify.com/track/7CHVm8NeCxvPuCXyAGAx3v"
@@ -2257,7 +2257,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/0Zkca5LCqbU9iXOlwDTOTB"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 238019,
       "name": "Sirens (feat. Caroline Polachek)",
       "url": "https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny"
@@ -2359,7 +2359,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-08",
+      "date_removed": null,
       "duration_ms": 214042,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx"
@@ -2381,7 +2381,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214042,
       "name": "Sorry I'm Not Sorry",
       "url": "https://open.spotify.com/track/4Zf5mePGslKje78fPv9D9T"
@@ -2425,7 +2425,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr"
@@ -2593,10 +2593,36 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184403,
       "name": "Times Change",
       "url": "https://open.spotify.com/track/0aoEwfCRcCSe4HKgdSGPXp"
+    },
+    {
+      "album": {
+        "name": "Times Change",
+        "url": "https://open.spotify.com/album/7ywHN1M5ILQJflRE4X1qnn"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Novelist",
+          "url": "https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184403,
+      "name": "Times Change (Feat. Novelist and D Double E)",
+      "url": "https://open.spotify.com/track/1Th7Q0JOG8cea1u6JrHptk"
     },
     {
       "album": {
@@ -2707,7 +2733,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
@@ -2733,6 +2759,28 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/3a1CcF94xavoweGG1GWT0m"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
     },
     {
       "album": {

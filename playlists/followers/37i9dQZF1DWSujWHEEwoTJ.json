@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 68861,
+  "2024-04-20": 68936,
   "date_first_scraped": "2022-05-01",
   "description": "Desde Culiac\u00e1n, Sinaloa, Ozz nos comparte las rolitas que no pueden faltar a la hora de echarse un aguachile. ",
   "name": "La Marisquer\u00eda con Ozz",
@@ -82,6 +82,24 @@
     },
     {
       "album": {
+        "name": "Mis Mejores Canciones 17 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6bwKqJnXxeDt1LIcoTBjJl"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Baraja De Oro",
+      "url": "https://open.spotify.com/track/5ucLsalXHFV7vufoGC5LeG"
+    },
+    {
+      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
@@ -93,7 +111,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209333,
       "name": "Baraja de Oro",
       "url": "https://open.spotify.com/track/43kD7kP2cXd3uwBw9AoxmD"
@@ -133,7 +151,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 201064,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2tpi3j9rsfTLPnDpjOKx6c"
@@ -169,7 +187,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9"
@@ -445,7 +463,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-22",
+      "date_removed": null,
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af"
@@ -489,7 +507,7 @@
     {
       "album": {
         "name": "El Cid",
-        "url": "https://open.spotify.com/album/0WLA7OMGnJ0gM48Q227RkK"
+        "url": "https://open.spotify.com/album/7sNoCEa8w8Olj6SGZULYkG"
       },
       "artists": [
         {
@@ -502,7 +520,43 @@
       "date_removed": null,
       "duration_ms": 158053,
       "name": "El Cid",
+      "url": "https://open.spotify.com/track/3mBQ4UV14Y5yxckDwaRhOn"
+    },
+    {
+      "album": {
+        "name": "El Cid",
+        "url": "https://open.spotify.com/album/0WLA7OMGnJ0gM48Q227RkK"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
+      "duration_ms": 158053,
+      "name": "El Cid",
       "url": "https://open.spotify.com/track/3v03GNovV38IjeiXxg3p8K"
+    },
+    {
+      "album": {
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/48bZ5AE20avC30tkU1yKsT"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132906,
+      "name": "El Corrido De Mazatl\u00e1n",
+      "url": "https://open.spotify.com/track/6GQ1o9w7PdKBGDYs0Z2Kwb"
     },
     {
       "album": {
@@ -517,7 +571,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136946,
       "name": "El Corrido De Mazatl\u00e1n",
       "url": "https://open.spotify.com/track/6gAoluYJ7yxcVopkj8GnNG"
@@ -901,7 +955,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188429,
       "name": "La Boda del Huitlacoche - En Vivo",
       "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
@@ -919,10 +973,28 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-09",
+      "date_removed": null,
       "duration_ms": 188416,
       "name": "La Boda Del Huitlacoche - Live",
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+    },
+    {
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210152,
+      "name": "La Bola (Pelotero a la Bola)",
+      "url": "https://open.spotify.com/track/6i6LOorHwaFqnM7cJNlqFH"
     },
     {
       "album": {
@@ -937,28 +1009,10 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 210280,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/2pdaGbHeRy6i5DJuWbLg3t"
-    },
-    {
-      "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "date_added": "2022-01-20",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
-      "duration_ms": 210152,
-      "name": "La Bola (Pelotero a la Bola)",
-      "url": "https://open.spotify.com/track/6i6LOorHwaFqnM7cJNlqFH"
     },
     {
       "album": {
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
@@ -1479,7 +1533,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153106,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/5iJNb87XU4xodNITsyR2PR"
@@ -1685,7 +1739,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 155973,
       "name": "Pi\u00e9nsalo - In\u00e9dita",
       "url": "https://open.spotify.com/track/1zsW8lKqfC2IpO6p05WMAW"
@@ -1703,7 +1757,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 155973,
       "name": "Pi\u00e9nsalo - In\u00e9dita",
       "url": "https://open.spotify.com/track/33i30iRaIfo7ABAaT5oqDy"
@@ -1779,7 +1833,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
@@ -1797,7 +1851,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
@@ -1967,7 +2021,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-17",
+      "date_removed": null,
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
@@ -1985,7 +2039,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida - En Vivo",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
@@ -2133,7 +2187,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190575,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
@@ -2151,7 +2205,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 190720,
       "name": "Vamos Aclarando Muchas Cosas - En Vivo",
       "url": "https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM"
@@ -2169,7 +2223,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 197133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/4iN0LgZ4SwAIVJ7VRrsd27"
@@ -2187,7 +2241,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/1ejwlo9By9BKYWUgK9efI5"

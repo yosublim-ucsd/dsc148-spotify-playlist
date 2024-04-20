@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 1077106,
+  "2024-04-20": 1077044,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -684,14 +684,10 @@
     },
     {
       "album": {
-        "name": "Back to the Future Past",
+        "name": "Back to the Futures Past",
         "url": "https://open.spotify.com/album/2jO0JSob7gD52BBptVDzyp"
       },
       "artists": [
-        {
-          "name": "BlackSaiph",
-          "url": "https://open.spotify.com/artist/5lD79Lk9bsPeUyg9URl0s9"
-        },
         {
           "name": "Guantanamo Bae",
           "url": "https://open.spotify.com/artist/0G0RBNB2IT4AhCIMQ8qnos"
@@ -699,13 +695,17 @@
         {
           "name": "This Saturday",
           "url": "https://open.spotify.com/artist/02xaQQuvJsMy510ovUomPP"
+        },
+        {
+          "name": "BlackSaiph",
+          "url": "https://open.spotify.com/artist/5lD79Lk9bsPeUyg9URl0s9"
         }
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192052,
-      "name": "Back to the Future Past",
+      "name": "Back to the Futures Past",
       "url": "https://open.spotify.com/track/7m1Kdayk77cmtwBWxydWpH"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 27654,
+  "2024-04-20": 27675,
   "date_first_scraped": "2023-10-03",
   "description": "<a href=\"spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N\">PAUZA</a>'s favorite tracks. Updated regularly. Curated by PAUZA. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "PAUZA's track IDs",
@@ -867,10 +867,28 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 419546,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/4oFn3dF7q9lqii7y6AjYmB"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419546,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/6EEL5iBZY1GecVqZrTd6Qs"
     },
     {
       "album": {
@@ -1650,7 +1668,7 @@
         },
         {
           "name": "Jose Casadiego",
-          "url": "https://open.spotify.com/artist/1mMT3pT6VV74Mpni6kyuNX"
+          "url": "https://open.spotify.com/artist/0GlC4iQQI49VYMLGajSpHr"
         }
       ],
       "date_added": "2024-03-04",
@@ -2127,6 +2145,28 @@
     {
       "album": {
         "name": "The Healers: The Last Chapter",
+        "url": "https://open.spotify.com/album/7J6acesyZ1PN1ltjEioNyH"
+      },
+      "artists": [
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        },
+        {
+          "name": "Homeboyz",
+          "url": "https://open.spotify.com/artist/3L5iHIeqJGEaYViGapHs0C"
+        }
+      ],
+      "date_added": "2024-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383154,
+      "name": "Ven pa ka (Black Motion Rework) (feat. Homeboyz)",
+      "url": "https://open.spotify.com/track/0WOwLNr2Bx8oRdwoe2QefT"
+    },
+    {
+      "album": {
+        "name": "The Healers: The Last Chapter",
         "url": "https://open.spotify.com/album/2F3Nw7Z7Gt6ET52DosiPTH"
       },
       "artists": [
@@ -2141,7 +2181,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383154,
       "name": "Ven Pa Ka - Black Motion Rework",
       "url": "https://open.spotify.com/track/24WCTSU9zrsQxBE1NIhBPM"

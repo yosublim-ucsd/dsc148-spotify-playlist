@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 181001,
+  "2024-04-20": 181076,
   "date_first_scraped": "2022-12-15",
   "description": "Gentle, relaxing music from around the globe.",
   "name": "A Tranquil World",
@@ -133,10 +133,44 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244420,
       "name": "Autumn Moon Lullaby",
       "url": "https://open.spotify.com/track/69lpodHfolka37x6CQpKwC"
+    },
+    {
+      "album": {
+        "name": "The Art of the Vietnamese Zither",
+        "url": "https://open.spotify.com/album/3ptY5gi8UboBVtBvJqxszv"
+      },
+      "artists": [
+        {
+          "name": "Tri Nguyen",
+          "url": "https://open.spotify.com/artist/5svAezhgWghJK0KaFgcf0J"
+        },
+        {
+          "name": "Buynta Goryaeva",
+          "url": "https://open.spotify.com/artist/5rEEug0EEtuHzGqgX3dIbO"
+        },
+        {
+          "name": "Iryna Topolnitska",
+          "url": "https://open.spotify.com/artist/29rG1jJMlyyDoThYBnahln"
+        },
+        {
+          "name": "Caroline Berry",
+          "url": "https://open.spotify.com/artist/2g2cbCYIa6gk39PMxS24J9"
+        },
+        {
+          "name": "Dima Tsypkin",
+          "url": "https://open.spotify.com/artist/14gDdc1auGtMntQQ69cbMC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246933,
+      "name": "Autumn Moon Lullaby",
+      "url": "https://open.spotify.com/track/0jD5bJEiiFwKeCKvL9Wvaz"
     },
     {
       "album": {
@@ -235,6 +269,24 @@
     {
       "album": {
         "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/3nTs1yOLaoO0Bym2h2eptq"
+      },
+      "artists": [
+        {
+          "name": "Tides of Time",
+          "url": "https://open.spotify.com/artist/7xscG0oGwztLLe7ZaEuZpn"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219630,
+      "name": "Chrysalis (Spa)",
+      "url": "https://open.spotify.com/track/1qp90aEi493RuOguV7v3UR"
+    },
+    {
+      "album": {
+        "name": "Chrysalis",
         "url": "https://open.spotify.com/album/4NnsCFCW3fkJe9tNvEWpTd"
       },
       "artists": [
@@ -245,7 +297,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219630,
       "name": "Chrysalis (Spa)",
       "url": "https://open.spotify.com/track/64kI6vJOo1xg6F0FvXZRSh"
@@ -335,10 +387,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 278466,
       "name": "Cool Waters",
       "url": "https://open.spotify.com/track/5nqQPIr2wSch2IxoMB3XkS"
+    },
+    {
+      "album": {
+        "name": "Whispering Sea",
+        "url": "https://open.spotify.com/album/2OvnxqxWJjFb82AeAnwhOy"
+      },
+      "artists": [
+        {
+          "name": "Tony O'Connor",
+          "url": "https://open.spotify.com/artist/5f4UBNURyjjZJDqhLCCfmC"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278467,
+      "name": "Cool Waters",
+      "url": "https://open.spotify.com/track/2Dn4McNUBZuJQizR8gHmdS"
     },
     {
       "album": {
@@ -699,10 +769,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 317640,
       "name": "Hams (Whispers)",
       "url": "https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G"
+    },
+    {
+      "album": {
+        "name": "Hossam Ramzy Presents: Master of the Arabian Flute",
+        "url": "https://open.spotify.com/album/3MFOATWFe3Pll8UU8RLq8e"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Naiem",
+          "url": "https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317640,
+      "name": "Hams (Whispers)",
+      "url": "https://open.spotify.com/track/4ZKZt1HPNFBbVK69eIdMmy"
     },
     {
       "album": {
@@ -980,6 +1068,32 @@
     },
     {
       "album": {
+        "name": "Tranquility: Music for Relaxation",
+        "url": "https://open.spotify.com/album/3bsOxgmj7z8LlTazivH3DK"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        },
+        {
+          "name": "John Stubberfield",
+          "url": "https://open.spotify.com/artist/77ze7bd3cvDho2XbA7t8yg"
+        },
+        {
+          "name": "Martin Entwistle",
+          "url": "https://open.spotify.com/artist/5F2HOKGYHiZ0ideI9s52yU"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361773,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3NBB6sFDAmK2y5IplGNtia"
+    },
+    {
+      "album": {
         "name": "Carter Jason: Eclipse",
         "url": "https://open.spotify.com/album/0OksXOwEMDQKSZkPlwXtik"
       },
@@ -999,7 +1113,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 361773,
       "name": "Luna",
       "url": "https://open.spotify.com/track/79uv8ef1XXdmMz4fbC4bFx"
@@ -1163,10 +1277,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 264493,
       "name": "Mount Tamalpais",
       "url": "https://open.spotify.com/track/11AFsMB6nBEmjHByntYwFq"
+    },
+    {
+      "album": {
+        "name": "Mark: Solitary Journeys",
+        "url": "https://open.spotify.com/album/02nMCwVbUMYOMTHibaDuPI"
+      },
+      "artists": [
+        {
+          "name": "Jon Mark",
+          "url": "https://open.spotify.com/artist/3qDTjWFsO3R4lpvcZEu6N7"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264493,
+      "name": "Mount Tamalpais",
+      "url": "https://open.spotify.com/track/75ieHQmSai5SQ7VRNOIIxP"
     },
     {
       "album": {
@@ -1373,10 +1505,58 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241740,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2Anfmyv68X4WBjVQt96mrv"
+    },
+    {
+      "album": {
+        "name": "Night Chants: Native American Flute",
+        "url": "https://open.spotify.com/album/7nR9uzGGUJX8ufiOBjF714"
+      },
+      "artists": [
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        },
+        {
+          "name": "David Revelli",
+          "url": "https://open.spotify.com/artist/4CfRGPcxwo3KV4Q5U0CJ0M"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241740,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7MPpnDEGdFZoql1hZvzX0q"
+    },
+    {
+      "album": {
+        "name": "Folk Songs and Soundscapes from Nepal",
+        "url": "https://open.spotify.com/album/3F4OsT77wUOLhR5ZZOyWZ7"
+      },
+      "artists": [
+        {
+          "name": "Bishwo Shahi",
+          "url": "https://open.spotify.com/artist/7qN42FkQOWLnav0vB4myff"
+        },
+        {
+          "name": "Dawa Gurung",
+          "url": "https://open.spotify.com/artist/64b58A0zXoRIeX4x1AtqtM"
+        },
+        {
+          "name": "Rubin Kumar Shrestha",
+          "url": "https://open.spotify.com/artist/3JbxiH70W21VNLbivIQlor"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389133,
+      "name": "Realisation",
+      "url": "https://open.spotify.com/track/6SZQ7BGoqvT0gE8Y9nWg1I"
     },
     {
       "album": {
@@ -1399,7 +1579,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 389133,
       "name": "Realisation (instrumental version)",
       "url": "https://open.spotify.com/track/6wODmHhz6wKYKz9gsbJ5LQ"
@@ -1460,6 +1640,28 @@
     },
     {
       "album": {
+        "name": "Tranquility: Music for Relaxation",
+        "url": "https://open.spotify.com/album/3bsOxgmj7z8LlTazivH3DK"
+      },
+      "artists": [
+        {
+          "name": "David Revelli",
+          "url": "https://open.spotify.com/artist/4CfRGPcxwo3KV4Q5U0CJ0M"
+        },
+        {
+          "name": "Gary Stroutsos",
+          "url": "https://open.spotify.com/artist/6koxUF41S16a1rmvjG44re"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208481,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/7afUgskG9rOtR3E2gzN83j"
+    },
+    {
+      "album": {
         "name": "Night Chants: Native American Flute",
         "url": "https://open.spotify.com/album/0dsG8miQjj8S6DuhWpfvVt"
       },
@@ -1475,7 +1677,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208481,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/6lpaovK5fV6UN6zdBPq8UM"
@@ -1825,7 +2027,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219226,
       "name": "Ta Me Mo Shui (I am sitting)",
       "url": "https://open.spotify.com/track/74M8gd83bvryzcvSF3p58v"
@@ -1958,6 +2160,24 @@
     },
     {
       "album": {
+        "name": "Relaxing with World Music",
+        "url": "https://open.spotify.com/album/588qQDqb2w0j3VcJmePtD6"
+      },
+      "artists": [
+        {
+          "name": "Aryeh Frankfurter",
+          "url": "https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "T\u00e1 M\u00e9 'Mo Shu\u00ed",
+      "url": "https://open.spotify.com/track/6os37g9O60JqOwOjgI49b5"
+    },
+    {
+      "album": {
         "name": "Vila\u0301n",
         "url": "https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5"
       },
@@ -2023,10 +2243,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 307000,
       "name": "Water Colour",
       "url": "https://open.spotify.com/track/2i26H2QyoQ3FIKdAC7lDMv"
+    },
+    {
+      "album": {
+        "name": "Tranquility: Music for Relaxation",
+        "url": "https://open.spotify.com/album/3bsOxgmj7z8LlTazivH3DK"
+      },
+      "artists": [
+        {
+          "name": "Re-Orient",
+          "url": "https://open.spotify.com/artist/0RqWnXbkqTgG8zHJDJwxgG"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Water Colour",
+      "url": "https://open.spotify.com/track/2u1ZOGZAtmB9xOrRsgfFm1"
     },
     {
       "album": {

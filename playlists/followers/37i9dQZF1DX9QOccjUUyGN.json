@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 16601,
+  "2024-04-20": 16600,
   "date_first_scraped": "2022-03-24",
   "description": "tranquilo e calmo, no flow. Foto: Delatorvi\n",
   "name": "tamo flex",
@@ -719,6 +719,28 @@
       "duration_ms": 193714,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/7yZUAHBEvoE5T9bvVdgu1Y"
+    },
+    {
+      "album": {
+        "name": "ALFA E OMEGA",
+        "url": "https://open.spotify.com/album/5xyDU4Fr4tqpiu1L1MxSqg"
+      },
+      "artists": [
+        {
+          "name": "CriaZ do Bit",
+          "url": "https://open.spotify.com/artist/1ymZWllSGoMuLcHAieU1t1"
+        },
+        {
+          "name": "Xamuel",
+          "url": "https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180071,
+      "name": "ALFA E OMEGA",
+      "url": "https://open.spotify.com/track/0e3QYshEOz3aPp7cx3l2Ae"
     },
     {
       "album": {
@@ -7809,7 +7831,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "Love, Death + Robots",
       "url": "https://open.spotify.com/track/4BMLSNPIHdj2fYZrQAuXOU"
@@ -7831,7 +7853,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 156500,
       "name": "Love, Death + Robots",
       "url": "https://open.spotify.com/track/4uPodG2bz6bbipLSkFKwQZ"
@@ -10492,6 +10514,28 @@
     },
     {
       "album": {
+        "name": "Oi B\u00ea",
+        "url": "https://open.spotify.com/album/3cnyPOLZ5ZMgeqeOnCjE1p"
+      },
+      "artists": [
+        {
+          "name": "MISAEL",
+          "url": "https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR"
+        },
+        {
+          "name": "Maria Xabah",
+          "url": "https://open.spotify.com/artist/3qzUdJtZlKvue9ZYb9a0le"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227365,
+      "name": "Oi B\u00ea",
+      "url": "https://open.spotify.com/track/1Ejwf5Pm2KtVqgxST515lc"
+    },
+    {
+      "album": {
         "name": "Ok",
         "url": "https://open.spotify.com/album/167xAEQlWPafUZ4IgztgMw"
       },
@@ -11005,7 +11049,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144050,
       "name": "Perdas e Ganhos",
       "url": "https://open.spotify.com/track/5xYp5YgQmqGOYNyiuudMO7"

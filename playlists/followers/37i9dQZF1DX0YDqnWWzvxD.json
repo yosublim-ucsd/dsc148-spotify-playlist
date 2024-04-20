@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 112845,
+  "2024-04-20": 112846,
   "date_first_scraped": "2022-09-09",
   "description": "Relax, heal and restore your energy",
   "name": "Savasana",
@@ -61,7 +61,7 @@
     {
       "album": {
         "name": "Incomplete",
-        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+        "url": "https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww"
       },
       "artists": [
         {
@@ -72,6 +72,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139752,
+      "name": "A Whisper In The Dark",
+      "url": "https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5"
+    },
+    {
+      "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 139752,
       "name": "A Whisper In The Dark",
       "url": "https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m"
@@ -107,10 +125,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 591000,
       "name": "Arms Around Sleep",
       "url": "https://open.spotify.com/track/0cbBBMc7AFMG2MckHMlFWA"
+    },
+    {
+      "album": {
+        "name": "Wake:Sleep",
+        "url": "https://open.spotify.com/album/0Cd1W132OG9F3UJw8g0Oha"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591000,
+      "name": "Arms Around Sleep",
+      "url": "https://open.spotify.com/track/1ZdOVQclzc6XDJAJQKxu1u"
     },
     {
       "album": {
@@ -233,10 +269,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 247022,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/0bxRyv43YauX4FxpQMNGwB"
+    },
+    {
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3L3iYxFZ7yVhsfmprEULFd"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247022,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2jjFopjitTzhYrjMuIIQzW"
     },
     {
       "album": {
@@ -313,6 +367,24 @@
     {
       "album": {
         "name": "Blue Dunes",
+        "url": "https://open.spotify.com/album/4N4vqojadhjwZCBKFyzMBv"
+      },
+      "artists": [
+        {
+          "name": "Soulgarden",
+          "url": "https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Blue Dunes",
+      "url": "https://open.spotify.com/track/3nHM0vcX17s8pBDcGIozHQ"
+    },
+    {
+      "album": {
+        "name": "Blue Dunes",
         "url": "https://open.spotify.com/album/5L1AdJPeUnvRwyEk8OFx6g"
       },
       "artists": [
@@ -323,7 +395,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 168250,
       "name": "Blue Dunes",
       "url": "https://open.spotify.com/track/7p8brxEGCXT8VF4wWphDGI"
@@ -442,7 +514,7 @@
     },
     {
       "album": {
-        "name": "Live In Love, Vol. 2",
+        "name": "Live in Love, Vol. 2",
         "url": "https://open.spotify.com/album/4jBwmGefP4zLBpJ3UN1gC2"
       },
       "artists": [
@@ -453,7 +525,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-25",
+      "date_removed": null,
       "duration_ms": 360480,
       "name": "Closing Meditation",
       "url": "https://open.spotify.com/track/1d25xxmGKe134EkAn9s6AG"
@@ -489,7 +561,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360480,
       "name": "Closing Meditation",
       "url": "https://open.spotify.com/track/45JVYpFviuESYF5MC4hVvx"
@@ -735,10 +807,32 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382444,
       "name": "For Elena",
       "url": "https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs"
+    },
+    {
+      "album": {
+        "name": "Music to Be Born To",
+        "url": "https://open.spotify.com/album/2Q7wXQthhk3QPt3wNelnWi"
+      },
+      "artists": [
+        {
+          "name": "Trevor H Oswalt",
+          "url": "https://open.spotify.com/artist/52Jpr73eTCxjWBzhLyg1qk"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382444,
+      "name": "For Elena",
+      "url": "https://open.spotify.com/track/7iDHiEu0h4M6OMoVrrzjFb"
     },
     {
       "album": {
@@ -807,10 +901,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 364266,
       "name": "Garden of Peace",
       "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
+    },
+    {
+      "album": {
+        "name": "Holsitic Relaxation",
+        "url": "https://open.spotify.com/album/6wJJcvzrrh46nw5l8VBpEO"
+      },
+      "artists": [
+        {
+          "name": "Philip Guyler",
+          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364266,
+      "name": "Garden of Peace",
+      "url": "https://open.spotify.com/track/0TkRwflhagr5BE6eqlzo53"
     },
     {
       "album": {
@@ -825,7 +937,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 399666,
       "name": "Goddess Evocation",
       "url": "https://open.spotify.com/track/6pmxIuUYfVgO9zojbQIj3O"
@@ -843,7 +955,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 399675,
       "name": "Goddess Evocation",
       "url": "https://open.spotify.com/track/52UG36Llh8DgE4DaFJ7tUX"
@@ -869,7 +981,7 @@
     {
       "album": {
         "name": "Breathing Space",
-        "url": "https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi"
+        "url": "https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb"
       },
       "artists": [
         {
@@ -880,6 +992,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 571453,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo"
+    },
+    {
+      "album": {
+        "name": "Breathing Space",
+        "url": "https://open.spotify.com/album/5j0fIAtAQab4JZr3uxr7Fi"
+      },
+      "artists": [
+        {
+          "name": "Sacred Earth",
+          "url": "https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 571786,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/11JSrjlaPSAdubR93vqiV5"
@@ -933,10 +1063,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 215472,
       "name": "Hands of Love",
       "url": "https://open.spotify.com/track/55451t84KLf0gqH8rXYyy6"
+    },
+    {
+      "album": {
+        "name": "Wellness Meditation Relaxation: Musical Images, Vol. 100",
+        "url": "https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ"
+      },
+      "artists": [
+        {
+          "name": "Sambodhi Prem",
+          "url": "https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215472,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5"
     },
     {
       "album": {
@@ -1029,7 +1177,7 @@
     {
       "album": {
         "name": "Vira",
-        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+        "url": "https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO"
       },
       "artists": [
         {
@@ -1044,6 +1192,28 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 328542,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb"
+    },
+    {
+      "album": {
+        "name": "Vira",
+        "url": "https://open.spotify.com/album/2PDRb5NJEcX2aHKANPfxVb"
+      },
+      "artists": [
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        },
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 328542,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3jGwXtaYOUv4bnRHep8Dp4"
@@ -1079,10 +1249,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 313574,
       "name": "Holistic Water",
       "url": "https://open.spotify.com/track/406MXMgqW4aHQ4G1rhCcF6"
+    },
+    {
+      "album": {
+        "name": "TAO Lounge",
+        "url": "https://open.spotify.com/album/3cNVpXWMBraQIAHZgmSTN9"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313574,
+      "name": "Holistic Water",
+      "url": "https://open.spotify.com/track/5vLlwuqv3g0AKjOY6urkui"
     },
     {
       "album": {
@@ -1115,10 +1303,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 258500,
       "name": "Hopefull",
       "url": "https://open.spotify.com/track/1pMY02UghJHHv0DXv0ZmmK"
+    },
+    {
+      "album": {
+        "name": "Hopefull",
+        "url": "https://open.spotify.com/album/4bpCA9wD3IapewaQ7clEMm"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Hopefull",
+      "url": "https://open.spotify.com/track/3T9YBqJEpy7IZsIo89SYVm"
     },
     {
       "album": {
@@ -1158,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "Nada Himalaya: Music for Meditation",
+        "url": "https://open.spotify.com/album/1jE4zYk5CeenzZAu2yvypg"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574902,
+      "name": "Illumination of the Heart",
+      "url": "https://open.spotify.com/track/6BOBioDka5as3H3PKfkEFp"
+    },
+    {
+      "album": {
         "name": "Spa Lounge",
         "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
       },
@@ -1187,7 +1411,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 581226,
       "name": "Illumination of the Heart",
       "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
@@ -1343,6 +1567,24 @@
     {
       "album": {
         "name": "Prana Pulse",
+        "url": "https://open.spotify.com/album/0naHbMIsuoAi8z42Ukanbb"
+      },
+      "artists": [
+        {
+          "name": "Shaman's Dream",
+          "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557160,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/3IWHsF6rogVtUPThxVgEes"
+    },
+    {
+      "album": {
+        "name": "Prana Pulse",
         "url": "https://open.spotify.com/album/5O4WzB9mVJobYtlpFILShK"
       },
       "artists": [
@@ -1357,7 +1599,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 557142,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA"
@@ -1411,7 +1653,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274186,
       "name": "Light and Color",
       "url": "https://open.spotify.com/track/5gu8xQISrwSLvJmcrkinIb"
@@ -1433,6 +1675,24 @@
       "duration_ms": 274186,
       "name": "Light and Colour",
       "url": "https://open.spotify.com/track/0GhtYmcipYeV02TPBGoFj6"
+    },
+    {
+      "album": {
+        "name": "The Elements Of Chill-Out - Music For Spa, Medtitation and Yoga",
+        "url": "https://open.spotify.com/album/6ApXK6YcMXPACObsQ1u2Dm"
+      },
+      "artists": [
+        {
+          "name": "Intimate Meditation",
+          "url": "https://open.spotify.com/artist/7mU4Y9hJtjKKa6gWLoBRuy"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274186,
+      "name": "Light and Colour",
+      "url": "https://open.spotify.com/track/3QtbTH4Bb77hD8Z9tT5IyJ"
     },
     {
       "album": {
@@ -1544,6 +1804,24 @@
     },
     {
       "album": {
+        "name": "Bindu",
+        "url": "https://open.spotify.com/album/2MolLpSGO6Bh3DPOcH56Ap"
+      },
+      "artists": [
+        {
+          "name": "Craig Kohland & Shaman's Dream",
+          "url": "https://open.spotify.com/artist/1TGMZFLE54UJlOJCPxYggZ"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581253,
+      "name": "Moonlight Saptah",
+      "url": "https://open.spotify.com/track/6gu8EBy9qA8dF6HBN3Gq9T"
+    },
+    {
+      "album": {
         "name": "Yoga Flow Mix 1 - JALA",
         "url": "https://open.spotify.com/album/3FV1CeddhpbS8wnb7GCLeg"
       },
@@ -1573,7 +1851,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 581253,
       "name": "Moonlight Saptah",
       "url": "https://open.spotify.com/track/7Ewux0DybgmLssS2HtEfKt"
@@ -1635,7 +1913,7 @@
     {
       "album": {
         "name": "Chill Me Out",
-        "url": "https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe"
+        "url": "https://open.spotify.com/album/2pMPUcaC0WR7lJwNraywTn"
       },
       "artists": [
         {
@@ -1646,6 +1924,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 331632,
+      "name": "Oxygen Bar",
+      "url": "https://open.spotify.com/track/1qborK6nItSSVgZkXosT4k"
+    },
+    {
+      "album": {
+        "name": "Chill Me Out",
+        "url": "https://open.spotify.com/album/3BliSukodJ2stxupt8uwNe"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 331632,
       "name": "Oxygen Bar",
       "url": "https://open.spotify.com/track/69pZpLNdwCZ6Ns1J0o2lRY"
@@ -1724,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "Musique Spa",
+        "url": "https://open.spotify.com/album/0nVf4XKsKZFt3CEb0D3a8e"
+      },
+      "artists": [
+        {
+          "name": "Qi Gong Academy",
+          "url": "https://open.spotify.com/artist/1rLdpcWvRjd4ug9jcPU0vN"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322478,
+      "name": "Relaxation Music",
+      "url": "https://open.spotify.com/track/2QthUN9PlF2GLLc6EsOqCZ"
+    },
+    {
+      "album": {
         "name": "Jardin Zen - Musique Asiatique avec des Sons de la Nature",
         "url": "https://open.spotify.com/album/0BDyiYJ5bgQZgyhyGYfGGM"
       },
@@ -1735,7 +2049,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 322478,
       "name": "Relaxation Music",
       "url": "https://open.spotify.com/track/5idm6KAMf3ikeOaGSqMklt"
@@ -1887,7 +2201,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/1xOP1KNtD8XngH9hXxfcof"
@@ -1905,7 +2219,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-01",
+      "date_removed": null,
       "duration_ms": 512413,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/2A78rXxV5JqAdHGVGG4QHC"
@@ -2056,6 +2370,24 @@
     },
     {
       "album": {
+        "name": "40 Meditative Mindfulness",
+        "url": "https://open.spotify.com/album/6gODh3t3GeohyQMrEZyskI"
+      },
+      "artists": [
+        {
+          "name": "Tom Green",
+          "url": "https://open.spotify.com/artist/5i6KZLTbAeOQN21u8Px2RG"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418011,
+      "name": "Singing Wire",
+      "url": "https://open.spotify.com/track/4Zqbylu19hY0WlhEoRiULb"
+    },
+    {
+      "album": {
         "name": "2017 Mindfulness Zen Meditation",
         "url": "https://open.spotify.com/album/6tUb0Dv22zpVlOHLDhCRu9"
       },
@@ -2085,7 +2417,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 418011,
       "name": "Singing Wire",
       "url": "https://open.spotify.com/track/5iyaBre6AhiW8lia2oOols"
@@ -2279,7 +2611,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 913626,
       "name": "The Hierophant",
       "url": "https://open.spotify.com/track/4nRhynmgCd9vL8Y9gcpuJL"
@@ -2312,6 +2644,32 @@
     },
     {
       "album": {
+        "name": "The Spirit of Yoga",
+        "url": "https://open.spotify.com/album/4j1FyRXikLSkVFdLEq56d6"
+      },
+      "artists": [
+        {
+          "name": "Ben Leinbach",
+          "url": "https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX"
+        },
+        {
+          "name": "Manose",
+          "url": "https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ"
+        },
+        {
+          "name": "Jai Uttal",
+          "url": "https://open.spotify.com/artist/00DkRCKgM6Ku90WtOfoYlw"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913626,
+      "name": "The Hierophant",
+      "url": "https://open.spotify.com/track/5fWtbghCtnvCD92Qdp1vWO"
+    },
+    {
+      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
       },
@@ -2336,7 +2694,7 @@
       "artists": [
         {
           "name": "Garth Stevenson",
-          "url": "https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka"
+          "url": "https://open.spotify.com/artist/5gYdQfBZuQ4pMi1WYKLhPy"
         }
       ],
       "date_added": "2021-06-15",
@@ -2367,7 +2725,7 @@
     {
       "album": {
         "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+        "url": "https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw"
       },
       "artists": [
         {
@@ -2378,6 +2736,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7"
+    },
+    {
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf"
+      },
+      "artists": [
+        {
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 203000,
       "name": "Tokyo Drifting",
       "url": "https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM"

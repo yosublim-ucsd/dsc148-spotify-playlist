@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 9660,
+  "2024-04-20": 9675,
   "date_first_scraped": "2023-01-02",
   "description": "The most streamed Ambient X tracks in 2023. ANNA on cover. #spotifywrapped",
   "name": "Best of Ambient X 2023",
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-12",
+      "date_removed": null,
       "duration_ms": 116875,
       "name": "Golden Dust",
       "url": "https://open.spotify.com/track/4hUaTmX1C1TsbjGvcL6vRP"
@@ -1631,7 +1631,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 116875,
       "name": "Golden Dust",
       "url": "https://open.spotify.com/track/57eVjsTkA8YFT1tkx1bTHu"
@@ -1725,10 +1725,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 216160,
       "name": "Hallonlandet (Reimagined by Manu Delago)",
       "url": "https://open.spotify.com/track/2WNPAOq1ZbF7wX1ljnwuCx"
+    },
+    {
+      "album": {
+        "name": "Reimagined",
+        "url": "https://open.spotify.com/album/1raUMik9260TRBAIYsa0ZP"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lindstrand",
+          "url": "https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP"
+        },
+        {
+          "name": "Manu Delago",
+          "url": "https://open.spotify.com/artist/08LrhaMKwKuGbB9XHBEjXF"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Hallonlandet (Reimagined by Manu Delago)",
+      "url": "https://open.spotify.com/track/5ybr6iS8RnzFIAxYxlJ9B6"
     },
     {
       "album": {
@@ -3439,7 +3461,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 152541,
       "name": "The Weavers",
       "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
@@ -3457,10 +3479,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152541,
       "name": "The Weavers",
       "url": "https://open.spotify.com/track/369o29dUikcL6KRlBgQ56k"
+    },
+    {
+      "album": {
+        "name": "Life Is Climbing (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1RLZeaJ0zCKDc682i8JCli"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Theme of \"Life is Climbing\"",
+      "url": "https://open.spotify.com/track/1TOiEg2GVf4WgWmluaTDp0"
     },
     {
       "album": {
@@ -3475,7 +3515,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 295000,
       "name": "Theme of \"Life is Climbing\"",
       "url": "https://open.spotify.com/track/1Y5C90kdNrb0PiYZeGkMNA"
@@ -4083,7 +4123,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-03",
+      "date_removed": null,
       "duration_ms": 140624,
       "name": "Where Did We Go?",
       "url": "https://open.spotify.com/track/1LMCUvM0QJP8lzzuCOCGBb"
@@ -4101,7 +4141,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140624,
       "name": "Where Did We Go?",
       "url": "https://open.spotify.com/track/1ah8VQQ7R2C4VmQZxkpJZi"

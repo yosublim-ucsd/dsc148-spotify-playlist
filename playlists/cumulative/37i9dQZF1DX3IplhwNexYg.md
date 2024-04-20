@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Friedberg
 
-570 songs - 1 day 8 hr 4 min
+571 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 | 2022-01-17 | 2022-08-19 |
 | [All Dressed Up For Nothing](https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys \- EP](https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s) | 3:46 | 2022-09-22 | 2022-11-20 |
 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 | 2022-08-18 | 2023-05-14 |
-| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 |  |
+| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 | 2024-04-20 |
 | [American Cockroach](https://open.spotify.com/track/1fhSSzhdcAuAOkl0S4saVk) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/5ddhrGgCIVAFwaYBORbOdi) | 3:08 | 2021-06-21 | 2022-07-29 |
 | [American Cockroach](https://open.spotify.com/track/20lrGXYjB5SF92sm8Abq7J) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/4gttzbvfMlUHIwWv6PboVB) | 3:08 | 2022-04-01 | 2022-08-19 |
 | [Angel](https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Angel](https://open.spotify.com/album/4ymSlc0IgdFvc61mLUKDbl) | 3:19 | 2023-09-15 | 2024-02-12 |
@@ -291,6 +291,7 @@
 | [Knuckles](https://open.spotify.com/track/7k0dSGTAvbmKmpB6qRQKCn) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Knuckles](https://open.spotify.com/album/0K5aDBQbnRuZsXItf7qPEj) | 2:40 | 2022-09-08 | 2022-10-14 |
 | [Kool Aid](https://open.spotify.com/track/4mLGUGw4IWlXs1UbY5QBpP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Kool Aid](https://open.spotify.com/album/5yBahiPHetqnjC6oKYMJph) | 3:36 | 2022-10-13 | 2023-09-29 |
 | [Labrador](https://open.spotify.com/track/06LiHAhneCsoLvRPDHPrJR) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Labrador](https://open.spotify.com/album/19nKwENJSpAHPUmTjEn0pC) | 3:41 | 2021-03-09 | 2022-01-17 |
+| [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 | 2024-04-12 |  |
 | [Lain \(phone clone\)](https://open.spotify.com/track/3aq2HJqPhVH3D8jcbAQJvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Lain \(phone clone\)](https://open.spotify.com/album/6kVkofYbaUHoPO1YKObr3k) | 4:01 | 2023-01-13 | 2023-02-26 |
 | [last july](https://open.spotify.com/track/3vC1FzGYGsjUDEeZahvaRt) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [If I never know you like this again](https://open.spotify.com/album/7nMKqegypHLrmj9fN98Tyx) | 3:46 | 2022-08-18 | 2022-11-18 |
 | [Last Together](https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Last Together](https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F) | 3:18 | 2023-04-13 | 2023-06-06 |

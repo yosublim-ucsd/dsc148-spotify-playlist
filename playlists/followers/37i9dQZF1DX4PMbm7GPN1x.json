@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 37666,
+  "2024-04-20": 37639,
   "date_first_scraped": "2021-12-28",
   "description": "Relive the disco era with these superhits. Cover - Disco Dancer",
   "name": "Disco Deewane",
@@ -69,7 +69,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 511920,
       "name": "Aa Dekhen Zara - From \"Rocky\"",
       "url": "https://open.spotify.com/track/3LClxcyIAy7TaDwJuq3xj2"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 513559,
       "name": "Aa Dekhen Zara - Rocky / Soundtrack Version",
       "url": "https://open.spotify.com/track/7s1Odw7sA12CNoHxC5W2lZ"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 250226,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/1wJpkjQe0KDIAQfT3QKUjX"
@@ -200,12 +200,12 @@
       "artists": [
         {
           "name": "Nazia Hassan",
-          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+          "url": "https://open.spotify.com/artist/24KTBDEHtwwayNVpFuR9Vg"
         }
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249103,
       "name": "Aao Na - Album - Disco Deewane",
       "url": "https://open.spotify.com/track/2AGXWUWXVW6DhJrYKh6URU"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 249106,
       "name": "Aap Jaisa Koi - From \"Qurbani\"",
       "url": "https://open.spotify.com/track/0Zq2n84Eplok8MnRE8P5hE"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "Aap Jaisa Koi - Qurbani / Soundtrack Version",
       "url": "https://open.spotify.com/track/3Ta33fxfiHNP4JaI2oHXQW"
@@ -314,6 +314,28 @@
     },
     {
       "album": {
+        "name": "Disco Dancer",
+        "url": "https://open.spotify.com/album/7vwDZW2I3pciQhnaqHsgbo"
+      },
+      "artists": [
+        {
+          "name": "Usha Uthup",
+          "url": "https://open.spotify.com/artist/63gvl4egwBtz2czz3aENGa"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        }
+      ],
+      "date_added": "2024-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326687,
+      "name": "Auva Auva Koi Yahan Nache",
+      "url": "https://open.spotify.com/track/0z7k4683bRrsdvFDoJsfvA"
+    },
+    {
+      "album": {
         "name": "Disco Dancer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7HWHznN9Yi0HBMYWxifg3S"
       },
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 331266,
       "name": "Auva Auva Koi Yahan Nache",
       "url": "https://open.spotify.com/track/4foMq4FFkVaoVu9oPJMc0z"
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 318053,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/2WK5FIro1uGcvRG4gFCtnX"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 318053,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/4vBpEoRBnyjcLTqgKCppwo"
@@ -539,7 +561,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 360973,
       "name": "Dekha Hai Maine Tumhe - From 'Wardat' / Soundtrack Version",
       "url": "https://open.spotify.com/track/0JukplN9Z6vZjSG6xMY8eX"
@@ -557,7 +579,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 360973,
       "name": "Dekha Hai Maine Tumhe - From 'Wardat' / Soundtrack Version",
       "url": "https://open.spotify.com/track/53QcNVOSajpp5EIeBGjWSl"
@@ -575,7 +597,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 222906,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/0tvMelrTnsSUjTzrhP0sya"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224142,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/7HopmolYWzJRLsgk2sCczs"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 480826,
       "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - From \"Zamaane Ko Dikhana Hai\"",
       "url": "https://open.spotify.com/track/43isQX2aE8qkZyz3CuV7QA"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 479000,
       "name": "Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai) - Zamaane Ko Dikhana Hai / Soundtrack Version",
       "url": "https://open.spotify.com/track/0eUIFoZp2GtOLkd2MRZaBH"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 291546,
       "name": "Jaana",
       "url": "https://open.spotify.com/track/0WqcILbK5MRChFWC8uAzby"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291546,
       "name": "Jaana",
       "url": "https://open.spotify.com/track/1a7zy1Iouc7jnGew6Up2Ai"
@@ -913,7 +935,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 381573,
       "name": "Jeena Bhi Kya Koi Jeena Hai",
       "url": "https://open.spotify.com/track/413gk8asnyV29u8I2H2r79"
@@ -935,7 +957,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 381571,
       "name": "Jeena Bhi Kya Koi Jeena Hai, Pt. 2",
       "url": "https://open.spotify.com/track/2gosEN0UYMhs4euV0IdXVr"
@@ -1015,7 +1037,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 384235,
       "name": "Kasam Paida Karnewale",
       "url": "https://open.spotify.com/track/2tLBrpJMO18jFGGgbuzvUQ"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 383764,
       "name": "Kasam Paida Karnewale Ki",
       "url": "https://open.spotify.com/track/42d2S44fFDJpjS1qG4Pvod"
@@ -1073,7 +1095,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 271600,
       "name": "Laila O Laila - From \"Qurbani\"",
       "url": "https://open.spotify.com/track/05oQXL5mtuktNigwBOGs6y"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271600,
       "name": "Laila O Laila - Qurbani / Suondtrack Version",
       "url": "https://open.spotify.com/track/1k21KAedv6hoz3pq0XPk6N"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 418750,
       "name": "Osa Osa - Meri Adalat / Soundtrack Version",
       "url": "https://open.spotify.com/track/0kURppPUWKox1y8FdTmiUe"
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 419866,
       "name": "Osa Osa - Meri Adalat / Soundtrack Version",
       "url": "https://open.spotify.com/track/794cBypJQISQCorrG7kQVX"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 410866,
       "name": "Sanam Mere Sanam",
       "url": "https://open.spotify.com/track/5uha4XwzxCEl3SaLC9TOJT"
@@ -1313,7 +1335,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 411093,
       "name": "Sanam Mere Sanam",
       "url": "https://open.spotify.com/track/3xj8MOhWpPk5H0PaCeYzl2"
@@ -1353,7 +1375,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 212853,
       "name": "Tere Kadmon Ko",
       "url": "https://open.spotify.com/track/4FGfZbABfMTuHGE6kgjMhY"
@@ -1366,7 +1388,7 @@
       "artists": [
         {
           "name": "Nazia Hassan",
-          "url": "https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR"
+          "url": "https://open.spotify.com/artist/24KTBDEHtwwayNVpFuR9Vg"
         },
         {
           "name": "Zoheb Hassan",
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 212872,
       "name": "Tere Kadmon Ko",
       "url": "https://open.spotify.com/track/7aKauDwgpX7LRqLqfBZwHT"
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 382133,
       "name": "Yaad Aa Raha Hai",
       "url": "https://open.spotify.com/track/6yFTQlxD9y9nVABZ2WxP16"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 382406,
       "name": "Yaad Aa Raha Hai",
       "url": "https://open.spotify.com/track/5IaTFrbQzBb5buXeaZMfL8"
@@ -1597,7 +1619,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273551,
       "name": "Yaar Bina Chain Kanha Ray",
       "url": "https://open.spotify.com/track/5k38rm1bPeiKG6D12s4XoN"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 273493,
       "name": "Yaar Bina Chain Kanha Ray - From 'Saaheb' / Soundtrack Version",
       "url": "https://open.spotify.com/track/1QAMsB1m8eWXWQbVsj9ZJE"

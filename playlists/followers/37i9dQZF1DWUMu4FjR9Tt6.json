@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 430270,
+  "2024-04-20": 430262,
   "date_first_scraped": "2022-06-21",
   "description": "Check out the official playlist from Umbrella Academy. Watch now on Netflix. ",
   "name": "The Umbrella Academy Official Playlist",
@@ -75,7 +75,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 215866,
       "name": "Another One Bites The Dust",
       "url": "https://open.spotify.com/track/291RmMazWAmDitFuD6NJCv"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 146503,
       "name": "Be Thankful You're You",
       "url": "https://open.spotify.com/track/1sNTVkZ5Q99plACJ33Y8Aw"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 146503,
       "name": "Be Thankful You're You",
       "url": "https://open.spotify.com/track/2FUCIb2sFCJ6ODJh4knB5Y"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 266759,
       "name": "Bitter Taste",
       "url": "https://open.spotify.com/track/4gS0C89Jlx8Zx4853NYRLY"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 266759,
       "name": "Bitter Taste",
       "url": "https://open.spotify.com/track/6AyWHf259DGuxOnwdsz1Lf"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 182333,
       "name": "Bruttosozialprodukt",
       "url": "https://open.spotify.com/track/2jWCLuhLinumCeHiCGONu3"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 182333,
       "name": "Bruttosozialprodukt",
       "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 228080,
       "name": "Dancing with Myself",
       "url": "https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 227400,
       "name": "Dancing with Myself - 2001 Remaster",
       "url": "https://open.spotify.com/track/7fJnj6rso7N95oztvsxrWD"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 267186,
       "name": "Exit Music (For A Film)",
       "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 267186,
       "name": "Exit Music (For a Film)",
       "url": "https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 135743,
       "name": "He Can't Love You",
       "url": "https://open.spotify.com/track/1ieNiEe17fvlHnqalSoKZB"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 135743,
       "name": "He Can't Love You",
       "url": "https://open.spotify.com/track/6UVLjNjxh03GLwQ1p11Hxc"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 180425,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/1CN9Jwd9sML6hqTXsOuKIN"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 180425,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/1yl50J4YBtHXaeN7pb1X0s"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 148160,
       "name": "I Wonder What the Future Holds for Me",
       "url": "https://open.spotify.com/track/039hICkPRwlX01bWilEZBm"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 148160,
       "name": "I Wonder What the Future Holds for Me",
       "url": "https://open.spotify.com/track/0ueW3FHaLH1vBVhyBggvCm"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 209480,
       "name": "In the Heat of the Moment",
       "url": "https://open.spotify.com/track/0Y8SCvTYAYHhNz3JmOmgpz"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 209480,
       "name": "In The Heat Of The Moment",
       "url": "https://open.spotify.com/track/5W5MRU12dpuOnd5WmWzian"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 276280,
       "name": "Into My Soul",
       "url": "https://open.spotify.com/track/4QZkJ8lBslG5wLiqB6jznX"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 275933,
       "name": "Into My Soul",
       "url": "https://open.spotify.com/track/40shQVO7gSn2eVy9aekLAI"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "Let's Be Badder",
       "url": "https://open.spotify.com/track/0hCMEyev24LH0FVUzpwvTa"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 179500,
       "name": "Let's Be Badder",
       "url": "https://open.spotify.com/track/6not6UsSods0rxJOo0mv3X"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 328666,
       "name": "Mary",
       "url": "https://open.spotify.com/track/2l6aKj7mOu8MyYX4yFtlZ8"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 330106,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6dtB54Z7eICDUOPq3QwXuo"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274275,
       "name": "Partita for Solo Violin No. 2 in D Minor, BWV 1004: III. Sarabanda",
       "url": "https://open.spotify.com/track/5qDdkUAOAq4maqxJi8yCP0"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274266,
       "name": "Partita for Solo Violin No. 2 in D Minor, BWV 1004: III. Sarabanda",
       "url": "https://open.spotify.com/track/3QfWpskYcixrPXjzRnINZC"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195666,
       "name": "Rocket Fuel (feat. De La Soul)",
       "url": "https://open.spotify.com/track/3ZTRTKx8uqpzqqWOA3JyNN"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195666,
       "name": "Rocket Fuel (feat. De La Soul)",
       "url": "https://open.spotify.com/track/5YRIDSxRVa1ErAVmjJARcR"
@@ -1695,7 +1695,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 622000,
       "name": "Sinnerman",
       "url": "https://open.spotify.com/track/3EIidirnGCYto1KtcNfttt"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 622000,
       "name": "Sinnerman",
       "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx"
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 253440,
       "name": "Sister of Pearl",
       "url": "https://open.spotify.com/track/1ZbsCkJ4mFuZZmaIKbwbP9"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 253440,
       "name": "Sister of Pearl",
       "url": "https://open.spotify.com/track/2tfhqmq39kpDf1k7IJWxld"
@@ -1767,7 +1767,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203333,
       "name": "Something On Your Mind",
       "url": "https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203397,
       "name": "Something on Your Mind",
       "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
@@ -1821,7 +1821,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
@@ -1965,7 +1965,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/1dQOMZz9SkT7ig0w65lQWC"
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY"

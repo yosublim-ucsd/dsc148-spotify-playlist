@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 34861,
+  "2024-04-20": 34861,
   "date_first_scraped": "2023-11-08",
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Beyonc\u00e9",
   "name": "Country Smash Hits",
@@ -1456,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/0OpM8xRUkHma1V1biL0cc1"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX"
+    },
+    {
+      "album": {
         "name": "Rustin' In The Rain",
         "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
       },
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 170376,
       "name": "Stoned in Bridge Creek",
       "url": "https://open.spotify.com/track/3PaELvtTj5bNXT6kDOrfV5"

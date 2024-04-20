@@ -1,9 +1,31 @@
 {
-  "2024-04-19": 399342,
+  "2024-04-20": 399379,
   "date_first_scraped": "2023-03-20",
   "description": "Escucha lo mejor de la superstar argentina.",
   "name": "This Is TINI",
   "tracks": [
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/5NfpwctBSlT9eLTrYuC8Qq"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159187,
+      "name": "22",
+      "url": "https://open.spotify.com/track/07L6tEZIfCX3GZAWCpGj0e"
+    },
     {
       "album": {
         "name": "TINI TINI TINI",
@@ -21,7 +43,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 159187,
       "name": "22",
       "url": "https://open.spotify.com/track/0AsWM30PAtdxvAph5aYXAW"
@@ -156,6 +178,28 @@
     },
     {
       "album": {
+        "name": "Consejo de Amor",
+        "url": "https://open.spotify.com/album/1PBiayhH64cLKyAB8wWr4L"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Consejo de Amor",
+      "url": "https://open.spotify.com/track/1zHQ5gjJoNxT4RYFmGEWuo"
+    },
+    {
+      "album": {
         "name": "Quiero Volver",
         "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
       },
@@ -171,7 +215,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199720,
       "name": "Consejo de Amor (feat. Morat)",
       "url": "https://open.spotify.com/track/7GrffUxvaKz4wKmyutin0P"
@@ -207,10 +251,50 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 188676,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/0JrpH1QLYRJWuGkKeGm4ho"
+    },
+    {
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/3zv24J8NbyfyDZD5zL102P"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188676,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/3rwWcmmKQsXWfEfKzi4X2S"
+    },
+    {
+      "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/6mFinqSkVta3FIwiCDEUD2"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138012,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/1dzZ3v5IbjzZ4pTnOGqZOb"
     },
     {
       "album": {
@@ -229,7 +313,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 138012,
       "name": "Duele (feat. John C)",
       "url": "https://open.spotify.com/track/5elv0DQyIeFVgMnxQ43lRf"
@@ -273,10 +357,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 161060,
       "name": "Ella Dice",
       "url": "https://open.spotify.com/track/4foIsT0s9Ime0OPxTpl6N6"
+    },
+    {
+      "album": {
+        "name": "Ella Dice",
+        "url": "https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161060,
+      "name": "Ella Dice",
+      "url": "https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J"
     },
     {
       "album": {
@@ -313,10 +419,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 201053,
       "name": "Flores",
       "url": "https://open.spotify.com/track/2sC2wIpNRIzXfh84HuS3uV"
+    },
+    {
+      "album": {
+        "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/4WjtEdWL0JnxlWo80LpTr6"
     },
     {
       "album": {
@@ -335,10 +459,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/1wNThvd9AUiHcKrEvnDd6o"
+    },
+    {
+      "album": {
+        "name": "Fresa",
+        "url": "https://open.spotify.com/album/2v2CUuzRvsBNb4c5Rj8nqi"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165646,
+      "name": "Fresa",
+      "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
     },
     {
       "album": {
@@ -404,6 +550,32 @@
     },
     {
       "album": {
+        "name": "La Cintura (Remix)",
+        "url": "https://open.spotify.com/album/75ULYzhsQKsCzLePrwRARW"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177793,
+      "name": "La Cintura (feat. Flo Rida & TINI) - Remix",
+      "url": "https://open.spotify.com/track/56gH0zGe3SP9SGNoQ2pWwn"
+    },
+    {
+      "album": {
         "name": "Mar De Colores (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
       },
@@ -423,7 +595,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 178266,
       "name": "La Cintura (feat. Flo Rida & Tini) - Remix",
       "url": "https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX"
@@ -702,6 +874,28 @@
     },
     {
       "album": {
+        "name": "Oye",
+        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173021,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+    },
+    {
+      "album": {
         "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
@@ -717,7 +911,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW"
@@ -743,6 +937,24 @@
     {
       "album": {
         "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147270,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/3OYk6SZD86hLCR8tCebf89"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
         "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
       },
       "artists": [
@@ -753,7 +965,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 147270,
       "name": "Playa",
       "url": "https://open.spotify.com/track/5iny7576bQLjbgHyefw9EM"
@@ -783,6 +995,28 @@
     {
       "album": {
         "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "Por Que Te Vas",
+      "url": "https://open.spotify.com/track/70c9sdkTnDiehSDOCxCnDc"
+    },
+    {
+      "album": {
+        "name": "Quiero Volver",
         "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
       },
       "artists": [
@@ -797,7 +1031,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 207400,
       "name": "Por Qu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/1CnjZK9rneIrUzQP09LWJI"
@@ -837,10 +1071,54 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 203520,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/4KWR9vxhs2Hrovjo0kGCT7"
+    },
+    {
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6v2mcPicGnUQL6d7QhIqRV"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204066,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/6JpjnU0v7J3r7iHcWxLo6P"
+    },
+    {
+      "album": {
+        "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/63NHpsm33PdnR3lgdD0Wpg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183899,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/1jcAZRfufvi67KWnwRmizE"
     },
     {
       "album": {
@@ -859,10 +1137,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 183899,
       "name": "Quiero Volver",
       "url": "https://open.spotify.com/track/4SbgqYgp77oQ2y7rJSjEMp"
+    },
+    {
+      "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/28RBKKab2bzmcaKzW8h3Ji"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200960,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3DjInVTE03icrWsq2UZV9n"
     },
     {
       "album": {
@@ -881,7 +1181,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
@@ -899,10 +1199,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 184973,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/0jgoigLiAMzlu8mPgwDW9a"
+    },
+    {
+      "album": {
+        "name": "Quiero Volver",
+        "url": "https://open.spotify.com/album/2RuYsBRCgFEantZkX83W2Y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/5HFOgL611IRiarTnoKyP4C"
     },
     {
       "album": {
@@ -997,10 +1315,46 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 127302,
       "name": "Su\u00e9ltate el Pelo",
       "url": "https://open.spotify.com/track/1pXzi7SfPKaNVhpOU8Lill"
+    },
+    {
+      "album": {
+        "name": "Su\u00e9ltate El Pelo",
+        "url": "https://open.spotify.com/album/1FMjubO1Y0e4bZJcyRkIAa"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127302,
+      "name": "Su\u00e9ltate El Pelo",
+      "url": "https://open.spotify.com/track/7dK9ncfHtROhbYCtElBqfU"
+    },
+    {
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194836,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2"
     },
     {
       "album": {
@@ -1015,7 +1369,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 194836,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
@@ -1040,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/0p5hbr1T9JugP9zbui1Byt"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204721,
+      "name": "Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/07bKfw7BFeYOJBqIPVJRAm"
+    },
+    {
+      "album": {
         "name": "Quiero Volver",
         "url": "https://open.spotify.com/album/3L2sHT4Y1hbYYTt78OT0me"
       },
@@ -1055,10 +1431,32 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 205173,
       "name": "Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/1txKMRTXE0Gh3aQVSHxmwY"
+    },
+    {
+      "album": {
+        "name": "Un Beso en Madrid",
+        "url": "https://open.spotify.com/album/2meU91rmdHZgJDjjUzkRRA"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2024-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143197,
+      "name": "Un Beso en Madrid",
+      "url": "https://open.spotify.com/track/0KTwYI4vwidX9qip7ViAEQ"
     },
     {
       "album": {
@@ -1077,7 +1475,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 144351,
       "name": "Un Beso en Madrid",
       "url": "https://open.spotify.com/track/351dqwRVsCDniedG9soXSf"

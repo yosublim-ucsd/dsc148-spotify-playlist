@@ -1,7 +1,7 @@
 {
-  "2024-04-19": 861659,
+  "2024-04-20": 861480,
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Britney Spears. Los temas esenciales, todos en una lista.",
+  "description": "This is Britney Spears. The essential tracks, all in one playlist.",
   "name": "This Is Britney Spears",
   "tracks": [
     {
@@ -57,7 +57,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 257493,
       "name": "Ooh La La (from \"The Smurfs 2\")",
       "url": "https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-01",
+      "date_removed": null,
       "duration_ms": 172463,
       "name": "Toxic Las Vegas - Jamieson Shaw Remix (From The Original Motion Picture Soundtrack ELVIS) DELUXE EDITION",
       "url": "https://open.spotify.com/track/7JRTxurpdtXfdWRy8rlHrZ"
@@ -1203,7 +1203,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Unusual You",
       "url": "https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB"
@@ -1239,7 +1239,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 224400,
       "name": "Womanizer",
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"

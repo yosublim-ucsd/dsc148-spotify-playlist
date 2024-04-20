@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 704,
+  "2024-04-20": 704,
   "date_first_scraped": "2023-09-29",
   "description": "Les plus grands hits en version berceuse",
   "name": "Berceuses pop",
@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181132,
       "name": "7 Rings",
       "url": "https://open.spotify.com/track/0LWfDDSXUMkwloFaNDNTmm"
@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 181132,
       "name": "7 Rings",
       "url": "https://open.spotify.com/track/5y0vxj4nIex1H2V9Q1k8Dt"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/287eKc5MTtlx493MaFysoI"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150857,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/6rQbROEs9aHrUocqOywAi8"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 176428,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/5MOKDisAMquLXEcqOAXc4V"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 176428,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/5a78EiXYDczXZWZ5B5Wuvx"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 181706,
       "name": "Beautiful People - Instrumental",
       "url": "https://open.spotify.com/track/18zHctXZpTpfb7Hmpegter"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 181706,
       "name": "Beautiful People - Instrumental",
       "url": "https://open.spotify.com/track/6e8ausDddiGiiqCe2Zkliw"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 185684,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/2pinNULtnfj0xtsuJ4eies"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 185684,
       "name": "Black Beatles",
       "url": "https://open.spotify.com/track/7A7dhoLG98ww7ok321oLM8"
@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "Boy With Luv",
+        "url": "https://open.spotify.com/album/696gBy1COxiUsC6rkhVGwz"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Panda",
+          "url": "https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251320,
+      "name": "Boy With Luv",
+      "url": "https://open.spotify.com/track/5BinnXTPNqAmZB5y9GSrr5"
+    },
+    {
+      "album": {
         "name": "Lullaby Renditions of K-Pop Classics",
         "url": "https://open.spotify.com/album/5OYY7h2PS49aUMSnVStHIw"
       },
@@ -399,7 +417,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 251320,
       "name": "Boy With Luv",
       "url": "https://open.spotify.com/track/7LmFx89dfSUPOheSGU2Ebs"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241884,
       "name": "Boy with Luv - Instrumental",
       "url": "https://open.spotify.com/track/0YOVA4Sln8XQFaCcA8gPKC"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 241884,
       "name": "Boy with Luv - Instrumental",
       "url": "https://open.spotify.com/track/3xnC1yyzjvuX7lS6aR7xha"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 190588,
       "name": "Caro",
       "url": "https://open.spotify.com/track/2CtdrkW04wXtgOHJj9Hf5y"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 190588,
       "name": "Caro",
       "url": "https://open.spotify.com/track/7sRRyKPEbdat6kTg9SzhPC"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254117,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/2W31cup73ifkQSqJMwE98B"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3X1gQVpptt1BGsBhXvqJD2"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "Into You",
       "url": "https://open.spotify.com/track/1utBa34OD1jYTUdv5Kwpuy"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150967,
       "name": "Into You",
       "url": "https://open.spotify.com/track/4O7Fq6zG8ZwGS3VMSzDlsI"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 195313,
       "name": "Juice - Instrumental",
       "url": "https://open.spotify.com/track/16CtmDtXxonWwcxnBMy2CK"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 195313,
       "name": "Juice - Instrumental",
       "url": "https://open.spotify.com/track/6WIHzFZtX1tbht0AUHh0Nk"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-06",
+      "date_removed": null,
       "duration_ms": 189090,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/4IRTX0gvhsdfh6HdBlpcOB"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189090,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/78P0GV29i3j7ZUsBH2Imbe"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 208219,
       "name": "On Top of the World - Instrumental",
       "url": "https://open.spotify.com/track/0HwkaLMkyDMTYMhJKaEAV8"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 208219,
       "name": "On Top of the World - Instrumental",
       "url": "https://open.spotify.com/track/5GwRYOU41hBdpVuhe8lJmt"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 150666,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/4ek77ymwrx9ABAz0GXm5ss"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 150666,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/6257yNOb9bTzZEs3Ya2gAP"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 140689,
       "name": "Panini",
       "url": "https://open.spotify.com/track/0MSWx4kIzylxCO0QCjV7Qr"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 140689,
       "name": "Panini",
       "url": "https://open.spotify.com/track/0x43CuuMj0zrgi8fngdhwI"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 221142,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/2m8ixyfUs67gOpHLRDsZ6f"
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221142,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/307fIarRcby2omOXs2ZU9e"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 126923,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/2hLdSLAC9QCYsrKweeqtZH"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 126923,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/2yZL7d8uyze1701ioku9M5"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 164210,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3c6kc9xKbVGGpvylGjfHTB"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 164210,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6QIj90Y2ZXo0eR0Zh3cUv8"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 111627,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/3H9EKcQP4qm0rUnX1m2ItF"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 111627,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5LDtqsMfqITHHt1HwwpozP"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/4bD2vj9rYDTqHyhriN7sBS"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230400,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/6n2dTjMWz7xlWp5mr30SgI"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0IJ2HmmrZ5zHvcFPAaJYtJ"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 152727,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/5mkFrcx2kX3tZu7cMwcvSK"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 226666,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/0yEGj4vlBnOysBMMEEDxdv"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/6vclrqC7zoLYUXhYb6HEcv"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 136521,
       "name": "The Box",
       "url": "https://open.spotify.com/track/17bpzS1I0vglVgs1F3WYV3"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 136521,
       "name": "The Box",
       "url": "https://open.spotify.com/track/4nF0O9xxc2c4CcJDMtp1Z7"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-05",
+      "date_removed": null,
       "duration_ms": 234947,
       "name": "The Shape of You",
       "url": "https://open.spotify.com/track/5ikInueG0scAPb7hcPtLTg"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 234947,
       "name": "The Shape of You",
       "url": "https://open.spotify.com/track/6WlLztMj9U3ub6KPp2WMOq"

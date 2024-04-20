@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 10563,
+  "2024-04-20": 10582,
   "date_first_scraped": "2023-09-29",
   "description": "La bande son des premiers amours",
   "name": "Coup de foudre",
@@ -57,7 +57,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6ab3CQvDlAVttThZucwGQ1"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236000,
       "name": "Angela",
       "url": "https://open.spotify.com/track/6xNXmllCLIV9cH1luBzqvO"
@@ -166,6 +166,24 @@
     },
     {
       "album": {
+        "name": "Ce mur qui nous s\u00e9pare (de la s\u00e9rie TV \"Miraculous\")",
+        "url": "https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242720,
+      "name": "Ce mur qui nous s\u00e9pare - de la s\u00e9rie TV \"Miraculous\"",
+      "url": "https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN"
+    },
+    {
+      "album": {
         "name": "Danser sur tes mots (Version deluxe)",
         "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 241880,
       "name": "Ce mur qui nous s\u00e9pare - de la s\u00e9rie TV \"Miraculous\"",
       "url": "https://open.spotify.com/track/6o4XEaMtm51Y21Aqp5xW9F"
@@ -228,6 +246,28 @@
     },
     {
       "album": {
+        "name": "Mi Vida",
+        "url": "https://open.spotify.com/album/41aoyeT5CYSLnmplFx22Y4"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196480,
+      "name": "Dans mes bras",
+      "url": "https://open.spotify.com/track/0yKrEJvEwJhWe9HUwg1puw"
+    },
+    {
+      "album": {
         "name": "Mi Vida (Edition de No\u00ebl)",
         "url": "https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk"
       },
@@ -243,7 +283,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196480,
       "name": "Dans mes bras",
       "url": "https://open.spotify.com/track/67uINkj49Zoh1fhIZvA4fk"
@@ -385,7 +425,7 @@
     {
       "album": {
         "name": "16 ou pas",
-        "url": "https://open.spotify.com/album/76M9VFZ5X4CH6YaQOXSAeL"
+        "url": "https://open.spotify.com/album/3W0kaNeIqkpPlqqqzsHCYZ"
       },
       "artists": [
         {
@@ -396,6 +436,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 169186,
+      "name": "Je t\u2019aime de ouf",
+      "url": "https://open.spotify.com/track/5BUl0EBl4tOmPtT9IN0UUP"
+    },
+    {
+      "album": {
+        "name": "16 ou pas",
+        "url": "https://open.spotify.com/album/76M9VFZ5X4CH6YaQOXSAeL"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 169186,
       "name": "Je t\u2019aime de ouf",
       "url": "https://open.spotify.com/track/76X9R88fhwR1lTXfqdqRKZ"
@@ -475,10 +533,54 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 211933,
       "name": "Les choses simples",
       "url": "https://open.spotify.com/track/0yK76aiiD1jttDY6HSmnkx"
+    },
+    {
+      "album": {
+        "name": "Nouvelle page",
+        "url": "https://open.spotify.com/album/5PIKD9PXYxnG7M3JSJKcSk"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        },
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Les choses simples",
+      "url": "https://open.spotify.com/track/63oSGdyQWGMaGfVdkuoJ1A"
+    },
+    {
+      "album": {
+        "name": "Nouvelles pages (Version deluxe)",
+        "url": "https://open.spotify.com/album/75niuXNzwMLNVDBVJSTqsi"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        },
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Les choses simples",
+      "url": "https://open.spotify.com/track/7jRfxajXy4ixTsSpYWsuwL"
     },
     {
       "album": {
@@ -497,10 +599,32 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262373,
       "name": "Les filles d'aujourd'hui",
       "url": "https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG"
+    },
+    {
+      "album": {
+        "name": "Id\u00e9es blanches (Nouvelle \u00e9dition)",
+        "url": "https://open.spotify.com/album/2ZbA2Pic7Sh9gGmLk5S2Ni"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262293,
+      "name": "Les filles d'aujourd'hui",
+      "url": "https://open.spotify.com/track/31NmnbAR81q1OyI0j64sBx"
     },
     {
       "album": {
@@ -515,10 +639,28 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 230768,
       "name": "Les plan\u00e8tes",
       "url": "https://open.spotify.com/track/71I3Tqq9fCOSceVpluOqJN"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE (Version deluxe)",
+        "url": "https://open.spotify.com/album/6H9a8HgSJRhbDjrTcgcSSn"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Les plan\u00e8tes",
+      "url": "https://open.spotify.com/track/6q7A07DsrzaXFWvEU96ZON"
     },
     {
       "album": {
@@ -545,7 +687,7 @@
     {
       "album": {
         "name": "Vianney",
-        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+        "url": "https://open.spotify.com/album/3sb3TaTkw7pdVD2V5cSBGi"
       },
       "artists": [
         {
@@ -556,6 +698,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Moi aimer Toi",
+      "url": "https://open.spotify.com/track/0mbT71B8hMCbdKEf3Q1kh8"
+    },
+    {
+      "album": {
+        "name": "Vianney",
+        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 198053,
       "name": "Moi aimer toi",
       "url": "https://open.spotify.com/track/1qqceUwmiSLrjkPxg9OLm8"
@@ -573,10 +733,46 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv"
+    },
+    {
+      "album": {
+        "name": "Notre idylle",
+        "url": "https://open.spotify.com/album/23C3lJGhd8DCmSdixqAEMW"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188853,
+      "name": "Notre idylle",
+      "url": "https://open.spotify.com/track/22obW8hfDf5VDkuzhQtk8r"
     },
     {
       "album": {
@@ -591,7 +787,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 189760,
       "name": "Notre idylle",
       "url": "https://open.spotify.com/track/55KNTR50fdXuORG5GcZQCy"
@@ -699,7 +895,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/1bxP4M9ICllcg7mel8kH89"
@@ -717,7 +913,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-28",
+      "date_removed": null,
       "duration_ms": 199266,
       "name": "Reine",
       "url": "https://open.spotify.com/track/2HdCh16tdPjle1rm80Y6q7"
@@ -769,7 +965,7 @@
     {
       "album": {
         "name": "PYRAMIDE (Version deluxe)",
-        "url": "https://open.spotify.com/album/4mVA9FvULx0Q8IUhLnhN4V"
+        "url": "https://open.spotify.com/album/6H9a8HgSJRhbDjrTcgcSSn"
       },
       "artists": [
         {
@@ -780,6 +976,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Si t'es pas l\u00e0",
+      "url": "https://open.spotify.com/track/4HlDJ6SM3DyZ7KAp1oS8le"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE (Version deluxe)",
+        "url": "https://open.spotify.com/album/4mVA9FvULx0Q8IUhLnhN4V"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 233720,
       "name": "Si t'es pas l\u00e0",
       "url": "https://open.spotify.com/track/55ZvIhc0jsKvZKPOo0EaOk"
@@ -841,7 +1055,7 @@
     {
       "album": {
         "name": "PYRAMIDE",
-        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+        "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
       "artists": [
         {
@@ -852,6 +1066,24 @@
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233800,
+      "name": "Tomb\u00e9",
+      "url": "https://open.spotify.com/track/399mh97iAmjU34de5MebHp"
+    },
+    {
+      "album": {
+        "name": "PYRAMIDE",
+        "url": "https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2021-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-04-19",
       "duration_ms": 233800,
       "name": "Tomb\u00e9",
       "url": "https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t"

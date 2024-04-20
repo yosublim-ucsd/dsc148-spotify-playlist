@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 148510,
+  "2024-04-20": 148397,
   "date_first_scraped": "2021-12-28",
   "description": "Let these songs soundtrack your busy wedding season.",
   "name": "Band Baaja Bollywood",
@@ -305,7 +305,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 196172,
       "name": "Banno",
       "url": "https://open.spotify.com/track/5ukDx1Fzu219N539FAhUKw"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 196172,
       "name": "Banno (From \"Tannu Weds Manu Returns\")",
       "url": "https://open.spotify.com/track/78LZUVqzZzsuNfT6G782pP"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 254880,
       "name": "Ghani Bawri",
       "url": "https://open.spotify.com/track/65c5R6BSUGGyHW1UJUey94"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 254880,
       "name": "Ghani Bawri (From \"Tanu Weds Manu Returns\")",
       "url": "https://open.spotify.com/track/1XVKNlNE2quleT1ZY5yFmN"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 273319,
       "name": "Nagada Sang Dhol",
       "url": "https://open.spotify.com/track/4ila6GeGBPGmJTGRoHOV5E"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 273256,
       "name": "Nagada Sang Dhol",
       "url": "https://open.spotify.com/track/5s9Kd33ExIhpe1JJSj5zLZ"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 262826,
       "name": "Navrai Maajhi",
       "url": "https://open.spotify.com/track/3b8USdQmDl0wXzrDaHxQYY"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 262826,
       "name": "Navrai Majhi",
       "url": "https://open.spotify.com/track/73b9wDijCUpicQUzrc47EY"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244920,
       "name": "Rum Whisky",
       "url": "https://open.spotify.com/track/0TGScsAOiGmfjDtRshCxiz"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 244920,
       "name": "Rum Whisky (From \"Vicky Donor\")",
       "url": "https://open.spotify.com/track/2IbvIRyVjgKOOTn3DJuOk9"
@@ -2140,6 +2140,40 @@
     },
     {
       "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani",
+        "url": "https://open.spotify.com/album/0SB9pkSJOzevi6IpIBJbwy"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/7iekl4P95GuphG8x8a3cNT"
+    },
+    {
+      "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
@@ -2171,7 +2205,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

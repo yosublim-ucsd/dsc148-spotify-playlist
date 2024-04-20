@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-1,398 songs - 3 day 4 hr 49 min
+1,399 songs - 3 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Forget About Forever](https://open.spotify.com/track/0zsjcodgqlumHJeifZ05ZY) | [Two Mile Moon](https://open.spotify.com/artist/578UT8S93m4zG9TPWkKKHu) | [Forget About Forever](https://open.spotify.com/album/3vWN0a1eM0NiFprkp61qNI) | 3:08 | 2023-10-04 | 2024-04-11 |
 | [Forget Your Name](https://open.spotify.com/track/6bqUKirOxg9qkUUZscO1ri) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Forget Your Name](https://open.spotify.com/album/64YIMPv2089yxigJaVIFlA) | 2:32 | 2022-07-06 | 2023-01-12 |
 | [Fountainhead](https://open.spotify.com/track/0hdC0qNrHBFdQoXM0skx7v) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Topanga swirl](https://open.spotify.com/album/4LWgpYBBrOF9mXAg1ioSEY) | 6:09 | 2023-08-23 | 2023-11-09 |
+| [Four Leaf Clover](https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC) | [Color Green](https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z) | [Four Leaf Clover](https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB) | 4:34 | 2024-04-19 |  |
 | [Frankenstein](https://open.spotify.com/track/1UaKZDqPvCfFX2kgqOczsB) | [TRAMP](https://open.spotify.com/artist/6ijgEPSDNChOTSh7hmRf7t) | [Frankenstein](https://open.spotify.com/album/2IOYp1mJ90Spa3Qdcu3xVz) | 3:12 | 2022-04-27 | 2022-07-07 |
 | [Frankie's Rowing Machine](https://open.spotify.com/track/4sBIBw2fzDkOdImREN44dy) | [Search Committee](https://open.spotify.com/artist/2S9LiHluJWkBZgCUbtSLls) | [Frankie's Rowing Machine](https://open.spotify.com/album/79YZPCvGk5SYvq8tJ7WHN0) | 2:41 | 2022-08-03 | 2022-10-27 |
 | [Freaks Like Us](https://open.spotify.com/track/0chJDuzoUhpvfLJiSP4cEe) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/6aaFOSMUUxYBAJ3fcxZmBo) | 4:54 | 2023-09-27 | 2023-11-30 |

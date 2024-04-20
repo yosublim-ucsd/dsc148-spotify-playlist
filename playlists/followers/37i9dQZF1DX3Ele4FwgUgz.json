@@ -1,5 +1,5 @@
 {
-  "2024-04-19": 15270,
+  "2024-04-20": 15279,
   "date_first_scraped": "2022-07-14",
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
@@ -35,10 +35,28 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 237813,
       "name": "5201314",
       "url": "https://open.spotify.com/track/58N59QptRCYvEee9KKTURD"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "5201314",
+      "url": "https://open.spotify.com/track/1Xwd04G30VxU0WszLqIjMa"
     },
     {
       "album": {
@@ -161,7 +179,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 219840,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 274893,
       "name": "Fly with You!!",
       "url": "https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 274893,
       "name": "Fly with You!!",
       "url": "https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 316213,
       "name": "Ijigen BIGBANG",
       "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 242933,
       "name": "Koakuma LOVE",
       "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 244613,
       "name": "New Year's March!",
       "url": "https://open.spotify.com/track/4tntAyjJG0VioM5B2jkKkj"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-25",
+      "date_removed": null,
       "duration_ms": 244613,
       "name": "New Year's March\uff01",
       "url": "https://open.spotify.com/track/0ThK3MQEYErkvCEz6J25wi"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 239013,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 326040,
       "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
       "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
@@ -1777,10 +1795,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-03",
+      "date_removed": null,
       "duration_ms": 233720,
       "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
       "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6797 \u9f13\u5b50)",
+          "url": "https://open.spotify.com/artist/5BkAdBE9lBB9aFtcx9ToA1"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "\u30c1\u30a7\u30ea\u30fc\u30dc\u30e0",
+      "url": "https://open.spotify.com/track/6DbO0dZhUdgeSjr4q79T6d"
     },
     {
       "album": {
@@ -2000,6 +2036,24 @@
     },
     {
       "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "\u54ac\u798f\u8ad6",
+      "url": "https://open.spotify.com/track/4Bixs92CbPwoLKFhL8nYcs"
+    },
+    {
+      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -2065,7 +2119,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 221613,
       "name": "\u591c\u660e\u73e0",
       "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
@@ -2123,6 +2177,24 @@
       "duration_ms": 287626,
       "name": "\u5922\u3078\u306e\u4e00\u6b69",
       "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2024-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "\u5c0f\u60aa\u9b54LOVE\u2661",
+      "url": "https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP"
     },
     {
       "album": {
@@ -2269,7 +2341,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 316213,
       "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
       "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
@@ -2341,7 +2413,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-19",
       "duration_ms": 229333,
       "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3"

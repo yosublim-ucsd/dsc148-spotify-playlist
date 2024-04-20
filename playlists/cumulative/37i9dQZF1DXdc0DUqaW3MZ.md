@@ -4,7 +4,7 @@
 
 > 
 
-374 songs - 22 hr 29 min
+375 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
 | [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 | 2022-06-20 | 2023-05-24 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
+| [Alone](https://open.spotify.com/track/415KAWPy9kNLsx515sqxI1) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Alone](https://open.spotify.com/album/5YuVGS5KyFqhPSsHzsDRSb) | 2:18 | 2024-04-04 |  |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
 | [Anyone Around](https://open.spotify.com/track/15fzONpuDzch5temggfVIv) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [All the Time](https://open.spotify.com/album/11yM9uazEEt9YjNwvMLhkA) | 2:49 | 2022-06-20 | 2022-11-13 |
 | [Anyone Around](https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Anyone Around](https://open.spotify.com/album/7wTbPwcxA5j3wFgu05JFGQ) | 2:49 | 2021-12-07 | 2022-07-29 |
@@ -335,7 +336,7 @@
 | [Sweat It Out](https://open.spotify.com/track/15PccJYgagxCBlqfKXkvWe) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Ruben Young](https://open.spotify.com/artist/3OvFJ4GPJ3FB10KAe32HmF) | [Outside the Box, Pt\. 2](https://open.spotify.com/album/2NBCPtE3vmGJiFn0pqPzaA) | 3:33 | 2022-04-11 | 2022-04-18 |
 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 | 2022-04-11 |  |
 | [Sweet](https://open.spotify.com/track/5EnM3BEDqs7sHdyicNaZrQ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Sweet](https://open.spotify.com/album/4CJBKbUWAn2QFmp0ynzIzo) | 4:54 | 2021-12-07 | 2022-04-20 |
-| [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 | 2024-01-12 |  |
+| [Swimming](https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Swimming](https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD) | 4:02 | 2024-01-12 | 2024-04-20 |
 | [Talk](https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY) | [Noya Rao](https://open.spotify.com/artist/16XiowWxtn1LmT6aTMnzlv) | [Talk](https://open.spotify.com/album/4rBfvQhKA3aJ3rdKWtgE00) | 4:59 | 2021-12-07 | 2022-07-28 |
 | [The 1 you're looking 4 too / Show Love](https://open.spotify.com/track/4DqbTHcLG67mXV1AmIo6WI) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [The 1 you're looking 4 too / Show Love](https://open.spotify.com/album/6Tq8BNAaITtJe0l2ZyV3ws) | 3:06 | 2021-12-07 | 2022-07-29 |
 | [The Basics](https://open.spotify.com/track/0Nj9CJflsNIuqgyThFfolU) | [Zaska](https://open.spotify.com/artist/3gzJlKscDvfqlV0z1B5g8k) | [The Basics](https://open.spotify.com/album/4W5NHc8dg3qSoZZoDG1zdB) | 3:25 | 2022-04-11 | 2022-04-20 |
