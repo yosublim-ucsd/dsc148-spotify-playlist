@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 253035,
+  "2024-04-21": 252961,
   "date_first_scraped": "2022-09-09",
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
   "name": "This Is Kane Brown",
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 165333,
       "name": "Comeback",
       "url": "https://open.spotify.com/track/0O39q1NfkVnMurlMwMAEZm"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 166506,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/00KyYtT6NaXwbPecina5Pj"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 192053,
       "name": "Good as You",
       "url": "https://open.spotify.com/track/19kUPdKTp85q9RZNwaXM15"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 173673,
       "name": "Grits & Glamour (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3mxfnoWPnSxcuxj897oDX7"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 179506,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Learning",
       "url": "https://open.spotify.com/track/4eGr7gXyHETJQ4pMcqzXgu"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 234340,
       "name": "Like I Love Country Music",
       "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 186346,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/0y2Zvt89QMAZ9gEYvB5hpO"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 178986,
       "name": "Lose It",
       "url": "https://open.spotify.com/track/7epGknfpAlH1u33S71Ur1o"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 188919,
       "name": "Lost in the Middle of Nowhere (feat. Becky G)",
       "url": "https://open.spotify.com/track/5KfKPfX5cZvOuHoy9io65A"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 191299,
       "name": "Move On",
       "url": "https://open.spotify.com/track/1oHaysAy4fA9EusHpPk5Bn"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"

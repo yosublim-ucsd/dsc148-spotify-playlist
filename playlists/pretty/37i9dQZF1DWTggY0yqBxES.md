@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Concrete Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,076 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,288 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 2:30 |
 | 2 | [POINT ME TO IT \(feat\. Lil Yachty, Camo!\)](https://open.spotify.com/track/594MueE2n17NeaZYiGdhYP) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 3:14 |
 | 3 | [Baddies](https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Baddies](https://open.spotify.com/album/6wj8Zd0xmL1zPc4m6AFSH1) | 2:53 |
-| 4 | [bussin' \(Brock's Method\)](https://open.spotify.com/track/6QsLsBKwuFVEJgmktsfLnR) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Brock](https://open.spotify.com/artist/0Ai6AfyHUiBw0uQKESpXF2) | [bussin' \(Brock's Method\)](https://open.spotify.com/album/00MuOJFp3gIoowuyAhYBmm) | 2:22 |
+| 4 | [bussin' \(Brock's Method\) \- Stick Em 2k20 Remix](https://open.spotify.com/track/6QsLsBKwuFVEJgmktsfLnR) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Brock](https://open.spotify.com/artist/0Ai6AfyHUiBw0uQKESpXF2), [RoddOnnaBeat](https://open.spotify.com/artist/3XKayWe7KM4GandT0kIBxn) | [bussin' \(Brock's Method\) \- Stick Em 2k20 Remix](https://open.spotify.com/album/00MuOJFp3gIoowuyAhYBmm) | 2:22 |
 | 5 | [URRRGE!!!!!!!!!! \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0mxMMetknt24PVQxAHwXAZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:32 |
 | 6 | [Mikolton \(Dat's My Dawg\)](https://open.spotify.com/track/0IFd582e0VaFDvrzcAnAEU) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:58 |
 | 7 | [FAMOUS.](https://open.spotify.com/track/3wB3bTTyrU0C3wnuNLLDRt) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [FAMOUS.](https://open.spotify.com/album/4JeveqBfuL7HgGLuCns8hG) | 1:55 |

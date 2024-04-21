@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 1077044,
+  "2024-04-21": 1077060,
   "date_first_scraped": "2023-06-15",
   "description": "Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!",
   "name": "SIGMA MALE TIKTOK MUSIC",
@@ -5237,6 +5237,24 @@
       "duration_ms": 103923,
       "name": "KING",
       "url": "https://open.spotify.com/track/3GEOarLqJFWD6GHcPhmB5a"
+    },
+    {
+      "album": {
+        "name": "King of the Void",
+        "url": "https://open.spotify.com/album/1JWjJN17jrxsmzLbji8Ghr"
+      },
+      "artists": [
+        {
+          "name": "Ezediel",
+          "url": "https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158098,
+      "name": "King of the Void",
+      "url": "https://open.spotify.com/track/0EduJ8lt4T2jYCwnO8FVLa"
     },
     {
       "album": {

@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Gin & Juice",
+        "url": "https://open.spotify.com/album/4x8utmtZhvU2k51k6QqKpm"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240452,
+      "name": "Gin & Juice",
+      "url": "https://open.spotify.com/track/1j5MqLb1HiFDAsb3kVqPW9"
+    },
+    {
+      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },

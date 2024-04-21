@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Huracanes del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 110838,
+  "description": "This Is Los Huracanes del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 110812,
   "original_name": "This Is Los Huracanes del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGVmYmVmZjliNzk4YjkzNzU1M2QyODU4ZWYxZDIxM2Ji",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGUyNmUwZDM5NDZjODE0Y2M3NDA0MDFlNmMwMTEyY2Vh",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Corridos Pesados",
-        "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suburban Dorada",
-      "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Complemento",
         "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
       },
@@ -75,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "El Gato De Chihuahua",
-      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norte\u00f1o 2000",
         "url": "https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv"
       },
@@ -103,6 +71,22 @@
       "duration_ms": 163082,
       "name": "Veinte Mujeres De Negro",
       "url": "https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "El Gato De Chihuahua",
+      "url": "https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT"
     },
     {
       "added_at": null,
@@ -191,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Mexicano",
-        "url": "https://open.spotify.com/album/4YHuwR40MMc4umMlUliQ8E"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 148413,
-      "name": "Borracho Y Loco",
-      "url": "https://open.spotify.com/track/1BkzHDc7uv9InYduugzhsA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Fuerza y Sentimiento: Legado Norte\u00f1o",
         "url": "https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 143920,
       "name": "Pa Que Te Casabas Juan",
       "url": "https://open.spotify.com/track/7pyAF0dBag9O31t5xKtHsL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy Mexicano",
+        "url": "https://open.spotify.com/album/4YHuwR40MMc4umMlUliQ8E"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 148413,
+      "name": "Borracho Y Loco",
+      "url": "https://open.spotify.com/track/1BkzHDc7uv9InYduugzhsA"
     },
     {
       "added_at": null,
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Pa` Arriba",
-        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 180768,
-      "name": "Ay Amigo",
-      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vientos Huracanados",
         "url": "https://open.spotify.com/album/1eBRnitNiRIR4CGDfyTrM4"
       },
@@ -603,6 +571,22 @@
       "duration_ms": 165642,
       "name": "Medio Pueblo",
       "url": "https://open.spotify.com/track/5BLHGE5bPjXGaDaVnCM9CT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Pa` Arriba",
+        "url": "https://open.spotify.com/album/4C1N5LValUfNBZAyXMeeyY"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 180768,
+      "name": "Ay Amigo",
+      "url": "https://open.spotify.com/track/4QCDEseQ7VOQpV30TMA4Sc"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 132597,
       "name": "La Viudita",
       "url": "https://open.spotify.com/track/0GhFBxxcZP6FDb2d1PXznp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viaje Eterno",
+        "url": "https://open.spotify.com/album/7rm2ZPIHjRuEnM9LIek5fX"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 169216,
+      "name": "Viaje Eterno",
+      "url": "https://open.spotify.com/track/4ajgw37ARwrMUV9ESMVfvd"
     },
     {
       "added_at": null,

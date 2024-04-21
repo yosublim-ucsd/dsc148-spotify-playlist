@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 665318,
+  "2024-04-21": 665260,
   "date_first_scraped": "2022-05-26",
   "description": "\ud83e\udd42\ud83c\udf7e\ud83e\uddfc\ud83e\udee7\ud83d\udec1",
   "name": "Joda",
@@ -2075,6 +2075,28 @@
       "duration_ms": 225280,
       "name": "Donde Estan - Remix",
       "url": "https://open.spotify.com/track/2nlGL6hrS9YsL4WE6UxFdF"
+    },
+    {
+      "album": {
+        "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto (Session #9)",
+        "url": "https://open.spotify.com/album/0ngWXQa5OZeQmUvkNPsLek"
+      },
+      "artists": [
+        {
+          "name": "Cristian JS",
+          "url": "https://open.spotify.com/artist/3vlE4er6k5ngHKWhEQa04u"
+        },
+        {
+          "name": "Dj Martin Meluz",
+          "url": "https://open.spotify.com/artist/1r8Xlr10rdMyQChWzfUJTz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63687,
+      "name": "Donde Est\u00e1n las Gatas / Ven Bailalo / Ella Me Levant\u00f3 / Tocarte Toa / Rompe / Si No Le Contesto - Session #9",
+      "url": "https://open.spotify.com/track/2tomu9yL0c4LbnwGXtZLmf"
     },
     {
       "album": {
@@ -6019,7 +6041,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 198720,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"

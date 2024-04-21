@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Ryan Castro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,848 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,488 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Señora Soledad](https://open.spotify.com/track/2di9HPtsNgUclDaApxmFrV) | [Leo Leoni](https://open.spotify.com/artist/5zrouApVn7SkqApf3RQr7M) | [Señora Soledad](https://open.spotify.com/album/6fHqXdVmUnaG4n1zjiETRQ) | 3:26 |
 | 55 | [En Peligro De Extinción](https://open.spotify.com/track/0TsutzEE81PwAJG75E5KfE) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sindicato Del Ritmo](https://open.spotify.com/album/0mVVMaafx2ABmoAGVWqBoA) | 3:45 |
 | 56 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
-| 57 | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu) | 4:36 |
+| 57 | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Rompecabezas \(feat\. NATURE\)](https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu) | 4:36 |
 | 58 | [Lo Dejaría Todo](https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Lo Dejaría Todo](https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38) | 3:22 |
 | 59 | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/track/3Orlfid5vxAYaz37tMHDOC) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Tu Segundo Nombre \(Karma\)](https://open.spotify.com/album/2z3VZ4Ip0z4wILXe5xurUB) | 2:49 |
 | 60 | [Queriéndonos Bien](https://open.spotify.com/track/4wG7XaCbKosVVcKrvU6ECm) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Queriéndonos Bien](https://open.spotify.com/album/6c4WIqpwMrgNtjCPIzWfDX) | 2:06 |

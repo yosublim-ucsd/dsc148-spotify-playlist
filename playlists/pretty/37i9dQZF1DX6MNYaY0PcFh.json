@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 76513,
+  "num_followers": 76560,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1013,6 +1013,30 @@
       "url": "https://open.spotify.com/track/5pIwVJad2bBODwo9wTP37U"
     },
     {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "Closer (Demuja Remix)",
+        "url": "https://open.spotify.com/album/2l9XlXUuy5Et0t4rHiAbEo"
+      },
+      "artists": [
+        {
+          "name": "Mood II Swing",
+          "url": "https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av"
+        },
+        {
+          "name": "Carole Sylvan",
+          "url": "https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729"
+        },
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Closer - Demuja Remix",
+      "url": "https://open.spotify.com/track/24zUiEtz0CVKe47Om9BJLA"
+    },
+    {
       "added_at": "2024-03-01 12:18:43",
       "album": {
         "name": "Lost City Archives, Vol. 7",
@@ -1055,30 +1079,6 @@
       "duration_ms": 206111,
       "name": "Liquor By The Litre (feat. P Money & Laurena Volant\u00e9) [Murder He Wrote Remix]",
       "url": "https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM"
-    },
-    {
-      "added_at": "2024-04-12 00:01:00",
-      "album": {
-        "name": "Closer (Demuja Remix)",
-        "url": "https://open.spotify.com/album/2l9XlXUuy5Et0t4rHiAbEo"
-      },
-      "artists": [
-        {
-          "name": "Mood II Swing",
-          "url": "https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av"
-        },
-        {
-          "name": "Carole Sylvan",
-          "url": "https://open.spotify.com/artist/3mNSkNn2TgentVDRuoS729"
-        },
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Closer - Demuja Remix",
-      "url": "https://open.spotify.com/track/24zUiEtz0CVKe47Om9BJLA"
     },
     {
       "added_at": "2024-03-01 12:18:43",

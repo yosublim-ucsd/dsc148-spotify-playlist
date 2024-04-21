@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 239190,
+  "2024-04-21": 239135,
   "date_first_scraped": "2024-03-10",
   "description": "This Is Shania Twain. Los temas esenciales, todos en una lista.",
   "name": "This Is Shania Twain",
@@ -53,7 +53,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 101600,
       "name": "Amneris' Letter",
       "url": "https://open.spotify.com/track/4YG6ExrhpM70470IyMZYYz"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 178098,
       "name": "Queen Of Me",
       "url": "https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX"

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 119841,
+  "2024-04-21": 119999,
   "date_first_scraped": "2023-03-30",
   "description": "Set the bars high with Malayalam Hip-Hop!\nCover : Neeraj Madhav",
   "name": "Hip-Hop Malayalam",
@@ -3107,6 +3107,28 @@
       "duration_ms": 197833,
       "name": "Thannatthaan - From \"Naradan\"",
       "url": "https://open.spotify.com/track/6VcGJCQwQlpKWkrQ7wCIJS"
+    },
+    {
+      "album": {
+        "name": "Aavesham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "The Last Dance",
+      "url": "https://open.spotify.com/track/5EbJjO0X1Xw620AXZMyyNZ"
     },
     {
       "album": {

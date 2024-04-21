@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > We Don't Trust You + We Still Don't Trust You
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,770 likes - 701 songs - 1 day 15 hr 43 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,375 likes - 701 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 177 | [Bora Bora](https://open.spotify.com/track/0c6Pmdnw71qZ4UHkr4qRNQ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Love Songs 4 the Streets 2](https://open.spotify.com/album/3kj9O7YYodmvzwq8ObaWU9) | 2:42 |
 | 178 | [Durkio Krazy](https://open.spotify.com/track/3XHXqHDafRWVyVkEq6APG4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Just Cause Y'all Waited](https://open.spotify.com/album/1R8YtoBYJgC2ue7eq9Xa8d) | 2:50 |
 | 179 | [Rich Forever \(feat\. YFN Lucci\)](https://open.spotify.com/track/0NIf8CofW2pvUEbE3JhiTZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [They Forgot](https://open.spotify.com/album/7M04O54J8wm16ziDsGclWI) | 3:08 |
-| 180 | [No Auto Durk](https://open.spotify.com/track/4VcPtoOpK3oBMDZJ9Ptp9f) | [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lil Durk Presents: Only the Family Involved, Vol\. 2](https://open.spotify.com/album/2cULL7lcy0pCCpCRJsUZck) | 3:04 |
+| 180 | [No Auto Durk \(feat\. Lil Durk\)](https://open.spotify.com/track/4VcPtoOpK3oBMDZJ9Ptp9f) | [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Lil Durk Presents: Only the Family Involved, Vol\. 2](https://open.spotify.com/album/2cULL7lcy0pCCpCRJsUZck) | 3:04 |
 | 181 | [Emotionally Scarred](https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:17 |
 | 182 | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/album/4Y0J4NwCJRiu8jSz98aQKz) | 2:51 |
 | 183 | [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7JuHVG3qQKQKxC4doneXVW) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Back In Blood \(feat\. Lil Durk\)](https://open.spotify.com/album/1VARhsCn3CIog9r2lz6gq5) | 3:04 |

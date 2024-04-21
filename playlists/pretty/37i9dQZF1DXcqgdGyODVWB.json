@@ -1,6 +1,6 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 20379,
+  "num_followers": 20427,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "Tonto Mi Corazon",
-        "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
-      },
-      "artists": [
-        {
-          "name": "Los Avila",
-          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
-        }
-      ],
-      "duration_ms": 251630,
-      "name": "Tonto Mi Corazon",
-      "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
-    },
-    {
-      "added_at": "2024-04-09 16:43:30",
-      "album": {
         "name": "No Conf\u00edes en M\u00ed",
         "url": "https://open.spotify.com/album/6quSFU1RDVfyOKVdSTkaVL"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 183651,
       "name": "No Conf\u00edes en M\u00ed",
       "url": "https://open.spotify.com/track/20Aju7Cbpq4D25P3seooun"
+    },
+    {
+      "added_at": "2024-04-09 16:43:30",
+      "album": {
+        "name": "Tonto Mi Corazon",
+        "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
+      },
+      "artists": [
+        {
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
+        }
+      ],
+      "duration_ms": 251630,
+      "name": "Tonto Mi Corazon",
+      "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "added_at": "2024-04-09 16:43:30",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "Las Ag\u00fcitas",
-        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+        "name": "Fuera De Control",
+        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
       },
       "artists": [
         {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
         }
       ],
-      "duration_ms": 176333,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+      "duration_ms": 194826,
+      "name": "Cumbia Del Sol",
+      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -907,22 +923,6 @@
       "duration_ms": 153648,
       "name": "El Vaquero",
       "url": "https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7"
-    },
-    {
-      "added_at": "2024-04-09 16:43:30",
-      "album": {
-        "name": "Fuera De Control",
-        "url": "https://open.spotify.com/album/4x89VPVDzHs5iooMxojyDw"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "Cumbia Del Sol",
-      "url": "https://open.spotify.com/track/10jdyLaybUVbi8AlJf7nYF"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "A La Caza",
-        "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "La \u00c9tica",
-      "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
-    },
-    {
-      "added_at": "2024-04-09 16:43:30",
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 190813,
       "name": "Mary Lee",
       "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "added_at": "2024-04-09 16:43:30",
+      "album": {
+        "name": "A La Caza",
+        "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "La \u00c9tica",
+      "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
-    },
-    {
-      "added_at": "2024-04-09 16:43:30",
-      "album": {
         "name": "Se Abre el Tel\u00f3n",
         "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 225560,
       "name": "Muchacha de los Ojos Tristes",
       "url": "https://open.spotify.com/track/04YgriwmHLTTFvTbv3deyA"
+    },
+    {
+      "added_at": "2024-04-09 16:43:30",
+      "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "Mi Caballito",
-        "url": "https://open.spotify.com/album/0MaBEYKQsMkSLlMI7aXNJ2"
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N"
       },
       "artists": [
         {
           "name": "Los Vendavales de Adan Melendez",
           "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 227514,
-      "name": "Mi Caballito",
-      "url": "https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc"
+      "duration_ms": 234666,
+      "name": "Cortinas Guindas",
+      "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
     },
     {
       "added_at": "2024-04-09 16:43:30",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2024-04-09 16:43:30",
       "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N"
+        "name": "Mi Caballito",
+        "url": "https://open.spotify.com/album/0MaBEYKQsMkSLlMI7aXNJ2"
       },
       "artists": [
         {
           "name": "Los Vendavales de Adan Melendez",
           "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Cortinas Guindas",
-      "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
+      "duration_ms": 227514,
+      "name": "Mi Caballito",
+      "url": "https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc"
     },
     {
       "added_at": "2024-04-09 16:43:30",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 71163,
+  "description": "This is Fernanda Brum. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 71042,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGNjZjM4YzdlY2MyMWE4ZTU4NjNhYjRiY2IzNmVlNWE5",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGY4YmUxODM2NjlkZmNlZGQwMTRiMzBkMGJiMDk4OTAy",
   "tracks": [
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 416194,
+      "name": "Jesus, Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador",
         "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 416194,
-      "name": "Jesus, Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
     },
     {
       "added_at": null,
@@ -1119,8 +1119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+        "name": "\u00c9s Real Pra Mim",
+        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 267633,
-      "name": "Peniel",
-      "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
+      "duration_ms": 334413,
+      "name": "\u00c9s Real pra Mim",
+      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

@@ -512,10 +512,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 135132,
       "name": "leave it",
       "url": "https://open.spotify.com/track/0eJNz2dntjRD3GtmP6o1zY"
+    },
+    {
+      "album": {
+        "name": "reset",
+        "url": "https://open.spotify.com/album/3UkUawswBSR2ZVUW0Bv16r"
+      },
+      "artists": [
+        {
+          "name": "Shanae",
+          "url": "https://open.spotify.com/artist/6DThBRy7oFjMSWQyQoKY9p"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135132,
+      "name": "leave it",
+      "url": "https://open.spotify.com/track/72j4egcE7HVYCTRzPCrMIq"
     },
     {
       "album": {

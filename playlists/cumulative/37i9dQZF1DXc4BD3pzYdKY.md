@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:4c6lhwoOrmgNWvl0GxHlW1">Tedashii</a>
 
-996 songs - 2 day 1 hr 3 min
+997 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [3PM](https://open.spotify.com/track/5TIMRMZz1BMkv3Gfvbu5qM) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV), [Mission](https://open.spotify.com/artist/156BcMQsGhVCchyqBlo3Iy), [Muhanjii](https://open.spotify.com/artist/5aZiJHoMX722eBfLFnOwGm) | [Wish I Knew You](https://open.spotify.com/album/5qjFzWRElBEiP2NgRm35OA) | 3:43 | 2022-02-27 | 2022-04-29 |
 | [40](https://open.spotify.com/track/5qEj6mzlC6st46bNxmX5LI) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [40](https://open.spotify.com/album/46DsVm72pfz9nLW3BgCUqF) | 2:44 | 2023-12-15 | 2024-02-10 |
 | [40 Bars of Yeshua](https://open.spotify.com/track/2wXbifmrPoPHfRziRb6VTL) | [J\-Blev](https://open.spotify.com/artist/3si6HOy8PCkV1KFXPDBbVC), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj) | [40 Bars of Yeshua](https://open.spotify.com/album/0xFYLzoKRngXaYH7KvDIW8) | 2:19 | 2024-02-23 | 2024-03-19 |
-| [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 | 2024-03-15 |  |
+| [4am](https://open.spotify.com/track/0Yfa0j7bW7KsUaxtqTjdNd) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [4am](https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6) | 3:17 | 2024-03-15 | 2024-04-21 |
 | [6:41PM](https://open.spotify.com/track/0QHQXfQJWYHNqiCAerKsVY) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [6:41PM](https://open.spotify.com/album/3vJyEXyyULmw8gupmsV58o) | 2:46 | 2024-03-15 | 2024-03-26 |
 | [9 to 5](https://open.spotify.com/track/32tHrjigGTtQ5pRsUb2Sbv) | [Ace Clark](https://open.spotify.com/artist/58wHxcTku7Rc4e4DGfT99h), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [9 to 5](https://open.spotify.com/album/6IU0brW3oS3zYwrUUruFIC) | 2:50 | 2024-01-05 | 2024-02-24 |
 | [97](https://open.spotify.com/track/3Wy25k1tXhCJ7HVOItXief) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [97](https://open.spotify.com/album/4M0bzRbUTj6CFzE7zPgJtM) | 2:55 | 2022-02-04 | 2022-08-07 |
@@ -288,6 +288,7 @@
 | [Firestick \(feat\. Parris Chariz\)](https://open.spotify.com/track/3w9dvOygKRnYSTd0ungAN4) | [Dj Em D](https://open.spotify.com/artist/2mMbRzugGWUXcyePyzTxK0), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [Firestick \(feat\. Parris Chariz\)](https://open.spotify.com/album/66sohgXiWHo8DkTsqegJiu) | 2:56 | 2021-12-11 | 2022-02-04 |
 | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [First Of Many \(feat\. George.Rose\)](https://open.spotify.com/album/0HVwrQkPvA6sjjC9TDNoVI) | 2:19 | 2021-12-11 | 2022-02-02 |
 | [Fo' Rilly Flow](https://open.spotify.com/track/0h9O7fUWZFuVZLbec9f1Qz) | [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [Marc Stevens](https://open.spotify.com/artist/1fmn2V2H1bqmwk9SCdnuCd), [Rapzilla](https://open.spotify.com/artist/2fWSzxY0pvctdhX3Vk2Fav) | [Fo' Rilly Flow](https://open.spotify.com/album/4NYHAo56V6kokxfU2w80VF) | 2:54 | 2021-12-11 | 2022-04-29 |
+| [Focus](https://open.spotify.com/track/2MAnU3hCcVavku3qHz5v42) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Focus](https://open.spotify.com/album/0omB6BRNkl9RtKJ7zoNd2E) | 3:29 | 2024-04-05 |  |
 | [FOCUS](https://open.spotify.com/track/07yw8zM7JYRXTJmJ3Qm3wQ) | [Prince Von](https://open.spotify.com/artist/0O0xVzL5CCE9OjYbDChRE5), [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh) | [FOCUS](https://open.spotify.com/album/3yW2C4eWLfphNLPMTbs53w) | 1:54 | 2022-05-28 | 2022-09-12 |
 | [Follow](https://open.spotify.com/track/3lUCzqwEQ7MxFzdNeoG50Q) | [seni.](https://open.spotify.com/artist/2bqfs6dK8Ma41RJzAKJrFT) | [Follow](https://open.spotify.com/album/2CBcbZobkMGbUCRYKsKjmQ) | 2:45 | 2022-04-29 | 2022-07-29 |
 | [Foolproof](https://open.spotify.com/track/6mdFd07gXHAfZgB6tPrdj6) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Foolproof](https://open.spotify.com/album/5nNStD9FgEx900R8WjFYa1) | 2:35 | 2021-12-11 | 2022-01-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,559 likes - 1,192 songs - 3 day 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,568 likes - 1,192 songs - 3 day 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -740,7 +740,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 730 | [Oyoun Houriyat](https://open.spotify.com/track/47K7gI2Q3nYn87abs9p4wt) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 5:15 |
 | 731 | [Mentira \(Chega De Mentira\)](https://open.spotify.com/track/611fDM69jrdLN8bIdFcAIb) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Previsão Do Tempo](https://open.spotify.com/album/4SrPTE9sLJTE8mpeWFUhRL) | 3:43 |
 | 732 | [Cumbia Sabrosa](https://open.spotify.com/track/3MqHR8cuW6DUMC1htOJbT8) | [Climaco Sarmiento](https://open.spotify.com/artist/7M9SeIqdPfOX6sw5cJUSfB) | [Historia Musical de Clímaco Sarmiento](https://open.spotify.com/album/52h4urEINXnhdVXMwC2h8F) | 2:22 |
-| 733 | [Mi Swing Es Tropical](https://open.spotify.com/track/4EehpGBxUO8tOSvttzTucd) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo & The Candela Allstars](https://open.spotify.com/artist/2dThrZVH7JUouCveeAf3su) | [Mi Swing Es Tropical](https://open.spotify.com/album/1aIcyVPbApuoGm65WbqHYP) | 3:53 |
+| 733 | [Mi Swing Es Tropical](https://open.spotify.com/track/4EehpGBxUO8tOSvttzTucd) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Tempo](https://open.spotify.com/artist/4MaWbDKXOd919BOh0S50Uq), [Candela All Stars](https://open.spotify.com/artist/5u8NMl8iMnZU4WjD68j9qq) | [Mi Swing Es Tropical](https://open.spotify.com/album/1aIcyVPbApuoGm65WbqHYP) | 3:53 |
 | 734 | [Timida serenata](https://open.spotify.com/track/0yWAeUs9UxuCE6PWFf7Jai) | [Gloria Christian](https://open.spotify.com/artist/1tGvCnveV3FhhNIjjGEPPI) | [Successi da Sanremo](https://open.spotify.com/album/2WO9YgLUBVKkBCrMhSlKqZ) | 3:03 |
 | 735 | [Pienso en Ti](https://open.spotify.com/track/5MTqGnSwYu60DcBOSmAXka) | [levitation room](https://open.spotify.com/artist/0SVxQVCnJn1BNUMY9ZcRO4) | [Pienso en Ti](https://open.spotify.com/album/7l4bjoSXFSkUVtJZONiosI) | 2:34 |
 | 736 | [My Life](https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n) | [Noriko Miyamoto](https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk), [Isao Suzuki](https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb) | [Push](https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA) | 6:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Wyatt Flores, MacKenzie Porter, Corey Kent and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,887 likes - 68 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,034 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 59 | [Missing Out on Missing You](https://open.spotify.com/track/3BbtG5tgsbqIjbXy3iZ7X4) | [Whelan Stone](https://open.spotify.com/artist/2BpNHVNRV8JeNrfJGt1fFW) | [Missing Out on Missing You](https://open.spotify.com/album/5HUzwQuXTo8IiwesqZ0WTG) | 2:55 |
 | 60 | [Victoria](https://open.spotify.com/track/2igUDEPtV1IOPvrk2Y2D5v) | [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ) | [Victoria](https://open.spotify.com/album/59gSQHgNiusze5CfLIQOcF) | 4:08 |
 | 61 | [Cookin' Up Lovin'](https://open.spotify.com/track/29RhRYKkaHLcWj3sG7kePR) | [Twitty and Lynn](https://open.spotify.com/artist/404n9bGBIoRJ0QAhOEMLqV) | [Cookin' Up Lovin'](https://open.spotify.com/album/3uAjzf9DYvbhNkd8npVqzN) | 2:50 |
-| 62 | [Goodbye Trouble](https://open.spotify.com/track/5jcMIkw7HBD02Z3oI3Fbjo) | [Emmett Jerome](https://open.spotify.com/artist/1fF9mLNp3982Fm4gFKmssm) | [Goodbye Trouble](https://open.spotify.com/album/1BxhcoV21AWpz404R7odYt) | 3:00 |
+| 62 | [Goodbye Trouble](https://open.spotify.com/track/5jcMIkw7HBD02Z3oI3Fbjo) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Goodbye Trouble](https://open.spotify.com/album/1BxhcoV21AWpz404R7odYt) | 3:00 |
 | 63 | [Carnival Heart \- from Cirque du Soleil Songblazers](https://open.spotify.com/track/5HQFDeeNB44pUpESzL5G5P) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Carnival Heart \(from Cirque du Soleil Songblazers\)](https://open.spotify.com/album/6gQHVcUxWbNBHMiTms8MCE) | 4:32 |
 | 64 | [Hot Damn](https://open.spotify.com/track/5jMd3dwo8R71RnDT3VqhDE) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Hot Damn](https://open.spotify.com/album/4SCk6HbreSMqHp6nEGHcNb) | 2:20 |
 | 65 | [Bottom Shelf](https://open.spotify.com/track/3Odlk0FTCzoM02DAk0qipD) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Bottom Shelf](https://open.spotify.com/album/6hWI8xD3T8iwiuDzvZZJoE) | 2:49 |

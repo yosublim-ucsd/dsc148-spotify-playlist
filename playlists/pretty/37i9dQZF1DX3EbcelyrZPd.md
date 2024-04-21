@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Platform
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,971 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,017 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 6 | [Hakuna Matata](https://open.spotify.com/track/1lenhwtsu7WRv847HumXE0) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Hakuna Matata](https://open.spotify.com/album/5wy5yT8ayAF7IsAB3DHbJt) | 3:00 |
 | 7 | [BADO](https://open.spotify.com/track/5weEvxkYrCYyNSsPLOg8Qa) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [BADO](https://open.spotify.com/album/4sQnOszPjEvuKLlivYIPOx) | 4:33 |
 | 8 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 |
-| 9 | [Sacrifice](https://open.spotify.com/track/3PHxramNrA3dkxziJzaRXd) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Sacrifice](https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG) | 3:01 |
+| 9 | [Sacrifice](https://open.spotify.com/track/3PHxramNrA3dkxziJzaRXd) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Sacrifice](https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG) | 3:20 |
 | 10 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 |
 | 11 | [Bila Doo](https://open.spotify.com/track/4gPdbGzIDoDhxDl6HM1sbK) | [Fari Athman](https://open.spotify.com/artist/7iPhp4msnqZazxIzKJ3Ljf) | [Bila Doo](https://open.spotify.com/album/0QXt0G5pXXPuKQiUX5kg17) | 2:46 |
 | 12 | [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 |

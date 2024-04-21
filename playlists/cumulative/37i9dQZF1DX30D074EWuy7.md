@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Paolo Fresu
 
-481 songs - 1 day 12 hr 24 min
+482 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Klondike](https://open.spotify.com/track/6QQSVWQGN5d1RMamNIo0xw) | [Francesco Fiorenzani](https://open.spotify.com/artist/7lLmqkYrMtbWGobA9hscYI), [Francesco Ponticelli](https://open.spotify.com/artist/4klbybHadQeqyAjyVFm3Gn), [Andrea Beninati](https://open.spotify.com/artist/3GPG102l9Kh6D9jJlBrv9K) | [Klondike](https://open.spotify.com/album/4ygvusk28XppKbqf6xSEq6) | 3:53 | 2023-09-17 | 2023-12-06 |
 | [Ku](https://open.spotify.com/track/35Lf2OYrSXe4Dquhd87Djh) | [LNDFK](https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4) | [Kuni](https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx) | 4:35 | 2022-09-30 | 2022-11-03 |
 | [L'abbattimento dello Zeppelin](https://open.spotify.com/track/1GjDlcEjoOCAuGuZC9qXTO) | [Area](https://open.spotify.com/artist/6o2PxnpsrQ352kwYlEwjvR) | [Anto / logicamente](https://open.spotify.com/album/5iYzkZuljQ0uO0cYGt5z9m) | 6:53 | 2023-06-04 | 2023-09-18 |
+| [L'AMANTE BUGIARDO](https://open.spotify.com/track/5Ek1lMjwxJ24Bb1vBAbPqD) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Uri Caine](https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA) | [L'AMANTE BUGIARDO](https://open.spotify.com/album/0RPLTYJMUU6fMKpwRKnzmv) | 4:16 | 2024-04-19 |  |
 | [L'amie d'un italien](https://open.spotify.com/track/4GsTdJhAmlfEJ8MgjsYjVg) | [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Happy Mistake \(International Deluxe Edition\)](https://open.spotify.com/album/7dUWUdY9Rn07Uk46wBwEOC) | 3:10 | 2022-08-31 | 2022-10-01 |
 | [L'Amore, Forse..\. \(Ao Amigo Tom\) \- 2001 Remaster](https://open.spotify.com/track/3H3JYGpcMIWzbIbweeRzSC) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Altro](https://open.spotify.com/album/61htRVQVo0f4E9Gm9X4do7) | 2:44 | 2022-09-30 | 2022-11-03 |
 | [L'Angelo](https://open.spotify.com/track/4xxlpdRKbCdPjpL6InlKtK) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Barbara Casini](https://open.spotify.com/artist/2tRMmF0qRK7ZUogtxuy8cu) | [Vento](https://open.spotify.com/album/7r5dMP6FDkqqDWMvmCaqsH) | 3:50 | 2022-08-31 | 2022-10-01 |
@@ -304,7 +305,7 @@
 | [Modulus](https://open.spotify.com/track/4kPOrrzzWHaj5Oxm7SHsfJ) | [Enrico Zanisi](https://open.spotify.com/artist/4KDUJ3lepnrI1GSafqwpAK), [Quatuor IXI](https://open.spotify.com/artist/7fgALsTVEOs6dlcDw0tU3W), [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Michele Rabbia](https://open.spotify.com/artist/0PrEXi9LcYr5j82OZLNyNA) | [Blend Pages](https://open.spotify.com/album/5skV1RyI4YQSPDNgbJLIIr) | 4:20 | 2023-01-30 | 2023-06-05 |
 | [Moon River](https://open.spotify.com/track/2ccPcw1TH1mc4YgLen3ab7) | [Federico Bosio](https://open.spotify.com/artist/4Abr4eBiKbgX3KSvD1t1M1) | [Blackbird](https://open.spotify.com/album/6YGuRFwhLbLC82kXpz4TpJ) | 4:32 | 2023-01-30 | 2023-06-05 |
 | [Mortara \- una catena di gesti appiattiti e monodimensionali](https://open.spotify.com/track/3Jble5n9rqewqQi2LWqaGz) | [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Oportet 475](https://open.spotify.com/album/3fdEVibDOZlEGVIBBs4YxK) | 0:43 | 2023-09-17 | 2023-12-06 |
-| [Movimento Astratto](https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/6vpTptHhCC583XUoazczZt) | 3:42 | 2022-11-02 |  |
+| [Movimento Astratto](https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Cosmica Italiana](https://open.spotify.com/album/6vpTptHhCC583XUoazczZt) | 3:42 | 2022-11-02 | 2024-04-21 |
 | [Moving On](https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Liquid Portraits](https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS) | 4:09 | 2022-09-30 | 2022-11-03 |
 | [Musica e fumo \(featuring Colle Der Fomento\)](https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn) | [Loop Therapy](https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN), [Colle Der Fomento](https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u) | [Opera prima \(Including Ice One Remix\)](https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf) | 4:38 | 2022-11-02 |  |
 | [My Abstract Monkey](https://open.spotify.com/track/151H6RkyTGT8Ly2rXqk9hI) | [Daykoda](https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0), [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [PHYSIS](https://open.spotify.com/album/54jguMfvEG7k8XuZaJR43E) | 3:23 | 2022-11-02 | 2024-04-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968 likes - 41 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 983 likes - 42 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 29 | [Thirteen](https://open.spotify.com/track/4pxLVJTgFKw8TcDMvvFPWt) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [Janome](https://open.spotify.com/album/0viwS3LdMWPYmwxM2KaSWo) | 3:33 |
 | 30 | [回転・天使](https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [時間](https://open.spotify.com/album/7hhhZ2apbHb5XZj2sXY2FU) | 5:40 |
 | 31 | [Rondo](https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [20,Stop it.](https://open.spotify.com/album/7xrqq730qyI2KI8wZIhtU3) | 2:21 |
-| 32 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
-| 33 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
-| 34 | [Pale](https://open.spotify.com/track/25z9SvL5xhIZqVJWW0xJuz) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Human](https://open.spotify.com/album/4giltl7HGSeClaFSuiHATQ) | 5:21 |
-| 35 | [I Said](https://open.spotify.com/track/72bR8Uy5Ou5QVUu1JMcIEH) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Holden](https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw) | 4:40 |
-| 36 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
-| 37 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
-| 38 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
-| 39 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 40 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 41 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
+| 32 | [Tokyo](https://open.spotify.com/track/60To99qb1JAoQ0F6iclxQn) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [New generation](https://open.spotify.com/album/1V62xDo8GwQEK6WX7Z2Rcz) | 4:45 |
+| 33 | [Showtime](https://open.spotify.com/track/5oRsF5BicGgALJBYYnAIq6) | [DATS](https://open.spotify.com/artist/7o1cIignks0pUFY0Pe87oz) | [School](https://open.spotify.com/album/2rAxqAo85FUQwKKLotnqJw) | 4:16 |
+| 34 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 |
+| 35 | [Pale](https://open.spotify.com/track/25z9SvL5xhIZqVJWW0xJuz) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Human](https://open.spotify.com/album/4giltl7HGSeClaFSuiHATQ) | 5:21 |
+| 36 | [I Said](https://open.spotify.com/track/72bR8Uy5Ou5QVUu1JMcIEH) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Holden](https://open.spotify.com/album/0AGLZTnnYVMAOHFl7XMXkw) | 4:40 |
+| 37 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
+| 38 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
+| 39 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
+| 40 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
+| 41 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 42 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
 
-Snapshot ID: `MTcxMzUzODgwMCwwMDAwMDAwMDRjNWVmYjM2M2Y5YzI1ODQ4NDE3ZjdlYWIxYjk4ZDdj`
+Snapshot ID: `MTcxMzYyNTIwMCwwMDAwMDAwMDJiNjBjMzlhMDA1NTcyNjQzNjExNDMyYjNhMzI2NjQw`

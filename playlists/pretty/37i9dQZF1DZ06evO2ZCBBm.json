@@ -1,13 +1,37 @@
 {
-  "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 43026,
+  "description": "This Is The Used. Los temas esenciales, todos en una lista.",
+  "num_followers": 43025,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDhiMmUwOWY3M2ZlMTdkOTVhZDNmYjkzYTMyYmQ0ZTMz",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGRhN2Q2YmEzZjViYTQzYmYwZWUxYmI1YzA4NWYzZTY0",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
+        "url": "https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
+      "url": "https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n"
+    },
     {
       "added_at": null,
       "album": {
@@ -231,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
       },
       "artists": [
         {
@@ -240,9 +264,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": null,
@@ -263,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
       "artists": [
         {
@@ -272,9 +296,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": null,

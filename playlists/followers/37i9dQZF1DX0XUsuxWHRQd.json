@@ -1,7 +1,7 @@
 {
-  "2024-04-20": 15874126,
+  "2024-04-21": 15848164,
   "date_first_scraped": "2019-05-26",
-  "description": "New music by Nicki Minaj, Future, Metro Boomin and J. Cole.",
+  "description": "New music from Drake, Nicki Minaj, Future and Metro Boomin.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -27221,7 +27221,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 155373,
       "name": "PISS",
       "url": "https://open.spotify.com/track/7oZ3BHE9ZzWS3DpjD9RBOl"
@@ -28553,6 +28553,24 @@
       "duration_ms": 210142,
       "name": "Push It (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1s3etXt5RKVEuC14ugwmHy"
+    },
+    {
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "album": {

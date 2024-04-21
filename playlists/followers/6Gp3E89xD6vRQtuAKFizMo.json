@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 44293,
+  "2024-04-21": 44270,
   "date_first_scraped": "2022-06-10",
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
   "name": "Dim Mak New Releases",
@@ -261,6 +261,24 @@
       "duration_ms": 195200,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X"
+    },
+    {
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121959,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
     },
     {
       "album": {
@@ -789,6 +807,24 @@
       "duration_ms": 213517,
       "name": "Bussin Bussin (feat. JV Rhymes)",
       "url": "https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE"
+    },
+    {
+      "album": {
+        "name": "Future Unfold",
+        "url": "https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/4aN8bSBmzrsiKJYkEOU07w"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 32752,
+  "2024-04-21": 32758,
   "date_first_scraped": "2022-08-06",
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
   "name": "This Is Buddy Guy",
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 139626,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"

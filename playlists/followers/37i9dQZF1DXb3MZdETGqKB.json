@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 147667,
+  "2024-04-21": 147579,
   "date_first_scraped": "2021-12-21",
   "description": "All new, all blues. Cover: Gary Clark Jr.",
   "name": "Nu-Blue",
@@ -3459,6 +3459,28 @@
       "duration_ms": 165680,
       "name": "Practice What You Preach",
       "url": "https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA"
+    },
+    {
+      "album": {
+        "name": "Queen Of The Road",
+        "url": "https://open.spotify.com/album/0dnQw3nGeIg2ZOKiA8cVhA"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        },
+        {
+          "name": "Sophia Urista",
+          "url": "https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225068,
+      "name": "Queen Of The Road",
+      "url": "https://open.spotify.com/track/0Z941Yv9mo0BQIPdVCT1B0"
     },
     {
       "album": {

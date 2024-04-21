@@ -2,7 +2,7 @@
 
 ### [This Is AFI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0CFC9y)
 
-> This is AFI\. The essential tracks, all in one playlist.
+> This Is AFI\. Todas as faixas essenciais numa única playlist.
 
 71 songs - 3 hr 30 min
 

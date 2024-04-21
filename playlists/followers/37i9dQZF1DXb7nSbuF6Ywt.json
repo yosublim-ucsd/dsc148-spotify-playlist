@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 280039,
+  "2024-04-21": 280036,
   "date_first_scraped": "2023-04-02",
   "description": "A solid mix of favourites for any time, any place.",
   "name": "Even Flow",
@@ -183,7 +183,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-10",
+      "date_removed": null,
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"

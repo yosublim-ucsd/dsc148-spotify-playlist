@@ -4,7 +4,7 @@
 
 > This is Qlank\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 41 min
+78 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [DGAF](https://open.spotify.com/track/06Z345gYT6n333z9XYXsiY) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [New Times EP](https://open.spotify.com/album/4eRgsarMzUN0FQX1FWzwl0) | 4:17 | 2024-01-03 | 2024-04-19 |
 | [Dimensions](https://open.spotify.com/track/6HIoWv3bdIih39MoMwop4z) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dimensions](https://open.spotify.com/album/5ifn2Tcd0wWwzeKJXxpxLM) | 3:52 | 2024-01-24 | 2024-03-23 |
 | [Dip](https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:21 | 2024-01-07 | 2024-01-09 |
+| [Dollar Stack](https://open.spotify.com/track/2KE6SIDlHjWBdKrnfZ3e9B) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Dollar Stack](https://open.spotify.com/album/23jIIMZiOL1ajReCPEYvMe) | 2:31 | 2024-04-21 |  |
 | [Don't Stop](https://open.spotify.com/track/3SJNXg8LaOLTbIbSXofFcM) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Dance Again](https://open.spotify.com/album/2U9dJGCEwVPQ10Mv48XTi6) | 3:54 | 2024-01-03 |  |
 | [Drip](https://open.spotify.com/track/67fa0QW9YqkasFEzzDRf04) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Toolbox EP](https://open.spotify.com/album/2F8YY6Wq2c8qp8JJ0R8kae) | 3:50 | 2024-01-27 | 2024-04-20 |
 | [Drunk](https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj) | [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Weird Times](https://open.spotify.com/album/0017tXr04i2yUFverqdgEc) | 4:03 | 2024-01-03 |  |

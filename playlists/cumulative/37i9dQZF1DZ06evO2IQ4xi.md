@@ -2,7 +2,7 @@
 
 ### [This Is Doechii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IQ4xi)
 
-> This is Doechii\. The essential tracks, all in one playlist.
+> This Is Doechii\. Los temas esenciales, todos en una lista.
 
 40 songs - 1 hr 55 min
 

@@ -2,9 +2,9 @@
 
 ### [This Is The Used](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZCBBm)
 
-> This is The Used\. The essential tracks, all in one playlist.
+> This Is The Used\. Los temas esenciales, todos en una lista.
 
-88 songs - 4 hr 47 min
+89 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,5 +96,6 @@
 | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [VAMPIRE'S DIET \(with Bert McCracken of The Used\)](https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ) | 2:28 | 2022-01-17 | 2023-05-21 |
 | [With Me Tonight](https://open.spotify.com/track/4oTxl0vSAvtBkX1v8jCrhn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:06 | 2022-02-21 | 2022-04-20 |
 | [Wow, I Hate This Song](https://open.spotify.com/track/552BP8WKoVwwnmwbm28h4i) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:56 | 2022-01-17 | 2023-06-04 |
+| [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/track/3x4mzoX77tshwD7bKNxw5n) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Bert McCracken](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [You’re So Ugly When You Cry \(feat\. Bert of The Used\)](https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u) | 3:23 | 2024-04-21 |  |
 
 \*This playlist was first scraped on 2022-01-18. Prior content cannot be recovered.

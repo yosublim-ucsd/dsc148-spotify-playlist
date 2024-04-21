@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 20240,
+  "num_followers": 20246,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "MjI0OSxhODhiNGFjZWZjMGQyOWM1MWQ5ODA5Zjg5ZjA0MzcwZTIxYTM2NzEw",
+  "snapshot_id": "MjI1NSwxYzFlY2FmYThiZDA1NGUzODgwMDQxZWJhNjc4NmU1ODY3ODAwMGYz",
   "tracks": [
     {
       "added_at": "2024-04-19 18:55:37",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
+        "name": "Deadweight",
+        "url": "https://open.spotify.com/album/18uWjwoHK5esXVpyEpUJMM"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1LVQWik5SWl7Sqd9achOuX"
+    },
+    {
+      "added_at": "2024-04-19 18:55:37",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/5pLIIiPDpI4dobUqDWNbNH"
       },
@@ -135,6 +155,22 @@
       "duration_ms": 219653,
       "name": "Set The Roof (Flux Pavilion Remix)",
       "url": "https://open.spotify.com/track/7AqsAzxoevATD63LEoeDoB"
+    },
+    {
+      "added_at": "2024-04-19 18:55:37",
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/6WZDjTXxLKKviWuAgd71xv"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 250275,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/5brqco4m8toamwQEAFKLrw"
     },
     {
       "added_at": "2024-04-19 18:55:37",
@@ -199,26 +235,6 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
-        "name": "Deadweight",
-        "url": "https://open.spotify.com/album/18uWjwoHK5esXVpyEpUJMM"
-      },
-      "artists": [
-        {
-          "name": "JAWNS",
-          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Deadweight",
-      "url": "https://open.spotify.com/track/1LVQWik5SWl7Sqd9achOuX"
-    },
-    {
-      "added_at": "2024-04-19 18:55:37",
-      "album": {
         "name": "Danger (REAPER Remix)",
         "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
       },
@@ -279,6 +295,22 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 121959,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
+    },
+    {
+      "added_at": "2024-04-19 18:55:37",
+      "album": {
         "name": "Outsiders",
         "url": "https://open.spotify.com/album/5QCVd2Rv44wEB3Y7VAwNC2"
       },
@@ -299,34 +331,34 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
-        "name": "Simplicity",
-        "url": "https://open.spotify.com/album/6WZDjTXxLKKviWuAgd71xv"
+        "name": "movelikethis",
+        "url": "https://open.spotify.com/album/6XSfdiAub5nmcAJOpaXyHt"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
         }
       ],
-      "duration_ms": 250275,
-      "name": "Killa",
-      "url": "https://open.spotify.com/track/5brqco4m8toamwQEAFKLrw"
+      "duration_ms": 213428,
+      "name": "movelikethis",
+      "url": "https://open.spotify.com/track/45e1BYbwh9VF93xUDbHiVs"
     },
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/1y013pTi8ZVnpNcyftFmxp"
       },
       "artists": [
         {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 121959,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
+      "duration_ms": 155537,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/5CS5NogYsQ2p0Bq5tvgzt2"
     },
     {
       "added_at": "2024-04-19 18:55:37",
@@ -411,22 +443,6 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
-        "name": "movelikethis",
-        "url": "https://open.spotify.com/album/6XSfdiAub5nmcAJOpaXyHt"
-      },
-      "artists": [
-        {
-          "name": "Saka",
-          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "movelikethis",
-      "url": "https://open.spotify.com/track/45e1BYbwh9VF93xUDbHiVs"
-    },
-    {
-      "added_at": "2024-04-19 18:55:37",
-      "album": {
         "name": "Sisyphus Remixes Pt. 3",
         "url": "https://open.spotify.com/album/6DeYHvEa3ALcBXwbY04LYK"
       },
@@ -443,6 +459,26 @@
       "duration_ms": 221793,
       "name": "Flesh - SLUMBERJACK Remix",
       "url": "https://open.spotify.com/track/1zS8U60CnsoUggcuu1UWas"
+    },
+    {
+      "added_at": "2024-04-19 18:55:37",
+      "album": {
+        "name": "Another Night In London (feat. Gbnga)",
+        "url": "https://open.spotify.com/album/1fDyNqivNgqnmXvIlKsTWb"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        },
+        {
+          "name": "Gbnga",
+          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+        }
+      ],
+      "duration_ms": 158978,
+      "name": "Another Night In London (feat. Gbnga)",
+      "url": "https://open.spotify.com/track/1knnCPLEuUrwNwgJiQJ2hY"
     },
     {
       "added_at": "2024-04-19 18:55:37",
@@ -503,22 +539,6 @@
     {
       "added_at": "2024-04-19 18:55:37",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/1y013pTi8ZVnpNcyftFmxp"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 155537,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/5CS5NogYsQ2p0Bq5tvgzt2"
-    },
-    {
-      "added_at": "2024-04-19 18:55:37",
-      "album": {
         "name": "Lights On",
         "url": "https://open.spotify.com/album/4xKCgxgUabmRdqbbfEHutp"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 219515,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/3vaicHsditfwRXvezuFB3S"
-    },
-    {
-      "added_at": "2024-04-19 18:55:37",
-      "album": {
-        "name": "Another Night In London (feat. Gbnga)",
-        "url": "https://open.spotify.com/album/1fDyNqivNgqnmXvIlKsTWb"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        },
-        {
-          "name": "Gbnga",
-          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
-        }
-      ],
-      "duration_ms": 158978,
-      "name": "Another Night In London (feat. Gbnga)",
-      "url": "https://open.spotify.com/track/1knnCPLEuUrwNwgJiQJ2hY"
     },
     {
       "added_at": "2024-04-19 18:55:37",

@@ -2,7 +2,7 @@
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This Is Saweetie\. Kaikki olennaiset kappaleet yhdessä soittolistassa.
+> This Is Saweetie\. Los temas esenciales, todos en una lista.
 
 77 songs - 3 hr 37 min
 

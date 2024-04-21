@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > maybe it does all come back around\. LAUNDRY DAY is back 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,144,851 likes - 122 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,144,501 likes - 122 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

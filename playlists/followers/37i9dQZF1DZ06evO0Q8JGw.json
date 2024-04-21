@@ -1,7 +1,7 @@
 {
-  "2024-04-20": 742863,
+  "2024-04-21": 742862,
   "date_first_scraped": "2024-04-19",
-  "description": "This is Pearl Jam. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
+  "description": "This Is Pearl Jam. Los temas esenciales, todos en una lista.",
   "name": "This Is Pearl Jam",
   "tracks": [
     {
@@ -903,6 +903,24 @@
       "duration_ms": 206586,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "album": {

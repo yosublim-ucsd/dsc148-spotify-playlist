@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-49 songs - 3 hr 19 min
+50 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [teenage club](https://open.spotify.com/track/4ExheCEfCm9TNBbgGYQFz3) | [gato](https://open.spotify.com/artist/4BFHLUOkM2GdeJXy0K0WiN) | [U+H](https://open.spotify.com/album/3o2UEIU10zoYfNmwFCnaD7) | 2:50 | 2024-04-01 |  |
 | [THE DAY](https://open.spotify.com/track/28xWca7sFfzvl5WyGMDR6B) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [MAD CITY](https://open.spotify.com/album/6D8rWuN2N8qVtPJ2SlffX4) | 3:36 | 2024-04-01 |  |
 | [Thirteen](https://open.spotify.com/track/4pxLVJTgFKw8TcDMvvFPWt) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [Janome](https://open.spotify.com/album/0viwS3LdMWPYmwxM2KaSWo) | 3:33 | 2024-04-19 |  |
+| [Tokyo](https://open.spotify.com/track/60To99qb1JAoQ0F6iclxQn) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [New generation](https://open.spotify.com/album/1V62xDo8GwQEK6WX7Z2Rcz) | 4:45 | 2024-04-20 |  |
 | [ひとりの夜を抜け](https://open.spotify.com/track/0jKFkKHQWNCvjoBUG751Oq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [HUG](https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ) | 3:01 | 2024-04-01 | 2024-04-19 |
 | [ひとりの夜を抜け](https://open.spotify.com/track/2UeUOkNWgb1DkVUZcACduO) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [ひとりの夜を抜け](https://open.spotify.com/album/3BFVT73jpTPm86G3tPtzVj) | 3:01 | 2024-04-18 |  |
 | [アンビバレント](https://open.spotify.com/track/5WDKR3hzbHiXWgbMPyOcLk) | [Keyakizaka46](https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil) | [アンビバレント \(Special Edition\)](https://open.spotify.com/album/1zY5V7Y2Y0n0tbN3qSBPet) | 4:33 | 2024-04-08 |  |

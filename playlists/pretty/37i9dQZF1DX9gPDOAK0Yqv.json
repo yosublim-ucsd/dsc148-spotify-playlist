@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno, featuring Anyma",
-  "num_followers": 107612,
+  "num_followers": 107739,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
       },
       "artists": [
         {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+      "duration_ms": 246048,
+      "name": "Remission",
+      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -791,22 +795,34 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Remission",
-        "url": "https://open.spotify.com/album/4ZqHSnu1EjWpygl20YmGm2"
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 246048,
-      "name": "Remission",
-      "url": "https://open.spotify.com/track/2Ue68qfEPdUtVVgrjOKE05"
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -827,22 +843,6 @@
       "duration_ms": 245624,
       "name": "Yumi - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Captain Nemo",
-        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Captain Nemo - Edit",
-      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "The Future Is Unknown",
-        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "Delhia De France",
-          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "The Future Is Unknown",
-      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
         "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 180952,
       "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "The Future Is Unknown",
+        "url": "https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "The Future Is Unknown",
+      "url": "https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Seraph",
+        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Seraph",
+      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1159,42 +1175,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Seraph",
-        "url": "https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M"
-      },
-      "artists": [
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Seraph",
-      "url": "https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "The Point Of Living (Omnya Remix)",
-        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Point Of Living (Omnya Remix)",
-      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "The Point Of Living (Omnya Remix)",
+        "url": "https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Point Of Living (Omnya Remix)",
+      "url": "https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 206410,
-      "name": "The Switch",
-      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Welcome The Night",
         "url": "https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 198407,
       "name": "Welcome The Night",
       "url": "https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 206410,
+      "name": "The Switch",
+      "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "A Lot Like Heaven (Space Motion Remix)",
         "url": "https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7"
       },
@@ -1423,18 +1439,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+        "name": "The Theory EP",
+        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
       },
       "artists": [
         {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
         }
       ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
+      "duration_ms": 286451,
+      "name": "Alone ft. braev",
+      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1459,26 +1479,6 @@
       "duration_ms": 215040,
       "name": "Greece 2000 - KREAM Remix",
       "url": "https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "The Theory EP",
-        "url": "https://open.spotify.com/album/0kV5GMyTCu0SEV60COyDLr"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 286451,
-      "name": "Alone ft. braev",
-      "url": "https://open.spotify.com/track/3iViCxm3KzCMetwCk60XuN"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 244590,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 244590,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
         "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
@@ -1827,46 +1827,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Kettle's Up (feat. Botan)",
-        "url": "https://open.spotify.com/album/39UprVkF5Swl8mvaCBaurH"
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR"
       },
       "artists": [
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Axelax",
-          "url": "https://open.spotify.com/artist/7wZa9Z4NbFkrkY1OE2yFJ3"
-        },
-        {
-          "name": "Botan",
-          "url": "https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 249756,
-      "name": "Kettle's Up (feat. Botan)",
-      "url": "https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "The Silence",
-        "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 263162,
-      "name": "The Silence",
-      "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+      "duration_ms": 366614,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1891,22 +1863,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Betrayal",
-        "url": "https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 366614,
-      "name": "Betrayal",
-      "url": "https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Devon (Oliver Huntemann Remix)",
         "url": "https://open.spotify.com/album/1lRw2Qay0MuZHxFxkZQeEU"
       },
@@ -1923,6 +1879,50 @@
       "duration_ms": 398268,
       "name": "Devon - Oliver Huntemann Remix",
       "url": "https://open.spotify.com/track/0f7ifN4vXV4z2C52POeDQT"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "The Silence",
+        "url": "https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 263162,
+      "name": "The Silence",
+      "url": "https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Kettle's Up (feat. Botan)",
+        "url": "https://open.spotify.com/album/39UprVkF5Swl8mvaCBaurH"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Axelax",
+          "url": "https://open.spotify.com/artist/7wZa9Z4NbFkrkY1OE2yFJ3"
+        },
+        {
+          "name": "Botan",
+          "url": "https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f"
+        }
+      ],
+      "duration_ms": 249756,
+      "name": "Kettle's Up (feat. Botan)",
+      "url": "https://open.spotify.com/track/7JKuWO9JtGIX5dpUWSJgVj"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 295680,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Enter Machina (widerberg Remix)",
         "url": "https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 198870,
       "name": "Enter Machina - widerberg Remix",
       "url": "https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 295680,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "In Your Eyes (Fideles Remix)",
-        "url": "https://open.spotify.com/album/0jOrwifDjbWed2UJkLXgli"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 358846,
-      "name": "In Your Eyes - Fideles Remix",
-      "url": "https://open.spotify.com/track/2TkjZM2IpnsQp3M0HdZT5M"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Tripchain / Scanalatura",
         "url": "https://open.spotify.com/album/6lpcgj0260dwSF2DEZ33el"
       },
@@ -2247,18 +2227,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
+        "name": "In Your Eyes (Fideles Remix)",
+        "url": "https://open.spotify.com/album/0jOrwifDjbWed2UJkLXgli"
       },
       "artists": [
         {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
         }
       ],
-      "duration_ms": 203155,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+      "duration_ms": 358846,
+      "name": "In Your Eyes - Fideles Remix",
+      "url": "https://open.spotify.com/track/2TkjZM2IpnsQp3M0HdZT5M"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2275,6 +2259,42 @@
       "duration_ms": 236129,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 203155,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "The Pulse Of Machine",
+        "url": "https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "The Pulse Of Machine",
+      "url": "https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2323,26 +2343,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "The Pulse Of Machine",
-        "url": "https://open.spotify.com/album/4oN1LfYW0EY0sF1DKTqgr4"
-      },
-      "artists": [
-        {
-          "name": "Sevenn",
-          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "The Pulse Of Machine",
-      "url": "https://open.spotify.com/track/1cUOfO7FdFwz5U5Jhm4Jwo"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/28pnttupmDIu0TM7sevN0n"
       },
@@ -2359,26 +2359,6 @@
       "duration_ms": 212119,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Criseide",
-        "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
-        }
-      ],
-      "duration_ms": 383562,
-      "name": "Criseide",
-      "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2403,6 +2383,26 @@
       "duration_ms": 194754,
       "name": "Gravity - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/1fAEgL0FxWfNqxVZRHsm20"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Criseide",
+        "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 383562,
+      "name": "Criseide",
+      "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -2439,22 +2439,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Jai",
-        "url": "https://open.spotify.com/album/4VoSGRyNmId6BOgNF6wcEE"
+        "name": "End Of The Beginning",
+        "url": "https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "N1RVAAN",
-          "url": "https://open.spotify.com/artist/1LhuBvyi63MWrNF5aBG9lA"
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
         }
       ],
-      "duration_ms": 339346,
-      "name": "Jai",
-      "url": "https://open.spotify.com/track/0I2SMryhYP1uu2RyGW8Egs"
+      "duration_ms": 220645,
+      "name": "End Of The Beginning",
+      "url": "https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x"
     }
   ],
   "unique_name": "Melodic Techno Elements",

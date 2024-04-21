@@ -2,9 +2,9 @@
 
 ### [This Is Ludmila Ferber](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jluEL)
 
-> This is Ludmila Ferber\. The essential tracks, all in one playlist.
+> This is Ludmila Ferber\. Todos os maiores hits em uma só playlist.
 
-57 songs - 4 hr 52 min
+58 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [A Doçura do Teu Falar](https://open.spotify.com/track/20yEVa5CgZ4rzTPX1tLmBH) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:53 | 2023-07-09 | 2024-02-15 |
 | [A Doçura do Teu Falar](https://open.spotify.com/track/3uOBqGrPcqIlcLFtvsqK7R) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar: O Coração de Quem Adora](https://open.spotify.com/album/2n9IDWleJ5NPsWInxVMyKz) | 5:56 | 2024-02-14 |  |
 | [Aguenta Firme \- Ao Vivo](https://open.spotify.com/track/0NR9d8dB0sT21mIogGTUNj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 5: Coragem \(Ao Vivo\)](https://open.spotify.com/album/18vcxTw8s6ZkvAkU9ulcFP) | 6:08 | 2023-07-09 |  |
-| [Amor de Jesus](https://open.spotify.com/track/1S5eok3rK7wGyHY4SLgEXV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 6 \- Ao Criador dos Céus](https://open.spotify.com/album/4fPIj2XPoLpUxReM197BpK) | 3:07 | 2024-04-19 |  |
+| [Amor de Jesus](https://open.spotify.com/track/1S5eok3rK7wGyHY4SLgEXV) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 6 \- Ao Criador dos Céus](https://open.spotify.com/album/4fPIj2XPoLpUxReM197BpK) | 3:07 | 2024-04-19 | 2024-04-21 |
 | [Andar com Deus](https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 4:03 | 2023-07-09 |  |
+| [Autor da Minha Fé](https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:50 | 2024-04-21 |  |
 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 | 2023-07-09 |  |
 | [Calma \- Ao Vivo](https://open.spotify.com/track/5FiJiqNE9OGXX924PBxDqW) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:33 | 2023-07-09 |  |
 | [Canção do Amigo](https://open.spotify.com/track/3uiy3qcfjRJFwhH68iR74V) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:42 | 2023-07-09 |  |

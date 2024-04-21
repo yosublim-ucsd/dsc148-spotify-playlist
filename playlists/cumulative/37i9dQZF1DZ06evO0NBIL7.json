@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/4rbx06swFc9rEHVZmjjRch"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164049,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/16vbLC2QSm34CsaXDltVbv"
+    },
+    {
+      "album": {
         "name": "Bullet Head",
         "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },

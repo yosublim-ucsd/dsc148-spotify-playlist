@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 157141,
+  "2024-04-21": 157519,
   "date_first_scraped": "2022-03-22",
   "description": "Bien alucin con el electro, perreo y el dembow belico. La nueva ola de la fiesta. Cover: Alex Favela, Yeri Mua, Eugenio Esquivel & Sebastian Esquivel. ",
   "name": "Electro Corridos",
@@ -2733,7 +2733,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 160980,
       "name": "ELECTRO BELICO",
       "url": "https://open.spotify.com/track/2fWnYF2iZOxNeDVmYoCSh2"
@@ -5638,6 +5638,24 @@
     },
     {
       "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+    },
+    {
+      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -6141,7 +6159,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 139463,
       "name": "P.T.A. - Bonus Track",
       "url": "https://open.spotify.com/track/75J6Xk6Pd7pEIjGNIfIxGz"
@@ -9147,6 +9165,28 @@
       "duration_ms": 172245,
       "name": "Tremendo Mujer\u00f3n",
       "url": "https://open.spotify.com/track/25ZKFzKdib5i6dIaHvfjF8"
+    },
+    {
+      "album": {
+        "name": "Triston",
+        "url": "https://open.spotify.com/album/6kBbnx1zqTNc6P1FusPLTA"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172100,
+      "name": "Triston",
+      "url": "https://open.spotify.com/track/299rfDZMpOrAXqSLsPhNde"
     },
     {
       "album": {

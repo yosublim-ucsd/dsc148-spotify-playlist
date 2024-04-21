@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,968 likes - 123 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,962 likes - 123 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 85 | [Blue](https://open.spotify.com/track/0q7JdAn2mQ20GjAIdKqIjX) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Blue](https://open.spotify.com/album/6Sd2Vxt7NeEfS82UYbToqf) | 4:18 |
 | 86 | [You in my arms \(From The Original TV Show "Begin Again Korea"\) \- Live](https://open.spotify.com/track/3dA3EVZKyoeH5RG5esZLhR) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Begin Again Korea Episode.10 \(Original Television Soundtrack\) \[Live\]](https://open.spotify.com/album/2Wy3SFlvm29GzOcbNczLWV) | 5:13 |
 | 87 | [Where We Go?](https://open.spotify.com/track/1TeEUA7ZY4uyZ97iHBn9N6) | [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [태완](https://open.spotify.com/artist/6OK3Lf8Ws6A4UdRw3lMNZo), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [어디 갈래](https://open.spotify.com/album/3JdK31l6qcLrk7Cug2iuM1) | 3:32 |
-| 88 | [Sleepless Night \(feat\. Punch\)](https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [It's alright This is love \(Original Television Soundtrack\) Vol\. 1](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:57 |
+| 88 | [Sleepless Night \(Feat\. Punch\)](https://open.spotify.com/track/06qX0YB7c6ePHglG14TN39) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:57 |
 | 89 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [DAWNDIDIDAWN](https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb) | 3:13 |
 | 90 | [Tiki\-Taka 티격태격 \(Feat\. DPR LIVE\)](https://open.spotify.com/track/2mHOUqoE9d1Iwj5zQWQ1K2) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [From Midnight To Sunrise](https://open.spotify.com/album/43ydwqcOrjHBTun8wOk7i8) | 3:16 |
 | 91 | [One of Those Nights](https://open.spotify.com/track/5eaoYciatDXxcxIoGwc0dh) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:10 |

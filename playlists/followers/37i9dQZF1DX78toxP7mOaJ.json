@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 141702,
+  "2024-04-21": 141718,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh rock from independent artists every Wednesday. Cover: Slow Joy",
   "name": "Fresh Finds Rock ",
@@ -8501,6 +8501,24 @@
       "duration_ms": 369000,
       "name": "Fountainhead",
       "url": "https://open.spotify.com/track/0hdC0qNrHBFdQoXM0skx7v"
+    },
+    {
+      "album": {
+        "name": "Four Leaf Clover",
+        "url": "https://open.spotify.com/album/7CftsuUoHUasICQmRA44xB"
+      },
+      "artists": [
+        {
+          "name": "Color Green",
+          "url": "https://open.spotify.com/artist/42Aj8msFQ4idllOK09Jj8Z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274120,
+      "name": "Four Leaf Clover",
+      "url": "https://open.spotify.com/track/1DcwU4YZNlruivfMakFEJC"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 17,
+  "2024-04-21": 17,
   "date_first_scraped": "2024-01-03",
   "description": "",
   "name": "Work From House",
@@ -17,10 +17,28 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 188316,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg"
+    },
+    {
+      "album": {
+        "name": "Auto Pilot",
+        "url": "https://open.spotify.com/album/4pDaMXTVTnQ72jLvHGl3sQ"
+      },
+      "artists": [
+        {
+          "name": "Marvin Acosta",
+          "url": "https://open.spotify.com/artist/6ZRc6iS2wTTbQhWMctgecW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189623,
+      "name": "Auto Pilot",
+      "url": "https://open.spotify.com/track/7Li4wFTGVGyeuwbhRnVmLF"
     },
     {
       "album": {
@@ -35,7 +53,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 154761,
       "name": "Beats On My Mind",
       "url": "https://open.spotify.com/track/5EVnrmKHCKiZFQo9Lq5gjF"
@@ -53,7 +71,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 176640,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/5tip2VF1DqvqOlrsJrEkBa"
@@ -119,7 +137,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 184761,
       "name": "Bring The Noise",
       "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
@@ -251,7 +269,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 183318,
       "name": "Gas Pedal - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 156666,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/4LhZ61CeMpOHnGr7rl03Au"
@@ -601,6 +619,28 @@
       "duration_ms": 167733,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/6yythpkfyJhdqRSrPjmsLN"
+    },
+    {
+      "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/0I7PD1w1GFfMrk4T6wbMnC"
+      },
+      "artists": [
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        },
+        {
+          "name": "Basura Boyz",
+          "url": "https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173809,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/5rNy5NIYyTYl99776V6Qz9"
     },
     {
       "album": {
@@ -829,7 +869,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
@@ -909,7 +949,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 168000,
       "name": "One Three Nine",
       "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
@@ -997,7 +1037,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 200787,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
@@ -1223,7 +1263,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 167163,
       "name": "The Funk You Want",
       "url": "https://open.spotify.com/track/509SVKlb3c2Tb7IeD3k1Kc"

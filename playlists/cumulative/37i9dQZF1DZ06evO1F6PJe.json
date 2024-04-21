@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
+    },
+    {
+      "album": {
         "name": "Now Serving: Royal Tea Live From The Ryman",
         "url": "https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9"
       },

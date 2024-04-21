@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 655238,
+  "2024-04-21": 654448,
   "date_first_scraped": "2022-05-23",
   "description": "Lo m\u00e1s nuevo de la M\u00fasica Mexicana. Cover: \u00c1ngela Aguilar ",
   "name": "Nueva M\u00fasica Mexicana",
@@ -12641,6 +12641,24 @@
       "duration_ms": 156757,
       "name": "Chiquita Bonita",
       "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "album": {
+        "name": "Chiquita De Mi Amor",
+        "url": "https://open.spotify.com/album/3px34t6cSvRylnq1zjSxeO"
+      },
+      "artists": [
+        {
+          "name": "Estilo Al Norte",
+          "url": "https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166465,
+      "name": "Chiquita De Mi Amor",
+      "url": "https://open.spotify.com/track/2FzGW7kL3gaKgKD4bzviK2"
     },
     {
       "album": {
@@ -35283,6 +35301,28 @@
       "duration_ms": 196529,
       "name": "Entre Lo Bueno Y Lo Malo",
       "url": "https://open.spotify.com/track/5YyqY23bB1jfvZXumbdhoG"
+    },
+    {
+      "album": {
+        "name": "Entre T\u00fa Y Mil Mares",
+        "url": "https://open.spotify.com/album/6wwb8F16SyURIipH7nyUy4"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "LP Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234958,
+      "name": "Entre T\u00fa Y Mil Mares",
+      "url": "https://open.spotify.com/track/0vjvRsb5o6FQrZ5hTECOIt"
     },
     {
       "album": {
@@ -59903,6 +59943,24 @@
       "duration_ms": 127330,
       "name": "modo sonrix",
       "url": "https://open.spotify.com/track/1Ml4Vwq9HajLP7EnZawZth"
+    },
+    {
+      "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
     },
     {
       "album": {
@@ -85918,7 +85976,7 @@
     },
     {
       "album": {
-        "name": "Traigo Un 40",
+        "name": "Traigo Una 40",
         "url": "https://open.spotify.com/album/57C2zWjDBp5uaJULRYyQwJ"
       },
       "artists": [

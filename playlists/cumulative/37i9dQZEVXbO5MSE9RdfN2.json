@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 189387,
       "name": "Leaving the Lot",
       "url": "https://open.spotify.com/track/3xkE58bmARROCzDtqaJ3jT"
@@ -2842,6 +2842,24 @@
     {
       "album": {
         "name": "Like That!",
+        "url": "https://open.spotify.com/album/3yye4vuTGdJWHqDHwxaTF6"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/28ZwgrsyIbpX4diz92ACnm"
+    },
+    {
+      "album": {
+        "name": "Like That!",
         "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
       },
       "artists": [
@@ -2852,7 +2870,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 169403,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
@@ -4382,7 +4400,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
@@ -5094,6 +5112,24 @@
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
+    },
+    {
+      "album": {
+        "name": "The Bottom 2",
+        "url": "https://open.spotify.com/album/2yRssSNZhlrDbmk5sgTCAM"
+      },
+      "artists": [
+        {
+          "name": "Glorb",
+          "url": "https://open.spotify.com/artist/6YeB9qnbI47owfAXWhctih"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164903,
+      "name": "The Bottom 2",
+      "url": "https://open.spotify.com/track/5fqaeJMmqwhDzdYD7b4J51"
     },
     {
       "album": {

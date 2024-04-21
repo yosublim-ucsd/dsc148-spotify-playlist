@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 418802,
+  "2024-04-21": 419146,
   "date_first_scraped": "2022-01-24",
   "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Picus en portada.",
   "name": "MEXCLA",
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 194666,
       "name": "Contento (feat. Encontrados)",
       "url": "https://open.spotify.com/track/0i31PwQF25tj1KJ6bKE542"
@@ -5895,6 +5895,24 @@
       "duration_ms": 265561,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+    },
+    {
+      "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
     },
     {
       "album": {

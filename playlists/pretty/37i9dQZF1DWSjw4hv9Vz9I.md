@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 
 > A neo\-classic sound for the road\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,420 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,448 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 37 | [Dreams](https://open.spotify.com/track/1Wntxxt7R2mwfa4bDfAa5h) | [Common Saints](https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB) | [Starchild](https://open.spotify.com/album/3qnWQRiiv8upClnaeZHTPx) | 3:51 |
 | 38 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 |
 | 39 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 |
-| 40 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
-| 41 | [Bitch, I Love You](https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/album/090X467JS4xj4diMdewTZs) | 2:44 |
+| 40 | [Bitch, I Love You](https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/album/090X467JS4xj4diMdewTZs) | 2:44 |
+| 41 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 42 | [When It Was Wrong](https://open.spotify.com/track/07idVCxylGXwdspLpgxkf7) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [A River's Invitation](https://open.spotify.com/album/6VgqRIhVmPYJwgacWQqhFU) | 3:34 |
 | 43 | [A Change Is Gonna Come](https://open.spotify.com/track/2RONhC3MSnfZx3P7b3csF5) | [Brian Owens](https://open.spotify.com/artist/7H5TzLxLTOrQuBuVzvll6d), [Thomas Owens](https://open.spotify.com/artist/5klnPBXrUhyAGezIS6V28F) | [A Change Is Gonna Come](https://open.spotify.com/album/5sP7f67CACltHoODXenmhw) | 4:36 |
 | 44 | [Soul Connection](https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 2:29 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjw4hv9Vz9I.md) - [plain]
 | 85 | [Stories](https://open.spotify.com/track/2GtzTUPaSdxzrB1TyIfxYe) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 2:15 |
 | 86 | [Gimme a Sign](https://open.spotify.com/track/6IQs96bB3wNPu9Bfg1rHtb) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Ladies & Gentlemen..\. Nigel Hall](https://open.spotify.com/album/0Hh14BVBAMbtgjOMAeC5Em) | 3:23 |
 | 87 | [Deep in Love](https://open.spotify.com/track/0TWzKkDOhIcxWDp0ORDzpJ) | [Bernard "Pretty" Purdie](https://open.spotify.com/artist/0v0wFiHWFaKEEAwlDtDiRT), [Mayteana Morales](https://open.spotify.com/artist/5cgZ8CpokZU2IrHfK65HJx) | [Bernard Purdie & Friends Present: Cool Down](https://open.spotify.com/album/5wnzQtw29G2kA98bBiiZZc) | 3:51 |
-| 88 | [Keep It](https://open.spotify.com/track/4b5OFU4bzExRpplFzrcecp) | [Jed Harrelson](https://open.spotify.com/artist/1IlnvMYgqD8dh3UhWUPtaq) | [Keep It](https://open.spotify.com/album/0O3IkqB0eQURepcepwjI8g) | 3:35 |
-| 89 | [The Thief](https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2) | [Motenko](https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP) | [Motenko](https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ) | 4:36 |
-| 90 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
+| 88 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
+| 89 | [Keep It](https://open.spotify.com/track/4b5OFU4bzExRpplFzrcecp) | [Jed Harrelson](https://open.spotify.com/artist/1IlnvMYgqD8dh3UhWUPtaq) | [Keep It](https://open.spotify.com/album/0O3IkqB0eQURepcepwjI8g) | 3:35 |
+| 90 | [The Thief](https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2) | [Motenko](https://open.spotify.com/artist/6GiZj3j9eJreWT3gDJXZWP) | [Motenko](https://open.spotify.com/album/5ELfBcQ6SDwwH7HuPi8evQ) | 4:36 |
 | 91 | [Tell Me Something](https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV) | [Tanika Charles](https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I) | [The Gumption](https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG) | 3:04 |
-| 92 | [Girl from the Valley](https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Girl from the Valley](https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW) | 3:20 |
-| 93 | [I Need a Win](https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO) | 4:40 |
+| 92 | [I Need a Win](https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Golden Days](https://open.spotify.com/album/5LuNtoT969MSX9o07N1sDO) | 4:40 |
+| 93 | [Girl from the Valley](https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Girl from the Valley](https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW) | 3:20 |
 | 94 | [’62 Chevy](https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Good To Be...](https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S) | 3:28 |
 | 95 | [Talk Is Cheap](https://open.spotify.com/track/6OpAPX8HowQw4E7DMwOyjR) | [Kyle Thornton & The Company](https://open.spotify.com/artist/4mGPVJbOURnByVYcaQZa2J) | [WNDR](https://open.spotify.com/album/5cJy3jYcwzcgv0Zlnpshn8) | 3:59 |
 | 96 | [Nobody Sweeter](https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4) | [Grace Love and the True Loves](https://open.spotify.com/artist/2mhd8TVpexvBY0tVkiRiXB) | [Grace Love and the True Loves](https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK) | 3:03 |

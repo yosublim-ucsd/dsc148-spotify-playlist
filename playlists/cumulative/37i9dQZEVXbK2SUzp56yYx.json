@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 93337,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/475WgCz6mZlctgOxDULb1n"
@@ -4625,6 +4625,32 @@
     },
     {
       "album": {
+        "name": "\u0421\u0414\u0415\u041b\u0410\u041d\u041e \u0412 \u0420\u041e\u0421\u0421\u0418\u0418!",
+        "url": "https://open.spotify.com/album/4axbg5ljK6uBRLchAwQvpq"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0410\u0412\u0415\u0420\u041d\u041e\u0415 \u041f\u041e\u042d\u0422",
+          "url": "https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop"
+        },
+        {
+          "name": "\u042f\u041a\u041e\u0420\u042a",
+          "url": "https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt"
+        },
+        {
+          "name": "EVEN CUTE",
+          "url": "https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99812,
+      "name": "\u0417\u0410\u0425\u041e\u0422\u0415\u041b",
+      "url": "https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr"
+    },
+    {
+      "album": {
         "name": "\u0417\u0435\u043c\u043b\u044f",
         "url": "https://open.spotify.com/album/2MSAKql0UtG8IspA0mZWX6"
       },
@@ -5004,6 +5030,24 @@
       "duration_ms": 119744,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/04G01nMm1PQQo7XblK45tt"
+    },
+    {
+      "album": {
+        "name": "4 \u0441\u043f\u043e\u0441\u043e\u0431\u0430 \u0443\u0441\u043a\u043e\u0440\u0438\u0442\u044c\u0441\u044f",
+        "url": "https://open.spotify.com/album/30MXzfZ8SaMuTiXLJsr5NT"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0430\u0441\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
+          "url": "https://open.spotify.com/artist/3Ou9Il1Iz7litecWYtVIDx"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115884,
+      "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a (Speed Up)",
+      "url": "https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL"
     },
     {
       "album": {
@@ -5996,7 +6040,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 136022,
       "name": "\u0425\u0430\u0440\u0438\u0437\u043c\u0430",
       "url": "https://open.spotify.com/track/4E7o63UYMF3e8RWOmt0peR"

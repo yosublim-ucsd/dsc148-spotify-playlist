@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 39291,
+  "num_followers": 39332,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
+        "name": "Oh Yeah!",
+        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "duration_ms": 145106,
+      "name": "Party im Zoo",
+      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
-        "name": "Oh Yeah!",
-        "url": "https://open.spotify.com/album/1SNAih5cZ1toqZNL1RwXlR"
-      },
-      "artists": [
-        {
-          "name": "DIKKA",
-          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "Party im Zoo",
-      "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
         "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
         "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 166816,
       "name": "Das kleine Kaninchen",
       "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
-        "name": "Heile Welt",
-        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "H\u00e4schen h\u00fcpf",
-      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -263,6 +247,22 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
+        "name": "Heile Welt",
+        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "H\u00e4schen h\u00fcpf",
+      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
         "name": "Rolfs Liederkalender / Die Jahresuhr",
         "url": "https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW"
       },
@@ -275,6 +275,30 @@
       "duration_ms": 232840,
       "name": "Die Jahresuhr",
       "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -339,30 +363,6 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
         "name": "Rolfs Kinderfr\u00fchling",
         "url": "https://open.spotify.com/album/60hOaInymmfKbZXFARP70V"
       },
@@ -391,6 +391,30 @@
       "duration_ms": 252426,
       "name": "Kaugummi ist mega!",
       "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 113127,
+      "name": "Der Mai ist gekommen",
+      "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -431,22 +455,6 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
         "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
         "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
@@ -459,6 +467,22 @@
       "duration_ms": 108293,
       "name": "Alle V\u00f6gel sind schon da",
       "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -523,30 +547,6 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 113127,
-      "name": "Der Mai ist gekommen",
-      "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
         "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
         "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 143732,
       "name": "Yammi Yammi",
       "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
-        "name": "H\u00e4schenparty",
-        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
-      },
-      "artists": [
-        {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "H\u00e4schenparty",
-      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -615,26 +599,6 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
-      },
-      "artists": [
-        {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -655,6 +619,42 @@
       "duration_ms": 88728,
       "name": "Singt ein Vogel",
       "url": "https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
+        "name": "H\u00e4schenparty",
+        "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
+      },
+      "artists": [
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "H\u00e4schenparty",
+      "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2024-04-19 09:17:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-04-19 09:17:00",
       "album": {
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
+    },
+    {
+      "added_at": "2024-04-19 09:17:00",
+      "album": {
         "name": "Willkommen auf dem singenden Bauernhof",
         "url": "https://open.spotify.com/album/3wLSysao77de2dU8k8Tp7x"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 130813,
       "name": "Das tanzende Alpaka (Alpaka Song)",
       "url": "https://open.spotify.com/track/2gkSpXiwGVUFHYnu0cqZgL"
-    },
-    {
-      "added_at": "2024-04-19 09:17:00",
-      "album": {
-        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
-        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
-      },
-      "artists": [
-        {
-          "name": "Sternschnuppe",
-          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
-        }
-      ],
-      "duration_ms": 336386,
-      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
-      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
     },
     {
       "added_at": "2024-04-19 09:17:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
+  "description": "This is Ludmila Ferber. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Ludmila Ferber",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 187088,
       "name": "Amor de Jesus",
       "url": "https://open.spotify.com/track/1S5eok3rK7wGyHY4SLgEXV"
@@ -132,6 +132,24 @@
       "duration_ms": 243205,
       "name": "Andar com Deus",
       "url": "https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA"
+    },
+    {
+      "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350109,
+      "name": "Autor da Minha F\u00e9",
+      "url": "https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR"
     },
     {
       "album": {

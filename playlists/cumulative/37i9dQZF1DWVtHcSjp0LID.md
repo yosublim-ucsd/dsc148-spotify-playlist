@@ -4,7 +4,7 @@
 
 > Deep beats to study to.
 
-183 songs - 17 hr 12 min
+184 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arterial](https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [Arterial](https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH) | 4:14 | 2022-07-15 | 2024-04-19 |
 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 | 2022-03-22 | 2023-06-10 |
 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 | 2022-03-22 |  |
+| [Attractions](https://open.spotify.com/track/4OThTZ1uXY8EXKiZcyaBGc) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN) | [Zero](https://open.spotify.com/album/5pTAVj7wSwreiGKy9zo5B1) | 3:19 | 2023-06-09 |  |
 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 | 2022-03-22 |  |
 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 | 2022-03-22 | 2023-06-10 |
 | [Bassment Dweller \- Original Mix](https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Science Is Science](https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7) | 7:03 | 2022-03-22 | 2023-06-10 |
@@ -40,7 +41,7 @@
 | [Clarity](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Ibb & Obb \(Original Soundtrack\)](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) | 2:34 | 2022-03-22 | 2023-06-10 |
 | [Clock](https://open.spotify.com/track/5NuZdSoNdbBOEzJVYRqUQ6) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/0w8x1W1PktGoseY4edkAdE) | 7:03 | 2022-03-22 | 2022-07-29 |
 | [Clock](https://open.spotify.com/track/6N6jCOPR4kEczFBMrgun5A) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 7:03 | 2022-07-15 | 2023-06-10 |
-| [Cloud 21 \- Bongbeck Remix](https://open.spotify.com/track/2oEm3jyydcbdjkjmiloLaf) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Timo Jahns](https://open.spotify.com/artist/5kaD6aFOSQbkFSpDFC1nhX), [Bongbeck](https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T) | [Breathing \(Remixed\)](https://open.spotify.com/album/4kWrhigAiOPsL7jHJYFU0C) | 3:29 | 2023-06-09 |  |
+| [Cloud 21 \- Bongbeck Remix](https://open.spotify.com/track/2oEm3jyydcbdjkjmiloLaf) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Timo Jahns](https://open.spotify.com/artist/5kaD6aFOSQbkFSpDFC1nhX), [Bongbeck](https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T) | [Breathing \(Remixed\)](https://open.spotify.com/album/4kWrhigAiOPsL7jHJYFU0C) | 3:29 | 2023-06-09 | 2024-04-21 |
 | [Clouds](https://open.spotify.com/track/2CixrnuQ422hBBzzau52ve) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V](https://open.spotify.com/album/6rjlbxPuED4Dtn9fdMyfUH) | 4:12 | 2022-03-22 | 2022-07-29 |
 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 | 2022-07-15 | 2023-06-10 |
 | [Cloverfield \- Original Mix](https://open.spotify.com/track/6hg11XB9rUTSM92Sx2WDhJ) | [Tom Hutt](https://open.spotify.com/artist/6nAdbXw8ZWvMfQsM1AqpEm) | [Cloverfield](https://open.spotify.com/album/647hVoRT9zzXTFvNwRoAGh) | 7:33 | 2022-03-22 | 2022-06-27 |

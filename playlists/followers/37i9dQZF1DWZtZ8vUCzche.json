@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 1244510,
+  "2024-04-21": 1244840,
   "date_first_scraped": "2021-12-21",
   "description": "An eclectic collection of brilliantly produced and recorded tracks. ",
   "name": "Songs To Test Headphones With",
@@ -1449,36 +1449,6 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
-    },
-    {
-      "album": {
-        "name": "Shhh!",
-        "url": "https://open.spotify.com/album/5LB9oJFc1zQnyyQt4sKuh1"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Nigel Kennedy Quintet",
-          "url": "https://open.spotify.com/artist/2pNV705lhIT85wtwdya513"
-        },
-        {
-          "name": "Boy George",
-          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
-        },
-        {
-          "name": "John Themis",
-          "url": "https://open.spotify.com/artist/6aDLyAgnGxkV3Qpgg6sdsU"
-        }
-      ],
-      "date_added": "2023-04-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298040,
-      "name": "Drake: Riverman",
-      "url": "https://open.spotify.com/track/4FhxhKPNYSC7NycSWi5ryU"
     },
     {
       "album": {
@@ -5031,6 +5001,36 @@
       "duration_ms": 210266,
       "name": "Ritual Union",
       "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
+    },
+    {
+      "album": {
+        "name": "Shhh!",
+        "url": "https://open.spotify.com/album/5LB9oJFc1zQnyyQt4sKuh1"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Nigel Kennedy Quintet",
+          "url": "https://open.spotify.com/artist/2pNV705lhIT85wtwdya513"
+        },
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        },
+        {
+          "name": "John Themis",
+          "url": "https://open.spotify.com/artist/6aDLyAgnGxkV3Qpgg6sdsU"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298040,
+      "name": "Riverman",
+      "url": "https://open.spotify.com/track/4FhxhKPNYSC7NycSWi5ryU"
     },
     {
       "album": {

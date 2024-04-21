@@ -1,6 +1,6 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 2134,
+  "num_followers": 2127,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
@@ -1947,30 +1947,6 @@
     {
       "added_at": "2024-02-27 17:20:18",
       "album": {
-        "name": "YES! (feat. Rich The Kid & K CAMP)",
-        "url": "https://open.spotify.com/album/3ELdOnZbhc2ogc3BCAmQSd"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        },
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 195396,
-      "name": "YES! (feat. Rich The Kid & K CAMP)",
-      "url": "https://open.spotify.com/track/2tDrlnQWiCDis4H8RT0W2h"
-    },
-    {
-      "added_at": "2024-02-27 17:20:18",
-      "album": {
         "name": "Loco Contigo (with J. Balvin & Tyga)",
         "url": "https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01"
       },
@@ -1991,6 +1967,30 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
+    },
+    {
+      "added_at": "2024-02-27 17:20:18",
+      "album": {
+        "name": "YES! (feat. Rich The Kid & K CAMP)",
+        "url": "https://open.spotify.com/album/3ELdOnZbhc2ogc3BCAmQSd"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 195396,
+      "name": "YES! (feat. Rich The Kid & K CAMP)",
+      "url": "https://open.spotify.com/track/2tDrlnQWiCDis4H8RT0W2h"
     },
     {
       "added_at": "2024-02-27 17:20:18",

@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-269 songs - 15 hr 30 min
+270 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [HLF \(Héctor Lavoe Freestyle\)](https://open.spotify.com/track/22hQABpEq03SraVcB27lak) | [Shyno](https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm) | [HLF \(Héctor Lavoe Freestyle\)](https://open.spotify.com/album/7u3NzmbK9DITNkMFFRkAzr) | 4:52 | 2024-04-05 | 2024-04-19 |
 | [Hola](https://open.spotify.com/track/4n98DgeQFXDsz15Wi6uT70) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Más Negro Que Rojo](https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU) | 2:41 | 2022-03-11 | 2022-04-22 |
 | [Háblame de Ti](https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Háblame de Ti](https://open.spotify.com/album/7bwsis1VLOwTBOOqYkmnGI) | 3:43 | 2023-07-07 |  |
+| [IGNORANT SH!T \(Maleanteria\)](https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [IGNORANT SH!T \(Maleanteria\)](https://open.spotify.com/album/4zgU5GUocpTGIT6omIrpqU) | 2:46 | 2024-04-19 |  |
 | [Igual a Ti](https://open.spotify.com/track/1f7QUXbjzznxI8B1S91xcW) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [El Caly](https://open.spotify.com/artist/6lOsaYnSovGhYlI695t82Y), [wvltz](https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq) | [Igual a Ti](https://open.spotify.com/album/0oaHsQ8kj5zEjLe7N7nYRD) | 3:10 | 2024-03-29 | 2024-04-13 |
 | [Influencer](https://open.spotify.com/track/5sLeFOCod0pJMxM8CzVc1v) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Influencer](https://open.spotify.com/album/02GbKkHjaMiG88C5Bceolb) | 3:20 | 2022-06-24 | 2023-03-29 |
 | [Influencer](https://open.spotify.com/track/6TPxIGjHhCKdPYGJhX83ZL) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Influencer](https://open.spotify.com/album/6hr8irWvC8Dont0ymgIUon) | 3:20 | 2023-03-17 | 2023-11-18 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 41676,
+  "2024-04-21": 41701,
   "date_first_scraped": "2022-08-06",
   "description": "I'm just a girl ",
   "name": "soft life",
@@ -1027,6 +1027,24 @@
       "duration_ms": 163846,
       "name": "Girls Deserve More Money",
       "url": "https://open.spotify.com/track/7itEqiDQTTgU8r7JGy7vie"
+    },
+    {
+      "album": {
+        "name": "Gold and Fire",
+        "url": "https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO"
+      },
+      "artists": [
+        {
+          "name": "Mide Fash",
+          "url": "https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Gold and Fire",
+      "url": "https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp"
     },
     {
       "album": {

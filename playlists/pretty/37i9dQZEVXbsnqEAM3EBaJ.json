@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDRhNWY3ZTc5NTdjNThiY2FiODJmZDY3NzljODI5MjI0",
+  "snapshot_id": "MCwwMDAwMDAwMDgxZjc0ODZmNTkxNGNmYWFmNDUxYzgwOGE5NzMxMmVj",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 219195,
       "name": "Feral",
       "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dubai Desires",
+        "url": "https://open.spotify.com/album/2vEtMdf2Owawtm89Lozqt3"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "Dubai Desires",
+      "url": "https://open.spotify.com/track/0zAfmkp6yhpFYXbdsdxt39"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -135,38 +151,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/75KzKVMbyJTK4QeDN4oBCa"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 342220,
-      "name": "Supersonic - Live at The Limelight, Belfast - 4th September '94",
-      "url": "https://open.spotify.com/track/0KcauaScxdQDQeYIHGbH6D"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Break The Circle (Live)",
-        "url": "https://open.spotify.com/album/761p5mMx5WlOe4bwRbHThH"
-      },
-      "artists": [
-        {
-          "name": "Dio",
-          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "The Mob Rules - Live",
-      "url": "https://open.spotify.com/track/6gAVyUkIeW0Ye9zHusJr1q"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Buena Ruta Hermano",
         "url": "https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 180134,
       "name": "Curse",
       "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/75KzKVMbyJTK4QeDN4oBCa"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 342220,
+      "name": "Supersonic - Live at The Limelight, Belfast - 4th September '94",
+      "url": "https://open.spotify.com/track/0KcauaScxdQDQeYIHGbH6D"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Bloodwren",
-        "url": "https://open.spotify.com/album/56SLgCGA1eL3OFeRDpO8AY"
-      },
-      "artists": [
-        {
-          "name": "Ceiling Spirits",
-          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
-        }
-      ],
-      "duration_ms": 975800,
-      "name": "The Bloodwren",
-      "url": "https://open.spotify.com/track/6LTMY4Go1DL2ODu8sbzd2d"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Mother's Love",
         "url": "https://open.spotify.com/album/5sT3xB9xKSdhmsfvMybK4K"
       },
@@ -267,22 +251,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/3sG1H6IHNKHO38uJg95ldk"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/06Z4ckMBakLA5TbHMtPo5y"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "February Sky",
         "url": "https://open.spotify.com/album/0dr6d4tl4PRIAP2PqnCWCJ"
       },
@@ -295,6 +263,38 @@
       "duration_ms": 198973,
       "name": "February Sky",
       "url": "https://open.spotify.com/track/5MwtA7nicSHA0JAL8DwSuv"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Bloodwren",
+        "url": "https://open.spotify.com/album/56SLgCGA1eL3OFeRDpO8AY"
+      },
+      "artists": [
+        {
+          "name": "Ceiling Spirits",
+          "url": "https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB"
+        }
+      ],
+      "duration_ms": 975800,
+      "name": "The Bloodwren",
+      "url": "https://open.spotify.com/track/6LTMY4Go1DL2ODu8sbzd2d"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/3sG1H6IHNKHO38uJg95ldk"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/06Z4ckMBakLA5TbHMtPo5y"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "CANTA LLANO TRIBUTO A ARNULFO BRICE\u00d1O",
+        "url": "https://open.spotify.com/album/5OO8SY2rGjjuX1JZLV2tjn"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/7AOuQLiHydOfq8tzL3oEdA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
         "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
@@ -355,6 +371,22 @@
       "duration_ms": 309936,
       "name": "House of the Risin' Sun",
       "url": "https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Let's Go Crazy Tonight (Live in Berlin)",
+        "url": "https://open.spotify.com/album/57lI2dT90bg4H0sTS6wvL8"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "Let's Go Crazy Tonight - Single Edit [Live]",
+      "url": "https://open.spotify.com/track/5aKSdqyXadMEo1RDm59T29"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -391,22 +423,6 @@
       "duration_ms": 213750,
       "name": "Thank You (Not So Bad) - Dimitri Vegas x Piero Pirupa Remix",
       "url": "https://open.spotify.com/track/2C5JOOpoCqIykysmepkvyg"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Let's Go Crazy Tonight (Live in Berlin)",
-        "url": "https://open.spotify.com/album/57lI2dT90bg4H0sTS6wvL8"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "Let's Go Crazy Tonight - Single Edit [Live]",
-      "url": "https://open.spotify.com/track/5aKSdqyXadMEo1RDm59T29"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -475,26 +491,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "People Are Good (Remixes)",
-        "url": "https://open.spotify.com/album/6sLLqY8h5eINbeJZE8mYIk"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        },
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        }
-      ],
-      "duration_ms": 537103,
-      "name": "People Are Good - Indira Paganotto Twilight Remix",
-      "url": "https://open.spotify.com/track/0YZw12okgfcN1fVcg0n1iH"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Under My Umbrella",
         "url": "https://open.spotify.com/album/4ZF7L3zqI5zHSUcxZ5fkxy"
       },
@@ -507,22 +503,6 @@
       "duration_ms": 220973,
       "name": "Under My Umbrella",
       "url": "https://open.spotify.com/track/1rCGgMWxlCsgpuu17ufTdX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Dancing star",
-        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 181959,
-      "name": "Dancing star",
-      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -543,6 +523,42 @@
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dancing star",
+        "url": "https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 181959,
+      "name": "Dancing star",
+      "url": "https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "People Are Good (Remixes)",
+        "url": "https://open.spotify.com/album/6sLLqY8h5eINbeJZE8mYIk"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 537103,
+      "name": "People Are Good - Indira Paganotto Twilight Remix",
+      "url": "https://open.spotify.com/track/0YZw12okgfcN1fVcg0n1iH"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -723,54 +739,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Anno Satan\u00e6 (1993 Remastered)",
-        "url": "https://open.spotify.com/album/2Ydzcjt6R77ySwrUDWLvKz"
-      },
-      "artists": [
-        {
-          "name": "Moonspell",
-          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
-        }
-      ],
-      "duration_ms": 334253,
-      "name": "Ancient Winter Goddess - 1993 Remastered",
-      "url": "https://open.spotify.com/track/5GDML6YUYalodWoxDfnDW4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Machine Head (Remix 2024 / Remaster 2024)",
-        "url": "https://open.spotify.com/album/1PYl2uQNd51wwrEVsjEgg1"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 370160,
-      "name": "Highway Star - 2024 Remix",
-      "url": "https://open.spotify.com/track/79iqhAauL0vjOXtZvf0Hy5"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Hasta La Verdad / Esquemas Juveniles (En Vivo en Teatro Municipal)",
-        "url": "https://open.spotify.com/album/3awhJRhSGf7W1l4hh9NePi"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 223967,
-      "name": "Esquemas Juveniles - En Vivo en Teatro Municipal",
-      "url": "https://open.spotify.com/track/216rA2DznHEIi60e9NUG1t"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Save Me (Feat. Sanne Mieloo & Charlotte Wessels)",
         "url": "https://open.spotify.com/album/6fSrFALcpi6N6kvhebSKaA"
       },
@@ -795,22 +763,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 116893,
-      "name": "Just A Feeling",
-      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -827,78 +779,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-        "url": "https://open.spotify.com/album/7w3qjorxngCKNQf9JHySg6"
-      },
-      "artists": [
-        {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
-        },
-        {
-          "name": "Piero",
-          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
-        }
-      ],
-      "duration_ms": 227082,
-      "name": "Soy Pan, Soy Paz, Soy M\u00e1s",
-      "url": "https://open.spotify.com/track/0YwgEGaV1HnQEAneCah39F"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Sleepers / Translating The Name (Live)",
-        "url": "https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 226005,
-      "name": "Translating The Name - Live",
-      "url": "https://open.spotify.com/track/4XLbTgRVximzSiiUYxCtxW"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "GALA Y DAL\u00cd",
-        "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "GALA Y DAL\u00cd",
-      "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "S\u2019old (Acoustic)",
-        "url": "https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 159142,
-      "name": "S\u2019old (Acoustic)",
-      "url": "https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Zig Zag",
         "url": "https://open.spotify.com/album/2BnAIVgZNXMsQc3qFvFB0z"
       },
@@ -911,130 +791,6 @@
       "duration_ms": 254285,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/2XOqxVmn5IyOiPL2orpT1D"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Emptiness",
-        "url": "https://open.spotify.com/album/7Iipt9N6AEqCDHy73xPVtU"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Emptiness",
-      "url": "https://open.spotify.com/track/55W3ONBbW98Cqvk0ZIoaKR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Headless Cross / Anno Mundi",
-        "url": "https://open.spotify.com/album/7yyoUmD7s0iR4jQbYfjnno"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 389226,
-      "name": "Headless Cross (2024 Remaster)",
-      "url": "https://open.spotify.com/track/0dDDO3bLsl4Tbh5TkvQjDk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/5T4RqzpT6zoWoBA34EowdS"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 222956,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/3X0Rp5nzDFawTmw1FlwWAP"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Myths of Fate",
-        "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 274994,
-      "name": "Hammer of the Gods",
-      "url": "https://open.spotify.com/track/78qlA1fC79giLrL0Luzttd"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Pertenezco Aqu\u00ed",
-        "url": "https://open.spotify.com/album/0Me6t0xF5TSIaPG3ayJdkW"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Pertenezco Aqu\u00ed",
-      "url": "https://open.spotify.com/track/314VxfuhEvi859ShK1nK6z"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Tiene Claro Lo Que Quiere",
-        "url": "https://open.spotify.com/album/5KQU2tQM83zaoQZKTJ48xy"
-      },
-      "artists": [
-        {
-          "name": "Arte Elegante",
-          "url": "https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0"
-        },
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Tiene Claro Lo Que Quiere",
-      "url": "https://open.spotify.com/track/3BMU1IZQisn5TyhA5dkBYY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "What About The Children",
-        "url": "https://open.spotify.com/album/3GRDspM8YHRS8P5ci5n2nx"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "What About The Children",
-      "url": "https://open.spotify.com/track/1H3ZNotB3Z6kQBcMovZwPX"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

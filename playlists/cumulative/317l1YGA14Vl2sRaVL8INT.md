@@ -4,7 +4,7 @@
 
 > Its pop punk, its the best
 
-241 songs - 13 hr 15 min
+242 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:11 | 2024-01-09 |  |
 | [Happy New Year](https://open.spotify.com/track/7cxnP6xWo2nUGtZzbkyUW0) | [Set Your Goals](https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5) | [Burning At Both Ends](https://open.spotify.com/album/4uexCDiw2YtlvSt0mqilpv) | 3:15 | 2023-12-01 | 2024-01-10 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0hH6mD4suWBal5aaFgDvWt) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/3ZH2C93zp7IX6WC8rH8W1z) | 2:11 | 2023-12-01 | 2024-01-10 |
+| [Hear Me Out](https://open.spotify.com/track/5XpucxmzM1K8SFnN6BWCxt) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hear Me Out](https://open.spotify.com/album/1rU0WA0vqAW1Xkzs6ygVam) | 3:48 | 2024-04-20 |  |
 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 | 2024-03-08 |  |
 | [Heartbreak Of The Century](https://open.spotify.com/track/6X39BP7h0IGcDFnf0PHHOb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Heartbreak Of The Century](https://open.spotify.com/album/4wqFmxdd5bYFH8XRmfRkAJ) | 3:49 | 2023-04-17 | 2023-12-02 |
 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 | 2023-10-17 | 2023-12-02 |

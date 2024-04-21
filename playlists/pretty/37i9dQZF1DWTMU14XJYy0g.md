@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Massacre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,060 likes - 76 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,301 likes - 76 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

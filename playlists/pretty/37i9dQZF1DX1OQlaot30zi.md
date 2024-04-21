@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, ANNA, Niky Savage, Vale Lambo e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,269 likes - 77 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,313 likes - 77 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Leanin'](https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Leanin'](https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega) | 2:26 |
 | 2 | [VIENI DALLA BADDIE \- interlude](https://open.spotify.com/track/6VpkhPUKnXxDsse0jnG64F) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VIENI DALLA BADDIE \(interlude\)](https://open.spotify.com/album/1QkVXwwI2F9q54Xu3O3zib) | 1:33 |
-| 3 | [NO EX \(feat\. Paky\)](https://open.spotify.com/track/6mIjiYKYP8hcO8Rqm81Vii) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [BLSSD](https://open.spotify.com/artist/4LQCfuqmYPEC3Bj6rXb1yO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:27 |
+| 3 | [NO EX \(feat\. Paky\)](https://open.spotify.com/track/6mIjiYKYP8hcO8Rqm81Vii) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:27 |
 | 4 | [Quadrato \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9) | [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Sedicinoni](https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV) | 2:56 |
 | 5 | [Pezzi Che Cadono \(feat\. Tony Boy\)](https://open.spotify.com/track/3ck23O4wJjSdl1q7WpFWmk) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:28 |
 | 6 | [X\-ADV \(feat\. Simba La Rue\)](https://open.spotify.com/track/76XNiHNTZ2KqW3cejIly4p) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [X\-ADV \(feat\. Simba La Rue\)](https://open.spotify.com/album/6e4RHSzdHbQXSpTUXM5WZe) | 2:01 |

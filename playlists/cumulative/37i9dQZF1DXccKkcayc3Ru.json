@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "New generation",
+        "url": "https://open.spotify.com/album/1V62xDo8GwQEK6WX7Z2Rcz"
+      },
+      "artists": [
+        {
+          "name": "ame_no_parade",
+          "url": "https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/60To99qb1JAoQ0F6iclxQn"
+    },
+    {
+      "album": {
         "name": "HUG",
         "url": "https://open.spotify.com/album/76DxOsTwHzuGyD27vEYWKJ"
       },

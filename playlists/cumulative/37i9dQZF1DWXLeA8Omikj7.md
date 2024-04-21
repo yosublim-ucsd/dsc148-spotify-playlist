@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-936 songs - 2 day 19 hr 10 min
+937 songs - 2 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
 | [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 |  |
-| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* |  |
+| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* | 2024-04-21 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* |  |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |
 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 | 2022-09-09 | 2023-04-02 |
@@ -423,6 +423,7 @@
 | [Isolate](https://open.spotify.com/track/7duCz5DC1bQyaViBGZcDjs) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 3:26 | 2019-06-19\* | 2022-04-21 |
 | [Isopolis](https://open.spotify.com/track/6J9gYOk0Go8OIMDc8gLOur) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Isopolis](https://open.spotify.com/album/4J6j73B5Kcb3FK6MSsKu92) | 3:49 | 2021-03-15 |  |
 | [It Fades Away](https://open.spotify.com/track/4mr0X52T5dX5wtDgKcYx3h) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [It Fades Away](https://open.spotify.com/album/5cgWQN3hEVXfkyFAUGNFNa) | 4:55 | 2019-06-19\* | 2020-10-22 |
+| [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 |  |
 | [Its Been Real](https://open.spotify.com/track/6I8SEy5W6gcBY5vzF8Fk4y) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Feels](https://open.spotify.com/album/3JJooKCUYSStZMieqXok6U) | 4:48 | 2019-05-26\* | 2020-08-26 |
 | [Ivory](https://open.spotify.com/track/28R3W2pqBJOxztS2o6y53W) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Ivory](https://open.spotify.com/album/1bGw1aFP9vtUdNPjoh2cB0) | 2:13 | 2020-11-06 | 2020-12-19 |
 | [Jasmine Oceans](https://open.spotify.com/track/3XkUCBouaD0NOAjfbi5D95) | [Julien Mier](https://open.spotify.com/artist/5paAp4hjtSahENm3QTNsiP) | [Stirring Child Spirits](https://open.spotify.com/album/6Tzb4NzPuV87nJ5mfWx0EB) | 3:05 | 2019-06-19\* | 2022-04-21 |

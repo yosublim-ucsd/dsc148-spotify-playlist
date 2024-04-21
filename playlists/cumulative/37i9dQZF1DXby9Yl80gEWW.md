@@ -4,7 +4,7 @@
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-257 songs - 15 hr 50 min
+258 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Future Man](https://open.spotify.com/track/0wCxFPw156RcqRyZeo96NB) | [Strength In Numbers](https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ) | [Telluride Sessions](https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM) | 5:09 | 2021-12-03 | 2022-07-23 |
 | [Get Lost](https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF) | [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB), [Jake Workman](https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx) | [Get Lost](https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM) | 4:27 | 2024-01-26 |  |
 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 | 2023-03-24 |  |
-| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 |  |
+| [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 | 2023-04-07 | 2024-04-21 |
 | [Golden Pond](https://open.spotify.com/track/2T0FSlZIf2IYtbH1y2DEvJ) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Stealing Second](https://open.spotify.com/album/63sHuqQ8uMSC6BTuOIp39I) | 3:12 | 2021-12-03 |  |
 | [Good to Go](https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz) | 3:37 | 2022-07-22 | 2023-01-17 |
 | [Good to Go](https://open.spotify.com/track/5K7AhhV2f94CfqUFZtlAMu) | [Bill Emerson](https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF) | [Banjo Man](https://open.spotify.com/album/3NAwKnXQXJ9Zpb7NS2DPdL) | 3:37 | 2021-12-03 | 2022-07-27 |
@@ -190,6 +190,7 @@
 | [Road To Columbus](https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF) | [Kenny Baker](https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg) | [Plays Bill Monroe](https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL) | 2:39 | 2021-12-03 | 2024-02-27 |
 | [Robin And Marian](https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Nickel Creek](https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd) | 4:34 | 2021-12-03 |  |
 | [Rolling Blackout](https://open.spotify.com/track/4649eRcX3LkZ8HU49VnWK2) | [Chris Pandolfi](https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI) | [Looking Glass](https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV) | 4:34 | 2021-12-03 | 2022-08-02 |
+| [Saltbush Express](https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7) | [Michael Fix](https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci) | [Saltbush Express](https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ) | 2:51 | 2024-04-12 |  |
 | [Santa Ana](https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2) | [Dan Crary](https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5), [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io), [John Hickman](https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD) | [Now They Are Four](https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj) | 2:57 | 2021-12-03 |  |
 | [See Rock City](https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr), [Mark Schatz](https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6) | [Drive](https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z) | 4:03 | 2021-12-03 |  |
 | [Shallows](https://open.spotify.com/track/0WaQSVtzER7nT9sPLu918r) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Place of Growth](https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR) | 3:18 | 2023-11-24 | 2024-04-19 |

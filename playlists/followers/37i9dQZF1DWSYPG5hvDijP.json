@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 2735,
+  "2024-04-21": 2775,
   "date_first_scraped": "2023-03-30",
   "description": "New Hip Hop from India.",
   "name": "Taaza hai bro!",
@@ -683,7 +683,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 174035,
       "name": "Beparwah",
       "url": "https://open.spotify.com/track/5g2Puepf3j53ZGyGUbatP2"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 152245,
       "name": "Capital",
       "url": "https://open.spotify.com/track/2rWXHzfYluOCWfEch3D9YH"
@@ -1451,6 +1451,10 @@
         {
           "name": "R. D. Burman",
           "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        },
+        {
+          "name": "Bluish Music",
+          "url": "https://open.spotify.com/artist/0TwBzGQy3qqWxK9Yqg8nGG"
         }
       ],
       "date_added": "2024-04-18",
@@ -1521,6 +1525,28 @@
       "duration_ms": 223125,
       "name": "Dil vich chor",
       "url": "https://open.spotify.com/track/3SEjQj4ctOmLysGtlmCTUP"
+    },
+    {
+      "album": {
+        "name": "DL9CAP",
+        "url": "https://open.spotify.com/album/3RPFqWIHpZIdt21iZ47N7h"
+      },
+      "artists": [
+        {
+          "name": "Muhfaad",
+          "url": "https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr"
+        },
+        {
+          "name": "Funkaar",
+          "url": "https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151670,
+      "name": "DL9CAP",
+      "url": "https://open.spotify.com/track/2RpFBnDA4cJ3Wixzg1n3qQ"
     },
     {
       "album": {
@@ -2815,7 +2841,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 161778,
       "name": "KAALE KAARNAME",
       "url": "https://open.spotify.com/track/4mwGoFQMgc3rCX8rqwzDkQ"
@@ -3101,6 +3127,32 @@
       "duration_ms": 200771,
       "name": "Ladke Rote Nahi Hain",
       "url": "https://open.spotify.com/track/6keHp1mZiGakfZ37byQVl7"
+    },
+    {
+      "album": {
+        "name": "Ladki Scheme Hai",
+        "url": "https://open.spotify.com/album/1xSXJzntDOVykzNm9Jtzw4"
+      },
+      "artists": [
+        {
+          "name": "Mirage 2.0",
+          "url": "https://open.spotify.com/artist/6qkBTYjV48Mt8NSW4t54V2"
+        },
+        {
+          "name": "Nonchi",
+          "url": "https://open.spotify.com/artist/57hC7DGsnOtvGTHMAce1i4"
+        },
+        {
+          "name": "Young Seaz",
+          "url": "https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138620,
+      "name": "Ladki Scheme Hai",
+      "url": "https://open.spotify.com/track/4PQ77n0G4SR8FPFf5uCI2p"
     },
     {
       "album": {
@@ -3449,6 +3501,28 @@
       "duration_ms": 204455,
       "name": "Mallika",
       "url": "https://open.spotify.com/track/173nYuVjLhF6kdFTCA0huj"
+    },
+    {
+      "album": {
+        "name": "MANKA",
+        "url": "https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261923,
+      "name": "MANKA",
+      "url": "https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5"
     },
     {
       "album": {
@@ -4978,6 +5052,28 @@
     },
     {
       "album": {
+        "name": "Tarne Laga",
+        "url": "https://open.spotify.com/album/0xbrAOUQkhoMX0IgaFiWcr"
+      },
+      "artists": [
+        {
+          "name": "Ruhaan79",
+          "url": "https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL"
+        },
+        {
+          "name": "Palaq",
+          "url": "https://open.spotify.com/artist/4iFnBgFGTFdnxiD73QqTxE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207086,
+      "name": "Tarne Laga",
+      "url": "https://open.spotify.com/track/7Du7CwlZn6SA3Xn32yBa1l"
+    },
+    {
+      "album": {
         "name": "THAPPAD!",
         "url": "https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0"
       },
@@ -5301,7 +5397,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 143108,
       "name": "W",
       "url": "https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT"

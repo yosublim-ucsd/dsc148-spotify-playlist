@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 307843,
+  "2024-04-21": 307685,
   "date_first_scraped": "2023-07-10",
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
   "name": "Praiana",
@@ -73,6 +73,24 @@
       "duration_ms": 377142,
       "name": "Acordei Bem Cedo",
       "url": "https://open.spotify.com/track/0kXMyDlaPHsMJPLug6LZpI"
+    },
+    {
+      "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "album": {
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 220431,
       "name": "Todo Corpo",
       "url": "https://open.spotify.com/track/1MvZd2Ti0NJvYr58bBArn3"

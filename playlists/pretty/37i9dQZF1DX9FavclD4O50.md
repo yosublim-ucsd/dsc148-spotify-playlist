@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,438 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,442 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 34 | [Voice of Theremin](https://open.spotify.com/track/7o0FxcsUn7z7JLellv8W49) | [Vladimir Komarov](https://open.spotify.com/artist/1Ejt4SadlhMj7ijOeOC3iQ), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv) | [Music from the Ether: Original Works for Theremin](https://open.spotify.com/album/4T8jPbJTjvc5GYzcQ66BCE) | 8:47 |
 | 35 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
 | 36 | [Nousta\-Needad \(Ascent\-Descent\)](https://open.spotify.com/track/38MgLHj3Z6gEu7XNObMvZx) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [American Contemporary Music Ensemble](https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO) | [Fantasias for Theremin and String Quartet](https://open.spotify.com/album/2GCBMMIQ718Uw1dgTtrFbF) | 7:39 |
-| 37 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
+| 37 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
 | 38 | [Summertime](https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:48 |
-| 39 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 39 | [Berlin Ghost Opera](https://open.spotify.com/track/707014S3juTp8VeyuI5t2C) | [Javier Díez Ena & His Theremins](https://open.spotify.com/artist/5TA6P5gISjtzFu3BXogfrM) | [Theremonial \(Dark & Exotic Theremin Music\)](https://open.spotify.com/album/6SCpra08I6g6Ahqof19Ck7) | 3:07 |
 | 40 | [Theremin Sonata No\. 1: I\. Moderato](https://open.spotify.com/track/0nrY6e0615DFib7MHYOqkz) | [Christopher Tarnow](https://open.spotify.com/artist/0cOcnlkQLbizLpOqRUkmGq), [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI) | [Tarnow: Theremin Sonatas](https://open.spotify.com/album/70enQr7njOjNNd08lKp72H) | 7:42 |
 | 41 | [Theremin in the Rain](https://open.spotify.com/track/1LWMnApLb8gugGjEuufAQ1) | [Gordon Monahan](https://open.spotify.com/artist/4hM8esOTyFH8grxXR27Afm) | [Theremin in the Rain](https://open.spotify.com/album/6n5vZ6yqWTMD5bv1Ybu3K1) | 3:57 |
 | 42 | [Kontula](https://open.spotify.com/track/4CGr7SVFInOu9u0JFKLQ8T) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [Playing Theremin](https://open.spotify.com/album/1JTgXVY0tfm78o1qTmBayS) | 2:48 |

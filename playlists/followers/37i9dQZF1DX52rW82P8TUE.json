@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 66611,
+  "2024-04-21": 66591,
   "date_first_scraped": "2022-09-15",
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
   "name": "Gospel Kids",
@@ -185,6 +185,24 @@
       "duration_ms": 189386,
       "name": "Ao Orarmos",
       "url": "https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne"
+    },
+    {
+      "album": {
+        "name": "Ao Senhor Agradecemos (Deluxe)",
+        "url": "https://open.spotify.com/album/3P7LCP2g0uMC27eossYiLU"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Ao Senhor Agradecemos (Deluxe)",
+      "url": "https://open.spotify.com/track/0HOXhB7Avgp8l7E67mhWR4"
     },
     {
       "album": {
@@ -677,7 +695,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 182910,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 162285,
       "name": "Eu Sou Um Cordeirinho",
       "url": "https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE"
@@ -753,6 +771,40 @@
       "duration_ms": 206767,
       "name": "Festa das Cores",
       "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
+    },
+    {
+      "album": {
+        "name": "Gba Stage Kids",
+        "url": "https://open.spotify.com/album/6Lx7iiv2S1DsYyhUPNVBGW"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Rafael de Oliveira",
+          "url": "https://open.spotify.com/artist/4qRoHdCs4qUXd7ptMkjs80"
+        },
+        {
+          "name": "Lara Maria",
+          "url": "https://open.spotify.com/artist/2u6lfISZVmVMzhOv5KHWf2"
+        },
+        {
+          "name": "Alyce Maria",
+          "url": "https://open.spotify.com/artist/4wQVjWUP0rzD6PhfFCAMVj"
+        },
+        {
+          "name": "Ana Lunna",
+          "url": "https://open.spotify.com/artist/7DJnoHcMYpn6e685BbPGC8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280308,
+      "name": "Fico Feliz",
+      "url": "https://open.spotify.com/track/2wZnSYsdoDHYZ4mYCFl0Sj"
     },
     {
       "album": {

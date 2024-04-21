@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 111542,
+  "2024-04-21": 111652,
   "date_first_scraped": "2024-01-20",
   "description": "layan je",
   "name": "galau rabak",
@@ -1511,6 +1511,24 @@
       "duration_ms": 228055,
       "name": "SAH",
       "url": "https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc"
+    },
+    {
+      "album": {
+        "name": "Sampainya Hati",
+        "url": "https://open.spotify.com/album/3MnOKh8nMY8NKQrO9zFXMs"
+      },
+      "artists": [
+        {
+          "name": "SOMI",
+          "url": "https://open.spotify.com/artist/4IpyzpAHz2BeciffK82tgt"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Sampainya Hati",
+      "url": "https://open.spotify.com/track/6FGp7kifYT4xEpsRIlMPzW"
     },
     {
       "album": {

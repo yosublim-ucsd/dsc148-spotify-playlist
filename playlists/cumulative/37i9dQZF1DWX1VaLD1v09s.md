@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-491 songs - 1 day 16 hr 32 min
+492 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2021-04-04 | 2023-04-03 |
 | [My God, My God \(Psalm 22\)](https://open.spotify.com/track/28q36NCXxQi9ombtdE6loy) | [Brian Moss](https://open.spotify.com/artist/0gSi6pXSvfPVFuecipL8Zr) | [Prayerbook, No\. 2 \- New Songs Inspired by Psalms 16\-30](https://open.spotify.com/album/4HRYOlz2maIoKHh1m8PgWL) | 5:40 | 2021-04-04 | 2022-07-27 |
 | [My Hope Secure](https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [My Hope Secure](https://open.spotify.com/album/5MT9pzBW54hm6sfTUSLnt6) | 4:16 | 2022-04-02 |  |
-| [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-04-17 |  |
+| [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-04-17 | 2024-04-21 |
 | [My Savior My God \- Live](https://open.spotify.com/track/3QJYGjcUJ8C12BMzIWPpJK) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made A Way \(Live\)](https://open.spotify.com/album/0L62zrqwu44InGe9d4EUmQ) | 5:04 | 2021-04-04 | 2022-07-29 |
 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 | 2022-04-02 | 2022-04-21 |
 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 | 2021-04-04 | 2022-07-25 |
@@ -380,6 +380,7 @@
 | [Stronger \- Live At The Acer Arena](https://open.spotify.com/track/5m51OO5irIi2ZIk5ywCePh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [This Is Our God \(Live\)](https://open.spotify.com/album/64JHslZZ5Y8uj0HhjGr7th) | 4:26 | 2022-04-02 | 2022-04-20 |
 | [Suffering Servant](https://open.spotify.com/track/4pC2qtOtvIB96m9QE4Divo) | [The Modern Post](https://open.spotify.com/artist/6z989iXQpOqgPU7vDclfna) | [The Water & the Blood](https://open.spotify.com/album/2Chr1Kg4lPsksp7CWpUuta) | 4:30 | 2022-04-02 | 2022-04-19 |
 | [Sunday Is Coming](https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua) | 4:52 | 2023-04-02 | 2023-08-21 |
+| [Sunday Is Coming](https://open.spotify.com/track/4VC8MVxUm6Pb57MaJXz7iQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Sunday Is Coming](https://open.spotify.com/album/408vh14ZAvgmakxejGEmka) | 4:52 | 2024-03-20 |  |
 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2023-04-09 | 2024-04-19 |
 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp) | 5:23 | 2024-03-20 |  |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 5:00 | 2021-04-04 |  |

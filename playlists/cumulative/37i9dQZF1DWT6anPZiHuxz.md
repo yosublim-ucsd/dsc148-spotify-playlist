@@ -4,7 +4,7 @@
 
 > Chasing that runner's high
 
-195 songs - 10 hr 46 min
+196 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fire \- Price & Takis Remix](https://open.spotify.com/track/5tyLZo7DHqD5TcZZCgAIcW) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox) | [Fire \(Remixes\)](https://open.spotify.com/album/0fZRflb7bZgzaJjRUJh8uy) | 3:06 | 2022-08-12 | 2022-10-13 |
 | [Fire \- Price & Takis Remix](https://open.spotify.com/track/6PPJ2XXyC9NybSZlU3hTZo) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox) | [Fire \(Remixes\)](https://open.spotify.com/album/0cyAL3igv1nQAVdfykQgfK) | 3:06 | 2022-08-12 | 2023-02-11 |
 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 | 2022-08-12 | 2024-03-27 |
+| [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-19 |  |
 | [Free](https://open.spotify.com/track/1tOTq5hXlLeKbqOVn8ddMF) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [TOGETHER](https://open.spotify.com/album/00a5EKAAd7gfrblq8gY3WZ) | 3:48 | 2024-01-19 | 2024-02-17 |
 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 | 2024-04-15 |  |
 | [Geronimo \- Benny Benassi Remix](https://open.spotify.com/track/6UzRLAMyYXtLIcl5xC21B0) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV), [Marco Benassi](https://open.spotify.com/artist/0VCeLSthzNWXPDjUWL1fQr), [Alessandro Benassi](https://open.spotify.com/artist/67xLNiooFLOvJZybLylxNT) | [Geronimo \(Remixes\)](https://open.spotify.com/album/1otjvVY7h9t3u2KOGBU3mk) | 4:30 | 2022-08-12 | 2022-10-06 |
@@ -201,7 +202,7 @@
 | [What Took You So Long](https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [What Took You So Long](https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h) | 3:31 | 2024-03-22 |  |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-02-16 |  |
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2024-01-26 |  |
-| [yes, and? \- Felix Jaehn Remix](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:55 | 2024-03-01 |  |
+| [yes, and? \- Felix Jaehn Remix](https://open.spotify.com/track/6R5licKQW6P3UD64RWtKxb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:55 | 2024-03-01 | 2024-04-21 |
 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 | 2022-08-12 | 2024-01-20 |
 
 \*This playlist was first scraped on 2022-09-23. Prior content cannot be recovered.

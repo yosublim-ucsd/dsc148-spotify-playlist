@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,332 songs - 3 day 0 hr 15 min
+1,333 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2020-09-15 | 2022-07-26 |
 | [Apollo](https://open.spotify.com/track/0kxDYqZ4gWijaLJDrTNsLU) | [Malik Bash](https://open.spotify.com/artist/7D3Q08a4fPvlfImxhKCtUw) | [Apollo](https://open.spotify.com/album/34eLsHSDfiNcQ7YNAVlIjw) | 3:41 | 2019-12-30 | 2020-10-15 |
 | [Apologize](https://open.spotify.com/track/1JG8pJ7G8qJiy98DzCBL2E) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Apologize](https://open.spotify.com/album/68APloiqzQpJvNubiILIpw) | 3:18 | 2019-05-26\* | 2020-10-09 |
+| [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 2:30 | 2024-04-19 |  |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-12 |  |
 | [As Long As I Got](https://open.spotify.com/track/6BYgj5vMITYe2x6umcvPQP) | [Türküm](https://open.spotify.com/artist/6OmEJA1myxyRYNgU016xHY) | [As Long As I Got](https://open.spotify.com/album/4fQVUAJBglMr3usz0g4Sh8) | 2:03 | 2019-11-23 | 2020-05-30 |
 | [Astro](https://open.spotify.com/track/0cN1HSqR8CEtlj17sVyOvP) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Astro](https://open.spotify.com/album/1BU2DMquHPhBw77JgEU3e7) | 2:57 | 2020-07-03 | 2020-09-15 |
@@ -165,7 +166,7 @@
 | [Box Spring](https://open.spotify.com/track/5vqJQYenUv8XaTO8hOnhNa) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Box Spring](https://open.spotify.com/album/2UOfzROpYaznlOxZUwQvHf) | 3:42 | 2019-06-22 | 2020-10-21 |
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-08 |  |
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-09-15 |  |
-| [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-11-24 |  |
+| [Brand New](https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0) | 3:02 | 2023-11-24 | 2024-04-21 |
 | [Brazilera](https://open.spotify.com/track/1oo1rEQATDYqmWysK6IrqP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:04 | 2021-10-13 | 2022-04-20 |
 | [Break A Sweat](https://open.spotify.com/track/2WKHv9lUvKA3dEnJy0t9ie) | [Sophie Francis](https://open.spotify.com/artist/0NQJm4Wlz3rrDJGlQ28L81) | [Break A Sweat](https://open.spotify.com/album/4k3rSZETqfdbmcx3oWR17E) | 2:31 | 2021-06-24 | 2022-06-11 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-08-08 |  |

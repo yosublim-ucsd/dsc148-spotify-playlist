@@ -1,6 +1,6 @@
 {
   "description": "Home to current Pakistani Hits. \ud83c\uddf5\ud83c\uddf0 Cover: Kaifi Khalil",
-  "num_followers": 50099,
+  "num_followers": 50169,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,26 @@
       "duration_ms": 139318,
       "name": "Kahani Meri",
       "url": "https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv"
+    },
+    {
+      "added_at": "2024-04-20 01:00:00",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "duration_ms": 302306,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h"
     },
     {
       "added_at": "2024-04-20 01:00:00",

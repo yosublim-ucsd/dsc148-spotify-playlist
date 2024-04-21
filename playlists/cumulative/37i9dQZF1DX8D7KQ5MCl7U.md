@@ -4,10 +4,11 @@
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-403 songs - 1 day 20 hr 24 min
+404 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2AM](https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [2AM](https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq) | 5:02 | 2024-04-20 |  |
 | [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/2FPoTfF8c3DziIxEsMFDWf) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 3:10 | 2022-10-12 | 2023-12-09 |
 | [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/2kS4b0yqQPkEjHFLxK0dWx) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 3:10 | 2022-10-12 | 2023-12-25 |
 | [Aaj Jane Ki Zid Na Karo](https://open.spotify.com/track/6XFGKGOjlwXWm12DHV1CWc) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 3:10 | 2022-03-23 | 2023-10-08 |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-695 songs - 1 day 11 hr 13 min
+696 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Follow Me](https://open.spotify.com/track/19aAvyfu96PEYMVigkJTgN) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Follow Me](https://open.spotify.com/album/1dc9eva5qEPPxnGX9LZ4eX) | 3:00 | 2022-02-18 | 2022-04-14 |
 | [Follow the Sun](https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Follow the Sun](https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae) | 2:34 | 2022-07-01 |  |
 | [Follow the Sun](https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Follow the Sun](https://open.spotify.com/album/4fK4H2s7ScUevkJwfSb8vm) | 1:56 | 2022-04-08 | 2024-01-03 |
+| [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-19 |  |
 | [Forever And A Day \- LVNDSCAPE Remix](https://open.spotify.com/track/4MmESCOyomLv2BmcHkVAQY) | [Bolier](https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD), [Natalie Peris](https://open.spotify.com/artist/1RtzTxvZZdPsVz82rB7BEs), [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [Forever And A Day](https://open.spotify.com/album/3GbSqBflhUSuP294AP68GQ) | 3:55 | 2022-01-14 | 2022-05-07 |
 | [Freak \- Sam Feldt Remix Edit](https://open.spotify.com/track/5SNTUBSq1Qzi0URdB443h1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Freak](https://open.spotify.com/album/0ojB0D1LudlOhfQr3mQaJ7) | 3:16 | 2022-01-14 | 2022-05-23 |
 | [Free Falling Love](https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Free Falling Love](https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE) | 2:35 | 2022-06-03 | 2024-04-06 |
@@ -440,7 +441,7 @@
 | [Often \- Kygo Remix](https://open.spotify.com/track/27NV2KxoQ8WuLMqlTDI61F) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Often \(Kygo Remix\)](https://open.spotify.com/album/0V4FRK9laLF1enOUga4b2d) | 3:54 | 2022-04-01 |  |
 | [Oh Baby](https://open.spotify.com/track/2MmmLzAFA2XmKB4hP843gh) | [Seizo](https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX) | [The Bearded Man \- Beards On The Beach \(Ibiza 2016\)](https://open.spotify.com/album/2RKn3sW8xSUVgChxnvDVl0) | 2:39 | 2022-01-14 | 2022-04-27 |
 | [Old Guitar](https://open.spotify.com/track/38tGRxFP5NkWbtOWsXbQ0L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Old Guitar](https://open.spotify.com/album/5OMuOXDJwxGMLXvPj9kvqz) | 3:28 | 2022-04-01 | 2022-04-21 |
-| [Old Life](https://open.spotify.com/track/0zDd81VI35l7iRj1fUvadx) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Old Life](https://open.spotify.com/album/7LYLKTXCoT8kotqcflJTvR) | 3:04 | 2023-08-18 |  |
+| [Old Life](https://open.spotify.com/track/0zDd81VI35l7iRj1fUvadx) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Old Life](https://open.spotify.com/album/7LYLKTXCoT8kotqcflJTvR) | 3:04 | 2023-08-18 | 2024-04-21 |
 | [On Fire](https://open.spotify.com/track/0uExPDE9Myy7FN9WkKNL72) | [True Emotions](https://open.spotify.com/artist/4g90cxKE5fIoVkPK3Rll02) | [On Fire](https://open.spotify.com/album/3rxExh454D4LTixvdiJ6Hj) | 3:28 | 2022-04-01 | 2022-07-29 |
 | [On My Own](https://open.spotify.com/track/2OmBaJYDXL2ygMVVV4M7L0) | [Gktrk](https://open.spotify.com/artist/2hoTdea8RAt8OxW7RIcR6d), [Daïtshi](https://open.spotify.com/artist/6dYujIzzHgSWODbmPYoJVC), [Mikayla](https://open.spotify.com/artist/53gBJot4NtKHSCLTuUdTYR) | [On My Own](https://open.spotify.com/album/0YlVmBr9EBZc9NrFZvYjho) | 2:24 | 2022-04-29 | 2023-06-19 |
 | [On My Side](https://open.spotify.com/track/5hRVBXMn6TFyOncZTYl7ej) | [Hounded](https://open.spotify.com/artist/0ttHbJjRLbyrOgRy0oUMug), [Savoi](https://open.spotify.com/artist/4dRRQxDsUXpBkGqjS7vNcO) | [On My Side \(feat\. Savoi\)](https://open.spotify.com/album/5PCo30Irlzv3HTIZYae18C) | 3:04 | 2022-01-14 | 2022-05-10 |

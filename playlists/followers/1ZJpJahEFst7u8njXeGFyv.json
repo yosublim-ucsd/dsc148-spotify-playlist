@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 309682,
+  "2024-04-21": 309435,
   "date_first_scraped": "2022-09-28",
   "description": "Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl. Yo-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.",
   "name": "Relaxing Classical",
@@ -6934,6 +6934,32 @@
     },
     {
       "album": {
+        "name": "Nocturnes, Op. 62: II. Lento (Arr. for Cello & Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/5Qz7MbOHUXBTgZqs30l4gH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Olga Scheps",
+          "url": "https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179328,
+      "name": "Nocturnes, Op. 62: II. Lento (Arr. for Cello & Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/2NS85cYgltENgdfA6Pq7un"
+    },
+    {
+      "album": {
         "name": "Christmas Piano with Alexis",
         "url": "https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx"
       },
@@ -8663,6 +8689,24 @@
       "duration_ms": 104320,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/4ih3wEKgswM0P1gT4Xq5XI"
+    },
+    {
+      "album": {
+        "name": "Classic II",
+        "url": "https://open.spotify.com/album/1jYhZVt3I0N2M081cXrSjE"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Rhapsody on a Theme of Paganini",
+      "url": "https://open.spotify.com/track/7ihUaN200f5Av7pJRbRvz4"
     },
     {
       "album": {

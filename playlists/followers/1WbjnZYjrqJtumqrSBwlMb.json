@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 15,
+  "2024-04-21": 15,
   "date_first_scraped": "2024-04-06",
   "description": "Objectively good music",
   "name": "The True Benny Mix",
@@ -11469,6 +11469,24 @@
       "duration_ms": 227981,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/1LUyHPbfI0EXbMkvHR0PNX"
+    },
+    {
+      "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
       "album": {

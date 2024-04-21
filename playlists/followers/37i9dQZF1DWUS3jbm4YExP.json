@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 717744,
+  "2024-04-21": 718032,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -2335,6 +2335,24 @@
       "duration_ms": 262453,
       "name": "Coup de foudre \u00e0 Thessalonique",
       "url": "https://open.spotify.com/track/6g7Mf0uuommKD2qyyOmzCd"
+    },
+    {
+      "album": {
+        "name": "Contemporary Afro Beat",
+        "url": "https://open.spotify.com/album/33lFnjJDTWmpTq8aoySfDE"
+      },
+      "artists": [
+        {
+          "name": "Fanga",
+          "url": "https://open.spotify.com/artist/7u17cR6KuOndz03h16dCmG"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305106,
+      "name": "Crache La Douleur",
+      "url": "https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4"
     },
     {
       "album": {
@@ -7589,7 +7607,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 365759,
       "name": "Mapenzi Hayana Daktari - Frankie Francis Edit",
       "url": "https://open.spotify.com/track/4QIvczQeuOGAsQ4FpgrMUI"

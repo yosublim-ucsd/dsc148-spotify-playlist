@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-941 songs - 3 day 4 hr 33 min
+941 songs - 3 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Não Pare, Adore \(feat\. André e Felipe\)](https://open.spotify.com/track/6kFuw6hRfYifG7zS3nQuCG) | [Maykel Maia](https://open.spotify.com/artist/6EZwQO90m8UhhW6LdqcfYj), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não Pare, Adore \(feat\. André e Felipe\)](https://open.spotify.com/album/5ja83oGl5gB6leK6YSXJdl) | 4:23 | 2023-07-07 | 2023-07-15 |
 | [Não Retire Teus Olhos de Mim \(Studio Session\)](https://open.spotify.com/track/7f6Kmw94UySwDBhx0tnoGH) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Não Retire Teus Olhos de Mim \(Studio Session\)](https://open.spotify.com/album/50b4eMOXeOKIXprzoHhdkW) | 4:32 | 2024-04-19 |  |
 | [Não Te Abandono](https://open.spotify.com/track/2QUxsTL6NN2aLISse5WMiD) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Matias Palheiro](https://open.spotify.com/artist/1lLHBfhNJSt67XhQBLJ7Wd), [Guilherme Ludtke](https://open.spotify.com/artist/2dOAyOfeeYGOE3TDXfHLwt) | [Não Te Abandono](https://open.spotify.com/album/5KmuqpltfJxdP1itCpGPZQ) | 4:26 | 2023-10-13 | 2023-10-21 |
-| [Não Vai Falhar \- Ao Vivo](https://open.spotify.com/track/34EZHKF9dJAhTk7vsmMyud) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Não Vai Falhar \(Ao Vivo\)](https://open.spotify.com/album/6eCe45YrCUsad0vzZ0dpyX) | 4:37 | 2024-04-19 |  |
+| [Não Vai Falhar \- Ao Vivo](https://open.spotify.com/track/34EZHKF9dJAhTk7vsmMyud) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Não Vai Falhar \(Ao Vivo\)](https://open.spotify.com/album/6eCe45YrCUsad0vzZ0dpyX) | 4:37 | 2024-04-19 |  |
 | [Não Volte a Chorar](https://open.spotify.com/track/4IqAJxK9rDXgr2fpHecUYr) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Não Volte a Chorar](https://open.spotify.com/album/3ngsFkhqDjzCejzJqQuUOr) | 2:54 | 2023-08-18 | 2023-09-02 |
 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 | 2023-12-22 | 2024-01-06 |
 | [Não É do Teu Jeito](https://open.spotify.com/track/050PlvXJiIJK9APwWzskSB) | [Jana de Paula](https://open.spotify.com/artist/3Lr6AuHiJDlxtvz42oAL3K) | [Não É do Teu Jeito](https://open.spotify.com/album/5IwgrMhzPye71zaDpkQiG6) | 4:40 | 2023-09-15 | 2023-09-26 |
@@ -637,7 +637,7 @@
 | [Pode Botar Meu Nome \- Ao Vivo](https://open.spotify.com/track/5RfygraNB6EPVcWFhJC28x) | [Sandro Nazireu](https://open.spotify.com/artist/0Dp4MzpjAtMZqP5Dpbf6pV) | [Pode Botar Meu Nome \(Ao Vivo\)](https://open.spotify.com/album/7vnsvhv9VBxVuPFZUGLgPi) | 2:25 | 2023-09-25 | 2023-10-07 |
 | [Pode Começar Agora \- Ao Vivo](https://open.spotify.com/track/5QguNh24lZ3wEHZwENbNJD) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Pode Começar Agora](https://open.spotify.com/album/4nu4QKriUnD4uUg3LJYz0i) | 5:30 | 2023-09-08 | 2023-09-16 |
 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 | 2023-10-06 | 2023-10-21 |
-| [Podes Vir Jesus](https://open.spotify.com/track/4IwPx88lllAUJj2Fq4GOjU) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Podes Vir Jesus](https://open.spotify.com/album/6GKcmvITxh0BT9964hBsLA) | 4:35 | 2024-04-19 |  |
+| [Podes Vir Jesus](https://open.spotify.com/track/4IwPx88lllAUJj2Fq4GOjU) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Podes Vir Jesus](https://open.spotify.com/album/6GKcmvITxh0BT9964hBsLA) | 6:10 | 2024-04-19 |  |
 | [Ponto de Partida](https://open.spotify.com/track/05Teec4me0ieroW0A3CWTN) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Ponto de Partida](https://open.spotify.com/album/1Us1TQdylueuubkB3r86gs) | 3:34 | 2023-10-20 | 2023-11-04 |
 | [Ponto e Vírgula](https://open.spotify.com/track/5bEzTi1KtTq8XOjC09Gq1i) | [Mariana Farinha](https://open.spotify.com/artist/7cex243xxRSoUHTloV0zBy) | [Ponto e Vírgula](https://open.spotify.com/album/4TnwtROSpEDIuLBTBgJQxy) | 3:54 | 2024-04-19 |  |
 | [Por Amor](https://open.spotify.com/track/1T4ybs4DntmzmgJNwhGezm) | [Catedral](https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX) | [Por Amor](https://open.spotify.com/album/3fZCvRCUniPsLBEnVc2TCo) | 3:13 | 2023-07-21 | 2023-07-29 |

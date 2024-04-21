@@ -1,12 +1,12 @@
 {
-  "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 357103,
+  "description": "This Is Metro Boomin. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 357163,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGY2ZThmY2ExMjI0NDZkMWFiMGZiOGMyYWQyODI2Mjc3",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDRkOGI0YzhmMmViNzNiNGE0ZDU5Y2ViODkzOTM1MWIw",
   "tracks": [
     {
       "added_at": null,
@@ -538,11 +538,15 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4k8XSN1nCJ0rMf4OKF3zEz"
+      "duration_ms": 213853,
+      "name": "Show of Hands",
+      "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
     },
     {
       "added_at": null,
@@ -630,15 +634,11 @@
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 213853,
-      "name": "Show of Hands",
-      "url": "https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk"
+      "duration_ms": 224666,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4k8XSN1nCJ0rMf4OKF3zEz"
     },
     {
       "added_at": null,

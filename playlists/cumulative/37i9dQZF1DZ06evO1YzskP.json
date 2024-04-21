@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Me Ven X LA",
+        "url": "https://open.spotify.com/album/0OziSS9Rh7H2xnJwfYeMoS"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158026,
+      "name": "Me Ven X LA",
+      "url": "https://open.spotify.com/track/3VVk8rPvZ7xdKzYugKNO42"
+    },
+    {
+      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
       },

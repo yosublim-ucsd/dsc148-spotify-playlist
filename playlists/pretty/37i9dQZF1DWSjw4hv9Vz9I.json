@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133420,
+  "num_followers": 133448,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
         "name": "Black Joe Lewis & The Honeybears",
         "url": "https://open.spotify.com/album/090X467JS4xj4diMdewTZs"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164306,
       "name": "Bitch, I Love You",
       "url": "https://open.spotify.com/track/6XxsaUGWRXc30HgewJ10M8"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2023-07-11 18:58:28",
@@ -1461,6 +1461,22 @@
       "url": "https://open.spotify.com/track/0TWzKkDOhIcxWDp0ORDzpJ"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
       "added_at": "2021-10-08 04:01:00",
       "album": {
         "name": "Keep It",
@@ -1493,22 +1509,6 @@
       "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
       "added_at": "2023-07-11 18:58:28",
       "album": {
         "name": "The Gumption",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Girl from the Valley",
-        "url": "https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW"
-      },
-      "artists": [
-        {
-          "name": "Micah Edwards",
-          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
-        }
-      ],
-      "duration_ms": 200264,
-      "name": "Girl from the Valley",
-      "url": "https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV"
-    },
-    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Golden Days",
@@ -1555,6 +1539,22 @@
       "duration_ms": 280280,
       "name": "I Need a Win",
       "url": "https://open.spotify.com/track/2QF4b6mH7o8oBj3ky1IuCX"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Girl from the Valley",
+        "url": "https://open.spotify.com/album/6EkMFFcKDXwkXQSItCxRTW"
+      },
+      "artists": [
+        {
+          "name": "Micah Edwards",
+          "url": "https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs"
+        }
+      ],
+      "duration_ms": 200264,
+      "name": "Girl from the Valley",
+      "url": "https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV"
     },
     {
       "added_at": "2022-01-21 05:02:00",

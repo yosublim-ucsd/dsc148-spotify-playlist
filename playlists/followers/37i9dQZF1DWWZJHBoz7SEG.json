@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 835863,
+  "2024-04-21": 835075,
   "date_first_scraped": "2022-02-09",
   "description": "\u00a1Sube la temperatura con las nuevas rolitas de DJ Snake con Peso Pluma, \u00c1ngela Aguilar, y Ed\u00e9n Mu\u00f1oz! \ud83e\udd75 Tay-Tay en portada  ",
   "name": "Novedades Viernes MX",
@@ -4089,7 +4089,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 210960,
       "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
       "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
@@ -38610,7 +38610,7 @@
     },
     {
       "album": {
-        "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+        "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
       "artists": [
@@ -38631,7 +38631,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175803,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+      "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
@@ -58953,6 +58953,24 @@
       "duration_ms": 173386,
       "name": "Luz Prendida",
       "url": "https://open.spotify.com/track/04GQvEby350jUhpZOMMMG1"
+    },
+    {
+      "album": {
+        "name": "LVRBOY",
+        "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249917,
+      "name": "LVRBOY",
+      "url": "https://open.spotify.com/track/4EboiR8ycNdFamgaNcY4bb"
     },
     {
       "album": {

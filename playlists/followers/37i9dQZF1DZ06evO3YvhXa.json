@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 383066,
+  "2024-04-21": 383116,
   "date_first_scraped": "2023-07-29",
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
   "name": "This Is Jamiroquai",
@@ -627,7 +627,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 383973,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/4YBs74uWL6J9zpmaFL9LXt"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 264880,
       "name": "Two Completely Different Things",
       "url": "https://open.spotify.com/track/1zw2pnfGDjRjnPOquYGwH6"

@@ -1,7 +1,7 @@
 {
-  "2024-04-20": 45353,
+  "2024-04-21": 45436,
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days w/ Microwave",
+  "description": "it's just one of those days w/ Hot Mulligan",
   "name": "emo right now",
   "tracks": [
     {
@@ -83,6 +83,24 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "album": {
+        "name": "A Trip Around The Sun",
+        "url": "https://open.spotify.com/album/37ufAzgTua4prY2qHJoK6c"
+      },
+      "artists": [
+        {
+          "name": "Into It. Over It.",
+          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284344,
+      "name": "A Trip Around The Sun",
+      "url": "https://open.spotify.com/track/1Pkbn3NAhaBBSiMs5qdoa8"
     },
     {
       "album": {
@@ -356,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Cactus Song",
+        "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
+      },
+      "artists": [
+        {
+          "name": "Raccoon Tour",
+          "url": "https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182985,
+      "name": "Cactus Song",
+      "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
+    },
+    {
+      "album": {
         "name": "cadence",
         "url": "https://open.spotify.com/album/5W3HQVjsF1UCmsaehz5eiX"
       },
@@ -443,6 +479,24 @@
       "duration_ms": 172186,
       "name": "Callin Me",
       "url": "https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4"
+    },
+    {
+      "album": {
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
     },
     {
       "album": {
@@ -1058,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
+    },
+    {
+      "album": {
         "name": "Glass",
         "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
       },
@@ -1303,7 +1375,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 191548,
       "name": "i heard they found you face down inside your living room",
       "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
@@ -1588,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "kissinginacarcrash",
+        "url": "https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "kissinginacarcrash",
+      "url": "https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq"
+    },
+    {
+      "album": {
         "name": "KO",
         "url": "https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd"
       },
@@ -1617,7 +1707,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 159333,
       "name": "Leap Years",
       "url": "https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW"
@@ -1833,7 +1923,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 241493,
       "name": "Mulholland Dr.",
       "url": "https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf"
@@ -1855,6 +1945,24 @@
       "duration_ms": 164167,
       "name": "My Anchor",
       "url": "https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv"
+    },
+    {
+      "album": {
+        "name": "No Backbone",
+        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137076,
+      "name": "No Backbone",
+      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
     },
     {
       "album": {
@@ -2017,7 +2125,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 335392,
       "name": "Open Container Blues - feat. Briana Wright of Cliffdiver",
       "url": "https://open.spotify.com/track/0FdvxsO1nDPSSI39kdGWqQ"
@@ -2089,7 +2197,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 192635,
       "name": "Pinky Swear",
       "url": "https://open.spotify.com/track/0FKsASgAPAKTSzW1WfPHIw"
@@ -2237,6 +2345,24 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187482,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
     },
     {
       "album": {
@@ -2413,7 +2539,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 164546,
       "name": "Shhhh! Golf is On",
       "url": "https://open.spotify.com/track/5X8xbnM1OUIHptbkXhOG5P"
@@ -2561,6 +2687,24 @@
       "duration_ms": 229555,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
+    },
+    {
+      "album": {
+        "name": "Stickers of Brian",
+        "url": "https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161642,
+      "name": "Stickers of Brian",
+      "url": "https://open.spotify.com/track/7M0A43aUdp5VDqUq39SJhV"
     },
     {
       "album": {
@@ -2816,6 +2960,24 @@
     },
     {
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/3Wqo8U4XZhVXERrNgRezPa"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262049,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/4051HoyvOb55X0jRKA8yPr"
+    },
+    {
+      "album": {
         "name": "The Highway Signs Will Lead to Nothing",
         "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
       },
@@ -3065,6 +3227,24 @@
       "duration_ms": 209500,
       "name": "Wilmer",
       "url": "https://open.spotify.com/track/46jTnBN3qzAUBWNu7HcKdq"
+    },
+    {
+      "album": {
+        "name": "Won't You Fade",
+        "url": "https://open.spotify.com/album/0JzKDW5zcrzql9gz0UDEI3"
+      },
+      "artists": [
+        {
+          "name": "Wither Away",
+          "url": "https://open.spotify.com/artist/5qMmv2bWNnZOP0RLAzaHvM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273558,
+      "name": "Won't You Fade",
+      "url": "https://open.spotify.com/track/2ORXMAC5DctNtC3LfhIsQF"
     },
     {
       "album": {

@@ -15267,6 +15267,24 @@
     },
     {
       "album": {
+        "name": "Melody (From \"Star\")",
+        "url": "https://open.spotify.com/album/1DmQheCF3CagBO2oJVzuXD"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136243,
+      "name": "Melody (From \"Star\")",
+      "url": "https://open.spotify.com/track/2yMk1KYbh3F8P7VArxxGwT"
+    },
+    {
+      "album": {
         "name": "The Village (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2HwVmtLvzEwz9KaoWYRcpP"
       },

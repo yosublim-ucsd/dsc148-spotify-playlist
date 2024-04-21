@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 92374,
+  "2024-04-21": 92410,
   "date_first_scraped": "2022-01-05",
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
   "name": "Electronic X",
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 239224,
       "name": "Alabaster",
       "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
@@ -2295,7 +2295,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 192920,
       "name": "EA9633",
       "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"

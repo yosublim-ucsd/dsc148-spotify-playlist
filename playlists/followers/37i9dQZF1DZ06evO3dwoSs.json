@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 537028,
+  "2024-04-21": 536927,
   "date_first_scraped": "2022-05-31",
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
   "name": "This Is Five Finger Death Punch",
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-20",
+      "date_removed": null,
       "duration_ms": 292804,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX"
@@ -1183,7 +1183,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 272500,
       "name": "Judgement Day - Acoustic",
       "url": "https://open.spotify.com/track/1Dgm07q9zjUWD9JjYtZHSR"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 188842,
       "name": "Pick Up Behind You",
       "url": "https://open.spotify.com/track/6sMOYEbYigMVoIVNyNEIPN"

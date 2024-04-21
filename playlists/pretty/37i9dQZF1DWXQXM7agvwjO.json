@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. cover: Elaine (Singapore)",
-  "num_followers": 95410,
+  "num_followers": 95436,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-04-19 09:17:55",
       "album": {
-        "name": "Toast",
-        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
-    },
-    {
-      "added_at": "2024-04-19 09:17:55",
-      "album": {
         "name": "LOVERs ATLAS",
         "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 196977,
       "name": "WANDERLUST",
       "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+    },
+    {
+      "added_at": "2024-04-19 09:17:55",
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     },
     {
       "added_at": "2024-04-19 09:17:55",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-04-19 09:17:55",
       "album": {
-        "name": "Your Favorite Food",
-        "url": "https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp"
-      },
-      "artists": [
-        {
-          "name": "Oslo Ibrahim",
-          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
-        }
-      ],
-      "duration_ms": 270594,
-      "name": "Your Favorite Food",
-      "url": "https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d"
-    },
-    {
-      "added_at": "2024-04-19 09:17:55",
-      "album": {
         "name": "UMAMI",
         "url": "https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 202000,
       "name": "UMAMI",
       "url": "https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8"
+    },
+    {
+      "added_at": "2024-04-19 09:17:55",
+      "album": {
+        "name": "Your Favorite Food",
+        "url": "https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 270594,
+      "name": "Your Favorite Food",
+      "url": "https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d"
     },
     {
       "added_at": "2024-04-19 09:17:55",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2024-04-19 09:17:55",
       "album": {
-        "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
-        "url": "https://open.spotify.com/album/1jzXPiCE938LMWgUlJ20PA"
+        "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
+        "url": "https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp"
       },
       "artists": [
         {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+          "name": "\u8001\u738b\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
         }
       ],
-      "duration_ms": 190525,
-      "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
-      "url": "https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi"
+      "duration_ms": 357004,
+      "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
+      "url": "https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY"
     },
     {
       "added_at": "2024-04-19 09:17:55",
@@ -1715,6 +1711,26 @@
     {
       "added_at": "2024-04-19 09:17:55",
       "album": {
+        "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
+        "url": "https://open.spotify.com/album/1jzXPiCE938LMWgUlJ20PA"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 190525,
+      "name": "Coming Home Isn't Easy (feat. Phum Viphurit)",
+      "url": "https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi"
+    },
+    {
+      "added_at": "2024-04-19 09:17:55",
+      "album": {
         "name": "love is growing",
         "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 178422,
       "name": "love is growing",
       "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
-    },
-    {
-      "added_at": "2024-04-19 09:17:55",
-      "album": {
-        "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
-        "url": "https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp"
-      },
-      "artists": [
-        {
-          "name": "\u8001\u738b\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT"
-        }
-      ],
-      "duration_ms": 357004,
-      "name": "\u60f3\u8981\u6709\u500b\u907f\u98a8\u6e2f",
-      "url": "https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY"
     }
   ],
   "unique_name": ".ORG",

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 41091,
+  "2024-04-21": 41137,
   "date_first_scraped": "2022-07-19",
   "description": "Grind day motivation ",
   "name": "Daily Hustle ",
@@ -6291,6 +6291,24 @@
       "duration_ms": 182684,
       "name": "No More",
       "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "album": {
+        "name": "No One Cares",
+        "url": "https://open.spotify.com/album/6phBnvjWE3OarO3o1xHspu"
+      },
+      "artists": [
+        {
+          "name": "DEDAN",
+          "url": "https://open.spotify.com/artist/6V3bSP6SAobPg4SVtsUTrP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "No One Cares",
+      "url": "https://open.spotify.com/track/4KXymUzgOQlVzzUJkqhlT6"
     },
     {
       "album": {

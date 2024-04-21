@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Benjamín Amadeo & Soledad
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,031 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,118 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 65 | [Debí Suponerlo](https://open.spotify.com/track/2pIIRKRwWSi1Sb29VYLOOa) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 2:24 |
 | 66 | [Con la Falta Que Me Haces](https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Con la Falta Que Me Haces](https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw) | 2:44 |
 | 67 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 |
-| 68 | [La Oportunidad](https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [La Oportunidad](https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei) | 4:15 |
+| 68 | [la oportunidad](https://open.spotify.com/track/3bKnIobC3sURrYNptbi7TN) | [CLEMENTE](https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez) | [la oportunidad](https://open.spotify.com/album/09AprFAIabYd5MnoHTE8Ei) | 4:15 |
 | 69 | [No Romperé Tu Corazón](https://open.spotify.com/track/6giH7DBAnEv09xWYadfYAp) | [Hans Braukmann](https://open.spotify.com/artist/5cdzXDYpthGozpsruNbQL5) | [No Romperé Tu Corazón](https://open.spotify.com/album/1xEVJ5JGnBcvMDHoq75PjK) | 2:43 |
 | 70 | [La Serenata](https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [La Serenata](https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio) | 3:24 |
 | 71 | [Tu equipaje](https://open.spotify.com/track/0j20O1NpyhnqlqCeXrmUHU) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Tu equipaje](https://open.spotify.com/album/7HmR5ynubZhzNixymACaKC) | 3:30 |

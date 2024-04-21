@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > these songs will break your phone\. ft\. Odetari x Ayesha Erotica
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,929 likes - 115 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,091 likes - 115 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

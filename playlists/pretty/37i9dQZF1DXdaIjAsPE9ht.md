@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down\. remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,511 likes - 82 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,497 likes - 82 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

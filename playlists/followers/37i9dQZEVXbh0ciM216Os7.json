@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 0,
+  "2024-04-21": 0,
   "date_first_scraped": "2023-02-13",
   "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
   "name": "Release Radar (@ajcooke94)",
@@ -12375,7 +12375,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/4rQuuNKKmV7K45aJoVqyIQ"
@@ -14475,7 +14475,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 223240,
       "name": "Love Direction",
       "url": "https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7"
@@ -19289,7 +19289,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 295146,
       "name": "Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",
       "url": "https://open.spotify.com/track/2w5BtuWXISpB6NM4xPoeiR"
@@ -25755,10 +25755,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 288213,
       "name": "U.S. Blues - Take 8",
       "url": "https://open.spotify.com/track/3T1jkscRUHZDz5c6jLhSCg"
+    },
+    {
+      "album": {
+        "name": "From the Mars Hotel: The Angel's Share",
+        "url": "https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310999,
+      "name": "U.S. Blues - Takes 1 and 2",
+      "url": "https://open.spotify.com/track/6038Yj83tztaf22nodgd2L"
     },
     {
       "album": {
@@ -27105,6 +27123,24 @@
       "duration_ms": 139142,
       "name": "What Is Consciousness?",
       "url": "https://open.spotify.com/track/3QxRWTE24zEgFAqDCmtEDA"
+    },
+    {
+      "album": {
+        "name": "What Is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/5BPnxzzcFjdpNjq5k9pkeA"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139910,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/6IQyOo6MUUB141xqeJ8UfY"
     },
     {
       "album": {

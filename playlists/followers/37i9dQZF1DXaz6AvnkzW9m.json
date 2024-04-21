@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 126644,
+  "2024-04-21": 126698,
   "date_first_scraped": "2022-07-24",
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Tyan G en portada.",
   "name": "Trap Corridos",
@@ -1015,6 +1015,28 @@
       "duration_ms": 122017,
       "name": "Cowboy In An Escalade (Spotify OUTSIDE Version) - Live From West Columbia, TX",
       "url": "https://open.spotify.com/track/1w35Va648auSiXaTgimWj0"
+    },
+    {
+      "album": {
+        "name": "Cuando Llegue el D\u00eda",
+        "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Cuando Llegue el D\u00eda",
+      "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
     },
     {
       "album": {
@@ -2203,7 +2225,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 203221,
       "name": "En las Calles",
       "url": "https://open.spotify.com/track/1kzn8QyrcNw1h8SACHzYMR"

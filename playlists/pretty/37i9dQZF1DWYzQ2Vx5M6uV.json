@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 114752,
+  "num_followers": 114718,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "Certainly",
-        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
-      },
-      "artists": [
-        {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
-        },
-        {
-          "name": "Anni3",
-          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
-        },
-        {
-          "name": "Joe On The Beat",
-          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
-        }
-      ],
-      "duration_ms": 133323,
-      "name": "Certainly",
-      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
         "name": "Diggy Dee (Remix)",
         "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 196973,
       "name": "Diggy Dee - Remix",
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
+        "name": "Certainly",
+        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
+      },
+      "artists": [
+        {
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+        },
+        {
+          "name": "Anni3",
+          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
+        },
+        {
+          "name": "Joe On The Beat",
+          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
+        }
+      ],
+      "duration_ms": 133323,
+      "name": "Certainly",
+      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
     },
     {
       "added_at": "2024-04-05 05:42:37",

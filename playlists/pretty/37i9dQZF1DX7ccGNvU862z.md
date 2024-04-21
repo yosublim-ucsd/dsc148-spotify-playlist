@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > Rhyme Elite Artist League\. ฮิปฮอปของจริง ไม่ต้องอ้างอิงใคร\. ศิลปิน:  Miyarap
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,227 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,641 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

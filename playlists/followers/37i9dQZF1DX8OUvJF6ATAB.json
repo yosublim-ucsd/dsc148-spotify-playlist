@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 192870,
+  "2024-04-21": 192859,
   "date_first_scraped": "2022-01-25",
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
   "name": "Exospheres",
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 223898,
       "name": "Accretion Disk",
       "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
@@ -5839,7 +5839,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 429087,
       "name": "whispers from montreal",
       "url": "https://open.spotify.com/track/4ENx3PS2Ejh5ycLD6CwUmb"

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : GOAT
 
-1,264 songs - 3 day 5 hr 32 min
+1,265 songs - 3 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Megham Karukatha \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/0oPva0szNbLs4DMSbpxA3Y) | 4:50 | 2022-07-16 | 2023-01-11 |
 | [Megham Pol aagi \(From "Nirangal Moondru"\)](https://open.spotify.com/track/2gPvnPXrJXdS41Qg7yJjVv) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Thamarai](https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Megham Pol aagi \(From "Nirangal Moondru"\)](https://open.spotify.com/album/1QZbXSsgopxmHT9R4MzMXr) | 4:18 | 2024-01-04 | 2024-02-21 |
 | [Mehabooba](https://open.spotify.com/track/0SeQF0O4k5Fj91qZOspKYe) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/55ocrn3kExKaTHbH2P8DJg) | 3:32 | 2022-04-14 | 2022-09-23 |
+| [Melody \(From "Star"\)](https://open.spotify.com/track/2yMk1KYbh3F8P7VArxxGwT) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Melody \(From "Star"\)](https://open.spotify.com/album/1DmQheCF3CagBO2oJVzuXD) | 2:16 | 2024-04-20 |  |
 | [Memento Mori](https://open.spotify.com/track/55pFFSHmJx6X3vd9D0FqPx) | [Girishh G](https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB), [Madurai Souljour](https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Ashnaa Sasikaran](https://open.spotify.com/artist/0L8ahVpm6hL7YjudsP6QJu) | [The Village \(Original Series Soundtrack\)](https://open.spotify.com/album/2HwVmtLvzEwz9KaoWYRcpP) | 3:30 | 2023-11-14 | 2023-12-14 |
 | [Menmayaay](https://open.spotify.com/track/5HVrUNujrjrn7Ewfk018S2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chinmayi Sripada](https://open.spotify.com/artist/3MB1ePz3FVSQzFfI9v6KgD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Prithviraj \- Tamil](https://open.spotify.com/album/7rFNqCSbDKvket5UXHyNw4) | 4:04 | 2022-05-19 | 2022-05-31 |
 | [Mera Maadha Margaya \- From "Parole"](https://open.spotify.com/track/7AxIrSAZFQfpUdIYmtLYpP) | [Rajkumar amal](https://open.spotify.com/artist/6yzVu7kXsvBwKUt3grfG0L), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Mera Maadha Margaya \(From "Parole"\)](https://open.spotify.com/album/672JCr0L8cxYSUmfCah9sm) | 3:05 | 2022-11-02 | 2022-11-10 |

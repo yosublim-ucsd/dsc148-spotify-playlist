@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 40032,
+  "2024-04-21": 40157,
   "date_first_scraped": "2023-09-15",
   "description": "n\u00fc-metal revival is happening here and now with From Ashes To New.",
   "name": "new n\u00fc",
@@ -1189,6 +1189,24 @@
       "duration_ms": 206086,
       "name": "King Of The Hill",
       "url": "https://open.spotify.com/track/7wdIea7SkyLruOWRPeFJkL"
+    },
+    {
+      "album": {
+        "name": "Phuck Around Phind Out",
+        "url": "https://open.spotify.com/album/0Bx7Pu8R54BqVtKS3JAuN1"
+      },
+      "artists": [
+        {
+          "name": "FiveByFive",
+          "url": "https://open.spotify.com/artist/1EzbSIgxt91vHZgFsLNFfW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Kraken Down",
+      "url": "https://open.spotify.com/track/3hBmRpAGnVoBSxOnXnQ1be"
     },
     {
       "album": {

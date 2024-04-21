@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Holympo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 27 | [Proximidade](https://open.spotify.com/track/23kRJYPprDKzjrGqdiAyCq) | [SHINY](https://open.spotify.com/artist/3PLznxCPat6iY9LWA8177i) | [Proximidade](https://open.spotify.com/album/29s8RGmjjzv1KbtSt3mPFZ) | 2:49 |
 | 28 | [Montra](https://open.spotify.com/track/01adv1uHdmEbOMUm0Y2vbQ) | [Blutab](https://open.spotify.com/artist/22kBEgCG7XpuS0OJS1vP07) | [Montra](https://open.spotify.com/album/2tzfm5FnxrmZrGImNNYDKQ) | 3:26 |
 | 29 | [CARA TAPADA](https://open.spotify.com/track/3jCX0SLp8CETvgR6d9Iomt) | [clxro](https://open.spotify.com/artist/4hVPqfvxGcxmIWJlEpsMqE) | [CARA TAPADA](https://open.spotify.com/album/5eLxvGeLisaLG73rd0qMsi) | 2:00 |
-| 30 | [Baila Comigo](https://open.spotify.com/track/5LAPVYNMzHO7qGHNTvbfdd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [Potter](https://open.spotify.com/artist/3lEPRRwewQnDzDO1rjLj3q) | [Baila Comigo](https://open.spotify.com/album/7K4yBeaatjskwlJQd6igOt) | 2:16 |
+| 30 | [Baila Comigo](https://open.spotify.com/track/5LAPVYNMzHO7qGHNTvbfdd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Baila Comigo](https://open.spotify.com/album/7K4yBeaatjskwlJQd6igOt) | 2:16 |
 | 31 | [Different Way](https://open.spotify.com/track/75IaLJ5Y564PgI1yUOSGjI) | [RBoy](https://open.spotify.com/artist/0yfYb8zcJhOTaZFFiIsCjD), [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Different Way](https://open.spotify.com/album/4q2yBCJnH6rzehzCUyeEIa) | 3:48 |
 | 32 | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/track/1Fz1vSPH9JxwmJRtCQPiS6) | [Tekilla](https://open.spotify.com/artist/4JpVZA90RocmWArCvMSWqM), [Coca FSM](https://open.spotify.com/artist/7nBujSP0pSaB93RkhIWIiG) | [Karma \(feat\. Coca FSM\)](https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR) | 3:34 |
 | 33 | [Fotossíntese](https://open.spotify.com/track/6kCAwwPzYFk2HmH5YPzVSd) | [NOIATT](https://open.spotify.com/artist/0KZUlXo9Xt5pxkSRZhNJo3) | [Oblíquo](https://open.spotify.com/album/54Df7jJFSVaesioPnZi30T) | 3:02 |

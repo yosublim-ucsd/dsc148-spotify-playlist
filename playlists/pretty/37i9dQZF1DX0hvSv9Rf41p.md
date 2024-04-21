@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Riot Ten
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,157 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,879 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 96 | [BOSS FIGHT](https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [BOSS FIGHT](https://open.spotify.com/album/5nZXNqdF0BInnCkJwFA5a5) | 2:47 |
 | 97 | [Walk On Water \(Wooli & Trivecta Remix\)](https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [RØRY](https://open.spotify.com/artist/1DxeVuzqAPt52cgjyGxwIj) | [Walk On Water \(Wooli & Trivecta Remix\)](https://open.spotify.com/album/0csj86qPXNNcPnddR15YwR) | 3:48 |
 | 98 | [Teeth \(feat\. Bejalvin\)](https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Bejalvin](https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb) | [Harbinger](https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS) | 2:13 |
-| 99 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
-| 100 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
+| 99 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 |
+| 100 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
 
 Snapshot ID: `MTcxMzU2MTU3MCwwMDAwMDAwMGU1OWQ1ZmI3OTFiZTkzODE1YWQwZDY3NzUyYzU2Mjc1`

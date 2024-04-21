@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-582 songs - 1 day 4 hr 37 min
+583 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Accelerate](https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Accelerate](https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l) | 2:07 | 2022-03-23 | 2023-11-03 |
 | [Adventure](https://open.spotify.com/track/5k9VuQEeySm7vOIkj5joWW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Adventure](https://open.spotify.com/album/3CtdMXnK53iu83nh1vpdkz) | 3:07 | 2022-02-04 | 2022-05-11 |
 | [After](https://open.spotify.com/track/6zKGSyH5HTDWoDK2Y8BCB3) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8), [Thomas Iannucci](https://open.spotify.com/artist/1owYPqqX6qgsRRQsocw3Bm) | [After](https://open.spotify.com/album/6Dn3OXlvjkxCxXahmeFB7v) | 2:38 | 2022-08-06 | 2024-01-13 |
-| [AGUA](https://open.spotify.com/track/3JQbPW5RXoiVVQv7zwCoBX) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [AGUA](https://open.spotify.com/album/27PRsTVHgdHphrS7c20jIY) | 2:08 | 2024-03-20 |  |
+| [AGUA](https://open.spotify.com/track/3JQbPW5RXoiVVQv7zwCoBX) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [AGUA](https://open.spotify.com/album/27PRsTVHgdHphrS7c20jIY) | 2:08 | 2024-03-20 | 2024-04-21 |
 | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/track/51JKSTZ1bJjfpV9z8vp9Oi) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [Ain't Nobody \(feat\. LaShun Pace\)](https://open.spotify.com/album/2EB62zJMobWATatn8tWCO4) | 2:54 | 2022-03-23 | 2022-04-21 |
 | [Ain't Playin'](https://open.spotify.com/track/6eGe69PKFWB7AQae8XGeOn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Ain't Playin'](https://open.spotify.com/album/5yvJGix8i4vEc74cJcaS9H) | 3:43 | 2022-03-23 | 2024-01-13 |
 | [All I See \(feat\. CASS\)](https://open.spotify.com/track/7IhaIquZS7xYc1CqXy8XOK) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [All I See \(feat\. CASS\)](https://open.spotify.com/album/3G96gUONpEEN45kuuwb5Bs) | 3:03 | 2022-02-04 | 2024-01-13 |
@@ -310,6 +310,7 @@
 | [Limelight](https://open.spotify.com/track/67eJisNpkndo9Zkowt7M7V) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Limelight](https://open.spotify.com/album/4ib84EXUEayuXlTVdZL3Wq) | 2:13 | 2022-02-04 | 2024-01-13 |
 | [Little Fight Left](https://open.spotify.com/track/0VsNEfYvAYu9sOMSl8flFA) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [Jung Youth](https://open.spotify.com/artist/4Dp0vVy8BpziagOylB21Tp) | [Cinematic Songs \(Vol\. 8\)](https://open.spotify.com/album/2zl3L4ks7mWHd4J6MZRkeG) | 2:39 | 2023-11-02 |  |
 | [Llegó el Culto \- Remix](https://open.spotify.com/track/7MSWXSadUTvH0ZqPsRa91N) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Llegó el Culto \(Remix\)](https://open.spotify.com/album/0x98fuDJtaLXC6makn1aIY) | 3:16 | 2022-04-30 | 2022-05-29 |
+| [Long Time Coming](https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Long Time Coming](https://open.spotify.com/album/1ShR3yKA7APIg2YwKDKlb7) | 2:53 | 2024-03-20 |  |
 | [Long Way \(feat\. KB\)](https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Let's Be Honest \- EP](https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y) | 2:16 | 2022-09-03 | 2024-01-13 |
 | [LOOK AT ME NOW](https://open.spotify.com/track/6EGlBFBeMGPg7I40tkEtPe) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [NOW OR LATER](https://open.spotify.com/album/7v6MWI0jpzxnv5pe7jsIqp) | 2:26 | 2022-10-01 | 2022-11-23 |
 | [Look at Me Now](https://open.spotify.com/track/0D0cxJpnhijpr5QMmKmYDL) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Look at Me Now](https://open.spotify.com/album/430Kd4ZOu31gytgHSIk4Jh) | 3:58 | 2022-05-28 | 2022-07-24 |

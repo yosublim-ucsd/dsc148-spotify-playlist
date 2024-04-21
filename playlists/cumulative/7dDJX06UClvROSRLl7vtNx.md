@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-311 songs - 13 hr 40 min
+312 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Wherever You Wanna Go](https://open.spotify.com/track/01cmpOXrfuFTsofmQtNZM7) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Fijy](https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV) | [Wherever You Wanna Go](https://open.spotify.com/album/3mV6hObQGWB336hBytVH15) | 2:29 | 2024-04-01 |  |
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2023-09-22 |  |
 | [Wicked Game](https://open.spotify.com/track/0MipOE6RTEx3WZL3580AIF) | [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Youkii](https://open.spotify.com/artist/03hW2M1ECvJTjoa8EXVfsn) | [Wicked Game](https://open.spotify.com/album/4VAoXA4Hed91lZYmXHkw2Q) | 2:22 | 2023-09-22 |  |
+| [Will You Be Mine](https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [Will You Be Mine](https://open.spotify.com/album/79387ejIshaY5c4TeTlC1V) | 3:11 | 2024-04-20 |  |
 | [Wish You All the Best](https://open.spotify.com/track/4TII4nhhzE28nrQRGI77QX) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Wish You All the Best](https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j) | 2:13 | 2023-09-22 |  |
 | [With You](https://open.spotify.com/track/3GgHToWEiAi0fkfi5RqSXD) | [Hokima](https://open.spotify.com/artist/5oUG50CyujwLgloGYBjdTc) | [With You](https://open.spotify.com/album/6QWXR95ARSK49Jo1YZvMny) | 2:54 | 2024-03-24 | 2024-04-02 |
 | [With You](https://open.spotify.com/track/5Bh9yee1RRVyksKctBm0F6) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [With You](https://open.spotify.com/album/2iSoiCWE5fytEqicLRk3FS) | 2:16 | 2023-10-27 |  |

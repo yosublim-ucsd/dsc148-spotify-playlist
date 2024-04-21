@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 36153,
+  "num_followers": 36173,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
@@ -2062,6 +2062,26 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 219488,
+      "name": "Solo (feat. Hoody)",
+      "url": "https://open.spotify.com/track/1HKHCSBqNz6LSsufXGcb5q"
+    },
+    {
+      "added_at": "2023-11-27 14:05:19",
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
       "duration_ms": 209392,
@@ -2319,34 +2339,6 @@
       "duration_ms": 246284,
       "name": "Yacht (K) [feat. Sik-K]",
       "url": "https://open.spotify.com/track/4O6aJs7sGvhcnMVOwCHC45"
-    },
-    {
-      "added_at": "2023-11-27 14:05:19",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/4k4OS1SotBwPAD9LeCPgaH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        },
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 264521,
-      "name": "Bo$$ (feat. Yultron, \ub85c\uaf2c Loco & Ugly Duck)",
-      "url": "https://open.spotify.com/track/4GRBOUg6b74ADqooAo9ddZ"
     }
   ],
   "unique_name": "This Is Jay Park",

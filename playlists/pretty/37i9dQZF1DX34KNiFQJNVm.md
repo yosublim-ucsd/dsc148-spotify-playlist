@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Guilherme & Benuto, Ferrugem com Sorriso Maroto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,083 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,551 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [Barulho do Prazer](https://open.spotify.com/track/1RGluLu2l8NMZHyOg0rxiu) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Barulho do Prazer](https://open.spotify.com/album/0JtVCOEjMooHhVATtwnLC6) | 2:30 |
 | 7 | [Amor Livre](https://open.spotify.com/track/6UlGOLD0ho2bpX8tS7mSYT) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Amor Livre](https://open.spotify.com/album/0h9jTpKkd3ubk4TpYizoFw) | 1:46 |
 | 8 | [Mina Sagaz](https://open.spotify.com/track/3kaujvA97kBLORMtjXKPge) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx) | [Mina Sagaz](https://open.spotify.com/album/0eUqiunHoYq9afavHVxAfq) | 2:12 |
-| 9 | [Ódio Do Amor](https://open.spotify.com/track/1AYQMfdzXa3CTyvcNPiA2q) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Ódio Do Amor](https://open.spotify.com/album/1WCaKI0VJbaTvjwRFhtI3e) | 3:34 |
+| 9 | [Ódio Do Amor](https://open.spotify.com/track/1AYQMfdzXa3CTyvcNPiA2q) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [CAO$](https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t), [TrapLaudo](https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF) | [Ódio Do Amor](https://open.spotify.com/album/1WCaKI0VJbaTvjwRFhtI3e) | 3:34 |
 | 10 | [Não Vou Falar Nada \(Vibezinha do Ferinha\)](https://open.spotify.com/track/16Scg0b4CJGXw0NajEv8Dz) | [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Não Vou Falar Nada \(Vibezinha do Ferinha\)](https://open.spotify.com/album/5UMucPnzcZNa4Dj5KB0p7q) | 3:25 |
 | 11 | [Dona da Beleza \- Ao Vivo](https://open.spotify.com/track/1JZkvVMWKqkbH2l8N99iQW) | [Fabinho Testado](https://open.spotify.com/artist/29OyPpZR54SPGzG4YmQ8gY), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Dona da Beleza \(Ao Vivo\)](https://open.spotify.com/album/5Unxw8xlWhIc5IZD9hBDjq) | 3:08 |
 | 12 | [Refil](https://open.spotify.com/track/5jSixl76lISu9N7NBdCK0l) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Refil](https://open.spotify.com/album/7L0t6uvnoraay5yenFiRaz) | 2:21 |

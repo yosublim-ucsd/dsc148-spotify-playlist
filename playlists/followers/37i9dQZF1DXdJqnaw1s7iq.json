@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 39404,
+  "2024-04-21": 39450,
   "date_first_scraped": "2023-05-18",
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
   "name": "voltage",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 164626,
       "name": "Auntie's Lock/Infinitum",
       "url": "https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC"
@@ -1753,6 +1753,24 @@
       "duration_ms": 411124,
       "name": "Mi Mujer",
       "url": "https://open.spotify.com/track/4QHKR48C18rwlpSYW6rH7p"
+    },
+    {
+      "album": {
+        "name": "Mirror Maru - EP",
+        "url": "https://open.spotify.com/album/74j51jlqXt7csQ7o2bntwZ"
+      },
+      "artists": [
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "Mirror Maru",
+      "url": "https://open.spotify.com/track/52Pp8J18LYkyWL9OXhRUZh"
     },
     {
       "album": {

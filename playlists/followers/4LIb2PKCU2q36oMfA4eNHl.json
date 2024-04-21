@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 42204,
+  "2024-04-21": 42196,
   "date_first_scraped": "2023-12-14",
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
   "name": "Chill with Anjuna",
@@ -71,7 +71,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 255410,
       "name": "Amalia Play (feat. Amalia)",
       "url": "https://open.spotify.com/track/4N5J8lR2f0ts6lKJiAWQmk"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 125520,
       "name": "Avril 14th",
       "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 174186,
       "name": "Eden (Harlem)",
       "url": "https://open.spotify.com/track/0THutYP9Uqq75bogKFuoXL"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 228593,
       "name": "For The Lost",
       "url": "https://open.spotify.com/track/5McPSaYMlYV7jZGk9gAvA8"
@@ -774,6 +774,24 @@
     },
     {
       "album": {
+        "name": "Memory Morning",
+        "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239089,
+      "name": "Ithaca",
+      "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
+    },
+    {
+      "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
       },
@@ -877,6 +895,24 @@
       "duration_ms": 239272,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE"
+    },
+    {
+      "album": {
+        "name": "Lilo",
+        "url": "https://open.spotify.com/album/0oNtXBVJ5eoUcqA1Ovtu9Z"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Lilo",
+      "url": "https://open.spotify.com/track/0ZTzCztdWzB6vlXrebWJzI"
     },
     {
       "album": {
@@ -1104,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Memory Morning",
+        "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308486,
+      "name": "Memory Morning",
+      "url": "https://open.spotify.com/track/4oCjGQqLI3EQ6yztfHl9Gt"
+    },
+    {
+      "album": {
         "name": "Mother (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/1An9k3L20xsC26H2GAJZBK"
       },
@@ -1245,7 +1299,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 240391,
       "name": "Peaceful Avenues - Unplugged Instrumental",
       "url": "https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H"
@@ -1408,6 +1462,24 @@
     },
     {
       "album": {
+        "name": "Mimose",
+        "url": "https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225849,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN"
+    },
+    {
+      "album": {
         "name": "2.23",
         "url": "https://open.spotify.com/album/3cVo98Ytv09Iu5PIwnla5O"
       },
@@ -1561,7 +1633,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 251470,
       "name": "Unlearn",
       "url": "https://open.spotify.com/track/3Zeykv0VAQEomLmiq0hr9P"

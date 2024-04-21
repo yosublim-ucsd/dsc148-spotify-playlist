@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This is Evaluna Montaner\. The essential tracks, all in one playlist.
+> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,884 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,888 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2XvZn2.md) - [plain]
 | 40 | [Ya Nada Nos Separa \(feat\. Sebastián Silva\)](https://open.spotify.com/track/1HIVHh8wyN32e0v3hCwkog) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC), [Club 57 Cast](https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr), [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu) | [Ya Nada Nos Separa \(feat\. Sebastián Silva\)](https://open.spotify.com/album/08zZ1Kxa8U7SehXUW6CPEb) | 2:37 |
 | 41 | [Nunca Es Tarde](https://open.spotify.com/track/7cSvEaSTGNtdQ2AwUjKOBL) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 2:16 |
 
-Snapshot ID: `MTcxMzM5ODQwMCwwMDAwMDAwMGRlNDIzNmJjZDBjZWNmODAwOTRmYmY0NjdkYzNiNzkx`
+Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMDAwN2FiMjM1YmY3OTg3MTU1ZGI2MWJlYTE3ZmMzYjE5`

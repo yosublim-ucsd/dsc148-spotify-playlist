@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: girl in red
 
-1,831 songs - 4 day 0 hr 27 min
+1,832 songs - 4 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Bored](https://open.spotify.com/track/2iKp7e9MFT5kWdyeV5B9Ne) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Bored](https://open.spotify.com/album/1mpAhcCw0EtoczmnbXjXBU) | 3:04 | 2021-02-25 | 2021-05-27 |
 | [Bored](https://open.spotify.com/track/1T5hA7T0a9z7yEkvN2RgVp) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Bored](https://open.spotify.com/album/2l7yOrYvRKr2R0fnrVW7q9) | 2:11 | 2021-05-15 | 2021-06-04 |
 | [bored&blind](https://open.spotify.com/track/5aNWkMWnXjJGMTj16ikdRd) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [bored&blind](https://open.spotify.com/album/5VSnAIWBRl8sHSoDlZOiC6) | 3:41 | 2021-03-06 | 2022-04-10 |
-| [Bottle Rocket](https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/6yxiHB4TtWMLSpvnvlxSDW) | 3:25 | 2024-01-12 |  |
+| [Bottle Rocket](https://open.spotify.com/track/68gaqJVyRXTE5qanrZ9hZN) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Nothing Gold Can Stay](https://open.spotify.com/album/6yxiHB4TtWMLSpvnvlxSDW) | 3:25 | 2024-01-12 | 2024-04-21 |
 | [Boundary Street](https://open.spotify.com/track/30DKmospmuSgNijNNQGXeb) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Something To Feel Good About](https://open.spotify.com/album/4NmIlEuCTrJvOEJRKuLAYV) | 3:05 | 2020-11-27 | 2021-01-31 |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-09-24 | 2022-04-13 |
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-15 | 2022-07-29 |
@@ -1460,6 +1460,7 @@
 | [So Far Away](https://open.spotify.com/track/6cjrJbXoA0VscOXEPgLdYv) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [So Far Away](https://open.spotify.com/album/0TnwHpwza2o3cMyklfOmCJ) | 3:27 | 2021-06-04 | 2022-04-05 |
 | [SO GOOD](https://open.spotify.com/track/4IFKZkPlmMEcNRwic25J9C) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [The Love Umbrella](https://open.spotify.com/album/1ZjpptSpeinLfTA8cmPNeK) | 2:10 | 2021-10-22 | 2022-04-15 |
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-24 | 2023-07-01 |
+| [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-04-19 |  |
 | [SO LOW](https://open.spotify.com/track/0VYlDbOKgKaro0TpguvpvJ) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [SO LOW](https://open.spotify.com/album/6BH10blbO7qFP4SqLbZzSE) | 2:59 | 2020-10-13\* | 2020-12-12 |
 | [So Sick Of Dreaming](https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [So Sick Of Dreaming](https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v) | 3:52 | 2024-03-22 |  |
 | [Sober](https://open.spotify.com/track/577ctFaEJqAL9gdo2Gx63x) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Sober](https://open.spotify.com/album/6i3ypMIWdzE0YeFHw84Yh9) | 2:26 | 2022-12-16 | 2023-02-11 |

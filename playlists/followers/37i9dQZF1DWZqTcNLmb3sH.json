@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 57550,
+  "2024-04-21": 57528,
   "date_first_scraped": "2021-12-28",
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
   "name": "Latest Kannada",
@@ -4793,7 +4793,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 294923,
       "name": "Cheluvaada Cheluvane Neenu - From \"Muktha Manasu\"",
       "url": "https://open.spotify.com/track/3tj6MbaamHJsIB33aKjYkk"
@@ -17711,7 +17711,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 207098,
       "name": "Nannaliye Na Marethe (From \"Ravanapura\")",
       "url": "https://open.spotify.com/track/77IbwLsIwbL7CTQHoNXiPj"
@@ -22847,6 +22847,32 @@
       "duration_ms": 172285,
       "name": "Saagide (From \"Once Upon A Time In Jamaaligudda\")",
       "url": "https://open.spotify.com/track/7cUqLSiQmAAtFWRQqVE7Id"
+    },
+    {
+      "album": {
+        "name": "Saaguthalide Daari (From \"Alaikyaa\")",
+        "url": "https://open.spotify.com/album/3UGsnDQplZFGPGhDL4LFZw"
+      },
+      "artists": [
+        {
+          "name": "Sai Somesh S",
+          "url": "https://open.spotify.com/artist/5bWfl92RuozjWMUgr0ef0z"
+        },
+        {
+          "name": "Hari Prasad",
+          "url": "https://open.spotify.com/artist/33bdd818PsYidtHmg46Ks9"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Saaguthalide Daari (From \"Alaikyaa\")",
+      "url": "https://open.spotify.com/track/4P2bfbEG39C9wHpBl8Kfuv"
     },
     {
       "album": {

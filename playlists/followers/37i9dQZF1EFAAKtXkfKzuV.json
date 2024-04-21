@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 174,
+  "2024-04-21": 174,
   "date_first_scraped": "2023-06-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF\">Stevie Bashir</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Stevie Bashir",
@@ -1279,6 +1279,24 @@
       "duration_ms": 154507,
       "name": "Was wei\u00df ich schon",
       "url": "https://open.spotify.com/track/0EwlWEJ8TkA8UUTOmrsyiM"
+    },
+    {
+      "album": {
+        "name": "Nur zu Besuch",
+        "url": "https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208323,
+      "name": "Was zu verlieren",
+      "url": "https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf"
     },
     {
       "album": {

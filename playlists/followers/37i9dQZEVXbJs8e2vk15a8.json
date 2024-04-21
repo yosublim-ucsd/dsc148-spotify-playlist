@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 70717,
+  "2024-04-21": 70643,
   "date_first_scraped": "2022-04-16",
   "description": "Your daily update of the most viral tracks right now - Chile.",
   "name": "Viral 50 - Chile",
@@ -2967,7 +2967,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 147168,
       "name": "arreglo floral",
       "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
@@ -6819,7 +6819,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 130384,
       "name": "Coa Xorete",
       "url": "https://open.spotify.com/track/1M8WdBbJ5lRS06RBlINv1G"
@@ -7311,7 +7311,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 249502,
       "name": "Confortas Pero Da\u00f1as",
       "url": "https://open.spotify.com/track/72PMAMYZYL060JML0S3khc"
@@ -8571,6 +8571,24 @@
       "duration_ms": 200040,
       "name": "Dejame Solo",
       "url": "https://open.spotify.com/track/5t21WKm8Gg787RvbcK283p"
+    },
+    {
+      "album": {
+        "name": "Dejame Solo",
+        "url": "https://open.spotify.com/album/3d3YeJtiKp3cG5TB1uJBXy"
+      },
+      "artists": [
+        {
+          "name": "LMDA",
+          "url": "https://open.spotify.com/artist/32rPBFp5Y4FQUeLPlOLed8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193620,
+      "name": "Dejame Solo",
+      "url": "https://open.spotify.com/track/4Y9xE9wCdeYtFmUZTrYYT1"
     },
     {
       "album": {
@@ -16671,7 +16689,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 210894,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
@@ -20571,6 +20589,32 @@
       "duration_ms": 236066,
       "name": "Me Gusta el Vino",
       "url": "https://open.spotify.com/track/4phiyACOmjHDWImFfi99Fi"
+    },
+    {
+      "album": {
+        "name": "Me Haces Mal",
+        "url": "https://open.spotify.com/album/6nzlTGIs8OR9LsbIs77wj5"
+      },
+      "artists": [
+        {
+          "name": "Fr3",
+          "url": "https://open.spotify.com/artist/01CWvAZb3Dm13pTvufwENG"
+        },
+        {
+          "name": "Fxcky",
+          "url": "https://open.spotify.com/artist/1So6WXtl4z7N7fGqSp70wH"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/4FhjDsdJYbS64KbqsD6j2P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/5NjPuX3mqmVK4spwiC5Hqk"
     },
     {
       "album": {
@@ -33438,6 +33482,24 @@
     },
     {
       "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -37811,7 +37873,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"

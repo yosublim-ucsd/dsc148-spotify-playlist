@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 20636,
+  "2024-04-21": 20715,
   "date_first_scraped": "2022-04-19",
   "description": "New releases for the kids. Cover: Laurie Berkner",
   "name": "New Kids Music",
@@ -1881,6 +1881,24 @@
       "duration_ms": 147540,
       "name": "Follow Your Passion",
       "url": "https://open.spotify.com/track/167R2ezxujzd4CA89RNZon"
+    },
+    {
+      "album": {
+        "name": "Freight Train",
+        "url": "https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139260,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea"
     },
     {
       "album": {

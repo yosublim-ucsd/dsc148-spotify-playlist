@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 1885,
+  "2024-04-21": 1885,
   "date_first_scraped": "2021-12-28",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM\">Sarah Aarons</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Sarah Aarons",
@@ -39,6 +39,24 @@
       "duration_ms": 225733,
       "name": "5D",
       "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
+    },
+    {
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172372,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/1HRYtqOPBlFtNxoNRcEnkJ"
     },
     {
       "album": {
@@ -2215,6 +2233,24 @@
       "duration_ms": 221568,
       "name": "Quit You",
       "url": "https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ"
+    },
+    {
+      "album": {
+        "name": "DRUMMER",
+        "url": "https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200409,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/55DjzBeLLyBMhIaKFHuXBa"
     },
     {
       "album": {

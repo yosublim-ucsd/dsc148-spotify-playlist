@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 107494,
+  "2024-04-21": 107518,
   "date_first_scraped": "2024-01-30",
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Arriesgado",
@@ -181,6 +181,28 @@
       "duration_ms": 190772,
       "name": "El 30",
       "url": "https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7"
+    },
+    {
+      "album": {
+        "name": "El Amor No Es Para Todos",
+        "url": "https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142341,
+      "name": "El Amor No Es Para Todos",
+      "url": "https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B"
     },
     {
       "album": {
@@ -621,10 +643,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/05NeYNxTvQe2Wl9xbaTUWc"
+    },
+    {
+      "album": {
+        "name": "Hasta La Caja Cuesta",
+        "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "Hasta La Caja Cuesta",
+      "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
     },
     {
       "album": {
@@ -755,7 +799,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 169318,
       "name": "La Muchacha Del Salado",
       "url": "https://open.spotify.com/track/7IADccjzF0mDn1du1wLZbC"

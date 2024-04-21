@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 19792,
+  "2024-04-21": 19796,
   "date_first_scraped": "2021-12-29",
   "description": "Hit music from Ethiopia's finest.",
   "name": "Ethio-Pop",
@@ -267,7 +267,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 115200,
       "name": "Baby I Like You",
       "url": "https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN"
@@ -419,6 +419,24 @@
       "duration_ms": 295600,
       "name": "Bob Marly",
       "url": "https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue"
+    },
+    {
+      "album": {
+        "name": "Brana (Intro)",
+        "url": "https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO"
+      },
+      "artists": [
+        {
+          "name": "Ebne Hakim",
+          "url": "https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94013,
+      "name": "Brana (Intro)",
+      "url": "https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF"
     },
     {
       "album": {

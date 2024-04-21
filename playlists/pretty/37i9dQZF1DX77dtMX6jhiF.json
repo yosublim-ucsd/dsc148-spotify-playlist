@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/damsonidris/\">Damson Idris</a>",
-  "num_followers": 12987,
+  "num_followers": 12995,
   "original_name": "Damson Idris' Taste",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-01 16:57:49",
       "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
-    },
-    {
-      "added_at": "2022-10-01 16:57:49",
-      "album": {
         "name": "Roforofo Fight",
         "url": "https://open.spotify.com/album/6a3zPR8tCHNkDXUBwucoFq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 726026,
       "name": "Trouble Sleep Yanga Wake Am",
       "url": "https://open.spotify.com/track/4fSGItb7Y1uOGfSoZDadhn"
+    },
+    {
+      "added_at": "2022-10-01 16:57:49",
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
     },
     {
       "added_at": "2022-10-01 16:57:49",

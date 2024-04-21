@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Blanco Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,666 likes - 150 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,582 likes - 150 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

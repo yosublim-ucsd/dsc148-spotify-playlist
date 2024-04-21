@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Headie One, Stormzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,989 likes - 48 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,013 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [Neighborhood Hero](https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 2:56 |
 | 6 | [All My Life](https://open.spotify.com/track/6J9ULUfgdVZfWnofbtLkfh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:10 |
 | 7 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |
-| 8 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [SHAD](https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
+| 8 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
 | 9 | [Define My Name](https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Define My Name](https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu) | 3:10 |
 | 10 | [Bacc 2 Harlem](https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [2 Piece](https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57) | 3:06 |
 | 11 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [I'm Okay](https://open.spotify.com/track/0RtNV22OlQUAZrOc4JKOA0) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [I'm Okay](https://open.spotify.com/album/6OYkIKxCkaOhvTCgmjnbTx) | 2:12 |
 | 48 | [Really Like That](https://open.spotify.com/track/55TQ3ZQJGezWlnDLf4PfjP) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Really Like That](https://open.spotify.com/album/5fBNuwpRTltWbyTpo1fGlz) | 2:33 |
 
-Snapshot ID: `MTcxMzU0MjQwMCwwMDAwMDAwMDZmY2VjMWQ1MzAwMzQzZDhiZWNhYTNhNzFlN2Y1MTlm`
+Snapshot ID: `MTcxMzY0MTg0MiwwMDAwMDAwMGZhNzc3MmRmMzI0NjY5NjI0NTViOTM4OTU0ZGFhYTll`

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 94882,
+  "2024-04-21": 94663,
   "date_first_scraped": "2022-06-09",
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
   "name": "\u6696\u5fc3\u60c5\u6b4c",
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 199204,
       "name": "\u53ea\u8981\u6709\u4f60\u548c\u6211",
       "url": "https://open.spotify.com/track/3A6Famc5gdexD6jS9urHUR"
@@ -6655,7 +6655,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-13",
+      "date_removed": null,
       "duration_ms": 196108,
       "name": "\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM"

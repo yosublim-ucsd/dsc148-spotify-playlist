@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 199781,
+  "2024-04-21": 199840,
   "date_first_scraped": "2022-03-01",
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
   "name": "Christian Dance Party",
@@ -37,9 +37,9 @@
           "url": "https://open.spotify.com/artist/04QgfIIHBRS0b6XiY3kYYy"
         }
       ],
-      "date_added": "2023-02-08",
+      "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 206802,
       "name": "Adored",
       "url": "https://open.spotify.com/track/3HUhWUt20d0L1Jh6BNdK1t"
@@ -4599,7 +4599,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 171983,
       "name": "LOVE U NEED U",
       "url": "https://open.spotify.com/track/6g8U4ywxdelovp2hgXyNnC"

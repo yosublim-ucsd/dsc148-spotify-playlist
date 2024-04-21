@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-220 songs - 21 hr 56 min
+223 songs - 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [On Off](https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN) | [Cirez D](https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB) | [On Off / Fast Forward](https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9) | 9:07 | 2022-09-16 |  |
 | [On The Verge \- Radio Mix](https://open.spotify.com/track/4zsjBsKQEJhD0VivNDDXCq) | [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq), [Tony Mac](https://open.spotify.com/artist/4WO5mje9DtK4ACbNOMvbb4) | [On The Verge](https://open.spotify.com/album/2ItxgDNKdIqCuTDiDPr6ip) | 3:23 | 2022-11-11 | 2023-03-04 |
 | [One Blood](https://open.spotify.com/track/3UfzdRtfe7NbnIJogNH2Gv) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [One Blood](https://open.spotify.com/album/1kAbl0p9VRQmORguJna27z) | 3:41 | 2023-03-03 | 2023-05-03 |
+| [One Paradise](https://open.spotify.com/track/1DvPVTjmYKddlTGqc41587) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/2kGoaq6HWC2eMDujX5Ave6) | 7:54 | 2024-04-20 |  |
 | [Parallax](https://open.spotify.com/track/5NR0Kyk5YRBPtaI33hivZx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 06](https://open.spotify.com/album/7fhF1Tyb4nblRBJSH6fIbo) | 8:05 | 2023-02-03 | 2023-08-19 |
 | [Patterns](https://open.spotify.com/track/1Wrgevw8ryE5ygjDBa9f10) | [Jürgen Kaisr](https://open.spotify.com/artist/6hzeX2ERTNIeQ3QolZk8sW) | [Patterns](https://open.spotify.com/album/2UxYojBKGpTT9IKmKL130T) | 7:48 | 2022-09-16 | 2023-10-28 |
 | [Philly](https://open.spotify.com/track/1yjHf4kssDAt3AsJVzIx1w) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx) | [Philly](https://open.spotify.com/album/1tNdETUVwKwr0Ur02zAEm4) | 8:15 | 2022-10-07 | 2023-05-03 |
@@ -210,8 +211,10 @@
 | [Trapped in Our Own World \- Tabou & Jan Zolo Remix](https://open.spotify.com/track/2gsC0k2Dz1tMtPmxf7cdGW) | [Tabou](https://open.spotify.com/artist/4P7i4hCbxKLF3G3xEYJDci), [Jan Zolo](https://open.spotify.com/artist/111rXWYIUnUlebig490R3t), [Jesse](https://open.spotify.com/artist/3FEXPSuokU9D22GWmSgsyQ) | [Trapped in Our Own World](https://open.spotify.com/album/2lbb1mu2HrvI33FK7OR4Ov) | 5:03 | 2023-12-08 |  |
 | [Trauma \- Worakls Remix](https://open.spotify.com/track/1uXUZfJykefWuwj9VtyxIq) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Hungry 5 \(The Best of 5 Years\)](https://open.spotify.com/album/6cjXNVPvBuQdrCbllisAbD) | 10:00 | 2022-09-16 |  |
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-18 | 2023-02-11 |
+| [Tuvan](https://open.spotify.com/track/2qBJgqzTu3isR9gfh78b0c) | [Plasmatique](https://open.spotify.com/artist/0Y53znZSnUq6ytRtwWoTej) | [Tuvan](https://open.spotify.com/album/6ru36qCAGIe8jwRhRVC2ui) | 3:02 | 2024-04-20 |  |
 | [Typerope \- Original Mix](https://open.spotify.com/track/6EEcPi3jwGYlG7BdMlnf42) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Typerope EP](https://open.spotify.com/album/7GeBsbuHAU7CfzNmCMaotz) | 8:10 | 2022-09-16 |  |
 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 | 2022-09-16 | 2022-12-03 |
+| [Vertigo](https://open.spotify.com/track/3Tnq724aKQ5aVP9lugAMeq) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Revelation](https://open.spotify.com/album/7CzizuZiWvO6wgTtvqJ1I9) | 4:54 | 2024-04-20 |  |
 | [Victoria](https://open.spotify.com/track/2ayJnyzml6TAtXRBIYwG2B) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Victoria](https://open.spotify.com/album/77xt4VI6PKWacDLscctnhk) | 4:28 | 2022-09-16 | 2022-10-28 |
 | [Vienna \- Edit](https://open.spotify.com/track/3a9Db9EqzCZG7RiJlaeiX1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Malena Narvay](https://open.spotify.com/artist/6mL3mccPFjmWrHUTC2Cm3i) | [Vienna \(Edit\)](https://open.spotify.com/album/1BgyJPvK4xVLYfmIEoH6Ju) | 3:08 | 2023-08-18 |  |
 | [Vision](https://open.spotify.com/track/4qR93LMtQH160vEEoxegTD) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Vision](https://open.spotify.com/album/4nsRDOpMJaj9KO4mz1bnoW) | 4:02 | 2023-11-07 | 2024-03-03 |

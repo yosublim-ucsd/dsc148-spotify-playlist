@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,954 likes - 130 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,958 likes - 130 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 95 | [As For Me & My House \- Live](https://open.spotify.com/track/3lE1SQufZYWiTeHjjaOavK) | [Austin & Lindsey Adamec](https://open.spotify.com/artist/4oLDDlPUpiKowrWoJLS94r) | [As For Me & My House \(Live\)](https://open.spotify.com/album/7CjoBA22aQrRU51iirDwCJ) | 5:21 |
 | 96 | [Christ is Enough](https://open.spotify.com/track/3UienuMFU5MOlWH4VHs6G3) | [Dwell Songs](https://open.spotify.com/artist/6RAMkZgRvrIeqrXtojaxHC), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz) | [Christ is Enough](https://open.spotify.com/album/5gjorSNX9eVd90pezKXiW0) | 4:39 |
 | 97 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
-| 98 | [He Wears A Crown \- Live](https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown \(Live At CrossBridge\)](https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs) | 5:12 |
-| 99 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
+| 98 | [Freedom Found Me](https://open.spotify.com/track/2wRuIOGZyTKwUJP0miokoj) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 3:42 |
+| 99 | [He Wears A Crown \- Live](https://open.spotify.com/track/6e9VYjX7VFNx7wfoAv01PN) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown \(Live At CrossBridge\)](https://open.spotify.com/album/2DUZyqZywcf2ZBtndcacUs) | 5:12 |
 | 100 | [Uncomplicated \- Live](https://open.spotify.com/track/2fdbEWpTxN15nbcqYgqx7F) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Uncomplicated](https://open.spotify.com/album/58VT65QHEKi4iigtGUgC0s) | 5:49 |
 | 101 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 |
 | 102 | [All I Need](https://open.spotify.com/track/0XAaI5oaiMZTYYxl9wPcZc) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [All I Need](https://open.spotify.com/album/0egI1RHqW3k0XFfgbiCdVl) | 4:45 |
@@ -134,9 +134,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 124 | [Heaven Lives In Us](https://open.spotify.com/track/2EVo5Bq35erNIlcczoX9J8) | [Pursue Worship](https://open.spotify.com/artist/2LyJxjMks9yGSMNdk80HKl), [Colton Beden](https://open.spotify.com/artist/6TXKt6P7Ju1ZlAOhahnRGC) | [Heaven Lives In Us](https://open.spotify.com/album/6wtLHNFZ7wGFIboGhfKQAn) | 5:23 |
 | 125 | [Humanity / Majesty](https://open.spotify.com/track/5xFpSyAqb0Z6Mk8qQbqqCE) | [The Block Worship](https://open.spotify.com/artist/6xMIK9jeWFn1hHNY5yvtDW) | [Humanity / Majesty](https://open.spotify.com/album/0frKDiH8UBQrR7KLWmMUID) | 4:09 |
 | 126 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
-| 127 | [Count Me In](https://open.spotify.com/track/38ARsNlJyFgF2yt52J0qOj) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Count Me In](https://open.spotify.com/album/1FV24R1VpAgyUd6ndSN4TN) | 3:48 |
-| 128 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 |
-| 129 | [Promises](https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Vol\. 3 Part 1](https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n) | 10:46 |
+| 127 | [Promises](https://open.spotify.com/track/0aZFEiDKLK2B4gzPaGCZVm) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Maverick City Vol\. 3 Part 1](https://open.spotify.com/album/0prxUuXzlIyjSJU9ej003n) | 10:46 |
+| 128 | [Count Me In](https://open.spotify.com/track/38ARsNlJyFgF2yt52J0qOj) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Count Me In](https://open.spotify.com/album/1FV24R1VpAgyUd6ndSN4TN) | 3:48 |
+| 129 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 |
 | 130 | [Real Thing](https://open.spotify.com/track/5tnc2byIAzr9JwoOiIQWo0) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Real Thing](https://open.spotify.com/album/584F5hDrbibgUwJeu29aAk) | 5:08 |
 
 Snapshot ID: `MTY4NjkxODE2NywwMDAwMDAwMGZlMzg1MTJiNzE0N2M2NTc2ZDdkNGQzYTc4MjYyN2Nh`

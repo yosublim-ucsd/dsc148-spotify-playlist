@@ -1,6 +1,6 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 492616,
+  "num_followers": 492376,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "HEAVY META",
-        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
-      },
-      "artists": [
-        {
-          "name": "Ron Gallo",
-          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Young Lady, You're Scaring Me",
-      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 231666,
       "name": "Bury Me Face Down",
       "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "LUCKY PENNY",
-        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 214266,
-      "name": "LUCKY PENNY",
-      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
         "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173048,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "LUCKY PENNY",
+        "url": "https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 214266,
+      "name": "LUCKY PENNY",
+      "url": "https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Funeral Mixtape",
-        "url": "https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy"
-      },
-      "artists": [
-        {
-          "name": "The Pack a.d.",
-          "url": "https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo"
-        }
-      ],
-      "duration_ms": 250013,
-      "name": "Making Gestures",
-      "url": "https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Rhyddid o'r Cysgodion Gwenwynig / Freedom from the Poisonous Shadows",
         "url": "https://open.spotify.com/album/4DD1QFjqpfvvjm1ZFxKW42"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 190175,
       "name": "Black Angel",
       "url": "https://open.spotify.com/track/0xVAczAoamCuTdRSPysrj1"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Funeral Mixtape",
+        "url": "https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy"
+      },
+      "artists": [
+        {
+          "name": "The Pack a.d.",
+          "url": "https://open.spotify.com/artist/2gbOUPIhea9nrCmAeZBgpo"
+        }
+      ],
+      "duration_ms": 250013,
+      "name": "Making Gestures",
+      "url": "https://open.spotify.com/track/675pQka4krUCyb7zMX3M7y"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Night People",
-        "url": "https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Night People",
-      "url": "https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sea of Cowards",
         "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 215093,
       "name": "I Can't Hear You",
       "url": "https://open.spotify.com/track/3O1rkVw6tpDizXzHqMZfh5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Night People",
+        "url": "https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Night People",
+      "url": "https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Talk & Walk",
-        "url": "https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE"
+        "name": "Holy Ghost Fire",
+        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
       "artists": [
         {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 275494,
-      "name": "Talk & Walk",
-      "url": "https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc"
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     }
   ],
   "unique_name": "Dirty Rock",

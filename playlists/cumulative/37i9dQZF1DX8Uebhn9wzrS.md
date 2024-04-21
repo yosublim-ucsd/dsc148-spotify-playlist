@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,919 songs - 3 day 1 hr 6 min
+1,920 songs - 3 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Chillage in the Village](https://open.spotify.com/track/2PifOBcFenGN8PGayF6oj3) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Steppin' XL](https://open.spotify.com/album/3wXU01hEZEzfyNb0pJ9qjj) | 1:35 | 2023-02-06 | 2023-03-09 |
 | [Chillin](https://open.spotify.com/track/4emXvNTk1TXMWTe2DiTl76) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Chillin](https://open.spotify.com/album/0IQf3XnXYJQOjTdDD0lRzW) | 2:09 | 2022-04-15 | 2022-10-01 |
 | [Chilling At The Coast](https://open.spotify.com/track/0ssJ7IIxKQlYmdzHaBB0J7) | [Basmati](https://open.spotify.com/artist/1OK2jT1iiO4d8D5qHnJzLB), [Smeeagain](https://open.spotify.com/artist/2LTRTV2dmIxyoyHC7QZ7mZ) | [Chilling At The Coast](https://open.spotify.com/album/3WW5usDqUd1x29TKAy2iqN) | 1:36 | 2022-07-08 | 2022-11-26 |
-| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 | 2024-04-13 |
+| [Chills](https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Chills](https://open.spotify.com/album/0UuN74Piht5BTS6wdq6UMm) | 2:13 | 2024-01-12 |  |
 | [Chimes](https://open.spotify.com/track/3rtl8o4opvXJnYUtk1CgUq) | [daria valentina](https://open.spotify.com/artist/5t8yaGoIRiRYaluWCliD1F) | [chimes](https://open.spotify.com/album/6jCtYhaisHTv8URb48V67Z) | 2:48 | 2024-02-09 |  |
 | [Chino](https://open.spotify.com/track/6Xyj5BeU6yRXY0W8NOqxxQ) | [Pepe.](https://open.spotify.com/artist/1la8zkPQaD2MjeQB31y9j4), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Chino](https://open.spotify.com/album/6X8Rc9Rk6jmgJ762f5U0aN) | 3:09 | 2022-05-27 | 2022-11-12 |
 | [Cigarette Serenade](https://open.spotify.com/track/6Gw7WZdsCOhM5hr7JbTah9) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Midnight Cityscape](https://open.spotify.com/album/1uv4Aj6Lvid3x6bELOJ45h) | 1:49 | 2023-02-21 |  |
@@ -671,6 +671,7 @@
 | [glow](https://open.spotify.com/track/35YOc3y59Yuplqg2SJLV7P) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [glow](https://open.spotify.com/album/7AWPZZncC7z4FSJ5aZRbWP) | 2:09 | 2023-11-24 |  |
 | [Glow](https://open.spotify.com/track/0tuYoz4gBIFYnIJz36wxyo) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4) | [Glow](https://open.spotify.com/album/1gW0lUC5hKVas8KfZYCdcd) | 2:56 | 2022-04-15 | 2022-10-14 |
 | [Glowworm](https://open.spotify.com/track/4PHvEfPgDLMzELLNgv6jE4) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Glowworm](https://open.spotify.com/album/3d0Pg3a7KETPUhv9K2HRiU) | 1:26 | 2023-06-06 | 2023-08-18 |
+| [glue](https://open.spotify.com/track/7aql9zPNz3dPHEYpIVMhlz) | [knight knight](https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg) | [glue](https://open.spotify.com/album/4W12zjKWwHiKG6L6Q3mowJ) | 2:12 | 2024-04-12 |  |
 | [gm](https://open.spotify.com/track/7tRXsjW8Yoz6xMaxprsQYm) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [gm](https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA) | 2:09 | 2022-04-15 | 2022-10-14 |
 | [go back to sleep](https://open.spotify.com/track/1UWBTTj5VVnSzUxLogVAPR) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [go back to sleep](https://open.spotify.com/album/4r7jhko1lglXjcOAm3MNzU) | 1:58 | 2023-03-01 |  |
 | [Goemon](https://open.spotify.com/track/7gfFlcWn0kNXi7oqTjkvTe) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Goemon](https://open.spotify.com/album/0GuzjoM2X7sGfV3VWcTduF) | 2:27 | 2023-08-03 | 2023-10-06 |
@@ -968,7 +969,7 @@
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
 | [Lost Without You](https://open.spotify.com/track/1AqN43ZIZzz74aAtnsovZ1) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Lost Without You](https://open.spotify.com/album/34dYkYAHSlwZg94wg8UE90) | 2:38 | 2023-11-17 |  |
 | [lostonbrick](https://open.spotify.com/track/4yiteviu6ykAfAN7AspXCE) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [lostonbrick](https://open.spotify.com/album/0dS1PtAgPFSiuUhs9o9GNs) | 2:00 | 2022-09-23 |  |
-| [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 |  |
+| [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-22 | 2024-04-21 |
 | [Loud Bolt](https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Loud Bolt](https://open.spotify.com/album/6GpmOKP4fhN0L3lxxTQVk9) | 2:17 | 2023-01-06 |  |
 | [louis](https://open.spotify.com/track/1DAAws1qqg7mn6mrlxQFuB) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [louis](https://open.spotify.com/album/2l7BsAYyTpFMILFg6FFqs7) | 2:28 | 2022-10-01 | 2023-03-09 |
 | [lounge life](https://open.spotify.com/track/4zHwNqoIVdtq6BVg4b6r0x) | [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [sage green](https://open.spotify.com/artist/48XozkeJU7sbKjb0DG40ts) | [lounge life](https://open.spotify.com/album/5bvih2zwhn2PvGMQebhySh) | 1:58 | 2022-05-27 | 2022-11-12 |
@@ -1828,7 +1829,7 @@
 | [Walk in the Park](https://open.spotify.com/track/3DVl3BS24V9w8jqlgE8GYG) | [NogEgg](https://open.spotify.com/artist/3zNeAHbUtEQvwQ62KLn9FT) | [Walk in the Park](https://open.spotify.com/album/55xqaEt9F5qKnlXPMLOWmT) | 2:08 | 2023-09-29 |  |
 | [Walk In The Park](https://open.spotify.com/track/3JMCLUsJ5TuvzsO0wU94u5) | [St\. Vrain](https://open.spotify.com/artist/5JhftUX2nAHcXC5xX7bStW) | [Walk In The Park](https://open.spotify.com/album/6XTyXwI6i0MWcAAscwcObg) | 2:11 | 2022-05-27 | 2022-11-12 |
 | [Walk The Dog](https://open.spotify.com/track/4AowHOaycPNDRId7N4Npf9) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [Sabato Scola](https://open.spotify.com/artist/6gy4Fsc3iuNQ5qkYdOzF7h) | [Walk The Dog](https://open.spotify.com/album/306HMpP6yrynuST9JxQVoj) | 2:19 | 2023-02-06 | 2023-09-29 |
-| [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2022-11-11 |  |
+| [Walk Through the Sky](https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [All the Thoughts](https://open.spotify.com/album/3BKr1o8n8vLlCjv2IRDxLl) | 1:53 | 2022-11-11 | 2024-04-21 |
 | [walking in the light](https://open.spotify.com/track/2MKpYuTzUu89iDvK5tDwo0) | [SeraphRiTT](https://open.spotify.com/artist/7BgcmldrVrhfzD1w86FUXN), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [walking in the light](https://open.spotify.com/album/1jVXDPje9FR00uKMHDpV0n) | 2:02 | 2022-09-16 | 2023-01-07 |
 | [Walking In The Rain](https://open.spotify.com/track/2rQ6jDIoT94aUR8p8RrC20) | [Nadja Salkova](https://open.spotify.com/artist/7tmmBlFgiMjRHlv1GY1l18) | [Walking In The Rain](https://open.spotify.com/album/6aoHysv4kqrMuVixhuONsk) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Walking Through Rainbows](https://open.spotify.com/track/67zPAbFFnnVhQdfVhHDqTM) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Ngyn](https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Walking Through Rainbows](https://open.spotify.com/album/5D9XTz50hVBrWmajZa4QGj) | 2:42 | 2022-09-16 | 2023-01-07 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 30016,
+  "2024-04-21": 30068,
   "date_first_scraped": "2023-04-12",
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
   "name": "Easy Rock",
@@ -129,7 +129,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 190106,
       "name": "Albatross",
       "url": "https://open.spotify.com/track/3iZ5twPwvFeOUQA4Deu8tP"
@@ -2351,6 +2351,24 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "album": {

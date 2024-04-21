@@ -6695,6 +6695,24 @@
     },
     {
       "album": {
+        "name": "Will You Be Mine",
+        "url": "https://open.spotify.com/album/79387ejIshaY5c4TeTlC1V"
+      },
+      "artists": [
+        {
+          "name": "SAINT.",
+          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191050,
+      "name": "Will You Be Mine",
+      "url": "https://open.spotify.com/track/2cebGcOASGJEpKY2gXO9gz"
+    },
+    {
+      "album": {
         "name": "Wish You All the Best",
         "url": "https://open.spotify.com/album/1OSw1uOIxohvXg49jr9Q3j"
       },

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 828972,
+  "2024-04-21": 828665,
   "date_first_scraped": "2023-07-10",
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
   "name": "Sol e Churrasco",
@@ -1347,7 +1347,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 158074,
       "name": "ME USA - Ao Vivo",
       "url": "https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI"
@@ -1775,6 +1775,24 @@
       "duration_ms": 415915,
       "name": "Pot-Pourri: Tempo de Aprender / Energia Surreal / N\u00e3o Pedi Pra Me Apaixonar / Deixa Acontecer - Ao Vivo",
       "url": "https://open.spotify.com/track/03PztApOdNGJ1Cn9kDKRNr"
+    },
+    {
+      "album": {
+        "name": "Infinito 2021, Vol.2",
+        "url": "https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382050,
+      "name": "Pot-Pourri: Teu Segredo / J\u00e1 Tentei",
+      "url": "https://open.spotify.com/track/03kadiWfqWgnmjlDEhfN8k"
     },
     {
       "album": {

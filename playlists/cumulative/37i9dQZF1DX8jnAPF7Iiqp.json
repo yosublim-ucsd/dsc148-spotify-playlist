@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Galvanize",
+        "url": "https://open.spotify.com/album/3u2AACBpssZuJtCYW3MvhE"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205671,
+      "name": "Galvanize",
+      "url": "https://open.spotify.com/track/1do4bX9hOYyP53We3hzC9g"
+    },
+    {
+      "album": {
         "name": "Beneath the Surface",
         "url": "https://open.spotify.com/album/05dtnn7yufEGZbfQ8loopK"
       },
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 224232,
       "name": "Supersonic - Basstripper Remix",
       "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"

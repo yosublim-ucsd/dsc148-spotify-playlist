@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,209 likes - 108 songs - 5 hr 32 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 41,222 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 20 | [Need to Know](https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc) | [Tidah](https://open.spotify.com/artist/7Hc6MSUUX0xmLt3bn3hFDT) | [Need to Know](https://open.spotify.com/album/7arildWPenXFAMVd49yYJt) | 2:31 |
 | 21 | [Butterflies \- Zoro Remix](https://open.spotify.com/track/4pzAhCIIIOLILcUO6EXdGE) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Zoro](https://open.spotify.com/artist/5xUBYbDSo3lix43sKEzhW7), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Butterflies \[Zoro Remix\]](https://open.spotify.com/album/1JpJtZnTrwFg1Am0rUOBlG) | 3:31 |
 | 22 | [Somebody Else](https://open.spotify.com/track/0WSy7TExR4PNQ3f5zlDwla) | [Sam Scherdel](https://open.spotify.com/artist/0dS6eC0a0XySm7hjOeGU3q) | [Somebody Else](https://open.spotify.com/album/3FPs5FRLVxXytEMwIJpAch) | 3:39 |
-| 23 | [ITSLIKE](https://open.spotify.com/track/02QwLdLDKDEWfMTScV4TeD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [ITSLIKE](https://open.spotify.com/album/64sdHoPoUevnYJc1YxD5v4) | 1:51 |
+| 23 | [ITSLIKE](https://open.spotify.com/track/02QwLdLDKDEWfMTScV4TeD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [El Londo](https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC) | [ITSLIKE](https://open.spotify.com/album/64sdHoPoUevnYJc1YxD5v4) | 1:51 |
 | 24 | [say baby](https://open.spotify.com/track/3C7LzOjObwv56iGy8HbZNB) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [say baby](https://open.spotify.com/album/0pgUvvcMwmxTeugpf4lc45) | 3:46 |
 | 25 | [Meditation](https://open.spotify.com/track/6FlFQW3SbvKTq2cJImmg8N) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Meditation](https://open.spotify.com/album/1bySgamJXd0xVQVS0UcnBi) | 3:23 |
 | 26 | [Take Risks](https://open.spotify.com/track/0mx8tUfs5dZD9cZETAuoRO) | [Seven](https://open.spotify.com/artist/0xYRyHRUDSUWvFDkHZN63n) | [Take Risks](https://open.spotify.com/album/0TUzkn4IqVFFj7SLqD96z6) | 2:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3655,
+  "num_followers": 3657,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDczNDUzY2E5NTU4OWI1ZGI4YmMzMzhmMzY2YTM0MTBl",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDZiOGI4MTU5OTM4MDg2YTk4MWZlMzgwM2JjMjljYzE1",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 158920,
-      "name": "Jet Alone",
-      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 159151,
       "name": "Swear",
       "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 158920,
+      "name": "Jet Alone",
+      "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
     },
     {
       "added_at": null,

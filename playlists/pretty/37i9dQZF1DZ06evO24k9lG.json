@@ -1,12 +1,12 @@
 {
-  "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 55702,
+  "description": "This Is Binomio de Oro de Am\u00e9rica. Los temas esenciales, todos en una lista.",
+  "num_followers": 55685,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDZiZTM4OGRkNTZkMTg4OTE5ZDhiY2U3MTc0Y2Y5ZWM5",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGIxNDAxYmU1ZGQzZGZkZTBjM2Q0Y2ExNWFmMjIxODkx",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todo Su Esplendor",
-        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "Un Recuerdo Que Mata",
-      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haciendo Historia",
         "url": "https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 260545,
       "name": "Todo Se Acaba",
       "url": "https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Todo Su Esplendor",
+        "url": "https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "Un Recuerdo Que Mata",
+      "url": "https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV"
     },
     {
       "added_at": null,

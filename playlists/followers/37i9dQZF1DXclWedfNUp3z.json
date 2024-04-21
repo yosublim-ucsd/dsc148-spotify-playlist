@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 217903,
+  "2024-04-21": 217957,
   "date_first_scraped": "2022-01-25",
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
   "name": "Music for Plants",
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 134207,
       "name": "awake to see the city sleep",
       "url": "https://open.spotify.com/track/0iP87IcbebOlgA36ZkF6Tn"
@@ -2792,6 +2792,24 @@
     },
     {
       "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+    },
+    {
+      "album": {
         "name": "Hounds",
         "url": "https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m"
       },
@@ -4549,6 +4567,24 @@
       "duration_ms": 493860,
       "name": "Only Love From Now On (with Johanna Scheie Orellana)",
       "url": "https://open.spotify.com/track/3Woi4fIAiktL6UwEcDFPfo"
+    },
+    {
+      "album": {
+        "name": "Music for Tomato Plants",
+        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266277,
+      "name": "Orizzontale Verticale",
+      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
     },
     {
       "album": {
@@ -7397,7 +7433,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 234055,
       "name": "White Wall",
       "url": "https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN"

@@ -4,7 +4,7 @@
 
 > Freshest of Pakistani discoveries\. Cover \- Aashir Wajahat
 
-729 songs - 1 day 15 hr 24 min
+730 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [11:11](https://open.spotify.com/track/5DThLQBTSSpEO2pOVTGr5f) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [11:11](https://open.spotify.com/album/7MyfPqbS1fzN8SW38pEb3b) | 2:37 | 2024-04-12 |  |
 | [1:45](https://open.spotify.com/track/0nzvUvlhV3TpnFUb5biA2d) | [Asteria](https://open.spotify.com/artist/4HVl77LX9pZNZBPH0Le6EJ) | [1:45](https://open.spotify.com/album/3hjYdbmaChOETpqlswaWfT) | 2:50 | 2022-10-26 | 2022-11-18 |
 | [21](https://open.spotify.com/track/0URl70xQCUwWmhEeGO4Ga6) | [Yousee](https://open.spotify.com/artist/3n46xpopt1wEc0cP9ltybH) | [21](https://open.spotify.com/album/4l6kj1NBogldeNMdsa91Ef) | 2:54 | 2022-11-17 | 2023-01-26 |
+| [2AM](https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [2AM](https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq) | 5:02 | 2024-04-20 |  |
 | [32 BOR](https://open.spotify.com/track/2u5mhA7ENlBIkvhmLgRq2i) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Ozzy](https://open.spotify.com/artist/45q6bPCZuj280Y3LRyEkg2), [Shaun Enzo](https://open.spotify.com/artist/0iD5Pg2MJIgnwui98tXBcF) | [32 BOR](https://open.spotify.com/album/7dvEezhm95wobNuAjmzJW6) | 2:59 | 2023-06-09 | 2023-08-01 |
 | [48 BARS](https://open.spotify.com/track/6gbRDL0EN4iKji4QXqqc2f) | [Ali Raja](https://open.spotify.com/artist/2SFaXS7EMNyz088RG9p0PZ) | [48 BARS](https://open.spotify.com/album/4n7K3FHSVSWArwDrY9WjSB) | 2:46 | 2022-08-27 | 2022-09-24 |
 | [5AM](https://open.spotify.com/track/1d3saKKsU6tZcqIi8indu0) | [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [5AM](https://open.spotify.com/album/4PGsyfAX3hjAslkrOl8a98) | 4:51 | 2022-08-27 | 2022-09-24 |

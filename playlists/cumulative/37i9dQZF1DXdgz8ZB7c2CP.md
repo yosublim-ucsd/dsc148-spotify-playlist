@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Fred again..
 
-699 songs - 1 day 14 hr 35 min
+700 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Forever](https://open.spotify.com/track/0wzFugjnb3aytMSNZdwdyK) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Forever](https://open.spotify.com/album/3i8qdcmSXTcZDmZYaoq7qN) | 3:04 | 2022-02-18 | 2022-07-01 |
 | [Forever \- Pauline Herr Rework](https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Loner \(Remixes\)](https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ) | 2:50 | 2023-03-16 | 2023-09-16 |
 | [Forte](https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Forte](https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz) | 3:50 | 2022-12-21 | 2023-04-04 |
-| [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-02-16 |  |
+| [Forza](https://open.spotify.com/track/3Qvwoqzcq7aKpW1omzCgQb) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg), [Estremo](https://open.spotify.com/artist/3L0bVe5X6KoxPPjDdL1gIM) | [Forza](https://open.spotify.com/album/4BYazN4kNLuHwpVzBNcW0T) | 3:12 | 2024-02-16 | 2024-04-21 |
 | [Found A Way](https://open.spotify.com/track/1gNTyf5CtN20LUYz6tStx9) | [welcome2bishu](https://open.spotify.com/artist/6uR4FhNuKSzvsYAy2LKMrP), [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [SpreadLovey](https://open.spotify.com/artist/1rdOWvIVZT4nK4dcPQykBT) | [BXU 2](https://open.spotify.com/album/5Rfzj9zzMKVQNagVW4r78M) | 2:17 | 2023-12-22 | 2024-01-13 |
 | [Free Passes \(with Pauline Herr\)](https://open.spotify.com/track/60EstL2lXH7K3J1zR8VxPN) | [Yung Sum](https://open.spotify.com/artist/2kMfOad7vI5MUraDWi8gUS), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Free Passes \(with Pauline Herr\)](https://open.spotify.com/album/5l3TtoiyTaxU2abQBAcvrM) | 3:15 | 2021-09-27 | 2022-07-25 |
 | [Free Range](https://open.spotify.com/track/7sabwbH0YzXOW7kex1yUb3) | [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k) | [UNITY](https://open.spotify.com/album/6AwmDIMLIAmxwQdYokoGMJ) | 4:33 | 2023-02-19 | 2023-06-20 |
@@ -281,6 +281,7 @@
 | [HARNESS](https://open.spotify.com/track/3Ps8bLGciHq6leNN1kUHUJ) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE) | [HARNESS](https://open.spotify.com/album/3e0oTOqZwsTQc3HgMxwjrf) | 4:30 | 2024-04-04 |  |
 | [Have you](https://open.spotify.com/track/5ZPAYylfnIJJLAcH9uAvIg) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm) | [Arrived too early / Have you](https://open.spotify.com/album/3I4Nk1wslBKALwENz11oea) | 2:52 | 2023-12-08 | 2024-01-21 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-02-10 |  |
+| [Heart](https://open.spotify.com/track/5G6mtgQ3cirV1SrN6mUAMj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Heart](https://open.spotify.com/album/0Ru6DolWQL9XhdfereDhpS) | 2:26 | 2024-04-18 |  |
 | [Heart On Fire](https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart On Fire](https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad) | 3:50 | 2023-03-31 | 2023-09-16 |
 | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/track/7IsAYozq9Cm2v1hU6vutm1) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [joegarratt](https://open.spotify.com/artist/6vkcAnHmppXfe6oAgZLcGf) | [heartbreak \(feat\. joegarratt\)](https://open.spotify.com/album/3kQQ4qFE9I4HP5OQQTRuj4) | 3:01 | 2023-08-04 | 2023-09-19 |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2021-08-06 | 2023-05-13 |

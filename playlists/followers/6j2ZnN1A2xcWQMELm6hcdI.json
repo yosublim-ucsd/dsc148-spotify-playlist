@@ -1,7 +1,7 @@
 {
-  "2024-04-20": 336553,
+  "2024-04-21": 336004,
   "date_first_scraped": "2022-06-10",
-  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Chl\u00f6e",
+  "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Lola Brooke",
   "name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "tracks": [
     {
@@ -1634,6 +1634,24 @@
     },
     {
       "album": {
+        "name": "chill like that",
+        "url": "https://open.spotify.com/album/4LSq1Mp7qhNPOj65tS2IEF"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154736,
+      "name": "chill like that",
+      "url": "https://open.spotify.com/track/5PThZUzaBqA9l4J4CDW0Cm"
+    },
+    {
+      "album": {
         "name": "Chitty Bang",
         "url": "https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW"
       },
@@ -1913,6 +1931,24 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
+    {
+      "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
       "album": {
@@ -5150,6 +5186,24 @@
     },
     {
       "album": {
+        "name": "Dennis Daughter (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Neighborhood Hero",
+      "url": "https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ"
+    },
+    {
+      "album": {
         "name": "Never Lose Me (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/1W5CMjNWdlKdfOqLMuHV2w"
       },
@@ -7043,6 +7097,24 @@
       "duration_ms": 169964,
       "name": "Someone Better",
       "url": "https://open.spotify.com/track/6g7vmvWmMqAJCdIU38J4pC"
+    },
+    {
+      "album": {
+        "name": "Something To Listen To",
+        "url": "https://open.spotify.com/album/19pZSaoSylW9hTSrcwxHYq"
+      },
+      "artists": [
+        {
+          "name": "Rubina",
+          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Something To Listen To",
+      "url": "https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn"
     },
     {
       "album": {

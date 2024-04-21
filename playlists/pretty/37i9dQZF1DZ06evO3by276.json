@@ -1,12 +1,12 @@
 {
-  "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3053009,
+  "description": "This is Rihanna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3051161,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGM3NWFhYjA5MWEzNjZhZGM1MjE4Zjc3MmY4MDNlODk4",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDk5ZTJjOGFhYmFjYjI4NjhhYzlkY2Y1ODdlMTAxNWE0",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
       "duration_ms": 216293,
       "name": "Nobody's Business",
       "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208426,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
     },
     {
       "added_at": null,

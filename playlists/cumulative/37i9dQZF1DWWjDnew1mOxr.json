@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/36DMhXaQy689fWYty7Q51I"
+      },
+      "artists": [
+        {
+          "name": "DAYTIME TV",
+          "url": "https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168672,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/2Hz1N22RNvK1UHfm6B3CwQ"
+    },
+    {
+      "album": {
         "name": "Feel for Me",
         "url": "https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP"
       },
@@ -3636,7 +3654,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 170545,
       "name": "SIMILE BLUES",
       "url": "https://open.spotify.com/track/0VPHkcfJylxPZ2BLd2TnYI"

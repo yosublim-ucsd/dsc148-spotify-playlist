@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 498201,
+  "2024-04-21": 497627,
   "date_first_scraped": "2022-04-19",
   "description": "The whole family will enjoy popular hits from yesterday and today!",
   "name": "Pop for Kids",
@@ -757,7 +757,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 241386,
       "name": "Don't You Worry 'Bout A Thing",
       "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh"
@@ -1391,6 +1391,28 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Let It Roll (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Let It Roll - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
     },
     {
       "album": {

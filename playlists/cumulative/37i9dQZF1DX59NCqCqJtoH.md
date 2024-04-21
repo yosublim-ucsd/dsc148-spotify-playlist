@@ -4,7 +4,7 @@
 
 > We hear you.
 
-662 songs - 1 day 8 hr 47 min
+663 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Addicted 2 U](https://open.spotify.com/track/29KOLiu6sn8AIw46BYSJOw) | [Ben Chandler](https://open.spotify.com/artist/5spCYJNfwMEdTpMrir8dJF) | [Addicted 2 U](https://open.spotify.com/album/1MzHMufnsAiofLR8UezqnF) | 3:31 | 2021-04-02 | 2022-04-15 |
 | [Aesthetic](https://open.spotify.com/track/4jY3GWEqlrTALvVE1j7VHI) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/4A5jNEDsbTdHhcPOwqtiU4) | 2:38 | 2021-04-02 | 2022-04-19 |
 | [After](https://open.spotify.com/track/2d94jEmBfS2NO4nBg5PIRB) | [saaaz](https://open.spotify.com/artist/6MdmDH4ws2thbEQsYGUL7g) | [After](https://open.spotify.com/album/37noqZzJHyfis9oh0hzxwv) | 2:28 | 2021-04-02 | 2022-07-29 |
+| [Afterglow](https://open.spotify.com/track/4xRDWaPf1AuMJo9sytQU0w) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Afterglow](https://open.spotify.com/album/6t1lPagW4j5xy89gEYEyXy) | 3:10 | 2023-09-29 |  |
 | [afterthoughts](https://open.spotify.com/track/1ERCrZMVMSpqDW4zmr4sRc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CLOUDS \(Music From The Disney+ Original Movie\)](https://open.spotify.com/album/6wxPYC9LuoJCtKtFw4UDgf) | 2:55 | 2023-04-26 | 2023-10-17 |
 | [afterthoughts](https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [afterthoughts](https://open.spotify.com/album/1qj06N4aOhTq5HmcHxbb27) | 2:55 | 2021-04-02 | 2022-07-24 |
 | [all i want is you](https://open.spotify.com/track/6IBJR6RxxAc9wfJjDaYJoJ) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [all i want is you](https://open.spotify.com/album/74GgZoswGgIaZVp1aPCpK6) | 2:12 | 2021-04-02 | 2022-05-26 |
@@ -108,7 +109,7 @@
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/376RbjUwbXiUaIVFpdgsZf) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 3:42 | 2023-04-26 | 2023-06-03 |
 | [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 | 2023-05-07 |
-| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-15 |  |
+| [Cruel](https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Cruel](https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F) | 3:06 | 2023-09-15 | 2024-04-21 |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [Crying In My Car \(with Teezo Touchdown\)](https://open.spotify.com/track/1DTAoccmYHSdDfAyzdzsDl) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Crying In My Car](https://open.spotify.com/album/1GZ0dk7XtNsU6guKICEOBd) | 3:02 | 2023-08-18 | 2023-09-14 |
 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 | 2022-11-22 |  |

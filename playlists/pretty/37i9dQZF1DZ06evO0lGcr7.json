@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMGFkYTFmZGI4OWIyOWJhZDllZGE1NDY1MmMzMzI4MGM4",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDQ5MWEzYzRkYzI1NzY0YzJmM2Y4NzIxM2VjZWYwZmJi",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "seasonal depression",
-      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 167925,
       "name": "the idea of you",
       "url": "https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "seasonal depression",
+      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
     },
     {
       "added_at": null,

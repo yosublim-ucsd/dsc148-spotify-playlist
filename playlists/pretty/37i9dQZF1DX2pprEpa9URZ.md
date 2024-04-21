@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,684 likes - 75 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,727 likes - 75 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 27 | [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 |
 | 28 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 |
 | 29 | [Karanfilce Devojce \- PACHIRA Remix](https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [PACHIRA](https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0) | [Karanfilce Devojce \(PACHIRA Remix\)](https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5) | 5:42 |
-| 30 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
-| 31 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
+| 30 | [Ya Nahar Ya Gamel](https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii), [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Ma Gally](https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC) | 7:13 |
+| 31 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
 | 32 | [Boho](https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Boho](https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU) | 4:53 |
-| 33 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
-| 34 | [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 |
+| 33 | [Neko \(feat Kotoe\)](https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Neko Ep](https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip) | 4:33 |
+| 34 | [The Landing \- Nadav Dagon & JPattersson](https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK), [Nadav Dagon](https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU) | [The Landing](https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep) | 7:15 |
 | 35 | [Birds Of Toi](https://open.spotify.com/track/2IVlbPA7i2L2BWEFvyUqI8) | [Distropical](https://open.spotify.com/artist/5hW8i3nfA2DknrWudd2aUF) | [Birds Of Toi](https://open.spotify.com/album/3v2LsemlmJTwtbTCX3UlJT) | 4:12 |
 | 36 | [Ciclos](https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ) | [Antaares](https://open.spotify.com/artist/4a6SWpboKXeExMh2XbSHC3) | [Ciclos](https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4) | 6:36 |
 | 37 | [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 71 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 |
 | 72 | [Behind The Wall](https://open.spotify.com/track/7p2HefMjnCywc3YuDaToJH) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Behind The Wall](https://open.spotify.com/album/1wAoIli83YBVmOvg87amiI) | 6:40 |
 | 73 | [Tribal Rhythms](https://open.spotify.com/track/6wUN5LNMpIiYrNJTjaTTsS) | [MÖW](https://open.spotify.com/artist/0ntJM1ZVyO8oyZGkhTEaTo), [Gaia Ekho](https://open.spotify.com/artist/3IGkmJjeqJE1ZNmV9NQtsO) | [Silhouette](https://open.spotify.com/album/3Cl07dg658G4zsCSKJNEae) | 6:40 |
-| 74 | [Congüe](https://open.spotify.com/track/49cwAHME11iElzN2TU754q) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Gambia](https://open.spotify.com/album/4qxp4xvZDmJSPqYA3L0sAn) | 6:05 |
+| 74 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
 | 75 | [Senhor Carangeju \- Dengue Dengue Dengue Remix](https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Na Lagoa \(Remixes\)](https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm) | 4:24 |
 
 Snapshot ID: `MTcxMDQwOTIyOCwwMDAwMDAwMGI2NTBjZDQzZTFkMmUyNGFlMDRmNGQwYzU4Y2FkMzg5`

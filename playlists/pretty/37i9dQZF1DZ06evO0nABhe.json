@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 9287,
+  "num_followers": 9292,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDc0YzZlODc2NWZmZWEzZTY3MjIzYjczOTRhZjVhYzk2",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDlkNWEwMjkyNDhmMzJjZWU1OGY1MTY2YjVmMDhiZjc0",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 268870,
-      "name": "Can Anybody Hear Me",
-      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
+      "duration_ms": 247950,
+      "name": "Goodnight, My Love",
+      "url": "https://open.spotify.com/track/0KRm82wbZfjdbaCy0fF69H"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 247950,
-      "name": "Goodnight, My Love",
-      "url": "https://open.spotify.com/track/0KRm82wbZfjdbaCy0fF69H"
+      "duration_ms": 268870,
+      "name": "Can Anybody Hear Me",
+      "url": "https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 213586,
+      "name": "Choose Your Fate",
+      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213586,
-      "name": "Choose Your Fate",
-      "url": "https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
     },
     {
       "added_at": null,

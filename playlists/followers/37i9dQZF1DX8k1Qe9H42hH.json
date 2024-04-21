@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 3250,
+  "2024-04-21": 3313,
   "date_first_scraped": "2024-03-02",
   "description": "From rocking to walking and everything in between to help you celebrate every milestone & cherish every moment. ",
   "name": "Disney Baby",
@@ -1333,6 +1333,24 @@
       "duration_ms": 275760,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM"
+    },
+    {
+      "album": {
+        "name": "Disney Guitar: Wish",
+        "url": "https://open.spotify.com/album/3SYfKw3qLbZqeXhMKhW8mI"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Guitar",
+          "url": "https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "This Wish",
+      "url": "https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229"
     },
     {
       "album": {

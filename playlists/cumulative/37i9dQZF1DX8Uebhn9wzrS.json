@@ -5736,7 +5736,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 133028,
       "name": "Chills",
       "url": "https://open.spotify.com/track/5X8vhQVCsICecrOKt5eE7r"
@@ -12583,6 +12583,24 @@
     },
     {
       "album": {
+        "name": "glue",
+        "url": "https://open.spotify.com/album/4W12zjKWwHiKG6L6Q3mowJ"
+      },
+      "artists": [
+        {
+          "name": "knight knight",
+          "url": "https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132583,
+      "name": "glue",
+      "url": "https://open.spotify.com/track/7aql9zPNz3dPHEYpIVMhlz"
+    },
+    {
+      "album": {
         "name": "gm",
         "url": "https://open.spotify.com/album/14p1U9dldMnEXP1ToIx8YA"
       },
@@ -18180,7 +18198,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 98971,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc"
@@ -34380,7 +34398,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 113339,
       "name": "Walk Through the Sky",
       "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"

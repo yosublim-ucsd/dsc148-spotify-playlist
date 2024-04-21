@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 56210,
+  "2024-04-21": 56256,
   "date_first_scraped": "2022-12-10",
   "description": "Go hard or go home",
   "name": "Hardstyle Gym \ud83d\udcaa",
@@ -355,7 +355,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/4mhuBO0VjqcJ3OSgc6Mv33"
@@ -2297,7 +2297,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 171096,
       "name": "Love, Bass & Happiness",
       "url": "https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4"

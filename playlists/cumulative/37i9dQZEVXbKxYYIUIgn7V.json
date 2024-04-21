@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "BIERBAUCH\ud83c\udf7a",
+        "url": "https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO"
+      },
+      "artists": [
+        {
+          "name": "Andi schiebt anders",
+          "url": "https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "BIERBAUCH\ud83c\udf7a",
+      "url": "https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo"
+    },
+    {
+      "album": {
         "name": "BIKINI GRELL",
         "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
       },
@@ -3464,7 +3482,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -4556,7 +4574,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 205540,
       "name": "RAISED LIKE THAT",
       "url": "https://open.spotify.com/track/4HR4BpX54UVZIpMt5grTBE"
@@ -4632,7 +4650,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 201642,
       "name": "Red' Dir nichts ein (aus \"The Voice Kids, Staffel 12\")",
       "url": "https://open.spotify.com/track/7k7m080NFAqnicSknyA5jl"

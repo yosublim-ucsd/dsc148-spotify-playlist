@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 1970837,
+  "2024-04-21": 1969887,
   "date_first_scraped": "2022-04-20",
   "description": "The perfect study beats. Find your focus, crush your productivity. ",
   "name": "chill lofi study beats",
@@ -11633,7 +11633,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 120000,
       "name": "Fresh Convo",
       "url": "https://open.spotify.com/track/2TQPmHzg5IOKhACgEDBzOF"
@@ -17465,7 +17465,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 138750,
       "name": "Little Did I Know",
       "url": "https://open.spotify.com/track/2sf7qX369WsHFulMxWgQzN"
@@ -17783,7 +17783,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 123076,
       "name": "Lofi Love Letters",
       "url": "https://open.spotify.com/track/789uQasgZdah7LSojyotDI"
@@ -21425,6 +21425,24 @@
       "duration_ms": 159000,
       "name": "New Years Day",
       "url": "https://open.spotify.com/track/2nkNmG4NpHxtgsWQM4fzqE"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/6UJwDulNaShOPSZPznDisy"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Dor",
+          "url": "https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113846,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/3n3sAbq1sUfR3c7qHYZO7X"
     },
     {
       "album": {
@@ -29956,6 +29974,24 @@
     },
     {
       "album": {
+        "name": "sultan",
+        "url": "https://open.spotify.com/album/1umC63bOf9MCYZPHBKHjoA"
+      },
+      "artists": [
+        {
+          "name": "Trixpot",
+          "url": "https://open.spotify.com/artist/3XPQh0KgwDXTCHDV4LtSeK"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146059,
+      "name": "sultan",
+      "url": "https://open.spotify.com/track/7uxWoUoWE3TEeofSKlCXDo"
+    },
+    {
+      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs"
       },
@@ -30381,6 +30417,24 @@
       "duration_ms": 163133,
       "name": "Sungold",
       "url": "https://open.spotify.com/track/3Q572SCyptN5irJMQQvjLK"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/533UxdqUzpaIA0g55PmdgZ"
+      },
+      "artists": [
+        {
+          "name": "Yuki Leopard",
+          "url": "https://open.spotify.com/artist/5dtXDgpsb6cRaFZUm2rWbE"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/5fjtH0fMWdYf7CAvibpNNp"
     },
     {
       "album": {

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 69991,
+  "2024-04-21": 69998,
   "date_first_scraped": "2023-05-19",
   "description": "Naye Indie gaano ka khazana! Cover- Prateeksha Srivastava",
   "name": "Naya Indiestan",
@@ -6411,7 +6411,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250230,
-      "name": "Main Na Jaanu Kyu",
+      "name": "Main Na Jaanu Kyun",
       "url": "https://open.spotify.com/track/3o9WNCC2eyne6YKbqbx2RX"
     },
     {
@@ -9529,6 +9529,24 @@
       "duration_ms": 218000,
       "name": "Suljhi Si Zindagi",
       "url": "https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM"
+    },
+    {
+      "album": {
+        "name": "Sun Bachhe",
+        "url": "https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187543,
+      "name": "Sun Bachhe",
+      "url": "https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh"
     },
     {
       "album": {

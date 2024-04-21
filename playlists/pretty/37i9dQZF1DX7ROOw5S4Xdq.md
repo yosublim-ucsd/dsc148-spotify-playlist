@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,607 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,367 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Azeite \- Ao Vivo](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 |
-| 2 | [Não Vai Falhar \- Ao Vivo](https://open.spotify.com/track/34EZHKF9dJAhTk7vsmMyud) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Não Vai Falhar \(Ao Vivo\)](https://open.spotify.com/album/6eCe45YrCUsad0vzZ0dpyX) | 4:37 |
+| 2 | [Não Vai Falhar \- Ao Vivo](https://open.spotify.com/track/34EZHKF9dJAhTk7vsmMyud) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Não Vai Falhar \(Ao Vivo\)](https://open.spotify.com/album/6eCe45YrCUsad0vzZ0dpyX) | 4:37 |
 | 3 | [O Senhor é o Meu Pastor \- Ao Vivo](https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Senhor é o Meu Pastor \(Ao Vivo\)](https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx) | 6:21 |
 | 4 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 5 | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Maranata \(Vem Emanuel\) \(Ao Vivo\)](https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt) | 6:59 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 42 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
 | 43 | [Apenas Um Toque \(Ao Vivo\)](https://open.spotify.com/track/09l8m15WlP2EaoYdBhf6rU) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Alice](https://open.spotify.com/artist/68jmwIsKnfYj0WJxduQnWZ) | [Apenas Um Toque \(Ao Vivo\)](https://open.spotify.com/album/27jptAiHObRtJq2LsSMBfM) | 4:48 |
 | 44 | [Meus Olhos](https://open.spotify.com/track/1vr3CBcyhIo0U1F8ShLiOG) | [Nova Onda Worship](https://open.spotify.com/artist/0PcIxac00c7SekRC3q9R5g) | [Meus Olhos](https://open.spotify.com/album/2czGNIL4Y0vVXPox2fL9oV) | 6:47 |
-| 45 | [Podes Vir Jesus](https://open.spotify.com/track/4IwPx88lllAUJj2Fq4GOjU) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Podes Vir Jesus](https://open.spotify.com/album/6GKcmvITxh0BT9964hBsLA) | 4:35 |
+| 45 | [Podes Vir Jesus](https://open.spotify.com/track/4IwPx88lllAUJj2Fq4GOjU) | [Matheus Trindade](https://open.spotify.com/artist/0Ymz1ExCtpFOHsNDa5JeyL) | [Podes Vir Jesus](https://open.spotify.com/album/6GKcmvITxh0BT9964hBsLA) | 6:10 |
 | 46 | [Te Levanta Pra Curar](https://open.spotify.com/track/5stXEt1o66m6sfCrdzuzux) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Te Levanta Pra Curar](https://open.spotify.com/album/4481Ok0OyQPBNhwj2WUCM3) | 4:29 |
 | 47 | [Deus Não Mudou](https://open.spotify.com/track/4oYwb4WLJdjYrTfhEmtpW8) | [Nathan Asafe](https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA) | [Deus Não Mudou](https://open.spotify.com/album/4LAuBDteY2KyLYgXO78IWM) | 2:46 |
 | 48 | [Faça o Bem](https://open.spotify.com/track/4zXXju1YwFpTfVxyZPA99n) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Nic Medeiros](https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts) | [Faça o Bem](https://open.spotify.com/album/0jpWhnP8xeZqQ2KI4lEAHH) | 2:59 |

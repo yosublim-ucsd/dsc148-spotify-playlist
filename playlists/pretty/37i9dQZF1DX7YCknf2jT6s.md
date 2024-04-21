@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Shabaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,916 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,501 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 10 | [Fried Bananas](https://open.spotify.com/track/5G7Y4WmAmniUopDRdbO8NJ) | [Ricardo Pinheiro](https://open.spotify.com/artist/6btXpWrlx8TJzJNQ0KT4US), [Chris Cheek](https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Michael Formanek](https://open.spotify.com/artist/62iyCv3YONUFiqCvN0EgfY) | [Tone Stories](https://open.spotify.com/album/041cjTWNODSDk2Bq2GS8Dd) | 3:37 |
 | 11 | [Used To Be Duke](https://open.spotify.com/track/7mMUp72qgpqDktLKcMASpJ) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 2](https://open.spotify.com/album/2Ey857xbWVAdisJQN8GY2G) | 3:40 |
 | 12 | [Find Me \- Live](https://open.spotify.com/track/5wCXlhXJcvb9nawe5phkME) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Live at Third Man Records](https://open.spotify.com/album/3qR4jnOYMFddIFpgKnbIJx) | 7:08 |
-| 13 | [Kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
+| 13 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
 | 14 | [Departure Guide of the 7 Sisters](https://open.spotify.com/track/2sAHKiGOGECxnyTy5ROwbZ) | [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Deantoni Parks](https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX), [Jade Hicks](https://open.spotify.com/artist/15DHnZMl55Hu1NQTbsZgzV), [Christopher Bruce](https://open.spotify.com/artist/4u7aeY3epOljhFvd4dL0vq) | [Departure Guide of the 7 Sisters](https://open.spotify.com/album/215PoB7RC48UCj4W3lrH1q) | 2:58 |
 | 15 | [Brooklyn](https://open.spotify.com/track/3zxkLLAMtXzowSgohumUy4) | [Alan Braufman](https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H), [Patricia Brennan](https://open.spotify.com/artist/4Q7mKhsHlU8ku3jEL0oVee), [James Brandon Lewis](https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK), [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Michael Wimberly](https://open.spotify.com/artist/6bYjLq7gxn1ppARKvClYbk), [Ken Filiano](https://open.spotify.com/artist/2OaNxBGsO4k7VvISKSm38d) | [Brooklyn](https://open.spotify.com/album/7JxUbI4fiWY2pf9Ne6PmYL) | 4:22 |
 | 16 | [Libations: Omnyama](https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Libations: Omnyama](https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c) | 6:05 |

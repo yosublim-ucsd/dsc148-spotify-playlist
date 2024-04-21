@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 314213,
       "name": "Juventud",
       "url": "https://open.spotify.com/track/6JYlEztSmPwzfSNiRDX3Bn"
@@ -2064,6 +2064,24 @@
       "duration_ms": 318266,
       "name": "Todav\u00eda Quedan Cosas - Remastered 2022",
       "url": "https://open.spotify.com/track/3QSEcqzwzoidLP7Q9600RC"
+    },
+    {
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
     },
     {
       "album": {

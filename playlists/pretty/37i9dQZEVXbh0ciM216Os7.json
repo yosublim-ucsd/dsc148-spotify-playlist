@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMGQxZGQxYjZhZmE5OTViMTlhYmU4YzBmYjVmMzIyYjA5",
+  "snapshot_id": "MCwwMDAwMDAwMDc2ZDBlNDZkNGU0MGEyNTYyODEyNjg4OTQ5NDY3ZDBk",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 310999,
-      "name": "U.S. Blues - Takes 1 and 2",
-      "url": "https://open.spotify.com/track/6038Yj83tztaf22nodgd2L"
+      "duration_ms": 286805,
+      "name": "Scarlet Begonias - Takes 1 and 2",
+      "url": "https://open.spotify.com/track/4Tgi1VkJQGsB6VNqZb5KOz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -75,6 +75,70 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
+        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 880348,
+      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
+      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Too Sweet (Metal Version)",
+        "url": "https://open.spotify.com/album/3IkNnNIKcUAI4DOie8yusB"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 329940,
+      "name": "Too Sweet (Metal Version)",
+      "url": "https://open.spotify.com/track/3KFqrN8yyBThehee27KErl"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Russian Roullete",
+        "url": "https://open.spotify.com/album/6AF14z3DzSV0s8O37I1VMP"
+      },
+      "artists": [
+        {
+          "name": "Alex Quazr",
+          "url": "https://open.spotify.com/artist/3iuHcp95JkLTnOidieJz7z"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 216930,
+      "name": "Russian Roullete",
+      "url": "https://open.spotify.com/track/7JVNVcaCx4mj70t2FlmpE0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
         "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
       },
@@ -99,22 +163,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 (Bonus Version)",
-        "url": "https://open.spotify.com/album/00ZEz3M7Buqb9m5qMO7fbZ"
+        "name": "Philip Glass: Etudes for Piano",
+        "url": "https://open.spotify.com/album/21eHvMd4t8nr6wtooccK6H"
       },
       "artists": [
         {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "Feico Deutekom",
+          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
         }
       ],
-      "duration_ms": 880348,
-      "name": "The Curtain - Live From Dordrecht, Het Energiehuis / 2014 - Bonus Version",
-      "url": "https://open.spotify.com/track/4YBnMQ5ncZUq9HmztP4YVF"
+      "duration_ms": 459410,
+      "name": "Etude No.2",
+      "url": "https://open.spotify.com/track/33mmFvzD7lxLIoboTGdIz9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -135,26 +199,6 @@
       "duration_ms": 164497,
       "name": "Universe - Galantis Remix",
       "url": "https://open.spotify.com/track/6WJu3kRMBSanaLp4c5rvgd"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Philip Glass: Etudes for Piano",
-        "url": "https://open.spotify.com/album/21eHvMd4t8nr6wtooccK6H"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Feico Deutekom",
-          "url": "https://open.spotify.com/artist/3CA6hPrl7Gjs8Kmjvani8r"
-        }
-      ],
-      "duration_ms": 459410,
-      "name": "Etude No.2",
-      "url": "https://open.spotify.com/track/33mmFvzD7lxLIoboTGdIz9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -215,26 +259,6 @@
       "duration_ms": 216173,
       "name": "Route 66 - Live at the Blue Note Chicago",
       "url": "https://open.spotify.com/track/3u3BeAd3tdY21Hc2vbQR9p"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Country Gold",
-      "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -323,26 +347,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Cleansing",
-        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Will Ramos",
-          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
-        }
-      ],
-      "duration_ms": 480566,
-      "name": "The Cleansing",
-      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
       },
@@ -367,6 +371,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "The Cleansing",
+        "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "duration_ms": 480566,
+      "name": "The Cleansing",
+      "url": "https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/1XCSB3crWVPlxUbedmr7Jg"
       },
@@ -387,22 +411,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Whatever I Want",
-        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 167447,
-      "name": "Whatever I Want",
-      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Infrared",
         "url": "https://open.spotify.com/album/5ZW1pWSNoVPRtCmnm0Y9Df"
       },
@@ -419,6 +427,22 @@
       "duration_ms": 180124,
       "name": "Infrared",
       "url": "https://open.spotify.com/track/6g8jmyE3kZDFIAhRBxnKT4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Whatever I Want",
+        "url": "https://open.spotify.com/album/6B3BnWn87tLTujzqkQMEhP"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 167447,
+      "name": "Whatever I Want",
+      "url": "https://open.spotify.com/track/7rqk79yeKltd7v172uyRYR"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -519,28 +543,68 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "SHAOLIN LESSONS",
-        "url": "https://open.spotify.com/album/6cxoyK2Sg9MRculrDgX29f"
+        "name": "A Mindful Blues",
+        "url": "https://open.spotify.com/album/3xmHCN8Ypczi006xXU9BEg"
       },
       "artists": [
         {
-          "name": "Pexxa",
-          "url": "https://open.spotify.com/artist/6MXIASQqWSjWXS2T8whcz3"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Val Monroe",
+          "url": "https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo"
         }
       ],
-      "duration_ms": 174285,
-      "name": "SHAOLIN LESSONS",
-      "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
+      "duration_ms": 168921,
+      "name": "A Mindful Blues",
+      "url": "https://open.spotify.com/track/0RnwWRzaWJ9CHwjLgIuNFc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Signature",
-        "url": "https://open.spotify.com/album/01FwpQP88PwU2y2LZATUQc"
+        "name": "Liberation 2",
+        "url": "https://open.spotify.com/album/0zsoWKnMDhi7TgMMST7sYn"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "The Right To Love Us",
+      "url": "https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0q31nokt6Hp8O0WyVX167C"
       },
       "artists": [
         {
@@ -548,77 +612,13 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "Jean-Louis Rassinfosse",
-          "url": "https://open.spotify.com/artist/50m2KVom2r1LcmDxWWkieg"
-        },
-        {
-          "name": "Philip Catherine",
-          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
         }
       ],
-      "duration_ms": 564823,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/07PImZzoVuj4TBAWRtgUZJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "John Coltrane Quartet + Stan Getz + Oscar Peterson: Live Dusseldorf 1960 (Live Restauraci\u00f3n 2024)",
-        "url": "https://open.spotify.com/album/3VcGwRasSIkWfFJjADQsIa"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 529620,
-      "name": "On Green Dolphin Street - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/0UJV6EkZecTU6igrgYyJMC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "WE DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 267706,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 191888,
-      "name": "POETRY IN MOTION",
-      "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
+      "duration_ms": 150506,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/3qsyNf2a5PP4GwNdgxp3GZ"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

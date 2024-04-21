@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 168921,
       "name": "A Mindful Blues",
       "url": "https://open.spotify.com/track/0RnwWRzaWJ9CHwjLgIuNFc"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
@@ -9966,7 +9966,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
@@ -12731,6 +12731,28 @@
     },
     {
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0q31nokt6Hp8O0WyVX167C"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150506,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/3qsyNf2a5PP4GwNdgxp3GZ"
+    },
+    {
+      "album": {
         "name": "Just What I Need",
         "url": "https://open.spotify.com/album/5PisCzqfPtR3D1c4jINRzl"
       },
@@ -14016,7 +14038,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -16428,7 +16450,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 564823,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/07PImZzoVuj4TBAWRtgUZJ"
@@ -17330,7 +17352,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 529620,
       "name": "On Green Dolphin Street - Dusseldorf March 1960 - Restauraci\u00f3n 2024",
       "url": "https://open.spotify.com/track/0UJV6EkZecTU6igrgYyJMC"
@@ -18762,7 +18784,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 191888,
       "name": "POETRY IN MOTION",
       "url": "https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV"
@@ -20501,6 +20523,36 @@
     },
     {
       "album": {
+        "name": "Russian Roullete",
+        "url": "https://open.spotify.com/album/6AF14z3DzSV0s8O37I1VMP"
+      },
+      "artists": [
+        {
+          "name": "Alex Quazr",
+          "url": "https://open.spotify.com/artist/3iuHcp95JkLTnOidieJz7z"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216930,
+      "name": "Russian Roullete",
+      "url": "https://open.spotify.com/track/7JVNVcaCx4mj70t2FlmpE0"
+    },
+    {
+      "album": {
         "name": "Rust (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0"
       },
@@ -20826,6 +20878,24 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "From the Mars Hotel: The Angel's Share",
+        "url": "https://open.spotify.com/album/0U8ec9AzCbzMNNFEAAteQY"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286805,
+      "name": "Scarlet Begonias - Takes 1 and 2",
+      "url": "https://open.spotify.com/track/4Tgi1VkJQGsB6VNqZb5KOz"
     },
     {
       "album": {
@@ -21192,7 +21262,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 174285,
       "name": "SHAOLIN LESSONS",
       "url": "https://open.spotify.com/track/2XsaKckedWhjHdXIqfGbnk"
@@ -24670,7 +24740,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 171562,
       "name": "The Right To Love Us",
       "url": "https://open.spotify.com/track/41sYW1EhLzlMWlaefZGWvq"
@@ -25361,6 +25431,24 @@
     },
     {
       "album": {
+        "name": "Too Sweet (Metal Version)",
+        "url": "https://open.spotify.com/album/3IkNnNIKcUAI4DOie8yusB"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329940,
+      "name": "Too Sweet (Metal Version)",
+      "url": "https://open.spotify.com/track/3KFqrN8yyBThehee27KErl"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -25772,7 +25860,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 310999,
       "name": "U.S. Blues - Takes 1 and 2",
       "url": "https://open.spotify.com/track/6038Yj83tztaf22nodgd2L"

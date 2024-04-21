@@ -1,13 +1,29 @@
 {
-  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1058236,
+  "description": "This Is Foo Fighters. Los temas esenciales, todos en una lista.",
+  "num_followers": 1058181,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDY2YzRmMWQ3YmZlYjVlMWQ4MTkyMWZlNjNmZWM5ZmQ3",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGYzMmE3NGRhYzBlNTIyYzBiMzdjNWY5MjNjZTA1MjYx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
     {
       "added_at": null,
       "album": {
@@ -651,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 245666,
-      "name": "Alone + Easy Target",
-      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
+      "duration_ms": 256440,
+      "name": "Stacked Actors",
+      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 256440,
-      "name": "Stacked Actors",
-      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
+      "duration_ms": 245666,
+      "name": "Alone + Easy Target",
+      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
     },
     {
       "added_at": null,
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
+      "duration_ms": 276213,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "There Is Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
       "artists": [
         {
@@ -756,25 +772,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 276213,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 135573,
-      "name": "Up In Arms",
-      "url": "https://open.spotify.com/track/05TcC5ZN9rp8Glx8A9C2Nd"
+      "duration_ms": 241226,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
     },
     {
       "added_at": null,

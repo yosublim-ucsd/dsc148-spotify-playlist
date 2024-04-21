@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 54237,
+  "num_followers": 54248,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDhjYjFhYzI1MDM2ODM4MjIxM2VkNDg5OTRiNzI0ZGI4",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDBiOWIyOWUyODk5ZWEwZjZhNmFiYzdiNWQ5YWYzYWY3",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minotaur's Song",
-        "url": "https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx"
-      },
-      "artists": [
-        {
-          "name": "1017 ALYX 9SM",
-          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Minotaur's Song",
-      "url": "https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedroom Lofi",
         "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
       },
@@ -883,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camp Lukewarm",
-        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
+        "name": "Minotaur's Song",
+        "url": "https://open.spotify.com/album/7A00y2WsNkhrOJMdYmVHDx"
       },
       "artists": [
         {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
         },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 232992,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj"
+      "duration_ms": 170414,
+      "name": "Minotaur's Song",
+      "url": "https://open.spotify.com/track/2dQ9lOVqtl9EgImXB2pTxd"
     },
     {
       "added_at": null,
@@ -927,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer/Spring Lofi Compilation",
-        "url": "https://open.spotify.com/album/2zT0rgijDSLbiuQkD0iFvT"
+        "name": "Camp Lukewarm",
+        "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
       "artists": [
         {
@@ -940,9 +920,29 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 223973,
-      "name": "space helmets",
-      "url": "https://open.spotify.com/track/5EWBmXdxdWljoh8SAdxLy4"
+      "duration_ms": 232992,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4BSOJ81PwACg1rOY967aFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedroom Lofi",
+        "url": "https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 162921,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/2DJIj4fcNtcf2PvWDyS3do"
     }
   ],
   "unique_name": "This Is Montell Fish",

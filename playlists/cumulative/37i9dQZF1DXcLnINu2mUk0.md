@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
 
-596 songs - 1 day 7 hr 48 min
+597 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,7 @@
 | [Ficou Tudo Bem](https://open.spotify.com/track/1vWvJFkIrMZUnkxA4A0IUU) | [Sara Monteiro](https://open.spotify.com/artist/5HELMWN5G2dNC2AOXn2VNu) | [Ficou Tudo Bem](https://open.spotify.com/album/7BT0ho7Rb4dlFIkFiHrqqC) | 3:23 | 2023-03-17 | 2023-03-31 |
 | [Filho do Vento](https://open.spotify.com/track/1we7vOaZVUh0LAyNFZd7fL) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Filho do Vento](https://open.spotify.com/album/2vjFAk5sCGaHidNUV3FsSX) | 2:27 | 2024-02-02 | 2024-03-08 |
 | [Filhos](https://open.spotify.com/track/7Cyj6YPYU9ax1Ze7GpQXT4) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Filhos](https://open.spotify.com/album/16xD2hWPUrnrUrWmzBweXQ) | 3:30 | 2023-08-03 | 2023-08-25 |
-| [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [Potter](https://open.spotify.com/artist/3lEPRRwewQnDzDO1rjLj3q) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 | 2024-03-15 |  |
+| [Filme](https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd) | [Don Plako](https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB), [POTTER](https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU) | [Filme](https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV) | 3:18 | 2024-03-15 |  |
 | [Filtros](https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI) | [Idelsa](https://open.spotify.com/artist/0mXFos6Vf02A5AReZz9i5p), [Yara Bonga](https://open.spotify.com/artist/6BhSNJjeu7P8rEP2lOQ4Pw) | [Filtros](https://open.spotify.com/album/1lDlsWp44yKP7kCe04msjo) | 3:08 | 2023-05-11 | 2023-05-19 |
 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 | 2023-09-14 | 2023-10-06 |
 | [Flowers](https://open.spotify.com/track/2Fcc9TGfcw6BQbScMxWeua) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump In](https://open.spotify.com/album/0D8CRbaOwXs9QBcwXNFdGc) | 3:37 | 2023-06-01 | 2023-06-23 |
@@ -272,7 +272,7 @@
 | [In The Middle](https://open.spotify.com/track/3IQQGIHWNK1ryHqoMtqUZg) | [SFISTIKATED](https://open.spotify.com/artist/2LkUD32emCfDhhfldggZ9T), [Rezar](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk) | [In The Middle](https://open.spotify.com/album/6etc4KshHLH0RaeZrr0Vgi) | 3:37 | 2023-03-01 | 2023-03-25 |
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2023-12-15 |
 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 | 2023-09-14 | 2023-10-06 |
-| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 |  |
+| [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 | 2024-04-21 |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 | 2023-08-03 | 2023-09-15 |
 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 | 2024-03-08 |  |
@@ -349,6 +349,7 @@
 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 | 2023-09-14 | 2023-10-24 |
 | [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 | 2022-09-16 | 2022-10-07 |
 | [Mumentu](https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Mumentu](https://open.spotify.com/album/6hzMAoYaLubJFu3NOWQKX6) | 2:59 | 2023-04-27 | 2023-05-26 |
+| [Mundo Novo](https://open.spotify.com/track/3joplLOWFulJAfogMDOlD9) | [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq), [Karyna Gomes](https://open.spotify.com/artist/67hvQPQ8FN8EGyItUlaxwa) | [Mundo Novo](https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM) | 3:11 | 2024-04-18 |  |
 | [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 | 2023-07-20 | 2023-08-11 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Mónica](https://open.spotify.com/track/1u2fvdaVJXLqupHBx0mn9g) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Mónica](https://open.spotify.com/album/4NEbbX06fF18QRkOpa53oG) | 3:12 | 2023-09-07 | 2024-02-16 |

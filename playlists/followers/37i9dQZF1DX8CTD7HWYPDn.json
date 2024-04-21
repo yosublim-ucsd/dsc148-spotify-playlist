@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 1727417,
+  "2024-04-21": 1725275,
   "date_first_scraped": "2023-10-15",
   "description": "Tu karaoke personal para darlo todo cantando.",
   "name": "Karaoke 2024",
@@ -209,6 +209,28 @@
       "duration_ms": 238746,
       "name": "Another Brick in the Wall, Pt. 2",
       "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "album": {
+        "name": "Coti",
+        "url": "https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "date_added": "2024-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Antes Que Ver El Sol",
+      "url": "https://open.spotify.com/track/0BJdpD3m8414QOj8iqFYMR"
     },
     {
       "album": {
@@ -3717,7 +3739,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/62NVyyEBiRxGae3SeB97nl"

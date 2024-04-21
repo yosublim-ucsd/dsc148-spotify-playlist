@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 367099,
+  "2024-04-21": 367007,
   "date_first_scraped": "2021-12-21",
   "description": "Den enda spellistan du beh\u00f6ver f\u00f6r en bra fest!",
   "name": "Fest!",
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-16",
+      "date_removed": null,
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
@@ -6645,7 +6645,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD"

@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 103815,
+  "num_followers": 103847,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "\"Folon\".....The Past",
+        "url": "https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 359706,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "The Best Of Victor Uwaifo, Vol. 1",
         "url": "https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 353106,
       "name": "Guitar Boy",
       "url": "https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "\"Folon\".....The Past",
-        "url": "https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 359706,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b"
     },
     {
       "added_at": "2019-06-28 16:54:51",

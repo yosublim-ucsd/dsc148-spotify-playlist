@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: NAV & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,478 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,543 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
 | 2 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 3 | [Forgot We Were Seeds](https://open.spotify.com/track/6XK53Z4myhw8Q6iu6L3ie2) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Forgot We Were Seeds](https://open.spotify.com/album/6MAvM1jyyUbparAYvp2zjK) | 3:40 |
-| 4 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [SHAD](https://open.spotify.com/artist/5MxQZFj0dZlvwo2bIFfE3p) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
+| 4 | [That's All, That's It](https://open.spotify.com/track/3rbiKvmWjsDcuEobPjVOuY) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [That's All, That's It](https://open.spotify.com/album/1oalRkbONNcLrFFN7jDfvG) | 2:49 |
 | 5 | [Down](https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Who Decides War](https://open.spotify.com/album/7eadCbsmeguNADwk91fHM2) | 2:59 |
 | 6 | [Billboard Face](https://open.spotify.com/track/1Zaac2d6XmkUGluCwggXhA) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Mum, Pray for Your Son](https://open.spotify.com/album/7ehEgkqVomqg80YURfqPht) | 2:28 |
 | 7 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |

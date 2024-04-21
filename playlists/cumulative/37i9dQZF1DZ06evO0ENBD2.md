@@ -2,7 +2,7 @@
 
 ### [This Is Queen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ENBD2)
 
-> This Is Queen\. Los temas esenciales, todos en una lista.
+> This is Queen\. Todos os maiores hits em uma só playlist.
 
 68 songs - 4 hr 26 min
 

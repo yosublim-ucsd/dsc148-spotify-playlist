@@ -4,7 +4,7 @@
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Amaranthe
 
-588 songs - 1 day 20 hr 49 min
+589 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Heroes Die](https://open.spotify.com/track/2CGVvNMRqHjy57VxYMN6zG) | [Watch Out Stampede](https://open.spotify.com/artist/4l7aT8cxtdfmUoxd2s7A94) | [Heroes Die](https://open.spotify.com/album/35kceTLzgl1A9Hz8ickQUu) | 4:05 | 2022-01-21 | 2022-03-18 |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-11-29\* | 2021-05-21 |
 | [Heroes out of Time](https://open.spotify.com/track/3R8rYXcluJWC0oAQDRki7S) | [Nekonomicon](https://open.spotify.com/artist/0LRsDKh8RR88ZyqNDw52hB), [Kylee Brielle](https://open.spotify.com/artist/0qYMPOwezx6aACst4H0uaI) | [Heroes out of Time](https://open.spotify.com/album/0L9IXczpIBhsr8h22Iept6) | 3:42 | 2021-06-11 | 2021-09-04 |
-| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-16 |  |
+| [Holy Flaming Hammer of Unholy Cosmic Frost](https://open.spotify.com/track/2fYbpl6jAG4XEUdnuKXwTG) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Keeper of the Celestial Flame of Abernethy](https://open.spotify.com/album/1BvtzKUe7PcQDbuld5snVh) | 4:35 | 2023-05-16 | 2024-04-21 |
 | [Hootsforce](https://open.spotify.com/track/5gJ1DNzFHwNFlEw1UltyFk) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 3:50 | 2020-11-29\* | 2021-06-19 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-10-23 | 2022-05-21 |
 | [How to be a Pirate](https://open.spotify.com/track/3Zscf389qeupVE0dFEh0r3) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [How to be a Pirate](https://open.spotify.com/album/47xYjUsHqpnC3J6ScK5Yni) | 3:23 | 2020-11-29\* | 2021-10-01 |
@@ -421,6 +421,7 @@
 | [Run! \(feat\. Marko Hietala\)](https://open.spotify.com/track/3Qu4tRvLzaN13fFkuAMlPg) | [Exit Eden](https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j), [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Femmes Fatales](https://open.spotify.com/album/3fFk32pP90tlCnDvDhdY85) | 4:52 | 2024-02-05 | 2024-04-19 |
 | [Run! \(feat\. Marko Hietala\)](https://open.spotify.com/track/5vpn2RpYnBmNrsDmksRIJS) | [Exit Eden](https://open.spotify.com/artist/3h9p6ezLoqYJ0viEfqGE4j), [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Run! \(feat\. Marko Hietala\)](https://open.spotify.com/album/1sGqpN0gUzRxDyKnBbFINl) | 4:52 | 2024-04-15 |  |
 | [Salvation](https://open.spotify.com/track/38qF1QQMLKA0hH1mLIrWfr) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Reconstruction](https://open.spotify.com/album/1hQWWsGMrqLBHJT2jMtXH1) | 6:07 | 2023-04-14 | 2023-05-30 |
+| [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 | 2024-04-15 |  |
 | [Satellite \(feat\. Owane & Paul Wardingham\)](https://open.spotify.com/track/0Rc85jwdOT7IBXpsgEKRAh) | [Widek](https://open.spotify.com/artist/4Dne2BHkrim1Gr7hkqMsfq), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Paul Wardingham](https://open.spotify.com/artist/0SZWklwwrJZsLbUVIFUF8M) | [Hidden Dimensions](https://open.spotify.com/album/3c61UyKCZlUmiOm9szr2cZ) | 4:33 | 2022-07-13 | 2022-07-26 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-02-25 | 2022-05-21 |
 | [Sea of Suns](https://open.spotify.com/track/6jpq049BDvR4hUYmyNJeIo) | [The Helix Nebula](https://open.spotify.com/artist/5tjE7fMmvRra46r6Hz3aOA) | [Meridian](https://open.spotify.com/album/2NoWiPawAdUpzs8hyA4fAc) | 5:45 | 2022-07-13 | 2022-07-30 |

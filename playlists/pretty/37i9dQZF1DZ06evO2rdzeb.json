@@ -1,29 +1,13 @@
 {
-  "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 5241,
+  "description": "This is Adrianne Lenker. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 5277,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM5ODQwMCwwMDAwMDAwMDc2ODE3YmMxYjQ0NTA3ZjhhODU1MzI4Y2Y1OTE4NWY2",
+  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDU0ZmM4NzAyMDExODcyY2FhNTliOTcxMjk5NjU5YzBj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
-    },
     {
       "added_at": null,
       "album": {
@@ -52,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/3zGhR60NOVSgtzNEQNcHav"
     },
     {
       "added_at": null,
@@ -188,9 +172,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 259015,
-      "name": "Sadness As A Gift",
-      "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
     },
     {
       "added_at": null,
@@ -256,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 145738,
-      "name": "Donut Seam",
-      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
+      "duration_ms": 259015,
+      "name": "Sadness As A Gift",
+      "url": "https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu"
     },
     {
       "added_at": null,
@@ -324,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 154777,
-      "name": "Candleflame",
-      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
+      "duration_ms": 145738,
+      "name": "Donut Seam",
+      "url": "https://open.spotify.com/track/789Uf6zgvPqwbCcpw6zSiI"
     },
     {
       "added_at": null,
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 235178,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/2DSxUFEL5v1YT8CwYzhWyf"
+      "duration_ms": 154777,
+      "name": "Candleflame",
+      "url": "https://open.spotify.com/track/7lX3MvcB1Rnecn53Z3FTfA"
     },
     {
       "added_at": null,

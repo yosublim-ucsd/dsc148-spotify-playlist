@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 42838,
+  "2024-04-21": 42827,
   "date_first_scraped": "2023-08-09",
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
   "name": "TROPILOCO",
@@ -205,7 +205,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 277461,
       "name": "Bomba At\u00f3mica",
       "url": "https://open.spotify.com/track/5MoDPR7GwbH50w45ikDs8A"
@@ -759,6 +759,24 @@
       "duration_ms": 197066,
       "name": "Cumbia del Picham\u00e1n",
       "url": "https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI"
+    },
+    {
+      "album": {
+        "name": "Cumbia Siglo XXI",
+        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "album": {

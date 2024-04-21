@@ -3057,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "La Valse",
+        "url": "https://open.spotify.com/album/5jNpmPkGL9Q2YWgcsHM0rv"
+      },
+      "artists": [
+        {
+          "name": "Cordeliers",
+          "url": "https://open.spotify.com/artist/7iuN1ZZCvhoHfnWOyjDxQw"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176528,
+      "name": "La Valse",
+      "url": "https://open.spotify.com/track/1xhThomLWSG9UWxkPgv70Q"
+    },
+    {
+      "album": {
         "name": "Let Me Bleed",
         "url": "https://open.spotify.com/album/7KrPOJtj79RNuKKkQgghuV"
       },

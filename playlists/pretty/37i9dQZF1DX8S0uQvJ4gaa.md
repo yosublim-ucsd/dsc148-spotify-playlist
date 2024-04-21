@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Elvie Shane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,404 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,471 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 90 | [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 |
 | 91 | [funny girl](https://open.spotify.com/track/50WEeFyytDmU2RhcsUNkrv) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [funny girl](https://open.spotify.com/album/7wl5M6KO2zF0g06Il8xmi3) | 3:18 |
 | 92 | [Born](https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 4:12 |
-| 93 | [Fly On The Wall](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 |
+| 93 | [Fly On The Wall \(feat\. Jake Worthington\)](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 |
 | 94 | [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 |
 | 95 | [Coffee With You](https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Coffee With You](https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF) | 3:27 |
 | 96 | [Burn](https://open.spotify.com/track/2Ba6D8yeOe14QoHwMaQkAK) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Burn](https://open.spotify.com/album/1kO9MPo6In7ZCfcFYTy9p6) | 3:20 |

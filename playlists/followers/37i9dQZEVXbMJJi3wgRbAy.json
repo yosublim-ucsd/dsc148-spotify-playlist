@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 117962,
+  "2024-04-21": 117882,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Uruguay.",
   "name": "Top 50 - Uruguay",
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 156631,
       "name": "Bronceado - Remix",
       "url": "https://open.spotify.com/track/1xxtsuafCIJm7WPQ1tdDDi"
@@ -16613,7 +16613,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 226800,
       "name": "\u00e1ngel",
       "url": "https://open.spotify.com/track/10VrAhS6QQKA2mdf2NpreW"

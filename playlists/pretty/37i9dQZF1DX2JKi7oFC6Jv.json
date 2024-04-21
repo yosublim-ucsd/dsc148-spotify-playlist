@@ -1,6 +1,6 @@
 {
   "description": "The best in UK Funky. Cover: Roska",
-  "num_followers": 103202,
+  "num_followers": 103194,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
@@ -462,6 +462,10 @@
         {
           "name": "Zed Bias",
           "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+        },
+        {
+          "name": "Fox",
+          "url": "https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS"
         }
       ],
       "duration_ms": 323760,
@@ -895,26 +899,6 @@
     {
       "added_at": "2024-02-28 17:28:00",
       "album": {
-        "name": "BLU Magic",
-        "url": "https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG"
-      },
-      "artists": [
-        {
-          "name": "iLL BLU",
-          "url": "https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw"
-        },
-        {
-          "name": "Max Marshall",
-          "url": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
-        }
-      ],
-      "duration_ms": 290881,
-      "name": "BLU Magic",
-      "url": "https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2"
-    },
-    {
-      "added_at": "2024-02-28 17:28:00",
-      "album": {
         "name": "Broken Record Remixes",
         "url": "https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG"
       },
@@ -931,6 +915,26 @@
       "duration_ms": 333066,
       "name": "Broken Record - Geeneus Funky Mix",
       "url": "https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt"
+    },
+    {
+      "added_at": "2024-02-28 17:28:00",
+      "album": {
+        "name": "BLU Magic",
+        "url": "https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG"
+      },
+      "artists": [
+        {
+          "name": "iLL BLU",
+          "url": "https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw"
+        },
+        {
+          "name": "Max Marshall",
+          "url": "https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6"
+        }
+      ],
+      "duration_ms": 290881,
+      "name": "BLU Magic",
+      "url": "https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2"
     },
     {
       "added_at": "2024-02-28 17:28:00",
@@ -1103,18 +1107,18 @@
     {
       "added_at": "2024-02-28 17:28:00",
       "album": {
-        "name": "The Patience EP",
-        "url": "https://open.spotify.com/album/7bry7cmSNMTPYKiK36Sm7Q"
+        "name": "Fuller / Hurricane Riddim",
+        "url": "https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo"
       },
       "artists": [
         {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "FunkyStepz",
+          "url": "https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb"
         }
       ],
-      "duration_ms": 267904,
-      "name": "Cheese and Bun",
-      "url": "https://open.spotify.com/track/54NCFi6uvFsfhIMXkduSgT"
+      "duration_ms": 285460,
+      "name": "Fuller",
+      "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"
     }
   ],
   "unique_name": "UK Funky",

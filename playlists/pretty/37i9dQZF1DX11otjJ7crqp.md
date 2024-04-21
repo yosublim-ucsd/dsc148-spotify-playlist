@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,494 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,535 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 21 | [Best Imposter](https://open.spotify.com/track/4P1jAyChjeXdPbj5BDw6fI) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Best Imposter](https://open.spotify.com/album/4t1mS6c0iepFdit4iRM2Tp) | 3:07 |
 | 22 | [You Remind Me of Goodbye](https://open.spotify.com/track/6bEWL64vuod92Rm27EVtxo) | [Kylie Muse](https://open.spotify.com/artist/5KUrN1Ip3QoemX2Dq4kGS5) | [You Remind Me of Goodbye](https://open.spotify.com/album/65kFfefWESLGxVdxcfHGP9) | 3:53 |
 | 23 | [GIBBERISH](https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [GIBBERISH](https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK) | 2:15 |
-| 24 | [Mine](https://open.spotify.com/track/4G17xvYEWPpVhCkPowJipz) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Mine](https://open.spotify.com/album/1hk46xC7ZrUusNkCDgJXg5) | 2:33 |
+| 24 | [MINE](https://open.spotify.com/track/4G17xvYEWPpVhCkPowJipz) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [MINE](https://open.spotify.com/album/1hk46xC7ZrUusNkCDgJXg5) | 2:33 |
 | 25 | [RAW](https://open.spotify.com/track/26eDo2OVYHqLjpyhJI5A9p) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [RAW](https://open.spotify.com/album/3sFzLbx51cn1cSHnvPuQWs) | 2:34 |
 | 26 | [JUICE BOX](https://open.spotify.com/track/6oZafL1or65dWK6OwYSM0u) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [JUICE BOX](https://open.spotify.com/album/2XChtb4PHji5kdYRaEHY4n) | 1:54 |
 | 27 | [HUSH](https://open.spotify.com/track/7xbXxg6K0yQvrVlj9P8mvK) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [HUSH](https://open.spotify.com/album/6RyNlQCjmWiHOyY8775jeo) | 2:55 |

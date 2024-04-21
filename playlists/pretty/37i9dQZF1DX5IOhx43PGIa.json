@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 284996,
+  "num_followers": 284884,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,30 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
+        "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        }
+      ],
+      "duration_ms": 148645,
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
+      "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
       },
@@ -1023,26 +1047,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
-        "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        },
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 148645,
-      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - Dabin Remix",
-      "url": "https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe"
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1059,22 +1075,6 @@
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Right About Love",
+        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Chung",
+          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "Right About Love",
+      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Pop Star (Chaeyoung Remix)",
         "url": "https://open.spotify.com/album/6r0xsy4FAx4p2Fc2WZxVR0"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 208640,
       "name": "Pop Star - Chaeyoung Remix",
       "url": "https://open.spotify.com/track/1vQOTeTQlZ5NWX2el2RmlG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Right About Love",
-        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Chung",
-          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "Right About Love",
-      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Cold Rain",
-        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
-      },
-      "artists": [
-        {
-          "name": "Raine Cloud",
-          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Cold Rain",
-      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Water Worship Pray",
         "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 191016,
       "name": "Water Worship Pray",
       "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Cold Rain",
+        "url": "https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf"
+      },
+      "artists": [
+        {
+          "name": "Raine Cloud",
+          "url": "https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Cold Rain",
+      "url": "https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Kulture Klub",
+        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
+      },
+      "artists": [
+        {
+          "name": "Lucy Tun",
+          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
+        }
+      ],
+      "duration_ms": 133888,
+      "name": "Kulture Klub",
+      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "On Everything",
         "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 188373,
       "name": "On Everything",
       "url": "https://open.spotify.com/track/2E009KpQieiSpGDru6l5fU"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Kulture Klub",
-        "url": "https://open.spotify.com/album/2sm4TXmoscpZ6i3rFcDUO4"
-      },
-      "artists": [
-        {
-          "name": "Lucy Tun",
-          "url": "https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6"
-        }
-      ],
-      "duration_ms": 133888,
-      "name": "Kulture Klub",
-      "url": "https://open.spotify.com/track/5JB470bDe4AvruKK2J3Pkv"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
       },
       "artists": [
         {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
         }
       ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2099,6 +2099,22 @@
       "duration_ms": 127706,
       "name": "Wallpaper",
       "url": "https://open.spotify.com/track/5l0sy0tEDxW4lUI2zQMzXf"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2151,22 +2167,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "scenic route",
-        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 180592,
-      "name": "scenic route",
-      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Accent",
         "url": "https://open.spotify.com/album/3ZlOvZjzsj4ylB6y6mARja"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "scenic route",
+        "url": "https://open.spotify.com/album/6abn0ffmiMYSmEx8ksGBvE"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 180592,
+      "name": "scenic route",
+      "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "the roaring twenties",
-        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
-      },
-      "artists": [
-        {
-          "name": "sundial",
-          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
-        }
-      ],
-      "duration_ms": 169222,
-      "name": "deadline",
-      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Tragic Love",
         "url": "https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS"
       },
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "So Familiar",
-        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 238055,
-      "name": "So Familiar",
-      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 161489,
       "name": "DND",
       "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "the roaring twenties",
+        "url": "https://open.spotify.com/album/3iu4PEVUoWS0bWi7f00XWz"
+      },
+      "artists": [
+        {
+          "name": "sundial",
+          "url": "https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9"
+        }
+      ],
+      "duration_ms": 169222,
+      "name": "deadline",
+      "url": "https://open.spotify.com/track/35ZzehGXi9mN1dmkT00IQM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Have You Ever Seen The Rain?",
         "url": "https://open.spotify.com/album/0XFemF1cFczOzimPAjPksh"
       },
@@ -2407,22 +2423,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
-        "url": "https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD"
-      },
-      "artists": [
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 168944,
-      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
-      "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "the american dream",
         "url": "https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51"
       },
@@ -2435,6 +2435,22 @@
       "duration_ms": 227927,
       "name": "the american dream",
       "url": "https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+        "url": "https://open.spotify.com/album/25hqQlN9L9482Arrj3PmgD"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "duration_ms": 168944,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5fc3\u788e",
+      "url": "https://open.spotify.com/track/0Mn3gzrUf0ubQ64XhsL9mY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2483,22 +2499,6 @@
       "duration_ms": 224333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
-      },
-      "artists": [
-        {
-          "name": "aimei \u5a9a",
-          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
     }
   ],
   "unique_name": "Jasmine",

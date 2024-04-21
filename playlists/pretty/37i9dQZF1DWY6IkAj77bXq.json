@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 70305,
+  "num_followers": 70336,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Sammram",
-        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 206624,
-      "name": "Sammram",
-      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178500,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Sammram",
+        "url": "https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 206624,
+      "name": "Sammram",
+      "url": "https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Lights on Water",
         "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 217600,
       "name": "Lights on Water",
       "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Desiderio",
-        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
+        "name": "By the Seaside",
+        "url": "https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq"
       },
       "artists": [
         {
-          "name": "Armand DeLuca",
-          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
+          "name": "Wolfgang Snow",
+          "url": "https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD"
         }
       ],
-      "duration_ms": 154726,
-      "name": "Desiderio",
-      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
+      "duration_ms": 165193,
+      "name": "By the Seaside",
+      "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "By the Seaside",
-        "url": "https://open.spotify.com/album/02RgacYRMWFmUhJdLTG6sq"
+        "name": "Desiderio",
+        "url": "https://open.spotify.com/album/3G2m9ypP5NGaKtwkIfncuh"
       },
       "artists": [
         {
-          "name": "Wolfgang Snow",
-          "url": "https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD"
+          "name": "Armand DeLuca",
+          "url": "https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu"
         }
       ],
-      "duration_ms": 165193,
-      "name": "By the Seaside",
-      "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
+      "duration_ms": 154726,
+      "name": "Desiderio",
+      "url": "https://open.spotify.com/track/3Vk578KtrVIfcTANvQ2rkW"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
+        "name": "Incorniciato",
+        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
+      },
+      "artists": [
+        {
+          "name": "Adelina Palm",
+          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Incorniciato",
+      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
         "name": "Somnolent",
         "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 217000,
       "name": "Dreamgaze",
       "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
-        "name": "Incorniciato",
-        "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
-      },
-      "artists": [
-        {
-          "name": "Adelina Palm",
-          "url": "https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Incorniciato",
-      "url": "https://open.spotify.com/track/4hIl75AXfZMQfyTFa5geXQ"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Continuazione",
-        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
-      },
-      "artists": [
-        {
-          "name": "Aamina Russo",
-          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
-        }
-      ],
-      "duration_ms": 136034,
-      "name": "Continuazione",
-      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Sweet Slumber",
         "url": "https://open.spotify.com/album/1wku6ChN7IUzLY6pR4bKjW"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 200000,
       "name": "Sweet Slumber",
       "url": "https://open.spotify.com/track/2lDzCZM7VDRjzfpvkXXtow"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Continuazione",
+        "url": "https://open.spotify.com/album/7Bzf2u6ikGeomuxaomzInT"
+      },
+      "artists": [
+        {
+          "name": "Aamina Russo",
+          "url": "https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO"
+        }
+      ],
+      "duration_ms": 136034,
+      "name": "Continuazione",
+      "url": "https://open.spotify.com/track/6U54VI00e276ucjOZTnfSU"
     },
     {
       "added_at": "2024-04-04 22:09:58",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-04 22:09:58",
       "album": {
-        "name": "Psybient (Psychedelic Ambient Music)",
-        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
-      },
-      "artists": [
-        {
-          "name": "Heaven on Earth Instrumental Universe",
-          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
-        }
-      ],
-      "duration_ms": 196777,
-      "name": "Vivid Imagination",
-      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
-    },
-    {
-      "added_at": "2024-04-04 22:09:58",
-      "album": {
         "name": "Above All Else",
         "url": "https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 175050,
       "name": "Above All Else",
       "url": "https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo"
+    },
+    {
+      "added_at": "2024-04-04 22:09:58",
+      "album": {
+        "name": "Psybient (Psychedelic Ambient Music)",
+        "url": "https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM"
+      },
+      "artists": [
+        {
+          "name": "Heaven on Earth Instrumental Universe",
+          "url": "https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt"
+        }
+      ],
+      "duration_ms": 196777,
+      "name": "Vivid Imagination",
+      "url": "https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG"
     },
     {
       "added_at": "2024-04-04 22:09:58",

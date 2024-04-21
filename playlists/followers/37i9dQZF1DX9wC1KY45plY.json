@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 6060963,
+  "2024-04-21": 6061022,
   "date_first_scraped": "2021-12-21",
   "description": "A soundtrack to fuel your good mood while on the road.",
   "name": "Classic Road Trip Songs",
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 237466,
       "name": "Drift Away - Single Version",
       "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
@@ -3569,7 +3569,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 184717,
       "name": "You Might Think",
       "url": "https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt"

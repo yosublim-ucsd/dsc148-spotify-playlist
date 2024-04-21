@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 138286,
       "name": ":(",
       "url": "https://open.spotify.com/track/7boo7kVLI2XCfKTXgNVOFy"
@@ -6232,7 +6232,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 106104,
       "name": "chcem sa zabit, je to len otazkou casu",
       "url": "https://open.spotify.com/track/2y7D9yLWNUEJ9aKIS3ilpG"
@@ -6425,6 +6425,28 @@
     },
     {
       "album": {
+        "name": "Ghettoven",
+        "url": "https://open.spotify.com/album/76p8jbvBw9eCWjMV7J8gcQ"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Mjay Beatz",
+          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Chlapec z panela",
+      "url": "https://open.spotify.com/track/2drhdWGgjhRNhW7mBzjHOt"
+    },
+    {
+      "album": {
         "name": "Chlapec z panela",
         "url": "https://open.spotify.com/album/3PlWn97jOS9nklwO4xHsGn"
       },
@@ -6440,7 +6462,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 160776,
       "name": "Chlapec z panela",
       "url": "https://open.spotify.com/track/2vJnDjDiJ5aNBuCK7wdnTY"
@@ -12192,7 +12214,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
@@ -30370,7 +30392,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "SEREME DO KOLY A \u0160T\u00cdME DO FANTY",
       "url": "https://open.spotify.com/track/0jkKpYZKAq0C1vNUzF9f68"

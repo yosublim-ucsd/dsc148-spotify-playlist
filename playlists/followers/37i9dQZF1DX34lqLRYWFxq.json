@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 51106,
+  "2024-04-21": 51092,
   "date_first_scraped": "2023-02-11",
   "description": "Your weekly rock update. Cover: Fontaines D.C.",
   "name": "Ready to Rock",
@@ -3233,7 +3233,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 181426,
       "name": "Chompin' at the Bit",
       "url": "https://open.spotify.com/track/58PH2hBt3rp0LCdqtq4sKE"
@@ -3287,7 +3287,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 259946,
       "name": "Classical",
       "url": "https://open.spotify.com/track/1kHMBN4ab6WLlT2Q0KvsoW"
@@ -6330,6 +6330,24 @@
     },
     {
       "album": {
+        "name": "ICONOCLAST",
+        "url": "https://open.spotify.com/album/4i8aKvwu0tt21e95SVl7lB"
+      },
+      "artists": [
+        {
+          "name": "Family Man",
+          "url": "https://open.spotify.com/artist/4CpA5E2uTlbIgUSrDQH9mB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220261,
+      "name": "GOLDEN",
+      "url": "https://open.spotify.com/track/5zK7NgcGJqb08X5cLLfrby"
+    },
+    {
+      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/6S6gqcWWRledJ24fK2B4cR"
       },
@@ -9229,7 +9247,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
@@ -12539,7 +12557,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 191322,
       "name": "Plucked",
       "url": "https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh"
@@ -16377,6 +16395,24 @@
       "duration_ms": 212926,
       "name": "The Knock",
       "url": "https://open.spotify.com/track/7xm6gxaOBemqmU3KjriBx5"
+    },
+    {
+      "album": {
+        "name": "Half Album",
+        "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370939,
+      "name": "The Last Drag",
+      "url": "https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7"
     },
     {
       "album": {

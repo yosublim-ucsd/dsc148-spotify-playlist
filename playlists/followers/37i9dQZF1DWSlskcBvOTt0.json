@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 461073,
+  "2024-04-21": 461200,
   "date_first_scraped": "2022-04-20",
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
   "name": "Tantra",
@@ -2258,6 +2258,32 @@
     },
     {
       "album": {
+        "name": "Church Lady",
+        "url": "https://open.spotify.com/album/0es3nutsWIhKHheM8JCeZA"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Danil Wright",
+          "url": "https://open.spotify.com/artist/4J6QzNsE9xdzhl1UHfRnMA"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214604,
+      "name": "Church Lady",
+      "url": "https://open.spotify.com/track/51yWqSMUy8v8VgyEAFQ7bd"
+    },
+    {
+      "album": {
         "name": "CIRCLES (Rodriguez Jr. Remix)",
         "url": "https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6"
       },
@@ -4059,6 +4085,32 @@
       "duration_ms": 248049,
       "name": "Fizzy Pop",
       "url": "https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW"
+    },
+    {
+      "album": {
+        "name": "Flores (Meera Remix)",
+        "url": "https://open.spotify.com/album/0vNnO7EV8asQ3ZcHxXy8lk"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496001,
+      "name": "Flores - Meera (NO) Remix",
+      "url": "https://open.spotify.com/track/7hJdfNjNHfzXMEmO5PIObo"
     },
     {
       "album": {
@@ -6409,7 +6461,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 359008,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5leQuVNyDVKA5JWeYv7CQI"
@@ -6537,7 +6589,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 380621,
       "name": "Like Forever",
       "url": "https://open.spotify.com/track/5LfsrBhrgR6Gkb3XG6UcpA"

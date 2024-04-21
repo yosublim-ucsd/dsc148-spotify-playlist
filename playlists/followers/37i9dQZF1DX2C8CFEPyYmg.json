@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 166174,
+  "2024-04-21": 166129,
   "date_first_scraped": "2022-08-18",
   "description": "Soothing strings for our sleepy little ones. ",
   "name": "Soothing Strings for Sleeping Babies",
@@ -1554,6 +1554,24 @@
     },
     {
       "album": {
+        "name": "Come Thou Fount of Every Blessing",
+        "url": "https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD"
+      },
+      "artists": [
+        {
+          "name": "Victor Campbell",
+          "url": "https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86132,
+      "name": "Come Thou Fount of Every Blessing",
+      "url": "https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr"
+    },
+    {
+      "album": {
         "name": "Cosy Bed",
         "url": "https://open.spotify.com/album/4eFRT0qtybLANJ9DrjZo0U"
       },
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 95105,
       "name": "Didn't Leave Nobody But The Baby",
       "url": "https://open.spotify.com/track/0PBh9LFtymLaYnhvd6fe2k"
@@ -3149,7 +3167,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 84521,
       "name": "Hubert, the magic dog",
       "url": "https://open.spotify.com/track/2RXhj0DBi1UacZzk8fEn0h"
@@ -6551,7 +6569,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 104347,
       "name": "Song Of The Small Bear",
       "url": "https://open.spotify.com/track/40mHbIVXHZwZiUFomKa3aP"
@@ -7127,7 +7145,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 64500,
       "name": "The Button Song",
       "url": "https://open.spotify.com/track/0FByOKDOnsN5oYIhGjgc8B"
@@ -7887,6 +7905,24 @@
       "duration_ms": 101837,
       "name": "Un grand cerf",
       "url": "https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV"
+    },
+    {
+      "album": {
+        "name": "Under the Shining Stars",
+        "url": "https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0"
+      },
+      "artists": [
+        {
+          "name": "Skymningen",
+          "url": "https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135140,
+      "name": "Under the Shining Stars",
+      "url": "https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y"
     },
     {
       "album": {

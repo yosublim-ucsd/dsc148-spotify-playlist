@@ -1,7 +1,7 @@
 {
-  "2024-04-20": 251743,
+  "2024-04-21": 251112,
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Camilo & Carin Leon",
+  "description": "Lo nuevo del mundo tropical. Cover: Ralphy Dreamz",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -486,6 +486,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Yo Soy",
+        "url": "https://open.spotify.com/album/4K7JdVhM9MDo1BvJ1DAgjm"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156805,
+      "name": "As\u00ed Yo Soy",
+      "url": "https://open.spotify.com/track/44hgg7sz7vGRMLAUFhhWNF"
+    },
+    {
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 237371,
       "name": "Bachata Buena",
       "url": "https://open.spotify.com/track/0ceMmLFgyh0L4LFvv07S4V"
@@ -2162,6 +2180,32 @@
     },
     {
       "album": {
+        "name": "EL CANTANTE DEL GHETTO",
+        "url": "https://open.spotify.com/album/1N0LBYdEsIC9NLdXyZXkIi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
+        },
+        {
+          "name": "LA ETERNA",
+          "url": "https://open.spotify.com/artist/3PrTzrJ36Kj5MYdyltrEB7"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "EL CANTANTE DEL GHETTO",
+      "url": "https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga"
+    },
+    {
+      "album": {
         "name": "El Carnaval De Celia: A Tribute (La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora)",
         "url": "https://open.spotify.com/album/3lzryn2k5cSfBNzivYMJCT"
       },
@@ -2943,7 +2987,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 192422,
       "name": "Feeling Something",
       "url": "https://open.spotify.com/track/3HodFUzilBclM9v6FutNjJ"
@@ -4063,7 +4107,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 288162,
       "name": "Lunes, Martes, Miercoles",
       "url": "https://open.spotify.com/track/4qWlCGb88CwW3Aq5PAk4m4"
@@ -4817,6 +4861,24 @@
       "duration_ms": 303088,
       "name": "Narices Fr\u00edas",
       "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
+    },
+    {
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/5irv7LbzmhJjrfzvcAPksB"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188012,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/4eVSoe47ZA7LqMhPpqNb6Z"
     },
     {
       "album": {
@@ -5637,7 +5699,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 148381,
       "name": "Por Ah\u00ed",
       "url": "https://open.spotify.com/track/6jqj7M2qGYfOh7tAfIzOJs"
@@ -5727,7 +5789,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 154063,
       "name": "Pose Favorita",
       "url": "https://open.spotify.com/track/37MYCcXTzfwxSdqZwhI76x"
@@ -6005,7 +6067,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 226236,
       "name": "QUIERO - ORIGINAL",
       "url": "https://open.spotify.com/track/2ilaDTJcDQH15DC98XahNg"
@@ -8097,6 +8159,24 @@
       "duration_ms": 163584,
       "name": "Yo Sin Ti - En Vivo",
       "url": "https://open.spotify.com/track/3xefBFz2zVz66ZHMvtFDmS"
+    },
+    {
+      "album": {
+        "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186339,
+      "name": "\u00bfQui\u00e9n de Ustedes?",
+      "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP"

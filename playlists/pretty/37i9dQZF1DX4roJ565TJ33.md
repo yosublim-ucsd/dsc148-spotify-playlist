@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,106 likes - 156 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,099 likes - 156 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 145 | [Visa från Utanmyra](https://open.spotify.com/track/37VD4tD2Y8FqhcGeXkSJGx) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Gyllene Blad Ur Monicas Dagbok](https://open.spotify.com/album/2kJAeAiZ3cS6WQ1dkcv8wT) | 2:45 |
 | 146 | [Tunnelseende](https://open.spotify.com/track/6kUrJC50YrJhaLsNn4HC1s) | [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Swedish Jazz Masters: Alla Mina Kompisar](https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV) | 5:44 |
 | 147 | [Lochiel's warning](https://open.spotify.com/track/5cJPtbO8KZ8T9E8QNztPto) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz) | [Lochiel's Warning](https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO) | 5:48 |
-| 148 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 |
+| 148 | [Bereden väg för Herran \(Psalm 103\)](https://open.spotify.com/track/5ByxDTuCTKA07FhevL1ISz) | [Anders Widmark](https://open.spotify.com/artist/4ZgY2pumPsq9z3kNxGTDef), [Anders Widmark Trio](https://open.spotify.com/artist/74lV0oMFa3sSpDxUlfZ5yI) | [Psalmer](https://open.spotify.com/album/58TQrEfi5T1bi5KQVhRJ9r) | 3:15 |
 | 149 | [Jag kan se dig när](https://open.spotify.com/track/0IGyv2Zt8gTxMWTcj9PDjP) | [Carin Lundin](https://open.spotify.com/artist/4IMhnUPdhWUd6LkgL4GgV3), [Johan Setterlind](https://open.spotify.com/artist/1nDRkqtVQVGIKNJ53IppRp), [Erik Söderlind](https://open.spotify.com/artist/299uBqkrkdHLIcVLOUa9U6), [Mattias Welin](https://open.spotify.com/artist/2FadNpVetw7adOruTqDuZ2), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [Smulor och parafraser](https://open.spotify.com/album/6Dk2rnIv3koxtcUWaLM6fN) | 4:11 |
 | 150 | [After You're Gone](https://open.spotify.com/track/7bdJdZNUa15haUvqHAmXh9) | [Rebecka Törnqvist](https://open.spotify.com/artist/563fbLxFoPNypwvAbgNPhd), [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [The Stockholm Kaza Session](https://open.spotify.com/album/0ptHMJPjWFnyFSIYg0VpBy) | 4:59 |
 | 151 | [Brudmarsch från Boda](https://open.spotify.com/track/4kwKxWe4FR5K8aoKvJiRwY) | [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Swedish Jazz History 1928\-1969](https://open.spotify.com/album/4zE9QIiX8Vdrqx155CIlfx) | 2:09 |

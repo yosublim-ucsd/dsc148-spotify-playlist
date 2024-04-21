@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 625773,
+  "num_followers": 624575,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Tap Into It (The Source)",
-        "url": "https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn"
-      },
-      "artists": [
-        {
-          "name": "Renee Spearman",
-          "url": "https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 313448,
-      "name": "Tap Into It (The Source)",
-      "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 224136,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Tap Into It (The Source)",
+        "url": "https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn"
+      },
+      "artists": [
+        {
+          "name": "Renee Spearman",
+          "url": "https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 313448,
+      "name": "Tap Into It (The Source)",
+      "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
     },
     {
       "added_at": "2024-02-02 06:37:59",

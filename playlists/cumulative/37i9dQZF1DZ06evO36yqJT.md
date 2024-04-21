@@ -2,7 +2,7 @@
 
 ### [This Is Shirley Caesar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO36yqJT)
 
-> This Is Shirley Caesar\. Los temas esenciales, todos en una lista.
+> This is Shirley Caesar\. The essential tracks, all in one playlist.
 
 76 songs - 5 hr 43 min
 
@@ -53,9 +53,9 @@
 | [Little Boy](https://open.spotify.com/track/0uaDlJYEuwdoaVxwsextnK) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 2:18 | 2023-05-12 | 2023-08-28 |
 | [Looking For A Home](https://open.spotify.com/track/3hMnN5CnJbdp9e8AYRYEzf) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Looking For A Home](https://open.spotify.com/album/0JJrA3oleRhrZfRIYC3HKT) | 1:49 | 2023-08-27 | 2023-10-11 |
 | [Lord Do Something for Me](https://open.spotify.com/track/7A0ZOMn3Dfygl3Vy4dHJrO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Best of Shirley Caesar With the Caravans](https://open.spotify.com/album/1215964Ip4LoprUC8ZwQ65) | 1:45 | 2023-05-17 | 2023-12-14 |
-| [Lord Let Your Spirit Fall On Me](https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 4:53 | 2024-03-27 | 2024-04-20 |
+| [Lord Let Your Spirit Fall On Me](https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 4:53 | 2024-03-27 |  |
 | [Medley: Faded Rose/This Joy/Sweeping Through This City](https://open.spotify.com/track/1HPUAGsXYKyEQ2EcAbOl5W) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 8:58 | 2023-05-13 | 2023-05-15 |
-| [My Testimony](https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 2:56 | 2023-05-12 |  |
+| [My Testimony](https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 2:56 | 2023-05-12 | 2024-04-21 |
 | [Nicodemus](https://open.spotify.com/track/3NbLcfFPJWRMNI89RICUCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 3:54 | 2023-06-12 | 2023-07-06 |
 | [No Charge](https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Jesus I Love Calling Your Name](https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy) | 3:26 | 2023-05-12 |  |
 | [One More Battle to Fight](https://open.spotify.com/track/2Eo3KpOd2i4yY05IYRSwcP) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:54 | 2023-05-12 | 2023-05-18 |

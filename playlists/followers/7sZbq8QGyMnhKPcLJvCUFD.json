@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 739262,
+  "2024-04-21": 738063,
   "date_first_scraped": "2022-10-06",
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
   "name": "NCS Releases",
@@ -4298,6 +4298,28 @@
     },
     {
       "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "album": {
         "name": "Grey",
         "url": "https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs"
       },
@@ -4507,6 +4529,28 @@
       "duration_ms": 177882,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu"
+    },
+    {
+      "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        },
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151379,
+      "name": "Help Me Help You",
+      "url": "https://open.spotify.com/track/2vk58QOQxxXeUKnDiJIO38"
     },
     {
       "album": {

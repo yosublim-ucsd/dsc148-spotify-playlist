@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Pyra\)
 
-1,953 songs - 4 day 2 hr 59 min
+1,954 songs - 4 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,6 +1339,7 @@
 | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/track/6PNHNt8v9UUmI7u0D06Fct) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [PUMP IT UP ε=┌\(^\_^\)┘\(feat\. TiaCorine\)](https://open.spotify.com/album/7aEEJ9vUyvFBoI0TcYft26) | 2:16 | 2024-03-28 |  |
 | [PUNANI](https://open.spotify.com/track/3DcPrs1YmoxhUEKbQX0qO4) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [ESKIIMO](https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA) | [PUNANI](https://open.spotify.com/album/2BrakFC7HJuJ220CE16UQg) | 2:08 | 2023-02-09 | 2024-01-05 |
 | [Push](https://open.spotify.com/track/0S51LcdzwrRTiUBYObUywd) | [QoryGore](https://open.spotify.com/artist/73UPY7WCgTEze5k5qRkhxc) | [Push](https://open.spotify.com/album/0369P46lyhTlwdd92s6lUf) | 2:35 | 2022-03-24 | 2023-09-01 |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-20 |  |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-01-20 | 2022-02-11 |
 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 | 2023-07-18 | 2023-09-01 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-04 | 2023-01-20 |

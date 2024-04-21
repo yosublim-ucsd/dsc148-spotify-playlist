@@ -4,7 +4,7 @@
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-290 songs - 13 hr 10 min
+291 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Keep Me Up](https://open.spotify.com/track/2EN0Gazd2X4jHlkGrOJ2zS) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Keep Me Up](https://open.spotify.com/album/754BtgB6lpeyMOtJtAHdMQ) | 2:13 | 2024-01-10 |  |
 | [Kendall Park](https://open.spotify.com/track/2SXi0cldambE2930H18LoL) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Kendall Park](https://open.spotify.com/album/6wp9Rv4sM3NOfTaEzxY1pf) | 3:20 | 2024-02-23 |  |
 | [Kids](https://open.spotify.com/track/2sMyHm7oNeXpPi7JnAxPEO) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Kids](https://open.spotify.com/album/2rdlrgBymYzVl2ChjoIi1x) | 2:07 | 2024-01-14 |  |
+| [La Valse](https://open.spotify.com/track/1xhThomLWSG9UWxkPgv70Q) | [Cordeliers](https://open.spotify.com/artist/7iuN1ZZCvhoHfnWOyjDxQw) | [La Valse](https://open.spotify.com/album/5jNpmPkGL9Q2YWgcsHM0rv) | 2:56 | 2024-04-20 |  |
 | [Let Me Bleed](https://open.spotify.com/track/2Ejze9Vs0nxwmJXDBTV0vF) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Let Me Bleed](https://open.spotify.com/album/7KrPOJtj79RNuKKkQgghuV) | 2:39 | 2024-02-16 | 2024-03-16 |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2023-12-21 |  |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2023-12-04 |  |

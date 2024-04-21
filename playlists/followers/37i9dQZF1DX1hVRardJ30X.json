@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 585761,
+  "2024-04-21": 585208,
   "date_first_scraped": "2021-12-28",
   "description": "All-new releases by Latin artists! Cover: Trueno & Nicky Jam ",
   "name": "New Music Friday Latin",
@@ -2453,6 +2453,24 @@
       "duration_ms": 175404,
       "name": "7 Meses",
       "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
+    },
+    {
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/7acoLTImpkXhfwCAUDdWbh"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194785,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/4ieFblgI29t6eFCxuZH6Dp"
     },
     {
       "album": {
@@ -116016,6 +116034,28 @@
     },
     {
       "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/2fthPuOBEpenbqKMvCyIAw"
+      },
+      "artists": [
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166206,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1QrBIMTIramCrU6B1v2DPr"
+    },
+    {
+      "album": {
         "name": "2016",
         "url": "https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL"
       },
@@ -124423,6 +124463,36 @@
       "duration_ms": 173000,
       "name": "TNT",
       "url": "https://open.spotify.com/track/333ABrYFF167f1S7UysiO3"
+    },
+    {
+      "album": {
+        "name": "To The Beat",
+        "url": "https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152222,
+      "name": "To The Beat",
+      "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
     },
     {
       "album": {

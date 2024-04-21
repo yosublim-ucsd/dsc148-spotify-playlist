@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA?si=bbnHxwJGQqujPvwFL7X8DA>Ricky Tyler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,318 likes - 72 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,329 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

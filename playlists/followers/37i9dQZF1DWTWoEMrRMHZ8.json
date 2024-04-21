@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 346000,
+  "2024-04-21": 345425,
   "date_first_scraped": "2022-01-18",
   "description": "As belas novidades da MPB. Foto: Roberta Campos, George Israel",
   "name": "Divina MPB",
@@ -3163,7 +3163,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 182780,
       "name": "Dan\u00e7a",
       "url": "https://open.spotify.com/track/4zOwbaaLKlivAFL8ueaLTo"
@@ -3929,6 +3929,28 @@
       "duration_ms": 209645,
       "name": "Elo",
       "url": "https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA"
+    },
+    {
+      "album": {
+        "name": "4M\u00e3os - Lado A",
+        "url": "https://open.spotify.com/album/3w631ZORm6ls05KgU8QeRH"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "George Israel",
+          "url": "https://open.spotify.com/artist/2z7Zy2gyTP3vyTJK52jK0T"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191832,
+      "name": "Em cada pra sempre",
+      "url": "https://open.spotify.com/track/0kPzRt0WtGRSQk0BFRAKq5"
     },
     {
       "album": {
@@ -9237,6 +9259,40 @@
       "duration_ms": 205360,
       "name": "Porto",
       "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "album": {
+        "name": "Porvir",
+        "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
+      },
+      "artists": [
+        {
+          "name": "TRAGO",
+          "url": "https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Rica Amabis",
+          "url": "https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM"
+        },
+        {
+          "name": "Gustavo Ruiz",
+          "url": "https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m"
+        },
+        {
+          "name": "Alexandre Orion",
+          "url": "https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232576,
+      "name": "Porvir",
+      "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
     },
     {
       "album": {

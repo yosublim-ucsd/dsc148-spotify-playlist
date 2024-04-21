@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Lola Brooke
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 336,553 likes - 268 songs - 13 hr 27 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 336,004 likes - 268 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

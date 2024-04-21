@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 22486,
+  "num_followers": 22480,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "MjMwNCxlZWQ1ZmQwMjBiZmM2YjA4MWEzYTI0YmEyNjhmMjM4M2QwNGVlOGEw",
+  "snapshot_id": "MjMxMCw4MjdhYWRiNmI0NmU0NDQ1OTNmYTdjMzM5MTg2YzFkNWMzOWQ5ZmYy",
   "tracks": [
     {
       "added_at": "2024-03-08 08:14:27",
@@ -55,6 +55,38 @@
       "duration_ms": 211875,
       "name": "Nineteen 84",
       "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
+    },
+    {
+      "added_at": "2024-04-20 09:47:38",
+      "album": {
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
+    },
+    {
+      "added_at": "2024-04-20 15:09:24",
+      "album": {
+        "name": "The Afterhours",
+        "url": "https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 191383,
+      "name": "The Afterhours",
+      "url": "https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT"
     },
     {
       "added_at": "2024-04-14 09:56:53",
@@ -3487,6 +3519,38 @@
       "duration_ms": 378536,
       "name": "Work - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS"
+    },
+    {
+      "added_at": "2024-04-20 15:25:37",
+      "album": {
+        "name": "Sugar Daddy",
+        "url": "https://open.spotify.com/album/3pAjCG04eTukFMJwx29xSs"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Sugar Daddy",
+      "url": "https://open.spotify.com/track/0TVy1MgOle32ptiamyaAxu"
+    },
+    {
+      "added_at": "2024-04-20 15:26:06",
+      "album": {
+        "name": "Flying Like A Dragon EP",
+        "url": "https://open.spotify.com/album/4Eod6YHLqedv5kw0MuVe2w"
+      },
+      "artists": [
+        {
+          "name": "Des & Del",
+          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Flying Like A Dragon",
+      "url": "https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m"
     }
   ],
   "unique_name": "Malaa Selection ",

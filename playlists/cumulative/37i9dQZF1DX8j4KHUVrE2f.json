@@ -998,7 +998,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 233373,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR"
@@ -2854,6 +2854,24 @@
       "duration_ms": 198880,
       "name": "Obviously",
       "url": "https://open.spotify.com/track/2iPIMWQYcrvV6MDlnEgw4i"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > somewhere between with Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,166 likes - 124 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,418 likes - 124 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 74 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 75 | [Loud and Heavy](https://open.spotify.com/track/7JnCZ9w4HwDdCbJsIwS4SA) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/5wSwd9cxD1Ii8yvgxUnyr3) | 3:50 |
 | 76 | [Western White Pines](https://open.spotify.com/track/2zqN6JNBQ13hRQZQMH8g3s) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/1qb5MTuf6K5BpNZrtywVAw) | 4:07 |
-| 77 | [Fly On The Wall](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 |
+| 77 | [Fly On The Wall \(feat\. Jake Worthington\)](https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Introducing: The Heartbreak](https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7) | 3:48 |
 | 78 | [Coalshooter](https://open.spotify.com/track/24g0LIsryCU6uEeNu9OujX) | [Cole Chaney](https://open.spotify.com/artist/0zyYuEZf1vFOb1OSCgQ5kT) | [Mercy](https://open.spotify.com/album/317mRWC6212H1q1nl4HNwU) | 5:49 |
 | 79 | [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 |
 | 80 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 |

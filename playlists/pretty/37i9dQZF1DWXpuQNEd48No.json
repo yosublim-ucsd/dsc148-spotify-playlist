@@ -1,6 +1,6 @@
 {
   "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
-  "num_followers": 32915,
+  "num_followers": 33004,
   "original_name": "Hip-Hop Haryanvi",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-04-18 07:49:05",
       "album": {
-        "name": "Lal Dabbi",
-        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
-      },
-      "artists": [
-        {
-          "name": "Amanraj Gill",
-          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
-        },
-        {
-          "name": "Bulbul",
-          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Lal Dabbi",
-      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
-    },
-    {
-      "added_at": "2024-04-18 07:49:05",
-      "album": {
         "name": "Tem Aan Do",
         "url": "https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 176664,
       "name": "World War",
       "url": "https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D"
+    },
+    {
+      "added_at": "2024-04-18 07:49:05",
+      "album": {
+        "name": "Lal Dabbi",
+        "url": "https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM"
+      },
+      "artists": [
+        {
+          "name": "Amanraj Gill",
+          "url": "https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs"
+        },
+        {
+          "name": "Bulbul",
+          "url": "https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "Lal Dabbi",
+      "url": "https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8"
     },
     {
       "added_at": "2024-04-18 07:49:05",
@@ -1451,38 +1451,6 @@
     {
       "added_at": "2024-04-18 07:49:05",
       "album": {
-        "name": "Papi Purane",
-        "url": "https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc"
-      },
-      "artists": [
-        {
-          "name": "Irshad Khan",
-          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
-        }
-      ],
-      "duration_ms": 150688,
-      "name": "Papi Purane",
-      "url": "https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC"
-    },
-    {
-      "added_at": "2024-04-18 07:49:05",
-      "album": {
-        "name": "Mcoca",
-        "url": "https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1"
-      },
-      "artists": [
-        {
-          "name": "RP Singh",
-          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
-        }
-      ],
-      "duration_ms": 193636,
-      "name": "Mcoca",
-      "url": "https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l"
-    },
-    {
-      "added_at": "2024-04-18 07:49:05",
-      "album": {
         "name": "Gurjar Gang",
         "url": "https://open.spotify.com/album/0LcekT7wnn60wsizvduMhe"
       },
@@ -1503,6 +1471,38 @@
       "duration_ms": 148333,
       "name": "Gurjar Gang",
       "url": "https://open.spotify.com/track/0Suya0KkIIaqvnXtXyGMpJ"
+    },
+    {
+      "added_at": "2024-04-18 07:49:05",
+      "album": {
+        "name": "Mcoca",
+        "url": "https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "duration_ms": 193636,
+      "name": "Mcoca",
+      "url": "https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l"
+    },
+    {
+      "added_at": "2024-04-18 07:49:05",
+      "album": {
+        "name": "Papi Purane",
+        "url": "https://open.spotify.com/album/4sxXvRDG24bb2CA5pEUOKc"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "duration_ms": 150688,
+      "name": "Papi Purane",
+      "url": "https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC"
     },
     {
       "added_at": "2024-04-18 07:49:05",
@@ -1927,22 +1927,18 @@
     {
       "added_at": "2024-04-18 07:49:05",
       "album": {
-        "name": "Scorpio",
-        "url": "https://open.spotify.com/album/5roOwIcUakxTCqdy756NEU"
+        "name": "Not Afraid",
+        "url": "https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR"
       },
       "artists": [
         {
-          "name": "DG IMMORTALS",
-          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
-        },
-        {
-          "name": "Khyati Sharma",
-          "url": "https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7"
+          "name": "Candy Sheoran",
+          "url": "https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY"
         }
       ],
-      "duration_ms": 161320,
-      "name": "Scorpio",
-      "url": "https://open.spotify.com/track/3rXYmSlhnrbQRq6DmH63Zz"
+      "duration_ms": 182399,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77"
     },
     {
       "added_at": "2024-04-18 07:49:05",

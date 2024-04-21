@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 7926740,
+  "2024-04-21": 7933816,
   "date_first_scraped": "2022-01-10",
   "description": "the beat of your drift",
   "name": "phonk",
@@ -4934,6 +4934,28 @@
     },
     {
       "album": {
+        "name": "Fuku",
+        "url": "https://open.spotify.com/album/1Av8SASgUHygkOKLy3WqRo"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        },
+        {
+          "name": "ZWE1HVNDXR",
+          "url": "https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115071,
+      "name": "Fuku",
+      "url": "https://open.spotify.com/track/0OKLYzwOn92tx0QCE6QVIQ"
+    },
+    {
+      "album": {
         "name": "FULL SEND",
         "url": "https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl"
       },
@@ -8727,7 +8749,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 126857,
       "name": "MURDER PLOT",
       "url": "https://open.spotify.com/track/62ZAFyVwbc9f2M8qCW1qJr"
@@ -10350,6 +10372,24 @@
     },
     {
       "album": {
+        "name": "pulse",
+        "url": "https://open.spotify.com/album/3uZ6WC66oVP9BH2isXLe2x"
+      },
+      "artists": [
+        {
+          "name": "isq",
+          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97343,
+      "name": "pulse - slowed",
+      "url": "https://open.spotify.com/track/372rmyPPtoYC4z4QYt0mWW"
+    },
+    {
+      "album": {
         "name": "Puncher",
         "url": "https://open.spotify.com/album/0eIvnyjPYzjCAV5dBuAoQW"
       },
@@ -11269,7 +11309,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 99748,
       "name": "Scary Garry",
       "url": "https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D"

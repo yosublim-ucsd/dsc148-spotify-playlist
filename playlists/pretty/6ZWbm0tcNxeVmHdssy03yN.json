@@ -1,6 +1,6 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 41209,
+  "num_followers": 41222,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
@@ -402,6 +402,10 @@
         {
           "name": "Ashbeck",
           "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "El Londo",
+          "url": "https://open.spotify.com/artist/6XO1rl4e9IDahI86s9UJZC"
         }
       ],
       "duration_ms": 111486,

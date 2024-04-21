@@ -2,7 +2,7 @@
 
 ### [This Is MUNA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RlK48)
 
-> This Is MUNA\. Los temas esenciales, todos en una lista.
+> This is MUNA\. The essential tracks, all in one playlist.
 
 39 songs - 2 hr 26 min
 

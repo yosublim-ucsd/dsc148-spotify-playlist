@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Nell Mescal
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,272 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,293 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 18 | [Tippy Toes](https://open.spotify.com/track/6krUyrHwGzkaF2nC6PlCSe) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Tippy Toes](https://open.spotify.com/album/3nXahun45P81Hbx8Pyow2v) | 4:09 |
 | 19 | [I'm The Sinner](https://open.spotify.com/track/24abicT0hYd3pdJufYNI1b) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [I'm The Sinner](https://open.spotify.com/album/47r9vuxBzDCn7oENWLPBlr) | 2:12 |
 | 20 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 |
-| 21 | [Love Who You Want To](https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [Love Who You Want To](https://open.spotify.com/album/2Rd0jhqAsjQceN2NvbTav2) | 2:44 |
+| 21 | [love who you want to](https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [love who you want to](https://open.spotify.com/album/2Rd0jhqAsjQceN2NvbTav2) | 2:44 |
 | 22 | [Sorry to Little Me](https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo) | [Carolina Rial](https://open.spotify.com/artist/0GFfgaBOUjkJDV62cUs7Lj) | [Sorry to Little Me](https://open.spotify.com/album/410zNtUSsN2GyBB8ev9bFD) | 2:40 |
 | 23 | [Coal](https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/2STtbigxgiR3GU5h6PowiT) | 3:14 |
 | 24 | [Carolina](https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Carolina](https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I) | 4:00 |

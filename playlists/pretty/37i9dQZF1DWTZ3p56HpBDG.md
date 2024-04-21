@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover: Skrillex, Ahadadream, Priya Ragu
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,652 likes - 57 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,651 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 11 | [Butterfly](https://open.spotify.com/track/6gghFJue7lX0QrKNGikNpa) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z) | [Butterfly](https://open.spotify.com/album/5fB4RDu0qMrdKvP3tnNYQf) | 3:27 |
 | 12 | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/album/5He2R0dw92kc4N9tg4v7zc) | 5:57 |
 | 13 | [Ghazab Kiya](https://open.spotify.com/track/6x87ncNAvRpLgglWXO67FW) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Ghazab Kiya](https://open.spotify.com/album/4BrDfbyfW3AcWDVTiW752e) | 3:26 |
-| 14 | [Something About You](https://open.spotify.com/track/7CWu5T6Pr3ELY1p0T5AqLq) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Something About You](https://open.spotify.com/album/5y1TMdHRjU5c23HKi5JLWi) | 2:58 |
+| 14 | [Something About You](https://open.spotify.com/track/7CWu5T6Pr3ELY1p0T5AqLq) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Something About You](https://open.spotify.com/album/5y1TMdHRjU5c23HKi5JLWi) | 2:54 |
 | 15 | [No Way Out](https://open.spotify.com/track/2dfocqbqtBiVdRyTECyyjf) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [No Way Out](https://open.spotify.com/album/5DVTPLZ6UgNdnTxZr8BwHC) | 3:08 |
 | 16 | [Fantasy Life](https://open.spotify.com/track/3Fv38L0IHcduNOKcoUPkhH) | [Shumaq](https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao) | [Fantasy Life](https://open.spotify.com/album/7cjkr6MHU89QQnOrrtsRrf) | 2:02 |
 | 17 | [Sri Lanka](https://open.spotify.com/track/28zAYZ5BW3A9u6KAEFdPWM) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:06 |

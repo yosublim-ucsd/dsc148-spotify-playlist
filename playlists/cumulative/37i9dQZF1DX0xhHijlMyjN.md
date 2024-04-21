@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-238 songs - 15 hr 10 min
+239 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [El Legia](https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe) | [Los Moles](https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV) | [Cartas de Amor](https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4) | 5:03 | 2023-06-09 |  |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2022-08-11 |  |
 | [El Venao](https://open.spotify.com/track/66y4liRr8Orq45N0I6VRAP) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/33yE3j2Pd10Qa23sWW9bNe) | 4:52 | 2023-06-09 |  |
+| [Ella \(Tu Piel Morena\)](https://open.spotify.com/track/2DAeRk6J5C1Zu8iy32sUPf) | [Viceversa](https://open.spotify.com/artist/401RKKAmr5xOK3FpoXud68) | [Lo Mejor De Viceversa](https://open.spotify.com/album/6mbQGg061o7PBBnb68rvZD) | 4:17 | 2023-06-09 |  |
 | [Ella Elle L A](https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Free](https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq) | 3:04 | 2023-06-09 |  |
 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 | 2022-08-11 | 2024-04-19 |
 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 | 2023-06-09 |  |
@@ -242,7 +243,7 @@
 | [We No Speak Americano \(Edit\)](https://open.spotify.com/track/37dYAkMa4lzRCH6kDbMT1L) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [We No Speak Americano](https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm) | 2:37 | 2023-06-09 | 2024-04-19 |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/619bJQ9uDi8dnXzLebFI7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [When Love Takes Over](https://open.spotify.com/album/27255AeNTU1KuApN9KjmjM) | 3:09 | 2023-06-09 |  |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 | 2023-06-09 | 2024-04-19 |
-| [Y Viva España](https://open.spotify.com/track/4Q2vhlUXoWWzZQeKn7OreC) | [Manolo Escobar](https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ) | [La Copla, Vol.4](https://open.spotify.com/album/4pCNgOQ0N1D9HyVJ4J2RzS) | 3:36 | 2023-06-09 |  |
+| [Y Viva España](https://open.spotify.com/track/4Q2vhlUXoWWzZQeKn7OreC) | [Manolo Escobar](https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ) | [La Copla, Vol.4](https://open.spotify.com/album/4pCNgOQ0N1D9HyVJ4J2RzS) | 3:36 | 2023-06-09 | 2024-04-21 |
 | [Y Yo Sigo Aqui \- Spanglish](https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 4:14 | 2023-06-09 |  |
 | [Yes Sir, I Can Boogie](https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:35 | 2023-06-09 |  |
 | [Yo Quiero Bailar](https://open.spotify.com/track/4rFCPjKfgbEeNvs1Ku4nbd) | [Sonia Y Selena](https://open.spotify.com/artist/0wWRxCuyckZOJQVEGqE1f8) | [Yo Quiero Bailar](https://open.spotify.com/album/1Z3oRjE6kaIhj9GS0IFwxF) | 3:33 | 2023-06-09 |  |

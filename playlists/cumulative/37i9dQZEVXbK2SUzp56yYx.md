@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-316 songs - 14 hr 27 min
+318 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-29 | 2024-02-16 |
 | [I Wouldn't Mind \- Sped Up](https://open.spotify.com/track/7LMvwcBObTDW6h05HXG0S2) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [I Wouldn't Mind \(Sped Up\)](https://open.spotify.com/album/219eYIAsXXSxfvAs78ot6Y) | 2:49 | 2024-01-30 | 2024-02-07 |
 | [I'll Make You Miss Me](https://open.spotify.com/track/5rFtmW5WSoT9uNYW1eYqq4) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [I'll Make You Miss Me](https://open.spotify.com/album/3yRIVBkRxCMyhkwklUk25Z) | 3:00 | 2024-03-23 | 2024-03-30 |
-| [if u think i'm pretty](https://open.spotify.com/track/475WgCz6mZlctgOxDULb1n) | [SVNKKZ](https://open.spotify.com/artist/2Z6Z7gBMeXplR0LUpvCTNW) | [if u think i'm pretty](https://open.spotify.com/album/0GuE3rWC9JuvrK25sVDqlk) | 1:33 | 2024-04-02 |  |
+| [if u think i'm pretty](https://open.spotify.com/track/475WgCz6mZlctgOxDULb1n) | [SVNKKZ](https://open.spotify.com/artist/2Z6Z7gBMeXplR0LUpvCTNW) | [if u think i'm pretty](https://open.spotify.com/album/0GuE3rWC9JuvrK25sVDqlk) | 1:33 | 2024-04-02 | 2024-04-21 |
 | [If U Think I'm Pretty \(HardTekk\)](https://open.spotify.com/track/01aNc4MsuOqNrAQF7A5Ro9) | [r0pss](https://open.spotify.com/artist/1mYWtRJaiRhifspJSQ3BEj) | [If U Think I'm Pretty \(HardTekk\)](https://open.spotify.com/album/7zmF0zJaICVwCBFq066NXO) | 1:39 | 2024-03-30 | 2024-04-09 |
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-18 | 2024-02-21 |
 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2024-01-29 | 2024-03-01 |
@@ -232,6 +232,7 @@
 | [Её глаза](https://open.spotify.com/track/2OqhE3Gkwcv7LEmNQAQWPg) | [Bi\-2](https://open.spotify.com/artist/3SXDCIdqI1AR686ukKtKCq), [Prague Metropolitan Symphonic Orchestra](https://open.spotify.com/artist/6l5cXpoZfUdHLnxGD5M6S5) | [Би\-2 & Prague Metropolitan Symphonic Orchestra Vol\. 1](https://open.spotify.com/album/0xy6LgBvEpnT2WB78DwN6W) | 4:31 | 2024-02-26 | 2024-03-20 |
 | [завяжи мне глаза](https://open.spotify.com/track/5sMooLbNF0JWdQtJQKQyQq) | [Rozalia](https://open.spotify.com/artist/5YRpAgLPVUfeXtoRMWkj7C) | [завяжи мне глаза](https://open.spotify.com/album/3YVr88Jsdtu1cJEsUKruDU) | 2:13 | 2024-04-04 |  |
 | [запретить](https://open.spotify.com/track/5VMcfQhuB2irnbuSDlaxpS) | [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [запретить](https://open.spotify.com/album/2KsakqU4JrFItqZbRP1UuR) | 2:53 | 2024-02-20 | 2024-03-06 |
+| [ЗАХОТЕЛ](https://open.spotify.com/track/6XTvawaDFxvOUScj6E4KLr) | [НАВЕРНОЕ ПОЭТ](https://open.spotify.com/artist/2UFiYCu1iFIsSqMXlDRzop), [ЯКОРЪ](https://open.spotify.com/artist/3dB8xZiDMYl2yYucKs9QOt), [EVEN CUTE](https://open.spotify.com/artist/5X5ed1yf6Mj5c1qH4UdKG0) | [СДЕЛАНО В РОССИИ!](https://open.spotify.com/album/4axbg5ljK6uBRLchAwQvpq) | 1:39 | 2024-04-20 |  |
 | [Земля](https://open.spotify.com/track/6quyD8Wm0tLtv10MGn75Gy) | [depressant](https://open.spotify.com/artist/0QolN2zRL8CeSPakMdusN8), [DEXTHBXY](https://open.spotify.com/artist/0CT9CxL6Xso844segqDjZH) | [Земля](https://open.spotify.com/album/2MSAKql0UtG8IspA0mZWX6) | 2:36 | 2024-03-12 | 2024-03-17 |
 | [Зима](https://open.spotify.com/track/2OOCmfWdZxELGk5ilKb5al) | [Diana Gurtskaya](https://open.spotify.com/artist/50g9kiPARUpUOpGCYBYjcD) | [Я люблю Вас всех \- the best](https://open.spotify.com/album/04ivlPz1yQBQzC1fsmtbk1) | 3:43 | 2024-02-13 | 2024-02-20 |
 | [Зомби апокалипсис](https://open.spotify.com/track/4Uyo50Aii7zBknoeqQP7vl) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7), [qeqoqeq](https://open.spotify.com/artist/2kwJ1yvBzcycwMlX8m4UId) | [Зомби апокалипсис](https://open.spotify.com/album/4F040MjuTSe0S1grgYGtt4) | 2:43 | 2024-04-05 |  |
@@ -251,6 +252,7 @@
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 |  |
 | [Мой зайчик](https://open.spotify.com/track/04G01nMm1PQQo7XblK45tt) | [Расстройство](https://open.spotify.com/artist/3Ou9Il1Iz7litecWYtVIDx) | [Мой зайчик](https://open.spotify.com/album/2pAWGNp6wTrNEmxxIfr594) | 1:59 | 2024-04-18 |  |
+| [Мой зайчик \(Speed Up\)](https://open.spotify.com/track/0bPcEKuJivEVARCN3smAiL) | [Расстройство](https://open.spotify.com/artist/3Ou9Il1Iz7litecWYtVIDx) | [4 способа ускориться](https://open.spotify.com/album/30MXzfZ8SaMuTiXLJsr5NT) | 1:55 | 2024-04-20 |  |
 | [Натура](https://open.spotify.com/track/2TyiqrgTUDLP4ecjk44lau) | [Lotor](https://open.spotify.com/artist/5EIz5zSoTBe1AJDM8iAxeo), [Нирт](https://open.spotify.com/artist/4meMSRi1aSpSzT9SZmKmII) | [Натура](https://open.spotify.com/album/1cW0y0mbm5a91c1wO7T5SE) | 3:44 | 2024-03-10 | 2024-03-22 |
 | [Не манипулируй](https://open.spotify.com/track/6sIFftQxRxsDyy0cZlH92l) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ) | [Не манипулируй](https://open.spotify.com/album/5b8xCVRBVV8OpeetQ6VBaB) | 2:15 | 2024-02-13 | 2024-02-27 |
 | [Не переживай](https://open.spotify.com/track/1aELpuvNXAizGG5Rhi49as) | [О!нет](https://open.spotify.com/artist/3IJjHac1HQGP8gmIWIN7nn) | [Не переживай](https://open.spotify.com/album/59OYp4NmmNx4TM2haVowVN) | 3:17 | 2024-01-29 | 2024-04-08 |
@@ -302,7 +304,7 @@
 | [умираю](https://open.spotify.com/track/3zKARtr3fQwtZzNM9bTGMP) | [voidvoice717](https://open.spotify.com/artist/1PYHblB6Pt3VUcUsiLnFHA) | [cry and hunger](https://open.spotify.com/album/0ocP5GoUYRXLyTX7bAzX8u) | 1:40 | 2024-04-04 |  |
 | [Универ](https://open.spotify.com/track/2ybOJtV8rIuktM8OXCNRV3) | [Baby Cute](https://open.spotify.com/artist/6DAzBc6NiyLFSKZ8dmj4Rc) | [Универ](https://open.spotify.com/album/2odHypry9PFeYEu72ROzJ2) | 1:57 | 2024-04-16 | 2024-04-20 |
 | [фенибут](https://open.spotify.com/track/2gBVLOOqlu7he9JFWf5QhH) | [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [фенибут](https://open.spotify.com/album/0QrTjg36rHUIj7HQ0iLeur) | 1:35 | 2024-04-06 | 2024-04-09 |
-| [Харизма](https://open.spotify.com/track/4E7o63UYMF3e8RWOmt0peR) | [Wallem](https://open.spotify.com/artist/2o2CRRCpnDUnTQkZX6xgQj) | [Харизма](https://open.spotify.com/album/5Q9l5TOgQw9yP2GZN28UaD) | 2:16 | 2024-03-26 |  |
+| [Харизма](https://open.spotify.com/track/4E7o63UYMF3e8RWOmt0peR) | [Wallem](https://open.spotify.com/artist/2o2CRRCpnDUnTQkZX6xgQj) | [Харизма](https://open.spotify.com/album/5Q9l5TOgQw9yP2GZN28UaD) | 2:16 | 2024-03-26 | 2024-04-21 |
 | [ХОЛОД](https://open.spotify.com/track/1d1l3aWJPR0dc3sNOHSZz4) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [GOD SYSTEM](https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF) | 1:59 | 2024-04-09 | 2024-04-15 |
 | [Хороший день](https://open.spotify.com/track/7gyoJchTze4gmPCBt7d149) | [Vera Brezhneva](https://open.spotify.com/artist/3QN85cB7Cehb4ZLjpRW2Jt) | [VERVERA](https://open.spotify.com/album/0xMm3ZELQN70XRixRkWLEp) | 3:31 | 2024-03-09 | 2024-03-23 |
 | [Целую](https://open.spotify.com/track/22Gx9ozLJwjo4fBgoSw7y9) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Целую](https://open.spotify.com/album/5MMOUwDx6k2gxYw1CifHY7) | 1:48 | 2024-01-29 | 2024-02-02 |

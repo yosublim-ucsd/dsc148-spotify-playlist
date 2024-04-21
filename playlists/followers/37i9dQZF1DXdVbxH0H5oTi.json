@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 508602,
+  "2024-04-21": 508691,
   "date_first_scraped": "2021-12-30",
   "description": "No procrastination allowed. Only fun songs to help you get chores done.",
   "name": "Get Chores Done",
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY"

@@ -1,5 +1,5 @@
 {
-  "2024-04-20": 44596,
+  "2024-04-21": 44605,
   "date_first_scraped": "2023-09-29",
   "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : ELOI",
   "name": "Courant Alternatif",
@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Johnny Cash",
+        "url": "https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r"
+      },
+      "artists": [
+        {
+          "name": "Julius On The Wave",
+          "url": "https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167730,
+      "name": "Johnny Cash",
+      "url": "https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf"
+    },
+    {
+      "album": {
         "name": "Porte 11",
         "url": "https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4"
       },
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-20",
       "duration_ms": 235000,
       "name": "Serpent Mental",
       "url": "https://open.spotify.com/track/7Mmfq4pv4eaQRqXPjOl3WJ"

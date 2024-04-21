@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,412 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,812 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 24 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 |
 | 25 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 |
 | 26 | [Redemption](https://open.spotify.com/track/0pjLpfnkjmrKAeBpcEX2Rm) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Redemption](https://open.spotify.com/album/5edFcPfFPfmKv1RNuwDNyi) | 3:16 |
-| 27 | [2024 \(feat\. Lil Tjay\)](https://open.spotify.com/track/7hcqv31Jc6a8td13pmGetO) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Splash Brothers 2](https://open.spotify.com/album/57KFoQnigbbz6v8xcqr7XJ) | 2:31 |
+| 27 | [2024 \(feat\. TJ Porter\)](https://open.spotify.com/track/7hcqv31Jc6a8td13pmGetO) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4) | [Splash Brothers 2](https://open.spotify.com/album/57KFoQnigbbz6v8xcqr7XJ) | 2:31 |
 | 28 | [No Knucklin Up](https://open.spotify.com/track/5nO4GuFHM2Z85QusTzn5RY) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2), [Yus Gz](https://open.spotify.com/artist/3RMAZkh3T3IO2EUMuZMlOE), [Nesty Gzz](https://open.spotify.com/artist/7sWzku81OpTXm3H20H97qw) | [No Knucklin Up](https://open.spotify.com/album/7czVv19JISNuWMWW6qe8WL) | 2:52 |
 | 29 | [2Humpy is Back](https://open.spotify.com/track/73harPbJ88fXniW9uHIYMc) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [2Humpy is Back](https://open.spotify.com/album/7MhYVTaSPS0RTKWansikxZ) | 1:54 |
 | 30 | [KEEP UP](https://open.spotify.com/track/3i9DnP6M1EltSZxVPHkBHV) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [KEEP UP](https://open.spotify.com/album/5vuJklO94CG7tJUtJGBoRV) | 2:28 |

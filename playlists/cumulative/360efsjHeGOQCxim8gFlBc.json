@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Flower Fields",
+        "url": "https://open.spotify.com/album/1J0GD3R249Jb1eaQWybgwR"
+      },
+      "artists": [
+        {
+          "name": "charm",
+          "url": "https://open.spotify.com/artist/0TEdQjWX05xRJI7efi3ioE"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Flower Fields",
+      "url": "https://open.spotify.com/track/251T2WKEueswCeH7TBh63l"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/45H0RS2UFB75j6meoyR7nj"
       },
@@ -2093,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/2dNWja5OHnNIrcpS04jtKa"
+      },
+      "artists": [
+        {
+          "name": "Leonard Lehmann",
+          "url": "https://open.spotify.com/artist/2RjlAtCzmNvXw3c2Cryevh"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120900,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/0yZ7YH7sgvZplnP4vGySRv"
+    },
+    {
+      "album": {
         "name": "gentle",
         "url": "https://open.spotify.com/album/6JA3chXmV8FvSBvM34ervY"
       },
@@ -2202,6 +2238,42 @@
       "duration_ms": 168522,
       "name": "golden sunset",
       "url": "https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6"
+    },
+    {
+      "album": {
+        "name": "goodbye",
+        "url": "https://open.spotify.com/album/1ACNyGTgj7Fk8YoR9CR4mC"
+      },
+      "artists": [
+        {
+          "name": "Archish Arun",
+          "url": "https://open.spotify.com/artist/4f5hsDIno1YcAWvudVPyeu"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "goodbye",
+      "url": "https://open.spotify.com/track/0USNWV9YJVTFviRNW74fbA"
+    },
+    {
+      "album": {
+        "name": "grasshopper waltz",
+        "url": "https://open.spotify.com/album/3fz7PiSJbdxReICBRLgXYo"
+      },
+      "artists": [
+        {
+          "name": "Enzo Corne",
+          "url": "https://open.spotify.com/artist/5ldxKdXCYqiOJ360NVVyZA"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73120,
+      "name": "grasshopper waltz",
+      "url": "https://open.spotify.com/track/5QiFtNcW8HdfHWdblIrFd1"
     },
     {
       "album": {
@@ -2540,6 +2612,24 @@
       "duration_ms": 65632,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/0m3g26QiIPYtGjmHI827s6"
+    },
+    {
+      "album": {
+        "name": "i feel so weightless",
+        "url": "https://open.spotify.com/album/2sQJfKPoPARzIIAgyj9TcG"
+      },
+      "artists": [
+        {
+          "name": "pxlse.",
+          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "i feel so weightless",
+      "url": "https://open.spotify.com/track/0ZXoNTJgvUIXSDO7aBXlON"
     },
     {
       "album": {
@@ -5338,6 +5428,24 @@
       "duration_ms": 101243,
       "name": "The Day Before",
       "url": "https://open.spotify.com/track/7xCfDiumTXcUbM8XgEi9gm"
+    },
+    {
+      "album": {
+        "name": "The Empty Library",
+        "url": "https://open.spotify.com/album/07R4np0gTaTWVOVmjcb7Nf"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126568,
+      "name": "The Empty Library",
+      "url": "https://open.spotify.com/track/3q1P2XBEhHbltljXMlvcmv"
     },
     {
       "album": {
